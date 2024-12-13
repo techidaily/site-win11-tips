@@ -1,7 +1,7 @@
 ---
 title: Quick-Fix Guide to .NET Recovery in Windows (Max 156)
-date: 2024-12-03T02:33:41.679Z
-updated: 2024-12-06T22:14:54.268Z
+date: 2024-12-07T18:49:47.363Z
+updated: 2024-12-12T17:48:30.636Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the .NET Framework Repair Tool
 
 ![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An easy way to repair your .NET Framework is to use the official .NET Framework Repair Tool provided by Microsoft on its official website. It is a handy utility that can check for common issues affecting the .NET Framework setup or updates and recommend fixes accordingly.
@@ -58,10 +62,6 @@ To run the .NET Framework Repair Tool
 ![control panel turn windows features on or off 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off-1.jpg)
 5. Here, uncheck**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
 
@@ -77,6 +77,10 @@ After the restart:
 ![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
 5. Once the feature is enabled, click**Restart** to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Repair .NET Framework Using PowerShell
 
  If the issue persists, try reinstalling .NET Framework on your Windows PC using[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
@@ -89,15 +93,20 @@ After the restart:
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `winget install Microsoft.dotNetFramework`
 7. PowerShell will download and extract the package. You will see a successfully installed message once the process is complete.
 8. Restart your PC to apply the changes and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Manually Install an Older .NET Framework Version
 
@@ -112,17 +121,9 @@ To manually install older versions of the .NET Framework:
 5. Next, follow the on-screen instructions to complete the setup.
 6. Restart your PC and then try to install the app to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the System File Checker Tool
 
 ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -157,21 +158,20 @@ To run the System File Checker tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-path-to-apple-podcast-acceptance/"><u>[New] Navigating the Path to Apple Podcast Acceptance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>[New] The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combining-gmail-and-outlook-on-pc-easy-steps-included/"><u>Combining Gmail & Outlook on PC: Easy Steps Included</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-elevate-your-workflow-upgrade-virtualbox-to-version-70-for-w11-users/"><u>How To Elevate Your Workflow: Upgrade VirtualBox to Version 7.0 for W11 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-150-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia 150 (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>In 2024, The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mp3-downloader-for-purevolume-tracks-effortless-conversion-guide/"><u>MP3 Downloader For PureVolume Tracks: Effortless Conversion Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-sea-of-saving-and-restoring-sticky-notes/"><u>Navigating the Sea of Saving and Restoring Sticky Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-failed-application-setup-on-microsoft-store/"><u>Navigating Through Failed Application Setup on Microsoft Store</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>Revolutionize Your Lessons Implementing YouTube in the Academic Realm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-case-for-pc-top-9-arguments-against-macs/"><u>The Case for PC: Top 9 Arguments Against Macs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-quick-and-simple-guide-to-sticky-notes-in-win11/"><u>The Quick and Simple Guide to Sticky Notes in Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-transfer-movies-to-dvd-without-cost-on-pc-or-mac/"><u>Ultimate Guide: Transfer Movies to DVD Without Cost on PC or Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-tech-mysteries-hardware-ids-in-windows-os/"><u>Unraveling Tech Mysteries: Hardware IDs in Windows OS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/path-to-beaming-beauty-expertise-starting-an-online-show-for-2024/"><u>Your Path to Beaming Beauty Expertise Starting an Online Show for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-compelling-youtube-live-content-with-wirecast/"><u>[New] In 2024, Creating Compelling Youtube Live Content with WireCast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-ios-screenshoting-hack/"><u>[New] The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-quality-sound-adjustment-apps-for-content-casters/"><u>[Updated] 2024 Approved High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-ultimate-selection-of-transition-apps/"><u>2024 Approved Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-most-popular-tv-streaming-services-reviewed-for-the-best-experience/"><u>2024'S Most Popular TV Streaming Services Reviewed for the Best Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-degree-of-view-analysis/"><u>In 2024, Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-system-heat-levels-with-windows-os-controls/"><u>Managing System Heat Levels with Windows OS Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-icon-clashing-dilemnas/"><u>Overcome Window's Icon Clashing Dilemnas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-clear-your-account-details-at-login/"><u>Securely Clear Your Account Details at Login</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformez-vos-dvd-en-formats-mobiles-facilement-avec-le-convertisseur-gratuit-winx-dvd-mp4-avi/"><u>Transformez Vos DVD en Formats Mobiles Facilement Avec Le Convertisseur Gratuit WinX DVD (MP4, AVI)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-windows-memory-error-detected-message/"><u>Troubleshooting the Windows Memory Error Detected Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-1011/"><u>Troubleshooting Unresponsive Spotify on Windows 10/11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unraveling-the-meaning-and-usage-of-blue-emoji-in-fb-messages/"><u>Unraveling the Meaning and Usage of Blue Emoji in FB Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-the-archive-feature-on-windows-11/"><u>Utilizing the Archive Feature on Windows 11</u></a></li>
 </ul></div>
 

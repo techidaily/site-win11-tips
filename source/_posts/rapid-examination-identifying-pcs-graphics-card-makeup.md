@@ -1,7 +1,7 @@
 ---
 title: "Rapid Examination: Identifying PC's Graphics Card Makeup"
-date: 2024-12-04T23:32:39.436Z
-updated: 2024-12-06T19:18:25.289Z
+date: 2024-12-09T17:36:37.292Z
+updated: 2024-12-12T23:59:37.696Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Check Your Graphics Card Model via Windows 11's Task Manager
 
  The Task Manager was redesigned in Windows 11 and now boasts a sleek interface that complements its functionality. While users typically use the Task Manager to keep track of running applications and services, you can also use it to figure out your graphic card model name and specs.
@@ -43,7 +39,7 @@ To check the installed graphics card or GPU of your Windows 11 PC:
  Check out[how to use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) for more in-depth instructions on this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Find Your GPU Model Using DirectX on Windows 11
@@ -57,11 +53,7 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 2. Select the**Display** tab to view details of your GPU, including the GPU manufacturer, chip type, dedicated display memory, etc. If you have more than one GPU on your PC, you will see multiple**Display** tabs with details of each GPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Confirm Your Graphics Card Model via the Windows 11 Settings App
@@ -75,11 +67,20 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 3. Under**Related settings** , select**Advanced display** .  
 ![advanced display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-display-settings.jpg)
 4. You can see your GPU make and model under the**Display information** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![display adapter properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/display-adapter-properties-win11.jpg)
 5. For more details, select**Display adapter properties for Display** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get to Know Your GPU Model Better on Windows 11
@@ -101,18 +102,17 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/"><u>[New] Podcast Cover Design Ten Essential Best Practices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-videography-secrets-leveraging-strikethrough-for-impactful-edits/"><u>[New] Videography Secrets Leveraging Strikethrough for Impactful Edits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-streamlined-techniques-for-capturing-stories-on-instagram-for-2024/"><u>[Updated] Streamlined Techniques for Capturing Stories on Instagram for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failed-shadow-copy-procedures/"><u>Addressing Failed Shadow Copy Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-picture-adjustment-on-windows-11-unveiled/"><u>Advanced Techniques for Picture Adjustment on Windows 11 Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-upgrades-to-windows-11s-clipboard-history/"><u>Boosting Efficiency: Upgrades to Windows 11'S Clipboard History</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
-<li><a href="https://solve-info.techidaily.com/intelligent-docx-and-pdf-automation-with-quadrants-spark-2022-matrix-solution/"><u>Intelligent DOCX & PDF Automation with Quadrant's SPARK 2022 Matrix Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719255310971-jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-resolving-nvidia-control-panel-failure-to-launch/"><u>Step-by-Step Guide: Resolving NVIDIA Control Panel Failure to Launch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-moment-openai-releases-gpt-4/"><u>Transformative Moment: OpenAI Releases GPT-4</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-rexing-v1-dash-cam-budget-friendly-and-stealthy-performance/"><u>Unveiling the Rexing V1 Dash Cam: Budget-Friendly & Stealthy Performance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>[Updated] In 2024, IPhone Video Editors Cameo Vs. FilmoraGo Showdown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-zte-axon-40-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-selection-of-webcams-for-professional-zoom-sessions/"><u>Elite Selection of Webcams for Professional Zoom Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-management-through-gpo-refresh-on-pcs/"><u>Enhancing System Management Through GPO Refresh on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-0x800f0831-error-in-windows-10-and-11/"><u>How to Fix a Persistent 0X800f0831 Error in Windows 10 and 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722860330733-is-switching-to-a-wi-fi-mesh-network-a-smart-move-find-out-here/"><u>Is Switching to a Wi-Fi Mesh Network a Smart Move? Find Out Here!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-10-text-message-services-ranked-top-picks-for-iphones-and-android-smartphones/"><u>Leading 10 Text Message Services Ranked: Top Picks for iPhones and Android Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221745103-movavimp4mov/"><u>Movaviで免責のMP4へMOVファイルの変換 – 簡単な方法と使い方</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrive-off-a-simple-guide-for-window-explorer-users/"><u>OneDrive Off - A Simple Guide for Window Explorer Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-experience-with-no-more-v-rising-lag-on-your-computer/"><u>Smooth Gaming Experience with No More V Rising Lag on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-decreasing-background-computation/"><u>Strategies for Decreasing Background Computation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-checklist-to-master-before-system-restart/"><u>The Key Checklist to Master Before System Restart</u></a></li>
 </ul></div>
 

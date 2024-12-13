@@ -1,7 +1,7 @@
 ---
 title: Ensuring Admin Command Execution Without Hurdles
-date: 2024-08-23T07:05:18.547Z
-updated: 2024-08-24T07:05:18.547Z
+date: 2024-12-06T23:56:02.543Z
+updated: 2024-12-12T17:56:03.222Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Run as Administrator Not Working?
 
  Before you start fixing things, you must understand what causes this issue. In general, you may experience Run as administrator not working due to the following reasons:
@@ -31,13 +35,14 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
@@ -73,15 +78,13 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Clean up the Context Menu
 
  When you right-click on a program or file, you often see the Run as administrator option in the context menu. If it's missing, you should look at your context menu entries for clutter.
@@ -98,15 +101,13 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 5. Next, expand the **ContextMenuHandlers** folder and look for any suspicious entries. If you find any, delete them.  
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try Some Generic Fixes
 
  Besides the fixes mentioned above, some generic solutions work in any situation. Try these out if you’re still having issues running applications with elevated privileges:
@@ -116,8 +117,9 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 * [Create a New Administrator User Account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/): If all else fails, try creating a new administrator user account and logging in. This ascertains if your existing account is corrupted or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshooting Run as Administrator on Windows
 
  We hope this guide helped you solve the Run as administrator not working on Windows issue. Despite the prevalence of this problem, it’s relatively easy to fix if you know what to do.
@@ -126,11 +128,31 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/iscover-the-top-free-platforms-for-youtube-ops/"><u>[New] Discover the Top Free Platforms for YouTube Ops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dynamic-stabilizer-for-steady-videography/"><u>[New] In 2024, Dynamic Stabilizer for Steady Videography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-imitation-ai-uncovering-bogus-chatgpt-applications-on-ios-platforms/"><u>Avoiding Imitation AI: Uncovering Bogus ChatGPT Applications on iOS Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/elusive-engagement-keeping-fb-content-out-of-public-view/"><u>Elusive Engagement: Keeping Fb Content Out of Public View</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-and-productivity-discover-powertoys-top-usage-tips/"><u>Enhance Efficiency & Productivity: Discover PowerToys' Top Usage Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-retrieve-lost-pin-post-corruption-in-windows-11/"><u>Guide to Retrieve Lost PIN Post-Corruption in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/how-are-podcasters-paid/"><u>How Are Podcasters Paid?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-installation-package-could-not-be-opened-error-in-windows-1110/"><u>How to Fix the “This Installation Package Could Not Be Opened” Error in Windows 11/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v29e-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V29e</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-tactics-crafting-novel-windows-folders/"><u>Innovative Tactics: Crafting Novel Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installed-success-microsoft-works-in-windows-1011/"><u>Installed Success: Microsoft Works in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-recovery-strategies-for-legacy-and-new-windows-versions/"><u>Key Recovery Strategies for Legacy and New Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-insights-discovering-your-graphics-card-type-window-11/"><u>Speedy Insights: Discovering Your Graphics Card Type, Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-filing-methods-for-efficient-workflow-in-win-os-max-156/"><u>Top Filing Methods for Efficient Workflow in Win OS (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-read-issues-a-guide/"><u>Troubleshooting Disk Read Issues: A Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-asus-bw-16d1x-u-review-when-style-meets-subtle-flaws-in-a-blu-ray-drive/"><u>Unveiling the Asus BW-16D1x-U Review: When Style Meets Subtle Flaws in a Blu-Ray Drive</u></a></li>
+</ul></div>
+

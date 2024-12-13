@@ -1,7 +1,7 @@
 ---
 title: Undoing Greyed Out Bin Fixes on Win11
-date: 2024-08-23T07:07:16.853Z
-updated: 2024-08-24T07:07:16.853Z
+date: 2024-12-11T18:17:32.240Z
+updated: 2024-12-12T17:05:34.667Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
 
  The Group Policy Editor lets you show or hide the Recycle Bin icon from the desktop. Check if you have modified and accidentally disabled the Recycle Bin group policy recently. If so you can set the Remove Recycle Bin icon from the desktop policy to "Not Configured" which will restore it.
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
 ![edit remove recycle bin icon from settings gpedit policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy.jpg)
 5. In the **Properties** dialog, select **Not Configured**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
@@ -48,11 +57,24 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 3. Click on **Themes**.  
 ![desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/desktop-icon-settings-windows-11.jpg)
 4. Click on **Desktop icon settings** under the **Related settings** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
 
@@ -77,16 +99,11 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
  An incorrectly modified group policy can gray out the Recycle Bin icon in the Desktop Icon Settings dialog. Fortunately, it's an easy fix, and you should now have your Recycle Bin back to how you like it.
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +111,22 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-excellent-7-mac-videos-players-reviewed/"><u>[New] 2024 Approved Excellent 7 Mac Videos Players Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-top-cover-photo-creators-facebook-edition-top-11-list/"><u>[New] In 2024, Top Cover Photo Creators Facebook Edition - Top 11 List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-10-best-4k-gaming-laptops-for-2024/"><u>[Updated] TOP 10 Best 4K Gaming Laptops for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-black-screen-post-windows-bootup/"><u>Diagnosing Black Screen Post-Windows Bootup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-microsoft-word-to-prefer-text-display-for-mail-attachments/"><u>Directing Microsoft Word to Prefer Text Display for Mail Attachments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-with-manycams-advanced-live-streaming-and-digital-webcam-solutions/"><u>Enhance Your Broadcasts with ManyCam's Advanced Live Streaming and Digital Webcam Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-invalid-path-in-windows-operating-systems/"><u>Fixing Invalid Path in Windows Operating Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-seipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-to-tweaking-network-properties-on-windows-pcs-with-the-help-of-yls-expertise/"><u>Step-by-Step Guide to Tweaking Network Properties on Windows PCs with the Help of YL's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-win-telnet-activation-3-methods/"><u>The Essential Guide to Win Telnet Activation (3 Methods)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-right-way-to-hibernate-windows-computers/"><u>The Right Way to Hibernate Windows Computers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/try-aomei-backupper-for-free-with-30-day-test-version-secure-your-files-without-costs/"><u>Try AOMEI Backupper for Free with 30-Day Test Version - Secure Your Files Without Costs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-impact-on-data-loss-when-removing-an-icloud-backup-proceed-with-caution/"><u>Understanding the Impact on Data Loss when Removing an iCloud Backup - Proceed with Caution</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-update-9-tactics-against-steady-verify-failures/"><u>Unlock Windows Update: 9 Tactics Against Steady Verify Failures</u></a></li>
+</ul></div>
+

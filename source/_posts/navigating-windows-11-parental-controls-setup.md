@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 Parental Controls Setup
-date: 2024-12-03T17:16:10.640Z
-updated: 2024-12-06T22:50:19.995Z
+date: 2024-12-08T21:20:40.935Z
+updated: 2024-12-12T23:51:03.611Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows 11's Parental Control Feature
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  Press**Win + I** to launch Settings and click**Accounts > Family & other users** . There, click**Manage family settings online or remove an account** .
 
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
 
@@ -67,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
 
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
@@ -91,21 +95,17 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![How to filter content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/filter-content-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Your Kids Safe on Windows 11
 
@@ -126,18 +126,24 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-youtube-views-secrets-for-a-million-followers/"><u>[Updated] In 2024, Mastering Youtube Views Secrets for a Million Followers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-virtual-upgrade-social-story-snipper/"><u>2024 Approved Virtual Upgrade Social Story Snipper</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-c51-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-spotify-playlists-into-a-youtube-music-format/"><u>Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-red-x-symbols-in-computer-file-systems/"><u>Demystifying Red “X” Symbols in Computer File Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-network-drive-integration-with-macos-sierra-or-newer/"><u>Easy Steps for Network Drive Integration with macOS Sierra or Newer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-repair-systemsettings-glitches-in-win11/"><u>How to Repair SystemSettings Glitches in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v29e-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V29e Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-microphone-windows-11-recording-guide/"><u>Mastering Microphone: Windows 11 Recording Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-windows-service-non-responder-error/"><u>Strategies for Fixing Windows Service Non-Responder Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-complicated-update-to-v22h2-process/"><u>Tackling Windows 11'S Complicated Update to V22H2 Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-loaded-screen-woes-lol/"><u>Winning Strategies for Loaded-Screen Woes (LOL)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-pixelpie-editor/"><u>[New] In 2024, PixelPie Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-integrate-youtube-content-for-dynamic-google-slides/"><u>[Updated] Integrate YouTube Content for Dynamic Google Slides</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-the-secrets-of-striking-youtube-live-images-for-2024/"><u>[Updated] Unveiling the Secrets of Striking YouTube Live Images for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-face-makeovers-simplified-best-apps-for-ios-and-android/"><u>2024 Approved Face Makeovers Simplified Best Apps for iOS and Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/analyzing-the-high-end-gopro-hero9-black/"><u>Analyzing the High-End GoPro HERO9 Black</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blur-effective-strategies-for-screen-stability/"><u>Banish Blur: Effective Strategies for Screen Stability</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/channeling-tweets-to-facebook-viewers-efficiently-for-2024/"><u>Channeling Tweets to Facebook Viewers Efficiently for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-steps-for-windows-error-0xc0000001-fixing/"><u>Comprehensible Steps for Windows Error 0xC0000001 Fixing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-overcoming-the-windows-0x80860010-application-error/"><u>Decoding and Overcoming the Window's 0X80860010 Application Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12t-pro-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 12T Pro has native HEVC support?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-experience-with-messenger-solutions/"><u>Enhance Windows Experience with Messenger Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-defaulting-windows-setup-after-system-shutdown/"><u>Guide to Defaulting Windows Setup After System Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-gems-unique-windows-11-designs/"><u>Hidden Gems: Unique Windows 11 Designs</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-is-currently-in-use-on-pc/"><u>Overcoming Printer Is Currently in Use on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-the-windows-tool-for-system-insights/"><u>Repairing the Windows Tool for System Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-windows-update-issue-error-0x800f080a/"><u>Troubleshooting Steps for Windows Update Issue: Error 0X800F080A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-choosing-windows-video-tools/"><u>Ultimate Guide to Choosing Windows Video Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-fb-and-instas-latest-test-of-sponsored-story-stickers/"><u>Unveiling FB and Insta's Latest Test of Sponsored Story Stickers</u></a></li>
 </ul></div>
 

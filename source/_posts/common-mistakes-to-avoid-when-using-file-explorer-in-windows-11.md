@@ -1,7 +1,7 @@
 ---
 title: Common Mistakes to Avoid When Using File Explorer in Windows 11
-date: 2024-12-03T21:58:21.161Z
-updated: 2024-12-06T17:34:50.509Z
+date: 2024-12-07T21:28:02.390Z
+updated: 2024-12-12T23:52:12.997Z
 tags:
   - windows10
   - windows11
@@ -29,18 +29,26 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Neglecting Keyboard Shortcuts
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
@@ -58,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
@@ -106,16 +110,12 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
@@ -129,23 +129,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enlightening-your-youtube-footage-with-proper-lighting/"><u>[Updated] In 2024, Enlightening Your YouTube Footage with Proper Lighting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>2024 Approved User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-check-your-ram-type-on-windows/"><u>4 Easy Ways to Check Your RAM Type on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-resolving-steam-setup-problems-win11-edition/"><u>A Practical Guide to Resolving Steam Setup Problems, Win11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-serenity-windows-sleep-mode-guide/"><u>Achieving Serenity: Windows Sleep Mode Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-sudden-screen-blackouts-in-winsteam/"><u>Addressing Sudden Screen Blackouts in WinSteam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-display-drivers-that-dont-launch-in-windows-10/"><u>Avoiding Display Drivers That Don’t Launch in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-performance-by-enabling-automatic-file-deletion-in-winos/"><u>Boost System Performance by Enabling Automatic File Deletion in WINOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/camera-face-off-which-succeeds-more-pixel-cuisine-of-the-camera-showdown-between-pixel-9-pro-xl-and-iphone-15-pro/"><u>Camera Face-Off: Which Succeeds More, Pixel Cuisine of the Camera Showdown Between Pixel 9 Pro XL and iPhone 15 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gebruikleusend-mp4-naar-wmv-online-konvertor-vrije-movavi-toolen/"><u>Gebruikleusend MP4 Naar WMV Online Konvertor - Vrije Movavi Toolen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-complete-obs-android-manual-for-professionals-for-2024/"><u>The Complete OBS Android Manual for Professionals for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209681282-the-resolution-to-your-olive-obstacle-in-nba-2k21-solving-steps-unpacked/"><u>The Resolution to Your Olive Obstacle in NBA 2K21 - Solving Steps Unpacked</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +136,21 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-screenplay-blueprint-unveiled/"><u>[New] In 2024, Screenplay Blueprint Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-screen-snapping-tips-to-enhance-your-gaming-experience/"><u>2024 Approved Essential Screen-Snapping Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-superior-recording-devices-face-camera-included/"><u>2024 Approved Superior Recording Devices - Face Camera Included</u></a></li>
+<li><a href="https://article-tips.techidaily.com/capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-mastery-windows-task-scheduler-for-batches/"><u>Command Line Mastery: Windows Task Scheduler for Batches</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-12-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme 12 5G Phone?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-crash-code-9999-in-win-based-audacity-software/"><u>Steering Clear of Crash Code 9999 in Win-Based Audacity Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-new-iphone-photo-cutout-feature-in-ios-16/"><u>Step-by-Step Guide: Mastering the New iPhone Photo Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-graphics-memory-in-windows-10-and-11/"><u>Supercharge Your PC Graphics Memory in Windows 10 & 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-economics-of-successful-podcasting-for-2024/"><u>The Economics of Successful Podcasting for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-windows-chrome-problems/"><u>Unclogging Windows Chrome Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-pin-related-connectivity-issues-in-windows-1110/"><u>Unlock PIN-Related Connectivity Issues in Windows 11/10</u></a></li>
+</ul></div>
+

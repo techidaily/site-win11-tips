@@ -1,7 +1,7 @@
 ---
 title: Enhance Windows App Connectivity with Top Fixes and Troubleshooting Steps
-date: 2024-12-04T18:57:32.015Z
-updated: 2024-12-06T17:22:21.074Z
+date: 2024-12-10T19:47:25.925Z
+updated: 2024-12-13T01:32:18.474Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Windows Defender Firewall
 
  Windows Defender Firewall keeps track of all apps and programs that connect to the internet. As a precautionary measure, it may occasionally block an app's internet access and display the “Windows Defender Firewall has blocked some features of this app” security alert. This is one of the most common reasons why an app may fail to connect to the internet on Windows.
@@ -47,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run Windows Troubleshooters
 
@@ -68,10 +68,6 @@ To run Windows Store Apps troubleshooter:
 
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset Microsoft Store Cache
 
  A damaged Microsoft Store cache could affect Windows apps and prevent them from functioning properly. When this happens, you’ll face all kinds of issues with your apps, including the one discussed here.
@@ -84,10 +80,6 @@ To run Windows Store Apps troubleshooter:
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -98,6 +90,14 @@ To run Windows Store Apps troubleshooter:
 4. Click on**Proxy** .
 5. Disable the**Automatically detect settings** option.  
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Winsock Settings
 
@@ -110,10 +110,6 @@ To run Windows Store Apps troubleshooter:
 `netsh winsock reset`
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset Network Settings
 
@@ -128,6 +124,10 @@ To reset network settings on Windows:
 5. Click the**Reset now** button.
 6. Select**Yes** to confirm.  
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
@@ -160,14 +160,20 @@ To reset network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-viral-video-evolution-youtubes-favorites/"><u>[Updated] Viral Video Evolution YouTube's Favorites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-methods-for-removing-a-disks-partition-in-windows/"><u>3 Methods for Removing a Disk's Partition in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aging-gracefully-upgrading-your-familys-old-computer/"><u>Aging Gracefully: Upgrading Your Family’s Old Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/anecdotal-insights-into-seamless-windows-11-setup/"><u>Anecdotal Insights Into Seamless Windows 11 Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/black-friday-bonanza-get-your-deal-612-for-eternal-windows-10/"><u>Black Friday Bonanza: Get Your Deal - $6.12 for Eternal Windows 10</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/comprehensive-insight-on-diskgenius-advantages-disadvantages-and-overall-assessment/"><u>Comprehensive Insight on DiskGenius: Advantages, Disadvantages & Overall Assessment</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/cutting-edge-technology-of-nikon-d7500-reviewed/"><u>Cutting-Edge Technology of Nikon D7500 Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-holistic-editing-experience-panoramashift-evolution/"><u>[New] In 2024, Holistic Editing Experience PanoramaShift Evolution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-thumbnail-wizardry-top-8-tools-to-boost-view-counts/"><u>[New] In 2024, Thumbnail Wizardry Top 8 Tools to Boost View Counts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>[New] In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-10-best-free-video-conferencing-with-screen-sharing/"><u>[Updated] 10 Best Free Video Conferencing With Screen Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-device-uptime-a-comprehensive-guide-for-windows-11-users/"><u>Dive Into Device Uptime: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-software-installation-windows-11s-toolkit/"><u>Enhancing Software Installation: Windows 11’S Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-game-installations-in-ms-store/"><u>Fixing Failed Game Installations in MS Store</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-iphone-video-editing-essentials-top-picks/"><u>In 2024, IPhone Video Editing Essentials Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-photo-size-in-windows-11-with-these-top-6-tips/"><u>Master Your Photo Size in Windows 11 with These Top 6 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/narrowing-down-user-rights-settings-on-everyday-windows-pcs/"><u>Narrowing Down User Rights Settings on Everyday Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-eliminate-windows-11s-search-visibility/"><u>Proven Methods: Eliminate Windows 11'S Search Visibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-supercharge-your-steam-decks-dock-use/"><u>Step-By-Step Guide to Supercharge Your Steam Deck's Dock Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-undercover-guide-to-enhancing-your-window-11-experience/"><u>The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-the-ultimate-windows-10-history-cleanup/"><u>Uncover & Purge: The Ultimate Windows 10 History Cleanup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-users-bitter-experiences-counted/"><u>Windows 11: Users' Bitter Experiences Counted</u></a></li>
 </ul></div>
 

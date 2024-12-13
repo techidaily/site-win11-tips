@@ -1,7 +1,7 @@
 ---
 title: Deactivating Random Openings of File Explorer
-date: 2024-08-23T07:06:33.413Z
-updated: 2024-08-24T07:06:33.413Z
+date: 2024-12-06T21:19:55.037Z
+updated: 2024-12-13T00:31:21.676Z
 tags:
   - windows10
   - windows11
@@ -63,8 +63,9 @@ To run the System Maintenance troubleshooter on Windows:
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
 ## 5\. Check for Corrupted System Files
@@ -74,8 +75,9 @@ To run the System Maintenance troubleshooter on Windows:
  If you need help running these tools, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Scan for Malware
 
  Aside from corrupted system files, malware and viruses on your PC can also disrupt Windows processes and cause File Explorer to open at random. To overrule this possibility, you can run a full system scan on your computer using Microsoft Defender or a third-party antivirus program you trust. You could even[make use of Microsoft Defender's offline scan feature](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for a deep scrub.
@@ -91,13 +93,15 @@ To run the System Maintenance troubleshooter on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on[how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
@@ -105,27 +109,22 @@ To run the System Maintenance troubleshooter on Windows:
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +133,18 @@ To run the System Maintenance troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2024-highlights-discover-top-ranking-laptop-innovations-featured-in-zdnets-comprehensive-guide/"><u>CES 2024 Highlights: Discover Top-Ranking Laptop Innovations Featured in ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conversational-uk-style-learn-easy-phrases/"><u>Conversational UK Style: Learn Easy Phrases</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-brother-l2540dw-printer-driver-on-your-windows-pc-step-by-step-guide/"><u>Download and Install the Brother L2540dw Printer Driver on Your Windows PC - Step by Step Guide</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/download-gratis-il-migliore-decodeur-dvd-compatibile-con-tutti-i-dvd-domestici/"><u>Download Gratis Il Migliore Decodeur DVD Compatibile Con Tutti I DVD Domestici</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-utilization-despite-high-cpuram-demands-from-unrealcefsubprocess/"><u>Efficient PC Utilization Despite High CPU/RAM Demands From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-with-updated-creative-webcam-drivers-for-windows/"><u>Ensure Optimal Performance with Updated Creative Webcam Drivers for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-significance-of-build-numbers-on-windows/"><u>Exploring the Significance of Build Numbers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-split-view-malfunctions/"><u>Immediate Actions for Split View Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rearranging-your-onedrive-storage-path-on-windows-10/"><u>Rearranging Your OneDrive Storage Path on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-dell-xps-13-plus-9320-premium-business-laptop-for-on-the-go-professionals/"><u>Ultimate Guide to Dell XPS 13 Plus (9320): Premium Business Laptop for On-the-Go Professionals</u></a></li>
+</ul></div>
 

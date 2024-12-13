@@ -1,7 +1,7 @@
 ---
 title: Cutting the Wire for Win11 Setup
-date: 2024-12-04T18:42:14.512Z
-updated: 2024-12-06T17:10:54.458Z
+date: 2024-12-08T16:29:18.711Z
+updated: 2024-12-12T17:41:44.408Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
 ![lets connect you to a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/lets-connect-you-to-a-network.png)
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  Windows 11, however, stops at the "Let’s connect you to a network" screen with the "Next" button grayed out. Windows 11 Pro, Enterprise and Education users can click on "I don’t have internet" and proceed to complete the setup with a local user account; however, Home edition users don't have this option.
 
  Here are a few workarounds to install Windows 11 Home without an active Internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Bypass Out-of-the-Box-Experience (OOBE) Internet Requirement
 
@@ -62,11 +54,15 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 4. Click **Install Now.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 5. Next, click on **Continue with limited setup.**  
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
 
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Type **exit** in the Command Prompt and hit enter.
@@ -114,12 +114,16 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
  Now you will be back in the setup wizard. It will show some loading animation and then proceed to the next step. Here enter your name and password to [create a local user account in Windows 11](http://www.makeuseof.com/ways-to-create-local-user-account-windows/) and complete the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Directly Kill Network Connection Flow Using the Command Prompt
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -148,27 +148,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-click-magic-secrets-to-stunning-polished-pics/"><u>[New] In 2024, Click Magic Secrets to Stunning, Polished Pics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Moto G Stylus (2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-enhanced-ui-in-windows-11/"><u>Discovering Enhanced UI in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-perfection-v600-printer-driver-download-free-and-compatible/"><u>Epson Perfection V600 Printer Driver Download - Free and Compatible</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-fixing-common-skype-connection-issues/"><u>Essential Guide: Fixing Common Skype Connection Issues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-kodak-printer-software-fast-free-downloads-and-updates/"><u>Get the Latest Kodak Printer Software - Fast, Free Downloads and Updates!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-pagefilesys-affect-your-computers-performance-and-safety/"><u>How Does Pagefile.sys Affect Your Computer’s Performance & Safety?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-comedic-content-coder/"><u>In 2024, Comedic Content Coder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-eliminating-interrupt-error-on-windows-1011/"><u>Methods for Eliminating INTERRUPT Error on Windows 10/11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use/"><u>New Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-fps-in-csgo-on-windows-platforms/"><u>Optimize FPS in CS:GO on Windows Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seize-savings-unveil-windows-11-pro-key-deals/"><u>Seize Savings: Unveil Windows 11 Pro Key Deals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-teams-hurdle-80080300-on-win11-systems/"><u>Tackling Microsoft Teams Hurdle #80080300 on Win11 Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +155,25 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-understanding-the-edge-of-av1-in-video-encoding/"><u>[New] 2024 Approved Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-professional-insight-into-accurate-and-clear-vr-recording-for-2024/"><u>[New] Professional Insight Into Accurate and Clear VR Recording for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-view-youtube-statistics/"><u>2024 Approved How to View YouTube Statistics?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-8-support-systems-for-high-res-4k-cameras/"><u>2024 Approved Ideal 8 Support Systems for High Res 4K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/color-theory-and-how-to-use-it-for-2024/"><u>Color Theory And How To Use It for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-corrupt-elements-from-windows-security/"><u>Eradicating Corrupt Elements From Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keyboard-tricks-for-windows-photos/"><u>Essential Keyboard Tricks for Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluating-windows-11s-widget-features-are-they-valuable/"><u>Evaluating Windows 11'S Widget Features - Are They Valuable?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-dealing-with-unexpected-windows-alerts/"><u>Expert Guide to Dealing with Unexpected Windows Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-non-initialized-disks-on-your-computer/"><u>How to Address Non-Initialized Disks on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-a-hyperlapse-video-for-2024/"><u>How to Make A Hyperlapse Video for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nubia-z50-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nubia Z50 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-savings-bargain-hunting-keys-aficionados-win-at-612lifetime-windows-11/"><u>Jumpstart Savings: Bargain-Hunting Keys Aficionados Win at $6.12/Lifetime Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-writable-errors-for-files-in-windows/"><u>Rectifying Writable Errors for Files in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-next-big-leap-in-computing-how-apples-integration-of-generative-ai-could-transform-the-mac-user-journey/"><u>The Next Big Leap in Computing: How Apple's Integration of Generative AI Could Transform the Mac User Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-undisclosed-pathways-to-add-secret-menus-in-windows-11/"><u>The Undisclosed Pathways to Add Secret Menus in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-oleauto32dll-not-detected-errors-top-tips-and-fixes/"><u>Troubleshooting OleAuto32.dll Not Detected Errors – Top Tips and Fixes</u></a></li>
+</ul></div>
+

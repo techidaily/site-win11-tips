@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Methods for Heic to JPEG Switch on Windows 11
-date: 2024-12-04T18:50:00.015Z
-updated: 2024-12-06T20:59:23.154Z
+date: 2024-12-09T01:41:26.504Z
+updated: 2024-12-13T02:05:42.753Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 7. Then select**Next** \>**Install** to add the new HEIC conversion context menu option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that CopyTrans HEIC is installed, it's time to convert your files:
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then CopyTrans will convert the selected images to JPEG format without any kind of confirmation window popping up. It will save new JPG files for the HEIC images in the same folder. You’ll need to click on a different folder and then return to the directory that includes the HEIC images to see new files.
 
  CopyTrans HEIC for Windows doesn’t have any kind of user interface. So, there isn’t any way you can configure what folder converted output gets saved in or change any other settings.
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 5. Select FoneTool’s**Install Now** option.  
 ![The FoneTool setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fonetool-setup-window.jpg)
 6. Click**Enjoy Now** to exit the installation and start FoneTool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now it's time to convert images with FoneTool:
 
@@ -98,13 +98,13 @@ Now it's time to convert images with FoneTool:
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
@@ -114,27 +114,28 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
 
@@ -155,20 +156,16 @@ Now it's time to convert images with FoneTool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-safeguard-against-youtube-prohibitions/"><u>[Updated] 2024 Approved How to Safeguard Against Youtube Prohibitions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>[Updated] From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>[Updated] In 2024, Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-ways-to-command-chatgpt-voice-based-control-methods/"><u>5 Ways to Command ChatGPT: Voice-Based Control Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-win-valorant-resolving-01kbs-downloads/"><u>Boosting Win-Valorant: Resolving 0.1KB/S Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-windows-1011-functionality-add-diskspace-analyzer-menu-feature/"><u>Boosting Windows 10/11 Functionality: Add DiskSpace Analyzer Menu Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-windows-cars-a-guide-to-free-upgrade-titans/"><u>Boosting Windows Cars: A Guide to Free Upgrade Titans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-steam-error-dealing-with-content-restrictions/"><u>Breaking Through Steam Error: Dealing with Content Restrictions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-obstacles-solutions-for-uninstalled-optional-functions-on-windows-os/"><u>Bypassing Obstacles: Solutions for Uninstalled Optional Functions on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-past-trials-revisiting-game-accomplishments-on-steam/"><u>Bypassing Past Trials: Revisiting Game Accomplishments on Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-windows-time-limited-lock/"><u>Bypassing the Window's Time-Limited Lock</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/explore-tools-that-beat-sharex-performance/"><u>Explore Tools That Beat ShareX Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-ace-2-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus Ace 2 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-recommendations-best-iphone-tones-designers-for-2024/"><u>Premier Recommendations Best iPhone Tones Designers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>[New] In 2024, Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-transforming-ideas-into-videos-top-30-strategies/"><u>[Updated] In 2024, Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-plan-for-eradicating-wsl-on-windows/"><u>Comprehensive Plan for Eradicating WSL on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-obtain-lexars-usb-driver-with-one-click/"><u>Effortless Installation: Obtain Lexar's USB Driver with One Click</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-techniques-for-effective-dual-monitor-setup-on-apple-laptops/"><u>Essential Techniques for Effective Dual Monitor Setup on Apple Laptops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-use-snap-camera-on-google-meet-in-2024/"><u>How to Use Snap Camera on Google Meet, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-vac-error-on-windows/"><u>Mastering the Art of Clearing VAC Error on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-footage-variety-in-your-video-production/"><u>Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-saving-techniques-for-old-files-in-windows-oses/"><u>Time-Saving Techniques for Old Files in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-windows-error-code-0x8007007e/"><u>Unraveling and Fixing Windows Error Code: 0X8007007E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029721705-ogg/"><u>ウェブムビデオから音声抽出とOGG変換の具体的方法</u></a></li>
 </ul></div>
 

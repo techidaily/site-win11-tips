@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Strategies to Rectify Inactive WSReset Service
-date: 2024-12-02T20:15:09.899Z
-updated: 2024-12-07T00:24:47.750Z
+date: 2024-12-06T16:47:38.070Z
+updated: 2024-12-12T19:16:04.578Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix WSReset.exe Not Working on Windows
 
@@ -50,14 +54,10 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
 
@@ -65,11 +65,11 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
 
- Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
 ## 3\. Repair and Reset Windows Store
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
  Follow the onscreen instructions and restart your computer when it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
  If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -118,14 +118,14 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ![Clear the Microsoft Store Cache via the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-microsoft-store-cache-via-the-registry.jpg)
 10. Right-click on it and select **Delete**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
 12. Close the Registry Editor and restart your PC.
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Microsoft Store
 
@@ -145,26 +145,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
  However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-incorporating-informative-commentary-in-youtube-videos-for-2024/"><u>[Updated] The Ultimate Guide Incorporating Informative Commentary in YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>2024 Approved The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-video-resizing-tools-of-2023-ultimate-guide-to-adjusting-video-quality-on-your-computer-and-web/"><u>Best Video Resizing Tools of 2023: Ultimate Guide to Adjusting Video Quality on Your Computer & Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-games-reimagined-utilizing-retroarchs-shaders-effectively/"><u>Classic Games Reimagined: Utilizing RetroArch's Shaders Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-visual-performance-the-ultimate-vram-boosters/"><u>Elevating Visual Performance: The Ultimate VRAM Boosters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-system-features-on-windows-11-devices/"><u>Fine-Tuning System Features on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/highlighting-key-features-windows-11-feb-update/"><u>Highlighting Key Features: Windows 11, FEB Update</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-e13-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto E13 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-razer-synapse-not-detecting-razer-devices-in-windows-10-and-11/"><u>How to Fix Razer Synapse Not Detecting Razer Devices in Windows 10 & 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-approaches-to-solve-elevation-prompt-issues-on-winos/"><u>Masterful Approaches to Solve Elevation Prompt Issues on WINOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-os-setup-a-guide-to-installing-win11-in-vmware-17/"><u>Optimizing OS Setup: A Guide to Installing Win11 in VMWare 17</u></a></li>
-<li><a href="https://blog-min.techidaily.com/passos-detalhados-para-modificar-a-funcao-de-zoom-na-plataforma-movavi/"><u>Passos Detalhados Para Modificar a Função De Zoom Na Plataforma Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-10t-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 10T 5G Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/why-does-my-photo-booth-videos-keep-freezing-in-2024/"><u>Why Does My Photo Booth Videos Keep Freezing, In 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +152,27 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-a-closer-look-at-the-vivavideo-interface/"><u>[Updated] A Closer Look at the VivaVideo Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-airwaves-dismissing-error-a00f4289-in-win11-webcam/"><u>Clearing the Airwaves: Dismissing Error A00F4289 in Win11 Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-gaming-on-windows-11-mastering-amd-graphics-driver-updates/"><u>Cutting-Edge Gaming on Windows 11: Mastering AMD Graphics Driver Updates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-fixes-eliminating-wwe-2k23-hitches-on-windows-11/"><u>Faster Fixes: Eliminating WWE 2K23 Hitches on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-performers-the-leading-8k-camera-lineup/"><u>In 2024, Best Performers The Leading 8K Camera Lineup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ps1-classics-on-your-desktop-the-best-emulators-reviewed/"><u>In 2024, PS1 Classics on Your Desktop The Best Emulators Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-nord-n30-se-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus Nord N30 SE for Parents | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/instantaneous-strategies-for-silencing-auditory-ground-hum/"><u>Instantaneous Strategies for Silencing Auditory Ground Hum</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-cell-styling-efficient-techniques-for-organizing-contacts-call-details-in-ms-office-excel/"><u>Mastering Cell Styling: Efficient Techniques for Organizing Contacts' Call Details in MS Office Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-management-via-powertoys-lockmaster/"><u>Optimizing File Management via PowerToys Lockmaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicken-your-load-time-at-ms-store-purchases/"><u>Quicken Your Load Time at MS Store Purchases</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-non-detection-of-razers-by-synapse-in-windows-11/"><u>Resolving Non-Detection of Razers by Synapse in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-start-the-best-new-pc-toolkit/"><u>Seamless Start: The Best New PC Toolkit</u></a></li>
+<li><a href="https://common-error.techidaily.com/technical-twilight-pc-unwakable-in-sleep-mode/"><u>Technical Twilight: PC Unwakable in Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-sound-checks-in-powerpoint-presentations/"><u>Techniques for Sound Checks in PowerPoint Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unclutter-your-screen-memory-with-these-methods/"><u>Unclutter Your Screen Memory with These Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-a56s-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A56s 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-devices-secrets-with-windows-know-how/"><u>Unlocking Your Devices' Secrets with Windows Know-How</u></a></li>
+</ul></div>
+

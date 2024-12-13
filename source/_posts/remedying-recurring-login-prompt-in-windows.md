@@ -1,7 +1,7 @@
 ---
 title: Remedying Recurring Login Prompt in Windows
-date: 2024-12-01T17:02:11.984Z
-updated: 2024-12-06T17:43:55.345Z
+date: 2024-12-11T22:57:22.672Z
+updated: 2024-12-12T21:57:33.366Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Modify the Advanced Sharing Settings
 
  An incorrectly set Advanced Sharing setting is one of the most common causes of this error. Ideally, your PC should be allowed to manage homegroup connections. You can also use the Advanced Sharing settings page to disable password-protected sharing, which will allow you to share files without needing to log in.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  After you've transferred the files, re-enable password-protected sharing so that others don't get easy access to your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use Your Microsoft Account Credentials or the Computer's Name
 
  You can also try logging onto the target PC using the Microsoft account credentials instead of the local username and password.
@@ -59,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
  Alternatively, you can also try using the name of the computer you are using alongside your username in the text field associated with the Username. Do not enter a space, bar, or any other symbol between the names.
 
  If the problem is associated with the credentials, one of these two methods is likely to help you get rid of it for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Manually Add the Credentials of the Target Computer to the Credential Manager
 
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 2. Select **Windows Credential** and click on **Add a Windows Credential**.  
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Create a New User Account on Both Devices
 
@@ -108,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 8. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now try connecting to the targeted computer and see if you can do so without any problems.
@@ -124,6 +116,10 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 4. Choose **Disabled** and click **Apply** \> **OK** to save the changes.  
 ![Make changes to the Local Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-security-policy.jpg)
 5. Restart your computer and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Try Using Safe Mode With Networking
 
@@ -147,32 +143,15 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-exploring-screenflow-features-a-mac-developers-perspective/"><u>[New] 2024 Approved Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated/"><u>[Updated] 2024 Approved Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[Updated] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags-for-2024/"><u>[Updated] Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-hotspot-performance-post-restart/"><u>Boosting Windows 11 Hotspot Performance Post-Restart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-chains-of-stuck-downloads-on-windows-11-pcs/"><u>Breaking the Chains of Stuck Downloads on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breath-of-fresh-windows-11-air-for-archaic-machines-via-to-go-and-rufus/"><u>Breath of Fresh Windows 11 Air for Archaic Machines via To Go & Rufus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-the-hourglass-fixes-for-missing-windows-server-time/"><u>Bring Back the Hourglass: Fixes for Missing Windows Server Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-error-successful-install-of-ms-pc-manager/"><u>Bypass Error: Successful Install of MS PC Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-controlled-windows-settings-by-administrators/"><u>Bypassing Controlled Windows Settings by Administrators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/can-your-pc-run-windows-11-check-these-system-requirements/"><u>Can Your PC Run Windows 11? Check These System Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-chromes-automatic-new-tab-generations-on-windows/"><u>Cease Chrome's Automatic New Tab Generations on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ready-for-ps5-slim-inside-information-on-when-it-hits-shelves-price-tags-and-features/"><u>Get Ready for PS5 Slim - Inside Information on When It Hits Shelves, Price Tags & Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-smart-8-hd-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Smart 8 HD Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essentials-comprehensive-editing-tutorial/"><u>The Essentials Comprehensive Editing Tutorial</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-technology-by-toms-experts/"><u>The Ultimate Guide to Technology by Tom's Experts</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -181,3 +160,23 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-computer-top-components-for-significant-speed-enhancements/"><u>Accelerate Your Computer: Top Components for Significant Speed Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-utilization-despite-high-cpuram-demands-from-unrealcefsubprocess/"><u>Efficient PC Utilization Despite High CPU/RAM Demands From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-significance-of-build-numbers-on-windows/"><u>Exploring the Significance of Build Numbers on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-which-devices-can-wake-your-windows-pc-from-sleep-mode/"><u>How to Manage Which Devices Can Wake Your Windows PC From Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-split-view-malfunctions/"><u>Immediate Actions for Split View Malfunctions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-ideal-tags-elevating-your-contents-discovery-potential/"><u>In 2024, Ideal Tags Elevating Your Content's Discovery Potential</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-magic-v2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor Magic V2 FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-asmr-for-restful-slumber-for-2024/"><u>Mastering ASMR for Restful Slumber for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rotate-videos-online-for-free-top-website-picks-for-2024/"><u>New Rotate Videos Online for Free Top Website Picks for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nulaxy-km18-bluetooth-fm-transmitter-evaluation-outstanding-performance-of-a-reliable-vintage-model/"><u>Nulaxy KM18 Bluetooth FM Transmitter Evaluation: Outstanding Performance of a Reliable Vintage Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-execution-records-on-pc/"><u>Overcoming Missing Execution Records on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-system-call-failed-issue-in-windows-1011/"><u>Solving System Call Failed Issue in Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029140615-youtubevimeo/"><u>YouTubeやVimeoなど、映像ファイルに他のビデオを組み込む方法</u></a></li>
+</ul></div>
+

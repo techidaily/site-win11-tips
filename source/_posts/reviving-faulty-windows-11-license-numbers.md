@@ -1,7 +1,7 @@
 ---
 title: Reviving Faulty Windows 11 License Numbers
-date: 2024-08-23T07:01:52.550Z
-updated: 2024-08-24T07:01:52.550Z
+date: 2024-12-07T20:18:02.732Z
+updated: 2024-12-13T01:52:49.946Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  There might be a problem with the key, with your internet connection, or maybe you’re doing something wrong. In this article, we’ll take a quick look at what you can do when the activation key is not working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  To use the Windows 11 activation key, you need a stable internet connection. If you are experiencing internet issues, your internet might be too slow for you to successfully use the activation key.
 
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check That Windows Isn’t Already Activated
 
@@ -42,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  If the status is**Active** , your problem stops here; you're already activated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Activation Troubleshooter
 
  If you didn’t manage to activate Windows 11 with your activation key, you can run the Activation troubleshooter to fix the problem.
@@ -53,25 +58,20 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 **Note** : If you don’t see the Activation troubleshooter, it means you’ve already activated Windows 11\. In this case,[check your Windows 11 product key](https://www.makeuseof.com/windows-11-find-product-key/) so you don’t try and use it for another activation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Ensure You're Using the Correct Windows Edition
 
  There’s a chance there’s nothing wrong with the activation key or your computer, but you can't activate Windows because the digital license doesn’t match the Windows edition. If you’re trying to use a Windows Home activation key, but you’ve installed Windows Pro, there’s no way you can make it work.
 
  In this case, ask for a refund and get a digital license that matches your Windows edition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 5\. Use a Genuine Activation Key
 
 ![3-download-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/3-download-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don’t use a genuine activation key, you won’t be able to activate Windows on your computer. Unfortunately, there are scammers out there who give out fake Windows activation keys to buyers.
 
  To avoid this, stay away from any free or heavily-discounted keys from forums or shady websites. Instead, get a license from a trustworthy store. The best place to buy a key is from Microsoft itself:
@@ -83,21 +83,23 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  This will open an official Microsoft storefront where you can buy a key without any risk of scammers.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Ensure You're Using the Key on One Computer Only
 
  Even if you’re sure that you have a genuine activation key and license, you can’t use them for more than one computer. If you already used the key, you’ll have to deactivate Windows 11 by uninstalling the product key.
 
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run an SFC Scan
 
  If there are any corrupted or damaged system files on your computer, you may have difficulties using the Windows activation key. In this case, you should run a System File Checker scan.
@@ -108,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  Hopefully, you got the key working, and you’re now using an activated Windows license. If you don’t mind the Activate Windows watermark or the constant notifications, you may think that there’s no point in paying for a license. However, there are a few considerations why you shouldn’t use a non-activated Windows license.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,26 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>[New] 2024 Approved Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>[Updated] Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-screen-recorder-alternatives-to-xboxs-game-bar-for-2024/"><u>[Updated] Top Screen Recorder Alternatives to Xbox’s Game Bar for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-hidden-world-of-hand-tracking/"><u>2024 Approved Unveiling the Hidden World of Hand Tracking</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-common-print-problems-in-win-10-and-11-related-to-ad-ds/"><u>Deciphering Common Print Problems in WIN 10 & 11 Related to AD DS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975485021-easy-installation-of-lenovo-thinkpad-t430-drivers-on-windows-operating-systems/"><u>Easy Installation of Lenovo ThinkPad T430 Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-your-site-with-cookiebot-personalized-analytics-and-retargeting-solutions/"><u>Enhancing Your Site with Cookiebot: Personalized Analytics & Retargeting Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-picked-choices-top-13-free-pdf-manipulators-in-july-2024-edition/"><u>Explore Our Picked Choices: Top 13 Free PDF Manipulators in July 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-sidestep-non-installing-issues-in-win11s-latest-updater/"><u>How to Sidestep Non-Installing Issues in WIN11's Latest Updater</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-e13-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto E13 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-reference-unlocking-windows-recovery-options/"><u>Quick Reference: Unlocking Windows Recovery Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unblocked-app-error-in-windows-security/"><u>Resolving Unblocked App Error in Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-passwords-the-top-11-access-routes-in-win11/"><u>Securing Your Windows Passwords: The Top 11 Access Routes in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-fm20dll-error-a-step-by-step-guide-on-how-to-find-and-repair-it/"><u>Solving fm20.dll Error: A Step-by-Step Guide on How To Find and Repair It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-integrating-emulated-games-in-windows-playnite/"><u>Step-by-Step Process: Integrating Emulated Games in Windows' Playnite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-your-chrome-rectifying-window-based-profile-mishaps/"><u>Sync Your Chrome: Rectifying Window-Based Profile Mishaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-redefine-window-organization-with-icons-adjustment/"><u>Title: Redefine Window Organization with Icons Adjustment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-secure-boot-problems-in-windows-bios/"><u>Troubleshooting Secure Boot Problems in Windows BIOS</u></a></li>
+</ul></div>
 

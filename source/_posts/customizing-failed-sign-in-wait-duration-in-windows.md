@@ -1,7 +1,7 @@
 ---
 title: Customizing Failed Sign In Wait Duration in Windows
-date: 2024-08-23T07:00:55.125Z
-updated: 2024-08-24T07:00:55.125Z
+date: 2024-12-11T22:25:01.874Z
+updated: 2024-12-13T01:46:31.986Z
 tags:
   - windows10
   - windows11
@@ -28,10 +28,25 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 2. Type “secpol.msc” into the text field and hit **Enter**.  
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, click on the **Account Lockout Policy** folder under **Account Policies**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on **Account lockout duration**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Increase or decrease local account lockout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-change-local-account-lockout-duration.jpg)
 5. Type in a number between zero and 99,999, and hit **OK**. This will set how long (in minutes) the system will need before it accepts another login attempt.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose how long a local account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-set-local-account-lockout-duration.jpg)
 
 ## How to Change the Account Lockout Duration in Windows via the Command Prompt
@@ -47,20 +62,23 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 `net accounts /lockoutduration:60`  
 ![Use the command prompt to change account lockout duration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-duration-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Setting this value to zero means the locked-out user will not be able to sign in unless an administrator intervenes and unlocks it. Also, the account lock-out duration must be greater than or equal to the time for the system to [automatically reset the number of failed login attempts](https://www.makeuseof.com/reset-account-lockout-counter-windows/).
 
  If you don’t ever want users to be locked out of their local accounts, you must [change the number of failed login attempts](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) a user is allowed.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Find the Balance Between Security and Convenience
 
  Setting account lockout duration too high will cause inconvenience, but if you set it to zero, an administrator will have to be contacted each time a user locks themselves out. Find a balance between security and convenience when it comes to changing how long a user is locked out after a set number of failed login attempts.
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -68,3 +86,27 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rom-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-techniques-for-accurate-ps3-playback-rendering/"><u>[New] In 2024, Techniques for Accurate PS3 Playback Rendering</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-macs-premier-selection-of-mp4-cutter-software/"><u>[New] Mac's Premier Selection of MP4 Cutter Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-the-safest-video-chat-apps-on-both-sides-of-the-market-for-2024/"><u>[Updated] Explore the Safest Video Chat Apps on Both Sides of the Market for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/10-proven-strategies-when-you-cant-get-skype-to-work-correctly/"><u>10 Proven Strategies When You Can't Get Skype to Work Correctly</u></a></li>
+<li><a href="https://win-premium.techidaily.com/beste-wege-den-cache-zu-leeren-aktualisierung-mit-windows-11/"><u>Beste Wege, Den Cache Zu Leeren - Aktualisierung Mit Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-run-time-error-windows-app-fix-guide/"><u>Clearing Up 'Run-Time Error': Windows App Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unreachable-status-of-steam-game-servers-on-desktop-os/"><u>Correcting Unreachable Status of Steam Game Servers on Desktop OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-dysfunctional-print-via-wwin-command-on-windows/"><u>Dealing with Dysfunctional Print via WWin Command on Windows.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-or-ipad-missing-icons-discover-effective-solutions-now/"><u>IPhone or iPad Missing Icons? Discover Effective Solutions Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-techniques-for-hardware-id-discovery-in-windows-systems/"><u>Key Techniques for Hardware ID Discovery in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-name-update-on-windows-11/"><u>Mastering User Name Update on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-freezing-issues-with-spotify-on-w10w11-oses/"><u>Overcoming Freezing Issues with Spotify on W10/W11 OSes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-digital-discussion-director-for-2024/"><u>Premier Digital Discussion Director for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-inaccessible-nvidia-control-panel-in-win11/"><u>Solutions for Inaccessible Nvidia Control Panel in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-rectifying-domain-services-print-glitches/"><u>Step-by-Step: Rectifying Domain Services Print Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-desktop-menus-to-fit-your-needs/"><u>Tailoring the Windows 11 Desktop Menus to Fit Your Needs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-f34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy F34 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-the-power-of-wireless-charging-with-qi-technology-apple-devotees-take-note-zdnet-insights/"><u>Unleash the Power of Wireless Charging with Qi Technology (Apple Devotees, Take Note!) | ZDNET Insights</u></a></li>
+</ul></div>
+

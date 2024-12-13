@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Not Functional' Errors with Win-Based Applications
-date: 2024-12-03T19:23:44.493Z
-updated: 2024-12-06T19:07:32.476Z
+date: 2024-12-11T20:34:38.748Z
+updated: 2024-12-12T18:41:20.387Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your PC is the simplest solution to many Windows issues, including this one. It refreshes the system and resets the Microsoft Store service. So, if you are experiencing the “This app will not work on your device” error, restart your computer first and see if it works.
 
  To restart your device, open the Start menu. Then select the Power icon and click **Restart**. You can also use the keyboard shortcut **Ctrl + Alt + Del** to open the same window. After restarting, try installing the app again and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear the Microsoft Store Cache
 
@@ -40,14 +48,10 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check for Microsoft Store Updates
 
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -73,6 +73,11 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 2. From the left pane, click **System > Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down to **Windows Store Apps** and click the **Run** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to detect any problem and fix it if necessary.
 
@@ -92,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
  Now, restart your computer and check if the error has been resolved. If not, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Temporarily Disable Your Antivirus Program
 
  If you have an antivirus program installed on your computer, it could block the app from running. To check if this is the case, temporarily disable your antivirus and see if it works. Here's how to do it:
@@ -107,6 +108,11 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
 6. Turn off the **Real-time protection** toggle.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
 
  Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
@@ -120,13 +126,14 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform Several Generic Windows Fixes
 
@@ -136,30 +143,11 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>[New] In 2024, The Ultimate List 7 Indispensable Devices in the Metaverse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-keys-to-windows-program-harmony/"><u>4 Keys to Windows Program Harmony</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-crucial-windows-apps-making-mac-to-windows-swap-a-breeze/"><u>5 Crucial Windows Apps Making Mac to Windows Swap a Breeze</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-close-examination-of-9-key-factors-that-advantage-pcs/"><u>A Close Examination of 9 Key Factors That Advantage PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-code-zero-x-in-the-mail-application-of-windows/"><u>Addressing Error Code Zero X in the Mail Application of Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dimmed-display-defying-desktop/"><u>Dimmed Display, Defying Desktop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tutorial-purging-your-youtube-download-history/"><u>In 2024, Tutorial Purging Your YouTube Download History</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/locating-quality-used-tech-gadgets-a-guide-for-savvy-shoppers-of-2009/"><u>Locating Quality Used Tech Gadgets: A Guide for Savvy Shoppers of 2009</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862824936-professional-gamers-choice-in-depth-analysis-of-dough-spectrums-27-oled-display-top-tiers-in-color-precision-and-visual-fidelity/"><u>Professional Gamers' Choice: In-Depth Analysis of Dough Spectrum's 27 OLED Display - Top Tiers in Color Precision & Visual Fidelity!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-choices-windows-11-hd-webcam-mini-dvs/"><u>Top Choices Windows 11 HD Webcam Mini-DVs</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,3 +156,25 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-vinyls-virtual-voyage-transferring-music-selections/"><u>[New] In 2024, Vinyl's Virtual Voyage Transferring Music Selections</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-entertainment-experience-navigating-netflixs-picture-in-picture-functionality/"><u>[Updated] 2024 Approved Enhance Entertainment Experience Navigating Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-delving-into-youtubes-complex-calculation-of-viewer-stats-for-2024/"><u>[Updated] Delving Into YouTube's Complex Calculation of Viewer Stats for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[Updated] In 2024, Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a54-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A54 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-black-friday-deals-dates-and-locations-revealed/"><u>Discover the Top Black Friday Deals : Dates & Locations Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-retrieve-lost-pin-post-corruption-in-windows-11/"><u>Guide to Retrieve Lost PIN Post-Corruption in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-tactics-crafting-novel-windows-folders/"><u>Innovative Tactics: Crafting Novel Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installed-success-microsoft-works-in-windows-1011/"><u>Installed Success: Microsoft Works in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-recovery-strategies-for-legacy-and-new-windows-versions/"><u>Key Recovery Strategies for Legacy and New Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11s-mail-app-eradicating-html-from-email-views/"><u>Mastery of Windows 11'S Mail App: Eradicating HTML From Email Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-tips-for-using-luts-in-adobe-after-effects/"><u>Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-guide-eliminating-the-black-screen-on-your-oculus-link-now/"><u>Quick-Fix Guide: Eliminating the Black Screen on Your Oculus Link Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-insights-discovering-your-graphics-card-type-window-11/"><u>Speedy Insights: Discovering Your Graphics Card Type, Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-filing-methods-for-efficient-workflow-in-win-os-max-156/"><u>Top Filing Methods for Efficient Workflow in Win OS (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-read-issues-a-guide/"><u>Troubleshooting Disk Read Issues: A Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-moto-g24-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Moto G24 FRP Bypass</u></a></li>
+</ul></div>
+

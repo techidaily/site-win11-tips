@@ -1,7 +1,7 @@
 ---
 title: Mastering File Compression Techniques for Disk Optimization
-date: 2024-08-23T07:02:26.100Z
-updated: 2024-08-24T07:02:26.100Z
+date: 2024-12-06T22:42:13.017Z
+updated: 2024-12-13T01:52:41.615Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 ![Apply changes option in folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apply-changes-option.jpg)
 7. Click**OK.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it, the folder has now been compressed. You can confirm this by comparing the current folder size with its previous size.
 
  From now on, every file or folder that you will move inside the compressed folder will be compressed automatically. To disable compression, uncheck the**Compress contents to save disk space** box and save the changes.
@@ -58,15 +62,16 @@ Similarly, you can compress an entire drive. Here's how:
 
 ![File compression command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-compression-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see the "**A reboot is required for this change to take effect** " message on the console. So, restart your computer to apply the changes.
 
  If you want to disable File Compression, execute the following command in the elevated Command Prompt window, followed by a system restart.
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -78,24 +83,18 @@ Similarly, you can compress an entire drive. Here's how:
 4. Right-click on the**Policies** folder in the left sidebar, hover the cursor to**New,** and choose**DWORD** **(32-bit) Value** from the context menu.  
 ![Choosing DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-dword.jpg)
 5. Right-click on the newly created value and choose**Rename** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Type**Ntfsenablecompression** in the text field.
 7. Select and right-click on**Ntfsenablecompression** again, and choose**Modify** .
 8. Type**1** in the**Value data** .  
 ![Editing Ntfsenablecompression in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-ntfsenablecompression.jpg)
 9. Click**OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 4\. Enable NTFS File Compression Using the Local Group Policy Editor
 
  The Local Group Policy Editor is the go-to place to configure important Windows policies. To use it to enable file compression, follow the below instructions:
@@ -107,29 +106,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. Choose the**Disabled** option.  
 ![Disabling policy in LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-policy.jpg)
 5. Click**Apply** \>**OK** to enable file compression.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Free Up Space on Windows 11 With File Compression
 
  Enabling file compression is a great way to free up some space on Windows 11\. Using this feature can come in handy when you are running out of space but also don't want to compress your files using third-party compression tools.
 
  Meanwhile, you might be interested in learning more about the NTFS file system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +136,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-correct-iosandroid-video-failures-on-fb-for-2024/"><u>[New] Correct iOS/Android Video Failures on FB for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-why-av1-may-outshine-vp9-in-video-compression/"><u>[New] In 2024, Why AV1 May Outshine VP9 in Video Compression</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>[New] Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comprehensively-understanding-recmeisters-screen-recording-strengths/"><u>[Updated] In 2024, Comprehensively Understanding Recmeister's Screen Recording Strengths</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[Updated] In 2024, Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks-for-2024/"><u>[Updated] Laughing Alongside the Metaverse DIY Humor Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/data-driven-mastery-unlock-4-steps-for-accessing-disk-management-in-win11/"><u>Data-Driven Mastery: Unlock 4 Steps for Accessing Disk Management in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-precision-the-art-of-perfect-online-image-trimming/"><u>Digital Precision The Art of Perfect Online Image Trimming</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-email-metrics-in-2011-essential-kpis-and-innovative-techniques-with-massmail-tools/"><u>Mastering Email Metrics in 2011: Essential KPIs and Innovative Techniques with Massmail Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-connection-mainteninas-a-rust-windows-solution-guide/"><u>Mastering Steam Connection Mainteninas: A Rust-Windows Solution Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mobile-scanning-and-ocr-technology-for-documents-convert-pdf-jpg-to-text-with-iphone-app/"><u>Mobile Scanning & OCR Technology for Documents - Convert PDF, JPG to Text with iPhone App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-cannot-find-gpeditmsc-error-in-windows/"><u>Overcoming Common Cannot Find Gpedit.msc Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-glitch-error-x80072f30-fix-guide/"><u>Overcoming Microsoft Store Glitch: Error X80072F30 Fix Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-free-methods-to-fix-damaged-mp4-files-on-windows-and-macos/"><u>Quick Guide: Free Methods to Fix Damaged MP4 Files on Windows and macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-skyrim-with-script-enhancement-fixes/"><u>Reigniting Skyrim with Script Enhancement Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-eliminating-isdonedll-issues-on-windows/"><u>Step-by-Step Tutorial: Eliminating ISDone.dll Issues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-nullifying-internal-pc-keys/"><u>Techniques for Nullifying Internal PC Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/thermal-efficiency-for-gamers-laptops-while-playing/"><u>Thermal Efficiency for Gamers' Laptops While Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-server-stumbled-error-for-a-smooth-microsoft-store-experience-on-windows-11-and-11/"><u>Unblocking Server Stumbled Error for a Smooth Microsoft Store Experience on Windows 11 & 11</u></a></li>
+</ul></div>
 

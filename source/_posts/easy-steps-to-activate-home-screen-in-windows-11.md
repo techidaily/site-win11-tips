@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Activate Home Screen in Windows 11
-date: 2024-12-02T22:08:59.916Z
-updated: 2024-12-06T23:12:29.123Z
+date: 2024-12-09T16:45:08.798Z
+updated: 2024-12-12T19:51:17.486Z
 tags:
   - windows10
   - windows11
@@ -31,20 +31,20 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![Current Settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/current-settings-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft noticed this issue and created a new Home section in the revamped Settings app. At the time of writing, you can only find this new Settings app in the Windows Insider program.
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  The enhanced Settings app with the included Home section isn't directly available in build 243943\. So, you must use Vivetool to enable the experimental feature. All you need to do is [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases).
 
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Home Section in the Settings App
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `vivetool /enable /id:42058345  
@@ -88,7 +92,7 @@ vivetool /enable /id:42058313`
 ![New and old settings app side by side-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-and-old-settings-app-side-by-side-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below that, there is a card that displays the recommended settings. You also get a bird’s eye view of the total available storage space in your Outlook account. There’s also a much-needed personalization card that you can use to change the themes and color mode of your Windows PC.
@@ -96,10 +100,6 @@ vivetool /enable /id:42058313`
  If you haven’t completed a crucial security setup for your Microsoft account, you will see a reminder on the Home Page. Apart from that, Microsoft brazenly promotes its Microsoft service as a separate card. You cannot rearrange or remove tiles, so you are stuck with the layout and the promotional stuff from Microsoft.
 
 ![New home section in the settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-home-section-in-the-settings-app-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
@@ -109,21 +109,6 @@ vivetool /enable /id:42058313`
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-advanced-techniques-for-ultimate-iphone-hdr/"><u>[Updated] Advanced Techniques for Ultimate iPhone HDR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-of-locating-and-using-component-services/"><u>Detailed Walkthrough of Locating and Using Component Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dominate-your-notes-with-the-129-pen-that-beats-all-competitors-exclusive-sale-after-prime-day-zdnet/"><u>Dominate Your Notes with the $129 Pen that Beats All Competitors - Exclusive Sale After Prime Day | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-v600-scanner-drivers-free-download-guide/"><u>Epson V600 Scanner Drivers: Free Download Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-mouse-features-10-easy-steps-in-win11/"><u>Explore Mouse Features: 10 Easy Steps in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-to-grips-with-powertoys-plain-text-methods/"><u>Get to Grips With PowerToys' Plain Text Methods</u></a></li>
-<li><a href="https://win-superb.techidaily.com/google5/"><u>Googleで見つける方法：エクスプローラから消えたデータを確実に元に戻すためのベスト5技術</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-non-signed-updates-in-w11w10/"><u>Guide to Rectify Non-Signed Updates in W11/W10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-meizu-devices-by-drfone-android/"><u>How to Reset Gmail Password on Meizu Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-windows-11-photos-the-top-6-rescaling-methods/"><u>Transform Your Windows 11 Photos – The Top 6 Rescaling Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Civi 3 | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +116,23 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-clip-weaver-workshop/"><u>[New] 2024 Approved Clip Weaver Workshop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-guide-making-your-gifs-into-stickers-via-discordwhatsapp/"><u>[New] 2024 Approved The Ultimate Guide Making Your GIFs Into Stickers via Discord/WhatsApp</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-achieving-professional-level-youtube-streams-using-wirecast/"><u>2024 Approved Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-transform-youtube-performance-leading-tracking-apps-revealed/"><u>2024 Approved Transform YouTube Performance - Leading Tracking Apps Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveil-the-power-of-storytelling-in-your-facebook-bio/"><u>2024 Approved Unveil the Power of Storytelling in Your Facebook Bio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanded-functionality-how-to-tailor-win-11s-menu-bar/"><u>Expanded Functionality: How to Tailor Win 11'S Menu Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-issues-with-windows-virtual-disks-and-services/"><u>Mitigating Issues with Windows' Virtual Disks and Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/permanent-capture-sustaining-facebook-live-footage-for-2024/"><u>Permanent Capture Sustaining Facebook Live Footage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-assessing-folder-capacity-in-windows/"><u>PowerShell Command for Assessing Folder Capacity in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-spontaneous-search-on-win11-desktop/"><u>Preventing Spontaneous Search on Win11 Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily-for-2024/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-for-windows-screensaver/"><u>Restoring Default Settings for Window's Screensaver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackle-the-troublesome-lagging-and-crashing-of-halo-infinite-a-guide-for-pc-gamers/"><u>Tackle the Troublesome Lagging and Crashing of Halo Infinite - A Guide for PC Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-device-driver-absence-in-windows-instance/"><u>Troubleshooting Device Driver Absence in Windows Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-how-to-access-windows-11s-system-tools/"><u>Unveiling the Secrets: How to Access Windows 11'S System Tools</u></a></li>
+</ul></div>
+

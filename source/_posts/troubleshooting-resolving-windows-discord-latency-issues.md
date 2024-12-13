@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Windows Discord Latency Issues"
-date: 2024-08-23T07:05:53.964Z
-updated: 2024-08-24T07:05:53.964Z
+date: 2024-12-08T16:49:21.442Z
+updated: 2024-12-12T23:27:40.667Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 If the internet seems fine, move to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Close Background Apps and Processes
 
  If there are too many apps running on your computer, Discord may struggle to operate smoothly. You can[use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) to close unnecessary apps and free up valuable system resources. Here's how:
@@ -43,9 +44,6 @@ If the internet seems fine, move to the next solution.
 2. In the**Processes** tab, select unwanted apps and processes and click the**End task** button at the top.  
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-programs-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Switch to High-Performance Mode
 
  Enabling a stricter power profile can slow down the overall performance of your computer and cause Discord to lag. You can switch to the high performance mode on Windows so that your computer prioritizes performance over energy efficiency.
@@ -61,17 +59,9 @@ To enable the high performance mode on Windows, use these steps:
 Try using the Discord app again and see if it runs fine.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enable Reduced Motion on Discord
 
  Enabling the Reduced Motion feature in Discord lessens the intensity of animations and visual effects throughout the app. This can help the Discord app run smoothly even on low-powered computers.
@@ -85,8 +75,9 @@ To enable Reduced Motion in Discord:
 ![Enable Reduced Motion in Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-reduced-motion-in-discord-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Enable or Disable Hardware Acceleration on Discord
 
  The hardware acceleration feature in Discord allows the app to use dedicated hardware components on your PC for graphics-intensive tasks. This feature, however, can sometimes fail to work as expected and cause Discord to freeze or crash on Windows.
@@ -99,6 +90,10 @@ To enable Reduced Motion in Discord:
 4. Locate the**H.264 Hardware Acceleration** option and then enable or disable the toggle next to it.  
 ![Hardware Acceleration in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-acceleration-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reset the Discord Voice Settings
 
  Misconfigured voice settings in Discord can also cause the app to freeze or lag, especially while streaming. If that’s the case, you can consider resetting Discord voice settings and starting over. Here are the steps for the same.
@@ -110,8 +105,9 @@ To enable Reduced Motion in Discord:
 ![Reset Voice Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-voice-settings-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Clear the Discord Cache
 
  Discord, like any other app, collects cache data on your computer to improve its performance. If that data becomes corrupted or inaccessible, Discord may lag on your computer. Thankfully, it's both easy and safe to[clear the Discord cache on Windows](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) .
@@ -127,8 +123,9 @@ To enable Reduced Motion in Discord:
  Download and install any pending system updates and see if that fixes the issue for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Update or Reinstall Discord
 
  If nothing else works, try updating the Discord app on your computer. If the issue is caused by a bug within the Discord app, updating to a newer version should help.
@@ -139,9 +136,6 @@ To update Discord on Windows:
 2. Right-click the**Discord** icon and select**Check for Updates** .  
 ![Check for Discord Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-discord-updates-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If updating the app does not help, there might be a problem with the Discord app files on your system. To fix them, you’ll need to uninstall and reinstall the Discord app. Here's how you can go about it.
 
 1. Use one of[the many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
@@ -152,24 +146,21 @@ To update Discord on Windows:
 6. Reinstall the[Discord app from Microsoft Store](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN) .  
 ![Uninstall Discord on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-discord-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Hopefully, this will resolve the issue, and Discord will run smoothly on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Your Discord App Lag on Windows
 
  Such issues with the Discord app can easily ruin your experience. We hope that the above fixes have helped you resolve the Discord app lag on Windows. If not, you can always use Discord web on your favorite browser.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +169,19 @@ To update Discord on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-self-sustained-youtube-moguls-handbook-no-ads-only-gains/"><u>[Updated] In 2024, The Self-Sustained YouTube Mogul’s Handbook No Ads, Only Gains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-the-unknown-disk-errors-from-your-pc/"><u>Eradicate the Unknown Disk Errors From Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-tweaking-windows-indexer/"><u>Essential Guide: Tweaking Windows Indexer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Note 30 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-se-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone SE Smoothly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-disk-space-in-windows-with-these-cost-effective-methods/"><u>Maximize Disk Space in Windows with These Cost-Effective Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-installation-failure-resolving-access-denied-issues/"><u>Overcoming 'USB Installation Failure': Resolving Access Denied Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-bandwidth-consumption-analyzers/"><u>Precise Bandwidth Consumption Analyzers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210992498-resolved-issues-with-total-war-rome-remastered-no-more-crashing/"><u>Resolved Issues with Total War: Rome Remastered - No More Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-space-with-ease-using-ms-store-themes/"><u>Tailoring Your Digital Space with Ease Using MS Store Themes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-vs-dailymention-identifying-key-variations/"><u>YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+</ul></div>
 

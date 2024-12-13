@@ -1,7 +1,7 @@
 ---
 title: Streamlining HEIC Files Into JPEG on Windows 11 Platform
-date: 2024-08-23T07:03:16.150Z
-updated: 2024-08-24T07:03:16.150Z
+date: 2024-12-12T01:08:28.209Z
+updated: 2024-12-12T22:10:38.505Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
  HEIC is an Apple image format used on iPhones. It enables higher-quality images in smaller file sizes. Apple established HEIC in 2017, now among the more prevalent image formats after JPEG and PNG.
 
  However, few Windows software packages support the HEIC format. Some users prefer to convert HEIC images to JPEG format so they can open iPhone photos on PCs with many more Windows apps. Batch conversion is preferable since it enables you to convert multiple HEIC images simultaneously. This is how you can batch-convert HEIC images to JPEG in Windows 11/10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With CopyTrans HEIC for Windows
 
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
@@ -63,15 +71,29 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 ![The FoneTool setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fonetool-setup-window.jpg)
 6. Click**Enjoy Now** to exit the installation and start FoneTool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's time to convert images with FoneTool:
 
 1. Select the**ToolBox** tab in FoneTool’s window.
 2. Click the**HEIC Converter** button.  
 ![The Toolbox tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/toolbox-tab.jpg)
 3. Press the**Add Photos** button, select some images, and click**Open** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
 7. Press the**Start Converting** option.
 
@@ -85,9 +107,6 @@ Now it's time to convert images with FoneTool:
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
@@ -96,36 +115,23 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -136,8 +142,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +149,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>[New] 2024 Approved Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-chart-topping-video-content-on-youtube-for-2024/"><u>[New] Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>[New] Crafting Memorable Titles A Comprehensible AE Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ethernet-mastering-4-tactics-to-test-your-lan-speed-on-pc/"><u>Efficient Ethernet: Mastering 4 Tactics to Test Your LAN Speed on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-cascading-open-windows-win11-and-10/"><u>Enhancing Productivity: Cascading Open Windows (Win11 & 10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-management-through-gpo-refresh-on-pcs/"><u>Enhancing System Management Through GPO Refresh on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-reading-excel-data-in-notepad/"><u>Fixes for Reading Excel Data in Notepad</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-avatar-adventure-solving-pandoras-frontier-launch-hiccups-quickly-and-easily/"><u>Fixing Your Avatar Adventure: Solving Pandora's Frontier Launch Hiccups Quickly & Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-0x800f0831-error-in-windows-10-and-11/"><u>How to Fix a Persistent 0X800f0831 Error in Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-and-configure-the-microsoft-pc-manager-on-windows-11/"><u>How to Install and Configure the Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-vsdc-and-its-rivals/"><u>In 2024, The Ultimate Guide to VSDC and Its Rivals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867509729-iphone-or-android-finding-the-perfect-match-for-your-lifestyle/"><u>IPhone or Android – Finding the Perfect Match for Your Lifestyle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>Mastering Adventure The Best 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-package-management-on-windows-11-like-a-pro/"><u>Navigating Package Management on Windows 11 Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-decreasing-background-computation/"><u>Strategies for Decreasing Background Computation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-checklist-to-master-before-system-restart/"><u>The Key Checklist to Master Before System Restart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-experts-handbook-for-voice-alteration-via-morphvox/"><u>The Ultimate Expert's Handbook for Voice Alteration via MorphVOX</u></a></li>
+</ul></div>
 

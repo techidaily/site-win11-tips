@@ -1,7 +1,7 @@
 ---
 title: How to Reset the Windows Update Components
-date: 2024-08-23T07:03:40.946Z
-updated: 2024-08-24T07:03:40.946Z
+date: 2024-12-09T22:28:08.394Z
+updated: 2024-12-13T02:30:44.292Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Reset the Windows Update Components Manually
 
  The most common method for resetting Windows Update components is through the Command Prompt. Here are the steps you can follow.
@@ -33,6 +37,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -90,6 +99,10 @@ net start appidsvc
 net start cryptsvc`
 
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
@@ -159,18 +172,21 @@ net start cryptsvc`
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
 ![Reset Windows Update Components Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +194,27 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-analysis-mp4-video-download-tools/"><u>[New] 2024 Approved Expert Analysis MP4 Video Download Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[New] 2024 Approved The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-dynamic-photographic-ensembles/"><u>[Updated] Building Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sony-bdp-s6700-review-updated/"><u>[Updated] Sony BDP-S6700 Review - Updated</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96464955-9781611250268-a-shamans-tale/"><u>A Shaman's Tale | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conjoining-content-in-windows-11-with-ease/"><u>Conjoining Content in Windows 11 with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-hacks-for-fixing-windows-11s-unknown-obs-error/"><u>Essential Hacks for Fixing Windows 11'S Unknown OBS Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-mute-mode-on-pcs-a-step-by-step-guide/"><u>Fixing Mute Mode on PCs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-windows-generic-volume-control-errors/"><u>Guide to Overcoming Windows Generic Volume Control Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s23plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S23+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-11-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 11 without Security Questions?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996220553-pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-animated-and-engaging-backdrops-for-windows-11/"><u>Revamp Your Workspace: Animated and Engaging Backdrops for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-bing-integration-in-win-11-taskbar/"><u>Speed Up Bing Integration in Win 11 Taskbar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>Top 2 Video Editing Apps Compared Filmora & Democracy Creator</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-66-twitter-accounts-for-savvy-travelers-insider-deals-tips-and-epic-journeys/"><u>Top 66 Twitter Accounts for Savvy Travelers: Insider Deals, Tips, and Epic Journeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-your-shopping-experience-0x80072f30-fix-on-windows/"><u>Unblocking Your Shopping Experience: 0X80072F30 Fix on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-benefits-in-maintaining-win-11-pushes/"><u>Unlocking Secrets: Benefits in Maintaining Win 11 Pushes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-mastering-the-art-of-tablet-bar-integration/"><u>Windows 11: Mastering the Art of Tablet Bar Integration</u></a></li>
+</ul></div>
+

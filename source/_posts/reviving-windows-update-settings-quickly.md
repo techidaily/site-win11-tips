@@ -1,7 +1,7 @@
 ---
 title: Reviving Windows Update Settings Quickly
-date: 2024-08-23T07:01:19.054Z
-updated: 2024-08-24T07:01:19.054Z
+date: 2024-12-10T22:39:40.790Z
+updated: 2024-12-12T17:58:46.989Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -90,6 +95,10 @@ net start appidsvc
 net start cryptsvc`
 
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
@@ -154,23 +163,31 @@ net start cryptsvc`
 4. Click the **File** menu at the top, then **Save as**.  
 ![Save a Notepad File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg)
 5. Enter **Reset Windows Components.bat** in the name field and specify your preferred location for saving the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Save as type** drop-down menu to select **All files**, then click on **Save**.
 7. Locate the saved batch file on your PC. Right-click on it and select **Run as administrator** from the context menu.
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
 ![Reset Windows Update Components Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +195,17 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-youtube-studio-editor-secrets-revealed/"><u>[New] Unleash Creativity YouTube Studio Editor Secrets Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-for-powerdirector-experts-2024/"><u>Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-way-activatedeactivate-energy-saving-feature/"><u>Effortless Way: Activate/Deactivate Energy-Saving Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-dark-themes-in-ms-paint/"><u>Embracing Dark Themes in MS Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enlarge-pins-display-area-in-win-11/"><u>How to Enlarge Pins Display Area in Win 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radiant-hue-tuner-program/"><u>In 2024, Radiant Hue Tuner Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-indicator-static-widgets-on-pc-monitor/"><u>Speed Indicator: Static Widgets on PC Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac558-yamahaaturbosound-ii-sound-module-based-on-the-ymf794dymu793-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-142/"><u>YAC558 - Yamaha'aturboSound II Sound Module Based on the YMF794D/YMU79^3 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>
+

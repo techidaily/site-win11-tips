@@ -1,7 +1,7 @@
 ---
 title: Elevate Windows Defense with Customizable Firewall Options in Context Menu
-date: 2024-08-23T07:03:21.862Z
-updated: 2024-08-24T07:03:21.862Z
+date: 2024-12-10T21:10:43.915Z
+updated: 2024-12-12T23:52:06.036Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  Windows Defender Firewall enables users to block specific software packages from accessing the internet. However, users must usually manually set up outbound firewall rules that block internet connectivity for software.
 
  It would be better if users could select a context menu option for blocking programs’ connectivity. Such a shortcut would enable us to set up outbound firewall rules more quickly. You can add firewall context menu options for both blocking and restoring apps’ internet access with OneClickFirewall and (Right Click) Allow, Block or Remove.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Firewall Block Options With OneClickFirewall
 
@@ -41,11 +45,19 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
  Right-click a program’s EXE file you’ve set up an outbound rule for and select**Show more options** \>**Restore Internet Access** . Then the previously blocked software will be allowed through the firewall again.
 
  If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Firewall Block Options With the Right Click App
 
@@ -64,13 +76,18 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apply Firewall Blocks to Software via the Context Menu
 
  The convenience of a context menu firewall option for blocking apps’ internet connectivity cannot be understated. That option will save you from going through all the manual steps required to create rules that apply firewall blocks to software packages.
@@ -83,8 +100,6 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +107,24 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-steps-for-saving-your-macs-desktop/"><u>[New] In 2024, Quick Steps for Saving Your Mac's Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-6-apps-elevating-your-instagram-reels/"><u>[Updated] Essential 6 Apps Elevating Your Instagram Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[Updated] SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-essential-tools-for-creating-viral-reaction-videos-for-2024/"><u>5 Essential Tools for Creating Viral Reaction Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-steps-for-windows-error-0xc0000001-fixing/"><u>Comprehensible Steps for Windows Error 0xC0000001 Fixing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-overcoming-the-windows-0x80860010-application-error/"><u>Decoding and Overcoming the Window's 0X80860010 Application Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-experience-with-messenger-solutions/"><u>Enhance Windows Experience with Messenger Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-defaulting-windows-setup-after-system-shutdown/"><u>Guide to Defaulting Windows Setup After System Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-gems-unique-windows-11-designs/"><u>Hidden Gems: Unique Windows 11 Designs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp2web-movaavi/"><u>MP2ファイルを自由に変更するためのWebベースの無料ツール: Movaaviのサポート</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-is-currently-in-use-on-pc/"><u>Overcoming Printer Is Currently in Use on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-the-windows-tool-for-system-insights/"><u>Repairing the Windows Tool for System Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sharing-lifes-moments-with-your-online-audience-for-2024/"><u>Sharing Life's Moments with Your Online Audience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-choosing-windows-video-tools/"><u>Ultimate Guide to Choosing Windows Video Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-file-editor-for-mavericks-cut-merge-and-customize/"><u>Updated 2024 Approved MP4 File Editor for Mavericks Cut, Merge, and Customize</u></a></li>
+</ul></div>
 

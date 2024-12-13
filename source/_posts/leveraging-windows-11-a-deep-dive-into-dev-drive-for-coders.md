@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Windows 11: A Deep Dive Into Dev Drive for Coders"
-date: 2024-08-23T07:03:35.700Z
-updated: 2024-08-24T07:03:35.700Z
+date: 2024-12-05T22:41:20.750Z
+updated: 2024-12-12T20:14:36.344Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
  Microsoft initially announced Dev Drive as a part of Build 2023\. During the event, the Redmond giant unveiled Dev Home and Dev Drive to improve developer productivity and performance. Dev Drive is a new specialized storage volume that significantly boosts security and efficiency for key developer workloads.
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Dev Home and the Dev Drive on Windows 11?
 
@@ -41,31 +45,42 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 1. Navigate to **Settings > Storage > Advanced Storage Settings > Disks & volumes**, and select **Create Dev Drive**. Alternatively, you can also launch **Dev Home** and choose **Create Dev Drive**.  
 ![create dev drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-create-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
-4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
+
 ## What Should You Use Dev Drive For?
 
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Dream Developer PC With Windows 11
 
  With the comvbination of Dev Home and Dev Drive, Windows 11 is a powerful tool for developers. Now you know what Dev Drive is and how it works.
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -73,3 +88,20 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9/"><u>[Updated] In 2024, Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-teaching-through-media-efficient-classroom-editing/"><u>[Updated] Teaching Through Media Efficient Classroom Editing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-walkthrough-resetting-and-removing-information-from-your-iphone/"><u>Complete Walkthrough: Resetting and Removing Information From Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-taskbar-to-show-current-internet-speed/"><u>Customize Taskbar to Show Current Internet Speed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-implement-wi-fi-expansion-device-for-computer-systems/"><u>Effortlessly Implement Wi-Fi Expansion Device for Computer Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-accurate-prints-9-steps-with-powerpoint-and-windows/"><u>Ensuring Accurate Prints: 9 Steps with PowerPoint & Windows</u></a></li>
+<li><a href="https://fox-within.techidaily.com/finde-ich-meine-alten-bilder-wieder-losungen-fur-verlorene-fotodateien/"><u>Finde Ich Meine Alten Bilder Wieder: Lösungen Für Verlorene Fotodateien</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-magic-6-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor Magic 6 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/projection-simplified-no-more-pin-lockdown-on-windows-11/"><u>Projection Simplified: No More PIN Lockdown on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-fix-guide-getting-rid-of-black-frames-in-video-content/"><u>Quick Fix Guide: Getting Rid of Black Frames in Video Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-system-call-failed-issue-in-windows-1011/"><u>Solving System Call Failed Issue in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-clean-path-to-windows-11-integrity-and-performance/"><u>The Clean Path to Windows 11 Integrity and Performance</u></a></li>
+</ul></div>
+

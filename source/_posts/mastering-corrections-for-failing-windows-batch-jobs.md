@@ -1,7 +1,7 @@
 ---
 title: Mastering Corrections for Failing Windows Batch Jobs
-date: 2024-11-30T19:30:55.396Z
-updated: 2024-12-06T16:02:10.542Z
+date: 2024-12-06T16:25:15.371Z
+updated: 2024-12-12T16:05:39.689Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Now that you know why your BAT files are being deleted, let's move on to the recommended fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Fix Syntax Errors in Your BAT File
 
  If you're not into programming, the term "**syntax**" might be too technical. Simply put, a syntax error means a wrong command, expression, or symbol in any code.
@@ -54,25 +58,21 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  To add the BAT file to the exclusion list, navigate to your antivirus settings or options menu. Look for a section titled **Exclusions**, **Whitelist**, or something similar. Then, add your BAT file to the exclusion list.
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Adjust .BAT File Association
 
@@ -98,14 +94,28 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
  There are multiple file types in the same Settings section. If you want to change the default apps for launching a specific file type, you can do so. For example, if you use Drawboard as a PDF viewer, click on **.pdf** and select it as a default app for all your PDF files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Batch File
 
@@ -132,25 +142,18 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolve All Your BAT File Issues on Windows
 
@@ -160,24 +163,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>[New] FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-improving-zoom-video-quality-essential-tips/"><u>[New] Improving Zoom Video Quality Essential Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-discover-the-top-6-phone-utilities-for-clean-image-cropping/"><u>[New] In 2024, Discover the Top 6 Phone Utilities for Clean Image Cropping</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-vintage-viewing-a-1992-goofy-film-retrospective/"><u>[Updated] In 2024, Vintage Viewing A 1992 Goofy Film Retrospective</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-your-perfect-match-premium-videographer-recruitment/"><u>2024 Approved Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-device-latency-error-x887a0006win11/"><u>Addressing the Device Latency Error X887A0006:Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/back-to-basics-quick-fixes-in-13-essential-steps-for-systems/"><u>Back-to-Basics: Quick Fixes in 13 Essential Steps for Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-11-protection-with-new-firewall-add-ons-in-the-context-menu/"><u>Boost Windows 11 Protection with New Firewall Add-Ons in the Context Menu</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-video-hub-significance-crafting-memorable-names/"><u>In 2024, Video Hub Significance Crafting Memorable Names</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373458449-learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows</u></a></li>
-<li><a href="https://win-online.techidaily.com/learn-three-effective-ways-to-perform-a-clean-slate-on-windows-11-during-boot-up/"><u>Learn Three Effective Ways to Perform a Clean Slate on Windows 11 During Boot-Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/professional-snapshot-management-on-steam/"><u>Professional Snapshot Management on Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719271756856-stop-worrying-fix-the-non-working-esc-key-today/"><u>Stop Worrying, Fix the Non-Working Esc Key Today</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +170,23 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-frameflick-recorder-reflection/"><u>[New] 2024 Approved FrameFlick Recorder Reflection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-make-every-snap-spectacited-top-editors-for-snapchats-best-effects/"><u>[New] Make Every Snap Spectacited Top Editors for Snapchat's Best Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-can-you-make-outstanding-youtube-outro/"><u>[Updated] 2024 Approved How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-a60-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel A60 FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-590-driver-download-and-install-for-windows/"><u>AMD Radeon RX 590 Driver Download and Install for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-lack-of-privilege-during-os-setup/"><u>Correcting Lack of Privilege During OS Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workflow-with-smart-multitasking-tactics-for-windows-11/"><u>Elevate Workflow with Smart Multitasking Tactics for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quell-the-cpu-throttle-a-guide-to-system-health-via-rm/"><u>Quell the CPU Throttle: A Guide to System Health via RM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-hidden-additional-monitor-in-windows-11/"><u>Rectifying Hidden Additional Monitor in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-efficiency-microsoft-integrates-ai-into-windows-11-taskbar-design/"><u>Redefining Efficiency: Microsoft Integrates AI Into Windows 11 Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-screen-savers-for-your-win11-pc/"><u>Tailor-Made Screen Savers for Your Win11 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-ace-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Ace 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>Unveiling the LG BP350 A Detailed Performance & Design Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/updating-default-document-printer-for-pdfs-in-windows/"><u>Updating Default Document Printer for PDFs in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/learn-guide-for-playing-videos-audio-and-dvds-comprehensive-methods-overview-page-3/"><u>オールインクLearn Guide for Playing Videos, Audio & DVDs - Comprehensive Methods Overview Page 3</u></a></li>
+</ul></div>
+

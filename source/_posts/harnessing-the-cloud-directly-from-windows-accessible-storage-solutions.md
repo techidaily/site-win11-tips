@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Cloud Directly From Windows: Accessible Storage Solutions"
-date: 2024-12-04T22:13:56.326Z
-updated: 2024-12-06T20:21:09.740Z
+date: 2024-12-11T02:13:24.610Z
+updated: 2024-12-12T22:19:33.650Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  The major case against them is that there's no reason to use more software than you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Not Just Use Google Drive's Folders?
 
  Let's see how Google Drive fails to offer proper access to its local folder through a letter.
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 ![Google Drive Actual Drive Letter Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-actual-drive-letter-contents.jpg)
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
@@ -72,14 +80,10 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
 
@@ -92,29 +96,22 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 2. Right-click on it and choose **Map network drive**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What About Using Subst?
 
@@ -130,6 +127,10 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -140,23 +141,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-essential-guide-to-affordable-cross-platform-streamers/"><u>[New] 2024 Approved Essential Guide to Affordable, Cross-Platform Streamers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-bright-idea-boost-your-videos-impact-on-youtube-for-2024/"><u>[New] A Bright Idea Boost Your Video's Impact on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[Updated] In 2024, From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>[Updated] Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-make-the-windows-terminal-your-default-terminal-app/"><u>3 Ways to Make the Windows Terminal Your Default Terminal App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-10-step-guide-to-windows-health-reports/"><u>A 10-Step Guide to Windows Health Reports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-organization-in-windows-discover-5-key-folder-insights/"><u>Boost Organization in Windows - Discover 5 Key Folder Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-outlook-speed-quick-tricks-for-win/"><u>Boost Your Outlook Speed: Quick Tricks for WIN</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-drone-buyers-checklist-top-factors-to-ponder/"><u>Essential Drone Buyer's Checklist Top Factors to Ponder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-yellow-crash-screens-on-windows-11-step-by-step-guide/"><u>Fixing Yellow Crash Screens on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-completely-sever-non-primary-accounts-on-windows/"><u>Guide to Completely Sever Non-Primary Accounts on WIndows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719301459575-the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,3 +148,24 @@ subst Z: "C:\Cloud Drives\Dropbox"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-dive-into-fixes-for-your-troublesome-instagram-video/"><u>[New] Dive Into Fixes for Your Troublesome Instagram Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-virtual-visage-creation-shaping-your-exaggerated-image-for-2024/"><u>[New] Virtual Visage Creation Shaping Your Exaggerated Image for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] 2024 Approved The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-smooth-control-transition-from-pc-mousekeyboard-to-steam-deck-via-barrier-technique/"><u>Achieving Smooth Control Transition From PC Mouse/Keyboard To Steam Deck via Barrier Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-window-interface-elevate-your-workspace/"><u>Customize Window Interface: Elevate Your Workspace</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-rectifying-windows-xps-network-problems/"><u>Deciphering and Rectifying Windows XP's Network Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-key-customization-techniques-explored/"><u>Elevate Your Windows 11: Key Customization Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800700e9-error-a-step-by-step-approach/"><u>Eliminating the 0X800700E9 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-your-photos-adding-text-and-captions-to-images-in-microsoft-photos/"><u>Enhancing Your Photos Adding Text and Captions to Images in Microsoft Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-page-not-loaded-issue-in-windows-store/"><u>Fixing 'Page Not Loaded' Issue in Windows Store</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles/"><u>From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-mouse-gestures-in-microsoft-edge-for-windows-11/"><u>How to Enable Mouse Gestures in Microsoft Edge for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-techniques-for-freeing-up-disk-space-in-win11-without-file-deletion-max-156-chars/"><u>Revolutionary Techniques for Freeing Up Disk Space in Win11 Without File Deletion (Max 156 Chars)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rt-of-lyric-videos-using-lyric-video-maker-software-for-2024/"><u>The Art of Lyric Videos Using Lyric Video Maker Software for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-hidden-dangers-understanding-privacy-threats-of-using-chatbots/"><u>Top 3 Hidden Dangers: Understanding Privacy Threats of Using Chatbots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-stalled-files-transfers-in-windows-11-environment/"><u>Unfreezing Stalled Files Transfers in Windows 11 Environment</u></a></li>
+</ul></div>
+

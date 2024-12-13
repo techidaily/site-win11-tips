@@ -1,7 +1,7 @@
 ---
 title: Twirl Your Photos with These 6 Steps on Windows 11
-date: 2024-11-29T23:31:09.236Z
-updated: 2024-12-06T20:40:30.595Z
+date: 2024-12-10T19:22:49.463Z
+updated: 2024-12-12T17:16:28.559Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 5. Press the **Rotate left** or **Rotate right** button on Explorer’s command bar, depending on preference.  
 ![The Rotate left option on the command bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-command-bar-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can select the same options on File Explorer’s context menu. Right-click an image and select **Rotate left** or **Rotate right**. Those are convenient shortcuts for rotating images saved on the desktop.
 
 ![The rotation context menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-context-menu-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Rotate Images With the Photos App
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 ![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
 
 ## 3\. How to Rotate Images With Paint
@@ -81,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 6. Select the **Rotate right 90°** or alternative left and 180° options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Press **Ctrl** \+ **S** to save over the original file.
 
  You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Rotate Images With Edge’s Image Editor
 
@@ -100,15 +96,11 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
 6. Click **Save** to download the rotated image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
@@ -128,7 +120,15 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Rotate Images With IrfanView
 
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rotate Images for a Better Orientation in Windows 11
@@ -157,21 +157,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>[New] In 2024, Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-personal-branding-essential-strategies-for-facebook-bio-crafting/"><u>[Updated] In 2024, Mastering Personal Branding Essential Strategies for Facebook Bio Crafting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-top-7-strategies-suggested-by-apple-for-optimizing-apps-on-visionos-platform-insights/"><u>1. Top 7 Strategies Suggested by Apple for Optimizing Apps on VisionOS Platform – Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-homescreen-links-without-changing-start-menu/"><u>Adjust Homescreen Links without Changing Start Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-downtime-disaster-essential-steps-for-checking-windows-11-device-availability/"><u>Avoid Downtime Disaster: Essential Steps for Checking Windows 11 Device Availability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-the-bug-the-comprehensible-guide-for-resolving-error-0x800700e9-in-xbox-game-pass-and-windows-11/"><u>Beating the Bug: The Comprehensible Guide for Resolving Error 0X800700E9 in Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719317580799-brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-xs-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone XS Max How to Bypass?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-stability-problems-in-age-of-empires-ii-remastered-for-seamless-gaming-experience/"><u>Overcoming Stability Problems in Age of Empires II Remastered for Seamless Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-for-fixing-drag-problems-on-win11/"><u>Quick Tips for Fixing Drag Problems on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719286286586-unmasking-windows-hidden-chronicle-view-clean-up/"><u>Unmasking Windows' Hidden Chronicle - View, Clean Up</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +164,23 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secret-weapons-for-follower-increase-for-2024/"><u>[New] Instagram's Secret Weapons for Follower Increase for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-banishing-blackout-blues-from-youtube-videos-for-2024/"><u>[Updated] Banishing Blackout Blues From YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-best-facebook-video-downloader-and-addons-for-firefox/"><u>2023 | Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://article-tips.techidaily.com/direct-link-method-for-photos-and-videos-for-2024/"><u>Direct Link Method for Photos & Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-utilizing-remaining-space-in-your-ram/"><u>Efficiently Utilizing Remaining Space in Your RAM</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-quality-transformer-for-video-enthusiasts/"><u>In 2024, Premium Quality Transformer for Video Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-speed-locate-your-gpu-on-windows-11-pc/"><u>Lightning Speed: Locate Your GPU on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-non-operational-win11-licenses-work/"><u>Making Non-Operational Win11 Licenses Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-failures-in-windows-11/"><u>Overcoming Installation Failures in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-images-lightrooms-favorite-luts/"><u>Perfecting Your Images LightRoom's Favorite LUTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-the-phantom-disk-space-gobblers/"><u>Stopping the Phantom Disk Space Gobblers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-fine-tuning-disk-storage-via-ntfs-compression/"><u>The Complete Guide to Fine-Tuning Disk Storage via NTFS Compression</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/visual-symphony-iosandroid-instagram-collage-app-for-2024/"><u>Visual Symphony IOS/Android Instagram Collage App for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-device-names-uniqueness-with-5-steps-windows-edition/"><u>Winning Device Names Uniqueness with 5 Steps (Windows Edition)</u></a></li>
+</ul></div>
+

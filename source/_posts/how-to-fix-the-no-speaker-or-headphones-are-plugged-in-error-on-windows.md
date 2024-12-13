@@ -1,7 +1,7 @@
 ---
 title: How to Fix the No Speaker or Headphones Are Plugged In Error on Windows
-date: 2024-12-02T21:23:17.359Z
-updated: 2024-12-07T02:19:40.731Z
+date: 2024-12-09T23:02:21.779Z
+updated: 2024-12-13T00:52:07.577Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ To run the troubleshooter:
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
 5. Select your device speaker and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**NO** ,**Do not open Audio Enhancements** in the**Turn off Sound Effects and Enhancements** dialog.
 7. Apply any recommended fixes and check for any improvements.
 
@@ -73,19 +69,16 @@ To run the troubleshooter:
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
-![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
-4. Click**OK** to add network service to the local user group.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
+4. Click**OK** to add network service to the local user group.
 
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
@@ -94,6 +87,10 @@ To run the troubleshooter:
  If you use the Windows Home edition, you can use Command Prompt to add Local Network and Local Services to the local administrator group. Here's how to do it.
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
@@ -105,7 +102,7 @@ To run the troubleshooter:
 6. Restart your PC and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Uninstall the Audio Device and Driver
@@ -120,16 +117,21 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
-![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
-6. Click**Uninstall** to remove the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
+6. Click**Uninstall** to remove the device.
 
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
 
@@ -142,7 +144,7 @@ To uninstall an audio device:
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press the**Win** key, and type**device installation settings.**
@@ -171,24 +173,24 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-facebook-blue-verification-a-step-by-step-guide/"><u>[New] 2024 Approved Unlocking Facebook Blue Verification A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-wipe-out-your-youtube-buffered-videos/"><u>[New] How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness/"><u>[Updated] 2024 Approved Elevate Your YouTube Shorts Top 10 Strategies for Uniqueness</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-in-depth-methodology-for-adding-srt-in-mp4-files/"><u>[Updated] 2024 Approved In-Depth Methodology for Adding SRT in MP4 Files</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/download-facebook-videos-anywhere-winmacosiphone/"><u>Download Facebook Videos Anywhere Win/macOS/iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-routes-to-your-computers-command-center/"><u>Easy Routes to Your Computer’s Command Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-xbox-audio-quality-within-windows-11-framework/"><u>Elevating Xbox Audio Quality Within Windows 11 Framework</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-context-menus-add-a-windows-diskspace-viewer/"><u>Enhance Context Menus: Add a Window's DiskSpace Viewer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-deciphering-youtubes-subscriber-code/"><u>In 2024, Deciphering YouTube's Subscriber Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jpgjpeg-raw-google/"><u>JPG/JPEG 이미지를 무료로 원시 상자(RAW)으로 Google 탐색에서 전환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-network-issues-with-ea-games-on-pc/"><u>Mastering Network Issues with EA Games on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-the-initializing-wow-snag/"><u>Sidestep the Initializing WoW Snag</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-dailymotion-videos-into-multiple-formats-including-mp4-and-extended-graphics-array/"><u>Ultimate Guide to Converting DailyMotion Videos Into Multiple Formats Including MP4 and eXtended Graphics Array</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-powertoys-across-computers/"><u>Unifying PowerToys Across Computers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/shing-the-power-of-youtube-finding-and-creating-partnerships/"><u>Unleashing the Power of YouTube Finding and Creating Partnerships</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-trim-cut-and-edit-avi-videos-with-ease-16-top-rated-tools-windows-mac-android/"><u>Updated In 2024, Trim, Cut, and Edit AVI Videos with Ease 16 Top-Rated Tools Windows, MAC, Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-unearth-lost-features-and-tab-for-a-smoother-experience/"><u>Windows 11: Unearth Lost Features and Tab for a Smoother Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unraveling-virtual-realitys-interactive-gear/"><u>[Updated] 2024 Approved Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-effortless-link-upload-on-instagrams-social-sphere/"><u>[Updated] Effortless Link Upload on Instagram's Social Sphere</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-air-vs-pro-with-m1-optimal-laptop-for-your-needs/"><u>[Updated] In 2024, Air Vs. Pro with M1 Optimal Laptop for Your Needs?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-champions-5-wearable-devices-for-top-fpv-racing/"><u>2024 Approved Champion's 5 Wearable Devices for Top FPV Racing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-heic-to-jpeg-switch-on-windows-11/"><u>Cutting-Edge Methods for Heic to JPEG Switch on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-video-output-fixing-black-webcam-display/"><u>Enhancing Video Output: Fixing Black Webcam Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-uses-for-microsofts-vcplusplus-distribute/"><u>Exploring Uses for Microsoft's VC++ Distribute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-go-incognito-with-admin-credentials-on-windows-11/"><u>How to Go Incognito with Admin Credentials on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-epson-xp-400-printer-drivers-a-complete-guide/"><u>How to Install the Epson XP-400 Printer Drivers: A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-t2-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo T2 5G Easily?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-windows-experience-with-unseen-functionalities-from-vivetool/"><u>Maximize Your Windows Experience with Unseen Functionalities From ViVeTool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prepare-to-be-amazed-by-the-power-of-intels-newest-ai-chip-in-upcoming-laptop-models-discover-all-the-spectacular-perks-techreviewzen/"><u>Prepare to Be Amazed by the Power of Intel's Newest AI Chip in Upcoming Laptop Models - Discover All the Spectacular Perks! | TechReviewZen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-chrome-repair-for-windows-sudden-closure-errors/"><u>Quick Chrome Repair for Windows' Sudden Closure Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/route-to-administrator-rights-on-window-control-hub/"><u>Route to Administrator Rights on Window Control Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rectifying-cannot-link-with-nvidia-error-in-windows/"><u>Steps for Rectifying Cannot Link with NVIDIA Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-command-prompt-with-elevated-authority-in-windows-11/"><u>The Ultimate Guide to Command Prompt with Elevated Authority in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-phantom-v-fold-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Phantom V Fold for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-samsung-printer-drivers-on-windows-a-comprehensive-guide/"><u>Troubleshooting and Fixing Samsung Printer Drivers on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-leaving-no-footprint-on-facebook-is-smart/"><u>Why Leaving No Footprint on Facebook Is Smart</u></a></li>
 </ul></div>
 

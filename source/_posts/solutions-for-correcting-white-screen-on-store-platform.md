@@ -1,7 +1,7 @@
 ---
 title: Solutions for Correcting White Screen on Store Platform
-date: 2024-11-30T17:59:29.532Z
-updated: 2024-12-07T00:27:51.102Z
+date: 2024-12-06T01:21:58.975Z
+updated: 2024-12-13T00:11:39.994Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Microsoft Store
 
  Microsoft Store showing a black or white screen might be due to a temporary glitch. In this case, restarting the app should be enough to fix it.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Your Internet Connection
 
@@ -62,6 +62,10 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 ## 4\. Delete the Microsoft Store Cache
@@ -72,10 +76,6 @@ Open Microsoft Store again and check if it’s now working.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the SFC Tool
 
  There’s a chance that Microsoft Store isn’t working as usual due to corrupt or damaged system files. To fix the issue, you should run the Windows System File Checker tool.
@@ -85,6 +85,10 @@ Open Microsoft Store again and check if it’s now working.
  Make sure you don’t close the Command Prompt window until the scan is complete. Windows will search and automatically replace any corrupt or damaged system files.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
 
@@ -101,14 +105,10 @@ Go through the below steps to change the Windows region:
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -119,7 +119,7 @@ Go through the below steps to change the Windows region:
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Windows PC
@@ -147,17 +147,18 @@ Go through the below steps to change the Windows region:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-effective-lut-implementation-in-adobe-premiere-for-2024/"><u>[New] Effective LUT Implementation in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>[New] Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-viewership-with-informative-youtube-video-captions/"><u>[Updated] 2024 Approved Enhancing Viewership with Informative YouTube Video Captions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-building-brand-presence-through-strategic-smm/"><u>[Updated] Building Brand Presence Through Strategic SMM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-solutions-for-streamlining-windows-display-issues/"><u>5 Solutions for Streamlining Windows Display Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-handy-windows-10-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 10 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vob-mov-movavi/"><u>線上無需付費 VOB 到 MOV 轉換器 - Movavi 專業解答方案</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-strategy-to-reactivate-winget-on-w11/"><u>A Step-by-Step Strategy to Reactivate Winget on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-14-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 14 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/visual-vanguard-the-top-videoviral-tweets/"><u>Visual Vanguard The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-creating-captivating-podcast-highlights/"><u>[New] 2024 Approved Creating Captivating Podcast Highlights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[New] Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pajama-plots-revisited-critique-and-analysis-for-kids-slumber-for-2024/"><u>[New] Pajama Plots Revisited Critique and Analysis for Kids' Slumber for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-effective-dual-screen-experience-with-w11-and-android/"><u>Crafting an Effective Dual-Screen Experience with W11 and Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-download-podcasts-to-computers-in-2024/"><u>How To Download Podcasts to Computers, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-fuses-with-pearson-knowledge-collective/"><u>Mondly Fuses with Pearson Knowledge Collective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organized-thoughts-in-one-place-embracing-obsidian/"><u>Organized Thoughts in One Place - Embracing Obsidian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-solving-windows-11-exception-bsods/"><u>Quick Guide to Solving Windows 11 Exception BSODs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-unblocking-files-a-powershell-approach/"><u>Techniques for Unblocking Files: A PowerShell Approach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-10-note-taking-solutions-for-the-year-2024/"><u>The Best 10 Note-Taking Solutions for the Year 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/1-tools-for-enthusiasts-to-rip-and-save-videos-for-2024/"><u>Top 11 Tools for Enthusiasts to Rip and Save Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/touch-and-tap-are-they-boosting-user-engagement-on-facebook/"><u>Touch & Tap: Are They Boosting User Engagement on Facebook?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-cooling-policy-settings/"><u>Understanding Windows Cooling Policy Settings</u></a></li>
 </ul></div>
 

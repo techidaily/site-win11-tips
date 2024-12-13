@@ -1,7 +1,7 @@
 ---
 title: Smart Strategies to Skirt File Explorer Mishaps
-date: 2024-12-02T19:48:54.535Z
-updated: 2024-12-06T19:41:39.201Z
+date: 2024-12-10T19:44:46.373Z
+updated: 2024-12-12T17:22:04.858Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
@@ -38,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 ## 2\. Neglecting Keyboard Shortcuts
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
  Moreover, you should also mark important files as favorites. File Explorer has a **Favorites** section where it lists everything you labeled as a favorite. By avoiding the **Favorites** section, you could spend more time finding that important file whenever needed. Both **Recent** and **Favorites** items are displayed on the File Explorer Home Page.
@@ -73,19 +73,23 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
  You should avoid this common mistake to work more efficiently on Windows. Instead, you need to use what's called "search syntax" in File Explorer to find the exact item you're looking for.
 
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -106,7 +110,7 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
@@ -117,10 +121,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  One of the most widely used customization options is changing how folders and files are displayed in File Explorer. You can view files and folders with different view options, including tiles, lists, icons, content, and more. You can also [hide or reveal files containing sensitive information](https://www.makeuseof.com/tag/3-quick-easy-ways-hide-folder-windows-7/) at your convenience from File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Windows File Explorer Like a Pro
 
  There are keyboard shortcuts for many of the functionalities we use daily in File Explorer. However, that doesn't mean you should always use them. Sometimes, a few clicks from the mouse does the job faster than using the shortcut keys.
@@ -129,21 +129,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-snipping-tools-for-mac/"><u>[New] In 2024, 5 Best Snipping Tools for Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approach-to-reveal-hidden-drives-on-windows/"><u>Approach to Reveal Hidden Drives on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/augmenting-desktop-interactivity-the-widget-approach-in-win-11/"><u>Augmenting Desktop Interactivity: The Widget Approach in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-editing-setup-office-products-word-for-text-only-opened-attachments/"><u>Avoid Editing: Setup Office Products (Word) for Text Only Opened Attachments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-visual-clutter-inside-windows-search/"><u>Avoiding Visual Clutter Inside Windows Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights-from-zdnet/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/incorporate-relevant-keywords-early-in-the-title-to-help-search-engines-understand-the-pages-content-quickly-and-efficiently/"><u>Incorporate Relevant Keywords Early in the Title to Help Search Engines Understand the Page's Content Quickly and Efficiently</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-prevent-video-game-crashes-on-pc-systems-tips/"><u>Mastering Stability: Prevent Video Game Crashes on PC Systems - Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-20-proplus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 20 Pro+ Device</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using/"><u>Updated 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo X100 Pro? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +136,23 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-video-submission-pc-and-android-users-blueprint-for-2024/"><u>[New] Facebook Video Submission PC and Android Users' Blueprint for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streamlining-discovery-the-key-to-effective-video-titling/"><u>[Updated] 2024 Approved Streamlining Discovery The Key to Effective Video Titling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-splendid-windows-11-backdrops/"><u>2024 Approved Secrets to Splendid Windows 11 Backdrops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-power-kits-for-gopro-hero5-official-and-alternate-partners/"><u>2024 Approved Ultimate Power Kits for GoPro Hero5 Official & Alternate Partners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-incorrect-text-display-windows-edition/"><u>Eliminating Incorrect Text Display Windows Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-performance-and-design-of-cycwagens-newest-electric-cargo-bike/"><u>Explore the Performance and Design of CycWagen's Newest Electric Cargo Bike</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lockscreen-bypass-for-projector-mode-in-windows-11/"><u>Lockscreen Bypass for Projector Mode in WIndows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-your-browsing-experience-on-pc/"><u>Mastery Over Your Browsing Experience on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/muting-unsolicited-social-network-friend-alerts/"><u>Muting Unsolicited Social Network Friend Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-screen-tweaks-align-your-viewing-panel/"><u>Simple Screen Tweaks: Align Your Viewing Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-smoothly-running-outlook-on-windows-pcs/"><u>Strategies for Smoothly Running Outlook on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-finding-lost-notifications-on-apples-mobile-os/"><u>The Ultimate Tutorial for Finding Lost Notifications on Apple's Mobile OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-sidestep-the-shamware-snare/"><u>Windows Woes? Sidestep the Shamware Snare</u></a></li>
+</ul></div>
+

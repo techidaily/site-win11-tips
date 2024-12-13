@@ -1,7 +1,7 @@
 ---
 title: How to Find Missing SSD/HDD Drives?
-date: 2024-12-04T16:31:25.694Z
-updated: 2024-12-06T22:03:36.570Z
+date: 2024-12-05T17:09:13.455Z
+updated: 2024-12-12T17:28:30.324Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Scan Your Computer for Viruses
@@ -37,17 +37,21 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, if your drive doesn't pop up right away, you can try [using a System Restore point to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) back to a point in time when it was showing. If that doesn't work, it could be that the virus corrupted the hard drive's files, and you can easily fix this by [running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Try Changing the Drive's Name
 
  Sometimes, a glitch can cause Windows to no longer recognize the drive. By [renaming the drive on Windows](https://www.makeuseof.com/change-volume-label-windows-11/), you can trigger a refresh of the operating system's recognition system so that the drive reappears.
 
  One thing to note is that since you can't see the drive in File Explorer, we recommend using the Disk Management tool or Command Prompt to rename it instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Rescan Your Disks
 
@@ -58,17 +62,14 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![launching-computer-management-from-windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-computer-management-from-windows-search.jpg)
 3. In the navigation pane on the left, expand **Storage** and select **Disk Management**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the Disk Management option in Computer Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-disk-management-option-in-computer-management.jpg)
 4. Click **Action** in the top menu and select **Rescan Disks**.  
-![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
  Now, check to see if you can see the drive again and if you can access it.
 
@@ -78,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![updating a disk drive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/updating-a-disk-drive-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Afterward, you can check if the drive has reappeared in File Explorer and the Send to menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Conflicting Software
 
@@ -100,25 +101,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
  Rest assured, the drive didn't magically disappear from your computer. It's just that Windows cannot recognize it for some reason, and we're going to show you how to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tinyflicker-log-review-and-options-to-consider/"><u>[Updated] In 2024, TinyFlicker Log Review & Options to Consider</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-your-ringtone-rescue-the-best-4-websites-listed-here-for-2024/"><u>[Updated] Your Ringtone Rescue The Best 4 Websites Listed Here for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-to-fix-failed-security-codes-from-epic-games-on-windows/"><u>7 Strategies to Fix Failed Security Codes From Epic Games on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-superior-features-added-to-windows-11-feb-update/"><u>9 Superior Features Added to Windows 11, Feb Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-errors-caused-by-organization-managed-features-on-windows-11/"><u>Addressing Errors Caused by Organization-Managed Features on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-insider-look-at-microsofts-revolutionary-copilot-tool/"><u>An Insider Look at Microsoft's Revolutionary Copilot Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-overlapping-defenses-opt-for-a-singular-antivirus-on-windows/"><u>Avoid Overlapping Defenses: Opt for a Singular Antivirus on Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids-for-2024/"><u>Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209850892-9781635357530-haunted/"><u>Haunted | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C55 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-fix-guide-for-error-0x80131500/"><u>Microsoft Store Fix Guide for Error 0X80131500</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-your-video-editing-with-device-filters-for-2024/"><u>Streamlining Your Video Editing with Device Filters for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719328507288-uncomplicated-start-menus-say-no-to-ads/"><u>Uncomplicated Start Menus - Say No to Ads!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/upgrade-your-visuals-the-best-free-online-video-quality-improvers-for-2024/"><u>Upgrade Your Visuals The Best Free Online Video Quality Improvers for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -126,3 +108,23 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-content-access-free-downloader-tools-for-pinterest-videos/"><u>[New] In 2024, Effortless Content Access Free Downloader Tools for Pinterest Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-accelerate-creativity-pro-level-lunapic-techniques-unveiled/"><u>[Updated] Accelerate Creativity Pro-Level LunaPic Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/zing-youtubes-creator-rewards-regularity-for-2024/"><u>Analyzing YouTube's Creator Rewards Regularity for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-c51-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme C51 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-false-connections-on-social-media-platforms/"><u>Identifying False Connections on Social Media Platforms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-xr-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone XR Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-glitch-error-x80072f30-fix-guide/"><u>Overcoming Microsoft Store Glitch: Error X80072F30 Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recommendations-for-rewinding-power-plans-in-windows/"><u>Recommendations For Rewinding Power Plans in WIndows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-skyrim-with-script-enhancement-fixes/"><u>Reigniting Skyrim with Script Enhancement Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-crash-code-error-0x80070194/"><u>Resolving OneDrive Crash Code (Error 0X80070194)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-eliminating-isdonedll-issues-on-windows/"><u>Step-by-Step Tutorial: Eliminating ISDone.dll Issues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/thermal-efficiency-for-gamers-laptops-while-playing/"><u>Thermal Efficiency for Gamers' Laptops While Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-win11-notepad-via-smart-coach/"><u>Transform Win11 Notepad via Smart Coach</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-chrome-freezing-tips-for-windows-11-users/"><u>Winning the Battle Against Chrome Freezing - Tips for Windows 11 Users</u></a></li>
+</ul></div>
+

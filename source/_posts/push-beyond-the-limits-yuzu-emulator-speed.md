@@ -1,7 +1,7 @@
 ---
 title: "Push Beyond the Limits: Yuzu Emulator Speed"
-date: 2024-08-23T07:06:47.867Z
-updated: 2024-08-24T07:06:47.867Z
+date: 2024-12-05T16:45:30.256Z
+updated: 2024-12-12T22:57:08.471Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 
  Therefore, if the bad performance of the Yuzu emulator spoils your gaming experience, we'll show you how to speed it up and play games at a decent frame rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. First, Optimize Your OS
 
  Unless your operating system is optimized for gaming, no emulator or app will deliver the best performance. Thus, to get a smooth performance on the Yuzu emulator, check out our [guide covering different steps to optimize your Windows 10 for gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). The same steps apply to optimizing Windows 11 if you have already upgraded.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 
  Using the official documentation provided by your GPU manufacturer can help you optimize the GPU for maximum performance. Once you've done that, don't forget to [update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) before applying other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change Graphics Preference for Yuzu Emulator in Settings App
 
  Windows allows users to select the graphics preference for individual apps if they want the best experience. Thus, to increase the FPS, you should set the graphics performance of the Yuzu emulator to high. Here's how you can change the graphics preference in Windows Settings:
@@ -43,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 4. Click on **Graphics** under **Related settings**.  
 ![Clicking on the Graphics Option under Related Settings in Display Menu in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Graphics-Option-under-Related-Settings-in-Display-Menu-in-Windows-Settings-App.jpg)
 5. Choose the **Desktop app** from the **Add an app** dropdown and click the **Browse** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking on the Browse Button after Choosing Desktop App from the Add an App Dropdown Menu Under Graphics Tab in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Clicking-on-the-Browse-Button-after-Choosing-Desktop-App-from-the-Add-an-App-Dropdown-Menu-Under-Graphics-Tab-in-Windows-Settings-App.jpg)
 6. Go to the location where the Yuzu emulator's executable file resides, which is usually as follows:  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 `C:/Users/<your username>/AppData/Roaming/Microsoft/Windows/Start Menu/Programs`
 7. Once you select it, you'll see the emulator's executable file appear in your list of installed apps.
 8. Click on the **Yuzu** emulator in the list of installed apps and then click **Options**.  
@@ -59,13 +54,15 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 ![Hitting the Save Button after Switching the Graphics Preferences for Yuzu Emulator to High in the Options Tab of Yuzu Emulator in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Hitting-the-Save-Button-after-Switching-the-Graphics-Preferences-for-Yuzu-Emulator-to-High-in-the-Options-Tab-of-Yuzu-Emulator-in-Windows-Settings-App.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset Your Emulator's Settings to Their Defaults
 
  Have you recently altered the emulator's settings and noticed sluggish performance? If you've, you should reset the Yuzu emulator settings. Here's how:
@@ -74,13 +71,14 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 2. Go to the **Emulation** tab and select **Configure**.  
 ![Clicking on the Configure Option in the Dropdown of the Emulation Tab of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Configure-Option-in-the-Dropdown-of-the-Emulation-Tab-of-Yuzu-Emulator-App.jpg)
 3. Navigate to the **General** tab on the left.
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the right pane, click **Reset All Settings**.  
 ![Clicking on the Reset All Settings Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-reset-all-settings-option-in-general-settings-of-yuzu-emulator-app.jpg)
 
  If you have already customized the emulator's settings for your games, you can follow the below tips without resetting the settings. However, if possible, do so before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable VSync
 
@@ -95,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 ![Disabling the VSync Mode in the Yuzu Emulator Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disabling-the-vsync-mode-in-the-yuzu-emulator-settings-on-windows.jpg)
 
  If disabling VSync further disrupts game performance, enable it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Switch Region
 
@@ -119,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 4. Set the **Limit Speed Percent** value to **100%**, which is the default. Additionally, you can increase it further to see how it impacts the game's performance or uncheck the option entirely.  
 ![Increasing the Speed Limit by Clicking on the Limit Speed Percent Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/increasing-the-speed-limit-by-clicking-on-the-limit-speed-percent-option-in-general-settings-of-yuzu-emulator-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Change the Accuracy Level
 
  A high accuracy level can help you ace any game, but on the downside, it can slow your emulator down, especially if you have a low-end PC. Therefore, playing a game with the highest accuracy would be counterproductive while it continues to lag and stutter. Consequently, you need to balance it.
@@ -135,23 +134,6 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 5. From the **Accuracy Level** dropdown, choose **Normal**.  
 ![Changing the Accuracy Level to Normal in Yuzu Emulator Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/changing-the-accuracy-level-to-normal-in-yuzu-emulator-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 9\. Change Graphics API Settings
 
  There are two API settings available in Yuzu; OpenGL and Vulkan. While most games perform exceptionally well with Vulkan selected in the API settings and your dedicated graphics card set as the Device, some perform better with OpenGL. Hence, switch the API to see if it improves performance.
@@ -165,8 +147,9 @@ Key features:
 ![Switching the API from the Dropdown in Graphics Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/switching-the-api-from-the-dropdown-in-graphics-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Disable Audio
 
  You can also slightly improve the emulator's performance by disabling audio in the Yuzu emulator. If playing games without audio won't negatively impact your gaming experience, follow these steps to turn it off:
@@ -179,15 +162,18 @@ Key features:
 ![Dragging the Volume Slider to Left after Selecting Null in the Dropdown Menus of Output Engine Input Device and Output Device Options in Audio Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/dragging-the-volume-slider-to-left-after-selecting-null-in-the-dropdown-menus-of-output-engine-input-device-and-output-device-options-in-audio-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Speed Up Yuzu Emulator on Windows
 
  Laggy emulators ruin our leisure time. Hopefully, by making the changes mentioned in the article, you should be able to speed up the Yuzu emulator. If the emulator continues to lag, switch to another Nintendo Switch emulator. As alternatives, Ryujinx and Cemu are the best choices.
 
  Therefore, if the bad performance of the Yuzu emulator spoils your gaming experience, we'll show you how to speed it up and play games at a decent frame rate.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -195,3 +181,25 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transforming-youtube-content-using-the-power-of-imovie/"><u>[New] In 2024, Transforming YouTube Content Using the Power of iMovie</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nderstanding-satire-building-parodies-online-for-2024/"><u>[New] Understanding Satire Building Parodies Online for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-echoing-emptiness-guiding-graduated-gone-sounds-in-pp-for-2024/"><u>[Updated] Echoing Emptiness Guiding Graduated Gone Sounds in PP for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-filter-application-guide-tips-and-tricks/"><u>[Updated] Instagram Filter Application Guide - Tips & Tricks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-of-chuckles-parody-playlists-for-2024/"><u>Echoes of Chuckles Parody Playlists for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-image-shows-in-windows-11-unravel-seven-simple-steps/"><u>Effortless Image Shows in Windows 11 – Unravel Seven Simple Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices-for-2024/"><u>How to Create GIFs From YouTube Videos on Desktop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-play-7t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Play 7T Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>In 2024, Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiate-windows-media-player-efficiently/"><u>Initiate Windows Media Player Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-name-update-on-windows-11/"><u>Mastering User Name Update on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-recycle-error-in-win1011-a-step-by-step-approach/"><u>Overcoming Recycle Error in WIN10/11: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-minimizing-apps-using-keyboard-shortcuts/"><u>Speed Up Your PC: Minimizing Apps Using Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-desktop-menus-to-fit-your-needs/"><u>Tailoring the Windows 11 Desktop Menus to Fit Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-old-games-into-modern-memories-on-w11-pcs/"><u>Transform Old Games Into Modern Memories on W11 PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-youtube-sponsor-opportunities-via-famebit-methods-for-2024/"><u>Unlocking YouTube Sponsor Opportunities via FameBit Methods for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-your-system-writes-shortage/"><u>Unraveling & Correcting Your System' Writes Shortage</u></a></li>
+</ul></div>
+

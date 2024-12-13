@@ -1,7 +1,7 @@
 ---
 title: Tailor-Made Screen Savers for Your Win11 PC
-date: 2024-11-30T22:46:54.009Z
-updated: 2024-12-07T00:42:05.020Z
+date: 2024-12-05T17:20:39.658Z
+updated: 2024-12-12T18:45:58.196Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![The 3D Text Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below are some motion settings you can alter to change how the 3D text rotates. Click the**Rotation Type** drop-down menu to choose a different rotation style setting. Drag the**Rotation Bar** slider's left and right to change how quickly the text rotates.
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 5. Next, open the extracted screensavertweaker folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the Windows 8 and x64 subfolders.
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Click the**Bubbles** tab to view options for customizing that screensaver. There you can change the number of bubbles the screensaver has by dragging the slider on the**Number** of**Spheres** bar. To change the size of the bubbles, drag the slider on the**Sphere Radius** bar. You can change the force of turbulence (bubble bounce) by dragging the slider on the**Turbulence Force** bar.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
@@ -107,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customize Windows 11's Screensavers for Better Effect
 
@@ -135,18 +135,20 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-the-top-10-historical-education-channels-for-2024/"><u>[New] Guide to the Top 10 Historical Education Channels for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-video-on-twitter-top-converter-picks/"><u>[New] Mastering Video on Twitter Top Converter Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-alternative-techniques-for-temporarily-haltin-windows-11-safety/"><u>5 Alternative Techniques for Temporarily Haltin Windows 11 Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-for-windows-firewall-configuration/"><u>7 Strategies for Windows Firewall Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-disappearing-badge-icons/"><u>Addressing Disappearing Badge Icons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-utorrent-installers-on-pc-with-os-x/"><u>Addressing Non-Functional uTorrent Installers on PC with OS X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-restart-and-shutdown-disruptions-from-windows-faulty-apps/"><u>Addressing Restart and Shutdown Disruptions From Windows Faulty Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-note-visibility-in-windows-desktop/"><u>Boost Note Visibility in Windows Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-editing-online-top-picks-and-reviews/"><u>In 2024, Free Video Editing Online Top Picks and Reviews</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-correcting-face-recognition-blunders-in-apples-image-album/"><u>Master the Art of Correcting Face Recognition Blunders in Apple's Image Album</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-8-crypto-trading-bots-with-chatgpt-integration/"><u>The Ultimate List: 8 Crypto Trading Bots with ChatGPT Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crafting-the-perfect-zoom-call-timeline/"><u>[New] 2024 Approved Crafting the Perfect Zoom Call Timeline</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-perfect-phrases-for-gamers-videos/"><u>[New] In 2024, Finding the Perfect Phrases for Gamers' Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] 2024 Approved Interactive Content The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-practices-for-text-in-after-effects-top-10-plans-for-2024/"><u>Best Practices for Text in After Effects (Top 10 Plans) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-mistakes-to-avoid-when-using-file-explorer-in-windows-11/"><u>Common Mistakes to Avoid When Using File Explorer in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-distinctions-between-windows-terminal-and-powershell/"><u>Decoding the Distinctions Between Windows Terminal and PowerShell</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-chatgpt-the-introduction-of-vocal-responses-to-commands/"><u>Elevating ChatGPT: The Introduction of Vocal Responses to Commands</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-automatic-aspect-ratios-in-imovie/"><u>In 2024, Exploring Automatic Aspect Ratios in iMovie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-after-fixing-upgrade-issue-0x80246007-in-windows-11/"><u>Smooth Sailing After Fixing Upgrade Issue 0X80246007 in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-screencapture-guide-for-laptop-techies/"><u>The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-gt-neo-5-se-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme GT Neo 5 SE Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-view-with-spotlight-based-wallpapers/"><u>Transform Your Desktop View with Spotlight-Based Wallpapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhindered-save-functionality-quick-fix-strategies-win11/"><u>Unhindered Save Functionality: Quick Fix Strategies WIN11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-resolving-no-mail-messages-in-windows-11-mail-service/"><u>Unlock the Mystery: Resolving No Mail Messages in Windows 11 Mail Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-app-speed-boost-5-efficient-methods/"><u>Win 11 App Speed Boost: 5 Efficient Methods</u></a></li>
 </ul></div>
 

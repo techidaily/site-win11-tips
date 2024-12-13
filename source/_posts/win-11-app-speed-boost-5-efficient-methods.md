@@ -1,7 +1,7 @@
 ---
 title: "Win 11 App Speed Boost: 5 Efficient Methods"
-date: 2024-12-02T20:01:22.823Z
-updated: 2024-12-06T20:15:48.331Z
+date: 2024-12-06T23:28:39.171Z
+updated: 2024-12-13T00:25:31.006Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 3. Type the location of the app and then click**Next** .  
 ![Browse location of the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/app-shortcut.jpg)
 4. Type a name for the app shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Finish** .
 
  If you do not know the app's location, you can click the**Browse** button, which will let you select the target of the Shortcut.
@@ -58,26 +63,23 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 3. Click the**Shortcut** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Shortcut key for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-key.jpg)
 4. In the Shortcut key field, choose the keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Apply** , and then click**OK** .
 
  It is worth noting that when you delete the app shortcut from the desktop, you can no longer open it using the keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Launch Apps Quickly Using Windows 11 Start Menu
 
 ![Search in Windows 11 Start Menu edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-in-windows-11-start-menu-edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pinning apps on the Windows 11 Taskbar will help you launch them quickly—but what if you like keeping your taskbar clean? You can keep your most used app's shortcuts hidden away, yet still quickly accessible, in the Windows 11 Start Menu.
 
@@ -85,19 +87,19 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 
  But if it isn't working, you should[check out how to fix the Start Menu](https://www.makeuseof.com/windows-start-button-not-working/) to get it working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Launch Apps Quickly Using Windows 11 Taskbar Search
 
 ![Screenshot showing how to look up OneNote app from Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-look-up-onenote-app-from-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Using Taskbar search to find the apps you want to open is similar to how you can use the Start Menu for the same purpose. To quickly launch apps on Windows 11, click on the Search icon on the Taskbar and type the name of the app you want to open. You can open it with a click, just like the Start Menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Apps Quickly on Windows 11
 
@@ -118,14 +120,22 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/automate-peaceful-slumber-for-your-w11-gadgets-at-rest/"><u>Automate Peaceful Slumber for Your W11 Gadgets at Rest</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-do-not-have-access-issue-for-app-removals/"><u>Avoiding Do Not Have Access Issue for App Removals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-solutions-for-continuous-crashes-in-dread-hunger-on-pc/"><u>Beat The Bug: Solutions for Continuous Crashes in Dread Hunger on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-storage-efficiency-in-windows-11/"><u>Boosting Storage Efficiency in Windows 11</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/guide-to-efficiently-managing-whatsapp-backups-with-icloud-for-ios-devices/"><u>Guide to Efficiently Managing WhatsApp Backups with iCloud for iOS Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>In 2024, Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/iphonesms/"><u>IPhoneで送信されたSMS文書をパソコンへ自動保存する究極ガイド</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-c51-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Realme C51 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719380953369-swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C:</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-csgo-fps-drops-issues/"><u>[Fixed] CS:GO FPS Drops Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-improving-video-playback-clearer-facebook-views-online-for-2024/"><u>[New] Improving Video Playback Clearer Facebook Views Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-asmr-a-gateway-to-enhanced-self-care/"><u>[New] In 2024, ASMR A Gateway to Enhanced Self-Care</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-creative-commons-chill-vibes/"><u>[New] In 2024, Creative Commons Chill Vibes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>[Updated] 2024 Approved Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-ftdibussys-the-reason-behind-windows-memory-compromise/"><u>Delving Into ftdibus.sys: The Reason Behind Windows Memory Compromise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-cpu-overload-checkers/"><u>Enhanced CPU Overload Checkers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-commands-to-manage-windows-user-profiles/"><u>Essential Commands to Manage Windows User Profiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-cannot-view-alerts-in-microsoft-office-outlook/"><u>How to Handle 'Cannot View' Alerts in Microsoft Office Outlook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Edge 40 Phone Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-enhancement-tab-missing-in-windows-11-try-these-5-fixes/"><u>Is the Enhancement Tab Missing in Windows 11? Try These 5 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-recovery-techniques-for-both-windows-10-and-11-users/"><u>Key Recovery Techniques for Both Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-invalid-user-alerts-a-windows-11-guide/"><u>Resolving Invalid User Alerts: A Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-default-settings-windows-11-search-restoration-guide/"><u>Revive Default Settings: Windows 11 Search Restoration Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-11-free-video-converter-tools-no-watermarks-online-or-offline-options/"><u>Top 11 Free Video Converter Tools: No Watermarks, Online or Offline Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-meme/"><u>What Is a Meme?</u></a></li>
 </ul></div>
 

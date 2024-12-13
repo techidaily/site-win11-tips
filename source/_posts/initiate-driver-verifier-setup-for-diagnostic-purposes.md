@@ -1,7 +1,7 @@
 ---
 title: Initiate Driver Verifier Setup for Diagnostic Purposes
-date: 2024-12-01T16:57:46.404Z
-updated: 2024-12-06T23:45:45.699Z
+date: 2024-12-08T22:36:46.319Z
+updated: 2024-12-12T16:11:23.588Z
 tags:
   - windows10
   - windows11
@@ -25,20 +25,20 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Opening the Driver Verifier Manager With a Taskbar Search
 
  The easiest way to open Driver Verifier Manager in Windows 11 is to type “verifier” in the Taskbar search and click on the result to start it.
 
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
@@ -58,10 +58,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 ![Open Driver Vefifier Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-task-manager.jpg)
 5. Now click**OK** to launch Driver Verifier Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. When UAC prompts, click**Yes** to grant administrative rights.
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
@@ -72,6 +68,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. In Windows File Explorer, go to the address bar.
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
@@ -84,7 +84,7 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. Type the below command into the "Create Shortcut" window and click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `C:\WINDOWS\system32\verifier.exe`
@@ -104,7 +104,7 @@ To open Driver Verifier Manager using Task Manager, do the following:
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting the Driver Verifier Manager Open, the Easy Way
@@ -126,24 +126,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-expert-dj-tools-for-windows-for-2024/"><u>[New] Expert DJ Tools for Windows for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-overcoming-srt-transfer-issues-from-premiere/"><u>[Updated] Overcoming SRT Transfer Issues From Premiere</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-high-profile-discussions/"><u>[Updated] Unlocking High-Profile Discussions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracts-for-sudden-windows-notepad-shutdowns/"><u>Counteracts for Sudden Windows Notepad Shutdowns</u></a></li>
-<li><a href="https://win-dash.techidaily.com/finding-the-most-recent-asus-notebook-software-updates-a-complete-walkthrough/"><u>Finding the Most Recent ASUS Notebook Software Updates: A Complete Walkthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-plain-in-windows-11-shapes/"><u>Getting Plain in Windows 11 Shapes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-customize-windows-11s-default-screensavers/"><u>How to Customize Windows 11'S Default Screensavers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2022-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2022) to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-noise-cancelled-skype-communication/"><u>In 2024, Noise-Cancelled Skype Communication</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-preserve-your-display-win-os-snapshots-explained/"><u>In 2024, Preserve Your Display Win OS Snapshots Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-12-proplus-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme 12 Pro+ 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/make-memories-count-learn-to-share-photos-right-now-for-2024/"><u>Make Memories Count Learn to Share Photos Right Now for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prepared-participation-test-your-pcs-microphone-webcam/"><u>Prepared Participation: Test Your PC’s Microphone, Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preparing-vbox-on-win-prioritize-deps-for-smooth-setup/"><u>Preparing VBox on Win: Prioritize Deps for Smooth Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-navigation-through-windows-11s-component-tools/"><u>Seamless Navigation Through Windows 11'S Component Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-workout-music-players-of-2024/"><u>The Best Workout Music Players of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-of-boot-into-windows-repair/"><u>The Essentials of Boot Into Windows Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-error-x7e1-in-windows-10/"><u>Unblocking Error X7E1 in Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breaking-down-the-system-behind-highlighted-video-comments-for-2024/"><u>[New] Breaking Down the System Behind Highlighted Video Comments for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content-for-2024/"><u>[New] Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-time-pick-the-fastest-5-chrome-addons-for-facebook-vids-for-2024/"><u>[New] Optimize Your Time Pick the Fastest 5 Chrome Addons for Facebook Vids for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-which-one-rules-podcasts-vs-youtube-for-entertainment/"><u>[Updated] Which One Rules? Podcasts Vs. YouTube for Entertainment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/finding-those-who-fled-my-insta-friends-for-2024/"><u>Finding Those Who Fled My Insta Friends for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-prime-and-window-11-for-uninterrupted-audio-subtitles/"><u>Harmonize Prime and Window 11 for Uninterrupted Audio-Subtitles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-your-windows-11-home-menu/"><u>How To Unlock Your Windows 11 Home Menu</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 3 online without jailbreak</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-cost-free-launch-details-innovative-features-and-latest-updates/"><u>IOS 18 Unveiled: Cost-Free Launch Details, Innovative Features & Latest Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-deactivated-windows-11-license/"><u>Overcoming Issues with Deactivated Windows 11 License</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-taskbar-interaction-proposing-key-changes-to-microsofts-design/"><u>Redefining Taskbar Interaction: Proposing Key Changes to Microsoft's Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-understanding-windows-reserved-memory/"><u>The Essentials of Understanding Windows' Reserved Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-undoing-personalization-changes-to-search-on-windows-11/"><u>Tips for Undoing Personalization Changes to Search on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-internet-interfaces-into-windowed-apps/"><u>Transforming Internet Interfaces Into Windowed Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-widespread-gaming-and-utilities-in-windows-2023-ms-store/"><u>Unleash Widespread Gaming and Utilities in Windows 2023 MS Store</u></a></li>
 </ul></div>
 

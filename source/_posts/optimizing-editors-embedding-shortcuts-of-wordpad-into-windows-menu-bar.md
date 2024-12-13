@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Editors: Embedding Shortcuts of Wordpad Into Windows Menu Bar"
-date: 2024-12-05T00:10:02.306Z
-updated: 2024-12-07T00:06:35.947Z
+date: 2024-12-06T22:54:09.980Z
+updated: 2024-12-12T16:12:12.924Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a WordPad Shortcut to Windows 11’s Context Menu
@@ -49,18 +49,23 @@ You can add a basic WordPad shortcut to the context menu like this:
 4. Input**command** for the subkey’s title.  
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
 7. Click**OK** to save the value, and exit the Registry Editor.  
 ![An Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
 
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
 
@@ -79,11 +84,11 @@ You can add a basic WordPad shortcut to the context menu like this:
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Erase the WordPad Context Menu Shortcuts
 
@@ -97,11 +102,7 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
@@ -123,20 +124,15 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-saving-every-word-a-guide-to-fb-messenger-call-logs-for-2024/"><u>[New] Saving Every Word A Guide to FB Messenger Call Logs for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-deciphering-the-latest-instagram-posting-rules/"><u>[Updated] Deciphering the Latest Instagram Posting Rules</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/creating-customized-urls-for-channel-subscribers-for-2024/"><u>Creating Customized URLs for Channel Subscribers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-one-way-outlook-on-secure-windows-operating-system/"><u>Dealing with One-Way Outlook on Secure Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-unparalleled-windows-software-selection/"><u>Dive Into Unparalleled Windows Software Selection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-depths-of-0x0000003b-bsod-error-in-windows-pcs/"><u>Exploring the Depths of 0X0000003B BSOD Error in Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-wingetui-for-w11-package-management/"><u>Harnessing the Potential of WingetUI for W11 Package Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-expand-your-playnite-digital-library-on-windows-pcs/"><u>How to Expand Your Playnite Digital Library on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>In 2024, Audience Advocacy Nurturing Connections in the Digital Age</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>In 2024, Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>In 2024, Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-non-windows-programs-as-substitutes-for-the-windows-snip-tool/"><u>Leading Non-Windows Programs as Substitutes for the Window’s Snip Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-non-responsive-apple-watch-display-what-you-need-to-know/"><u>Troubleshooting a Non-Responsive Apple Watch Display: What You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-computers-and-phones-with-samsung-flow/"><u>Uniting Computers & Phones with Samsung Flow</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-does-apples-m1-compare-to-traditional-editing-workstations-in-2024/"><u>[Updated] How Does Apple’s M1 Compare to Traditional Editing Workstations, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-applications-for-animating-3d-scenes/"><u>[Updated] Premium Applications for Animating 3D Scenes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-mastery-of-modern-warfares-fps-battle-royale/"><u>Cracking the Code: Mastery of Modern Warfare's FPS Battle Royale</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-power-reminders-in-windows-1011/"><u>Maximizing Power Reminders in Windows 10/11</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-the-tide-of-disenchanted-users-online/"><u>Navigating Through the Tide of Disenchanted Users Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-update-resets/"><u>Preventing Windows Update Resets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surpassing-the-stuck-update-status-quick-fix-tips/"><u>Surpassing the Stuck Update Status: Quick Fix Tips</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-role-of-windows-defender-as-a-replacement-for-conventional-antivirus-solutions-expert-analysis-by-yl-software/"><u>Understanding the Role of Windows Defender as a Replacement for Conventional Antivirus Solutions – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-win11s-system32/"><u>Unlocking the Secrets of Win11's System32</u></a></li>
 </ul></div>
 

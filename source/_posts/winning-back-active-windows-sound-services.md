@@ -1,7 +1,7 @@
 ---
 title: Winning Back Active Windows Sound Services
-date: 2024-08-23T07:05:28.334Z
-updated: 2024-08-24T07:05:28.334Z
+date: 2024-12-07T01:48:42.625Z
+updated: 2024-12-12T16:13:43.406Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,14 @@ To restart the Windows Audio service:
 3. In the Services window, scroll down to locate the**Windows Audio** service on the list. Then, right-click on it and select**Restart** .  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-audio-service.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure the Supporting Audio Components Are Running
 
  Windows Audio service relies on several system components to function properly on your PC. If one of these components is not running, audio services may stop responding.
@@ -45,11 +53,12 @@ Here’s how to check if the required services are running.
 6. Similarly, change the startup type for**Remote Procedure Call (RPC)** and**DCOM Server Process Launcher** services as well.  
 ![Remote Procedure Call Service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remote-procedure-call-service-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart your PC after this and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Add Local and Network Services Using Command Prompt
 
  Another thing you can do to resolve this issue is to register local and network services on Windows using Command Prompt. Here are the steps for the same.
@@ -72,9 +81,6 @@ Restart your PC after this and check if the issue is still there.
 
  If updating audio drivers manually sounds like a tedious task, you can get one of the[best driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) to ease the process.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Switch to the Default Sound Drivers
 
  Your Windows computer comes with its own set of sound drivers. If updating your current audio drivers does not help, you can switch to Windows' default sound drivers and see if that works. To do so, use the following steps:
@@ -88,9 +94,6 @@ Restart your PC after this and check if the issue is still there.
 1. Select**Yes** when the User Account Control (UAC) prompt appears.  
 ![Device Installation Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/device-installation-settings-on-windows.jpg)
 2. Now use one of the[many ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Expand the**Sound, video, and game controllers** .
 4. Right-click on your sound driver and select**Uninstall device** .
 5. Select**Uninstall** to confirm the action.
@@ -98,8 +101,9 @@ Restart your PC after this and check if the issue is still there.
 ![Uninstall Sound Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-sound-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run the SFC and DISM Scans
 
  Corrupt or damaged system files on Windows can also cause audio services to stop responding. System File Checker (SFC) and Deployment Image Servicing and Management (DISM) are two Windows tools that can help you identify and repair such system files.
@@ -124,27 +128,22 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Audio Services on Windows Is Easy
 
  It can be confusing if the audio services on Windows suddenly become unresponsive. In most cases, manually restarting the audio services should resolve the issue. If not, you may have to go through the trouble of scanning the system files or performing a system restore.
 
  That said, if none of the above solutions work, you can consider resetting your Windows computer or performing an in-place upgrade as a last resort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +152,24 @@ To perform a system restore on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-save-your-gameplay-moments-with-xbox-screen-recordings/"><u>[New] In 2024, Save Your Gameplay Moments with Xbox Screen Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/"><u>[Updated] 2024 Approved Ranking Relaxing Front Row Activities That Aren't Sports</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-wings-in-motion-a-bebop-2-parrot-journey-review-for-2024/"><u>[Updated] Wings in Motion A Bebop 2 Parrot Journey Review for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a58-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A58 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curtailing-windows-auto-update-interruptions/"><u>Curtailing Windows Auto-Update Interruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-package-incompatibility-issues-in-windows/"><u>Fixing Package Incompatibility Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-d3dx939dll-in-win11-environment/"><u>How to Restore D3DX9_39.dll in Win11 Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-recovery-cursor-and-screen-on-dark-wins-moment/"><u>Instant Recovery: Cursor & Screen on Dark Wins Moment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/marketers-methods-detecting-illusory-engagement-signals-for-2024/"><u>Marketers’ Methods Detecting Illusory Engagement Signals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-salary-talks-with-the-5w-strategy-insights-from-zdnet/"><u>Mastering Salary Talks with the 5W Strategy: Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-slow-mo-youtube-videos/"><u>New In 2024, How to Slow-Mo YouTube Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-galaxy-m54-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Galaxy M54 5G, is it possible?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-to-net-recovery-in-windows-max-156/"><u>Quick-Fix Guide to .NET Recovery in Windows (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-unresponsive-windows-batch-operations/"><u>Reviving Unresponsive Windows Batch Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-productivity-getting-comfortable-with-windows-11s-search-bar/"><u>Unlock Productivity: Getting Comfortable with Windows 11'S Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winterral-pick-new-bg/"><u>WinTerral: Pick New Bg</u></a></li>
+</ul></div>
 

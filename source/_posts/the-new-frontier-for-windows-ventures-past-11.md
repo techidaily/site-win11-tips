@@ -1,7 +1,7 @@
 ---
 title: "The New Frontier for Windows: Ventures Past 11"
-date: 2024-08-23T07:03:47.874Z
-updated: 2024-08-24T07:03:47.874Z
+date: 2024-12-09T22:33:56.788Z
+updated: 2024-12-12T21:26:12.800Z
 tags:
   - windows10
   - windows11
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
  Microsoft is already working on Windows 12, the successor of Windows 11\. They're calling Windows 12 "Next Valley" and expecting to start rolling out the next version of Windows sometime in late 2024.Windows 11 is one of the best operating systems, but it isn't without problems. So while Microsoft works on its next operating system, we want to point out a few things Microsoft can do to improve the overall user experience. Note that Microsoft might just name the version something else, but in this article, we're going to call it Windows 12 for simplicity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deeper Integration With Android Phones
 
  Windows 11 has the Phone Link app (previously called Your Phone) to integrate your android device with your Windows PC. However, Phone Link is an app that works as a doorway to your Android device. Deeper integration with Android devices would make life a lot easier.
 
 ![The app store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-android-release-date-featured.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock.com](https://www.shutterstock.com/image-photo/kumamoto-japan-oct-3-2021-new-2051415032)
 
@@ -41,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  The chances of Microsoft radically changing the design are slim. However, the Windows 12 UI might have a few major design changes as revealed in the Microsoft Ignite Keynote. Here's a tweet showing a preview of the possible design changes:
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Layered Functionality
 
  You'll find Windows installed on a wide range of devices with varying hardware. From expensive gaming PCs to low-cost PC at a clerk's desk, all use a Windows operating system. The problem? All computers use the same version of the operating system regardless of their hardware.
@@ -53,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
  Microsoft could even apply the same principle to apps. Depending on the hardware, users should be able to scale between full support for all apps and being able to run just a handful of essential apps. While this might sound a little far-fetched in the context of Windows, Chrome OS has already proved that a feature-light and web-based operating system can be an excellent choice for low-end PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Animated Wallpapers
 
  Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
@@ -63,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Else Do We Expect from Windows 12?
 
 [Windows 11's hardware requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) didn't sit well with many Windows users. However, TPM and Secure Boot are crucial security features that protect your computer. We expect these and other hardware requirements, including the 4GB RAM and 64GB of storage to increase even further for Windows 12.
@@ -78,28 +85,20 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
  Windows 12 will likely be available as a free upgrade once it releases, just like Windows 11, as long as you meet the minimum system requirements.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Windows 12 Meet Our Expectations?
 
  Whether Windows 12 will meet all our expectations remains to be seen. However, we do expect a few design changes and an increased focus on AI-based features. We're excited to see what Microsoft comes up with over the next two years as it builds the next version of Windows.
 
  In the meantime, Windows 11 is still fresh on most PCs. If you need to customize Windows 11 while you wait for Windows 12, you can use third-party apps.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +107,24 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-micro-moments-of-fame-do-youtubes-shorts-or-tiktoks-get-the-edge/"><u>[New] In 2024, Micro-Moments of Fame Do YouTubes Shorts or TikToks Get the Edge?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-fb-visibility-top-10-seo-strategies/"><u>[Updated] In 2024, Maximizing FB Visibility Top 10 SEO Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-through-the-essentials-of-snap-camera-on-ms-teams-for-2024/"><u>[Updated] Navigating Through the Essentials of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ricoh-theta-s-uncovered-a-complete-audit/"><u>[Updated] Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-run-time-error-windows-app-fix-guide/"><u>Clearing Up 'Run-Time Error': Windows App Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unreachable-status-of-steam-game-servers-on-desktop-os/"><u>Correcting Unreachable Status of Steam Game Servers on Desktop OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-dysfunctional-print-via-wwin-command-on-windows/"><u>Dealing with Dysfunctional Print via WWin Command on Windows.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevating-conference-calls-top-3-methods-4-insights/"><u>Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-obscurity-to-the-top-the-seo-playbook-for-podcasters-for-2024/"><u>From Obscurity to the Top The SEO Playbook for Podcasters for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-10-proplus-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 10 Pro+ 5G Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-techniques-for-hardware-id-discovery-in-windows-systems/"><u>Key Techniques for Hardware ID Discovery in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-video-content-script-tips-via-chatgpt/"><u>Master Your Video Content: Script Tips via ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-freezing-issues-with-spotify-on-w10w11-oses/"><u>Overcoming Freezing Issues with Spotify on W10/W11 OSes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-reno-11-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Reno 11 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-inaccessible-nvidia-control-panel-in-win11/"><u>Solutions for Inaccessible Nvidia Control Panel in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-rectifying-domain-services-print-glitches/"><u>Step-by-Step: Rectifying Domain Services Print Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-top-7-strong-points-of-why-not-to-upgrade-to-win11-just-yet/"><u>Unveiling Top 7 Strong Points of Why Not to Upgrade to Win11 Just Yet</u></a></li>
+</ul></div>
 

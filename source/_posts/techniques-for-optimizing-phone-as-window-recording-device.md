@@ -1,7 +1,7 @@
 ---
 title: Techniques for Optimizing Phone as Window Recording Device
-date: 2024-08-23T07:07:35.860Z
-updated: 2024-08-24T07:07:35.860Z
+date: 2024-12-10T18:02:27.316Z
+updated: 2024-12-12T16:54:19.397Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Your Phone as a Microphone for PC
 
  One of the best ways to achieve this is by using [WO Mic](https://wolicheng.com/womic/). With this program, you can use USB, Bluetooth, or Wi-Fi to connect your smartphone's microphone to your computer.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
  Launch the PC program (if you get a missing DLL error, install the [VC runtime redistributable from Microsoft](https://aka.ms/vs/16/release/vc%5Fredist.x86.exe)). Go to **Connection > Connect** and choose a **Transport type**.
 
 ![connect wo mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/connect-wo-mic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We'll detail the steps for all the different options below.
 
@@ -83,19 +91,10 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 3\. Connect via Wi-Fi
 
  For this method, both your phone and computer need to be connected to the same Wi-Fi network.
@@ -109,9 +108,6 @@ Close
 
 ![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the mobile WO Mic app:
 
 1. Tap the **settings cog**.
@@ -123,6 +119,10 @@ Close
 1. As your **Transport type**, select **Wi-Fi**.
 2. In the **Phone IP address** field, input the IP address from the app.
 3. Click **Connect** to begin using the microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Connect via Wi-Fi Direct
 
@@ -159,15 +159,16 @@ Close
 
 ![windows 11 sound input settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-sound-input-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  To check the microphone is detecting your voice:
 
 * On Windows 10, speak into your smartphone and you should see the volume reflected on the **Test your microphone** bar.
 * On Windows 11, click the **arrow** next to WO Mic Device to see its properties. From here, next to **Test your microphone**, click **Start test** and speak into your smartphone.
 
 ![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternative Methods to WO Mic
 
@@ -180,8 +181,9 @@ Close
  Simply put, headphones vibrate to create sound, while microphones monitor for vibrations. But you can still switch it and use the headphones as a microphone. However, bear in mind that the audio quality will leave a lot to be desired, making this a last resort option.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Your Smartphone as a Webcam
 
  While using your smartphone as a Windows microphone might not be ideal for everyone, it's a perfect solution for those who need to get talking quickly and don't have a traditional microphone handy.
@@ -192,11 +194,31 @@ Close
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-settle-down-with-our-best-10-chill-titles/"><u>[New] 2024 Approved Settle Down with Our Best 10 Chill Titles</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-hot-dishes-from-hot-tiktokers-for-2024/"><u>[New] Hot Dishes From Hot TikTokers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mac-acoustics-for-aspiring-artists/"><u>[New] In 2024, Mac Acoustics for Aspiring Artists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beginners-companion-swift-iphone-screen-recording/"><u>[Updated] 2024 Approved Beginner's Companion Swift Iphone Screen Recording</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-installing-konica-minolta-printer-drivers-for-various-windows-editions/"><u>Complete Guide to Downloading & Installing Konica Minolta Printer Drivers for Various Windows Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-best-free-windows-tools-for-sound-editing/"><u>Discover the Best FREE Windows Tools for Sound Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-cs2-game-crash-issues-on-your-pc/"><u>Fixes & Solutions: Resolving CS2 Game Crash Issues on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-windows-lock-screen-delay/"><u>How to Configure Windows Lock Screen Delay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone SE?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-in-use-files-problem-a-guide-for-windows-11-users/"><u>Overcoming In Use Files Problem: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-your-bat-scripts-in-windows-with-exes/"><u>Power Your .bat Scripts in Windows with EXEs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-linux-use-not-wsl-included/"><u>Simple Linux Use, Not WSL Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskbar-expertise-hotkeys-for-streamlining-operations/"><u>Taskbar Expertise: Hotkeys for Streamlining Operations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-csr8510-a10-graphics-card-problems-on-windows-expert-solutions/"><u>Troubleshooting CSR8510 A10 Graphics Card Problems on Windows: Expert Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-high-dynamic-range-on-windows-11/"><u>Unlock the Full Potential of High Dynamic Range on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-microsoft-family-safety-offer/"><u>What Does Microsoft Family Safety Offer?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Fixes for Invisible Windows 11 Account Entry Screen
-date: 2024-08-23T07:05:52.977Z
-updated: 2024-08-24T07:05:52.977Z
+date: 2024-12-08T20:32:58.921Z
+updated: 2024-12-12T19:00:01.088Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
  Here are a few troubleshooting steps you can try to restore the missing or stuck sign-in screen on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Stuck or Missing Login Screen on Windows 11?
 
  If you are running Windows 11 build 22000.4 or newer, the stuck login screen could be due to a known bug. In this case, the issue is triggered when the PC wakes up from Sleep or Hibernation. Installing a pending Windows update may resolve this issue.
@@ -34,22 +38,20 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 
 **Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
 To check and update Windows 11:
@@ -59,9 +61,6 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
@@ -81,18 +80,6 @@ To check and update Windows 11:
 3. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![Windows Recovery environment troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-recovery-environment-troubleshoot.jpg)
 4. Next, click on**Advanced options** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
@@ -101,9 +88,6 @@ To check and update Windows 11:
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run Startup Repair
 
  The Startup Repair is a Windows recovery tool that can scan the system for issues interrupting the normal start-up of your computer and try to fix them automatically. It is part of the Windows Recovery Environment, so you’ll need to boot into WinRE to use the option. Follow these steps to run Startup Repair in Windows 11.
@@ -112,19 +96,30 @@ To check and update Windows 11:
 2. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
  Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can[disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the No Login Screen Issue on Windows 11
 
@@ -138,8 +133,6 @@ To check and update Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +140,26 @@ To check and update Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-making-compelling-media-previews-for-channels/"><u>[Updated] In 2024, Making Compelling Media Previews for Channels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[Updated] Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/epic-ride-through-a-zombified-world-the-days-gone-analysis/"><u>Epic Ride Through a Zombified World: The Days Gone Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-skies-rescuing-ragnaroks-sse/"><u>Fixed Skies: Rescuing Ragnarok's SSE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-correct-windows-update-error-x8024a205/"><u>Guides to Correct Windows Update Error X8024A205</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>In 2024, Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-vector-file-polishing/"><u>In 2024, Superior Vector File Polishing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-timer-power-with-zero-cost/"><u>In 2024, Unlocking Timer Power with Zero Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interacting-with-server-drives-from-mobile/"><u>Interacting with Server Drives From Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-influencers-in-your-twitter-marketing-plan/"><u>Leveraging Influencers in Your Twitter Marketing Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-systems-5-key-approaches-to-fix-windows-defender-hiccup/"><u>Safeguarding Systems: 5 Key Approaches to Fix Windows Defender Hiccup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-windows-converter-options-roundup/"><u>Seamless Windows Converter Options Roundup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-error-code-0x00000001-in-xbox-game-pass/"><u>Solutions to Overcome Error Code 0X00000001 in Xbox Game Pass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-windows-11-troubleshooter-functionality/"><u>Steps to Restore Windows 11 Troubleshooter Functionality</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-hot-30i-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Hot 30i</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-troubled-windows-11-recycle-bin-errors/"><u>Unblocking the Troubled Windows 11 Recycle Bin Errors</u></a></li>
+</ul></div>
 

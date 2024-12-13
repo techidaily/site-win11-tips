@@ -1,7 +1,7 @@
 ---
 title: Eliminating Current Windows Password Error in Win11/Win11
-date: 2024-11-29T20:22:21.906Z
-updated: 2024-12-07T01:00:56.142Z
+date: 2024-12-12T01:33:31.542Z
+updated: 2024-12-12T19:12:49.573Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the “We’ll Need Your Current Windows Password One Last Time” Error?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
 ## 3\. Reset Your Windows Password
@@ -75,42 +71,29 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
-![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
-
- Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
  While this error is a headache for sure, you can easily resolve it with a little password tinkering. Keep calm, try the steps above, and enjoy your newly set-up device.
 
  However, this error can be easily resolved. Here’s everything you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-drone-visual-spectrum-20-first-time-free-luts-included-for-2024/"><u>[New] Drone Visual Spectrum - 20 First-Time FREE LUTS Included for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-from-daily-use-to-extraordinary-experiences-phones-into-vr-for-2024/"><u>[New] From Daily Use to Extraordinary Experiences Phones Into VR for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-guide-to-playing-twitter-on-chromium-browser/"><u>[New] In 2024, Guide to Playing Twitter on Chromium Browser</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-painting-with-light-an-experts-guide-to-color-grading-for-2024/"><u>[Updated] Painting with Light An Expert's Guide to Color Grading for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-nokia-c12-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Nokia C12 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-through-to-windows-11-security-control-screen/"><u>A Step-by-Step Through to Windows 11 Security Control Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-system-load-in-win11/"><u>Accelerate System Load in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-network-disconnect-in-windows-11-a-step-by-step-guide/"><u>Addressing Network Disconnect in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-utilizing-box-for-file-selections-in-win11/"><u>Boost Efficiency: Utilizing Box for File Selections in Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cortana-malfunction-heres-what-you-need-to-know/"><u>Cortana Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/robotic-skies-varieties-for-2024/"><u>Robotic Skies' Varieties for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/secure-social-screen-avoid-facebook-vids-for-2024/"><u>Secure Social Screen Avoid Facebook Vids for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +102,25 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fusing-film-and-frequencies-win11-edition/"><u>[New] Fusing Film & Frequencies Win11 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>[Updated] 2024 Approved Elevating Your Vlogs A List of the Top 12 Professional Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pixeled-play-log-audit/"><u>[Updated] In 2024, Pixeled Play Log Audit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-superior-video-recording-apps-on-mac-not-bandicam/"><u>2024 Approved Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-resolving-error-e84-on-steam/"><u>Comprehensible Guide: Resolving Error E84 on Steam</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-unforgettable-experiences-for-more-subscribers-with-these-6-tips-for-2024/"><u>Craft Unforgettable Experiences for More Subscribers with These 6 Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-lock-on-windows-settings/"><u>Customizing Lock-On Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-restoring-dormant-usb-ports-in-win/"><u>Essential Guide to Restoring Dormant USB Ports in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-chatgpt-in-windows-applications/"><u>Implementing ChatGPT in Windows Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-free-pass-to-premium-video-editing-tools/"><u>In 2024, The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-microsoft-error-analysis-on-windows-11/"><u>Mastering the Microsoft Error Analysis on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/meeting-the-challenge-computing-with-16gb-on-windows-pcs/"><u>Meeting the Challenge: Computing with 16GB on Windows PCs</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/professional-love-and-passion-imagery-stunning-hd-backgrounds-from-yl-software-solutions/"><u>Professional Love and Passion Imagery - Stunning HD Backgrounds From YL Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-enable-network-connectivity-in-windows-11/"><u>Solutions to Enable Network Connectivity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-restoring-windows-default-sleep-time/"><u>Strategies for Restoring Window's Default Sleep Time</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-phones-call-archive-iphone-2024/"><u>Your Phone's Call Archive - iPhone 2024</u></a></li>
+</ul></div>
+

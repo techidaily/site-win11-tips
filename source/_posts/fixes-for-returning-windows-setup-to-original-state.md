@@ -1,7 +1,7 @@
 ---
 title: Fixes for Returning Windows Setup to Original State
-date: 2024-12-01T19:52:20.754Z
-updated: 2024-12-07T02:01:10.484Z
+date: 2024-12-11T19:22:18.268Z
+updated: 2024-12-12T16:01:28.217Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Windows Reset Its Settings on Reboot?
@@ -46,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 1. Right-click on your Taskbar area and select**Task Manager** from the context menu. You can also press**Ctrl + Shift + Esc** if you prefer using shortcut keys.  
 ![Look Out for Suspicious Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/look-out-for-suspicious-programs.jpg)
 2. In the Task Manager window, switch to the**Processes** tab and look for any unfamiliar program or process that is hogging up your system resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once you find a suspicious program, right-click on it and select**End task** to terminate the process.
 4. Now go to the Windows Control Panel and uninstall the program.
 
@@ -63,17 +68,9 @@ To run Automatic Startup Repair, follow these steps:
 ![Advanced startup in Recovery options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-startup-in-recovery-options.jpg)
 4. Next to**Advanced startup** , click the**Restart now** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. When your PC restarts, select**Troubleshoot** from the Choose an option screen.
 6. Select**Advanced options** and then click**Startup Repair** .  
 ![Startup repair in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/startup-repair-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to run the automatic repair tool. After you complete the above process, restart your computer and check if it solves the issue.
 
@@ -92,6 +89,10 @@ On the next screen, navigate to the following path:
  To do this, click on each**S-1-5 profile** and look for**ProfileImagePath** in the right pane. Check if anyone of them matches your username.
 
 ![Modify Registry to repair user profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-registry-to-repair-user-profile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you find the correct profile, double-click on the**State** field and change the value from**1 to 0** . Similarly, change the**RefCount** field from**1 to 0** .
 
@@ -112,7 +113,7 @@ On the next screen, navigate to the following path:
  Click**Roll Back Driver** and then follow the instructions on-screen to complete the process. After rolling back the driver, restart your computer to apply the changes and check if it solves the settings reset issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Perform Some Generic Windows Fixes
@@ -126,7 +127,7 @@ On the next screen, navigate to the following path:
  Keep in mind that all files and applications installed after the selected restore point will be deleted. To avoid losing important data, create a backup before performing a System Restore.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Windows Settings Reset on Reboot
@@ -148,22 +149,22 @@ On the next screen, navigate to the following path:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage-for-2024/"><u>[New] Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[New] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-overview-of-youtube-standards-for-content-creators/"><u>[Updated] A Comprehensive Overview of YouTube Standards for Content Creators</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-vr-treadmills-review/"><u>[Updated] Top VR Treadmills Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-video-cover-updates-on-facebook/"><u>2024 Approved Mastering Video Cover Updates on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-podcast-production-an-insiders-tale/"><u>AI-Assisted Podcast Production: An Insider's Tale</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-linking-dualshock-3-with-windows-gamepad/"><u>Direct Linking: DualShock 3 with Windows Gamepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-customize-the-windows-11-tablet-bar-settings/"><u>Easy Steps to Customize the Windows 11 Tablet Bar Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tune-your-pcs-performance-avoiding-sudden-updates-on-windows-11/"><u>Fine-Tune Your PC's Performance: Avoiding Sudden Updates on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disassociate-onedrive-from-microsoft-account-in-windows/"><u>How to Disassociate OneDrive From Microsoft Account in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-update-the-dynamic-theme-on-windows-regularly/"><u>How to Update the Dynamic Theme on Windows Regularly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-minutes-unveil-the-windows-machine-you-use/"><u>Mastery in Minutes: Unveil the Windows Machine You Use</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/maximize-windows-11-capabilities-with-the-powerful-media-creation-utility/"><u>Maximize Windows 11 Capabilities with the Powerful Media Creation Utility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-edge-browser-view2-memory-glitches/"><u>Overcoming Edge Browser: View2 Memory Glitches</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolving-windows-11-build-22h2-kernel-errors-comprehebe-guide-to-blue-screen-of-death-solutions-top-6-tips/"><u>Resolving Windows 11 Build 22H2 Kernel Errors: Comprehebe Guide to Blue Screen of Death Solutions - Top 6 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-error-how-to-retrieve-lost-geforce-x-configurations/"><u>Reversing Error: How to Retrieve Lost GeForce X Configurations</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/warum-die-app-store-funktion-nach-dem-neuesten-ios-update-auf-ihrem-iphone-nicht-mehr-funktioniert/"><u>Warum Die App-Store-Funktion Nach Dem Neuesten iOS Update Auf Ihrem iPhone Nicht Mehr Funktioniert?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro-for-2024/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elite-9-directors-cuts-downloader-for-2024/"><u>[Updated] Elite 9 Directors' Cuts Downloader for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic-5-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic 5 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-preparing-to-go-live/"><u>Behind the Scenes Preparing to Go Live</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-connection-roadblocks-for-win-based-games/"><u>Cutting Through Connection Roadblocks for Win-Based Games</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-updating-your-epson-v600-scan-software-fetch-the-latest-version-now/"><u>Easy Guide to Updating Your Epson V600 Scan Software – Fetch the Latest Version Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-alomwares-techniques-for-window-customization/"><u>Elevate Your PC: AlomWare's Techniques for Window Customization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-spotify-connection-errors-in-windows-devices/"><u>Fixing Spotify Connection Errors in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/grouping-no-more-windows-11-taskbar-guide/"><u>Grouping No More: Windows 11 Taskbar Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-14-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi 14 Pro? Try These Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>In 2024, Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-end-task-options-for-windows-11-taskbar/"><u>Mastering End Task Options for Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-visual-searching-in-windows-file-explorer/"><u>Optimize Visual Searching in Windows File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-barrier-lost-internet-router-portal/"><u>Overcoming Barrier: Lost Internet Router Portal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-device-names-uniqueness-with-5-steps-windows-edition/"><u>Winning Device Names Uniqueness with 5 Steps (Windows Edition)</u></a></li>
 </ul></div>
 

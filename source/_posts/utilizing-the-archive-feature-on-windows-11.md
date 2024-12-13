@@ -1,7 +1,7 @@
 ---
 title: Utilizing the Archive Feature on Windows 11
-date: 2024-12-05T20:56:09.879Z
-updated: 2024-12-06T23:00:18.478Z
+date: 2024-12-09T22:33:48.968Z
+updated: 2024-12-12T17:44:56.344Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Windows Need Built-In Support for Archive Formats?
 
  For a long time, if you download an archive file (RAR, 7Z, TAR, or any other format) on Windows 11 or older versions, you simply couldn't double-click to open the archive. Moreover, it was impossible to extract the files using File Explorer.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![Lack of support for other archive formats in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lack-of-support-for-other-archive-formats-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, Microsoft changed that in the Insider Dev build 23493\. This update allowed users to try out the inbuilt support to handle a variety of archive formats. So, you won’t need your trusty WinRar or 7-Zip apps to open archives in Windows 11\.
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Archive Support in Windows 11
@@ -73,29 +77,25 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
@@ -105,25 +105,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-time-lapse-photography-on-samsung-phones/"><u>2024 Approved Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-premium-twelve-full-frame-video-tech-lists/"><u>2024 Approved Premium Twelve Full Frame Video Tech Lists</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-protecting-content-avoiding-premature-deletions/"><u>2024 Approved Protecting Content Avoiding Premature Deletions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/7-3d-modeling-software-for-animation-for-2024/"><u>7 3D Modeling Software for Animation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-rectifying-windows-steam-e84-problems/"><u>Decoding and Rectifying Windows Steam E84 Problems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-quest-for-content-videos-in-social-media-network/"><u>In 2024, The Quest for Content Videos in Social Media Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preempt-potential-problems-installing-virtualbox-on-win-with-care/"><u>Preempt Potential Problems: Installing VirtualBox on Win with Care</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-0x80072af9-on-windows-os/"><u>Quick Guide to Rectify 0X80072AF9 on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-black-screen-crisis-in-win-based-playing/"><u>Remedies for Black Screen Crisis in Win-Based Playing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-quintessential-list-best-tales-from-youtube-in-23-for-2024/"><u>The Quintessential List Best Tales From YouTube in '23 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-huawei-nova-y71-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Huawei Nova Y71 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-storytelling-with-ai-partnership/"><u>Transformative Storytelling with AI Partnership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-importance-of-winservicesexe/"><u>Understanding the Importance of WinServices.exe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-walks-unlocking-your-gaming-archives/"><u>Windows Walks: Unlocking Your Gaming Archives</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +112,25 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unearthing-popular-user-generated-speeches/"><u>[Updated] 2024 Approved Unearthing Popular User-Generated Speeches</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-movavi-screen-recorder-11-review-for-2024/"><u>[Updated] Movavi Screen Recorder 11 Review for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-tp-link-wr902ac-portable-travel-wi-fi-router/"><u>Compact TP-Link WR902AC Portable Travel Wi-Fi Router</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-central-mastering-the-art-of-turning-off-windows-user-accounts/"><u>Control Central: Mastering the Art of Turning Off Windows User Accounts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/diving-deep-into-viva-video-functionality/"><u>Diving Deep Into Viva Video Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-modify-smartscan-settings-on-microsofts-win11/"><u>Easily Modify SmartScan Settings on Microsoft’s Win11</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dominating-discussion-topics-in-the-social-space/"><u>In 2024, Dominating Discussion Topics in the Social Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-cost-audio-treasure-trove-for-video-endings/"><u>In 2024, No-Cost Audio Treasure Trove for Video Endings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-cpu-usage-tips-to-mitigate-tiworkerexe-overuse/"><u>Lowering CPU Usage: Tips to Mitigate TiWorker.exe Overuse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-overcome-privileged-requirement-not-met-windows-error/"><u>Methods to Overcome Privileged Requirement Not Met Windows Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-booting-a-comprehensible-approach/"><u>Optimize Windows Booting: A Comprehensible Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-your-screen-nine-windows-11-fixes-for-pixelation/"><u>Sharpen Your Screen: Nine Windows 11 Fixes for Pixelation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-world-of-warcrafts-critical-glitch-error-132/"><u>Strategies for Overcoming World of Warcraft's Critical Glitch (Error 132)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-restoring-missing-taskbar-during-maxed-viewing/"><u>Strategies for Restoring Missing Taskbar During Maxed Viewing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-and-visual-fusion-cutting-edge-ways-to-sync-seamlessly-without-manual-efforts/"><u>Updated Audio & Visual Fusion Cutting-Edge Ways to Sync Seamlessly Without Manual Efforts</u></a></li>
+</ul></div>
+

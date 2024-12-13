@@ -1,7 +1,7 @@
 ---
 title: Leveraging Phones as Windows Microphones
-date: 2024-08-23T07:02:05.679Z
-updated: 2024-08-24T07:02:05.680Z
+date: 2024-12-05T18:34:56.932Z
+updated: 2024-12-12T23:44:40.648Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
  We'll detail the steps for all the different options below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Connect via Bluetooth
 
  First, enable Bluetooth on your computer:
@@ -62,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 2. Tap **Transport** and select **Bluetooth**.
 3. Go back to the previous screen and tap the **play icon** to begin transmitting your voice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Connect via USB
 
  Connecting via USB is the best option for most people because it's more stable than a wireless connection and the latency is lower. This method only works for Android.
@@ -86,16 +87,10 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Connect via Wi-Fi
 
  For this method, both your phone and computer need to be connected to the same Wi-Fi network.
@@ -109,6 +104,10 @@ Close
 
 ![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the mobile WO Mic app:
 
 1. Tap the **settings cog**.
@@ -121,9 +120,6 @@ Close
 2. In the **Phone IP address** field, input the IP address from the app.
 3. Click **Connect** to begin using the microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Connect via Wi-Fi Direct
 
  This method requires you to [turn your phone into a Wi-Fi hotspot](https://www.makeuseof.com/what-is-a-hotspot-and-how-does-it-work/) and use your network data. Use this as a last resort if your computer doesn't have its own internet connection and the other methods above aren't suitable.
@@ -149,9 +145,6 @@ Close
 2. Leave the **Soft AP IP address** field at its default.
 3. Click **Connect**.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is Windows Not Detecting Your Voice?
 
  You shouldn't run into any problems, but if you follow the above instructions and [Windows isn't detecting the microphone](https://www.makeuseof.com/tag/fix-microphone-problems-windows-10/), there's an easy fix:
@@ -162,12 +155,20 @@ Close
 
 ![windows 11 sound input settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-sound-input-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the microphone is detecting your voice:
 
 * On Windows 10, speak into your smartphone and you should see the volume reflected on the **Test your microphone** bar.
 * On Windows 11, click the **arrow** next to WO Mic Device to see its properties. From here, next to **Test your microphone**, click **Start test** and speak into your smartphone.
 
 ![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternative Methods to WO Mic
 
@@ -180,9 +181,9 @@ Close
  Simply put, headphones vibrate to create sound, while microphones monitor for vibrations. But you can still switch it and use the headphones as a microphone. However, bear in mind that the audio quality will leave a lot to be desired, making this a last resort option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Your Smartphone as a Webcam
 
  While using your smartphone as a Windows microphone might not be ideal for everyone, it's a perfect solution for those who need to get talking quickly and don't have a traditional microphone handy.
@@ -193,11 +194,33 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-decode-insta-success-your-comprehensive-guide-to-understanding-user-insights/"><u>[New] Decode Insta Success Your Comprehensive Guide to Understanding User Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-differentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>[Updated] In 2024, Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-your-snapchat-story-cinematography-for-2024/"><u>[Updated] Perfecting Your Snapchat Story Cinematography for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>2024 Approved Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-gpt-optimal-ai-bot-for-daily-use/"><u>Claude Vs. GPT: Optimal AI Bot for Daily Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-incorrect-text-display-windows-edition/"><u>Eliminating Incorrect Text Display Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-efficiency/"><u>Enhancing Windows 11 Taskbar Efficiency</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/script-to-screen-crafting-your-unique-youtube-tale-for-2024/"><u>From Script to Screen Crafting Your Unique YouTube Tale for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/illustrate-images-select-caption-apps-for-your-photos-iosandroid/"><u>Illustrate Images Select Caption Apps for Your Photos (iOS/Android)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-evaluating-screen-recording-vsdc-reviewed-plus-competitors-spotlight/"><u>In 2024, Evaluating Screen Recording VSDC Reviewed + Competitors Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-of-thrones-ringtones-15-best-websites-reviewed-and-ranked/"><u>In 2024, Game of Thrones Ringtones 15 Best Websites Reviewed and Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lockscreen-bypass-for-projector-mode-in-windows-11/"><u>Lockscreen Bypass for Projector Mode in WIndows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cpu-load-management-via-windows-resource-monitor/"><u>Mastering CPU Load Management via Windows Resource Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-digital-journey-with-microsoft-ai/"><u>Mastering Your Digital Journey with Microsoft AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-your-browsing-experience-on-pc/"><u>Mastery Over Your Browsing Experience on PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques-for-2024/"><u>Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-smoothly-running-outlook-on-windows-pcs/"><u>Strategies for Smoothly Running Outlook on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-sidestep-the-shamware-snare/"><u>Windows Woes? Sidestep the Shamware Snare</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Stuck Window Settings: Saver Recovery Steps"
-date: 2024-12-05T02:36:40.638Z
-updated: 2024-12-06T18:30:29.739Z
+date: 2024-12-05T21:07:12.586Z
+updated: 2024-12-12T16:09:18.842Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
 
  But then how would enabling the “screen saver” option resolve the “grayed out screen saver settings” error?
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 2. Double-click on the **Force specific screen saver** option on the right-hand side.
 
 ![Clicking the Force specific screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-force-specific-screen-saver-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the **Disabled** box, click **Apply**, and then click **OK**.
 
@@ -84,7 +84,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the "Control Panel" key is missing, here’s how you can create it:
@@ -96,10 +96,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the ScreenSaveActive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-screensaveactive-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this value is missing, create it through these steps:
 
 1. Right-click on a blank space and select **New > DWORD (32-bit) Value**.
@@ -108,6 +104,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  The “ScreenSaveActive” option in the Registry Editor performs the same function as the “Enable screen saver” option in the LGPE. Remember, enabling the “Enable screen saver option” in the LGPE ensures that the settings on the Screen Saver Settings window aren’t grayed out.
 
  To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Power Settings
 
@@ -129,10 +129,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
 
  From there, follow these steps:
@@ -153,10 +149,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
 
  Want to restore your power settings to their defaults at a later stage?
@@ -164,6 +156,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Power Settings via the Control Panel
 
@@ -179,10 +175,14 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 ![The Edit Plan Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-plan-settings-on-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Get Rid of System Corruption or Update Your PC
 
@@ -193,7 +193,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You've Successfully Restored Your Screen Saver Settings
@@ -204,29 +204,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-money-making-guide-to-streaming-services/"><u>[New] The Ultimate Money-Making Guide to Streaming Services</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-quick-ig-update-on-todays-compelling-podcast/"><u>[Updated] Quick IG Update on Today's Compelling Podcast</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-practices-for-incorporating-b-footage-in-projects/"><u>2024 Approved Best Practices for Incorporating B-Footage in Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-steps-pinpointing-policies-in-windows-environments/"><u>3 Steps: Pinpointing Policies in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-with-auto-moves-the-w11-way/"><u>Accelerate Workflow with Auto-Moves: The W11 Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-optimal-configuration-windows-11-and-pc-manager/"><u>Achieving Optimal Configuration: Windows 11 & PC Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-in-use-files-errors-in-windows-152-chars/"><u>Addressing 'In-Use' Files Errors in Windows (152 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-file-management-techniques-dragging-tabs-in-windows-11/"><u>Advanced File Management Techniques: Dragging Tabs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artistry-made-easy-top-7-windows-11-drawing-apps-reviewed/"><u>Artistry Made Easy: Top 7 Windows 11 Drawing Apps Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/auditory-capture-made-simple-with-microsofts-win-11/"><u>Auditory Capture Made Simple with Microsoft's Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-history-welcome-new-hues-on-windows/"><u>Banish History, Welcome New Hues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-11-efficiency-key-modifications-to-apply/"><u>Boost Windows 11 Efficiency: Key Modifications to Apply</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/convert-your-videos-free-of-cost-m4v-to-mp4-streaming-conversion-by-movavi-without-fuss/"><u>Convert Your Videos Free of Cost! M4V to MP4 Streaming Conversion by Movavi Without Fuss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/directing-tech-titans-towards-a-coordinated-future/"><u>Directing Tech Titans Towards a Coordinated Future</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-unable-to-start-dolby-audio-driver-problem-on-windows-11-devices/"><u>Effective Fixes for 'Unable to Start Dolby Audio Driver' Problem on Windows 11 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-implementing-parental-management-on-your-childs-discord-account/"><u>Guide: Implementing Parental Management on Your Child's Discord Account</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-100-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor 100 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-s23plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from S23+.</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,3 +211,20 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-art-of-timelapses-recording-techniques-for-ipads/"><u>[New] 2024 Approved The Art of Timelapses Recording Techniques for iPads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[Updated] 2024 Approved Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-unwanted-in-windows-11-solution-found/"><u>Bluetooth Unwanted in Windows 11: Solution Found</u></a></li>
+<li><a href="https://win-bits.techidaily.com/efficiently-manage-data-recovery-with-bare-metal-backups-on-windows-server-2019/"><u>Efficiently Manage Data Recovery with Bare Metal Backups on Windows Server 2019</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevating-video-appeal-for-profiles/"><u>Elevating Video Appeal for Profiles</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/essential-pc-upkeep-how-to-ensure-optimal-performance-and-speed-insights-from-yl-computing/"><u>Essential PC Upkeep: How to Ensure Optimal Performance & Speed – Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-game-viewing-companer-budget-monitors-curved-panels-and-g-sync-capabilities-await/"><u>Find Your Perfect Game Viewing Companer – Budget Monitors, Curved Panels & G-Sync Capabilities Await!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-your-logitech-g13-controller-using-official-drivers/"><u>How to Repair Your Logitech G13 Controller Using Official Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-windows-converter-options-roundup/"><u>Seamless Windows Converter Options Roundup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-error-code-0x00000001-in-xbox-game-pass/"><u>Solutions to Overcome Error Code 0X00000001 in Xbox Game Pass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-windows-11-troubleshooter-functionality/"><u>Steps to Restore Windows 11 Troubleshooter Functionality</u></a></li>
+</ul></div>
+

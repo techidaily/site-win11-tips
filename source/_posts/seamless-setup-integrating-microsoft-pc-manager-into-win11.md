@@ -1,7 +1,7 @@
 ---
 title: "Seamless Setup: Integrating Microsoft PC Manager Into Win11"
-date: 2024-12-02T21:48:35.217Z
-updated: 2024-12-06T17:58:42.809Z
+date: 2024-12-08T23:58:12.334Z
+updated: 2024-12-13T02:03:24.651Z
 tags:
   - windows10
   - windows11
@@ -46,11 +46,20 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
 7. App installation will begin. It requires internet connectivity to download files from the server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
  Make note that the app is still in a public beta. So, it could act finicky on your system. Moreover, accessing the official website is another sad story. It is unresponsive most of the time and downloading a measly 4 MB installer file can take time. We faced a server downtime issue while installing this app.
 
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Configure and Use Microsoft PC Manager
 
@@ -71,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the**Proceed** button to perform all the actions listed by the Health Check tool. Then click on the**Done** button to return to the home page of the PC Manager app.
@@ -81,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
@@ -96,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Security Tools
 
  You can scan for threats present in your system using the Scan option in the security tab. It performs a quick scan on the C drive only. Similarly, you can check and install all the available updates for Windows without leaving the Microsoft PC Manager app.
@@ -105,20 +114,12 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Free, Official Tool to Manage Your Windows PC
 
@@ -139,18 +140,14 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-windows-best-chat-tools-ranked-3-1/"><u>[New] 2024 Approved Windows' Best Chat Tools Ranked #3-#1</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos-for-2024/"><u>[New] Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-explore-the-peak-tv-service-providers-comparative-insights/"><u>[New] In 2024, Explore the Peak TV Service Providers Comparative Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screen-capture-mastery-windows-edition-free-3-methods/"><u>[New] Screen Capture Mastery Windows Edition (Free, 3 Methods)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-income-insights-a-triple-step-technique-for-tracking-youtube-revenue/"><u>[New] Unveiling Income Insights A Triple Step Technique for Tracking YouTube Revenue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-users-benefit-from-auto-gpt-alone-or-must-they-wait-for-gpt-nplus1/"><u>Can Users Benefit From Auto-GPT Alone, or Must They Wait for GPT-N+1?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-switch-windows-11-search-from-a-text-box-back/"><u>How to Switch Windows 11 Search From a Text Box Back</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-your-way-to-group-policies-on-windows/"><u>Navigate Your Way to Group Policies on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-start-windows-11-home-menu-unlocking/"><u>Quick Start: Windows 11 Home Menu Unlocking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-way-into-a-windows-shared-location/"><u>Secure Your Way Into a Windows Shared Location</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-c51-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme C51 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-the-winerror-0x80072746-email-mishaps/"><u>Zeroing in on the WinError 0X80072746 Email Mishaps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-hash-tracking-top-apps-reviewed-fbtwitterinsta/"><u>[Updated] 2024 Approved Mastering the Art of Hash Tracking Top Apps Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-small-scale-startups-guide-to-trustworthy-video-tools-for-2024/"><u>[Updated] Small-Scale Startups' Guide to Trustworthy Video Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-routes-to-startup-repair-in-windows-os/"><u>Fast Routes to Startup Repair in Windows OS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-nokia-71-excellent-display-and-photography-at-an-attractive-cost/"><u>In-Depth Analysis of Nokia 7.1 - Excellent Display & Photography at an Attractive Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-default-batterypower-setup-on-ws-11/"><u>Reactivating Default Battery/Power Setup on WS 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-entry-point-not-found-a-windows-guide/"><u>Solving Entry Point Not Found: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-tweaking-space-between-icons-on-winxi-systems/"><u>Title: Tweaking Space Between Icons on WINXI Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reinventing the Right-Click Experience for Update Tracking
-date: 2024-08-23T07:03:03.606Z
-updated: 2024-08-24T07:03:03.606Z
+date: 2024-12-09T20:50:33.974Z
+updated: 2024-12-12T16:28:15.396Z
 tags:
   - windows10
   - windows11
@@ -40,14 +40,28 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 5. Select the **Check for Updates** key, and then right-click a space on the right side of the Registry Editor to select **New > String Value**.  
 ![The String Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/string-value-option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type **SettingsURI** to be the new string’s name.
 2. Double-click **SettingsURI** to open an Edit String window.
 3. Type **ms-settings:windowsupdate-action** within the Value data box, and click **OK**.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/edit-string-window.png)
 4. Right-click the **command** key and select the **New** \> **String Value** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the string title **DelegateExecute**, and press the **Return** key.  
 ![The DelegateExecute string for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/delegateexecute_string.png)
 6. Double-click the **DelegateExecute** string to bring up its Value data box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type **{556FF0D6-A1EE-49E5-9FA4-90AE116AD744}** in the Value data text box, and press the **OK** button.
 8. Close the Registry Editor’s window.
 
@@ -55,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 ![The Check for Updates context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/check-for-updates-context-menu-option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, press the **Shift** + **F10** hotkey to bring up the classic context menu without right-clicking the desktop. That keyboard shortcut opens the classic context menu at the top left of the desktop. Then you can select **Check for Updates** from there to bring up the tab shown below.
 
 ![The Windows Update tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/check_for_updates_button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This registry trick works much the same on Windows 10\. The only difference is that you won’t need to select **Show more options**. As Windows 10’s desktop context menu is the classic one, it doesn’t include **Show more options**. You can select **Check for Updates** on its primary context menu.
 
@@ -89,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Keep an Eye Out For New Windows Updates
 
  So, now you can select a handy **Check for Updates** shortcut on your desktop’s context menu. That shortcut will save you from having to manually open Settings and its **Windows Update** tab whenever you need to check for updates. Instead, you can simply click the **Check for Updates** context menu option to open the update tab directly from the desktop.
@@ -100,11 +119,29 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-subscriber-youtube-connection-maximizing-engagement/"><u>[New] In 2024, The Subscriber-YouTube Connection Maximizing Engagement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[Updated] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movmkv-movavi/"><u>免费网上将MOV格式转化为MKV - MOVAVI转换工具解析方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-heic-to-jpeg-conversion-for-windows-users/"><u>Easy Heic to Jpeg Conversion for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-faulty-dual-monitor-configuration/"><u>Fixing Faulty Dual Monitor Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-missing-ssdhdd-drives/"><u>How to Find Missing SSD/HDD Drives?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-0xf0831-failure-in-windows-11-os/"><u>How to Mend the 0XF0831 Failure in Windows 11 OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminating-the-shadows-acquiring-sids-on-windows-11/"><u>Illuminating the Shadows: Acquiring SIDs on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-not-functional-errors-with-win-based-applications/"><u>Overcoming 'Not Functional' Errors with Win-Based Applications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/photobooth-lags-steadying-the-playback-journey-for-2024/"><u>Photobooth Lags Steadying the Playback Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-re-establish-internet-connection-in-winos/"><u>Strategies to Re-Establish Internet Connection in WinOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-eliminating-latency-issues-in-fallout-4/"><u>Top Strategies for Eliminating Latency Issues in Fallout 4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-tier-apps-to-elevate-your-tiktok-videos-on-windows-for-2024/"><u>Top-Tier Apps to Elevate Your TikTok Videos on Windows for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+</ul></div>
+

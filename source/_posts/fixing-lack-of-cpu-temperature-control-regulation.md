@@ -1,7 +1,7 @@
 ---
 title: Fixing Lack of CPU Temperature Control Regulation
-date: 2024-12-06T02:00:14.403Z
-updated: 2024-12-06T23:00:22.035Z
+date: 2024-12-10T01:35:23.027Z
+updated: 2024-12-12T21:47:21.820Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ Here’s how to do that.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using PowerShell
@@ -42,7 +42,7 @@ Here’s how to do that.
 ![Power Options menu on Windows with the System cooling policy expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to hide it again after you’ve set it, you can enter the following command and then press**Enter** to run it:
@@ -52,7 +52,7 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -63,10 +63,6 @@ Here’s how to do that.
 
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the text document, enter the following code:
 
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000002`
@@ -76,7 +72,7 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -86,6 +82,10 @@ In the text document, enter the following code:
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000001`
 
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
 
@@ -106,18 +106,18 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-video-shooting-equipment-choosing-guide/"><u>[New] In 2024, YouTube Video Shooting Equipment Choosing Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prodigious-plotlines-in-audio-playwriting-for-2024/"><u>[Updated] Prodigious Plotlines in Audio Playwriting for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-key-tips-for-restoring-fbm-functionality-on-desktop/"><u>10 Key Tips for Restoring FBM Functionality on Desktop</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-blend-top-5-monitors-for-seamless-color-grading/"><u>2024 Approved The Ultimate Blend Top 5 Monitors for Seamless Color Grading</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-cortana-data-retrieval-for-windows-users/"><u>A Complete Walkthrough: Cortana Data Retrieval for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-fix-13-solutions-for-windows-system-repair/"><u>A Quick Fix: 13 Solutions for Windows System Repair</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/your-content-up-a-notch-music-addition-in-youtube-videos/"><u>Beat Your Content Up a Notch Music Addition in YouTube Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-windows-11-videoscripting-software-round-up/"><u>Best Windows 11 Videoscripting Software Round-Up</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2019</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/restoring-deleted-photos-on-iphone-models-12-13-and-14-effective-recovery-tips-and-tricks/"><u>Restoring Deleted Photos on iPhone Models 12, 13, & 14: Effective Recovery Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-your-microphone-lag-issues/"><u>Ultimate Guide: Solving Your Microphone Lag Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-how-to-for-advanced-snapchat-image-tweaks-for-2024/"><u>[New] The Ultimate How-To for Advanced Snapchat Image Tweaks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleashing-your-creative-potential-mastery-of-vocal-overdubs-for-2024/"><u>[New] Unleashing Your Creative Potential Mastery of Vocal Overdubs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimize-periscope-broadcasts-for-maximum-velocity/"><u>[Updated] Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-strategies-for-striking-thumbnails-in-youtube-circles/"><u>[Updated] Top 8 Strategies for Striking Thumbnails in YouTube Circles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-a05-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy A05 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-your-windows-11-home-menu/"><u>How To Unlock Your Windows 11 Home Menu</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-money-making-on-reddit-in-just-a-few-simple-steps-for-2024/"><u>Master Money-Making on Reddit in Just a Few Simple Steps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectrumsewn-studio-photo-montage-expertise-for-2024/"><u>SpectrumSewn Studio Photo Montage Expertise for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-missing-notifications-here-are-over-15-ways-to-fix-silent-text-alerts-on-iphone/"><u>Stop Missing Notifications? Here Are Over 15 Ways to Fix Silent Text Alerts on iPhone!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-understanding-windows-reserved-memory/"><u>The Essentials of Understanding Windows' Reserved Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-internet-interfaces-into-windowed-apps/"><u>Transforming Internet Interfaces Into Windowed Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-widespread-gaming-and-utilities-in-windows-2023-ms-store/"><u>Unleash Widespread Gaming and Utilities in Windows 2023 MS Store</u></a></li>
 </ul></div>
 

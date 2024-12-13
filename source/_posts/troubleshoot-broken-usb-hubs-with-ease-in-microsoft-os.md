@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Broken USB Hubs with Ease in Microsoft OS
-date: 2024-12-01T20:15:35.332Z
-updated: 2024-12-06T23:29:11.267Z
+date: 2024-12-09T23:01:43.334Z
+updated: 2024-12-13T01:50:21.128Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 ![Have your USB ports stopped working?](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there's a problem with your USB port, you'll notice it thanks to either of these things:
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check USB Ports on Windows 10 With Device Manager
 
  Device Manager is a system tool in Windows that lists devices attached to your computer. They’re grouped into categories, listed alphabetically, which enables you to quickly find the device you’re looking for.
@@ -86,6 +82,11 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
@@ -93,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
@@ -118,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 7. Click **Apply** and **OK** to confirm
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Finally, reboot your PC to ensure this change is applied
@@ -134,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
@@ -143,27 +144,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-strategies-for-youtube-to-mpeg-transformation/"><u>[New] 2024 Approved Cutting-Edge Strategies for YouTube to MPEG Transformation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-to-upload-strikingly-good-content-on-tiktok-via-mac-and-windows-for-2024/"><u>[New] Expert Techniques to Upload Strikingly Good Content on TikTok via Mac and Windows for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>[New] In 2024, Stay Incognito How to Stream Unnoticed on Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>[Updated] In 2024, Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>[Updated] Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vital-tips-to-preserve-lol-competitions/"><u>[Updated] Vital Tips to Preserve LOL Competitions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-uninstalling-print-devices-in-win-1011/"><u>Bypassing Restrictions: Uninstalling Print Devices in Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-holiday-vistas-through-creative-panes/"><u>Captivating Holiday Vistas Through Creative Panes</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-itel-p40plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P40+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-v-purse-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor V Purse Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapshot-safeguarding-an-easy-tutorial-for-your-phone-for-2024/"><u>Snapshot Safeguarding An Easy Tutorial for Your Phone for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +151,27 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-guide-to-modify-comment-accessibility-on-youtube/"><u>[New] 2024 Approved Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[New] In 2024, Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-power-to-download-igtv-videos-effortlessly-for-2024/"><u>[New] Unlock the Power to Download IGTV Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unlock-your-phone-camera-free-and-easy/"><u>[New] Unlock Your Phone Camera, Free & Easy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-optimal-viewport-adjustment-iphones-zooming-guide/"><u>[Updated] 2024 Approved Optimal Viewport Adjustment IPhone's Zooming Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>[Updated] 2024 Approved Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-poco-m6-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Poco M6 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-asking-too-many-hands-at-once-issue-on-windows/"><u>Conquering “Asking Too Many Hands at Once” Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demonstrative-instructions-for-successful-implementation-of-law-filters-in-windows/"><u>Demonstrative Instructions for Successful Implementation of LAW Filters in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/generating-ai-visuals-using-paint-cocreator-windows-edition/"><u>Generating AI Visuals Using Paint Cocreator - Windows Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966924977-get-your-samsung-c460-up-and-running-download-essential-drivers-today/"><u>Get Your Samsung C460 Up and Running - Download Essential Drivers Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-tracking-of-programs-opened-in-windows/"><u>Halt Tracking of Programs Opened in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-a79-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo A79 5G Device SIM</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-vrs-bright-side-and-dark-hole/"><u>In 2024, Navigating Through VR's Bright Side & Dark Hole</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-surface-overcoming-the-plugged-in-not-charging-dilemnma-easily/"><u>Microsoft Surface: Overcoming the 'Plugged in, Not Charging' Dilemnma Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-lost-upgrades-in-windows-11-fix-for-missing-tab/"><u>Revive Lost Upgrades in Windows 11 - Fix for Missing Tab</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-guide-efficiently-managing-your-programs-on-windows/"><u>The Quick Guide: Efficiently Managing Your Programs on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-efficiently-removing-steam-dns-information/"><u>Tips for Efficiently Removing Steam DNS Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undercover-window-wiz-windows-11s-hidden-tools-exposed/"><u>Undercover Window Wiz: Windows 11'S Hidden Tools Exposed</u></a></li>
+</ul></div>
+

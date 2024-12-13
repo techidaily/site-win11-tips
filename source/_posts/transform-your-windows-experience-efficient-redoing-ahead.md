@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Windows Experience: Efficient Redoing Ahead"
-date: 2024-08-23T07:01:25.917Z
-updated: 2024-08-24T07:01:25.917Z
+date: 2024-12-06T21:47:27.084Z
+updated: 2024-12-12T22:05:56.479Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Luckily, Windows gives you options to undo and redo your actions. Plus, with hotkeys handy, you can always redo and undo them much faster. Read on to discover how to do that and save precious time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Undoing and Redoing Actions on Windows
 
  Undo, as you would know, is simply reversing an action you have done on your PC. This could be to correct a typo you made while using the keyboard or move back an image you transferred to a folder.
@@ -30,7 +34,15 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Remember, you can't use the redo command without undoing an action first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Undo on Windows With a Keyboard Shortcut
 
@@ -42,15 +54,16 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Redo in a Snap With Redo Hotkeys
 
  You can save time and quickly redo an action by pressing the**Ctrl+Y** or**F4** redo hotkeys. If F4 doesn't work, first press the**F-Lock** key or**Fn** key, then**F4** .
@@ -59,34 +72,25 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
  One of the most invaluable things we can't recover is lost time. So start using undo and redo hotkeys on Windows to save some time and a few clicks. And if you like, you can also check out all of Windows 11's keyboard shortcuts to work smarter and faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +99,17 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-gaming-recorders-that-offer-more-than-just-fbx-files-for-2024/"><u>[Updated] Elite Gaming Recorders That Offer More Than Just FBX Files for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-x-sound-engineer-edition-pc/"><u>[Updated] In 2024, X-Sound Engineer Edition - PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>[Updated] The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-video-language-changers-to-make-your-videos-accessible/"><u>New 2024 Approved Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-obs-studio-startup-blunders-win-edition/"><u>Preventing OBS Studio Startup Blunders (Win Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-intensive-cpu-activity-by-dropbox-in-windows/"><u>Reducing Intensive CPU Activity by Dropbox in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-windows-emailcalendar-integrating-fav-photos/"><u>Revamp Windows Email/Calendar - Integrating Fav Photos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209881093-9781916225824-secret-mars/"><u>Secret Mars | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-window-11-help-service-breakdown/"><u>Solutions for the Window 11 Help Service Breakdown</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-smart-7-hd-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix Smart 7 HD FRP Bypass</u></a></li>
+</ul></div>
 

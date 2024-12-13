@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hurdles in Accessing Network Router
-date: 2024-08-23T07:02:20.625Z
-updated: 2024-08-24T07:02:20.625Z
+date: 2024-12-09T01:06:46.903Z
+updated: 2024-12-12T17:06:10.254Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
@@ -56,6 +57,10 @@ To find your Default Gateway IP address for the router:
 4. The command will return information related to Windows IP configuration. Here, locate the**Default Gateway** address for the**Ethernet** **adapter** . Note the Default Gateway address.
 5. Next, launch your web browser and type in the Default Gateway address in the address bar. Press Enter to access the router’s login page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use a Different Web Browser
 
  At times the problem can be due to your web browser. Bad cache or other glitches can prevent the browser from redirecting to your router’s login page.
@@ -66,16 +71,10 @@ To find your Default Gateway IP address for the router:
 2. Open the**Privacy and Security** tab in the left pane.  
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
  You can configure your network adapter's TCP/IP settings to obtain an IP address automatically. You'll be unable to access your router login page if you have used incorrect IP settings for the network adapter.
@@ -92,30 +91,24 @@ To find your Default Gateway IP address for the router:
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Invisibility on Any LAN VPNs
 
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
 
@@ -127,8 +120,9 @@ To disable Invisibility on LAN on NordVPN:
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset Your Router to Its Factory Defaults
 
  If you can’t reach the login page, check if your router is acting up. Temporary issues with the router can be fixed with a quick restart. If that doesn’t work, you can perform a factory reset to restore your router to its default settings.
@@ -141,14 +135,11 @@ To disable Invisibility on LAN on NordVPN:
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +148,18 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-spark-inspiration-free-premium-designs-for-video-marketers/"><u>[New] Spark Inspiration Free, Premium Designs for Video Marketers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-minicam-record-evaluation-and-backup-software/"><u>[Updated] 2024 Approved MiniCam Record Evaluation & Backup Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-evaluating-active-presenter-8s-performance/"><u>[Updated] Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>2024 Approved Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-lithuanian-language-digital-mastery-steps/"><u>Conquer Lithuanian Language: Digital Mastery Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanded-functionality-how-to-tailor-win-11s-menu-bar/"><u>Expanded Functionality: How to Tailor Win 11'S Menu Bar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-se-2022-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone SE (2022) or iPad?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-speed-locate-your-gpu-on-windows-11-pc/"><u>Lightning Speed: Locate Your GPU on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-non-operational-win11-licenses-work/"><u>Making Non-Operational Win11 Licenses Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-malfunctioning-mouse-context-menus/"><u>Mastery Over Malfunctioning Mouse Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-the-closer-to-ideal-device-for-artists/"><u>Surface Studio 2 Review: The Closer to Ideal Device for Artists?</u></a></li>
+</ul></div>
 

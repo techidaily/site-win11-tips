@@ -1,7 +1,7 @@
 ---
 title: "Revive Keys in Crisis: Arrows Rescued"
-date: 2024-12-02T20:52:48.766Z
-updated: 2024-12-06T17:03:51.137Z
+date: 2024-12-11T16:19:53.342Z
+updated: 2024-12-12T19:58:19.784Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Hardware and Devices Troubleshooter
@@ -49,6 +53,10 @@ msdt.exe -id DeviceDiagnostic
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Keyboard Troubleshooter
 
  If the arrow keys still don’t work, you can run the “Keyboard Troubleshooter”. This tool is similar to the “Hardware and Devices” troubleshooter, but it focuses on keyboard issues. To run it, follow these steps:
@@ -58,14 +66,10 @@ msdt.exe -id DeviceDiagnostic
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Using a Different Keyboard
@@ -73,10 +77,6 @@ msdt.exe -id DeviceDiagnostic
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update the Keyboard Driver
 
@@ -89,10 +89,6 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -103,6 +99,10 @@ To reinstall the keyboard driver, follow these steps:
 2. When a popup menu appears, click**Uninstall** to confirm.
 
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
 
@@ -123,19 +123,18 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-pc-and-android-strategies-for-optimized-facebook-video-uploads/"><u>[New] 2024 Approved PC & Android Strategies for Optimized Facebook Video Uploads</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716070161847-updated-2024-approved-capture-every-detail-on-mac-free/"><u>[Updated] 2024 Approved Capture Every Detail on Mac - Free!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-efficient-tools-seamless-extraction-of-vimeo-media/"><u>[Updated] In 2024, Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compreenasolutiontowindowss-lsass-problem-step-by-step-guide/"><u>A CompreenasolutiontoWindows's Lsass Problem: Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719365401948-addressing-windows-printer-issues-a-guide-for-unresponsive-print-commands/"><u>Addressing Windows Printer Issues: A Guide for Unresponsive Print Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-overview-of-the-windows-canary-security-feature/"><u>An Overview of the Windows Canary Security Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-a-blank-desktop-win-11-icon-fixes/"><u>Avoid a Blank Desktop: Win 11 Icon Fixes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elite-5-emulators-transforming-old-ps1-games-on-pcs-for-2024/"><u>Elite 5 Emulators Transforming Old PS1 Games on PCs for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-basics-of-bios-and-its-connection-to-revo-uninstaller/"><u>Exploring the Basics of BIOS and Its Connection to Revo Uninstaller</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-gt-10-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix GT 10 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/platinum-winx-dvd-ripper-fast-efficient-hd-content-transfer-from-dvds-to-mp4mov-format-in-under-five-minutes/"><u>Platinum WinX DVD Ripper: Fast, Efficient HD Content Transfer From DVDs to MP4/MOV Format in Under Five Minutes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-connecting-gpt-3-and-python-seamlessly/"><u>Unleash the Power of AI: Connecting GPT-3 and Python Seamlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-online-image-enhancement-with-audio/"><u>[New] Online Image Enhancement with Audio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>[Updated] Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-download-and-installation-101-your-pathway-to-mastering-ez-grabber/"><u>2024 Approved Download & Installation 101 Your Pathway to Mastering EZ Grabber</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-driver-reset-in-windows-1110-errors/"><u>Eliminate Driver Reset in Windows 11/10 Errors</u></a></li>
+<li><a href="https://techidaily.com/experience-enhanced-windows-11-upgraded-copilot-photos-widgets-and-additional-features/"><u>Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-7-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 7 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-music-for-instagram-videos-here-is-all-you-need-to-know/"><u>In 2024, Music for Instagram Videos - Here Is All You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-p55-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel P55 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-file-transfer-functionality-in-utorrent-for-windows-users/"><u>Restoring File Transfer Functionality in uTorrent for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-unzip-woes-windows-11-workarounds/"><u>Reverse Unzip Woes: Windows 11 Workarounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-steam-error-inaccessible-game-content-on-pc/"><u>Streamlining Steam Error: Inaccessible Game Content on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-wireless-earbuds-on-windows/"><u>Streamlining Wireless Earbuds on Windows</u></a></li>
 </ul></div>
 

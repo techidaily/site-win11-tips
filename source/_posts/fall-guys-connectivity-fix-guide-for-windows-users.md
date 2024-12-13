@@ -1,7 +1,7 @@
 ---
 title: Fall Guys Connectivity Fix Guide for Windows Users
-date: 2024-12-01T21:19:31.685Z
-updated: 2024-12-07T02:13:17.719Z
+date: 2024-12-07T01:16:00.954Z
+updated: 2024-12-12T17:11:32.970Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes a Connection Error in Fall Guys for Windows?
 
  It's very easy to log in to Fall Guys and play it on your computer. But if you're unable to log in and see a connection error, the following can be the reasons behind it:
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 3. Windows Firewall is blocking Fall Guys from accessing the internet.
 
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check Your Connection
 
@@ -61,7 +53,15 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable the Windows Firewall
 
@@ -75,10 +75,6 @@ Here's how you can do that:
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
 1. In the Windows Search, type**Allow an app through Windows Firewall** and press**Enter** .
@@ -89,6 +85,10 @@ Here's how you can do that:
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
 
 ## 4\. Disable Any Active Proxy Servers
@@ -98,6 +98,14 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -117,11 +125,7 @@ Follow the below steps to change to Google DNS:
 8. Click**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
@@ -146,7 +150,7 @@ RetryTime=0.5`
 ![Editing the Engine.ini file in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-the-engine-ini-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Fall Guys and check if the problem persists.
@@ -162,10 +166,6 @@ Launch Fall Guys and check if the problem persists.
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
 
 Now, restart your computer and check if the problem is fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Your Fall Guys Connection Errors, Fixed
 
@@ -186,17 +186,19 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-tiktok-streams-top-4-methods-on-pc/"><u>[New] In 2024, Mastering TikTok Streams Top 4 Methods on PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-most-innovative-list-scouting-the-top-10-free-youtube-studios-for-animation-for-2024/"><u>[New] The Most Innovative List Scouting the Top 10 Free YouTube Studios for Animation for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature-for-2024/"><u>[Updated] Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-note-12r-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi Note 12R to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-pcs-problems-4-top-pct-strategies/"><u>Ace Your PC's Problems: 4 Top PCT Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-terminal-background-for-custom-aesthetics/"><u>Adjust Terminal Background for Custom Aesthetics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-disruptions-how-to-mend-broken-windows-registry-items/"><u>Avoiding Disruptions: How to Mend Broken Windows Registry Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-these-5-unique-windows-pc-time-saver-tools/"><u>Boost Productivity with These 5 Unique Windows PC Time Saver Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list-for-2024/"><u>Comprehensive Guide to Choosing Podcast Names + Creative Ideas List for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-image-converter-facili-passaggi-per-convertire-foto-in-jpg-png-e-altri-formati-digitali/"><u>Online Image Converter: Facili Passaggi per Convertire Foto in JPG, PNG E Altri Formati Digitali</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-frequent-outriders-crashes-with-easy-fix-techniques/"><u>Overcoming Frequent Outriders Crashes with Easy Fix Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-free-premiere-pro-templates/"><u>[New] Best Free Premiere Pro Templates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[Updated] 2024 Approved Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>[Updated] In 2024, Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-the-fix-for-adobes-frozen-open-on-ws11/"><u>Finding the Fix for Adobe's Frozen Open on WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-defaulting-windows-setup-after-system-shutdown/"><u>Guide to Defaulting Windows Setup After System Shutdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-images-essential-tutorials-for-color-mastery/"><u>Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-gems-unique-windows-11-designs/"><u>Hidden Gems: Unique Windows 11 Designs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashes-of-prey-2-stalkers-of-the-shadow-world-on-desktop-systems/"><u>How to Resolve Persistent Crashes of 'Prey 2: Stalkers of The Shadow World' On Desktop Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-do-you-pay-for-writing-about-products-online/"><u>In 2024, Do You Pay for Writing About Products Online?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-amr-audio-transformation-a-step-by-step-manual-for-complete-amr-files-conversion/"><u>New AMR Audio Transformation A Step-by-Step Manual for Complete AMR Files Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-drives-needing-initialization-in-pcs/"><u>Overcoming Drives Needing Initialization in PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-choosing-windows-video-tools/"><u>Ultimate Guide to Choosing Windows Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unlocking-todays-nyt-challenge-expert-analysis-and-solutions-for-entry-351-on-may-27/"><u>Unlocking Today’s NYT Challenge - Expert Analysis & Solutions for Entry #351 on May 27</u></a></li>
 </ul></div>
 

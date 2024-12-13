@@ -1,7 +1,7 @@
 ---
 title: Techniques to Halt Windows Shutdown Clock
-date: 2024-08-23T07:08:09.164Z
-updated: 2024-08-24T07:08:09.164Z
+date: 2024-12-06T00:11:47.291Z
+updated: 2024-12-12T16:40:35.173Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Windows From Automatically Locking Itself
 
 You can stop Windows from automatically locking itself by:
@@ -39,8 +43,9 @@ You can stop Windows from automatically locking itself by:
 Now that we know how to do it, let's dive into the steps.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disabling Windows Sign-In
 
  Outright disabling Windows’ sign-in requirement is the most serious step that you can take to disable auto-locking on Windows. To disable the sign-in requirement:
@@ -51,10 +56,11 @@ Now that we know how to do it, let's dive into the steps.
 
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disabling Sleep Mode and Screen Saver
 
@@ -72,11 +78,9 @@ Now that we know how to do it, let's dive into the steps.
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ### Editing Windows Registry to Disable Auto-Locking
 
  Finally, you can also edit Windows Registry to stop Windows from automatically locking itself. Before we show you how to do this, make sure you understand that editing Windows Registry can make your system unstable requiring you to restart or even[perform a fresh Windows install](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) for your PC to work properly again.
@@ -91,28 +95,23 @@ So, edit Windows Registry only when nothing else works.
 
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Finally, restart your computer to see if a lock screen appears.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Windows Hello to Make Windows’ Auto-Locking Bearable
 
  If your PC or notebook has facial recognition or a fingerprint reader, you can set up Windows Hello to make sign-ins a breeze.
 
  On supported computers, Windows Hello can instantly recognize your face/fingerprint to log you in, taking the hassle out of typing a password in case of Windows auto-locking itself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +120,24 @@ Finally, restart your computer to see if a lock screen appears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-social-synergy-blueprint-for-ig-and-tiktok-pairing/"><u>[New] 2024 Approved Social Synergy Blueprint for IG & TikTok Pairing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>[Updated] Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-achieve-professional-level-recordings-with-these-top-4-methods-on-hp-devices/"><u>[Updated] In 2024, Achieve Professional-Level Recordings with These Top 4 Methods on HP Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pairing-video-cameras-with-desktop-captures/"><u>[Updated] In 2024, Pairing Video Cameras with Desktop Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-and-crafting-your-essential-guide-to-gopro-4k-edits-for-2024/"><u>Capturing and Crafting Your Essential Guide to GoPro 4K Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-windows-11s-volume-mixer-for-improved-audio/"><u>Configure Windows 11'S Volume Mixer for Improved Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-operation-errors-windows-1011-edition/"><u>Conquering Operation Errors: Windows 10/11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-program-size-display-tips-for-win11/"><u>Control Program Size Display: Tips for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-file-clarity-committing-comments-in-windows-11/"><u>Elevating File Clarity: Committing Comments in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-poco-f5-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intro-to-cinema-top-8-user-friendly-cameras-35mm/"><u>In 2024, Intro to Cinema Top 8 User-Friendly Cameras (35Mm)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ranked-creative-suites-equivalent-to-procreate-on-windows/"><u>Ranked Creative Suites Equivalent to Procreate on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-steam-friends-list-in-win11-systems/"><u>Reinstating Lost Steam Friends List in Win11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/todays-vr-experience-insight-for-2024/"><u>Today’s VR Experience Insight for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resetting-video-error-in-windows-1011/"><u>Troubleshooting Resetting Video Error in Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-mystery-behind-pc-launch-failures-of-resident-evil-5-and-get-playing-asap/"><u>Unlock the Mystery Behind PC Launch Failures of Resident Evil #5 and Get Playing ASAP!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-guidance-for-resolving-missing-time-remaining-issues/"><u>Win 11: Guidance for Resolving Missing Time Remaining Issues</u></a></li>
+</ul></div>
 

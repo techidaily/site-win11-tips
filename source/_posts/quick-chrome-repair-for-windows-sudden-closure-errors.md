@@ -1,7 +1,7 @@
 ---
 title: Quick Chrome Repair for Windows' Sudden Closure Errors
-date: 2024-11-30T20:42:23.796Z
-updated: 2024-12-06T16:26:26.449Z
+date: 2024-12-07T16:00:01.478Z
+updated: 2024-12-12T17:40:24.038Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
  If there’s a problem with your internet, try out some [helpful suggestions to resolve internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) or switch to an alternate network connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use an Incognito Window
 
  When troubleshooting problems with any browser, such as Chrome, one effective method is to load websites in an incognito window. This can help you determine whether the issue is specific to your Chrome profile or if it is caused by a faulty third-party extension.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Your Extensions
 
@@ -65,14 +73,10 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Hardware Acceleration
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 5. Click the **Relaunch** button to apply the changes and restart Chrome.  
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -100,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 3. Select **Add** from the resulting menu.
 4. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After creating a new profile, try loading a few websites and see if you get any errors.
 
@@ -117,43 +121,16 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Browse With Google Chrome Again on Windows
 
  In most cases, basic solutions such as reloading the web page or clearing browsing data are sufficient for fixing the “Aw Snap!” page crash errors in Chrome for Windows. If not, you may have to work your way through the other tips mentioned above to resolve the underlying issue.
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-peak-performance-fps-in-deliberate-movements/"><u>[New] In 2024, Peak Performance FPS in Deliberate Movements</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-simplifying-subtitle-access-three-ways-to-download-youtubes-srt-captions/"><u>[Updated] 2024 Approved Simplifying Subtitle Access Three Ways to Download YouTube's SRT Captions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-strategies-optimizing-for-business-growth/"><u>[Updated] 2024 Approved Snapchat Strategies Optimizing for Business Growth</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-effective-ways-to-leverage-zoom-on-chrome-os-devices-for-2024/"><u>[Updated] Effective Ways to Leverage Zoom on Chrome OS Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-androidios-techniques-screening-google-meets/"><u>[Updated] In 2024, Android/iOS Techniques Screening Google Meets</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/windows-gpt/"><u>选择专业Windows GPT赛博克隆解决方案 – 提高系统安全性和效率</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-in-steam-libraries-windows-11-guide/"><u>Bypassing Restrictions in Steam Libraries: Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-amd-card-drivers-in-windows-11-an-overview/"><u>Effortless AMD Card Drivers in Windows 11: An Overview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-bring-back-photo-viewer-features-on-win11/"><u>Guide to Bring Back Photo Viewer Features on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fine-tune-account-lockout-counter-after-failed-logins-on-windows-11-os/"><u>How to Fine-Tune Account Lockout Counter After Failed Logins on Windows 11 OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-edge-40-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Edge 40 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-explorer-filters-as-an-alternative-to-ls/"><u>Mastery of Windows Explorer Filters as an Alternative to LS</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/metodo-facil-y-confidencial-para-transferir-correos-de-yahoo-al-gmail/"><u>Método Fácil Y Confidencial Para Transferir Correos De Yahoo Al Gmail</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-cast-local-videos-to-chromecast-a-step-by-step-guide-updated-2023-for-2024/"><u>New Cast Local Videos to Chromecast A Step-by-Step Guide (Updated 2023) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011-auditory-conundrum/"><u>Overcoming the Windows 10/11 Auditory Conundrum</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-to-customized-pdf-program-on-pc/"><u>Switching to Customized PDF Program on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-redefining-spacing-between-desktop-widgets-in-windows-1011/"><u>Title: Redefining Spacing Between Desktop Widgets in Windows 10/11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-f5-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco F5 5G Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-memory-mapping-uncovering-ram-types-easily/"><u>Windows Memory Mapping: Uncovering RAM Types Easily</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +139,21 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>[New] In 2024, Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-instagram-to-twitter-share-content-directly-no-rt/"><u>2024 Approved Instagram to Twitter Share Content Directly (No RT)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/611786--a-world-of-ufos/"><u>A World of UFOs | Free Book</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/fotorevival-erneutes-leben-in-geloschten-bildern-mit-diesen-5-tricks/"><u>Fotorevival - Erneutes Leben in Gelöschten Bildern Mit Diesen 5 Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-for-deleting-microsofts-cplusplus-compiler-copilot-from-your-windows-11-operating-system/"><u>Guide for Deleting Microsoft's C++ Compiler (Copilot) From Your Windows 11 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-windows-lock-screen-delay/"><u>How to Configure Windows Lock Screen Delay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-13-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 13 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-2022-winter-games-skate-spotlights/"><u>In 2024, 2022 Winter Games Skate Spotlights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cutting-edge-avi-video-cutters-top-16-picks-for-professionals-and-beginners/"><u>New 2024 Approved Cutting-Edge AVI Video Cutters Top 16 Picks for Professionals and Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-in-use-files-problem-a-guide-for-windows-11-users/"><u>Overcoming In Use Files Problem: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-your-bat-scripts-in-windows-with-exes/"><u>Power Your .bat Scripts in Windows with EXEs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-linux-use-not-wsl-included/"><u>Simple Linux Use, Not WSL Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskbar-expertise-hotkeys-for-streamlining-operations/"><u>Taskbar Expertise: Hotkeys for Streamlining Operations</u></a></li>
+</ul></div>
+

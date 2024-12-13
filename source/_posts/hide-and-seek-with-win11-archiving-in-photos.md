@@ -1,7 +1,7 @@
 ---
 title: "Hide-and-Seek with Win11: Archiving in Photos"
-date: 2024-12-02T01:51:31.691Z
-updated: 2024-12-06T22:47:03.026Z
+date: 2024-12-10T18:41:01.859Z
+updated: 2024-12-13T00:41:53.800Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  You can hide a ZIP file within an image without any third-party software by utilizing the Command Prompt. It’s relatively straightforward to do so since you’ll only need to execute a single command. Note that the image you use will need to be in JPG, PNG, or GIF format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Get Started With the Command Prompt
 
  This is how you can hide a ZIP archive within an image with the Command Prompt:
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![An image that includes an embedded ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-with-embedded-archive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Access the Archive Within the Image
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![The Install button for 7-ZIP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the folder containing the new image file the **copy /B** command created within 7-Zip. Double-clicking that image file will open the ZIP archive you merged it with. Then you can access all the content within the ZIP archive by double-clicking it within 7-Zip.
 
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-image-zip-file.jpg)
@@ -69,14 +77,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  Or you can extract the contents from the archive with 7-Zip by selecting the image file and clicking **Extract**. Click the ellipses button to choose a folder to include the extracted files. Then press **OK** to proceed with the extraction.
 
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extract-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Hide a ZIP in an Image File With Image Steganography
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 3. Select **Yes** when prompted to start Image Steganography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open the folder that contains the ZIP archive and image file you want to merge. Remember that both files must be in the same folder just like the first method.
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  Your new image output file will be in whatever folder you selected to save it in. The ZIP file is embedded in it, but you’ll only see the image with whatever software it opens in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Access the Archive Within the Image
 
  The hidden archive will not be accessible in 7-Zip when created with the Image Steganography software. To access the embedded ZIP archive again, you’ll need to decode the image file it’s hidden in with the stenography software. This is how you can decode an image file that incorporates an embedded ZIP:
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 1. Click the **Decode** stenography mode option.  
 ![The Decode radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-decode-option.jpg)
 2. Drag and drop the image file you need to decode onto the **Image** box within the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Press the **Choose** button to select a folder location to include the ZIP archive and click **OK**.
 4. Click on Image Stenography’s **Start** button to decode the image file.
@@ -131,27 +131,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  One steganography method is to merge a ZIP archive that contains numerous files with an image. Then the ZIP archive will appear to be nothing more than a standard image file. Here are two ways to hide a ZIP archive within an image file on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-efficient-video-calls-made-easy-linking-zoom-with-gmail/"><u>[Updated] 2024 Approved Efficient Video Calls Made Easy Linking Zoom with Gmail</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elite-10-sound-recording-essentials-on-spotify-platform-for-2024/"><u>[Updated] Elite 10 Sound Recording Essentials on Spotify Platform for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-best-tools-to-snip-on-your-mac/"><u>[Updated] Unveiling the Best Tools to Snip on Your Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-preventing-frame-gaps-in-obs-recordings/"><u>2024 Approved Preventing Frame Gaps in OBS Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compre-written-guide-to-creating-a-trident-widget-grid-on-win11/"><u>A Compre Written Guide to Creating a Trident Widget Grid on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-stealthy-search-function-on-windows-11-bar/"><u>Activating Stealthy Search Function on Windows 11 Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-responsive-windows-11-context-items/"><u>Addressing Non-Responsive Windows 11 Context Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alter-the-default-display-on-task-manager-windows-11/"><u>Alter the Default Display on Task Manager (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automate-conversion-of-high-efficiency-image-coding-heic-photos-to-jpeg-format/"><u>Automate Conversion of High-Efficiency Image Coding (HEIC) Photos to JPEG Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-zooming-anomalies-fix-7-way-for-mouse-wheels/"><u>Banish Zooming Anomalies: Fix 7 Way for Mouse Wheels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719269092202-fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-phasmophobia-freezes-and-glitches-effective-solutions/"><u>Fixing Phasmophobia Freezes & Glitches: Effective Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-tailor-your-devices-alerts-with-custom-android-sounds/"><u>In 2024, Tailor Your Device's Alerts with Custom Android Sounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-hardware-driver-restored-computer-functionality-enhanced/"><u>Missing Media Hardware Driver Restored, Computer Functionality Enhanced</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719376441397-why-arent-window-11-thumbnail-images-displayed-solutions-available/"><u>Why Aren't Window 11 Thumbnail Images Displayed? Solutions Available</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +138,24 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[Updated] 2024 Approved Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-overcoming-obs-fullscreen-issues/"><u>2024 Approved Overcoming OBS Fullscreen Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-simplify-your-screen-with-smart-edits-on-heavy-duty-tiktoks/"><u>2024 Approved Simplify Your Screen with Smart Edits on Heavy-Duty TikToks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-solutions-reviving-razers-synapse-on-windows-systems/"><u>Finding Solutions: Reviving Razer's Synapse on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-code-0x0001-issue-in-nvidia-experience-for-w10w11/"><u>Fixing Code 0X0001 Issue in Nvidia Experience for W10/W11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>In 2024, Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-examination-the-working-of-googles-podcast-application/"><u>In 2024, In-Depth Examination The Working of Google's Podcast Application</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-safe-and-sound-sending-your-private-youtube-videos-online/"><u>In 2024, Safe and Sound Sending Your Private YouTube Videos Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-uncover-exquisite-vr-trails-for-bikers/"><u>In 2024, Uncover Exquisite VR Trails for Bikers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-folders-via-ios-and-android/"><u>Navigating Network Folders via iOS and Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-upgrade-quandaries-error-code-0xc1900101/"><u>Navigating Windows 11 Upgrade Quandaries: Error Code 0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-powershell-with-full-administrative-controls-step-by-step/"><u>Starting PowerShell with Full Administrative Controls, Step by Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tapping-into-your-file-odyssey-in-windows-11/"><u>Tapping Into Your File Odyssey in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-digital-landscapes-the-impact-of-ai-powered-search-engines-on-modern-sites/"><u>Transforming Digital Landscapes: The Impact of AI-Powered Search Engines on Modern Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-microsoft-store-error-zero/"><u>Troubleshooting Windows 11: Microsoft Store Error Zero</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Win11 Screensaver Personalization
-date: 2024-08-23T07:01:39.678Z
-updated: 2024-08-24T07:01:39.678Z
+date: 2024-12-06T23:36:53.295Z
+updated: 2024-12-12T17:10:59.397Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 5. Select the**3D Text** or**Photos** screensaver on the menu.  
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** to set your chosen screensaver.
 
  Clicking**Settings** for 3D Text will bring up a 3D Text Settings window. There you can change the screensaver's text by clicking the**Custom Text** radio button and inputting different text in the box. Or you can choose**Time** to show a 3D digital clock instead. Press the**Font** button to select a different font and style.
@@ -63,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -71,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
  Click the**Bubbles** tab to view options for customizing that screensaver. There you can change the number of bubbles the screensaver has by dragging the slider on the**Number** of**Spheres** bar. To change the size of the bubbles, drag the slider on the**Sphere Radius** bar. You can change the force of turbulence (bubble bounce) by dragging the slider on the**Turbulence Force** bar.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
@@ -91,8 +105,13 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -103,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +129,18 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-secure-snap-savings-androidmac-apps-guide/"><u>[New] 2024 Approved Secure Snap Savings Android/Mac Apps Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-virtual-venue-vetting-picking-obs-or-twitch/"><u>[Updated] 2024 Approved Virtual Venue Vetting Picking OBS or Twitch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-the-dynamics-of-fb-video-speeds/"><u>[Updated] Exploring the Dynamics of FB Video Speeds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-discrepancies-in-your-to-dos-sync-status/"><u>Correcting Discrepancies in Your To-Dos' Sync Status</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-alternatives-how-to-access-imessage-on-windows/"><u>Exploring Alternatives: How to Access iMessage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-non-functional-wsreset-a-comprehensive-guide/"><u>Reclaiming Non-Functional WSReset: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-for-the-token-access-issue-in-windows-1011/"><u>Remediation for the Token Access Issue in Windows 10/11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/surviving-the-undead-as-a-biker-unpacking-days-gone-video-game-review/"><u>Surviving the Undead as a Biker - Unpacking 'Days Gone' Video Game Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-photos-building-captivating-slideshows-and-fixing-errors-on-win11/"><u>Transforming Your Photos: Building Captivating Slideshows & Fixing Errors on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-win1011-rehabbing-corrupt-recycle-bin/"><u>Troubleshooting WIN10/11: Rehabbing Corrupt Recycle Bin</u></a></li>
+</ul></div>
 

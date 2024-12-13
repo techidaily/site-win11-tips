@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wisdom: Secrets to Instant Dossiers Creation"
-date: 2024-08-23T07:08:15.738Z
-updated: 2024-08-24T07:08:15.738Z
+date: 2024-12-08T21:10:43.174Z
+updated: 2024-12-12T17:32:47.106Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Whether you prefer the simplicity of using the context menu or the speed of a keyboard shortcut, there are several ways to create new folders in Windows 11\. This post will discuss four easy methods for creating new folders in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create a New Folder Using the Context Menu
 
  The easiest and most well-known way to create a new folder on Windows is through the context menu. You can use this method to create folders nearly anywhere in Windows. Here are the steps you can follow:
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 3. Select**New > Folder** .
 4. Type in a suitable name for your folder and then press**Enter** .  
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
 
@@ -43,8 +51,9 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -53,14 +62,12 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
  Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to[create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
@@ -76,31 +83,22 @@ To create a new folder using File Explorer's menu:
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +107,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>[New] 2024 Approved How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-effective-hp-screen-capture/"><u>[New] In 2024, Unveiling the Secrets of Effective HP Screen Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-personalizing-photos-on-insta-the-watermark-process-for-2024/"><u>[New] Personalizing Photos on Insta The Watermark Process for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securing-financial-stability-through-beauty-content-for-2024/"><u>[Updated] Securing Financial Stability Through Beauty Content for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/202122dvd/"><u>如何将2021/22年的DVD变成数字格式：步骤指南与最佳实践</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-connection-roadblocks-for-win-based-games/"><u>Cutting Through Connection Roadblocks for Win-Based Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-lifetime-deal-get-612-on-black-friday-for-win10-life/"><u>Exclusive Lifetime Deal: Get $6.12 on Black Friday for Win10 Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-nuances-of-using-gptzero-for-detecting-ai-content/"><u>Exploring the Nuances of Using GPTZero for Detecting AI Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-setup-moving-media-from-pc-to-your-iphone-for-2024/"><u>Fast Setup Moving Media From PC To Your iPhone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-spotify-connection-errors-in-windows-devices/"><u>Fixing Spotify Connection Errors in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-changing-the-cursor-theme-in-windows/"><u>Guide to Changing the Cursor Theme in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-commands-accelerated-translation-on-windows-11-devices/"><u>Keyboard Commands: Accelerated Translation on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-visual-searching-in-windows-file-explorer/"><u>Optimize Visual Searching in Windows File Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206716872-usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-quick-fixed-3-simple-tips-for-black-screen-woes/"><u>Win11 Quick Fixed: 3 Simple Tips for Black Screen Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-concealingdisplaying-firewall-zones/"><u>Windows Security: Concealing/Displaying Firewall Zones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-13-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi Note 13 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

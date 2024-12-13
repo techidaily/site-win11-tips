@@ -1,7 +1,7 @@
 ---
 title: Establishing Parental Guidelines in Windows 11 OS
-date: 2024-12-01T19:28:53.869Z
-updated: 2024-12-06T22:10:20.101Z
+date: 2024-12-06T22:03:09.740Z
+updated: 2024-12-12T21:58:16.334Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create an Account for Your Child on Windows 11
 
  The first step of setting up parental control in Windows 11 is to create a child account. If you haven’t done it already, here’s how you can do it:
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows 11's Parental Control Feature
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
  Now, head back to the Family Safety webpage as shown before, and click your child’s account. In the left pane, you can see the categories for setting and changing permissions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Monitor and Change Permissions in Parental Control
 
  In the**Overview** tab, you can check general information about your child’s account, such as spent screen time, which games your child is playing, or the amount of spent money.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
 
@@ -87,13 +75,25 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Filter Content
 
  In the**Content Filters** tab, you can restrict which websites and apps your child can access. To keep your kids safe online, you can enable filters for inappropriate websites and searches or allow access only to approved websites.
 
 ![How to filter content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/filter-content-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Your Kids Safe on Windows 11
@@ -126,24 +126,19 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-laptop-and-mobile-entrance-into-online-gatherings-google-meet/"><u>[Updated] In 2024, Laptop & Mobile Entrance Into Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-locking-out-youtube-channels-on-computers-and-phones/"><u>[Updated] In 2024, Locking Out Youtube Channels on Computers and Phones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-pick-windows-10s-cutting-edge-apps-and-games-for-2024/"><u>[Updated] Top Pick Windows 10’S Cutting-Edge Apps & Games for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/50plus-innovative-ideas-to-customize-your-windows-11-layout/"><u>50+ Innovative Ideas to Customize Your Windows 11 Layout</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/nvme-ssdwindows-7/"><u>効率的にNVMe SSDでWindows #7をセットアップするための３つのテクニック</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-setting-up-dns-on-windows-11/"><u>A Complete Walkthrough to Setting Up DNS on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-thoroughly-detailed-guide-to-windows-boot-options/"><u>A Thoroughly Detailed Guide to Windows Boot Options</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/batch-processing-closure-for-busy-windows-users/"><u>Batch-Processing Closure for Busy Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-the-blues-swift-remedies-to-hypervisor-bsos-in-winxose/"><u>Beat the Blues: Swift Remedies to Hypervisor BSOS in WINXOSE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-amd-graphics-efficiency-windows-11-updates-guide/"><u>Boosting AMD Graphics Efficiency: Windows 11 Updates Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-call-productivity-on-windows-11-with-the-intel-unison-app/"><u>Boosting Call Productivity on Windows 11 with the Intel Unison App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy F14 5G.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266622683-rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719276426207-saving-the-day-with-win1011s-recycle-bin-corruption-fixed/"><u>Saving the Day with Win10/11's Recycle Bin Corruption Fixed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-10-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 10 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickcopy-custodians-judgment/"><u>[Updated] 2024 Approved QuickCopy Custodians' Judgment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-apowersoft-free-screen-recorder-review-and-alternative/"><u>2024 Approved Apowersoft Free Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-permanent-deletion-of-files-using-the-windows-11-and-11-trash-bin/"><u>Ensuring Permanent Deletion of Files Using the Windows 11 & 11 Trash Bin</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-better-gaming-and-stability-download-the-latest-nvidia-geforce-rtx-940mx-drivers-today/"><u>Experience Better Gaming and Stability: Download the Latest NVIDIA GeForce RTX 940MX Drivers Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-ntuserdat-key-functions-and-importance-within-a-windows-environment/"><u>Exploring NTUSER.DAT: Key Functions and Importance Within a Windows Environment</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-new-games-pick-your-top-vr-headset/"><u>In 2024, Pioneering New Games? Pick Your Top VR Headset</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-professional-photography-with-canons-complimentary-luts/"><u>In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-reference-unlocking-windows-recovery-options/"><u>Quick Reference: Unlocking Windows Recovery Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-passwords-the-top-11-access-routes-in-win11/"><u>Securing Your Windows Passwords: The Top 11 Access Routes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-integrating-emulated-games-in-windows-playnite/"><u>Step-by-Step Process: Integrating Emulated Games in Windows' Playnite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-your-chrome-rectifying-window-based-profile-mishaps/"><u>Sync Your Chrome: Rectifying Window-Based Profile Mishaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-redefine-window-organization-with-icons-adjustment/"><u>Title: Redefine Window Organization with Icons Adjustment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-secure-boot-problems-in-windows-bios/"><u>Troubleshooting Secure Boot Problems in Windows BIOS</u></a></li>
 </ul></div>
 

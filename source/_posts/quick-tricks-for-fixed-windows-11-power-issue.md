@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks for Fixed Windows 11 Power Issue
-date: 2024-08-23T07:04:00.617Z
-updated: 2024-08-24T07:04:00.617Z
+date: 2024-12-07T23:25:53.542Z
+updated: 2024-12-13T01:23:59.165Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
  Changing these modes is quite simple, but in some cases, users can face difficulty jumping from one mode to another. So, we examine what might be causing the problem and how to troubleshoot it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 * A corruption issue within the system is causing the problem. The best way to rule out such problems is by running the Power troubleshooter built into Windows.
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
 
@@ -49,6 +57,10 @@ Here is how you can proceed:
 
 Once done, check if you can now change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Power Troubleshooter
 
  Your system can also be dealing with some kind of corruption issue that is causing the power modes and plans to act up. In this scenario, the best way to proceed is by running the Power troubleshooter.
@@ -62,18 +74,18 @@ Here is how you can run the troubleshooter:
 3. Click on**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
-5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
+5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset the Power Settings
 
  If changing the power plan did not do the trick for you, you can try resetting the power settings to their default state. They will revert to how they were when you began using Windows, thus fixing the error at hand.
@@ -87,9 +99,6 @@ Follow these steps to proceed:
 powercfg –restoredefaultscheme  
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
@@ -101,16 +110,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 3. Locate the**Select an active power plan** option in the right pane and double-click on it.  
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Revert the System to an Older Working State
 
  Another way to fix the problem is by reverting the system back to a state where you can change the power modes without any issues. This can be achieved using the System Restore feature,[one of the most important PC-Saving Windows Tools available](https://www.makeuseof.com/tag/8-pc-saving-windows-tools-must-not-overlook/) , which periodically creates restore points on the system.
@@ -125,14 +128,11 @@ Hopefully, this will resolve the issue.
 
  If nothing really works, you can always clean install Windows to give it a fresh, error-free start.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +141,24 @@ Hopefully, this will resolve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-alternate-avenues-10-great-games-like-gta-v-for-2024/"><u>[New] Alternate Avenues 10 Great Games Like GTA V for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-game-capture-kings/"><u>[Updated] In 2024, In-Game Capture Kings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unleashing-video-power-the-galaxy-s8-in-4k-for-2024/"><u>[Updated] Unleashing Video Power The Galaxy S8 in 4K for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfectly-synchronized-clip-composites-via-modes/"><u>2024 Approved Perfectly Synchronized Clip Composites via Modes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/5-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cooling-strategies-for-your-windows-11-laptopdesktop/"><u>Cooling Strategies for Your Windows 11 Laptop/Desktop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/deciphering-the-auto-cut-functionality-in-imovie/"><u>Deciphering the Auto-Cut Functionality in iMovie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-file-sharing-top-5-windows-software/"><u>Elevate Your File Sharing: Top 5 Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-resolution-eliminating-win1011-blackouts/"><u>Immediate Resolution: Eliminating Win10/11 Blackouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initialize-your-system-setting-up-startup-programs-in-win11/"><u>Initialize Your System: Setting Up Startup Programs in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-library-management-in-windows-11/"><u>Mastering Steam Library Management in Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refining-the-look-of-windows-11s-basic-writing-tool/"><u>Refining the Look of Windows 11'S Basic Writing Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-error-x80780119/"><u>Troubleshooting Windows' Error X80780119</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-rejuvenating-windows-11-diagnostics/"><u>Unleashing Potential: Rejuvenating Windows 11 Diagnostics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-and-nvidia-tackling-gl-error-3-head-on/"><u>Win11 & NVIDIA: Tackling GL Error 3 Head-On</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210283867-9781776095933-your-12-week-body-mind-transformation/"><u>Your 12-week Body & Mind Transformation | Free Book</u></a></li>
+</ul></div>
 

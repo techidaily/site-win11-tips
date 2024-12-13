@@ -1,7 +1,7 @@
 ---
 title: How To Switch to Window's Original Sleep/Wake Pattern
-date: 2024-12-02T17:54:09.329Z
-updated: 2024-12-06T17:33:46.981Z
+date: 2024-12-10T00:39:24.248Z
+updated: 2024-12-12T22:05:42.458Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reset Power Plans to Default Using the Control Panel
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![Reset Power Plan Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-power-plan-using-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can repeat the above steps to reset other power plans as well. Before you do that, it's a good idea to note down any changes you wish to reapply after the reset.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
  If you are looking for a way to swiftly switch between power plans, don't miss our guide on the best [ways to change power plans on Windows](https://www.makeuseof.com/windows-11-change-power-plan/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reset Power Plans to Default With Command Prompt or Windows PowerShell
@@ -74,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s about it. Once you run the above command, Windows will reset all the power plans to their default settings. For more such useful commands, why not check our guide on the [most useful CMD commands for Windows](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting Windows Power Plans to Default Settings
@@ -91,25 +91,6 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 
  Whether you want to troubleshoot power-related issues or simply start afresh, resetting power plans on your Windows 10 or 11 PC is fairly straightforward. There are a couple of ways you can go about this. Let’s go through them one at a time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-your-ultimate-guide-to-finding-tiktok-wallpapers-for-2024/"><u>[New] Your Ultimate Guide to Finding TikTok Wallpapers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-tech-jest-crafter/"><u>[Updated] In 2024, Tech Jest Crafter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-using-system-restore-in-windows-os/"><u>A Detailed Walkthrough of Using System Restore in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-clickable-items-in-the-latest-os-update/"><u>Addressing Non-Clickable Items in the Latest OS Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advice-for-avoiding-hidden-displays-during-windows-games/"><u>Advice for Avoiding Hidden Displays During Windows Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-troubleshooting-in-obs-studio-on-windows-11-devices/"><u>Audio Troubleshooting in OBS Studio on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-clutter-boost-clarity-keeping-your-notifications-centered-in-windows-11/"><u>Avoid Clutter, Boost Clarity: Keeping Your Notifications Centered in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-unwanted-bios-access-during-windows-initialization/"><u>Avoiding Unwanted BIOS Access During Windows Initialization</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/compelling-choices-macs-excellent-snipping-tools-for-2024/"><u>Compelling Choices Mac's Excellent Snipping Tools for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/instant-remedy-troubleshooting-failed-mtp-connectivity/"><u>Instant Remedy: Troubleshooting Failed MTP Connectivity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/photonest-frame-prox-top-quality-questionable-value/"><u>PhotoNest Frame ProX: Top Quality, Questionable Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-your-location-on-google-play-store/"><u>Step-by-Step Guide: Switching Your Location on Google Play Store</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-virtual-disk-error-handling-in-windows-systems/"><u>Streamlining Virtual Disk Error Handling in Windows Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-insider-guide-to-listening-to-podcasts-on-your-iphone-for-2024/"><u>The Insider Guide to Listening to Podcasts on Your iPhone for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +98,18 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-insider-secrets-macs-top-rated-snipping-software-list/"><u>[New] 2024 Approved Insider Secrets Mac's Top-Rated Snipping Software List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premiere-cameras-to-document-the-next-wave-of-concert-videos-for-2024/"><u>[New] Premiere Cameras to Document the Next Wave of Concert Videos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares-for-2024/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comprehensive-guide-on-preserving-important-documents-with-yls-top-backup-techniques/"><u>Comprehensive Guide on Preserving Important Documents with YL's Top Backup Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x0000004e-in-windows-os/"><u>Eliminating Error 0X0000004E in Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-guide-to-effective-file-locking-techniques/"><u>PowerToys Guide to Effective File Locking Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-photocapture-fail-in-win11/"><u>Troubleshooting PhotoCapture Fail in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-back-lost-5ghz-connection-in-windows-11-expert-advice-available/"><u>Win Back Lost 5GHz Connection in Windows 11: Expert Advice Available</u></a></li>
+</ul></div>
+

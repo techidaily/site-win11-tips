@@ -1,7 +1,7 @@
 ---
 title: Transforming Windows 11 Home Into a Virtual Environment with Hyper-V
-date: 2024-08-23T07:02:45.145Z
-updated: 2024-08-24T07:02:45.145Z
+date: 2024-12-07T16:26:46.655Z
+updated: 2024-12-12T20:26:38.342Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![hyper v install windows 11 home script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/hyper-v-install-windows-11-home-script.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. In the Notepad file, copy and paste the following script:
 
 `pushd "%~dp0"  
@@ -65,6 +69,10 @@ pause`
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
  6\. Click the **Save** button to save the file.
@@ -78,6 +86,10 @@ pause`
  9.Once completed, you will see the Operation completed successfully message.
 
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
 
@@ -94,15 +106,13 @@ pause`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
  To disable Hyper-V:
@@ -118,8 +128,9 @@ pause`
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -128,11 +139,33 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-digital-migration-made-simple-top-5-file-transfer-routes-for-computers-for-2024/"><u>[New] Digital Migration Made Simple Top 5 File Transfer Routes for Computers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tiktok-basics-for-macwindows-computers-explained/"><u>[New] In 2024, TikTok Basics for Mac/Windows Computers Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-rapidrun-framefrozen-capture/"><u>[Updated] In 2024, RapidRun FrameFrozen Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unveiling-the-leading-free-stock-video-and-image-archives/"><u>[Updated] In 2024, Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-larger-game-companies-stifling-the-markets-health-market-analysis-special-episode/"><u>Are Larger Game Companies Stifling the Market's Health? [Market Analysis Special Episode]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-heic-to-jpeg-switch-on-windows-11/"><u>Cutting-Edge Methods for Heic to JPEG Switch on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-video-output-fixing-black-webcam-display/"><u>Enhancing Video Output: Fixing Black Webcam Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-uses-for-microsofts-vcplusplus-distribute/"><u>Exploring Uses for Microsoft's VC++ Distribute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-go-incognito-with-admin-credentials-on-windows-11/"><u>How to Go Incognito with Admin Credentials on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-x7b-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor X7b Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pre-upgrade-knowledge-key-elements-explained/"><u>In 2024, Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-rising-above-internet-naysayers-and-detractors/"><u>In 2024, Rising Above Internet Naysayers and Detractors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-software-to-reclaim-lost-files-from-missing-disk-segments/"><u>Innovative Software to Reclaim Lost Files From Missing Disk Segments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-windows-experience-with-unseen-functionalities-from-vivetool/"><u>Maximize Your Windows Experience with Unseen Functionalities From ViVeTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-chrome-repair-for-windows-sudden-closure-errors/"><u>Quick Chrome Repair for Windows' Sudden Closure Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/route-to-administrator-rights-on-window-control-hub/"><u>Route to Administrator Rights on Window Control Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-collaboration-setting-up-and-using-copilot-on-microsoft-teams/"><u>Seamless Collaboration: Setting Up and Using Copilot on Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rectifying-cannot-link-with-nvidia-error-in-windows/"><u>Steps for Rectifying Cannot Link with NVIDIA Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-command-prompt-with-elevated-authority-in-windows-11/"><u>The Ultimate Guide to Command Prompt with Elevated Authority in Windows 11</u></a></li>
+</ul></div>
+

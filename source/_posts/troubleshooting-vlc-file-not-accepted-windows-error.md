@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting VLC File Not Accepted Windows Error
-date: 2024-08-23T07:07:38.584Z
-updated: 2024-08-24T07:07:38.584Z
+date: 2024-12-10T18:52:40.237Z
+updated: 2024-12-12T22:35:24.695Z
 tags:
   - windows10
   - windows11
@@ -52,9 +52,6 @@ To rename the folder:
 5. Rename the folder or file to a small name than the current folder name. Avoid using any special characters.
 6. Once renamed, open the folder and play any media file with the error to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset VLC Media Player Preference
 
  VLC offers tons of customization options. If the error is triggered after making a change to the VLC media player, you can reset the preferences to fix the issue.
@@ -65,16 +62,10 @@ To rename the folder:
 2. Select**Preferences** from the context menu. Alternatively, press**Ctrl + P** to open the Simple Preferences dialog.  
 ![vlc media player preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/vlc-media-player-preferences.jpg)
 3. In the**Interface** tab, scroll down and click on**Reset Preferences.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset preferences vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-preferences-vlc-media-player.jpg)
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.
 5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Modify the Youtube.luac VLC File to Fix Issues With YouTube Video Steaming
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
@@ -86,8 +77,9 @@ To rename the folder:
 4. Right-click on the VLC Media Player icon and select**Open File Location.**  
 ![open vlc media player file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-vlc-medai-player-file-location.jpg)
 5. Next, right-click again on the**VLC media player** icon in the new**File Explore** tab and select**Open file location.**
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Here, locate and open the**lua** folder.
@@ -95,14 +87,25 @@ To rename the folder:
 3. Locate and right-click on the**youtube.luac** file.  
 ![edit youtube luac file vlc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-youtube-luac-file-vlc.jpg)
 4. Select**Open with** and select**Notepad++** or another text file editor to open the file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![youtube luac script save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-script-save.jpg)
 5. When the file opens, press**Ctrl + A** to select all the contents of the file. Then, press**Ctrl + V** to paste the script copied from the GitHub page for VLC.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Press**Ctrl + S** and click**Yes** to confirm the action.
 
  Once the file is saved, launch VLC and check if the error is resolved. If not, try to create a new text file with the above script and save it as**youtube.lua** . Next, delete the**youtube.luac** file in**VLC\\lua\\playlist** and then move the**youtube.lua** file to the same folder. Try to stream any YouTube video via VLC to check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Media File
 
@@ -114,20 +117,28 @@ To take ownership of a media file:
 2. Right-click on the media file and select**Properties** .  
 ![properties media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-media.jpg)
 3. In the**Properties** dialog, open the**Security** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
 5. Click the**Change** button for**Owner** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![file properties advanced security change owner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner.jpg)
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
 7. If the user is found, click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 8. Click**Apply** and**OK** on all the open dialogs to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall VLC Media Player
 
@@ -139,9 +150,6 @@ To uninstall the VLC media player:
 2. Next, open the**Apps** tab in the left pane.  
 ![windows 11 view installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-view-installed-apps.jpg)
 3. Click on**Installed apps** and then search for VLC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
@@ -150,14 +158,11 @@ To uninstall the VLC media player:
 
  If the error occurs when playing a local media file, you can fix it by renaming it or moving it to a different folder. Often an invalid file name issue seem to trigger this error on VLC. However, to fix the issue while streaming a YouTube video, you’ll need to modify the youtube.luac file and add the new code to make it work again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +171,17 @@ To uninstall the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[New] 2024 Approved Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728486877876-windows-10/"><u>如何在Windows 10中迅速解析及糾正備份操作失敗的故障</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-art-of-incorporating-b-roll-in-video-production/"><u>In 2024, The Art of Incorporating B Roll in Video Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-out-system-snafus-with-these-tools/"><u>Smooth Out System Snafus with These Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-imessage-user-not-found-a-step-by-step-guide/"><u>Solving 'iMessage: User Not Found' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/speeding-up-your-fingers-is-it-all-in-the-polling/"><u>Speeding Up Your Fingers - Is It All in the Polling?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-tech-talk-disable-pin-during-win11-cast/"><u>Streamline Tech Talk: Disable PIN During Win11 Cast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-windows-gpeditmsc-difficulty/"><u>Troubleshooting Tips for Windows 'Gpedit.msc' Difficulty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unify-time-a-guide-to-windows-synchronization/"><u>Unify Time: A Guide to Windows Synchronization</u></a></li>
+</ul></div>
 

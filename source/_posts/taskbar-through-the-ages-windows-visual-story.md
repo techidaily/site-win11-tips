@@ -1,7 +1,7 @@
 ---
 title: "Taskbar Through the Ages: Windows' Visual Story"
-date: 2024-12-05T00:20:08.663Z
-updated: 2024-12-07T02:31:56.109Z
+date: 2024-12-08T01:15:30.473Z
+updated: 2024-12-12T21:19:32.705Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,7 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows 95: The Introduction of the Taskbar
 
@@ -53,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 ![The Windows 95 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-95-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The original Windows 95 version didn’t have a Quick Launch area. However, a Quick Launch area was on later versions of that OS. This was an area of the taskbar on which users could add program shortcuts. It also included a **Show Desktop** button and Internet Explorer icon.
 
  Some third-party software packages enable you to restore the classic Windows 95 taskbar in Windows 11/10\. For example, you can [revive the Windows 95 and XP taskbar](http://www.makeuseof.com/windows-95-xp-taskbars-windows-11/) with the RetroBar app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows XP: A Revamped Taskbar Appears
 
@@ -78,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows 7: Another Taskbar Overhaul From Microsoft
@@ -92,16 +84,24 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 ![A Jump List in Windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jump-list-in-windows-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 8: The Start Button Goes Missing From the Taskbar
 
  The taskbar didn’t change much in Windows 8\. However, it was the first taskbar in Windows history not to include a **Start** button. The Start screen replaced the Start menu in Windows 8\. So, a taskbar **Start** button for accessing a menu was seemingly no longer required.
 
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 10: The Introduction of New Taskbar Icons
 
@@ -111,11 +111,11 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 11: The Taskbar Goes Central
 
@@ -139,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>[New] 2024 Approved Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-superior-nintendo-switch-hd-recording/"><u>[Updated] In 2024, Superior Nintendo Switch HD Recording</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-gaomon-pd1560-digital-sketchpad/"><u>Comprehensive Review of the Gaomon PD1560 Digital Sketchpad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-on-installing-win11s-version-22h2-upgrade-successfully/"><u>Expert Advice on Installing Win11's Version 22H2 Upgrade Successfully</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterpieces-at-your-fingertips-4-notable-new-paint-features/"><u>Masterpieces at Your Fingertips: 4 Notable New Paint Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-procedures-for-resetting-windows-updates/"><u>Simplified Procedures for Resetting Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-updating-administrator-in-win11-environment/"><u>Streamlined Steps for Updating Administrator in Win11 Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steam-order-processes/"><u>Streamlining Steam Order Processes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +146,27 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[New] In 2024, Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adapting-srt-to-sub-step-by-step-guide-and-tactics-for-2024/"><u>Adapting SRT to SUB Step-by-Step Guide & Tactics for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-downloading-and-updating-your-acer-monitors-graphics-driver/"><u>Best Practices for Downloading and Updating Your Acer Monitor's Graphics Driver</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-clips-select-5-brightening-apps-for-2024/"><u>Captivating Clips Select 5 Brightening Apps for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-new-linguistic-horizons-with-google-picked-mondly/"><u>Discovering New Linguistic Horizons with Google-Picked Mondly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x0000004e-in-windows-os/"><u>Eliminating Error 0X0000004E in Windows OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-static-to-dynamic-hyperlapse-video-techniques/"><u>In 2024, From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/linguistic-inputs-utilize-no-fee-required/"><u>Linguistic Inputs, Utilize No Fee Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-invisibility-windows-drives-concealment/"><u>Mastering Invisibility: Windows Drives Concealment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-soon-expiring-license-in-w10-and-w11/"><u>Overcoming “Soon Expiring License” In W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-guide-to-effective-file-locking-techniques/"><u>PowerToys Guide to Effective File Locking Techniques</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-red-magic-8s-proplus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Red Magic 8S Pro+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-isdonedll-isarcextract-errors-in-windows-oses/"><u>Resolving ISDone.dll (ISArcExtract) Errors in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-correcting-colour-distortion-in-appstore/"><u>Solutions for Correcting Colour Distortion in AppStore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-disabling-unintended-key-combinations-on-pc/"><u>Solutions for Disabling Unintended Key Combinations on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-nonfunctional-mics-in-your-kotion-g2000-setup/"><u>Solving Issues with Nonfunctional Mics in Your Kotion G2000 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-photocapture-fail-in-win11/"><u>Troubleshooting PhotoCapture Fail in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-back-lost-5ghz-connection-in-windows-11-expert-advice-available/"><u>Win Back Lost 5GHz Connection in Windows 11: Expert Advice Available</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhancing System Safety with New Passwords in Win 11
-date: 2024-08-23T07:05:13.516Z
-updated: 2024-08-24T07:05:13.516Z
+date: 2024-12-07T16:17:51.406Z
+updated: 2024-12-13T01:00:33.556Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,17 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 4. Next, you need to provide a new password and confirm the same.  
 ![ctrl alt delete change password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ctrl-alt-delete-change-password-new-password.jpg)
 5. Press**Enter** or click the right arrow icon to change the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. It’s a quick way to change your account password. If this doesn’t work, you can use the Settings app to do the same.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change Your Account Password via the Settings App
 
  You can easily change your local account password from the Settings app. However, to do this, you must know your current account password. If not, skip to the password reset method below.
@@ -54,9 +60,11 @@ To change the account password:
 2. In the left pane, open the**Accounts** tab.  
 ![change user account password settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-user-account-password-settings.jpg)
 3. Next, click on**Sign-in options.**
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click and expand the**Password** option.
 5. Click on**Change** and enter your current password.
 6. Click**Next** .  
@@ -81,11 +89,12 @@ To reset the user account password:
 5. Next, click on the**Reset Password** button.  
 ![user accounts reset password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-reset-password-new-password.jpg)
 6. In the**Reset Password** dialog, enter your new password and confirm the same.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 7. Click**OK** to save the changes.
 8. Close the**User Account** dialog, and you can now log in with your new password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset Account Password Using Command Prompt
 
@@ -110,6 +119,10 @@ To reset the user account password:
 4. Once the password is reset, you’ll see the**command completed successfully** message in Command Prompt.
 5. Type**exit** and press**Enter** to close Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Change the Account Password Using the Control Panel
 
  The classic Control Panel still has most of its system setting functions intact. You can use it in Windows 11 to change your user account password and more.
@@ -121,9 +134,6 @@ To change the Windows account password using Control Panel:
 3. In Control Panel, go to**User Accounts** and then click on**User Accounts** again.  
 ![user accounts control panel 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-1.jpg)
 4. Next, click on**Manage another account.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![user accounts control panel manage another account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-manage-another-account.jpg)
 5. Select the user account for which you want to change the password.
 6. Next, click on the**Change the password** option under**Make changes to User’s account.**  
@@ -131,13 +141,15 @@ To change the Windows account password using Control Panel:
 7. Type your current password and then enter the new password. Confirm the new password and type in a hint. This will be useful if you forget your password again.  
 ![user accounts control panel change the password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-change-the-password-new-password.jpg)
 8. Click**Change password** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Change Account Password Using Local Users and Groups
 
  Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to[set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
@@ -151,12 +163,14 @@ To change the Windows account password using Control Panel:
 4. In the right pane, right-click on a user account and select**Set Password** . This will trigger a password reset warning. Read the description and click**Proceed** .  
 ![local users and groups set password warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-users-and-groups-set-password-warning.jpg)
 5. Next, enter your new password and confirm the same in the given field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups set password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-users-and-groups-set-password-new-password.jpg)
 6. Click**OK** to reset the password and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Microsoft Account Password
 
  If you sign in with a Microsoft account, you can reset the password for the Microsoft account online. Here’s how to do it.
@@ -164,36 +178,28 @@ To change the Windows account password using Control Panel:
 1. Go to the[Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-online-password-security.jpg)
 2. Next, click on the**Password** security block.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
 3. To change the password, fill in your current password. Then, fill in your new password and re-enter the password to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Save** to change the password.
 
  You can use the new password to sign in to your computer using a Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Change Windows Account Password in Windows 11
 
  You can easily change your Windows account password if you remember the current password or have an alternate login option. If you are locked out of your PC, these methods will not work.
 
  That said, you can still reset your forgotten admin account password using a Command Prompt hack and the Windows Recovery Environment.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,4 +208,26 @@ To change the Windows account password using Control Panel:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials/"><u>[New] In 2024, Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-illuminating-your-space-naturally-interior-wise-for-2024/"><u>[Updated] Illuminating Your Space Naturally, Interior-Wise for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>[Updated] In 2024, Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-nikon-d-500-4k-dslr-camera-review-for-2024/"><u>[Updated] Nikon D 500 4K DSLR Camera Review for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-real-value-of-selfie-verifications-in-2024/"><u>[Updated] The Real Value of Selfie Verifications, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-premium-startings-top-16-youtube-videos-that-thrive-in-popularity/"><u>2024 Approved Premium Startings Top 16 YouTube Videos That Thrive in Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-offer-612-annual-win10-just-for-you/"><u>Exclusive Offer: $6.12 Annual Win10 - Just for You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-game-installations-in-ms-store/"><u>Fixing Failed Game Installations in MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-align-your-windows-id-with-microsoft-accounts/"><u>How to Align Your Windows ID with Microsoft Accounts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-cutting-edge-flagship-k1c-from-creality-a-new-era-in-3d-printers/"><u>Introducing the Cutting-Edge Flagship K1C From Creality, a New Era in 3D Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-photo-size-in-windows-11-with-these-top-6-tips/"><u>Master Your Photo Size in Windows 11 with These Top 6 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-malfunctioning-ccleaner-in-win11/"><u>Mending Malfunctioning CCleaner in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-integrating-intels-network-devices-on-os-x/"><u>Quick Guide: Integrating Intel's Network Devices on OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reacquiring-your-windows-11-pin-a-fix-guide/"><u>Reacquiring Your Windows 11 PIN: A Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/responsible-ai-use-enhancing-writing-editing-processes/"><u>Responsible AI Use: Enhancing Writing, Editing Processes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-mirroring-ipads-on-chromecast-plus-the-ideal-substitutes/"><u>The Ultimate Guide to Mirroring iPads on Chromecast – Plus the Ideal Substitutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-recorder-9999-issue-in-windows/"><u>Troubleshooting Audio Recorder 9999 Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-concealingdisplaying-firewall-zones/"><u>Windows Security: Concealing/Displaying Firewall Zones</u></a></li>
+</ul></div>
 

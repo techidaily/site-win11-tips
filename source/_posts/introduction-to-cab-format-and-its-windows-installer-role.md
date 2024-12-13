@@ -1,7 +1,7 @@
 ---
 title: Introduction to CAB Format and Its Windows Installer Role
-date: 2024-08-23T07:07:45.522Z
-updated: 2024-08-24T07:07:45.522Z
+date: 2024-12-08T20:35:19.326Z
+updated: 2024-12-12T21:47:26.841Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 2. Right-click the CAB file, and choose **Copy as path**.  
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
@@ -57,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
  That's it. PowerShell will install the content of the CAB file on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Driver Updates From a CAB File
 
  If you have downloaded a driver update, which is a CAB file, you can install it using the following instructions:
@@ -67,41 +73,38 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 2. Press **Ctrl + A** to select all the files, right-click, and choose **Extract**.  
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Device Manager will now install the driver update on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## CAB Files: Everything You Need to Know
 
  You may sometimes come across a CAB file and wonder what it is and how to install it. After reading the above explanation, hopefully, you now have a basic understanding of CAB files. You now also know how to install driver updates that are in the form of CAB files.
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +112,23 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-network-speedy-id-snooping-tips/"><u>[New] Navigating the Network Speedy ID Snooping Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>[Updated] In 2024, Walking Deadlines The Ultimate Selection of Excellent Zombie Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-robloxs-403-denial-message-for-windows-users/"><u>Decoding Roblox's 403 Denial Message for Windows Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/dronemakers-ultimate-sky-explore-for-2024/"><u>Dronemaker's Ultimate Sky Explore for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-dissonance-to-harmony-kinemasters-transition-magic/"><u>From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-manage-wi-fi-settings-on-windows-11/"><u>How to Efficiently Manage Wi-Fi Settings on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/las-maquinetas-ideales-reproductores-de-video-4k-uhd-escoltando-a-pcmac/"><u>Las Maquinetas Ideales: Reproductores De Vídeo 4K UHD Escoltando a PC/Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-cropping-with-vlc-media-player-a-comprehensive-guide/"><u>Mastering Video Cropping with VLC Media Player - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-your-windows-11-experience/"><u>Personalizing Your Windows 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-temporary-files-error-on-windows-11/"><u>Resolving Temporary Files Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-passwords-the-top-11-access-routes-in-win11/"><u>Securing Your Windows Passwords: The Top 11 Access Routes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sifting-through-disks-what-separates-c-and-d/"><u>Sifting Through Disks: What Separates C: & D?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-integrating-emulated-games-in-windows-playnite/"><u>Step-by-Step Process: Integrating Emulated Games in Windows' Playnite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-and-comparisons-zdnets-findings/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews & Comparisons - ZDNet's Findings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphones-hidden-photo-storage-solutions-post-deletion/"><u>Understanding iPhones' Hidden Photo Storage: Solutions Post-Deletion</u></a></li>
+</ul></div>
+

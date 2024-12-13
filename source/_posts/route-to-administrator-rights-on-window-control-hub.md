@@ -1,7 +1,7 @@
 ---
 title: Route to Administrator Rights on Window Control Hub
-date: 2024-12-03T21:29:42.020Z
-updated: 2024-12-06T18:29:16.518Z
+date: 2024-12-11T18:18:31.664Z
+updated: 2024-12-12T19:54:12.168Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to open the Control Panel as an Administrator through Run Command
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -55,13 +55,14 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 2. In the next step, you will be asked to give the shortcut's location. So, type the following path in the text box and click**Next** .  
 ![Open Control Panel With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-with-desktop-shortcut.jpg)  
 C:\WINDOWS\system32\control.exe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
 ![Open Control Panel Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-desktop-shortcut.jpg)
 4. Next, right-click on the shortcut and select**Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
 6. Check the**Run as administrator** box and click**OK** .
@@ -70,7 +71,7 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
@@ -92,16 +93,17 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>[New] 2024 Approved From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>2024 Approved Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bouncing-back-from-excessive-life-enthusiasm-on-windows-systems/"><u>Bouncing Back From Excessive Life Enthusiasm on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-file-save-obstacles-quick-fixes-to-overcome-win11-issues/"><u>Bypass File Save Obstacles: Quick Fixes to Overcome WIN11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/capturing-sound-with-snipping-tools-screen-recorder-feature-max-156/"><u>Capturing Sound with Snipping Tool's Screen Recorder Feature (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/changing-defaults-optimize-your-windows-11-device-use/"><u>Changing Defaults: Optimize Your Windows 11 Device Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-infinix-smart-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Infinix Smart 8</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-change-pitch-without-losing-quality-in-audacity-for-2024/"><u>New How to Change Pitch without Losing Quality in Audacity for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo A1x 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-speaker-change-devices-for-youtube-gurus/"><u>[Updated] Expert Speaker Change Devices for YouTube Gurus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-photography-leading-tripods-for-smartphones/"><u>[Updated] Precision Photography Leading Tripods for Smartphones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-install-and-upgrade-guide-to-the-latest-macos-sierra/"><u>2024 Approved Install and Upgrade Guide to the Latest macOS Sierra</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revamping-youtube-videos-with-smart-post-upload-techniques/"><u>2024 Approved Revamping YouTube Videos with Smart Post-Upload Techniques</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-to-use-flashtastic-video-converter-effortless-conversion-from-swf-flv-to-f4v-streaming-files/"><u>Easy-to-Use Flashtastic Video Converter - Effortless Conversion From SWF, FLV to F4V Streaming Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-windows-error-0x8007007e-blue-screen/"><u>Handling the Windows Error 0X8007007E Blue Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nubia-red-magic-8s-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nubia Red Magic 8S Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ppt-pro-tips-top-6-routes-to-prevent-save-failures-in-windows/"><u>PPT Pro Tips: Top 6 Routes to Prevent Save Failures in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/starting-out-top-pick-gopro-supplements/"><u>Starting Out Top Pick GoPro Supplements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-sync-in-the-world-of-microsoft-to-do/"><u>Troubleshooting Non-Sync in the World of Microsoft To Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-pin-related-connectivity-issues-in-windows-1110/"><u>Unlock PIN-Related Connectivity Issues in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-you-should-care-about-the-new-update-plan-for-windows-11-h2/"><u>Why You Should Care About the New Update Plan for Windows 11 H2</u></a></li>
 </ul></div>
 

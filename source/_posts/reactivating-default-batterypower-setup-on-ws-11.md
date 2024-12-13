@@ -1,7 +1,7 @@
 ---
 title: Reactivating Default Battery/Power Setup on WS 11
-date: 2024-12-05T00:00:37.079Z
-updated: 2024-12-06T19:31:53.724Z
+date: 2024-12-10T17:08:33.289Z
+updated: 2024-12-12T20:46:29.373Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check Which Power Plan Is Missing
 
 ![check missing power plans control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-missing-power-plans-control-panel-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on your system hardware specification, you may see three or four power plans in the Power Options panel. Balanced, Power Saver and High Performance are the most common in all Windows computers.
@@ -49,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 4. Next, click on**Power Options** .
 5. Expand the**Show additional plans** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -75,6 +63,10 @@ To change power mode on Windows 11:
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-default-power-plans-windows-11-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you try to restore the power plans, reset all the power plan settings to factory default. A reset will only fix issues that occurred due to incorrect configuration.
 
 To reset Windows default power plans:
@@ -84,9 +76,17 @@ To reset Windows default power plans:
 `powercfg -restoredefaultschemes`
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -121,10 +121,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -145,13 +141,18 @@ To create a custom Power Plan on Windows:
 4. Next, click on**Power Options** .  
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click**Create** .\`
@@ -179,15 +180,20 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[New] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-asmr-for-restful-slumber/"><u>2024 Approved Mastering ASMR for Restful Slumber</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-workflow-efficient-redo-keys-on-windows/"><u>Ace Your Workflow: Efficient Redo Keys on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-administrative-control-settings-in-windows-11-devices/"><u>Addressing Administrative Control Settings in Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-productivity-with-wordpad-embedding-commands-into-context-menus/"><u>Boosting Productivity with WordPad: Embedding Commands Into Context Menus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-10t-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 10T 5G Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-g24-power-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola G24 Power for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultra-light-acer-swift-edge-156-4k-oled-gaming-laptop-evaluation-zdnet/"><u>Ultra-Light Acer Swift Edge 15.6 4K OLED Gaming Laptop Evaluation | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719381461685-unlock-hidden-features-in-windows-snipping-tool-for-flawless-screen-shots/"><u>Unlock Hidden Features in Windows Snipping Tool for Flawless Screen Shots</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967961444-update-your-logitech-g910-keys-get-the-latest-windows-compatible-software-now/"><u>Update Your Logitech G910 Keys: Get the Latest Windows Compatible Software Now!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-youtube-broadcast-wirecast-streaming-guide/"><u>[New] 2024 Approved Mastering YouTube Broadcast WireCast Streaming Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>[Updated] How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-accessible-archives-downloading-everyday-facebook-feed/"><u>[Updated] In 2024, Accessible Archives Downloading Everyday Facebook Feed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-crafting-spectacular-gopro-time-lapses-made-easy/"><u>[Updated] In 2024, Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-approach-to-creating-attractive-yt-summaries/"><u>[Updated] In 2024, Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-delayed-downloads-on-your-windows-system/"><u>Fixing Delayed Downloads on Your Windows System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transferring-tactics-swiftly-send-files-to-devices/"><u>In 2024, Transferring Tactics Swiftly Send Files to Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-diagnostic-tools-in-winos/"><u>Restoring Functionality to Diagnostic Tools in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/right-click-for-the-win-add-compatibility-tools-to-your-menu/"><u>Right-Click for the Win: Add Compatibility Tools to Your Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-smooth-msstore-operation-after-error-0x0-in-windows-os/"><u>Securing Smooth MsStore Operation After Error 0X0 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-for-fixing-javascript-glitches-on-discord-platform/"><u>Simple Steps for Fixing JavaScript Glitches on Discord Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streammine-group-video-downloads-for-2024/"><u>StreamMine Group Video Downloads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-reset-power-configurations-in-windows/"><u>Techniques to Reset Power Configurations in WIndows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-arquivos-ogv-em-webm-livremente-online-com-o-movavi/"><u>Transformar Arquivos OGV Em WEBM Livremente Online Com O Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-snipping-tool-how-to-record-audio-and-video-simultaneously-on-windows-11-max-156/"><u>Unlocking Snipping Tool: How to Record Audio and Video Simultaneously on Windows 11 (Max 156)</u></a></li>
 </ul></div>
 

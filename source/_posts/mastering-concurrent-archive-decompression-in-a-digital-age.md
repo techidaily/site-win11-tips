@@ -1,7 +1,7 @@
 ---
 title: Mastering Concurrent Archive Decompression in a Digital Age
-date: 2024-08-23T07:04:51.712Z
-updated: 2024-08-24T07:04:51.712Z
+date: 2024-12-11T00:24:41.040Z
+updated: 2024-12-13T01:44:26.394Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  Many users need to extract ZIP archives on Windows 11/10 PCs. The built-in archive extraction tool within Windows is fine for unzipping single ZIP files. However, that tool doesn’t have an option for batch extracting multiple ZIP files. This means you must extract multiple ZIP archives one at a time when utilizing that extraction utility.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
@@ -40,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 4. Click **Extract** to bring up an extraction window.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button.jpg)
 5. If you want to change the folder that includes the extracted subfolders, click the **ellipsis** button. Then choose a different directory and click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
@@ -59,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
@@ -69,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
@@ -78,15 +95,14 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Batch Extract ZIP Files Quicker in Windows
 
  ExtractNow and 7-Zip are two of the best freely available Windows desktop apps for simultaneously extracting multiple ZIP files. It’s quick and easy to batch-extract hundreds of ZIP archives in just a few clicks with those software packages. So, they’re invaluable utilities for anybody who needs to bulk extract many ZIP files.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +110,22 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>[New] 2024 Approved Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-profile-pictures-with-these-expert-creators/"><u>[Updated] 2024 Approved Mastering Facebook Profile Pictures with These Expert Creators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[Updated] In 2024, Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordability-meets-quality-in-the-fellowes-microban-wired-keyboard-our-comprehensive-review/"><u>Affordability Meets Quality in the Fellowes Microban Wired Keyboard - Our Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-turning-off-geforce-visual-boost-effects/"><u>Command: Turning Off GeForce Visual Boost Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-methods-to-convert-jpg-images-into-mp4-videos-on-any-device/"><u>Efficient Methods to Convert JPG Images Into MP4 Videos on Any Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-lost-windows-in-your-taskbar-follow-these-6-recovery-steps-in-win-1011/"><u>Finding Lost Windows in Your Taskbar? Follow These 6 Recovery Steps in Win 10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-10-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 10 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-make-movies-for-free-top-rated-video-editing-software/"><u>In 2024, Make Movies for Free Top-Rated Video Editing Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-task-manager-from-rearranging-programs/"><u>Prevent Task Manager From Rearranging Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-device-managers-code-41-issues-a-step-by-step-guide/"><u>Resolving Device Manager's Code 41 Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sprinter-mouse-click-techniques-for-speedy-dual-taps/"><u>Sprinter Mouse Click Techniques for Speedy Dual Taps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-crucial-role-of-bsod-in-system-restoration/"><u>The Crucial Role of BSoD in System Restoration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-audio-devices-on-windows-7-systems/"><u>Troubleshooting Non-Functional Audio Devices on Windows 7 Systems</u></a></li>
+</ul></div>
+

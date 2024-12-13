@@ -1,7 +1,7 @@
 ---
 title: Initiating Narration Mode on Windows 11 PC
-date: 2024-08-23T07:01:37.444Z
-updated: 2024-08-24T07:01:37.444Z
+date: 2024-12-08T21:48:25.966Z
+updated: 2024-12-12T20:57:00.884Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Start the Narrator Using a Run Command
 
  The Run command on a Windows operating system is a quick way to open an application or document. If you're using a screen reader or text-to-speech software on your Windows 11 computer, you can open it using the Run command. Here's how:
@@ -45,13 +49,11 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 4. In the Command Prompt window, type "narrator" and press Enter.  
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
 5. The Narrator window will open, and you can start using the screen reader.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Start the Narrator With the Windows Search Tool
 
  If you're using a screen reader because you have vision problems, you know how important it is to be able to find things quickly on your computer. The Windows Search tool can help you do just that.
@@ -59,11 +61,12 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 1. To open the Windows Search tool, click the**Start** button.  
 ![Open Narrator Using Windows Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-search-tool.jpg)
 2. Type "Narrator" into the search box and select the top result.
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You now have Narrator running on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Start the Narrator Through Windows PowerShell
 
@@ -75,8 +78,9 @@ To open Narrator using Windows PowerShell, follow these steps:
 2. If UAC appears on the screen, click the**Yes** button to continue.  
 ![Open Narrator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-powershell.jpg)
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Start the Narrator Using Windows Settings
@@ -88,14 +92,15 @@ To open Narrator using Windows PowerShell, follow these steps:
 3. Navigate to the**Vision** section and click**Narrator** .  
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Start the Narrator Using Control Panel
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
@@ -104,11 +109,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. The Narrator will start on your Windows 11 device.
 
 ## 8\. How to Start Narrator With a Desktop Shortcut
@@ -133,9 +133,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Close the Task Manager window and the Narrator should now be up and running.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 10\. How to Start Narrator From File Explorer
 
  If you're looking for a quick way to open Narrator in Windows 11, there is no better way to do so than by using File Explorer. Here's how to do it:
@@ -144,6 +141,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. In the address bar, type "Narrator" and hit Enter.
 
 That's all; your Narrator should now be ready to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. How to Pin Narrator to the Taskbar
 
@@ -159,14 +160,11 @@ That's all; your Narrator should now be ready to go.
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +173,23 @@ That's all; your Narrator should now be ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-engaging-audiences-through-vimeo-shares/"><u>[New] Engaging Audiences Through Vimeo Shares</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-implementing-gpt-mentions-for-recognizing-personalized-ai-responses-within-chatbot-conversations/"><u>Guide to Implementing GPT Mentions for Recognizing Personalized AI Responses Within Chatbot Conversations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screenshots-fix-stopped-inconsistent-flashing/"><u>Laptop Screenshots Fix: Stopped Inconsistent Flashing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-migration-process-with-our-video-tutorial-on-uploading-restored-edb-mailboxes-to-live-exchange-systems/"><u>Master the Migration Process with Our Video Tutorial on Uploading Restored EDB Mailboxes to Live Exchange Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-your-footage-easy-final-cut-pro-tutorial/"><u>New Flip Your Footage Easy Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-obstacles-simple-effective-solutions/"><u>Overcoming Windows Obstacles: Simple, Effective Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-taskmanager-leadership-at-windows/"><u>Securing TaskManager Leadership at Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-workflow-nircmd-and-windows-command-shortcuts/"><u>Speed Up Your Workflow: NirCmd & Windows Command Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-remedy-to-microsofts-0x80072af9-problem/"><u>Strategic Remedy to Microsoft's 0X80072AF9 Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-block-non-requested-cmd-appearances/"><u>Techniques to Block Non-Requested CMD Appearances</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-trick-to-free-up-space-on-android-by-deleting-the-cache/"><u>The Ultimate Trick to Free Up Space on Android by Deleting the Cache</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-old-tv-to-high-definition-wonderland-for-just-50-with-our-top-pick-of-4k-sticks-insights-from-zdnet/"><u>Transform Old TV to High-Definition Wonderland for Just $50 with Our Top Pick of 4K Sticks | Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-windows-interrupted-by-exceptions/"><u>Unraveling and Fixing Windows Interrupted by Exceptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-the-most-frequent-windows-errors/"><u>Unveiling Fixes for the Most Frequent Windows Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-best-practices-for-instagram-story-screenshots/"><u>Unveiling the Best Practices for Instagram Story Screenshots</u></a></li>
+</ul></div>
 

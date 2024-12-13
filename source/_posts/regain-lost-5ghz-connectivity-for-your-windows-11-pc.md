@@ -1,7 +1,7 @@
 ---
 title: Regain Lost 5GHz Connectivity for Your Windows 11 PC
-date: 2024-08-23T07:05:54.989Z
-updated: 2024-08-24T07:05:54.989Z
+date: 2024-12-07T17:46:29.604Z
+updated: 2024-12-12T17:37:17.909Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The 2.4GHz and 5GHz are the most common Wi-Fi bands used by routers. While most computers easily recognize both these bands, some might fail to detect a 5GHz Wi-Fi connection.
 
  As such, if your router's 5GHz connection is not appearing on your computer, here are some fixes you can try to eliminate the problem for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is Windows 11 Not Showing Any 5GHz Wi-Fi Connections?
 
@@ -48,15 +52,16 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![Radio Types using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/radio-types.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the radio type shows**802.11a 802.11g 802.11n** , then your computer is compatible with both 2.4GHz and 5GHz connections. But if it shows**802.11g 802.11n** or**802.11n 802.11g 802.11b** as available network modes, then your device only supports the 2.4GHz Wi-Fi band.
 
 ## 2\. Restart Your Router
 
  Your computer might fail to detect the 5GHz connection if there's something wrong with your router. Restarting the router is one of the best ways you can try to get rid of most of the network issues, including this one. Hence, check out our guide on[how to restart your router](https://www.makeuseof.com/how-to-reset-router/) and check if it makes any difference.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Manually Enable the 5GHz Wi-Fi Band
 
  Windows lets you manually enable or disable the 5GHz Wi-Fi band on your computer. You can do it with the help of the Device Manager. Here are the steps you need to follow:
@@ -68,13 +73,11 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 5. Choose**IEEE 802.11a/n** from the list.  
 ![Enable 5GHz in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-5ghz.jpg)
 6. Click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
 
  A Wi-Fi adapter is an important component that lets your device connect to a network. Sometimes, a temporary glitch with the Wi-Fi adapter can stop Windows from recognizing a particular band.
@@ -92,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  That's it. Now check if your computer is showing a 5GHz connection.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Internet Connection Troubleshooter
 
 [Windows 11 comes with various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of most of the system-level problems. If the problem results from an issue with your network adapter, you can run the Internet Connection troubleshooter. Here's how:
@@ -103,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 3. Head towards**Troubleshoot** \>**Other troubleshooters** .
 4. Click the**Run** button next to**Internet Connection** .  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
 
@@ -114,14 +122,8 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 2. Select**Search automatically for drivers** from the window that crops up.  
 ![Updating Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/5-Updating-Network-Drivers-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Windows will now look for and download the latest network driver update on your computer. After that, restart your device and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 7\. Reset TCP/IP and Flush DNS Cache
 
  The next solution on the list is to reset the TCP/IP and then flush the DNS cache. Here's how:
@@ -142,14 +144,11 @@ Reboot your computer after executing the above commands.
 
  But in the worst-case scenario, if the problem continues, you can consider resetting your network settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +157,20 @@ Reboot your computer after executing the above commands.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo/"><u>[New] 2024 Approved Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picshot-your-go-to-tool-for-hassle-free-collage-crafting/"><u>[New] Picshot Your Go-To Tool for Hassle-Free Collage Crafting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-complete-instruction-manual-for-telegram-desktop-for-2024/"><u>[Updated] Complete Instruction Manual for Telegram Desktop for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-primer-on-the-language-of-immersive-technology/"><u>[Updated] In 2024, A Primer on the Language of Immersive Technology</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/copying-a-virtual-hard-drive-to-physical-media-in-three-simple-steps-efficient-tutorial/"><u>Copying a Virtual Hard Drive to Physical Media in Three Simple Steps - Efficient Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-highlighted-desktop-symbol-on-windows-11/"><u>Eliminate Highlighted Desktop Symbol on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-into-windows-11s-theme-limitations-using-registry/"><u>Hacking Into Windows 11'S Theme Limitations Using Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-0xf0831-failure-in-windows-11-os/"><u>How to Mend the 0XF0831 Failure in Windows 11 OS</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-iphone-revival-effective-strategies-using-icloud-backup-tools/"><u>Mastering iPhone Revival: Effective Strategies Using iCloud Backup Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-executable-mcuicnt-error-on-pcs/"><u>Overcoming Non-Executable McUICnt Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-enabling-windows-11-home-hub/"><u>Step-By-Step: Enabling Windows 11 Home Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-re-establish-internet-connection-in-winos/"><u>Strategies to Re-Establish Internet Connection in WinOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-an-alternate-linguistic-base-in-steam/"><u>Switch to an Alternate Linguistic Base in Steam</u></a></li>
+</ul></div>
 

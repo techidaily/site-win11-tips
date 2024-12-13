@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics Shortage on Enchanted Magic School Platform
-date: 2024-08-23T07:08:04.681Z
-updated: 2024-08-24T07:08:04.681Z
+date: 2024-12-09T19:18:48.948Z
+updated: 2024-12-13T02:22:12.816Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,24 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 
 ![Check the Hogwarts Legacy System Requirements on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your system does not meet the minimum requirements for the game, you should upgrade it.
 
  If you can't afford this, you can wait for the release of an updated patch that is compatible with your system.
 
  However, if you already have a system that meets the minimum game requirements, you can begin applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Ways to Fix the "Out of Video Memory" Error in Hogwarts Legacy
 
  To fix the "Out of video memory" error in Hogwarts Legacy, you will have to force the game to use your dedicated GPU, update your graphics drivers, increase your dedicated VRAM, close resource-hungry processes, disable GPU overclocking, and adjust the game resolution. Let's see how you apply these fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
  First off, apply some preliminary fixes, which may resolve the issue quickly:
@@ -66,22 +71,15 @@ If the above fixes don't help, proceed to the next fix.
 ![Pick the High Performance mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-display-graphics-option-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're using Windows 10, follow the steps outlined in our guide on[how to choose the most suitable GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) .
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Increase the Dedicated VRAM
 
  VRAM stands for video RAM, the memory referenced in the error message. If you have a powerful GPU, the game is using it, and you believe that your VRAM is higher than what's required, you should ensure it is properly allocated to the GPU.
@@ -102,17 +100,15 @@ If the above fixes don't help, proceed to the next fix.
  Changing these three settings will make the game work better with the available VRAM resources. If the problem persists, you can optimize other in-game display and graphics settings to get a less pleasing display but smoother performance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Update Your Graphics Driver
 
  If changing the game settings makes no difference, you should[update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . Doing so will allow the game to use GPU resources more efficiently and run more smoothly.
 
  According to some users on a[Steam community thread](https://steamcommunity.com/app/990080/discussions/0/3761104682799019592/) , reinstalling the graphics driver also fixes the issue. If updating the driver doesn't work, uninstall the existing driver, download its fresh copy from your GPU manufacturer's website, and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Report the Problem to Warner Bros
 
  If none of these fixes work, you should report the issue to Warner Bros., the game's publisher. To do that, follow these steps:
@@ -124,9 +120,6 @@ If the above fixes don't help, proceed to the next fix.
 4. After logging in, browse the problems that have already been reported. Most likely, you will see the same error reported by other users. You can also search for it using the search bar. Once you find it, open it and click the**Vote** button.  
 ![Click on the Vote Button After Finding the Error on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5.jpg)
 5. After that, provide details about your hardware in the comments section.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix the "Out of Video Memory" Error in Hogwarts Legacy
 
@@ -140,8 +133,6 @@ If the above fixes don't help, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +140,23 @@ If the above fixes don't help, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chronological-cinematic-journey-through-the-transformers-universe/"><u>Chronological Cinematic Journey Through The Transformers Universe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-admin-security-modifications-in-windows-os/"><u>Disabling Admin Security Modifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-design-divergences-in-windows-11/"><u>Dissecting the Design Divergences in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-unzipping-navigating-through-mass-archive-decompression/"><u>Expert Unzipping: Navigating Through Mass Archive Decompression</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ignite-passion-the-top-10-inspirational-films/"><u>In 2024, Ignite Passion The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/iosandroid-techniques-extracting-twitters-gifs-for-2024/"><u>IOS/Android Techniques Extracting Twitter's GIFs for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/master-rapidly-expertise-in-designing-valorant-thumbnails/"><u>Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-turn-off-printing/"><u>Navigating to Turn Off Printing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-reactivating-windows-photo-viewer-on-windows-11/"><u>Quick Fix: Reactivating Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-mastery-surpassing-the-competition-in-popularity-rankings/"><u>Social Media Mastery Surpassing the Competition in Popularity Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-enable-network-connectivity-in-windows-11/"><u>Solutions to Enable Network Connectivity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-ccleaner-on-win1011/"><u>Troubleshooting Non-Operational CCleaner on Win10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/types-of-drones-explore-different-types-of-drones/"><u>Types of Drones Explore Different Types of Drones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whos-in-charge-of-chatgpt-exploring-microsofts-role-in-developing-ai-mastery/"><u>Who's in Charge of ChatGPT? Exploring Microsoft's Role in Developing AI Mastery</u></a></li>
+</ul></div>
 

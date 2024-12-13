@@ -1,7 +1,7 @@
 ---
 title: "Step-By-Step: Enabling Windows 11 Home Hub"
-date: 2024-11-30T22:58:47.107Z
-updated: 2024-12-06T16:19:27.883Z
+date: 2024-12-10T21:06:40.608Z
+updated: 2024-12-12T17:57:08.681Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,21 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 ![Current Settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/current-settings-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft noticed this issue and created a new Home section in the revamped Settings app. At the time of writing, you can only find this new Settings app in the Windows Insider program.
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
 
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Home Section in the Settings App
@@ -74,6 +78,14 @@ vivetool /enable /id:42058313`
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Enhanced Settings App Look Like?
 
  We compared the experimental and the old Settings app, and there are a few noticeable changes. For example, you automatically land on the Home section every time you open the enhanced Settings app.
@@ -82,45 +94,19 @@ vivetool /enable /id:42058313`
 
 ![New and old settings app side by side-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-and-old-settings-app-side-by-side-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Below that, there is a card that displays the recommended settings. You also get a bird’s eye view of the total available storage space in your Outlook account. There’s also a much-needed personalization card that you can use to change the themes and color mode of your Windows PC.
 
  If you haven’t completed a crucial security setup for your Microsoft account, you will see a reminder on the Home Page. Apart from that, Microsoft brazenly promotes its Microsoft service as a separate card. You cannot rearrange or remove tiles, so you are stuck with the layout and the promotional stuff from Microsoft.
 
 ![New home section in the settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-home-section-in-the-settings-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-infusing-instagram-reels-with-tunes-and-narration/"><u>2024 Approved Infusing Instagram Reels with Tunes & Narration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-pitfalls-going-for-low-cost-windows-license-keys/"><u>8 Pitfalls: Going for Low-Cost Windows License Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compreran-analysis-of-8-w11-design-choices/"><u>A Compreran Analysis of 8 W11 Design Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-detected-proxy-settings-on-windows-immediately/"><u>Addressing Non-Detected Proxy Settings on Windows Immediately</u></a></li>
-<li><a href="https://driver-install.techidaily.com/affiliate-hp-envy-5530-with-your-windows-environment/"><u>Affiliate HP Envy 5530 with Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-pc-experience-with-the-most-innovative-powertoy-applications/"><u>Boost Your PC Experience with the Most Innovative PowerToy Applications</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-hosted-wi-fi-connection-problems-on-windows-11/"><u>How to Resolve Hosted Wi-Fi Connection Problems on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-camon-30-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Camon 30 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-solo-mastery-how-to-turn-off-apex-legends-cross-play-feature/"><u>In 2024, Solo Mastery How to Turn Off Apex Legends' Cross-Play Feature</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +115,25 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-discover-top-10-iphone-apps-for-free-artistic-photo-composition-and-editing-for-2024/"><u>[Updated] Discover Top 10 iPhone Apps for Free, Artistic Photo Composition & Editing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-fixing-full-screen-failure-in-obs/"><u>[Updated] In 2024, Fixing Full Screen Failure in Obs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-luts-on-the-house-your-dji-devices-get-a-perk-up-for-2024/"><u>[Updated] LUTs on the House - Your DJI Devices Get a Perk Up for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolve-armored-core-vi-fires-of-rubicons-launch-problems/"><u>Guide to Resolve Armored Core VI: Fires of Rubicon's Launch Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-t2-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo T2 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-system-heat-levels-with-windows-os-controls/"><u>Managing System Heat Levels with Windows OS Controls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-vs-streamlabs-for-2024/"><u>OBS vs Streamlabs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-icon-clashing-dilemnas/"><u>Overcome Window's Icon Clashing Dilemnas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/professional-gamcapture-tools-and-tactics-for-quality-content-for-2024/"><u>Professional GamCapture Tools and Tactics for Quality Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-setup-integrating-microsoft-pc-manager-into-win11/"><u>Seamless Setup: Integrating Microsoft PC Manager Into Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-clear-your-account-details-at-login/"><u>Securely Clear Your Account Details at Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-windows-memory-error-detected-message/"><u>Troubleshooting the Windows Memory Error Detected Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-1011/"><u>Troubleshooting Unresponsive Spotify on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-memory-write-issue/"><u>Troubleshooting Windows' Memory Write Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-to-the-latest-win-pcs-astro-drivers/"><u>Upgrading to the Latest: Win PC's Astro Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-the-archive-feature-on-windows-11/"><u>Utilizing the Archive Feature on Windows 11</u></a></li>
+</ul></div>
+

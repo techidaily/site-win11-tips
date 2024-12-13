@@ -1,7 +1,7 @@
 ---
 title: Remedying Inadequate User Rights During Windows Updates
-date: 2024-12-05T16:31:20.488Z
-updated: 2024-12-06T21:13:33.887Z
+date: 2024-12-06T01:04:14.837Z
+updated: 2024-12-13T02:10:05.089Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Affected Software’s Setup File With Admin Rights
@@ -68,21 +68,17 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![windows installer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-installer-option.jpg)
 3. If Windows Installer is running, select its**Restart** context menu option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can double-click the**Windows Installer** service to view its properties window and restart it from there. Click**Start** if the service is already stopped, or, select**Stop > Start** to restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable UAC Before Installing
 
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -97,13 +93,17 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 4. Select**Disabled** to turn off that policy setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
 
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Try Installing Software After Clean Booting
 
  Clean booting means disabling all third-party apps and services that start with Windows. This troubleshooting method can prevent software conflicts by eliminating unneeded apps and services running in the background. In this case, a clean boot might disable an app or service that’s hindering the software installation process.
@@ -126,11 +130,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Uninstall Older Software Versions
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
@@ -166,19 +166,24 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-blending-photos-into-a-kaleidoscopic-visual-symphony-for-2024/"><u>[Updated] Blending Photos Into a Kaleidoscopic Visual Symphony for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>2024 Approved Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-system-failures-a-guide-to-repairing-fs-in-win11/"><u>Fixing System Failures: A Guide to Repairing FS in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-save-location-error-on-pcs/"><u>How to Correct the Save Location Error on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-virtualboxs-0x80004005-failure-in-windows/"><u>How to Resolve VirtualBox's 0X80004005 Failure in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-tecno-spark-10-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Tecno Spark 10 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-the-developers-guide-to-dev-drive-win11/"><u>Navigating New Horizons: The Developer's Guide to Dev Drive Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-horizontal-line-disruptions/"><u>Resolve Horizontal Line Disruptions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tactics-for-success-amidst-facebooks-algorithm-evolution/"><u>Tactics for Success Amidst Facebook’s Algorithm Evolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-make-excel-compatible-with-notepad/"><u>Tips: Make Excel Compatible with Notepad</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tune-in-for-free-fb-music-archive-for-2024/"><u>Tune In for Free FB Music Archive for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-your-global-address-through-the-cli-win-1110/"><u>Uncover Your Global Address Through the CLI, Win 11/10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmissable-35plus-tablet-discounts-on-prime-day-2atury-2024-active-deals-curated-by-zdnet/"><u>Unmissable 35+ Tablet Discounts on Prime Day 2Atury 2024: Active Deals Curated by ZDNET</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-thumbnail-mastery-size-and-ratio-tactics-for-2024/"><u>Youtube Thumbnail Mastery Size & Ratio Tactics for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>[New] In 2024, Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-phones-and-samsung-gear-vr-interaction/"><u>[New] In 2024, Navigating Phones & Samsung Gear VR Interaction</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-premier-destinations-amplifying-youtube-videos/"><u>[New] Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[Updated] Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-admin-security-modifications-in-windows-os/"><u>Disabling Admin Security Modifications in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-design-divergences-in-windows-11/"><u>Dissecting the Design Divergences in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-unzipping-navigating-through-mass-archive-decompression/"><u>Expert Unzipping: Navigating Through Mass Archive Decompression</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expertly-mastering-file-imports-in-the-realm-of-windows-10/"><u>Expertly Mastering File Imports in the Realm of Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-innovating-visual-storytelling-through-photo-mosaics/"><u>In 2024, Innovating Visual Storytelling Through Photo Mosaics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-insider-tips-maximizing-youtube-edits-with-finalcut-pro/"><u>In 2024, Insider Tips Maximizing YouTube Edits with FinalCut Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-microsoft-error-analysis-on-windows-11/"><u>Mastering the Microsoft Error Analysis on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-turn-off-printing/"><u>Navigating to Turn Off Printing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-reactivating-windows-photo-viewer-on-windows-11/"><u>Quick Fix: Reactivating Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-resolving-the-silent-airpods-problem-on-windows-1110-systems/"><u>Restoring Audio: Resolving the Silent AirPods Problem on Windows 11/10 Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/simple-steps-for-seamless-off-site-backups-on-windows-server-2012201/"><u>Simple Steps for Seamless Off-Site Backups on Windows Server 2012/201</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-enable-network-connectivity-in-windows-11/"><u>Solutions to Enable Network Connectivity in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-routine-with-chatgpt-explore-9-key-methods/"><u>Streamline Your Routine with ChatGPT: Explore 9 Key Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-ccleaner-on-win1011/"><u>Troubleshooting Non-Operational CCleaner on Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-window-11s-unseen-thumbnails-issue/"><u>Understanding & Solving Window 11'S Unseen Thumbnails Issue</u></a></li>
 </ul></div>
 

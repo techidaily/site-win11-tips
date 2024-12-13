@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Hello Fingerprint Problems Today
-date: 2024-12-03T23:41:38.475Z
-updated: 2024-12-07T02:35:14.644Z
+date: 2024-12-05T20:45:09.249Z
+updated: 2024-12-13T01:52:23.927Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 ![Windows Sign-in Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Remove-Windows-Hello-Fingerprint-1.jpg)
 4. Once removed, click the **Set up** button and follow the on-screen instructions to register your fingerprint again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue persists or if you are unable to remove and re-add your fingerprint due to the "This option is currently unavailable" error on the Windows Hello page, there may be a problem with the Biometric drivers on your PC.
 
 ## 2\. Reinstall the Biometric Device Driver
@@ -48,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 3. Expand **Biometric devices**.  
 ![Biometric Driver selected in Device Manager window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Biometric-Driver-in-Device-Manager-1.jpg)
 4. Right-click on your fingerprint scanner device and select **Uninstall device**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **Uninstall** to confirm.
 
  Additionally, you should also expand the **Universal Serial Bus Controllers** section in the Device Manager and look for any entries with a yellow exclamation. If you find any, right-click on them one by one and select **Uninstall device** to remove them.
@@ -55,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
  Restart your PC after completing the above steps and check if the issue still occurs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
@@ -70,20 +79,20 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to diagnose any issues with your computer. If any issues are detected, follow the on-screen instructions to apply the recommended fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Fast Startup
 
  Fast Startup is a handy Windows feature that speeds up your PC's boot time after shutdown. However, this feature might sometimes prevent Windows from loading properly. When this happens, the fingerprint scanner may not work on your Windows 10 or 11 PC.
 
  Use one of the many ways to [disable Fast Startup on your Windows computer](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and see if that gets the fingerprint scanner to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Configure Windows Biometric Service to Start Automatically
 
@@ -98,15 +107,7 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 5. Hit **Apply** followed by **OK**.  
 ![Windows Biometric Service Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-Biometric-Service-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Enable Biometrics via the Local Group Policy Editor
 
@@ -121,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 ![Biometric Policies in Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC one more time and check if the issue is still there.
@@ -168,29 +169,6 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
  Fortunately, there are several ways to fix this annoying issue. So, let’s dive in and explore what you should do when Windows Hello fingerprint login isn’t working.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-triggering-instant-play-for-youtube-videos-on-social-media/"><u>[New] In 2024, Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>[New] Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-discover-iconic-cinema-essential-youtube-channels/"><u>[Updated] Discover Iconic Cinema Essential YouTube Channels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-explore-online-communities-with-youtube-monetization-opportunities/"><u>2024 Approved Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-performance-dashboard-functionality/"><u>Bridging Gaps in Performance Dashboard Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-smooth-drag-and-drop-on-windows-11-pcs/"><u>Bring Back Smooth Drag & Drop on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-compatibility-barriers-with-simple-fixes-in-xp-vista-and-7/"><u>Bypass Compatibility Barriers with Simple Fixes in XP, Vista & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-microsoft-defender-firewall-on-windows-11/"><u>Bypassing Microsoft Defender Firewall on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-unwanted-team-sign-in-prompts-on-windows-pcs/"><u>Bypassing Unwanted Team Sign-In Prompts on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/charting-your-digital-legacy-windows-11-archive/"><u>Charting Your Digital Legacy: Windows 11 Archive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-download-link-for-qualcomm-atheros-top-rated-bluetooth-3e-ar3011-drivers-available/"><u>Direct Download Link for Qualcomm Atheros - Top-Rated Bluetooth 3.e AR3011 Drivers Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-web-to-workstation-easy-llama-2-installation/"><u>From Web to Workstation: Easy Llama 2 Installation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/seamless-youtube-experience-on-apple-gear-downloading-made-easy/"><u>Seamless Youtube Experience on Apple Gear Downloading Made Easy</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/focused-with-smart-youtube-channel-management-for-pc-and-phones/"><u>Stay Focused with Smart Youtube Channel Management for PC and Phones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-selecting-9-superior-streamscape-filters-for-2024/"><u>The Ultimate Guide to Selecting 9 Superior Streamscape Filters for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +176,18 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-a-new-world-of-farming-the-best-7-mods-in-stardew/"><u>[New] A New World of Farming - The Best 7 Mods in Stardew</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-straightforward-path-learn-how-to-use-ez-grabber-effectively-for-2024/"><u>A Straightforward Path Learn How To Use EZ Grabber Effectively for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-spotlight-discover-apples-most-impactful-yet-subtle-ai-innovation-at-wwdc-zdnet/"><u>Beyond the Spotlight: Discover Apple's Most Impactful, Yet Subtle AI Innovation at WWDC | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooling-regime-customization-for-extreme-graphics-performance/"><u>Cooling Regime Customization for Extreme Graphics Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unreachable-status-of-steam-game-servers-on-desktop-os/"><u>Correcting Unreachable Status of Steam Game Servers on Desktop OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-humor-in-highlights-best-mobile-edits-compared/"><u>In 2024, The Humor in Highlights Best Mobile Edits Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-techniques-for-hardware-id-discovery-in-windows-systems/"><u>Key Techniques for Hardware ID Discovery in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-inaccessible-nvidia-control-panel-in-win11/"><u>Solutions for Inaccessible Nvidia Control Panel in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-rectifying-domain-services-print-glitches/"><u>Step-by-Step: Rectifying Domain Services Print Glitches</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fhm-alyat-alhd-mn-tkalyf-alshhn-oalirgaaa-lbdaa-mntgat/"><u>فهم آليات الحد من تكاليف الشحن والإرجاع لبضع منتجات</u></a></li>
+</ul></div>
+

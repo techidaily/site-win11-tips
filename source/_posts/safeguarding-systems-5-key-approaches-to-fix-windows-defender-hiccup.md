@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding Systems: 5 Key Approaches to Fix Windows Defender Hiccup"
-date: 2024-11-30T16:59:49.309Z
-updated: 2024-12-06T22:14:12.550Z
+date: 2024-12-06T02:26:20.789Z
+updated: 2024-12-12T17:30:11.241Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is the Engine Unavailable in Windows Defender?
 
@@ -54,13 +50,18 @@ Here is how you can restart the Security Center Service:
 4. Choose**Properties** from the context menu.  
 ![Launch the properties of Security Center service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-center-properties.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and click**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Expand the dropdown for Startup type and choose**Automatic** .
 7. Click**Apply** \>**OK** to save the changes and then close the Services utility.
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
@@ -81,19 +82,16 @@ Once that is done, proceed with the steps below:
 1. Double-click on it and under Value data, type**0** .  
 ![Change the value data to 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disableantispyware-key.jpg)
 2. Do the same with the**DisableAntiVirus** value in the same window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. After this, navigate to the following location in the Registry Editor:  
 `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`
 4. Here, right-click on the MSASCui.exe, MpCmdRun.exe, and MsMpEng.exe values one by one and choose**Delete** .  
 ![Delete the Registry entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-key.jpg)
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
 
@@ -104,7 +102,7 @@ Once that is done, proceed with the steps below:
  You can also use the Powershell utility to install the update manually. We have discussed the[different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset Windows Security
@@ -119,6 +117,10 @@ Here is how you can reset the Windows Security app:
 `Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage`  
 ![Command to Reset Windows Security in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Command-to-Reset-Windows-Security-.jpg)
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Remove Any Conflicting Software
 
@@ -147,14 +149,22 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-virtuscreen-clear-plastic-sheeting/"><u>[New] 2024 Approved VirtuScreen Clear Plastic Sheeting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-steps-to-tame-the-gpu-hungry-desktop-window-manager/"><u>7 Steps to Tame the GPU-Hungry Desktop Window Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-themed-settings-for-education-on-windows-11/"><u>Activating Themed Settings for Education on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplifying-ram-with-advanced-virtual-memory-settings/"><u>Amplifying RAM with Advanced Virtual Memory Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-the-impact-of-audio-device-isolation/"><u>Analyzing the Impact of Audio Device Isolation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Edge 40 Phone Without Password?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ruling-the-tropics-a-comprehensive-review-of-gameplay-in-tropico-6/"><u>Ruling the Tropics: A Comprehensive Review of Gameplay in Tropico 6</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth/"><u>The Art of Amassing Attention on IG A Guide for a Thousand Likes/Month</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-art-of-color-grading-in-final-cut-pro/"><u>Updated 2024 Approved The Art of Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-youtube-live-recording-on-every-gadget/"><u>[New] 2024 Approved Mastering YouTube Live Recording on Every Gadget</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-utilizing-slug-lines-for-better-content-structure-for-2024/"><u>[New] Utilizing Slug Lines for Better Content Structure for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[Updated] 2024 Approved Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-optimal-stabilization-for-mirrorless-with-gimbals/"><u>[Updated] 2024 Approved Optimal Stabilization for Mirrorless with Gimbals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mov4-mov/"><u>高画質を保ちつつMOVファイル容量を圧縮する上位4選択肢 - MOVのファイルサイズ最適化</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-the-most-vexing-iphone-x-problems-expert-tips-and-tricks/"><u>Beating the Most Vexing iPhone X Problems - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-your-own-windows-transcription-app-with-whisper-and-autohotkey/"><u>How to Make Your Own Windows Transcription App With Whisper and AutoHotkey</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-14-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 14 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-xcover-7-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy XCover 7 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-touchscreen-entry-activation-guide-for-windows/"><u>Mastering Touchscreen Entry: Activation Guide for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-disconnected-computer-networks-windows/"><u>Navigating Disconnected Computer Networks Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-in-managing-windows-file-metadata/"><u>Precision in Managing Windows File Metadata</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-page-unloading-error-on-win-store/"><u>Quick Fixes for the 'Page Unloading' Error on Win Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-0x80041015-issue-in-ms-office-on-windows/"><u>Tackling 0X80041015 Issue in MS Office on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-spotlight-image-at-any-time-in-windows-os/"><u>Tailor Your Spotlight Image at Any Time in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweak-notification-settings-to-ignore-extras-in-windows/"><u>Tweak Notification Settings to Ignore Extras in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiled-score-the-new-apple-watch-series-10-before-everyone-else-ordering-steps-plus-smart-discounts-inside/"><u>Unveiled: Score the New Apple Watch Series 10 Before Everyone Else - Ordering Steps + Smart Discounts Inside</u></a></li>
 </ul></div>
 

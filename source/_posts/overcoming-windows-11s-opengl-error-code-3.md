@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 11'S OpenGL Error Code 3
-date: 2024-12-02T22:13:07.903Z
-updated: 2024-12-07T02:09:22.930Z
+date: 2024-12-09T01:00:42.003Z
+updated: 2024-12-12T22:58:18.348Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Set the Prefer Maximum Performance Setting for Affected Software
 
  The NVIDIA Control Panel has alternative maximum performance and adaptive power management options. Error code 3 will more likely occur with the**Optimal power** setting selected. So, try selecting the**Prefer maximum performance** option like this:
@@ -42,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 6. Select the**Prefer maximum performance** option.  
 ![The Prefer maximum performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/prefer-maximum-performance-option.jpg)
 7. Press the NVIDIA Control Panel’s**Apply** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then click**Start** ,**Power** , and the**Restart** option.
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
@@ -57,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
 
  Have you recently updated your PC’s graphics driver? If so, the new driver could be causing the error code 3 issue on your PC. You might be able to resolve error code 3 by rolling back a recent graphics driver update.
@@ -67,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Select the Repair and Reset Options for the Affected App
 
  If error code 3 occurs for a Universal Windows Platform app or game, try fixing it with the**Repair** or**Reset** options. Each UWP app has options for repairing and resetting you can select within Settings. Check out our article about[resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) to clear the app’s data.
@@ -80,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Affected Software
@@ -100,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  The OpenGL error code 3 message suggests an issue with your PC’s graphics (GPU) driver. Reinstalling the NVIDIA display driver could fix such an issue. We recommend that you cleanly reinstall your graphics card’s driver as covered in our guide to[cleanly reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Windows
@@ -130,19 +131,18 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-essential-5-earbuds-for-gaming/"><u>[New] The Most Essential 5 Earbuds for Gaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>[Updated] The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-gt-neo-5-se-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme GT Neo 5 SE Activity | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-the-store-reactivation-steps-for-ms-in-windows-11/"><u>Bring Back the Store: Reactivation Steps for MS in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-hidden-taskbar-scan-shield-in-windows-11/"><u>Bypass Hidden Taskbar Scan Shield in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-the-barrier-taking-down-security-questions-on-local-account-win-11/"><u>Bypass the Barrier: Taking Down Security Questions on Local Account (Win 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-firewall-restrictions-allow-browser-networking-in-windows/"><u>Bypassing Firewall Restrictions: Allow Browser Networking in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-your-geforce-experience-scanning-problem-in-win/"><u>Bypassing Your GeForce Experience Scanning Problem in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/capturing-critical-windows-user-alerts-in-action/"><u>Capturing Critical Windows User Alerts in Action</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-scraps-to-stunning-a-photomontage-journey/"><u>From Scraps to Stunning A Photomontage Journey</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>In 2024, Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016040963-modern-warfare-voicechat-malfunction-heres-how-to-fix-it-successfully/"><u>Modern Warfare Voicechat Malfunction? Here's How to Fix It Successfully!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-15-complimentary-safe-to-boot-antivirus-tools-to-secure-your-device/"><u>Ultimate List of 15 Complimentary, Safe-to-Boot Antivirus Tools to Secure Your Device</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-piecing-together-a-unique-tiktok-outro-elements/"><u>[New] In 2024, Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premier-selection-top-8-webcams-transform-livestreaming/"><u>[Updated] Premier Selection Top 8 Webcams Transform Livestreaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-essential-steps-to-resolve-chrome-profile-errors/"><u>7 Essential Steps to Resolve Chrome Profile Errors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/pted-tunes-the-best-audio-rippers/"><u>Disrupted Tunes The Best Audio Rippers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-registry-management-using-powershell-and-cmd/"><u>Efficient Registry Management Using PowerShell and CMD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-device-recognition-for-synapse-and-razers-in-win-11/"><u>Enhancing Device Recognition for Synapse and Razers in Win 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-and-troubleshooting-system-failures-with-expert-tips-from-yl-software/"><u>Identifying & Troubleshooting System Failures with Expert Tips From YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-handle-loadlibrary-failure-87/"><u>Strategies to Handle LoadLibrary Failure 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-re-enable-razer-device-detection-in-windows-11/"><u>Techniques to Re-Enable Razer Device Detection in Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-battle-for-video-editing-supremacy-sony-vegas-pro-vs-adobe-premiere-pro-for-2024/"><u>The Battle for Video Editing Supremacy Sony Vegas Pro vs Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317549-9781401926236-what-color-is-your-personality/"><u>What Color Is Your Personality | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zoom-and-tv-integration-easy-steps-for-sharing-meetings-on-the-big-screen/"><u>Zoom and TV Integration: Easy Steps for Sharing Meetings on the Big Screen</u></a></li>
 </ul></div>
 

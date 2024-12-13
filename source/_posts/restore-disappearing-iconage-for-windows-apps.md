@@ -1,7 +1,7 @@
 ---
 title: Restore Disappearing Iconage for Windows Apps
-date: 2024-08-23T07:00:49.410Z
-updated: 2024-08-24T07:00:49.410Z
+date: 2024-12-11T18:03:37.062Z
+updated: 2024-12-13T00:02:12.701Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  In this article, we'll investigate why Steam game shortcut icons disappear or go blank. We'll also provide some fixes to help you fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are Steam Game Icons on Windows Desktop Blank or Missing?
 
  Steam game icons disappear or become blank due to issues with the Windows Explorer process, moving the Steam game directory to another location on your drive, an icon cache malfunction, or corrupted game files. Operating system problems can also be responsible for this annoyance.
 
  If you have missing or blank Steam icons, you should verify the integrity of the game files to repair them, delete the icon cache to create a fresh image, restart Windows Explorer, and relocate the game files to the old directory. When all else fails, you can manually recreate the icons on your desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Preliminary Checks
 
@@ -47,17 +55,11 @@ To restart Windows Explorer, follow the below steps:
 2. Right-click on the**Windows Explorer** process and click**End task** .  
 ![Ending the Windows Explorer Process in the Task Manager App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-ending-the-windows-explorer-process-in-the-task-manager-app-on-windows.jpg)
 3. If your Windows desktop icons, taskbar, or other utilities disappear, don't panic.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. In the Task Manager, click the**Processes** tab and then hit**Run new task** .  
 ![Clicking on the Run New Task Option in the Processes Tab of the Task Manager App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-clicking-on-the-run-new-task-option-in-the-processes-tab-of-the-task-manager-app-on-windows.jpg)
 5. Click**OK** after typing**"explorer.exe."**  
 ![Running the Explorer.exe Process Directly in the Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-running-the-explorer-exe-process-directly-in-the-task-manager-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If restarting the Windows Explorer process fails to fix the Steam games icons, try the next fix.
 
 ## 2\. Verify the Integrity of Game Files
@@ -73,9 +75,6 @@ To restart Windows Explorer, follow the below steps:
 
  Let the process complete and check whether it has returned the game icons to normal. If it makes no difference, go to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 3\. Delete the IconCache File
 
  The IconCache file stores all your icons and maintains their visual display. When displaying the icons, Windows retrieves them directly from the cache rather than from the main application. When the cache file malfunctions, Windows cannot fetch the icons properly, so blank or missing icons are displayed.
@@ -93,6 +92,10 @@ If rebuilding the icon cache doesn't work, try the next fix.
 
  The AppData folder in Windows is often hidden, so you should unhide the files before deleting the IconCache file. Those unfamiliar with the process will find our[guide to on how to show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) helpful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restore the Icons Manually
 
  If the above fixes do not resolve the problem, you should restore the game icons manually. Although this fix will work, manually restoring game icons can be time-consuming. As such, follow these steps to restore the Steam game icon on your desktop:
@@ -104,29 +107,29 @@ If rebuilding the icon cache doesn't work, try the next fix.
 5. In the right pane, click the**Browse** button.  
 ![Clicking on the Browse Button in the Local Files Tab of Game Properties in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-browse-button-in-the-local-files-tab-of-game-properties-in-steam-client.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Copy the address of the game's installation folder.
 2. Go to the desktop and find the missing icons.
 3. Right-click on the shortcut with the missing icon and select**Properties** .
 4. Click on the**Change Icon** button.  
 ![Clicking on the Change Icon Button in the Properties Window of the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/6-clicking-on-the-change-icon-button-in-the-properties-window-of-the-game.jpg)
 5. Click on the**Browse** button.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Paste the copied path and select the game's .exe file.  
 ![Selecting the Game’s Executive File After Pasting the Copied Path in the Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/7-selecting-the-game-s-executive-file-after-pasting-the-copied-path-in-the-address-bar.jpg)
 7. Then click**Ok** and**Apply** .
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Finally, hit**OK** .  
 ![Clicking on the Ok Button after Applying the Changes in the Properties Window of the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/8-clicking-on-the-ok-button-after-applying-the-changes-in-the-properties-window-of-the-game.jpg)
 
  By following the above steps, you can restore the icon. If this fix helps solve the problem, repeat these steps for each missing icon. What if this fix doesn't work as expected?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Reinstall the Game
 
  Lastly, if all the fixes mentioned in the article fail to resolve the problem, you should reinstall the game. Follow these steps to do so:
@@ -136,32 +139,31 @@ If rebuilding the icon cache doesn't work, try the next fix.
 3. Right-click on the game that has disappeared and go to**Manage > Uninstall.**  
 ![Uninstalling the Game by Right-clicking on the Game in Steam Library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/9-uninstalling-the-game-by-right-clicking-on-the-game-in-steam-library.jpg)
 4. In the confirmation pop-up, click**Uninstall** again.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then, delete the remaining files from the game's directory.
 
  After deleting the existing installation, reinstall the game. When you do that, check the box for**Create desktop shortcut** .
 
 ![Checking the Box for Create Desktop Shortcut Option in Game Installation Window in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-checking-the-box-for-create-desktop-shortcut-option-in-game-installation-window-in-steam-client.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a result, Steam will automatically create a desktop shortcut for your game, allowing you to access it more easily.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Steam Game Icons Back on Your Desktop
 
  Steam game icons missing can cause our game shortcuts to disappear in the crowded desktop. We hope you can restore the missing game icons with the help of the fixes listed in this article. This way, you won't have any problems accessing Steam games in the future. If all fixes fail, ensure the problem doesn't arise due to operating system problems.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +172,20 @@ If rebuilding the icon cache doesn't work, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-tips-for-safeguarding-your-youtube-presence/"><u>[New] 2024 Approved Tips for Safeguarding Your YouTube Presence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hannel-to-checkbook-conversion-the-path-from-adsense-to-banking-for-2024/"><u>[New] Channel to Checkbook Conversion The Path From AdSense to Banking for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>[Updated] Jest in Jam Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cyber-self-portraiture-creating-a-caricatured-emblem/"><u>Cyber Self-Portraiture Creating a Caricatured Emblem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-hacks-for-fixing-windows-11s-unknown-obs-error/"><u>Essential Hacks for Fixing Windows 11'S Unknown OBS Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-essentials-removing-unwanted-backdrops-with-canva-for-2024/"><u>Expertise Essentials Removing Unwanted Backdrops with Canva for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-exe-files-contrast-with-standard-msi-packages/"><u>How Exe Files Contrast with Standard Msi Packages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-new-dell-2330dn-printer-software-upgrade/"><u>How to Install the New Dell 2330DN Printer Software Upgrade</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-speedy-sonic-tuning-devices-index-pc-tablet/"><u>In 2024, Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-unlockers-for-windows-11-homespace/"><u>Step-By-Step Unlockers for Windows 11 Homespace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-and-simple-fix-for-common-print-issues-related-to-domain-services-windows-oses/"><u>Swift & Simple Fix for Common Print Issues Related to Domain Services, Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-for-manipulating-app-dimensions-with-windows-11-keys/"><u>The Essential Guide for Manipulating App Dimensions with Windows 11 Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-temp-folder-error-fix-guide/"><u>Windows 11 Temp Folder Error Fix Guide</u></a></li>
+</ul></div>
 

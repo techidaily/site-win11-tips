@@ -1,7 +1,7 @@
 ---
 title: Solutions to Restore Non-Functional Network in Win OS
-date: 2024-08-23T07:06:42.626Z
-updated: 2024-08-24T07:06:42.626Z
+date: 2024-12-06T22:40:52.023Z
+updated: 2024-12-13T00:56:46.608Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
  But what if your other devices also face the same issue? In such a situation, it's probably a network-wide problem. So, reaching out to your internet service provider (ISP) for help would be wise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Your Firewall and Antivirus
 
  If you can't access a network resource, disable your firewall as well as your antivirus software to see if that fixes the issue.
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
  Follow our guide on [how to disable the Windows Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for the necessary steps. If disabling the firewall resolves the error, whitelist the resource source first and then re-enable the firewall.
 
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Network Discovery on Your Computer
 
@@ -63,16 +71,13 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 3. Then go to **Advanced network settings > Advanced sharing settings** to access all the network sharing options.  
 ![Network And Internet Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/network-and-internet-settings-preview.jpg)
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
 ![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Clear the DNS Cache on Windows
 
  Clearing the DNS cache removes any outdated or corrupted resource information stored on your computer. This forces your computer to re-establish a new connection and re-fetch the resource without issues.
@@ -83,20 +88,16 @@ The ultimate burning program for all your needs!</a>
 2. Choose **Terminal (Admin)** from the list. If there's no such option, select **Command Prompt (Admin)**.  
 ![Terminal Admin Option Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/terminal-admin-option-power-menu.jpg)
 3. Type the DNS flush command: **ipconfig /flushdns** and press **Enter**. This will execute the command and clear the DNS resolver cache.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![IpConfig Cmd In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ipconfig-cmd-in-command-prompt.jpg)
 4. Now you can retry sharing files on the network.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Reset the TCP/IP Settings
 
  You don't need to get confused by the term "TCP/IP." To make it easier, TCP/IP means a network protocol that helps you download or upload files online. So now you can understand what will happen if the TCP/IP settings get messed up.
@@ -117,6 +118,10 @@ The ultimate burning program for all your needs!</a>
 
  After a restart, the changes should take effect, and you may no longer face the network resource unavailable error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Clear Outdated ARP Cache
 
  Before moving on to the steps, you must know what the ARP cache is. Simply put, the Address Resolution Protocol (ARP) cache saves a unique identification ID of all the devices within your network. This helps your computer communicate with other devices efficiently.
@@ -132,9 +137,6 @@ The ultimate burning program for all your needs!</a>
 3. To remove all the outdated ARP cache entries, type in **netsh interface ip delete arpcache** and press **Enter**.  
 ![ArpCache CMD In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/arpcache-cmd-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  After completing the steps, your computer will no longer store outdated ARP cache entries.
 
 ## No More Network Resource Unavailability on Windows
@@ -147,11 +149,24 @@ The ultimate burning program for all your needs!</a>
 
  We'll look closer at the possible solutions to overcome the network resource unavailable error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-cloud-proven-methods-for-perfecting-drones-in-post-production/"><u>[New] Capturing the Cloud Proven Methods for Perfecting Drones in Post-Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-steps-to-overhaul-firewall-settings-on-windows/"><u>Five Steps to Overhaul Firewall Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eliminate-frustrating-windows-bsod-instances/"><u>How to Eliminate Frustrating Windows BSOD Instances</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a38-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A38 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a38-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A38 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-1011-directdraw-fails-a-compreenas-guide/"><u>Navigating Windows 10/11 DirectDraw Fails: A Compreenas Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-and-validating-windows-11-with-activation-methods/"><u>Securing and Validating Windows 11 with Activation Methods</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-6s-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 6s for Parents | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-how-to-clear-yt-background-for-2024/"><u>Unveiling the Secrets How to Clear YT Background for 2024</u></a></li>
+</ul></div>
+

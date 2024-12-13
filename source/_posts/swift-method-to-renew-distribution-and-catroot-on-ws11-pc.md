@@ -1,7 +1,7 @@
 ---
 title: Swift Method to Renew Distribution & Catroot on WS11 PC
-date: 2024-12-01T19:34:57.564Z
-updated: 2024-12-06T18:41:20.355Z
+date: 2024-12-11T23:36:52.423Z
+updated: 2024-12-13T02:23:59.073Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
  The SoftwareDistribution folder is a directory that stores files required for installing Windows updates on PCs. It is a temporary repository of the update files. Thus, the SoftwareDistribution folder is an important component for updating Windows.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
@@ -63,6 +67,11 @@ net stop msiserver`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net start bits  
 
 net start wuauserv  
@@ -81,10 +90,6 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
@@ -92,12 +97,12 @@ net start msiserver`
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -111,10 +116,6 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
@@ -123,7 +124,7 @@ net start msiserver`
 11. Exit FixWin and reboot your PC after selecting those options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -132,23 +133,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-guffaw-guide-the-leading-text-generator-companions/"><u>[New] Guffaw Guide The Leading Text Generator Companions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-real-time-broadcast-periscope-essentials/"><u>[New] Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-screencast-insights-for-creators-for-2024/"><u>[Updated] Comprehensive Screencast Insights for Creators for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-selection-of-portable-mp4s/"><u>2024 Approved Premium Selection of Portable MP4s</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-dynamic-content-with-youtube-playlist-embedding/"><u>Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defaults-defined-user-permission-reset-guide-for-win11/"><u>Defaults Defined: User Permission Reset Guide for Win11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266787606-discover-the-leading-10-iphone-data-recovery-applications-for-ios-1/"><u>Discover the Leading 10 iPhone Data Recovery Applications for iOS 1# !</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-flawless-windows-11-anydesk-performance/"><u>Ensuring Flawless Windows 11 AnyDesk Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-8-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 8 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-draw-breakdown-for-windows-computing-systems/"><u>Power Draw Breakdown for Windows Computing Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
-<li><a href="https://solve-news.techidaily.com/top-6-methods-for-successful-dvd-to-pc-conversion/"><u>Top 6 Methods for Successful DVD-to-PC Conversion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud-for-2024/"><u>Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +140,24 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-ace-2-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Ace 2</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/cost-efficient-upgrades-for-enhanced-surface-pro-performance-a-step-by-step-guide-featuring-insights-from-zdnet/"><u>Cost-Efficient Upgrades for Enhanced Surface Pro Performance - A Step-by-Step Guide Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-lock-on-windows-settings/"><u>Customizing Lock-On Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-your-pcs-core-functionality-report-compilation/"><u>Decoding Your PC's Core Functionality: Report Compilation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-x800704cf-on-windows-1111/"><u>Disabling Error X800704CF on Windows 11/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-now-quick-solutions-for-troubled-netflix-title-streaming-issues/"><u>Fix Now: Quick Solutions for Troubled Netflix Title Streaming Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crash-point-errors-a-guide-to-stable-ue4-arise-creation/"><u>Fixing Crash Point Errors: A Guide to Stable UE4 Arise Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-code-0xc00000f-on-windows-pc/"><u>How to Fix Error Code 0Xc00000f on Windows PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-curves-decoded-a-beginners-guide/"><u>In 2024, Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-battery-life-preventing-android-apps-from-running-hiddenly/"><u>Mastering Battery Life - Preventing Android Apps From Running Hiddenly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/meeting-the-challenge-computing-with-16gb-on-windows-pcs/"><u>Meeting the Challenge: Computing with 16GB on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-resolving-microsoft-store-errors-win-1011/"><u>Quick-Fix Guide: Resolving Microsoft Store Errors, Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-a-driverirqlnotlessorequal-on-pc/"><u>Tackling A DRIVER_IRQL_NOT_LESS_OR_EQUAL on PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
+</ul></div>
+

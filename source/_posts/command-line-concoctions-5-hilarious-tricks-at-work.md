@@ -1,7 +1,7 @@
 ---
 title: "Command Line Concoctions: 5 Hilarious Tricks at Work"
-date: 2024-08-23T07:08:12.193Z
-updated: 2024-08-24T07:08:12.193Z
+date: 2024-12-11T22:23:16.642Z
+updated: 2024-12-13T01:29:33.552Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 **Right-click** on the **Command Prompt icon** in the upper left-hand corner. Of the screen. From here, select **Properties.**
 
 ![screenshot of cmd properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_properties_window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
@@ -64,24 +68,19 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
  With the command **title**, followed by a word or phrase, you can change the window header for the Command Prompt.
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -95,24 +94,17 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
  All it requires is inputting the command **shutdown /s**. If you're feeling fancy, you can restart your device the same way using **shutdown /r.**
@@ -120,16 +112,14 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +127,25 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>[Updated] Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-searchingforsmartercameraspost-mycam-for-2024/"><u>[Updated] SearchingForSmarterCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eling-success-the-essential-elements-for-profitable-video-trailers-for-2024/"><u>Channeling Success The Essential Elements for Profitable Video Trailers for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-streaming-tunes-to-sharing-moments-unveiling-spotify-as-the-new-digital-social-space/"><u>From Streaming Tunes to Sharing Moments: Unveiling Spotify as the New Digital Social Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-safely-remove-personal-info-on-login-screen/"><u>How to Safely Remove Personal Info on Login Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-might-in-god-of-war/"><u>Mastering the Might in 'God of War'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-spontaneous-search-on-win11-desktop/"><u>Preventing Spontaneous Search on Win11 Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-for-windows-screensaver/"><u>Restoring Default Settings for Window's Screensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-esc-keys-a-practical-guide-to-immediate-fixes/"><u>Revitalize Your Esc Keys: A Practical Guide to Immediate Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-fixing-faulty-cpu-statistics-in-windows-task-interface/"><u>Solutions for Fixing Faulty CPU Statistics in Windows Task Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-minecraft-world-connection-issues-expert-strategies-and-recommendations/"><u>Solve Minecraft World Connection Issues: Expert Strategies & Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-your-projects-with-voice-over-integration/"><u>Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-trick-for-starting-windows-7-vista-and-xp-in-safe-mode-safely/"><u>The Ultimate Trick for Starting Windows 7, Vista, and XP in Safe Mode Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-device-driver-absence-in-windows-instance/"><u>Troubleshooting Device Driver Absence in Windows Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-how-to-access-windows-11s-system-tools/"><u>Unveiling the Secrets: How to Access Windows 11'S System Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pova-6-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pova 6 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-look-for-top-priorities-when-selecting-a-windows-pc/"><u>What to Look For: Top Priorities When Selecting a Windows PC</u></a></li>
+</ul></div>
+

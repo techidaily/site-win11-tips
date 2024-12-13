@@ -1,7 +1,7 @@
 ---
 title: Steps to Open Excel Files in Windows Notepad
-date: 2024-12-05T01:44:18.122Z
-updated: 2024-12-06T16:16:18.234Z
+date: 2024-12-10T02:29:08.401Z
+updated: 2024-12-12T18:15:40.640Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the "Open With" Option
 
  The easiest way to open a file in the app of your choice when Windows is not sure how to handle it is by using the “Open with” option.
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
 ![Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-with-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to ensure that all files of a particular format open in Excel automatically, you can use the "Open with" option to set a default program as well. Simply right-click on the file, select **Open with** \> **Choose another app**. From there, select **Excel** and check the "Always use this app to open files" option.
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Default Settings for File Types
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 3. In the following window, type the extension name of the targeted file under "Set a default for a file type or link type".  
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 4. Press **Enter** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Yes** in the User Account Control prompt to proceed.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use an Excel Repair Tool (if Applicable)
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open and Use Excel Files Properly on Windows
@@ -123,23 +123,6 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-video-partition-prowess-ultimate-recorder-ranking/"><u>[New] In 2024, Video Partition Prowess Ultimate Recorder Ranking</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-selection-androids-leading-video-call-for-large-groups/"><u>[New] Superior Selection Android's Leading Video Call for Large Groups</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>[Updated] In 2024, Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-potential-of-your-online-persona-on-facebook/"><u>[Updated] In 2024, Unlocking the Potential of Your Online Persona on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-solutions-for-a-fully-operational-windows-search-bar/"><u>11 Solutions for a Fully Operational Windows Search Bar</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srgb-standardized-vs-traditional-rgb-spectrum/"><u>2024 Approved Srgb Standardized Vs Traditional Rgb Spectrum</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-stalled-downloads-with-qbittorrent-fixes/"><u>Accelerating Stalled Downloads with qBittorrent Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boldly-hiding-extra-commands-within-window-contexts-win-10/"><u>Boldly Hiding Extra Commands Within Window Contexts (Win 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-taskbar-performance-on-win11/"><u>Boosting Taskbar Performance on Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-dell-xps-13-7390-convertible-laptop-stunning-design-and-exceptional-versatility/"><u>In-Depth Analysis of the Dell XPS 13 7390 Convertible Laptop - Stunning Design & Exceptional Versatility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-connection-a-user-friendly-guide-for-subwoofer-and-samsung-soundbar-pairing/"><u>Master the Connection: A User-Friendly Guide for Subwoofer and Samsung Soundbar Pairing</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +130,22 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pureimage-the-backdrop-cutter/"><u>[New] In 2024, PureImage The Backdrop Cutter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-of-the-best-10-leading-video-call-apps-for-iphones-and-android/"><u>[Updated] 2024 Approved Best of the Best 10 Leading Video Call Apps for iPhones & Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-guide-to-the-ultimate-photo-editing-with-facetune-2e/"><u>[Updated] In 2024, Step-by-Step Guide to the Ultimate Photo Editing with Facetune (2E)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/streaming-setup-leading-livestream-hardware-and-software-guide/"><u>Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-whatsapp-photo-zoom-simple-solutions-for-clearer-images/"><u>Correcting WhatsApp Photo Zoom – Simple Solutions for Clearer Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-have-any-security-issues/"><u>Does ChatGPT Have Any Security Issues?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-full-chatgpt-windows-issue/"><u>Easing Full-ChatGPT Windows Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhanced-print-controls-available-the-newest-release-of-the-brother-hl-2240-printer-driver-for-windows-systems/"><u>Enhanced Print Controls Available: The Newest Release of the Brother HL-2240 Printer Driver for Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-fix-guide-overcoming-3-0x0001000b-in-rainbow-six-siege/"><u>Error Fix Guide: Overcoming 3-0X0001000B in Rainbow Six Siege</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-acoustic-space-via-windows-settings/"><u>Optimizing Acoustic Space via Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/radiate-warmth-and-joy-stylish-winter-window-plays/"><u>Radiate Warmth & Joy - Stylish Winter Window Plays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-win-telnet-activation-3-methods/"><u>The Essential Guide to Win Telnet Activation (3 Methods)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-right-way-to-hibernate-windows-computers/"><u>The Right Way to Hibernate Windows Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-vault-explorers-superior-cloud-service-review/"><u>Ultimate Vault Explorers Superior Cloud Service Review</u></a></li>
+</ul></div>
+

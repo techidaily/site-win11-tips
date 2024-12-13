@@ -1,7 +1,7 @@
 ---
 title: "Expertise Unlocked: Comprehensively Scan QR Codes on Windows"
-date: 2024-08-23T07:04:29.995Z
-updated: 2024-08-24T07:04:29.995Z
+date: 2024-12-10T23:17:11.214Z
+updated: 2024-12-12T16:33:25.202Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
  Microsoft added a QR code scanner to its native camera app for Windows. You can use the app to quickly scan a QR code on both Windows 10 and Windows 11 computers. Here are the steps for either OS:
@@ -45,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Scan QR Codes From an Image on Windows
 
  Although the Windows Camera app makes it simple to scan QR codes, it has some limitations. The biggest hurdle is that it can't scan QR codes from existing images on your computer. To do this, you can use an online QR code scanning service. Here's how:
@@ -56,17 +61,12 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 3. Select the image containing the QR code from your computer and click **Open**.  
 ![Scan QR Code From an Image Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-using-an-online-service.jpg)
 4. Once you upload the image, the website should scan it automatically and show the result in the **Scanned Data** box. You can copy the result from there if you want.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
+
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
 
  Thanks to the growing popularity of QR codes, several QR code scanner apps are now available on the Microsoft Store. You can quickly scan or generate QR codes on your Windows computer using an app like Codex. Alternatively, there are also [simple online tools for generating QR codes](https://www.makeuseof.com/create-qr-codes-simple-tools/) you can turn to.
@@ -83,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![Scan QR Code in Codex App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to scan a QR code from an existing image on your computer, follow these steps instead:
 
 1. Open the Codex app and select the **Scan QR Code** option.
@@ -93,15 +94,14 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 4. Locate the image containing the QR code and click **Open**.  
 ![Scan QR Code From Image on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-from-image-on-windows.jpg)
 5. The app will immediately scan the QR code within the selected image and open it.
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You now know some quick and simple ways to scan QR codes on your Windows computer. The QR scanner built into the Camera app, a dedicated QR code scanner app, or a web-based solution should be all you need for everyday use.
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +109,20 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetvidaudiomaker-instant-sound-output/"><u>[Updated] 2024 Approved TweetVidAudioMaker Instant Sound Output</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-poco-c51-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-f15-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy F15 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-camon-20-pro-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Camon 20 Pro 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-discrepancies-in-your-to-dos-sync-status/"><u>Correcting Discrepancies in Your To-Dos' Sync Status</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-install-magicard-rio-pro-driver-for-your-pc-windows-support/"><u>Fresh Release: Install Magicard Rio Pro Driver for Your PC (Windows Support)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-arabic-effortlessly-6-reasons-using-mondly-online/"><u>Learn Arabic Effortlessly: 6 Reasons Using Mondly Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-non-functional-wsreset-a-comprehensive-guide/"><u>Reclaiming Non-Functional WSReset: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-for-the-token-access-issue-in-windows-1011/"><u>Remediation for the Token Access Issue in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-mail-app-0x800713f-error-in-windows-os/"><u>Resolving Mail App 0X800713f Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-win1011-rehabbing-corrupt-recycle-bin/"><u>Troubleshooting WIN10/11: Rehabbing Corrupt Recycle Bin</u></a></li>
+</ul></div>
+

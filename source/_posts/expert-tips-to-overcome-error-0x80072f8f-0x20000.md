@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Overcome Error 0X80072f8f - 0X20000
-date: 2024-08-23T07:03:04.829Z
-updated: 2024-08-24T07:03:04.829Z
+date: 2024-12-07T02:14:13.536Z
+updated: 2024-12-12T19:03:21.665Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,16 @@ Follow these steps to run the file as administrator:
 1. Right-click on the targeted file and select**Run as administrator** from the context menu.  
 ![Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/run-as-administrator-1.jpg)
 2. Click**Yes** in the confirmation prompt and check if the file runs without any issues now.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Yes button in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/user-account-control-yes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the error persists, it indicates that there is another cause behind it. In that case, proceed with the next method.
 
@@ -61,20 +70,17 @@ When you have created a backup, follow these steps.
 4. Right-click in an empty area in the right pane and select**New** \>**DWORD (32-bit) Value** from the context menu.  
 ![New DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/auto-update-new-dword.jpg)
 5. Name this value as**AllowOSUpgrade** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AllowOSUpgrade value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade.jpg)
 6. Double-click on**AllowOSUpgrade** and type**1** under Value data.  
 ![Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade-value-data.jpg)
 7. Hit**OK** and close the Registry Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now restart your PC and upon reboot, check if the Media Creation Tool works fine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Delete the Content of the Software Distribution Folder
 
  Another solution that worked for users was deleting the contents of the Software Distribution folder. This folder contains temporary files that might be interfering with the process of the Media Creation Tool.
@@ -85,9 +91,11 @@ When you have created a backup, follow these steps.
 `C:\Windows\SoftwareDistribution\Download`  
 ![Software Distribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/software-distribution-download.jpg)
 2. Select all the contents of the Download folder and right-click on them.
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on the**bin icon** in the context menu to delete them.  
 ![Delete icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/delete-download.jpg)
 4. Once you delete the files, type**cmd** in the search area of the taskbar and select**Run as administrator** .
@@ -95,9 +103,6 @@ When you have created a backup, follow these steps.
 `wuauclt.exe /updatenow`  
 ![wuauclt.exe command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/wuauclt-exe-updatenow.jpg)
 6. Then, restart your PC and try launching Media Creation Tool again.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable Relevant Services
 
@@ -123,13 +128,14 @@ When you have created a backup, follow these steps.
 5. In the Properties dialog, change the Startup type to**Automatic** .  
 ![Startup type as automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/startup-type-automatic.jpg)
 6. If the service is stopped, click on the**Start button** and select**Apply** \>**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/start-service-status.jpg)
 7. Repeat the same steps for the rest of the above-mentioned services.
 
  Once done, check if you can run the Media Creation Tool without any issues now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -142,20 +148,21 @@ Here is how you can perform a clean boot in Windows:
 3. In the System Configuration window, head over to the**Services** tab and checkmark the box for**Hide all Microsoft services** .  
 ![Hide all Microsoft services option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/msconfig-hide-all-msservices.jpg)
 4. Click on the**Disable all button** .
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Now, navigate to the**Startup** tab and click on**Open Task Manager** .  
 ![Open the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-open-task-manager.jpg)
 6. In the Startup tab, right-click on all the items and choose**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Click on the Disable button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-program.jpg)
 7. Once done, close the Task Manager and go back to the System Configuration window.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click**Apply** \>**OK** to save the changes.
 9. Finally, restart your computer.
 
@@ -168,20 +175,18 @@ Here is how you can perform a clean boot in Windows:
  If the antivirus program is the culprit, then we recommend switching to another similar service for better performance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Media Creation Tool Error, Now Resolved
 
  Media Creation Tool is undoubtedly one of the most useful and easy-to-use tools offered by Microsoft for Windows. The troubleshooting methods listed above will hopefully allow you to use it without any issues. If the error appears again, you can reach out to the official Microsoft support team and report the problem to them. Hopefully, they will be able to identify the exact cause of the issue and suggest you a fix accordingly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +195,20 @@ Here is how you can perform a clean boot in Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-androids-animal-world-simulator-games-roundup-for-2024/"><u>[New] Android's Animal World Simulator Games Roundup for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-remove-pending-videos-from-your-youtube-history-for-2024/"><u>[Updated] How to Remove Pending Videos From Your YouTube History for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-mediatrans-ios-iphone-ipad-mac/"><u>全功能MacX MediaTrans: 一站式iOS多媒體整理管理 - 讓你的 iPhone， iPad 和 Mac 電腦間流暢共享照片、音樂及影片</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-app-connectivity-with-top-fixes-and-troubleshooting-steps/"><u>Enhance Windows App Connectivity with Top Fixes and Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-startup-experience-for-csgo-in-w11/"><u>Enhancing the Startup Experience for CS:GO in W11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-perfect-wake-up-call-with-these-top-7-alarm-clocks/"><u>Find Your Perfect Wake-Up Call with These Top 7 Alarm Clocks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator/"><u>High Definition Showdown SJ6 Versus Yi 4K Innovator</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>In 2024, Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/measuring-up-whats-the-real-time-requirement-for-your-desktop-or-laptop/"><u>Measuring Up: What's the Real-Time Requirement for Your Desktop or Laptop?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mitigation-strategies-include-adjusting-ground-clamp-position-turning-off-interfering-components-and-modifying-welding-technique/"><u>Mitigation Strategies Include Adjusting Ground Clamp Position, Turning Off Interfering Components, and Modifying Welding Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-camera-access-conflict-with-error-0xa00f4243/"><u>Resolving Camera Access Conflict with Error 0xA00F4243</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streaming-mastery-real-time-capture-of-games-via-windows-intel-hub/"><u>Streaming Mastery: Real-Time Capture of Games via Windows Intel Hub</u></a></li>
+</ul></div>
 

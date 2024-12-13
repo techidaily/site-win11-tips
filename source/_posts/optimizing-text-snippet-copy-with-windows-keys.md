@@ -1,7 +1,7 @@
 ---
 title: Optimizing Text Snippet Copy with Windows Keys
-date: 2024-11-29T23:02:24.215Z
-updated: 2024-12-06T21:49:00.846Z
+date: 2024-12-07T16:45:09.574Z
+updated: 2024-12-13T00:28:32.915Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 9. Select**OK** to add the new custom paste hotkey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
@@ -100,15 +100,15 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
@@ -133,20 +133,17 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-grateful-goodbyes-affordable-premium-video-endings/"><u>[Updated] Grateful Goodbyes Affordable, Premium Video Endings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-chapters-to-a-youtube-video/"><u>[Updated] How To Add Chapters To A YouTube Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-enhancing-ps3-playthroughs-a-guide-to-effective-capture/"><u>[Updated] In 2024, Enhancing PS3 Playthroughs A Guide to Effective Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-common-complaints-users-have-about-windows-11/"><u>5 Common Complaints Users Have About Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-altering-lockout-frequency-in-windows-11-successor/"><u>A Step-by-Step Guide to Altering Lockout Frequency in Windows 11 Successor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-windows-iscsi-initiator/"><u>A Step-by-Step Guide to Using Windows iSCSI Initiator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-denied-reconnecting-to-windows-shared-items/"><u>Access Denied: Reconnecting to Windows Shared Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-academic-success-winning-strategies-for-windows/"><u>Achieve Academic Success: Winning Strategies for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-vscode-shutdown-problems-on-windows-11/"><u>Addressing VSCode Shutdown Problems on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/"><u>ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/cloning-made-simple-top-techniques-for-moving-your-samsung-data-across-different-partitions/"><u>Cloning Made Simple: Top Techniques for Moving Your Samsung Data Across Different Partitions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>New In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionizing-image-editing-with-photos-apps-delete-feature/"><u>Revolutionizing Image Editing with Photos App's Delete Feature</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-recording-clear-audio-with-your-iphone/"><u>Step-by-Step Guide: Mastering the Art of Recording Clear Audio with Your iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>[New] In 2024, Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-flip-side-realities-of-virtual-reality/"><u>2024 Approved The Flip Side Realities of Virtual Reality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-xsplit-alternatives-for-streaming-for-2024/"><u>Best Xsplit Alternatives for Streaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-common-print-problems-in-win-10-and-11-related-to-ad-ds/"><u>Deciphering Common Print Problems in WIN 10 & 11 Related to AD DS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-sidestep-non-installing-issues-in-win11s-latest-updater/"><u>How to Sidestep Non-Installing Issues in WIN11's Latest Updater</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-internet-access-post-os-deployment/"><u>Navigating Internet Access Post-OS Deployment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-energy-consumption-a-guide/"><u>Optimizing Your PC's Energy Consumption - A Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/quick-guide-on-the-go-testing-amazon-basics-portable-tablet-support-system/"><u>Quick Guide on the Go: Testing Amazon Basics' Portable Tablet Support System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unblocked-app-error-in-windows-security/"><u>Resolving Unblocked App Error in Windows Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-fun-in-virtual-reality-explore-our-picks-for-the-best-3-quest-games-with-endless-entertainment/"><u>Unlocking the Fun in Virtual Reality: Explore Our Picks for the Best 3 Quest Games with Endless Entertainment!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor 70 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
 

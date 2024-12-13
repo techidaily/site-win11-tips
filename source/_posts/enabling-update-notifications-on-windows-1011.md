@@ -1,7 +1,7 @@
 ---
 title: Enabling Update Notifications on Windows 10/11
-date: 2024-11-29T16:43:01.339Z
-updated: 2024-12-06T20:38:01.275Z
+date: 2024-12-07T17:17:06.873Z
+updated: 2024-12-12T22:55:35.412Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add a Check for Updates Shortcut to the Context Menu
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 5. Select the **Check for Updates** key, and then right-click a space on the right side of the Registry Editor to select **New > String Value**.  
 ![The String Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/string-value-option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type **SettingsURI** to be the new string’s name.
 2. Double-click **SettingsURI** to open an Edit String window.
 3. Type **ms-settings:windowsupdate-action** within the Value data box, and click **OK**.  
@@ -57,6 +61,11 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 5. Enter the string title **DelegateExecute**, and press the **Return** key.  
 ![The DelegateExecute string for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/delegateexecute_string.png)
 6. Double-click the **DelegateExecute** string to bring up its Value data box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type **{556FF0D6-A1EE-49E5-9FA4-90AE116AD744}** in the Value data text box, and press the **OK** button.
 8. Close the Registry Editor’s window.
 
@@ -69,16 +78,12 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 ![The Windows Update tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/check_for_updates_button.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This registry trick works much the same on Windows 10\. The only difference is that you won’t need to select **Show more options**. As Windows 10’s desktop context menu is the classic one, it doesn’t include **Show more options**. You can select **Check for Updates** on its primary context menu.
 
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
@@ -91,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 5. Click on the **Windows Update** setting.  
 ![The Add Windows Update submenu to Desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-context-menu-option.jpg)
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
@@ -111,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep an Eye Out For New Windows Updates
@@ -122,22 +123,6 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>[New] In 2024, How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-capturing-fluidity-in-iphone-photography/"><u>[Updated] In 2024, Capturing Fluidity in iPhone Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/contrast-in-connectivity-tackling-pcs-lag-on-laptops/"><u>Contrast in Connectivity: Tackling PC's Lag on Laptops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manually-check-your-windows-pc-for-signs-of-spyware-or-hacking/"><u>How to Manually Check Your Windows PC for Signs of Spyware or Hacking</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-itel-a60-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Itel A60? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-updated-insignia-chipset-drivers-perfect-fit-for-windows-machines/"><u>Instant Access to Updated Insignia Chipset Drivers - Perfect Fit for Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-moves-fixed-tips-to-overcome-windows-lags-in-sw-battlefront-2/"><u>Master Your Moves: Fixed Tips to Overcome Windows Lags in SW Battlefront 2</u></a></li>
-<li><a href="https://article-helps.techidaily.com/meme-magic-perfect-10-design-tips-and-tricks-for-2024/"><u>Meme Magic Perfect 10 Design Tips & Tricks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-and-personalize-window-11s-search-interface/"><u>Revamp and Personalize Window 11'S Search Interface</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-collection-premium-dj-visuals-available-for-download/"><u>Ultimate Collection Premium DJ Visuals Available for Download</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-of-9gag-for-memetic-success/"><u>Unlock the Secrets of 9GAG for Memetic Success</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi can’t play AVCHD .mts video</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +130,24 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-stream-success-secrets-are-you-a-fan-of-vmix-or-wirecast-in-2024/"><u>[New] Stream Success Secrets Are You a Fan of VMix or Wirecast, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-creating-soft-music-endings-in-adobe-premiere-video-editing/"><u>[Updated] 2024 Approved Creating Soft Music Endings in Adobe Premiere Video Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cost-effective-stratosphere-storage-for-large-archives/"><u>[Updated] Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mega-popular-youtube-vids-everlasting-titles-for-2024/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/accelerating-the-playback-of-instagram-videos-tips-for-2024/"><u>Accelerating the Playback of Instagram Videos (Tips) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-efficiency/"><u>Enhancing Windows 11 Taskbar Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-keeping-your-computer-mouse-connected-without-interruption/"><u>Expert Tips for Keeping Your Computer Mouse Connected without Interruption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029225629-gyao/"><u>Gyao動画の保存:最も簡単な２つの手順</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-poco-x5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Poco X5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cpu-load-management-via-windows-resource-monitor/"><u>Mastering CPU Load Management via Windows Resource Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-digital-journey-with-microsoft-ai/"><u>Mastering Your Digital Journey with Microsoft AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-your-browsing-experience-on-pc/"><u>Mastery Over Your Browsing Experience on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-ping-implementation-on-windows-devices/"><u>Optimal Ping Implementation on Windows Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-chipset-software-for-intels-windows-11-7-and-81/"><u>Optimize Chipset Software for Intel's Windows 11, 7 & 8.1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-smoothly-running-outlook-on-windows-pcs/"><u>Strategies for Smoothly Running Outlook on Windows PCs</u></a></li>
+</ul></div>
+

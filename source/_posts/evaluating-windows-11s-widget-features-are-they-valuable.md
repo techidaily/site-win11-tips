@@ -1,7 +1,7 @@
 ---
 title: Evaluating Windows 11'S Widget Features - Are They Valuable?
-date: 2024-12-01T23:20:41.016Z
-updated: 2024-12-06T21:54:29.820Z
+date: 2024-12-06T00:10:59.598Z
+updated: 2024-12-12T20:52:19.568Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are Widgets on Windows 11?
 
  In Windows 11, we were treated to a dedicated Widgets panel displaying multiple cards, each featuring real-time data to reflect your interests. Thanks to the handy widget board, you can easily [personalize cards or widgets](https://www.makeuseof.com/windows-11-how-to-use-widgets/) according to what you want to see.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Using Widgets on Windows
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -80,27 +76,15 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Our Verdict: Are Windows 11's Widgets Worth It?
 
  Widgets are an incredible addition to Windows 11, and while we can’t pin them to the desktop directly, they are still a fantastic feature. I highly recommend you start using the widgets panel on Windows to stay looped in on the latest news events, sports, weather updates, and stock market developments.
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-say-laughs-say-free-mememakers-tutorial-for-2024/"><u>[New] Say Laughs, Say Free - MemeMaker's Tutorial for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-slomo-mastery-unleashed-in-depth-2024-review/"><u>[New] SloMo Mastery Unleashed In-Depth 2024 Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/closed-case-missing-driver-for-amdintel-video-in-premier-pro/"><u>Closed Case: Missing Driver for AMD/Intel Video in Premier Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-media-players-server-execution-failed-error/"><u>How to Fix Windows Media Player’s “Server Execution Failed” Error</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-shared-device-conflicts-in-win11/"><u>Navigating Shared Device Conflicts in Win11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-video-audio-dynamics-increase-surround-impact-for-2024/"><u>New Elevate Video Audio Dynamics Increase Surround Impact for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamlessly-download-youtube-thumbnails-online-for-2024/"><u>Seamlessly Download YouTube Thumbnails Online for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-erase-microsoft-edge-w11/"><u>Step-by-Step: Erase Microsoft Edge W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategizing-diskspace-management-with-disc-usage-insights-in-windows/"><u>Strategizing DiskSpace Management with Disc Usage Insights in Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +93,19 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>2024 Approved Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-turning-off-geforce-visual-boost-effects/"><u>Command: Turning Off GeForce Visual Boost Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-lost-windows-in-your-taskbar-follow-these-6-recovery-steps-in-win-1011/"><u>Finding Lost Windows in Your Taskbar? Follow These 6 Recovery Steps in Win 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/huge-savings-alert-get-20-off-top-rated-travel-gear-for-smartphones-and-apple-watches-now-available-at-mobilemasters/"><u>Huge Savings Alert: Get 20% Off Top-Rated Travel Gear for Smartphones and Apple Watches – Now Available at MobileMasters!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>In 2024, 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-effortless-and-free-red-eye-removal-for-ios-users/"><u>In 2024, Quick, Effortless, and FREE Red-Eye Removal for iOS Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/oops-executed-diskpart-by-mistake-learn-how-to-restore-your-files-safely/"><u>Oops! Executed DISKPART by Mistake? Learn How to Restore Your Files Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-task-manager-from-rearranging-programs/"><u>Prevent Task Manager From Rearranging Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sprinter-mouse-click-techniques-for-speedy-dual-taps/"><u>Sprinter Mouse Click Techniques for Speedy Dual Taps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-crucial-role-of-bsod-in-system-restoration/"><u>The Crucial Role of BSoD in System Restoration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-forbidden-queries-for-ai-engagement/"><u>The Forbidden Queries for AI Engagement</u></a></li>
+</ul></div>
+

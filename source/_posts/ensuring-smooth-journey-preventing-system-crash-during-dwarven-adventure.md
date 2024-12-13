@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Smooth Journey: Preventing System Crash During Dwarven Adventure"
-date: 2024-08-23T07:03:50.251Z
-updated: 2024-08-24T07:03:50.251Z
+date: 2024-12-08T00:15:27.026Z
+updated: 2024-12-12T18:55:55.520Z
 tags:
   - windows10
   - windows11
@@ -24,23 +24,32 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dwarf Fortress is most likely to crash due to a corrupted save file or a world going on for too long. This can cause instability when loading information which leads to a crash.
 
  While that applies to all versions of Dwarf Fortress, the Steam version brings with it some unique issues that relate to the new graphical style.
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
@@ -51,25 +60,14 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
 
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Full Screen Optimizations
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -82,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
 
  To do this, navigate to the video settings of Dwarf Fortress by clicking**Settings** in the main menu.
@@ -92,15 +87,13 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
  Dwarf Fortress can crash if the save files become too bloated. This can happen after a long period of play, or even after a short period if you create enough new units and structures.
@@ -129,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +129,26 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-streamlined-process-for-upgrading-macos-sierra/"><u>[Updated] In 2024, Streamlined Process for Upgrading macOS Sierra</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-where-to-find-high-quality-pixel-ringers-for-2024/"><u>[Updated] Where to Find High-Quality Pixel Ringers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>2024 Approved Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-techniques-for-roller-champions-co-op-mode-in-pc-gaming/"><u>Advanced Techniques for Roller Champions Co-Op Mode in PC Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-unavailable-error-fix-for-windows-1187-understanding-and-solving-code-24/"><u>Device Unavailable Error Fix for Windows 11/8/7 - Understanding and Solving Code 24</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722744329798-explore-the-best-wi-fi-mesh-systems-of-2024-rankings-and-reviews/"><u>Explore the Best Wi-Fi Mesh Systems of 2024: Rankings & Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-importance-of-keeping-active-windows-11-alerts/"><u>Exploring the Importance of Keeping Active Windows 11 Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-one-type-to-another-win-based-conversion-techniques/"><u>From One Type to Another: Win-Based Conversion Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-change-your-facebook-password/"><u>How to Change Your Facebook Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-decoding-the-instagram-story-viewer-experience/"><u>In 2024, Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-win11-filesystem/"><u>Mastering the Art of Fixing Win11 Filesystem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-iphones-mirroring-app-problems-effective-strategies-for-a-smooth-experience/"><u>Navigating iPhone's Mirroring App Problems: Effective Strategies for a Smooth Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-workflow-in-windows-11-expert-guide-to-filtering-and-theming-controls/"><u>Optimize Workflow in Windows 11: Expert Guide to Filtering & Theming Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-precision-mastering-cs2-on-a-mac-laptop/"><u>Perfecting Precision: Mastering CS2 on a Mac Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-path-to-windows-key-programming-interface/"><u>Reinstating Path to Windows' Key Programming Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-the-pace-control-your-touchpad-speed/"><u>Setting the Pace: Control Your Touchpad Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-keeping-task-manager-apps-stationary/"><u>Techniques for Keeping Task Manager Apps Stationary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-windows-error-0xc00000f/"><u>Understanding and Correcting Windows Error: 0Xc00000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-with-16gb-memory-in-win-pcs/"><u>Unleashing Potential with 16GB Memory in Win PCs</u></a></li>
+</ul></div>
 

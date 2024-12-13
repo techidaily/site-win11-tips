@@ -1,7 +1,7 @@
 ---
 title: "Command Center Mastery: Administering Windows Panel"
-date: 2024-12-04T23:34:03.963Z
-updated: 2024-12-06T23:06:10.132Z
+date: 2024-12-06T18:11:12.707Z
+updated: 2024-12-12T16:44:30.347Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to open the Control Panel as an Administrator through Run Command
@@ -34,12 +34,17 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 1. Right-click on Start and select**Run** or press**Win + I** on your keyboard. The Run dialog box will open.  
 ![Open Control Panel Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-run-dialog-box.jpg)
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
 
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -52,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
 ![Open Control Panel Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-desktop-shortcut.jpg)
 4. Next, right-click on the shortcut and select**Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
 6. Check the**Run as administrator** box and click**OK** .
@@ -70,7 +71,7 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
@@ -92,22 +93,14 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-android-photography-essentials/"><u>[New] Advanced Android Photography Essentials</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discover-your-future-with-window-11s-innovative-creations-for-2024/"><u>[Updated] Discover Your Future with Window 11'S Innovative Creations for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>[Updated] Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-screencastifys-screen-capture-feature/"><u>2024 Approved Navigating Screencastify's Screen Capture Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-packaged-photo-errors-on-windows-11-and-11-pro/"><u>Eliminating Packaged Photo Errors on Windows 11 & 11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-visibility-strategic-application-of-descriptions/"><u>Enhancing File Visibility: Strategic Application of Descriptions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/heros-return-mh-world-bug-squished/"><u>Hero's Return: MH World Bug Squished</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-install-logitech-g402-custom-trackball-drivers-and-tools/"><u>How to Obtain and Install Logitech G402 Custom Trackball Drivers & Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-webp-vision-tools-for-windows-enthusiasts/"><u>Ideal WebP Vision Tools for Windows Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-success-unleash-potential-using-these-top-8-studying-techniques-for-windows/"><u>Skyrocket Success: Unleash Potential Using These Top 8 Studying Techniques for Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/366922-9781416566144-spiritual-liberation/"><u>Spiritual Liberation | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-nvidia-written-out-errors-guide-to-recovery/"><u>Unlocking NVIDIA' Written Out Errors - Guide to Recovery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mirthful-stream-retriever-review/"><u>[Updated] Mirthful Stream Retriever Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-four-basic-techniques-for-adjusting-photo-hues/"><u>2024 Approved Four Basic Techniques for Adjusting Photo Hues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-xupdate-error-code-0x80246007/"><u>How to Overcome Windows XUpdate Error: Code 0X80246007</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-vfx-efficiency-with-free-lut-downloads/"><u>In 2024, Boosting VFX Efficiency with FREE LUT Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-android-files-in-a-flash-on-windows-11/"><u>Installing Android Files in a Flash on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-recurring-login-prompt-in-windows/"><u>Remedying Recurring Login Prompt in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-workflow-with-top-10-free-mac-screen-recorders/"><u>Streamline Your Workflow with Top 10 Free Mac Screen Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-asus-rog-phone-7-ultimate-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Asus ROG Phone 7 Ultimate Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-camera-and-mic-under-windows-11-edge-guard/"><u>Utilizing Camera & Mic Under Windows 11 Edge Guard</u></a></li>
 </ul></div>
 

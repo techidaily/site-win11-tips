@@ -1,7 +1,7 @@
 ---
 title: Identify & Solve Disappearing Devices From Management Screen
-date: 2024-08-23T07:07:44.359Z
-updated: 2024-08-24T07:07:44.359Z
+date: 2024-12-08T22:24:46.884Z
+updated: 2024-12-12T18:07:44.561Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ## Identify & Solve Disappearing Devices From Management Screen
 
  Can't find the camera driver in Device Manager on your device? If so, the problem could be either software-related or a camera malfunction. Don't fret, though; it's easy to fix. This guide will explain why the camera driver may disappear from your Device Manager and how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does the Camera Device Go Missing in Device Manager?
 
@@ -49,8 +53,9 @@ Now let's see how to apply these fixes.
 Apply the remaining fixes if the above checks don't help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Ensure Camera Isn't Hidden in the Device Manager
 
  The Device Manager gives users an option to hide devices. Once you hide them, these devices disappear from the Device Manager. Therefore, if you don't see the Camera device, it might have been hidden by mistake. To make sure that's not the case or to unhide the device if it has been hidden, follow these steps:
@@ -69,25 +74,21 @@ Apply the remaining fixes if the above checks don't help.
 3. In the right pane, click**Troubleshoot** .  
 ![Going to the Troubleshooters in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-going-to-the-troubleshooters-in-windows-settings-app.jpg)
 4. Go to**Other troubleshooters** .
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the**Run** button next to the**Camera** troubleshooter.  
 ![Clicking on the Run Button Next to Camera Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-run-button-next-to-camera-troubleshooter-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Run a Few Scans
 
  Make sure corrupt system files are not causing the problem. To rule out this possibility, you need to run a few scans, such as SFC, DISM, and CHKDSK. If you have never performed these scans before, our guide on[repairing corrupt files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) explains how to run them. So, run these scans before moving on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 5\. Download the Camera Drivers Manually
 
  When a driver gets corrupt, or you mistakenly uninstall it, Windows is supposed to automatically reinstall it when you restart the computer. If the camera driver is not appearing in Device Manager after restarting the computer, you should manually install it.
@@ -104,14 +105,13 @@ Here are the steps to check:
 2. Right-click on the**Camera** app and then select**App settings.**  
 ![Going to the App Settings by Right-clicking on the Camera App in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-going-to-the-app-settings-by-right-clicking-on-the-camera-app-in-windows-search.jpg)
 3. Make sure Camera access is enabled under**App permissions** . If not, turn it on.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Ensuring the Camera Access is Enabled in the Camera App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-ensuring-the-camera-access-is-enabled-in-the-camera-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Ensuring the Camera Access is Enabled in the Camera App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-ensuring-the-camera-access-is-enabled-in-the-camera-app-settings.jpg)
+
 ### 7\. Reset the Camera App
 
  If you've modified the settings for the camera app recently and are experiencing the issue under discussion afterward, reset the app. You won't lose any data by resetting the camera app, but it will revert all customizations you've made. Therefore, you will need to customize the app from scratch.
@@ -136,34 +136,28 @@ Here are the steps to check:
 ![Clicking on the Next Button After Selecting Install the Hardware That I Manually Select From a List Advanced Option in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/8-clicking-on-the-next-button-after-selecting-install-the-hardware-that-i-manually-select-from-a-list-advanced-option-in-the-add-hardware-wizard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then click**Next** , and double-click on**Camera** from available hardware types.
 
 ![Clicking on the Next Button After Double-Clicking on the Camera App Device in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/9-clicking-on-the-next-button-after-double-clicking-on-the-camera-app-device-in-the-add-hardware-wizard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you can't find your camera's manufacturer or model number here, there might be a problem with your camera hardware.
 
 ![No Manufacturer or Model Number of Camera Device Showing in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/10-no-manufacturer-or-model-number-of-camera-device-showing-in-the-add-hardware-wizard.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Get Your Laptop Checked
 
  If none of these fixes work and the camera device doesn't appear in the Device Manager, there may be a hardware issue. So, you should take your laptop for a thorough inspection. If the device is still under warranty, you should have it checked by the manufacturer rather than a local shop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Camera Driver in the Device Manager
 
@@ -175,8 +169,6 @@ Here are the steps to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +176,19 @@ Here are the steps to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-every-pixel-ps3-video-recording-101/"><u>[New] Capturing Every Pixel PS3 Video Recording 101</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pewdiepie-revenue-analysis-overview/"><u>[New] PewDiePie Revenue Analysis Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-picks-for-superior-nintendo-switch-gaming-for-2024/"><u>[New] Top Picks for Superior Nintendo Switch Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-disabled-audio-controls-in-win-1011/"><u>Correcting Disabled Audio Controls in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-need-current-windows-pass-problem-in-win11/"><u>Eradicating Need Current Windows Pass Problem in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-s17e-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo S17e FRP In 3 Different Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Tecno Phantom V Fold</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-effectiveness-with-mspcm-toolbar-w11-style/"><u>Maximizing Effectiveness with MSPCM Toolbar, W11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-adding-desktop-menus-for-win11-and-w11/"><u>Quick Guide: Adding Desktop Menus for Win11 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-service-command-line-issues-a-list-of-7-solutions/"><u>Unlocking Windows Service Command Line Issues: A List of 7 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-steam-cloud-hiccups/"><u>Winning Strategies for Steam Cloud Hiccups</u></a></li>
+</ul></div>
 

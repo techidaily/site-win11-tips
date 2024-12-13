@@ -1,7 +1,7 @@
 ---
 title: Correcting Lack of Privilege During OS Setup
-date: 2024-12-02T19:15:56.167Z
-updated: 2024-12-06T18:38:44.484Z
+date: 2024-12-09T19:51:47.233Z
+updated: 2024-12-12T22:56:01.993Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Setup File
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
  In addition, check if the installer file is blocked before running it. To do that, right-click the program’s setup file and select**Properties** .
 
  If you can see an**Unblock** option on the**General** tab, deselect the checkbox and select**Apply** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Take Ownership of the Software’s Installation Directory
 
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  You might be able to bypass the “installer has insufficient privileges” error by selecting to install the software in a different directory. Many users install software packages in the Program Files folder. So, try selecting to install a program at a completely different folder path from the one specified in the error message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Start or Restart Windows Installer
 
  Installation issues can arise because of Windows Installer service issues. Or that service might not even be running. So, check that service and either start or restart it depending on whether it’s running or not. You can start or restart Windows Installer like this:
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 3. If Windows Installer is running, select its**Restart** context menu option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can double-click the**Windows Installer** service to view its properties window and restart it from there. Click**Start** if the service is already stopped, or, select**Stop > Start** to restart.
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -96,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ![The UAP security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-options.jpg)
 4. Select**Disabled** to turn off that policy setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
 
@@ -122,11 +126,7 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
@@ -166,17 +166,22 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-harnessing-the-power-of-gopro-a-guide-to-streaming-on-facebookperiscope/"><u>[New] 2024 Approved Harnessing the Power of GoPro A Guide to Streaming on Facebook/Periscope</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ecrets-of-content-creators-finding-free-music/"><u>[New] Secrets of Content Creators Finding Free Music</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-performing-8-recording-software-picks/"><u>[Updated] 2024 Approved Best Performing 8 Recording Software Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-eden-echoes-best-rural-role-playing-realms/"><u>[Updated] 2024 Approved Eden Echoes Best Rural Role-Playing Realms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-practices-for-laptop-based-ppt-presentations-on-google-meet/"><u>[Updated] Best Practices for Laptop-Based PPT Presentations on Google Meet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-principles-for-designing-fb-ad-content/"><u>2024 Approved Principles for Designing FB Ad Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-fixing-windows-error-xffffff/"><u>A Comprehensive Guide to Fixing Windows' Error XFFFFFF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-journey-to-windows-11s-god-like-settings-mastery/"><u>A Journey to Windows 11'S God-Like Settings Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-machines-explained-how-they-stand-out/"><u>AI Machines Explained: How They Stand Out</u></a></li>
-<li><a href="https://driver-install.techidaily.com/eliminating-problems-samsung-ssd-and-windows-synergy/"><u>Eliminating Problems: Samsung SSD and Windows Synergy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719300675775-localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719338143984-revitalizing-your-chrome-browser-on-the-latest-os-win11/"><u>Revitalizing Your Chrome Browser on the Latest OS (Win11)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-best-mirrorless-cameras-vloggers-should-know-for-2024/"><u>[New] 8 Best Mirrorless Cameras Vloggers Should Know for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-acclaimed-pioneers-premier-instragram-highlight-makers/"><u>[New] In 2024, Acclaimed Pioneers Premier Instragram Highlight Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-path-of-peacefulness-how-to-gently-dim-music-tracks-for-2024/"><u>[New] The Path of Peacefulness How To Gently Dim Music Tracks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-three-column-widget-interface-in-win11/"><u>Configuring Three Column Widget Interface in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-when-your-usb-stick-isnt-seen-by-the-computer/"><u>Effortless Fixes for When Your USB Stick Isn’t Seen by the Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-4k-video-and-sound-capabilities-on-leading-tv-brands-sony-samsung-lg-and-tcl/"><u>Exploring 4K Video and Sound Capabilities on Leading TV Brands: Sony, Samsung, LG, and TCL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-routes-to-startup-repair-in-windows-os/"><u>Fast Routes to Startup Repair in Windows OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-turn-off-games-for-you-recommendations-on-windows-11/"><u>Learn To Turn Off Games for You Recommendations on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-chromes-upload-challenges-effective-solutions-for-windows/"><u>Navigate Chrome’s Upload Challenges: Effective Solutions for Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-guide-converting-vimeo-footage-to-eye-catching-gifs-for-2024/"><u>Quick Guide Converting Vimeo Footage to Eye-Catching GIFs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-default-batterypower-setup-on-ws-11/"><u>Reactivating Default Battery/Power Setup on WS 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-entry-point-not-found-a-windows-guide/"><u>Solving Entry Point Not Found: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-tweaking-space-between-icons-on-winxi-systems/"><u>Title: Tweaking Space Between Icons on WINXI Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-display-meets-wallet-friendly-price-a-detailed-review-of-an-exceptional-budget-laptop-insights-from-zdnet/"><u>Unbeatable Display Meets Wallet-Friendly Price: A Detailed Review of an Exceptional Budget Laptop - Insights From ZDNet!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-innovatively-designing-your-lock-pattern/"><u>Unlocking Windows Innovatively: Designing Your Lock Pattern</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
 

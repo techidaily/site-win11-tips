@@ -1,7 +1,7 @@
 ---
 title: The Art of Perpetual File Removal in Windows' Trash
-date: 2024-12-03T17:13:59.286Z
-updated: 2024-12-06T23:01:01.101Z
+date: 2024-12-12T00:56:23.856Z
+updated: 2024-12-12T18:34:22.135Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
@@ -59,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
@@ -100,9 +92,17 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
@@ -139,18 +139,22 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-core-skills-in-video-and-film-creation/"><u>[New] Core Skills in Video and Film Creation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-a-legacy-youtubers-playbook-for-success/"><u>[Updated] Crafting a Legacy YouTuber’s Playbook for Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-dynamic-photographic-mosaics-mastery/"><u>2024 Approved Exploring Dynamic Photographic Mosaics Mastery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-streaming-showdown-best-channels-for-your-audience/"><u>2024 Approved Streaming Showdown Best Channels for Your Audience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crack-the-code-of-missing-control-options-in-win11/"><u>Crack the Code of Missing Control Options in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fixes-stop-windows-11-endless-reboots/"><u>Effortless Fixes: Stop Windows 11 Endless Reboots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-group-policy-objects-on-single-user-accounts-in-windows-11/"><u>Leveraging Group Policy Objects on Single-User Accounts in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pc-repair-tactics-powered-by-chatgpt-for-efficient-troubleshooting/"><u>PC Repair Tactics Powered by ChatGPT for Efficient Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-access-to-the-system32-folder-win11/"><u>Seamless Access to the System32 Folder (Win11)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-internal-pc-graphics-with-ease/"><u>Uninstalling Internal PC Graphics with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-newest-epson-wf-cued-7710-printer-drivers-for-windows-win11-win8187/"><u>Update Your PC with Newest Epson WF-Cued 7710 Printer Drivers for Windows (Win11, Win8.1/8/7)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-instagram-aesthetic-with-new-and-old-filters/"><u>[New] Elevate Your Instagram Aesthetic with New and Old Filters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-immersive-video-warfare-samsung-vs-lg-cam-clash-for-2024/"><u>[New] Immersive Video Warfare Samsung VS LG Cam Clash for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-strategies-for-efficient-business-teleconferencing/"><u>[New] In 2024, Strategies for Efficient Business Teleconferencing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-breaking-the-videography-code-download-and-preserve-media-on-fb/"><u>[Updated] Breaking the Videography Code Download and Preserve Media on FB</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-saving-strategy-watching-taping-and-tweaking-sports/"><u>[Updated] In 2024, Saving Strategy Watching, Taping, and Tweaking Sports</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-engagement-your-essential-list-of-15-opener-templates/"><u>[Updated] Mastering Engagement Your Essential List of 15 Opener Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hype-generator-chief-architect/"><u>2024 Approved Hype Generator Chief Architect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-program-size-display-tips-for-win11/"><u>Control Program Size Display: Tips for Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-home-and-office-it-infrastructure-with-top-nas-units-for-backups-streaming-and-more/"><u>Elevate Home and Office IT Infrastructure with Top NAS Units for Backups, Streaming & More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-the-best-10-uses-for-powertoys/"><u>Enhance Your Experience: The Best 10 Uses for PowerToys</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-track-recently-used-documents-and-applications-in-windows-with-simple-steps-from-yl-software/"><u>How to Track Recently Used Documents and Applications in Windows with Simple Steps From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-for-windows-11-insights-from-update-x4-release/"><u>New Horizons for Windows 11: Insights From Update X.4 Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-steam-friends-list-in-win11-systems/"><u>Reinstating Lost Steam Friends List in Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-cure-iomap64-bsod-errors/"><u>Step-by-Step Approach to Cure IOMap64 BSOD Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-the-application-couldnt-start-code-0xc000003e-in-win11/"><u>Steps to Resolve The Application Couldn't Start: Code 0XC000003E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-with-top-windows-11-sketchers/"><u>Unleash Creativity with Top Windows 11 Sketchers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-complexities-of-windows-odbc-integration/"><u>Unraveling the Complexities of Windows ODBC Integration</u></a></li>
 </ul></div>
 

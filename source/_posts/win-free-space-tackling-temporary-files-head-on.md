@@ -1,7 +1,7 @@
 ---
 title: "Win-Free Space: Tackling Temporary Files Head On"
-date: 2024-08-23T07:05:50.995Z
-updated: 2024-08-24T07:05:50.995Z
+date: 2024-12-08T20:04:35.031Z
+updated: 2024-12-12T21:18:15.636Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Disk Cleanup Tool
 
 [Windows offers several options for clearing temporary files](http://www.makeuseof.com/windows-11-delete-temporary-files/) on your PC. If you are unable to delete temporary files via the Settings app or File Explorer, try using the Disk Cleanup tool instead.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Command Prompt
 
  If the Disk Cleanup utility fails to delete some or all of the temporary files on Windows, you can try using the Command Prompt instead. Don’t worry, the process isn’t as complex as it might sound.
@@ -49,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*  
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the above command to run and delete the temporary files.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Empty the SoftwareDistribution Folder
 
  Windows saves all the downloaded update files in the SoftwareDistribution folder before installing them. If a [Windows system update gets stuck](https://www.makeuseof.com/tag/windows-update-stuck/), the OS will not delete the temporary files associated with it.
@@ -70,14 +79,12 @@ C:\Windows\SoftwareDistribution\Download
 7. Return to the Services window, right-click on the **Windows Update** service, and select **Start**.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-softwaredistribution-folder.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Edit Registry Files
 
  By default, the Disk Cleanup utility does not delete temporary files that are less than seven days old. This is because Windows marks these files as active. However, if you want to delete all the temporary files, regardless of their age, you can make changes to the Windows Registry.
@@ -94,22 +101,17 @@ C:\Windows\SoftwareDistribution\Download
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart your PC after this and try to delete temporary files once again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Boot Into Safe Mode
 
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of Temporary Files on Windows
 
  Clearing temporary files is a great way to free up storage space without deleting any of your apps or important data.
@@ -118,11 +120,33 @@ C:\Windows\SoftwareDistribution\Download
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>2024 Approved The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/dual-domain-delight-posting-videos-across-social-platforms/"><u>Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-clear-audio-feedback-in-windows-screen-casts/"><u>Ensuring Clear Audio Feedback in Windows Screen Casts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-stuck-window-settings-saver-recovery-steps/"><u>Fixing Stuck Window Settings: Saver Recovery Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-youtube-end-card-tactics-and-layouts/"><u>In 2024, Cutting Edge Youtube End Card Tactics & Layouts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-guidelines-for-choosing-the-right-podcast-name/"><u>In 2024, Essential Guidelines for Choosing the Right Podcast Name</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-8-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 8 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstarting-the-explorer-a-guide-for-windows-11-users/"><u>Jumpstarting the Explorer: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-update-error-0x800f0845/"><u>Mastering Fixes for Windows Update Error 0X800f0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-consumption-calculating-your-windows-pcs-energy/"><u>Power Consumption: Calculating Your Windows PC's Energy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quell-the-cpu-throttle-a-guide-to-system-health-via-rm/"><u>Quell the CPU Throttle: A Guide to System Health via RM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-techniques-for-effortless-mts-file-compression/"><u>Simple Techniques for Effortless MTS File Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-error-code-30015-26-in-office-for-windows-users/"><u>Tackling Error Code 30015-26 in Office for Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95683979-9781440504679-the-everything-law-of-attraction-dream-dictionary/"><u>The Everything Law of Attraction Dream Dictionary | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pinnacle-of-productivity-select-windows-11s-best-widgets/"><u>The Pinnacle of Productivity: Select Windows 11'S Best Widgets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel 8 | Dr.fone</u></a></li>
+</ul></div>
+

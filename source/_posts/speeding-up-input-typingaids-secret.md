@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Input: TypingAid's Secret"
-date: 2024-08-23T07:03:44.417Z
-updated: 2024-08-24T07:03:44.417Z
+date: 2024-12-06T18:10:56.442Z
+updated: 2024-12-12T20:04:29.813Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
  Typing "Nebuchadnezzar" with TypingAid may only take four or five keystrokes - and, as a bonus, will be typo-free. Here's how you can use TypingAid as your typing assistant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is TypingAid for Windows?
 
  You can[use AutoHotkey to make app-specific hotkeys](https://www.makeuseof.com/autohotkey-app-specific-hotkeys/) that change what the same key combinations "do" depending on the active app. But it's also possible to tap its GUI functionality to, for example,[make your own quick note-taking app with AutoHotkey](https://www.makeuseof.com/windows-autohotkey-note-taking-app/) .
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
  What's best is that TypingAid "learns" new words and adds them to its database after you type them X times (the number is configurable). Thus, the more you use it, the better it becomes at recommending terms you use based on your vocabulary and writing style.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download & Install TypingAid
 
  Download the script/app from[TypingAid's official Github page](https://github.com/ManiacDC/TypingAid) . By default, it comes in a compressed archive. Extract it in any folder you like, and run the executable among the rest of the files to use TypingAid.
@@ -43,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  Note that TypingAid is also available in its original AutoHotkey script format. If you download this version, you'll also need to have AutoHotkey installed to use it. You'll find that at[AutoHotkey's official site](https://www.AutoHotkey.com/) .
 
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
@@ -60,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 Then, run TypingAid.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Configure TypingAid
 
  TypingAid will be idle in the Windows tray after you run it and spring to life once you begin typing in any window. However, it's best to spend a few minutes setting it up to your preferences before you start using it. Right-click on its Windows tray icon and select**Settings** .
@@ -69,23 +85,25 @@ Then, run TypingAid.
 Let's see the essential settings worth tweaking in TypingAid.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
 
 ![TypingAid Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you turn**Learn new words as you type** to off, TypingAid will only offer suggestions that already exist in the loaded Wordlist. Leave the option turned on to have TypingAid learn new words that you type.
 * **Minimum length of word to learn** restricts which new words TypingAid can "learn", based on their number of characters. If you leave it at the predefined value of**5** , it won't, for example, "learn" the word "fuse", no matter how many times you type it. It will only "learn" words with at least five letters.
 * **Add to wordlist after X times** defines how many times you must type the same unknown word for TypingAid to add it to its Wordlist.
 * Look at the checkboxes under**Auto Complete Keys** and enable the ones you want to use for choosing one of TypingAid's suggestions. This writer likes using the**Tab** ,**Number Keys** ,**Enter** , and**Single Click** .
 * If TypingAid can't "send" text to some apps, change the**Send Method** with which it "pushes" text to the active window.
 * By changing**Type space after autocomplete** to On, TypingAid will also add a "space" character after any word it sends to an app so that you can immediately start typing the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Wordlist Box
 
@@ -108,14 +126,12 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Advanced
 
  We suggest you skip this section, except for the rare case where you want to customize TypingAid's**Terminating Characters** . If that term sounds alien, that's precisely why most people won't have to tweak anything here!
@@ -124,9 +140,6 @@ Let's see the essential settings worth tweaking in TypingAid.
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Putting TypingAid Into Action
 
  With everything set up, you can immediately start using TypingAid to boost your typing speed in any app.
@@ -135,16 +148,10 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Active in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-active-in-word.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can press one of the**Auto Complete Keys** (like Tab or Enter) to choose the pre-selected word and have it replace the characters you've typed, just like your smartphone's autocomplete.
 
  Or, if you're also using the**Number (Auto Complete) Keys** , press a number from the top row of your keyboard to directly select that word from TypingAid's suggestion list without having to click on it with your mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## TypingAid: The Mind-Reading Typing Assistant for Windows
 
  A predictive text solution like TypingAid can dramatically reduce the time spent typing. It can help you create or edit documents faster and with fewer errors.
@@ -159,8 +166,6 @@ Let's see the essential settings worth tweaking in TypingAid.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +173,20 @@ Let's see the essential settings worth tweaking in TypingAid.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-steps-to-overhaul-firewall-settings-on-windows/"><u>Five Steps to Overhaul Firewall Settings on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>In 2024, Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-day-the-top-5-productivity-apps-for-windows-11/"><u>Jumpstart Your Day: The Top 5 Productivity Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-the-top-10-essential-store-titles/"><u>Mastering Microsoft: The Top 10 Essential Store Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-1011-directdraw-fails-a-compreenas-guide/"><u>Navigating Windows 10/11 DirectDraw Fails: A Compreenas Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pcmaclaptop-easy-obs-setup-for-fb-livestreaming/"><u>PC/Mac/Laptop Easy OBS Setup for FB Livestreaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/recording-live-videos-on-periscope-with-maximum-quality-for-2024/"><u>Recording Live Videos on Periscope with Maximum Quality for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-guide-to-virtual-whiteboard-excellence-for-zoom-sessions-desktopiosandroid/"><u>The Complete Guide to Virtual Whiteboard Excellence for Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-consumers-choice-ahead-of-the-curve-scanners-for-documents-and-photos/"><u>The Consumer's Choice: Ahead-of-the-Curve Scanners for Documents & Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-safeguard-hold-in-windows-11-and-how-do-you-disable-it/"><u>What Is the Safeguard Hold in Windows 11 and How Do You Disable It?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-error-code-x-resolving-0x80072746-mail-issue/"><u>Windows Error Code X: Resolving 0X80072746 Mail Issue</u></a></li>
+</ul></div>
 

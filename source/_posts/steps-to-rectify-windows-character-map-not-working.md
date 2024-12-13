@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Windows' Character Map Not Working
-date: 2024-12-05T16:37:49.754Z
-updated: 2024-12-06T22:27:46.350Z
+date: 2024-12-11T20:07:19.293Z
+updated: 2024-12-12T18:17:21.935Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Windows Updates and Restart Your Computer
 
  If you are having trouble opening the Character Map on Windows, check if your computer is up-to-date. Windows often downloads and installs updates to fix bugs, so if your Windows version is outdated, Character Map may not function properly.
@@ -39,7 +43,7 @@ In order to check for available Windows updates, follow these steps:
  If you already have the latest version of your computer, try restarting your computer. It can often resolve small issues and is a great way to troubleshoot any problems you may experience with software or applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scan Tools
@@ -64,7 +68,7 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
  The process may take a while to complete. After executing the DISM command, restart your computer to check if it has resolved the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall the Latest Windows Update
@@ -76,6 +80,11 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 3. From there, select**View installed updates** in the left sidebar.  
 ![View installed updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/view-installed-updates.jpg)
 4. Look for the most recent Windows update that you installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once you find it, uninstall it.
 
 ## 4\. Perform a Clean Boot
@@ -90,19 +99,11 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 6. Click on the**Services** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Select the**Hide all Microsoft services** box, then click**Disable all** .
 8. Click**Apply** to save the changes.
 9. Go to the**Startup** tab and click**Open Task Manager** .  
 ![Open Task Manager Via Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Task-Manager-Via-Startup-tab.jpg)
 10. Then, on the Startup tab, right-click each service and disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 11. Click**OK** when you're done editing System Configuration.
 
@@ -113,7 +114,7 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
  When none of the above solutions work, check out[how to set up a new user profile on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) . This will create a separate account with its own settings, files, and applications that can help resolve conflicts with existing data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resolving Character Map's Opening Issues
@@ -135,16 +136,21 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-discovering-the-advantages-of-multi-angle-recording/"><u>[New] Discovering the Advantages of Multi-Angle Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bootstrapping-a-powershell-session-as-an-admin-on-windows-11/"><u>Bootstrapping a PowerShell Session as an Admin on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/browser-download-techniques-after-windows-installation/"><u>Browser Download Techniques After Windows Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/building-a-window-for-secure-hardware-removal-on-windows-11/"><u>Building a Window for Secure Hardware Removal on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-do-not-have-access-error-when-uninstalling-apps/"><u>Bypassing Do Not Have Access Error When Uninstalling Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortless-deep-cleaning-top-gadgets-to-save-your-spine-and-simplify-sanitization/"><u>Effortless Deep Cleaning: Top Gadgets to Save Your Spine and Simplify Sanitization</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/rotating-quicktime-movies-on-macos-discover-these-four-techniques/"><u>Rotating QuickTime Movies on macOS: Discover These Four Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-oculus-graphic-card-issues-a-comprehvew-of-fixes/"><u>Troubleshooting the Oculus Graphic Card Issues - A Comprehvew of Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-unlocking-the-method-to-access-stored-wireless-network-credentials/"><u>Windows 11: Unlocking the Method to Access Stored Wireless Network Credentials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-education-mac-audio-recording-best-practices/"><u>[Updated] In 2024, Streamline Your Education Mac Audio Recording Best Practices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-iphone-explores-high-dynamic-range-photography/"><u>2024 Approved IPhone Explores High Dynamic Range Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-delayed-downloads-on-your-windows-system/"><u>Fixing Delayed Downloads on Your Windows System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-11-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus 11 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s/"><u>In 2024, Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g23frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G23FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-update-disruption-error-0x80073712/"><u>Mending Windows Update Disruption: Error 0X80073712</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-installer-needs-more-access-rights-in-windows/"><u>Overcoming Installer Needs More Access Rights in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-diagnostic-tools-in-winos/"><u>Restoring Functionality to Diagnostic Tools in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/right-click-for-the-win-add-compatibility-tools-to-your-menu/"><u>Right-Click for the Win: Add Compatibility Tools to Your Menu</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secrets-of-streaming-sound-record-and-preserve-for-2024/"><u>Secrets of Streaming Sound Record and Preserve for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-for-fixing-javascript-glitches-on-discord-platform/"><u>Simple Steps for Fixing JavaScript Glitches on Discord Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-reset-power-configurations-in-windows/"><u>Techniques to Reset Power Configurations in WIndows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-p55-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel P55 Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-snipping-tool-how-to-record-audio-and-video-simultaneously-on-windows-11-max-156/"><u>Unlocking Snipping Tool: How to Record Audio and Video Simultaneously on Windows 11 (Max 156)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiled-now-the-cutting-edge-of-macbook-innovation-revealed/"><u>Unveiled Now: The Cutting-Edge of MacBook Innovation Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resurrecting Disconnected Win Ethernet
-date: 2024-08-23T07:08:08.156Z
-updated: 2024-08-24T07:08:08.156Z
+date: 2024-12-06T02:21:09.700Z
+updated: 2024-12-12T17:48:11.047Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure Your Router Isn't Faulty
 
  Check whether the issue under discussion occurs with only one device or other devices also before starting the troubleshooting process. To check that, disconnect the Ethernet cable from your device and connect it to another device at home (assuming you've one).
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rule Out Router Issues
 
@@ -62,11 +70,6 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -75,29 +78,20 @@ The powerful video editing program for your Windows PC</a>
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After that, restart your device once to ensure the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
  If that DNS server isn't reliable and goes down every now and then, you may have trouble connecting to the internet. The best way to prevent that is to [change your DNS server](https://www.makeuseof.com/change-dns-settings-windows-11/) to another that is more stable and reliable. In this regard, Cloudflare and Google DNS servers are the best options.
@@ -108,20 +102,23 @@ The ultimate burning program for all your needs!</a>
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Effortlessly Connect Your Device to an Ethernet Connection
 
  Seeing your Ethernet connected but not being able to access the internet can make us lose our cool. Hopefully, the above fixes will help you solve the problem and start using the internet again. If none of the fixes work and you need help figuring out the problem, contact your ISP and have them diagnose and fix it.
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +126,23 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/2024-approved-leading-ios-emulators-virtual-ps2-world/"><u>2024 Approved Leading iOS Emulators Virtual PS2 World</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-steps-for-modifying-your-social-network-cover-pictorial/"><u>2024 Approved Steps for Modifying Your Social Network Cover Pictorial</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/easy-online-gaana-audio-extraction-convert-songs-to-mp3flacwma-with-quality-downloader-app/"><u>Easy Online Gaana Audio Extraction: Convert Songs to MP3/FLAC/WMA with Quality Downloader App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-the-best-10-uses-for-powertoys/"><u>Enhance Your Experience: The Best 10 Uses for PowerToys</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-out-of-your-network-update-your-usb-30-nic-drivers-for-windows-systems/"><u>Get the Most Out of Your Network: Update Your USB 3.0 NIC Drivers for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-for-windows-11-insights-from-update-x4-release/"><u>New Horizons for Windows 11: Insights From Update X.4 Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-crash-issues-for-darkest-dungeon-2-on-personal-computers/"><u>Overcoming Game Crash Issues for Darkest Dungeon 2 on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-cure-iomap64-bsod-errors/"><u>Step-by-Step Approach to Cure IOMap64 BSOD Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-the-application-couldnt-start-code-0xc000003e-in-win11/"><u>Steps to Resolve The Application Couldn't Start: Code 0XC000003E in Win11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-770-router-a-balance-between-value-and-wireless-speed/"><u>The Netgear Orbi 770 Router - A Balance Between Value and Wireless Speed?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram-for-2024/"><u>Transform Your Footage Effective Strategies for Cropping & Export on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-with-top-windows-11-sketchers/"><u>Unleash Creativity with Top Windows 11 Sketchers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-complexities-of-windows-odbc-integration/"><u>Unraveling the Complexities of Windows ODBC Integration</u></a></li>
+<li><a href="https://discover-community.techidaily.com/unveiling-system-faults-detecting-hardware-failures-with-yl-software-techniques/"><u>Unveiling System Faults: Detecting Hardware Failures with YL Software Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-first-footsteps-in-the-fiscal-world-of-filming-for-2024/"><u>Your First Footsteps in the Fiscal World of Filming for 2024</u></a></li>
+</ul></div>
+

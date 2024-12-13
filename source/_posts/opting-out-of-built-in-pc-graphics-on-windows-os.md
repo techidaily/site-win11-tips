@@ -1,7 +1,7 @@
 ---
 title: Opting Out of Built-In PC Graphics on Windows OS
-date: 2024-08-23T07:06:41.497Z
-updated: 2024-08-24T07:06:41.497Z
+date: 2024-12-06T23:53:48.673Z
+updated: 2024-12-12T22:17:58.020Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,29 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
 
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
 
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
@@ -42,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Turn Off Integrated Graphics?
 
  While dedicated GPUs tend to be more powerful than iGPUs and can boost your computer's graphical performance, that is not always the case.
@@ -58,15 +71,14 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Your Dedicated Graphics Card When You Need It
 
  All in all, you're better off using your dedicated graphics card, especially if you are into graphically demanding applications. But if your computer doesn't have a dedicated GPU, disabling integrated graphics is not an option. The decision depends on what you're ultimately trying to achieve on your Windows computer.
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -74,3 +86,23 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-explore-multimedia-craftsmanship-with-xp-movie-maker/"><u>[New] 2024 Approved Explore Multimedia Craftsmanship with XP Movie Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-onestream-playbook-for-live-streamers/"><u>[New] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences-for-2024/"><u>[Updated] The Fundamentals of Crafting High-Quality Videos for Instagram Audiences for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enchant-your-audience-with-these-20-marketing-phrases/"><u>2024 Approved Enchant Your Audience with These 20 Marketing Phrases</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-inshot-transition-methods-explained/"><u>Advanced Inshot Transition Methods Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-11-proplus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11 Pro+ Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beyond-clickbait-whats-real-about-instagram-reels-in-2024/"><u>Beyond Clickbait What's Real About Instagram Reels, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/building-a-powerful-twitter-marketing-strategy-for-2024/"><u>Building a Powerful Twitter Marketing Strategy for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-updates-addressing-error-codes-0xc1900101/"><u>Handling Updates: Addressing Error Codes 0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-internal-network-issues-on-win-10plus/"><u>How to Overcome Internal Network Issues on WIN 10+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-day-the-top-5-productivity-apps-for-windows-11/"><u>Jumpstart Your Day: The Top 5 Productivity Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-the-top-10-essential-store-titles/"><u>Mastering Microsoft: The Top 10 Essential Store Titles</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-safeguard-hold-in-windows-11-and-how-do-you-disable-it/"><u>What Is the Safeguard Hold in Windows 11 and How Do You Disable It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-error-code-x-resolving-0x80072746-mail-issue/"><u>Windows Error Code X: Resolving 0X80072746 Mail Issue</u></a></li>
+</ul></div>
+

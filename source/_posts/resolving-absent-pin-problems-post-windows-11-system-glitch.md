@@ -1,7 +1,7 @@
 ---
 title: Resolving Absent PIN Problems Post-Windows 11 System Glitch
-date: 2024-08-23T07:04:32.320Z
-updated: 2024-08-24T07:04:32.320Z
+date: 2024-12-09T00:13:56.748Z
+updated: 2024-12-13T01:51:06.293Z
 tags:
   - windows10
   - windows11
@@ -32,8 +32,17 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 2. Next, click on**Sign-in options** to view the available options.  
 ![sign in options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-options-windows-11.jpg)
 3. Click the**Key** icon to select the**password sign-in** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![sign in options windows 11 password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-options-windows-11-password.jpg)
 4. Type in your password and press**Enter** to log in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you can log in to your account, follow these steps to change your PIN:
 
@@ -66,17 +75,27 @@ To reset your user account password:
 3. Next, click on the**Reset Password** option. This will open the reset password dialog.  
 ![reset password lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-password-lock-screen.jpg)
 4. Next, you need to answer the three security questions and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. When successful, Windows will ask you to enter your new password. So, enter your new password and confirm the same. Press enter to save the password.
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the NGC Folder
 
 ![delete ngc folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-ngc-folder-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the issue persists when signing in with a PIN, check the NGC folder for permission issues. The NGC folder is where Windows stores your login information. If the folder is corrupted or lacks sufficient permission, it can result in the Something happened and your PIN isn't available error.
 
  To fix the corrupted folder, you'll need to delete the folder and let Windows recreate it. Here's how to delete the NGC folder to add a new PIN to your account.
@@ -93,12 +112,13 @@ To delete your NGC folder:
 
  If you see the**You need permission to perform this action** prompt, you'll need to[take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall Windows Updates
 
 ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
@@ -114,17 +134,11 @@ To delete your NGC folder:
 2. Next, press and hold the**Shift** key and click on**Restart** . Click on**Restart anyway** if a confirmation prompt appears. Make sure to hold the Shift key until the PC starts to restart.  
 ![choose an option windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-1.jpg)
 3. In the**System Recovery** section, click on**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
 4. Next, select**Advanced options** .
 5. Click on**System Restore.**  
 ![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Next, your system will restart in the**System Restore** environment.  
 ![system restore windows recovery environment 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-windows-recovery-environment-1.jpg)
 2. Click on your user account name under**Choose an account to continue.**
@@ -132,16 +146,14 @@ To delete your NGC folder:
 4. In the**System Restore** dialog, select the most recent restore point and click**Next** .
 5. Follow on-screen instructions to complete the system restore. Your PC will restart with a success or failure message. Once the restore is complete, try to log in with the same PIN to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 5\. Perform a Startup Repair
 
 ![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Startup repair is a built-in troubleshooting tool on Windows to fix issues with files required to boot the OS. You can run Startup Repair from the Windows Recovery Environment. Here's how to do it.
 
 1. In the sign-in screen, click on the**Power** icon. Then press and hold the**Shift** key and click on**Restart** . Hold the key until the PC restarts.
@@ -151,6 +163,10 @@ To delete your NGC folder:
 ## 6\. Perform a System Reset
 
 ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A system reset helps you reset your computer to its factory default removing all the system settings and configuration, including login credentials.
 
@@ -165,10 +181,6 @@ To perform a system reset:
 
  If you are unable to sign in, follow this guide to[factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Restore the PIN Sign-in Functionality on Windows 11
 
  Windows may refuse to accept your sign-in PIN if the folder containing the information is corrupted or due to system file issues. Before trying any advanced troubleshooting steps, try to use an alternate login method to sign in and remove and change your PIN. If not, you can use system repair to fix startup issues or restore your PC using a restore point.
@@ -179,8 +191,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +198,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ocating-your-youtube-comments-desktop-and-mobile-guide/"><u>[New] Locating Your YouTube Comments Desktop & Mobile Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-foremost-editing-tools-for-device-developers/"><u>[Updated] 2024 Approved Foremost Editing Tools for Device Developers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversione-gratuita-da-mp3-a-oggvorbis-online-con-movavi/"><u>Conversione Gratuita Da MP3 a OggVorbis Online Con Movavi</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-ultimate-collection-7-prime-platforms-showcasing-new-film-teasers/"><u>Discover the Ultimate Collection: 7 Prime Platforms Showcasing New Film Teasers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-convert-audio-to-text-on-your-pc-with-whisper/"><u>Effortlessly Convert Audio to Text on Your PC With Whisper</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ghostly-gag-gallery/"><u>Ghostly Gag Gallery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer/"><u>Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-windows-ssd-harness-power-through-fresh-techniques/"><u>Optimizing Your Window's SSD: Harness Power Through Fresh Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-with-winoss-fix-it-features/"><u>Overcoming Obstacles with WinOS's Fix-It Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cting-youtube-visibility-a-step-by-step-featured-channels-guide/"><u>Perfecting YouTube Visibility A Step-by-Step Featured Channels Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-device-discovery-capability-with-synapse-in-win-11/"><u>Regaining Device Discovery Capability with Synapse in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-assistance-app-crashes/"><u>Resolving Windows 11 Assistance App Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-undetected-toolbar-for-windows-11-users/"><u>Unlocking the Undetected Toolbar for Windows 11 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving PS4 Joystick Disconnections in Windows Environment
-date: 2024-08-23T07:02:52.174Z
-updated: 2024-08-24T07:02:52.174Z
+date: 2024-12-09T01:24:01.696Z
+updated: 2024-12-12T20:41:48.084Z
 tags:
   - windows10
   - windows11
@@ -26,18 +26,23 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Rule Out Controller's Range Issues
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Issues on the OS Side
 
@@ -47,16 +52,21 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend [running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Hard Reset Your Controller
 
  It could also be that your controller has suffered a temporary glitch, and you can fix it with a hard reset. To do that, grab a pointy and thin object, such as a straightened paper clip or toothpick, and insert it into the small hole at the back of your DS4 controller (it's below the Left Trigger button). Push it until you press the **Reset** button, hold it for about five seconds, and then let go.
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update Your Controller's Drivers
 
@@ -65,34 +75,24 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 ![the Wireless Controller in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wireless-controller-in-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you update the driver, check if you can use the controller properly without it disconnecting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 6\. Ensure DS4Windows Is Properly Installed
 
  Many Windows users use the [DS4Windows](https://ds4-windows.com/) app to connect their controller to a computer. But if it has glitched out, you should try updating it and see if that resolves the issue. To do that, go to the folder where you installed DS4Windows and double-click on the **DS4Updater.exe** file.
 
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Use Your PlayStation 4 Controller on Windows Without Interruption
 
  When your PS4 controller keeps disconnecting on Windows, it can ruin your gaming experience. Getting rid of the issue requires troubleshooting it from both the software and hardware side of things. And once you do, you will enjoy using the DS4 on your PC uninterrupted.
 
  If you want to get rid of this annoying problem, we're going to show you how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +100,21 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-photography-hacks-upside-down-and-sideways-shots/"><u>[Updated] IPhone Photography Hacks Upside-Down & Sideways Shots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activating-slack-alerts-on-apple-watch-a-complete-guide-zdnet/"><u>Activating Slack Alerts on Apple Watch - A Complete Guide | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-instant-remote-desktop-in-win-11/"><u>Enabling Instant Remote Desktop in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanding-macos-functionality-using-windows-apps/"><u>Expanding macOS Functionality Using Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-regaining-default-windows-options/"><u>Fixes for Regaining Default Windows Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-12-proplus-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 12 Pro+ 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi A2+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>In 2024, Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y78t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y78t Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/inside-the-virtual-reality-screen-revolution-for-2024/"><u>Inside the Virtual Reality Screen Revolution for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-high-privilege-windows-session/"><u>Navigate to High-Privilege Windows Session</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-crackdown-on-unreliable-information-spreaders/"><u>Social Media Crackdown on Unreliable Information Spreaders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-pc-energy-audit-usage-inspection-and-analysis/"><u>Windows PC Energy Audit: Usage Inspection & Analysis</u></a></li>
+</ul></div>
+

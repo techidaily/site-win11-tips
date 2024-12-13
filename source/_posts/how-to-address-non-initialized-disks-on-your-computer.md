@@ -1,7 +1,7 @@
 ---
 title: How to Address Non-Initialized Disks on Your Computer
-date: 2024-11-30T00:46:55.489Z
-updated: 2024-12-06T22:31:18.727Z
+date: 2024-12-07T21:58:32.065Z
+updated: 2024-12-12T19:30:40.072Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for Connection Issues
 
 ![USB cable plugged into a laptop's USB port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-and-usb-cable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check for possible connection issues between the hard drive and your computer before investigating any other causes. To start, unplug and re-plug the hard drive into your laptop to eliminate any temporary connection problems.
 
@@ -43,21 +35,17 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  If none of the above temporary issues appear to be the culprit, look for possible port issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Ensure Your USB Port Isn't Faulty
 
 ![Close-up picture of a Laptop’s USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pexels-castorly-stock-4065705.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A faulty USB port can also prevent your system from detecting the hard drive, resulting in the issue under discussion. Hence, it's imperative to ensure that the USB port is functioning correctly. To confirm that, just swap ports, i.e., plug the external drive into a different port than where it was connected before.
 
  If the external drive starts working immediately after switching ports, the port it was connected to earlier is either incompatible with your drive or has a problem. Thus, you should either keep using the other USB port or apply the fixes covered in our guide on [how to fix USB port issues on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) to make the faulty port work again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Scan and Resolve Hard Drive Issues
 
@@ -71,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![Scanning the Bad Disk Sectors Using the CHKDSK Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scanning-the-bad-disk-sectors-using-the-chkdsk-command-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ensure you enter the correct drive letter for the scan to work.
 
 ## 4\. Update the Disk Drive Drivers
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 2. Expand the **Disk drives** category.
 3. Right-click on your desired drive and click **Update driver**.  
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
 
@@ -99,6 +87,14 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![Click on Rebuild MBR in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-rebuild-mbr-in-the-minitool-partition-wizard.jpg)
 6. Right-click the disk again and select **Create**. Then, click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Format the Disk and Create a New Partition
 
  If the drive that fails to initialize is empty or contains no essential data, you should format it. Then, you can create a new partition by converting its format to GPT and assigning the new volume. It is the most recommended method for resolving the issue and has worked for many users. To accomplish that, follow these steps:
@@ -110,6 +106,11 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 5. Once the disk is selected, type **"clean"** and press **Enter** to format it.  
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
@@ -127,27 +128,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  If you want to resolve this issue and successfully load the data, here are a few fixes you should try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhance-visuals-with-better-obs-settings-for-2024/"><u>[New] Enhance Visuals with Better OBS Settings for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>2024 Approved Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/avoidance-tactics-no-more-recommended-podcasts-on-spotify-for-2024/"><u>Avoidance Tactics No More Recommended Podcasts on Spotify for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/begin-your-podcast-journey-with-ease-a-complete-how-to-guide/"><u>Begin Your Podcast Journey with Ease - A Complete How-To Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/customize-audio-in-win11-syncing-songs-with-videos/"><u>Customize Audio in Win11 Syncing Songs with Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-change-or-remove-your-personal-identification-number-for-windows-10-logins/"><u>How to Change or Remove Your Personal Identification Number for Windows 10 Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-spotlight-wallpaper-icon-from-windows-11s-desktop/"><u>How to Remove the Spotlight Wallpaper Icon From Windows 11’S Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-joke-junction-ultimate-free-comic-templates/"><u>In 2024, Joke Junction Ultimate Free Comic Templates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamline-video-calls-using-google-hangouts-efficiently/"><u>In 2024, Streamline Video Calls Using Google Hangouts Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-glitch-how-to-overcome-server-slips-in-ms-store/"><u>Mending the Glitch: How to Overcome Server Slips in MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-wsl-upgrades-in-new-windows-environments/"><u>Navigating WSL Upgrades in New Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seven-simple-solutions-for-tackling-windows-based-obs-failures/"><u>Seven Simple Solutions for Tackling Windows-Based OBS Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sound-and-sight-synergy-on-windows-an-efficient-drivers-upgrade-guide/"><u>Sound and Sight Synergy on Windows: An Efficient Drivers Upgrade Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/eginners-blueprint-to-free-youtube-audio-to-text/"><u>The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-untapped-potential-within-windows-11s-offerings/"><u>The Untapped Potential Within Windows 11'S Offerings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-over-windows-woes-unraveling-and-fixed-11-issues/"><u>Win Over Windows Woes - Unraveling & Fixed 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-search-removing-visuals/"><u>Windows Search: Removing Visuals</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +135,19 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-a-personalized-auditory-experience-on-ios/"><u>[Updated] 2024 Approved Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-guide-resolving-the-0x80040287-playback-issue-on-your-dvd-drive/"><u>Complete Guide: Resolving the 0X80040287 Playback Issue on Your DVD Drive</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/"><u>Decreasing Audio Intensity Protocol</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tips-for-creating-videos-with-windows-8-moviemaker/"><u>Essential Tips for Creating Videos with Windows 8 MovieMaker</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-taskmanager-top-notch-in-windows/"><u>Keeping TaskManager Top-Notch in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-implementing-a-text-bar-with-an-icon-in-windows-11/"><u>Re-Implementing a Text Bar with an Icon in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-with-arrow-keys-post-fixes/"><u>Smooth Sailing with Arrow Keys Post-Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-steam-functionality-fixing-errors-in-win11/"><u>Streamlining Steam Functionality: Fixing Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-strategies-to-unstall-verification-errors-in-windows-setup/"><u>Top 9 Strategies to Unstall Verification Errors in Windows Setup</u></a></li>
+</ul></div>
+

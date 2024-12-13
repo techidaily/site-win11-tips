@@ -1,7 +1,7 @@
 ---
 title: Utilizing Camera & Mic Under Windows 11 Edge Guard
-date: 2024-12-02T00:29:11.915Z
-updated: 2024-12-06T18:14:09.025Z
+date: 2024-12-09T21:26:46.364Z
+updated: 2024-12-13T02:21:58.575Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable the Camera and Microphone via Windows Settings
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 7. If the UAC prompt appears, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you perform the above action, restart your computer for the changes to take effect. Upon restarting, all your camera and microphone settings should now be applied to the Application Guard for Edge.
 
  In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable the Camera and Microphone Using Registry Editor
 
@@ -68,17 +72,13 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 ![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
 6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
 8. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Camera and Microphone in Application Guard Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-camera-and-microphone-in-application-guard-using-registry-editor.jpg)
 9. Then click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
@@ -86,7 +86,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
  If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Your Camera and Mic Is Now Supported in Edge Application Guard
@@ -108,17 +108,20 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-perfecting-text-in-after-effects-the-best-10/"><u>[New] Perfecting Text in After Effects The Best 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieving-professional-results-radial-effects-in-ps/"><u>[Updated] Achieving Professional Results Radial Effects in PS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-hidden-process-of-downloading-fb-content/"><u>[Updated] Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-windows-11-with-android-a-dual-screen-journey-begins-here/"><u>Bridging Windows 11 with Android: A Dual-Screen Journey Begins Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/brighten-grayed-extend-volume-functionality-windows/"><u>Brighten Grayed Extend Volume Functionality, Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/brightening-dull-screen-on-pcs-boot-menu/"><u>Brightening Dull Screen on PC's BOOT Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now</u></a></li>
-<li><a href="https://video-capture.techidaily.com/realtime-recording-arena/"><u>RealTime Recording Arena</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-your-cyberpunk-2077-windows-game-crash-problem-guide/"><u>Solving Your Cyberpunk 2077 Windows Game Crash Problem - Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-ps4-pad-problems-quick-fixes-for-controller-malfunctions/"><u>Tackling PS4 Pad Problems: Quick Fixes for Controller Malfunctions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-in-2024/"><u>Updated What Is AI API, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[New] In 2024, How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultra-hd-marvel-hp-dreamcolor-z32-x-analysis/"><u>[Updated] In 2024, Ultra HD Marvel HP DreamColor Z32 X Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>2024 Approved Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-unrecognized-hard-drive-problems-windows-11-edition/"><u>Handling Unrecognized Hard Drive Problems, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-occupied-files-issue-in-windows-11-systems/"><u>How to Address Occupied Files Issue in Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-where-to-find/"><u>In 2024, Where to Find</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-windows-talk-the-freedomgpt-way/"><u>Liberate Windows Talk: The FreedomGPT Way</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-105-classic-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia 105 Classic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-critical-update-failure-0xc004f050-in-windows/"><u>Overcoming Critical Update Failure: 0XC004F050 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenating-a-stagnant-windows-11-search-feature/"><u>Rejuvenating a Stagnant Windows 11 Search Feature</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-videos-ultimate-mp4-repair-software-solutions/"><u>Revive Your Videos: Ultimate MP4 Repair Software Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-a-non-functioning-webcam-in-google-meet-calls/"><u>Step-by-Step Fix for a Non-Functioning Webcam in Google Meet Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-windows-next-discover-new-additions-in-update-wxx/"><u>Taking Windows Next: Discover New Additions in Update W.x.x</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-extend-your-pin-count-on-w11-ui/"><u>Techniques to Extend Your Pin Count on W11 UI</u></a></li>
 </ul></div>
 

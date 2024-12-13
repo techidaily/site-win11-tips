@@ -1,7 +1,7 @@
 ---
 title: How to Fix World of Warcraft’s Fatal Exception Error 132 in Windows 11/11
-date: 2024-12-05T01:43:18.224Z
-updated: 2024-12-06T16:29:08.218Z
+date: 2024-12-11T23:20:23.020Z
+updated: 2024-12-12T20:16:09.965Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Game DVR for Recording Clips
@@ -38,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
@@ -51,17 +59,13 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -78,17 +82,13 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
@@ -109,24 +109,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/20-windows-command-prompt-cmd-commands-you-must-know/"><u>20 Windows Command Prompt (CMD) Commands You Must Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-not-stopping-generic-audio-issue/"><u>Addressing 'Windows Not Stopping Generic Audio' Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-securing-winnet-for-peace-of-mind/"><u>Avoid Disruptions: Securing WinNet for Peace of Mind</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-premature-edge-activation-in-w11/"><u>Avoid Premature Edge Activation in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blast-through-lag-winning-strategies-to-speed-up-bf2/"><u>Blast Through Lag: Winning Strategies to Speed Up BF2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-tuning-amd-radeon-settings/"><u>Boost Your Gaming: Tuning AMD Radeon Settings</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortless-csv-management-in-emeditor-the-ultimate-text-editor-experience/"><u>Effortless CSV Management in EmEditor, the Ultimate Text Editor Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055112-9781952244933-i-will-not-be-silent/"><u>I Will Not Be Silent | Free Book</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-standing-with-these-tactics/"><u>In 2024, Elevate Your Channel's Standing with These Tactics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Huawei P60</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/sierras-best-the-top-5-choices-for-mac-video-editing/"><u>Sierra's Best The Top 5 Choices for Mac Video Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-self-sustained-youtube-moguls-handbook-no-ads-only-gains-for-2024/"><u>The Self-Sustained YouTube Mogul’s Handbook No Ads, Only Gains for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-alienware-device-driver-woes-for-windows-users/"><u>Troubleshooting and Solving Alienware Device Driver Woes for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-android-quick-settings-how-to-walkthrough/"><u>Unveiling the Secrets of Android Quick Settings – How-To Walkthrough</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +116,27 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-financial-free-editing-the-ultimate-guide-to-fcp/"><u>[New] Financial-Free Editing The Ultimate Guide to FCP</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimize-workflow-effective-methods-of-capturing-macs-screen-via-shortcut-keys/"><u>[New] Optimize Workflow Effective Methods of Capturing Mac’s Screen via Shortcut Keys</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-proven-steps-to-conquer-hdr-images-in-ps/"><u>[Updated] Proven Steps to Conquer HDR Images in PS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[Updated] Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-filmoras-most-attractive-edits/"><u>[Updated] Unveiling Filmora's Most Attractive Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanded-functionality-how-to-tailor-win-11s-menu-bar/"><u>Expanded Functionality: How to Tailor Win 11'S Menu Bar</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fuse-hp-envy-5530-drivers-with-your-win10-system/"><u>Fuse HP Envy 5530 Drivers with Your Win10 System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew-for-2024/"><u>Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-controller-to-an-android-phone-or-tablet/"><u>How to Connect a Controller to an Android Phone or Tablet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-malfunctioning-mouse-context-menus/"><u>Mastery Over Malfunctioning Mouse Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-issues-with-windows-virtual-disks-and-services/"><u>Mitigating Issues with Windows' Virtual Disks and Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-assessing-folder-capacity-in-windows/"><u>PowerShell Command for Assessing Folder Capacity in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-spontaneous-search-on-win11-desktop/"><u>Preventing Spontaneous Search on Win11 Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-for-windows-screensaver/"><u>Restoring Default Settings for Window's Screensaver</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/supported-video-and-audio-formats-in-windows-10-a-comprehensive-guide/"><u>Supported Video and Audio Formats in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-the-closer-to-ideal-device-for-artists/"><u>Surface Studio 2 Review: The Closer to Ideal Device for Artists?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-device-driver-absence-in-windows-instance/"><u>Troubleshooting Device Driver Absence in Windows Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-how-to-access-windows-11s-system-tools/"><u>Unveiling the Secrets: How to Access Windows 11'S System Tools</u></a></li>
+</ul></div>
+

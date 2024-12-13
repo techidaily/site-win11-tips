@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 S Mode: Functionality and Purpose?"
-date: 2024-08-23T07:06:12.706Z
-updated: 2024-08-24T07:06:12.706Z
+date: 2024-12-11T18:31:13.579Z
+updated: 2024-12-12T21:15:40.122Z
 tags:
   - windows10
   - windows11
@@ -26,13 +26,14 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
  S Mode is a feature that Microsoft created to give users a secure, smooth experience with the Windows operating system. When you use Windows 11 in S mode, your computer only gets access to basic resources and drivers. More notably, S mode freezes all other apps that hog your RAM and processes that may task your CPU. These changes in your user experience of Windows S mode will sound very familiar if you have used a Chromebook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Use Your PC in S Mode?
 
  It depends on your security and privacy goals. Here are four reasons you may consider using a PC in Windows S Mode:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 1\. You Want to Ensure Your Child’s Safety
 
  S mode restricts the applications that can run on the computer to Microsoft Store applications only. So, your child cannot download software from third-party sources. Also, they can only browse the web on Microsoft Edge. The Windows native browser has additional online security to prevent them from visiting unsafe websites. However, Edge does not exactly block access to all sites. So, you should consider other [parental control options for PC](https://www.makeuseof.com/tag/best-parental-control-apps-windows/).
@@ -43,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
 ![photo of person using a pc in tab mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-pc-in-tab-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Window S mode prevents users from installing third-party apps. This restriction means your chances of installing malware on your computer reduce significantly. So, if you are a businessperson who routinely handles documents containing company secrets, you may use your personal computer in S mode.
 
  Remember, you cannot use in-house or proprietary software in S-mode. So, if your company developed an app for its business, running S mode will prevent you from using it. Using your Windows 11 Home in S mode is only helpful pending when you get a company laptop running Windows Pro or Enterprise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You Want to Do a Digital Detox
 
@@ -54,14 +63,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
  However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. You Want the Chromebook Experience
 
  S mode gives you a similar experience to what a [Chromebook](https://www.makeuseof.com/tag/what-is-a-chromebook/) gives. So, you can get a high-end PC and try S mode for several days or weeks. This way, you can decide if you want all that power or if the basics work for you. More importantly, you retain the option to leave anytime you want—something you don’t get in Chromebooks.
@@ -70,14 +74,8 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
 ![photo of a windows PC booting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-booting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  If you have been using a Windows computer for a while, you’ll know notice how booting takes longer as you install more apps. This lag is because some [autorun apps](https://www.makeuseof.com/tag/manage-windows-startup-programs-autoruns/) start working in the background once you turn on your computer. Third-party software and malware, especially, cause this lag. S mode lets you use apps optimized for Windows and reduces your risks of getting malware that slows down your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are the Drawbacks of Using S Mode?
 
  Your computer works the way Microsoft intended for it to work: safely and efficiently. However, there are drawbacks:
@@ -90,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
  S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. The Windows Registry Is Off-limits
 
  Like the command line and code editors, the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is also off-limits to users in S mode. The registry is a powerful database of configuration settings that lets power users customize Windows to their taste—beyond the regular settings. However, tinkering with the Windows registry can harm your PC, something the clamshell of S mode is designed to prevent.
@@ -104,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
  You can’t activate S mode; it comes pre-installed or shipped with the OS. So, when you get a new laptop, you’ll have the option to use it in S mode when you’re setting it up for the first time. Some computers, like the Surface, come shipped with S mode only, and you don’t get that option to try S mode first.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Leave S Mode in Windows 11
 
  Before you begin, note that leaving S mode is one-way. You can’t leave and come back.
@@ -117,15 +113,14 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 3. Follow the on-screen instructions
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Window S Mode: Fast, Secure, but Limiting
 
  S mode takes the responsibility of maintaining your cybersecurity off you. You also get a snappy performance from your hardware. This nature makes S mode better suited for people who don’t want to tinker with technology. If you can’t decide still, the good news is you can buy a regular PC and try out S mode. The snag is you can’t go back once you decide to take charge.
 
  If you're a Windows user, you should get the complete picture before you get a computer in Windows 11 S mode. So, let's explore what it is and if it's for you.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +128,21 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-altering-numbers-on-tiktok/"><u>[New] Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-6-techniques-for-capturing-your-minecraft-adventures-for-2024/"><u>[New] Top 6 Techniques for Capturing Your Minecraft Adventures for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diminuendo-film-narrative/"><u>Diminuendo Film Narrative</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-hp-officejet-3830-drivers-on-windows-step-by-step-guide/"><u>Download the HP OfficeJet 3830 Drivers on Windows – Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-lava-storm-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Lava Storm 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-winscripterrors-quick-windows-script-remedies/"><u>Overcome WinScriptErrors: Quick Windows Script Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-gpu-glitches-for-ow2-on-windows-systems/"><u>Overcoming GPU Glitches for OW2 on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-sluggish-safari-speeding-up-your-iphones-web-browser-made-easy/"><u>Quick Fixes for Sluggish Safari: Speeding Up Your iPhone's Web Browser Made Easy</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-gtx-1660-driver-enhancement-master-the-fast-and-easy-update-process/"><u>Seamless GTX 1660 Driver Enhancement: Master the Fast and Easy Update Process</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-win11s-system32/"><u>Unlocking the Secrets of Win11's System32</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-realtek-device-driver-for-windows-10-download-here/"><u>Update to Newest Realtek Device Driver for Windows 10 – Download Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-repair-mastery-5-easy-methods/"><u>Windows Repair Mastery: 5 Easy Methods</u></a></li>
+</ul></div>
+

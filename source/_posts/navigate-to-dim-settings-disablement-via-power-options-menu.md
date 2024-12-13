@@ -1,7 +1,7 @@
 ---
 title: Navigate to Dim Settings Disablement Via Power Options Menu
-date: 2024-12-04T17:06:08.690Z
-updated: 2024-12-06T23:51:45.274Z
+date: 2024-12-09T00:24:15.962Z
+updated: 2024-12-13T01:54:12.603Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim Display After” Option Using PowerShell
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
  First, launch Windows PowerShell. There are many [ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/), but the easiest method is to press **Win + S** to open Windows Search. Then, enter **powershell** in the search box and click on **Windows PowerShell** when it appears in the search results.
 
 ![windows powershell in the windows search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In PowerShell, enter the following command to show the **Dim Display after** option in the Power Options menu:
 
@@ -50,7 +46,7 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
@@ -69,18 +65,22 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
@@ -102,20 +102,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-follower-shedding-insight/"><u>[New] In 2024, Instagram Follower Shedding Insight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] In 2024, The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-innovation-in-iphone-filmmaking-virtual-worlds/"><u>[Updated] In 2024, Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-reviving-a-dying-twitch-stream-in-seconds-for-2024/"><u>[Updated] Reviving a Dying Twitch Stream in Seconds for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-to-outstanding-online-identity-creation-for-2024/"><u>[Updated] The Secret Sauce to Outstanding Online Identity Creation for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>2024 Approved Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-loading-barriers-on-league-of-legends/"><u>Breaking Through Loading Barriers on League of Legends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-the-grayed-out-memory-barrier-in-win11/"><u>Breaking Through the Grayed-Out Memory Barrier in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breakthrough-techniques-for-selecting-text-in-windows-pdfs/"><u>Breakthrough Techniques for Selecting Text in Windows PDFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-old-games-back-to-life-with-retroarch-shaders/"><u>Bringing Old Games Back to Life with RetroArch Shaders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-unyielding-x80049dd3-error-for-better-typing/"><u>Bypassing the Unyielding X80049DD3 Error for Better Typing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-verified-app-requirement-errors-in-windows/"><u>Bypassing Verified App Requirement Errors in Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevating-your-skills-with-our-full-periscope-guide-for-2024/"><u>Elevating Your Skills with Our Full Periscope Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-the-cannot-find-msvcrtdll-error-practical-strategies-and-fixes/"><u>Fix the 'Cannot Find msvcrt.dll' Error: Practical Strategies and Fixes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-slow-and-steady-wins-the-race-top-10-video-editing-software/"><u>Updated Slow and Steady Wins the Race Top 10 Video Editing Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-comparing-instagrams-latest-features-reels-vs-stories/"><u>[New] In 2024, Comparing Instagram's Latest Features Reels Vs Stories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-of-engaging-your-viewers-from-the-start/"><u>[Updated] Mastering the Craft of Engaging Your Viewers From The Start</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6s-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6s Plus in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-click-no-open-folders/"><u>Eliminating Windows 10/11 Click No-Open Folders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-potential-of-chatgpt-for-remote-freelancing-success-with-these-cups/"><u>Harness the Potential of ChatGPT for Remote Freelancing Success with These Cups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eliminate-frustrating-windows-bsod-instances/"><u>How to Eliminate Frustrating Windows BSOD Instances</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-v29-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo V29 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-disarm-windows-security-alarms/"><u>Quick Fixes to Disarm Windows Security Alarms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-and-validating-windows-11-with-activation-methods/"><u>Securing and Validating Windows 11 with Activation Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-file-save-location-mistakes-in-win-1011/"><u>Solving File Save Location Mistakes in Win 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-portable-amplifier-showcases-impressive-clarity-and-range-for-every-type-of-song-a-review-by-zdnet/"><u>Unbeatable Portable Amplifier Showcases Impressive Clarity & Range for Every Type of Song - A Review by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-productivity-with-these-key-win-11-widgets/"><u>Unleash the Power of Productivity with These Key Win 11 Widgets</u></a></li>
 </ul></div>
 

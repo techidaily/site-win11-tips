@@ -1,7 +1,7 @@
 ---
 title: Strategies to Work Around Microsoft Defender Exclusivity Issue
-date: 2024-12-03T19:56:51.061Z
-updated: 2024-12-06T17:32:44.262Z
+date: 2024-12-12T00:20:45.816Z
+updated: 2024-12-13T01:37:10.181Z
 tags:
   - windows10
   - windows11
@@ -41,17 +41,13 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
- After disabling Tamper Protection, see if your third-party antivirus works.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After disabling Tamper Protection, see if your third-party antivirus works.
 
 ### 2\. Turn Off Microsoft Defender
 
@@ -68,18 +64,19 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 3. Next, click on **Windows Security** and open **Virus & threat protection**. This will take you to the Windows Security page.  
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
-![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
-5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
+5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
@@ -87,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -99,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -108,27 +109,6 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
  So how do you fix this? Let's check it out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-create-captivating-yt-thumbnails-fast/"><u>[New] 2024 Approved Create Captivating YT Thumbnails Fast</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-youtube-and-brands-united-strategic-collaborative-titles/"><u>[New] 2024 Approved YouTube & Brands United Strategic Collaborative Titles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-guide-to-the-top-5-windows-snipper-tools/"><u>[Updated] 2024 Approved Essential Guide to The Top 5 Windows Snipper Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-premier-sites-for-tweeting-in-a-post-twitter-era/"><u>[Updated] 2024 Approved Premier Sites for Tweeting in a Post-Twitter Era</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-convert-facebook-audio-to-mp3/"><u>[Updated] Convert Facebook Audio to MP3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eternal-trash-bin-configurations-in-your-windows-1011-dock/"><u>Eternal Trash Bin Configurations in Your Windows 10/11 Dock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x50i-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X50i? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-a-head-start-at-gameplay-with-winning-tactics-fc-style/"><u>Get a Head Start at Gameplay with Winning Tactics, FC Style</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-blaze-2-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Blaze 2 Pro Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-information-on-windows-components-framework-admin-center/"><u>Key Information on Windows' Components Framework Admin Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-next-leap-after-cortana/"><u>Microsoft's Next Leap After Cortana</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nircmd-guide-for-power-users-optimize-win-commands/"><u>NirCmd Guide for Power Users: Optimize Win Commands</u></a></li>
-<li><a href="https://blog-min.techidaily.com/politicas-de-reembolso-detalhadas-da-movavi-entenda-as-regras/"><u>Políticas De Reembolso Detalhadas Da Movavi: Entenda as Regras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-your-non-responsive-windows-digital-scribe/"><u>Reigniting Your Non-Responsive Windows Digital Scribe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-activating-user-defined-file-access-controls-in-win1011/"><u>Steps for Activating User-Defined File Access Controls in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-to-try-connection-bluetooth-misfire/"><u>Swift Solution to 'Try Connection' Bluetooth Misfire</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +116,20 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-top-5-audio-experiences-on-iphones/"><u>[New] Top 5 Audio Experiences on iPhones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-choosing-between-gopro-and-yi-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Between GoPro and Yi for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-high-dynamic-range-potentials-via-luminance/"><u>2024 Approved Exploring High Dynamic Range Potentials via Luminance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-the-fix-for-adobes-frozen-open-on-ws11/"><u>Finding the Fix for Adobe's Frozen Open on WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-net-framework-installation-errors/"><u>Guide to Overcoming .NET Framework Installation Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-drives-needing-initialization-in-pcs/"><u>Overcoming Drives Needing Initialization in PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reasons-to-think-twice-before-purchasing-an-iphone-16-a-look-at-apples-smart-tech-capabilities-insights/"><u>Reasons to Think Twice Before Purchasing an iPhone 16: A Look at Apple's Smart Tech Capabilities - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stress-free-nourishment-introducing-arfs-innovative-automatic-pet-food-dispenser/"><u>Stress-Free Nourishment: Introducing Arf's Innovative Automatic Pet Food Dispenser</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210802992-9788794430043-the-attack-on-the-ferris-wheel/"><u>THE ATTACK ON THE FERRIS WHEEL | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-g54-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola G54 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-xbox-game-passs-error-code-0x800700e9/"><u>Winning the Battle Against Xbox Game Pass’s Error Code: 0X800700E9</u></a></li>
+</ul></div>
+

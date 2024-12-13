@@ -1,7 +1,7 @@
 ---
 title: Steps to Reconnect From EA Errors on Windows Systems
-date: 2024-12-04T00:50:37.586Z
-updated: 2024-12-06T23:34:06.746Z
+date: 2024-12-09T22:57:55.991Z
+updated: 2024-12-13T02:36:44.535Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure EA Servers Are Up and Running
 
  Occasionally, EA servers go down during maintenance or when facing technical problems. As such, before you do any troubleshooting, first ensure that the EA servers are actually up and running. Follow these steps to check that:
@@ -35,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 3. Wait a few seconds and click on the**Server Status** link on the right side of the screen.  
 ![Click on the Server Status Link to Check FIFA 23 Server Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-the-server-status-link-to-check-fifa-23-server-status-on-ea-website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see a**red circle with an arrow pointing downwards** next to the device you're playing the game on, the game servers for that platform are down. If this is the case, wait until the server goes back up, and the issue should resolve itself.
 
  If you see a**green arrow pointing upwards** next to the device you're using, that means the game servers for your platform are operational. Therefore, the problem isn't widespread but specific to you. In that case, proceed to the next step.
 
 ![Check the Server Status of FIFA 23 for All Gaming Platforms on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-server-status-of-fifa-23-for-all-platforms-on-ea-website-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Your Internet Connection
 
@@ -75,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 ![Click on My Ban History From Accounts Menu on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-my-ban-history-from-accounts-menu-on-ea-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the[EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
 
 ![EA Website Showing No Ban History of an Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ea-website-showing-no-ban-history-on-a-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Rule Out Other Issues With Your Account
@@ -100,13 +100,13 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  If none of the above checks resolves the problem, it's time for some Windows-based fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform Some Generic Windows-Based Networking Fixes
 
  Now that we know your internet is fine and your EA account is in good standing, it's time to try some Windows-based fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your DNS
 
@@ -116,15 +116,15 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  We recommend switching to Google DNS (8.8.8.8, 8.8.4.4) because it's more stable and offers faster response times. However, you can choose any DNS server that you prefer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ensure the Time and Date Are Configured Correctly
 
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
 
  If things don't look right, check out[how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Connected to EA's Servers Again
 
@@ -147,21 +147,22 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-mp3-mastery-guide-top-10-video-to-audio-picks-for-2024/"><u>[Updated] MP3 Mastery Guide Top 10 Video-to-Audio Picks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-best-fast-photo-viewer-for-windows-10/"><u>2024 Approved Top Best Fast Photo Viewer for Windows 10?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-signs-its-probably-time-to-factory-reset-your-windows-pc/"><u>4 Signs It's Probably Time to Factory Reset Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-set-up-image-slideshows-in-windows-11-without-installing-extra-software/"><u>7 Ways to Set Up Image Slideshows in Windows 11 Without Installing Extra Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-storage-with-windows-iscsi-initiator/"><u>Accessing Storage with Windows iSCSI Initiator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-with-file-history-backup-on-windows/"><u>Addressing Error with File History Backup on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-issue-dxgierrordevicehunk-on-windows/"><u>Addressing the Hang Issue: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/app-aesthetics-the-hidden-culprits-in-windows-11-performance-drop/"><u>App Aesthetics: The Hidden Culprits in Windows 11 Performance Drop</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/craft-professional-looking-video-invites-with-these-iphone-and-android-apps/"><u>Craft Professional-Looking Video Invites with These iPhone and Android Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719331271081-dual-virus-scanners-think-twice-windows/"><u>Dual Virus Scanners? Think Twice, Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/from-doodles-to-data-how-excel-revolutionizes-the-process-of-turning-handwritten-notes-into-editable-text/"><u>From Doodles to Data: How Excel Revolutionizes the Process of Turning Handwritten Notes Into Editable Text</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a58-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A58 4G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-chatgpt-steer-clear-of-these-6-frequent-writing-blunders/"><u>Master the Art of ChatGPT: Steer Clear of These 6 Frequent Writing Blunders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/security-protocol-evaluation-how-secure-is-chatgpt/"><u>Security Protocol Evaluation: How Secure Is ChatGPT?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-guide/"><u>Tom's Tech Reviews: Comprehensive Computer Component Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-review-of-androids-adobe-lightroom/"><u>[New] Masterclass Review of Android's Adobe Lightroom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-enterprise-sky-saver-guide/"><u>[New] Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-economical-vr-headsets-from-the-east/"><u>[Updated] 2024 Approved Economical VR Headsets From the East</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-towards-excellent-free-photography-choices-for-2024/"><u>[Updated] Navigating Towards Excellent Free Photography Choices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-turning-off-geforce-visual-boost-effects/"><u>Command: Turning Off GeForce Visual Boost Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-5-ways-ai-reinforces-illicit-online-techniques/"><u>Decoding 5 Ways AI Reinforces Illicit Online Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-lost-windows-in-your-taskbar-follow-these-6-recovery-steps-in-win-1011/"><u>Finding Lost Windows in Your Taskbar? Follow These 6 Recovery Steps in Win 10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-computing-with-the-most-advanced-windows-systems/"><u>Leading Edge Computing with the Most Advanced Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-task-manager-from-rearranging-programs/"><u>Prevent Task Manager From Rearranging Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-system-failures-code-0x0000011b-solution/"><u>Preventing System Failures: Code 0X0000011B Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sprinter-mouse-click-techniques-for-speedy-dual-taps/"><u>Sprinter Mouse Click Techniques for Speedy Dual Taps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-crucial-role-of-bsod-in-system-restoration/"><u>The Crucial Role of BSoD in System Restoration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-16-best-free-movie-makers-easy-to-use/"><u>Top 16 Best Free Movie Makers Easy to Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-textual-outputs-with-these-top-pc-apps/"><u>Transform Textual Outputs with These Top PC Apps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unusual-sounds-from-your-pc-discover-solutions-with-yl-computings-expert-advice/"><u>Unusual Sounds From Your PC? Discover Solutions with YL Computing's Expert Advice</u></a></li>
 </ul></div>
 

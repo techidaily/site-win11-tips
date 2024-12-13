@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Tweaking Windows Indexer"
-date: 2024-11-30T20:20:25.504Z
-updated: 2024-12-06T17:16:11.917Z
+date: 2024-12-06T23:51:28.651Z
+updated: 2024-12-12T21:20:56.425Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 4. Then click on the**Indexing Options** menu item.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open Indexing Options From File Explorer
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 2. Type "control.exe srchadmin.dll" in the address bar and hit**Enter** .
 
  This will open up a new window called "Indexing Options". You can use this to find files quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Open Indexing Options Using Taskbar Search
 
@@ -69,10 +65,6 @@ This should open the Indexing Options window for you to use.
 1. Open the Run dialog box (see[how to open the Run dialog box on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "control.exe srchadmin.dll" in the search box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Open Indexing Options via Command Prompt
 
  Command Prompt is a powerful tool on Windows that helps you quickly access various system functions. To open Indexing Options using Command Prompt, follow these steps:
@@ -82,14 +74,10 @@ This should open the Indexing Options window for you to use.
 ![Open Indexing Options Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-command-prompt.jpg)  
 control.exe srchadmin.dll
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Indexing Options With a Desktop Shortcut
@@ -100,6 +88,11 @@ control.exe srchadmin.dll
 2. Then type "control.exe srchadmin.dll" and click**Next** .  
 ![Open Indexing Options With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-with-desktop-shortcut.jpg)
 3. Give your shortcut a name like Indexing Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now click**Finish** to save your changes.
 
  The Indexing Options shortcut will appear on your desktop. To open it, double-click the shortcut icon.
@@ -113,6 +106,14 @@ control.exe srchadmin.dll
 3. Specify a letter or number as a shortcut.  
 ![Open Indexing Options Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-shortcut-key.jpg)
 4. Click**Apply > OK** . You will now have a shortcut key created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Easy Access to the Indexing Options
 
@@ -133,22 +134,19 @@ control.exe srchadmin.dll
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-soundtrack-your-youtube-videos-7-free-audio-selections/"><u>[New] 2024 Approved Soundtrack Your YouTube Videos 7 Free Audio Selections</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-an-introduction-to-effective-image-previews/"><u>[New] An Introduction to Effective Image Previews</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastery-of-live-sharing-youtube-edition/"><u>[New] In 2024, Mastery of Live Sharing YouTube Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-complete-investigation-into-razers-kiyo-webcam/"><u>[Updated] Complete Investigation Into Razer's Kiyo Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-speedy-techniques-for-windows-control-panel/"><u>11 Speedy Techniques for Window's Control Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-phased-out-features-in-current-windows-design/"><u>6 Phased-Out Features in Current Windows Design</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-chromium-installation-in-windows-11/"><u>A Detailed Walkthrough of Chromium Installation in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-restoring-your-windows-11-media-softwares-health/"><u>A Guide to Restoring Your Windows 11 Media Software's Health</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-bilingual-capabilities-using-windows-shortcuts/"><u>Accelerate Your Bilingual Capabilities Using Windows Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activation-procedure-for-windows-photo-viewer-in-win11/"><u>Activation Procedure for Windows Photo Viewer in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-file-history-misconfiguration-in-windows/"><u>Addressing File History Misconfiguration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-pc-with-smooth-directx-downloads-and-upgrades/"><u>Boost Your PC with Smooth DirectX Downloads & Upgrades</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-not-charging-issue-when-device-connected-to-a-windows-7-or-10-computer/"><u>Fixes for 'Not Charging' Issue When Device Connected to a Windows 7 or 10 Computer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-x6-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco X6</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrade-your-browser-chatgpt-experience-top-7-extension-lists/"><u>Upgrade Your Browser ChatGPT Experience: Top 7 Extension Lists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-seamless-instagram-to-mp4-conversion-on-any-operating-system/"><u>[New] 2024 Approved Seamless Instagram to MP4 Conversion on Any Operating System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-your-ig-presence-the-ultimate-tool-list-for-2024/"><u>[New] Enhancing Your IG Presence The Ultimate Tool List for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-successful-patch-obs-full-screen-functionality/"><u>[New] Successful Patch OBS Full Screen Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>[New] Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combating-win32keygen-symptoms-risks-and-elimination-methods/"><u>Combating Win32/Keygen: Symptoms, Risks & Elimination Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-experience-top-5-facebook-revelations-for-2024/"><u>Elevate Your Experience Top 5 Facebook Revelations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-a-step-by-step-solution-for-windows-camera-error-code-0xa00f4292/"><u>Error No More: A Step-by-Step Solution for Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/malware-checker-app-why-is-its-memory-consumption-high/"><u>Malware Checker App: Why Is Its Memory Consumption High?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1723001371708-no-audio-during-your-twitch-stream-heres-how-you-can-fix-the-problem/"><u>No Audio During Your Twitch Stream? Here’s How You Can Fix the Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-start-speech-recognition-on-windows-systems/"><u>Overcoming 'No Start Speech Recognition' On Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-against-non-working-escape-keys-with-easy-fixes/"><u>Win Against Non-Working Escape Keys with Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-7-data-safeguarding-top-7-cryptography-tools-146-chars/"><u>Windows 7 Data Safeguarding: Top 7 Cryptography Tools (146 Chars)</u></a></li>
 </ul></div>
 
