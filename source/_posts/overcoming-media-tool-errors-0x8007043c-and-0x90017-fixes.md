@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Media Tool Errors: 0X8007043C and 0X90017 Fixes"
-date: 2024-08-23T06:59:18.198Z
-updated: 2024-08-24T06:59:18.198Z
+date: 2024-12-20T16:56:05.977Z
+updated: 2024-12-21T16:07:31.238Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ To run Media Creation Tool as administrator:
 ![run media creation tool as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-media-creation-tool-as-administrator.jpg)
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Unblock the Media Creation Tool
 
  Windows can block suspicious executable files from running to protect your computer. However, it can also block genuine files due to false positives.
@@ -43,12 +47,14 @@ To run Media Creation Tool as administrator:
 4. Next, check the**Unblock** option.  
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Any Pending Windows Updates
 
  If the error occurs during an upgrade, ensure you have installed all the latest updates available for your PC. Often Windows updates consist of performance improvements and bug fixes. Install all the updates to see if that helps you resolve any issues interrupting the upgrade process.
@@ -62,8 +68,9 @@ To update your Windows computer:
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  The built-in Windows Update troubleshooter is a great way to fix Windows Update issues on Windows 11\. It will scan the system for issues and try to fix them automatically.
@@ -74,16 +81,20 @@ To run the Windows Update Troubleshooter:
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
 
@@ -107,14 +118,16 @@ To run the DISM and System File Checker Tool:
 DISM.exe /Online /Cleanup-image /Restorehealth
 4. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt.jpg)  
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
  While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to[create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can[download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
@@ -127,21 +140,15 @@ sfc /scannow
 
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
  The 0x8007043C - 0x90017 Media Creation Tool error is often due to an insufficient permission issue. You can unblock the utility in the Properties dialog to run the utility without the error. Only in rare instances, you may need to perform a clean install due to system file corruption.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +157,24 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-learn-to-convert-youtube-videos-on-twitter-downloads/"><u>[Updated] 2024 Approved Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximize-learning-free-tools-for-online-video-texts-for-2024/"><u>[Updated] Maximize Learning Free Tools for Online Video Texts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-finest-10-online-spots-to-download-pristine-photos-for-2024/"><u>[Updated] The Finest 10 Online Spots to Download Pristine Photos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exploring-windows-11-essential-upgrades/"><u>2024 Approved Exploring Windows 11 Essential Upgrades</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-effective-strategies-to-minimize-artificial-intelligence-distortions/"><u>6 Effective Strategies to Minimize Artificial Intelligence Distortions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-login-attempt-wait-time-for-windows-os/"><u>Customizing Login Attempt Wait Time for Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-stranded-alert-on-xbox-in-windows-a-step-by-step-guide/"><u>Fixing 'Stranded' Alert on Xbox in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-windows-pc-always-booting-into-bios/"><u>How to Fix a Windows PC Always Booting Into BIOS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4b-a-flac-trasforma-i-tuoi-file-audio-gratuitamente-online-usando-movavi/"><u>M4B a FLAC: Trasforma I Tuoi File Audio Gratuitamente Online Usando Movavi!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-selections-top-editors-for-professional-content/"><u>Master Selections Top Editors For Professional Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-1s-choice-optimal-sierra-video-apps/"><u>No. 1'S Choice Optimal Sierra Video Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-stale-group-policies-on-windows-machines/"><u>Quick Fixes for Stale Group Policies on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-semaphore-timeout-in-windows-1110/"><u>Quick Guide: Solving Semaphore Timeout in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-failed-download-issue-from-the-microsoft-marketplace/"><u>Resolving Failed Download Issue From the Microsoft Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-optimal-display-performance-on-win1011/"><u>Unlock Optimal Display Performance on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-voice-recorders-quick-access-with-shortcuts-guide/"><u>Windows 11 Voice Recorders: Quick Access with Shortcuts Guide</u></a></li>
+</ul></div>
 

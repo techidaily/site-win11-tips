@@ -1,7 +1,7 @@
 ---
 title: How to Reset and Customize Your Touch Panel's Start Position
-date: 2024-12-05T19:08:16.216Z
-updated: 2024-12-12T21:49:47.399Z
+date: 2024-12-19T00:24:52.820Z
+updated: 2024-12-22T03:34:11.805Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ Let's explore each one.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Tweak Registry Editor to Reset Touch Keyboard Default Open Position
@@ -48,7 +48,7 @@ Let's explore each one.
 6. Then go to its corresponding right pane, where you will find the**OptimizedKeyboardRelativeXPositionOnScreen** REG\_DOWRD value. Right-click on the key and delete it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Similarly, delete the**OptimizedKeyboardRelativeYPositionOnScreen** key value in the same folder.
@@ -56,7 +56,7 @@ Let's explore each one.
  After deleting both values, close the Registry Editor and restart your PC to apply the changes. Now, when you open the touch keyboard, it will start showing up at the default opening position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run a Batch File to Reset the Touch Keyboard's Default Open Position
@@ -78,7 +78,7 @@ start explorer.exe`
 ![Run Batch File to Reset Touch Keyboard Default Open Position](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-batch-file-to-reset-touch-keyboard-default-open-position.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the File name field, type "ResetTouch.bat", and choose**All Files** from the Save as type. After that, select Desktop from the left-hand side and click**Save** .
@@ -86,7 +86,7 @@ start explorer.exe`
  Once the batch file is saved, close the Notepad window. Next, double-click**ResetTouch.bat** on your Desktop to run it. This should reset your touch keyboard's default open position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting the Default Position of the Touch Keyboard
@@ -110,24 +110,17 @@ start explorer.exe`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-apex-of-hd-technology-leading-recorder-brands-decoded/"><u>[New] 2024 Approved Apex of HD Technology Leading Recorder Brands Decoded</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>[New] 2024 Approved Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[Updated] 2024 Approved Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spectral-synergy-using-color-theories-effectively/"><u>[Updated] Spectral Synergy Using Color Theories Effectively</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/conseils-rapide-pour-combattre-la-blocage-envoi-impossible-dans-outlook/"><u>Conseils Rapide Pour Combattre La Blocage 'Envoi Impossible Dans Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conserve-power-implementing-idle-shutdown-on-windows-11-pcs/"><u>Conserve Power: Implementing Idle Shutdown on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-boosters-keyboard-tricks-for-3d-artists/"><u>Efficiency Boosters: Keyboard Tricks for 3D Artists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-windows-11-emoji-15-enablement/"><u>Essential Tweaks for Windows 11: Emoji 15 Enablement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>In 2024, The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-system-incompatibility-issues-caused-by-intel-hd-graphics/"><u>Mending System Incompatibility Issues Caused by Intel HD Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-access-immediate-fixes-needed/"><u>Microsoft Store Access: Immediate Fixes Needed?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-the-complexities-of-canon-time-lapse-for-2024/"><u>Navigating Through the Complexities of Canon Time-Lapse for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/overclocking-and-modding-guide-enhancing-intel-core-i7-7700k-with-a-de-lidded-design/"><u>Overclocking & Modding Guide: Enhancing Intel Core I7-7700K with a De-Lidded Design</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-btballoondll-not-found-issues/"><u>The Ultimate Fix for 'btballoon.dll Not Found' Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-7-ways-to-revitalize-your-windows-service-management-application/"><u>The Ultimate Guide to 7 Ways to Revitalize Your Windows Service Management Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sync-twitch-with-snapchat-a-step-by-step-guide-for-2024/"><u>[New] Sync Twitch with Snapchat A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-companions-premium-mac-programs-for-videography/"><u>[Updated] Best Companions Premium Mac Programs for Videography</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/webp-tiff-movavi/"><u>在網路上無成本 WEBP 檔案變更TIFF - 利用Movavi對準器</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-official-hp-printer-drivers-with-ease/"><u>Download and Install Official HP Printer Drivers with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-faded-windows-reviving-your-displays-palette/"><u>Fixing Faded Windows: Reviving Your Display's Palette</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/functional-failures-cure-win10-key-issues-now/"><u>Functional Failures? Cure Win10 Key Issues Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-browsing-on-windows-11-adding-reliable-domains/"><u>Secure Your Browsing on Windows 11: Adding Reliable Domains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-two-networks-a-guide-to-using-wi-fi-and-ethernet-together-on-windows/"><u>Syncing Two Networks: A Guide to Using Wi-Fi & Ethernet Together on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-cheap-action-cameras-to-purchase-for-under-100-for-2024/"><u>The Best Cheap Action Cameras to Purchase for Under $100 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-10-top-rated-music-video-makers-for-2024/"><u>Unleash Your Creativity 10 Top-Rated Music Video Makers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-notepads-potential-the-theme-and-font-method/"><u>Unlock Windows 11 Notepad's Potential: The Theme and Font Method</u></a></li>
 </ul></div>
 

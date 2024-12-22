@@ -1,7 +1,7 @@
 ---
 title: Streamlining Note Visibility with Tips for Modern Windows Users
-date: 2024-08-23T06:59:09.118Z
-updated: 2024-08-24T06:59:09.118Z
+date: 2024-12-17T05:13:25.737Z
+updated: 2024-12-22T04:41:53.537Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  In this guide, we show you how to keep Sticky Notes always on top using Microsoft PowerToys and DeskPins.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -35,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
@@ -60,27 +69,34 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +105,22 @@ To pin Sticky Notes using DeskPins:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-snapchat-earning-potential-step-by-step/"><u>[New] 2024 Approved Maximizing Snapchat Earning Potential Step by Step</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-seamless-integration-of-moviemaker-6-into-your-device-for-2024/"><u>[New] Seamless Integration of Moviemaker 6 Into Your Device for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-lenovo-screen-capture-tools-effortlessly/"><u>[Updated] In 2024, Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ving-youtube-live-prominence-with-pro-level-tips/"><u>Achieving YouTube Live Prominence with Pro-Level Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compreranew-strategies-to-address-0x8007045d-in-win11/"><u>Compreranew Strategies to Address 0X8007045D in Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-into-tseries-streaming-revenue-model-on-youtube-for-2024/"><u>Delving Into TSeries' Streaming Revenue Model on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-protocol-addressing-directdraw-problems-on-win1011/"><u>Detailed Protocol: Addressing DirectDraw Problems on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-9-enhancements-in-windows-modern-outlook/"><u>Discover 9 Enhancements in Windows' Modern Outlook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win-11s-task-monitor-real-time-updates/"><u>Optimize Win 11'S Task Monitor Real-Time Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-blocks-from-microsoft-store-usage-in-windows-11/"><u>Removing Blocks From Microsoft Store Usage in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/s-top-rated-free-mod-video-editing-tools-for-2024/"><u>S Top-Rated Free MOD Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-repairing-taskbar-icon-issues/"><u>Steps for Repairing Taskbar Icon Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-new-era-of-ai-with-gpt-4/"><u>Understanding the New Era of AI with GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-mending-windows-blue-crashes/"><u>Unraveling and Mending Windows Blue Crashes</u></a></li>
+</ul></div>
 

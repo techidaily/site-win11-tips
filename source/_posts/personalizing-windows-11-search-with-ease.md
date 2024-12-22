@@ -1,7 +1,7 @@
 ---
 title: Personalizing Windows 11 Search with Ease
-date: 2024-12-11T19:48:14.877Z
-updated: 2024-12-12T20:21:03.256Z
+date: 2024-12-20T03:04:23.676Z
+updated: 2024-12-22T07:07:36.816Z
 tags:
   - windows10
   - windows11
@@ -38,18 +38,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 1. **Next, click Privacy & Security.**  
 ![Screenshot of windows 11 Privacy & Security page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page.jpg)
 2. Under**Windows permissions,** click**Search permissions** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Strict** setting will filter out all adult content in texts, images, and videos from web previews. On the other hand, the**Moderate** setting will only filter out adult images and videos, excluding text. Lastly, the**Off** option will disable the filter entirely from your web results.
 
@@ -70,10 +71,15 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
 2. Beneath**Accounts Used by other apps** , click**Add a Microsoft Account** to add one, or**Add a Workplace or School Account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clear Search History on Your Device
@@ -98,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -114,19 +116,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Harnessing the Power of Windows Search
 
@@ -149,21 +151,20 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-witty-visuals-crafting-kapwings-laughs/"><u>[New] In 2024, Witty Visuals Crafting Kapwing's Laughs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-shorts-description-everything-you-need-to-know-for-2024/"><u>[New] YouTube Shorts Description Everything You Need to Know for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android-for-2024/"><u>[Updated] Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-learning-gadgets-navigating-the-process-of-securing-a-dell-academic-discount/"><u>Affordable Learning Gadgets: Navigating the Process of Securing a Dell Academic Discount</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-for-leveraging-the-wayback-machine-to-access-archived-web-pages/"><u>Expert Strategies for Leveraging the Wayback Machine to Access Archived Web Pages</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-to-resolve-update-failures-for-xbox-app/"><u>Method to Resolve Update Failures for Xbox App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-cannot-read-from-disk-in-win1110/"><u>Quick Guide: Solving 'Cannot Read From Disk' In Win11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-dormant-windows-key-status/"><u>Resurrecting Dormant Windows Key Status</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/step-into-virtual-reality-top-converters-for-seamless-video-conversion-for-2024/"><u>Step Into Virtual Reality Top Converters for Seamless Video Conversion for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-cleansing-your-printers-printhead-effectively-tips-from-yl-computing/"><u>Step-by-Step Guide: Cleansing Your Printer's Printhead Effectively - Tips From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-shadows-reversing-a-devices-dark-mode/"><u>Switching Shadows: Reversing a Device's Dark Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-unseen-power-button-mastering-windows-11-discretion/"><u>The Unseen Power Button: Mastering Windows 11 Discretion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-widget-redesign-improving-usability-and-performance/"><u>Windows 11 Widget Redesign: Improving Usability and Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-best-video-capture-tools-for-windows-users-for-2024/"><u>[New] Discover the Best Video Capture Tools for Windows Users for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-audibly-enhance-videos-shared-as-tweets/"><u>[Updated] 2024 Approved Audibly Enhance Videos Shared as Tweets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transforming-igtv-with-multi-language-captioning/"><u>[Updated] 2024 Approved Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-compreehensive-look-at-itunes-video-capture-for-2024/"><u>[Updated] A Compreehensive Look at iTunes Video Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-c51-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco C51 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-download-strategies-for-windows-newbies/"><u>Direct Download Strategies for Windows Newbies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-11-folder-tab-buzz/"><u>Eliminating Windows 11 Folder Tab Buzz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-cannot-connect-to-remote-system-vpn-error/"><u>Fixing Cannot Connect to Remote System VPN Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-clear-cuts-for-chilling-youtube-content-no-more-silent-lapses/"><u>In 2024, Clear Cuts for Chilling YouTube Content – No More Silent Lapses</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-elemental-story-concept/"><u>In 2024, Elemental Story Concept</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-tips-for-writing-dialogue-and-narrative-scripts/"><u>In 2024, Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-into-a-new-realm-of-creativity-win11-and-paint-cocreators-guide-to-making-immersive-ai-images/"><u>Journey Into a New Realm of Creativity: Win11 & Paint Cocreator's Guide to Making Immersive AI Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-handbook-permanently-turn-off-defender-on-win-11/"><u>The Insider's Handbook: Permanently Turn Off Defender on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-emulated-gaming-worlds-in-playnite/"><u>Uniting Emulated Gaming Worlds in Playnite</u></a></li>
 </ul></div>
 

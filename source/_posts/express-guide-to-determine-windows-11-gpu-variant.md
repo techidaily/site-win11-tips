@@ -1,7 +1,7 @@
 ---
 title: Express Guide to Determine Windows 11 GPU Variant
-date: 2024-08-16T02:44:15.501Z
-updated: 2024-08-17T02:44:15.501Z
+date: 2024-12-17T04:49:58.070Z
+updated: 2024-12-21T23:53:14.926Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,16 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 ![check graphics card using task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/graphics-card-check-1.jpg)
 3. The Task Manager window will list the name of your graphics card in the top right corner. You can also find the**Driver** and**DirectX** versions in the bottom right corner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check out[how to use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) for more in-depth instructions on this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Find Your GPU Model Using DirectX on Windows 11
 
  You can use the DirectX Diagnostics Tool to get detailed specs of your PC. You can find system details such as the processor, total available RAM, BIOS version, GPU, sound, and even the details of input devices configured to your PC.
@@ -44,14 +49,12 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
 1. Launch the**Start** menu, search for**dxdiag** , and select the**Best match** .  
 ![directx GPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/directx-specs.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Select the**Display** tab to view details of your GPU, including the GPU manufacturer, chip type, dedicated display memory, etc. If you have more than one GPU on your PC, you will see multiple**Display** tabs with details of each GPU.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Confirm Your Graphics Card Model via the Windows 11 Settings App
 
  While you may have used the Settings app to configure different aspects of your PC, you can also use it to view the specs of the graphic card installed in your system. You can also view other display settings, such as the screen resolution and display type.
@@ -62,31 +65,28 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 2. From the side menu, select**System** and then**Display** .
 3. Under**Related settings** , select**Advanced display** .  
 ![advanced display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-display-settings.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 4. You can see your GPU make and model under the**Display information** tab.  
-![display adapter properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/display-adapter-properties-win11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![display adapter properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/display-adapter-properties-win11.jpg)
 5. For more details, select**Display adapter properties for Display** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get to Know Your GPU Model Better on Windows 11
 
  Whether you want to double-check your system requirements for a new game, or you want to update your GPU's drivers properly, knowing your graphics card's model is essential. Now you know how to quickly find out which card you have on Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +95,20 @@ To check the installed graphics card or GPU of your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unplugged-bliss-selecting-smartphone-slowdowns/"><u>[Updated] In 2024, Unplugged Bliss Selecting Smartphone Slowdowns</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-best-video-capture-for-iphoneipad-users/"><u>2024 Approved The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-cameras-in-phones-for-professional-videos/"><u>Best Cameras in Phones for Professional Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dive-into-high-definition-fb-streaming-in-1080p/"><u>Dive Into High Definition FB Streaming in 1080P</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-the-authorization-manager-in-windows-11/"><u>How to Open the Authorization Manager in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen/"><u>In 2024, From Standard to Spectacular Your Guide to Choosing a High-Res Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-macs-webcam-in-minutes-with-these-easy-fixes/"><u>Revive Your Mac's Webcam in Minutes with These Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slow-sell-of-windows-11-why-users-prefer-the-oldie/"><u>Slow Sell of Windows 11: Why Users Prefer the Oldie</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-lcds-on-hp-notebooks/"><u>Stabilizing LCDs on HP Notebooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reconnecting-malwarebytes-services-in-windows-11-os/"><u>Steps for Reconnecting Malwarebytes Services in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-arrange-bunched-up-taskbar-icons/"><u>Strategies to Arrange Bunched-Up Taskbar Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-the-fix-for-security-snags/"><u>Unlocking Windows: The Fix for Security Snags</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-free-online-video-trimmers-2023-reviews/"><u>Updated 10 Best Free Online Video Trimmers 2023 Reviews</u></a></li>
+</ul></div>
 

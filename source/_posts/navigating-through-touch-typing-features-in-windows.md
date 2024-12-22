@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Touch Typing Features in Windows
-date: 2024-12-06T22:17:45.481Z
-updated: 2024-12-12T21:26:45.246Z
+date: 2024-12-20T21:50:34.586Z
+updated: 2024-12-22T02:44:00.637Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Settings App to Enable/Disable Fingertip Writing
 
  The easiest, most straightforward way to enable or disable the fingertip writing feature is by using the Settings app. You can make these changes in the Bluetooth & devices section and do not need to have administrative access to the system as well.
@@ -36,18 +40,15 @@ Here is how you can proceed:
 3. Move to the right side of the window and click on**Pen & Windows Ink** .  
 ![Access the Pen & Windows Ink section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pen-and-windows-ink.jpg)
 4. Expand the**Use your handwriting to enter text** section under Handwriting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Checkmark the box associated with**Write with your fingertip** .  
 ![Write with your fingertip option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/write-with-you-fingertip-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now close the Settings app if you want. To disable the feature in the future, simply follow these steps again and uncheck the Write with your fingertip option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable/Disable Fingertip Writing via the Registry Editor
 
@@ -74,13 +75,14 @@ Then, proceed with these steps:
 5. Double-click on**EnableInkingWithTouch** and under Value data, type 1\. This will enable the fingertip writing feature.  
 ![Enter 1 under Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enableinking-with-touch.jpg)
 6. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the Registry Editor and restart your computer.
 
  Upon reboot, you should be able to use the fingertip writing feature. To disable this feature, follow the aforementioned steps again and change the value data of the EnableInkingWithTouch key to 0.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable/Disable Fingertip Writing Via the Group Policy Editor
 
@@ -96,18 +98,19 @@ Then, proceed with these steps:
 5. Locate the**Handwriting Panel Default Mode Docked** policy in the right pane and double-click on it.  
 ![Access the Handwriting panel default mode docked policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/handwriting-policy.jpg)
 6. To enable the feature, choose**Not configured** . If you want to disable it, choose**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable the handwriting panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-handwriting-panel-1.jpg)
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now close the Group Policy Editor and begin using the fingertip writing feature with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Your Fingertips to Write Away on Windows
 
@@ -130,17 +133,17 @@ Then, proceed with these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-capturing-live-sounds-directly-from-youtube-videos-for-2024/"><u>[New] Capturing Live Sounds Directly From YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-visual-stories-select-the-best-ig-video-editors/"><u>[New] Crafting Visual Stories Select the Best IG Video Editors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-content-that-captivates-and-grows-your-audience/"><u>[New] In 2024, Crafting Content That Captivates and Grows Your Audience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-definitive-top-5-agile-camcorders-for-adventure/"><u>[New] In 2024, Definitive Top 5 Agile Camcorders for Adventure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmv-and-wav-movavi/"><u>線上免費 WMV & WAV 間的影片轉換 – 運用 Movavi 轉換器技術</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevating-your-podcast-the-best-mics-ranked/"><u>Elevating Your Podcast The Best Mics Ranked</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enregistrez-vos-moments-avec-ease-une-approche-complete-pour-videosur-mac-par-movavi-en-2024/"><u>Enregistrez Vos Moments Avec Ease: Une Approche Complète Pour Vidéosur Mac Par Movavi en 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-free-online-il-tuo-strumento-preferito-per-la-conversione-in-gif/"><u>Movavi Free Online - Il Tuo Strumento Preferito per La Conversione in GIF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rmvb-avi/"><u>RMVB파일을 AVI로 제공: 원격 응용 방르솔렛 - 무료</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-fixing-pc-issues-with-the-help-of-chatgpt/"><u>Step-by-Step Guide: Fixing PC Issues with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-dilemma-of-using-chatgpt-in-professional-environments/"><u>The Ethical Dilemma of Using ChatGPT in Professional Environments</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-scriptsmiths-network/"><u>[Updated] Ultimate Scriptsmiths Network</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-how-to-remove-static-noise-from-audio-in-seconds/"><u>2024 Approved How to Remove Static Noise From Audio in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-ccleaner-scans-in-windows-11/"><u>Fixing Failed CCleaner Scans in Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/get-instant-access-best-free-screen-recorders-and-gaming-playback-apps/"><u>Get Instant Access: Best Free Screen Recorders & Gaming Playback Apps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-wi-fi-data-usage-metrics-on-windows-11/"><u>How to Manage Wi-Fi Data Usage Metrics on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-an-absent-printer-windows-solutions/"><u>Restoring an Absent Printer: Windows Solutions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/smile-slam-the-best-comedy-moments-on-social-media/"><u>Smile Slam The Best Comedy Moments on Social Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-file-or-directory-corruption-in-win1011/"><u>The Ultimate Guide to Fixing 'File or Directory' Corruption in Win10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-issues-with-the-thaumaturge-app-not-starting-on-your-computer/"><u>Troubleshooting: How to Resolve Issues with the Thaumaturge App Not Starting on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-vanished-window-panes-quick-methods-for-win11/"><u>Uncovering Vanished Window Panes: Quick Methods for Win11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600720250-your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free</u></a></li>
 </ul></div>
 

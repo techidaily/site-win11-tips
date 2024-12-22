@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PS Opening Problems on Windows 11
-date: 2024-12-07T22:22:00.682Z
-updated: 2024-12-12T23:58:01.758Z
+date: 2024-12-15T08:42:27.100Z
+updated: 2024-12-22T05:36:09.705Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Adobe Photoshop App as an Administrator
 
  Some Photoshop users have said running that app with admin rights fixed it not opening. To do that, you’ll either need to temporarily select Photoshop to run with admin rights or set the app to always run as administrator.
@@ -38,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn Off Controlled Folder Access
 
  If controlled access is enabled on your PC, Photoshop might not be able to start because it can’t access certain protected folders. So, check if controlled folder access is on and disable it as follows:
@@ -70,6 +66,11 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
@@ -84,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
 
@@ -106,18 +99,26 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall Photoshop
 
  Uninstalling and reinstalling Photoshop will replace that software’s files with fresh ones. So, this resolution could be the one you need if others here don’t work for you. You can remove Adobe Photoshop via Settings or the Control Panel, as covered within our guide for [uninstalling software packages on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
@@ -127,26 +128,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>[New] 2024 Approved Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unveil-the-zodiac-persona-perfecting-personalized-bios-on-whatsapp-for-2024/"><u>[New] Unveil the Zodiac Persona - Perfecting Personalized Bios on WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-upgrading-your-tiktok-presence-mastering-number-adjustments/"><u>[New] Upgrading Your TikTok Presence Mastering Number Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222597690-movavi/"><u>如何抗水印？专业指南：Movavi 编辑器和更多应用产品</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5lia6bo06ama5lq677ya55so5ycs6l2j5oqa6kgt5oplusq6auy5b2x54mh5yig5p6qic0g57ch5zau5oyh5y2x5zkm5lil6lyj5bel5yw3/"><u>一鳴驚人：用倒轉技術提高影片分析 - 簡單指南和下載工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/au-movavi/"><u>Au音楽ファイルを自由に変換! Movaviオンライン無料ツール</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-gionee-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Gionee Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-ajouter-un-motif-de-filigrane-personnalise-a-votre-image-avec-le-logiciel-de-retouche-photo-movavi/"><u>Comment Ajouter Un Motif De Filigrane Personnalisé À Votre Image Avec Le Logiciel De Retouche Photo Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-cutting-out-superfluous-segments-from-your-footage/"><u>Effective Techniques for Cutting Out Superfluous Segments From Your Footage</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guida-completa-al-disco-di-ripristino-come-proteggere-i-dati-dei-tuoi-dispositivi-con-ripristino-elettronico/"><u>Guida Completa Al Disco Di Ripristino: Come Proteggere I Dati Dei Tuoi Dispositivi Con Ripristino Elettronico</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-generate-video-with-talking-photo-feature/"><u>New In 2024, Generate Video with Talking Photo Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-file-m4a-in-formato-ogg-liberamente-on-line-convertitore-gratuito-di-movavi/"><u>Trasforma File M4A in Formato OGG Liberamente On-Line - Convertitore Gratuito Di Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fix-aoc-monitor-connection-issues-in-windows-11/"><u>Troubleshooting Guide: Fix AOC Monitor Connection Issues in Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlock-fb-status-videos-downloading-made-easy-for-2024/"><u>Unlock FB Status Videos Downloading Made Easy for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211383386--you-are-not-your-trauma-healing-journal/"><u>You Are Not Your Trauma Healing Journal | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ogg-mp3-mp3-movavi/"><u>무료 OGG 파일을 MP3로 자유롭게 전환하기: 모바일 친화적 MP3 프로세스를 위한 Movavi</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,3 +135,27 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-easy-steps-for-leveraging-speech-to-text-in-google-documents-for-2024/"><u>[New] Easy Steps for Leveraging Speech-to-Text in Google Documents for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhance-your-gopro-videos-time-lapse-guide-for-2024/"><u>[New] Enhance Your GoPro Videos Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-truescreenpro-windows-10s-choice-for-2024/"><u>[Updated] TrueScreenPro Windows 10'S Choice for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-winning-conversations-top-20-marketing-terms-explained/"><u>[Updated] Winning Conversations Top 20 Marketing Terms Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-with-a-pure-start-in-w11/"><u>Cut the Clutter with a Pure Start in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-public-ip-a-terminal-windows-methodology/"><u>Discovering Public IP: A Terminal Windows Methodology</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawed-findings-challenging-the-reliability-of-critics/"><u>Flawed Findings: Challenging the Reliability of Critics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-every-level-of-filmmaker-our-top-10-camera-picks-for-2024/"><u>For Every Level of Filmmaker, Our Top 10 Camera Picks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deactivate-windows-defender-on-win11/"><u>How to Deactivate Windows Defender on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-multitask-better-on-a-windows-11-pc/"><u>How to Multitask Better on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-failed-directx-downloads/"><u>How to Resolve Failed DirectX Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-unresponsive-scrolling-in-excel-workbooks/"><u>How to Stop Unresponsive Scrolling in Excel Workbooks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/la-scala-dei-migliori-convertitori-video-di-file-multimedia-per-windows-(idioma-ingles)-10-i-top-3-gratis-per-la-conversione-ad-alta-qualita-hd4k/"><u>La Scala Dei Migliori Convertitori Video Di File Multimedia per Windows <|Idioma-Ingles|> 10: I Top 3 Gratis per La Conversione Ad Alta Qualità (HD/4k)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-the-slip-ups-top-tips-to-use-file-explorer-wisely/"><u>Skip the Slip-Ups: Top Tips to Use File Explorer Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subdued-system-reducing-windows-11-activity/"><u>Subdued System: Reducing Windows 11 Activity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-glare-free-guide-to-stellar-gopro-videos/"><u>The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-free-screen-recorders-on-windows-10-for-2024/"><u>Top 5 Free Screen Recorders on Windows 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-alias-tags-in-coding-practices/"><u>Unpacking Alias Tags in Coding Practices</u></a></li>
+</ul></div>
+

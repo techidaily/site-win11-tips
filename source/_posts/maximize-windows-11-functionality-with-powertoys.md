@@ -1,7 +1,7 @@
 ---
 title: Maximize Windows 11 Functionality with PowerToys
-date: 2024-12-10T02:47:58.792Z
-updated: 2024-12-13T00:03:47.382Z
+date: 2024-12-19T05:25:08.333Z
+updated: 2024-12-21T20:22:18.158Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -42,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
@@ -63,13 +59,17 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -86,7 +86,7 @@ winget install --id Microsoft.PowerToys
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
@@ -99,24 +99,6 @@ winget install --id Microsoft.PowerToys
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-on-demand-acting-rights-form/"><u>[New] 2024 Approved On-Demand Acting Rights Form</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-video-producers-digital-command-center/"><u>[Updated] In 2024, Discovering Video Producers' Digital Command Center</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-tv-reach-with-fb-live-streaming/"><u>[Updated] In 2024, Maximizing TV Reach with FB Live Streaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-secrets-to-stunning-nightscape-shots/"><u>2024 Approved Secrets to Stunning Nightscape Shots</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-camera-performance/"><u>Comprehensive Analysis of the Google Pixel 6 Camera Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-disabled-enter-key-on-windows-laptopdesktop/"><u>Fixing the Disabled Enter Key on Windows Laptop/Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-wifi-connectivity-on-microsoft-os/"><u>How to Reset WiFi Connectivity on Microsoft OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-7-hd-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 7 HD Unlock Without Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A15 4G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-bootable-windows-11-media-with-3-strategies/"><u>Mastering the Art of Bootable Windows 11 Media with 3 Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-innovative-hardware-solutions-with-tom/"><u>Navigating Through Innovative Hardware Solutions with Tom</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-repairing-ms-store-crash-error-0x0-on-win-1011/"><u>Quick Guide to Repairing MS Store Crash (Error 0X0) on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-operation-failed-error-0x0000011b-in-windows-11/"><u>Rectifying Operation Failed (Error: 0X0000011B) in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -124,3 +106,19 @@ winget install --id Microsoft.PowerToys
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-building-gear-a-quick-start-guide/"><u>[Updated] 2024 Approved Channel-Building Gear A Quick Start Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-absent-communications-on-chatface-for-2024/"><u>[Updated] Spotting Absent Communications on Chatface for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-set-up-chromebook-for-seamless-video-capture/"><u>2024 Approved Set Up Chromebook for Seamless Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-art-of-recording-your-steam-gaming-sessions/"><u>2024 Approved The Art of Recording Your Steam Gaming Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-mc-lan-troubles-7-fixes-for-windows-users/"><u>Decoding MC LAN Troubles: 7 Fixes for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-desktop-space-display-gmail-on-pc-taskbar/"><u>Enhancing Desktop Space: Display Gmail on PC Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-efficiently-pinpointing-hdd-or-ssd-on-your-computer/"><u>Expert Advice: Efficiently Pinpointing HDD or SSD on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-cortana-era-brings-4-enhanced-windows-features/"><u>Post-Cortana Era Brings 4 Enhanced Windows Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-prevent-google-photos-from-prompting-deletion-approval/"><u>Steps to Prevent Google Photos From Prompting Deletion Approval</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/thrifty-tips-for-hosting-webinars-on-youtube/"><u>Thrifty Tips for Hosting Webinars on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/untethered-accessibility-windows-edition-of-onedrive/"><u>Untethered Accessibility: Windows Edition of OneDrive</u></a></li>
+</ul></div>
+

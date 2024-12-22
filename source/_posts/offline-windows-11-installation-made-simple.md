@@ -1,7 +1,7 @@
 ---
 title: Offline Windows 11 Installation Made Simple
-date: 2024-12-06T18:29:07.837Z
-updated: 2024-12-12T19:23:02.801Z
+date: 2024-12-18T17:39:08.749Z
+updated: 2024-12-21T16:04:30.966Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 ![Windows-11-setup-screen-install-now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-screen-install-now.jpg)
 4. Click **Install Now.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
@@ -74,24 +66,29 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 1. Once in the **Let’s connect you to a network** screen, press **Shift + F10** to launch the **Command Prompt.**  
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
 ![Windows-11-setup-select-installation-i-don't-have-internet-connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-i-don-t-have-internet-connection.jpg)
 4. Follow the on-screen instructions to complete the setup. When you reach the **Let’s connect you to a network screen**, click on **I don’t have Internet** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click on **Continue with limited setup.**  
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
- Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -105,26 +102,27 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 2. In the Command Prompt window, type **taskmgr** and hit enter to launch **Task Manager.**  
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Type **exit** in the Command Prompt and hit enter.
 
  Now you will be back in the setup wizard. It will show some loading animation and then proceed to the next step. Here enter your name and password to [create a local user account in Windows 11](http://www.makeuseof.com/ways-to-create-local-user-account-windows/) and complete the setup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Directly Kill Network Connection Flow Using the Command Prompt
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
@@ -141,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  If successful, Windows 11 will skip the current screen and move to the next step. Once you're past this step, you can create a local user account and then complete the setup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Completing the Windows 11 Setup Without Internet Access
 
  You can follow one of the four methods listed above to skip the let’s connect you to a network window and complete the Windows 11 setup without the internet.
@@ -149,27 +151,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-social-media-spotlight-top-twitters/"><u>[New] Social Media Spotlight Top Twitters</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/avoid-these-critical-missteps-in-your-campaign-strategy-insights-on-improving-email-marketing-success-via-massmail-tips/"><u>Avoid These Critical Missteps in Your Campaign Strategy: Insights on Improving Email Marketing Success via Massmail Tips</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/complete-guide-aomei-centralized-servers-backup-solutions-frequently-asked-questions/"><u>Complete Guide: AOMEI Centralized Servers Backup Solutions - Frequently Asked Questions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-windows-os-eliminating-error-code-0x800704b3/"><u>Conquering Windows OS: Eliminating Error Code 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-remedying-frozen-asana-windows-instances/"><u>Diagnosing and Remedying Frozen Asana Windows Instances</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-pc-security-without-bitlocker-top-4-methods/"><u>Ensuring PC Security without BitLocker: Top 4 Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-using-ping-in-windows-environments/"><u>Essential Guide to Using Ping in Windows Environments</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-10-proplus-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 10 Pro+ 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-pioneering-digital-music-management-win-media-and-cds/"><u>In 2024, Pioneering Digital Music Management Win, Media and Cds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-acquire-user-sids-in-windows-11/"><u>Navigating the Maze: Acquire User SIDs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-office-excel-scroll-hiccups-windows/"><u>Overcome Office Excel Scroll Hiccups (Windows)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quarantine-and-isolation-protocols/"><u>Quarantine and Isolation Protocols</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-unable-to-open-error-in-geforce-experience/"><u>Remedy for Unable to Open Error in GeForce Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-lack-of-access-to-network-router-site/"><u>Tackling Lack of Access to Network Router Site</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-glossary-for-googles-voice-to-text-feature-for-2024/"><u>Ultimate Glossary for Google's Voice-to-Text Feature for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-to-turning-on-a-locked-snapchat-profile-a-complete-guide/"><u>Unlock the Secrets to Turning On a Locked Snapchat Profile – A Complete Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-hd-video-editing-software-showdown-the-top-5-contenders/"><u>Updated 2024 Approved HD Video Editing Software Showdown The Top 5 Contenders</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +158,24 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>[New] 2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dslr-or-mirrorless-for-high-quality-video-recording/"><u>[New] 2024 Approved DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-professional-filmmaking-skills-within-xp/"><u>2024 Approved Unlock Professional Filmmaking Skills Within XP</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-your-portrait-videos-free-a-step-by-step-guide-to-landscape-transformation/"><u>Convert Your Portrait Videos Free: A Step-by-Step Guide to Landscape Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-no-connection-with-nvidia-experience-on-windows/"><u>Eradicating No Connection with Nvidia Experience on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-concealing-your-drives-on-winos/"><u>Expert Tips: Concealing Your Drives on WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-swipe-misbehavior-for-better-user-experience-in-windows/"><u>Fixing Swipe Misbehavior for Better User Experience in Windows</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-ace-2v-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Ace 2V Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-directdraw-error-on-windows-11-and-11/"><u>How to Fix the DirectDraw Error on Windows 11 & 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-10t-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 10T 5G FRP Without Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-launchpad-to-digital-society-the-essentials-of-facebook-account-creation/"><u>In 2024, Launchpad to Digital Society The Essentials of Facebook Account Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/show-more-on-start-a-guide-to-w11s-pins/"><u>Show More on Start: A Guide to W11's Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-spontaneous-opens-in-microsofts-app-marketplace/"><u>Stopping Spontaneous Opens in Microsoft's App Marketplace</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-or-corrupted-python2eusdll-error/"><u>Troubleshooting Steps for Missing or Corrupted python2eus.dll Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblock-software-installation-tackling-admin-block-errors/"><u>Unblock Software Installation: Tackling Admin Block Errors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726029238791-youtube/"><u>ゼロから始める！YouTubeゲーム動画制作手順：録画、編集、公開方法</u></a></li>
+</ul></div>
+

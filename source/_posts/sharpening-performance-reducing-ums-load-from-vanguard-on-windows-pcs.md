@@ -1,7 +1,7 @@
 ---
 title: "Sharpening Performance: Reducing UMS Load From Vanguard on Windows PCs"
-date: 2024-12-07T21:00:42.562Z
-updated: 2024-12-12T16:18:45.680Z
+date: 2024-12-18T03:11:17.522Z
+updated: 2024-12-22T08:36:57.757Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  If none of the above checks fixes the problem, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable and Restart Valorant and Vanguard Processes
 
  First off, ensure that a temporary glitch hasn't fueled the high CPU usage by the Vanguard user-mode service process. The easiest way to rule out this possibility is to close Valorant, turn off the Vanguard services, and restart them.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
  To disable them, right-click the Windows **Start** button and open the **Task Manager**. Here, locate the Vanguard and Valorant-related processes, right-click on each process, and select **End task**.
 
 ![Disable Vanguard-Related Processes From Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-disable-vanguard-related-processes-from-windows-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once these processes are disabled, give Valorant a fresh start, which will automatically restart Vanguard. If restarting the processes doesn't make a difference and the process continues to overstretch the CPU, move on to the next step.
 
@@ -63,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
@@ -79,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 ![Click on Set Affinity Option of Vgc exe in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/5-click-on-set-affinity-option-of-vgc-exe-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here, uncheck the boxes besides most of the **CPUs** and keep only a few of them checked.
 
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Stop the Vanguard Service and Restart It
 
@@ -99,10 +95,18 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Overlays
 
@@ -128,14 +132,10 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Let Vanguard Overstress Your CPU
@@ -146,29 +146,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  If you want to reduce the CPU usage of the Vanguard user-mode service process and play Valorant seamlessly, here are some fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-medias-closing-chapters/"><u>[New] 2024 Approved Mastering Media's Closing Chapters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-master-your-recordings-on-macos-with-these-top-microphones-for-2024/"><u>[New] Master Your Recordings on MacOS with These Top Microphones for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>[Updated] Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] In 2024, How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>2024 Approved Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/breaking-down-the-monetization-barriers/"><u>Breaking Down the Monetization Barriers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-high-end-philips-somneo-alarm-system/"><u>Comprehensive Review of the High-End Philips Somneo Alarm System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-steams-internet-connection-hitches/"><u>How to Solve Steam's Internet Connection Hitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-firewall-display-settings-on-windows-os/"><u>Mastering Firewall Display Settings on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-sticky-notes-opener-on-windows-11/"><u>Mastering Sticky Notes Opener on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-key-activation-and-deactivation/"><u>Mastering Windows Key Activation & Deactivation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodology-to-overhaul-windows-11s-new-text-based-search/"><u>Methodology to Overhaul Windows 11'S New Text-Based Search</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-battery-life-mastering-the-low-power-mode-on-macos-monterey-insights/"><u>Optimizing Battery Life: Mastering the Low Power Mode on macOS Monterey - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-inconsistent-mouse-navigation-7-tactics/"><u>Overcoming Inconsistent Mouse Navigation: 7 Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-essential-requirements-error-in-win10win11/"><u>Removing 'Essential Requirements' Error in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-non-functional-remotes-on-windows-pcs/"><u>Resolving Non-Functional Remotes on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-w11-csgo-opening-errors/"><u>Resolving W11 CS:GO Opening Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whyclosedsubs-when-new-chatgpt-opens/"><u>WhyClosedSubs: When New ChatGPT Opens?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +153,19 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[New] Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-bring-your-presentations-to-life-with-aiseesoft-screencast-capabilities/"><u>[New] In 2024, Bring Your Presentations to Life with Aiseesoft Screencast Capabilities</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-budget-cameras-with-bold-action-features-and-quality/"><u>[Updated] 2024 Approved Budget Cameras with Bold Action Features and Quality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-secrets-of-saving-youtube-thumbnails-in-various-formats/"><u>[Updated] 2024 Approved Secrets of Saving Youtube Thumbnails in Various Formats</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-ps5-performance-for-ultra-smooth-visuals-at-120-frames-per-second/"><u>Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-authentication-errors-in-windows-os/"><u>Combatting Authentication Errors in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-inadequate-access-for-app-updates-and-removals/"><u>Dealing with Inadequate Access for App Updates and Removals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-speed-turbocharging-launcher-download-times/"><u>Epic Speed: Turbocharging Launcher Download Times</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-games-to-pcwindows-using-google-play/"><u>Navigating Android Games to PC/Windows Using Google Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-overhaul-alteration-of-ruleset/"><u>Windows Security Overhaul: Alteration of Ruleset</u></a></li>
+</ul></div>
+

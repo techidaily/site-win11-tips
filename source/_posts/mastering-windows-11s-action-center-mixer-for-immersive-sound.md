@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11'S Action Center Mixer for Immersive Sound
-date: 2024-08-23T07:00:12.470Z
-updated: 2024-08-24T07:00:12.470Z
+date: 2024-12-20T08:25:01.624Z
+updated: 2024-12-21T21:29:47.238Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  In a new experimental feature, Microsoft is revamping the sound settings in the Action Center. You will be able to switch output devices and adjust the volume of each of the apps listed in the Volume Mixer. Wondering how to get the feature on your system? Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Do You Need a Volume Mixer in Action Center?
 
  The present state of volume settings in Windows 11 is quite lackluster. You can only adjust the volume of the system and cycle between multiple audio devices. For opening any other settings, even something as trivial as a volume mixer: you need to dive deep into system sound settings.
@@ -28,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
 ![Old Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/old-volume-settings-in-action-center.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, Microsoft is slowly identifying such missing features in Windows 11 and is adding an inbuilt solution for it. Recently,[Microsoft began testing an RGB lighting feature](https://www.makeuseof.com/enable-rgb-lighting-controls-windows-11/) that will eliminate the need for third-party customization apps. So, it is pretty clear that Microsoft wants to reduce the reliance on third-party apps for vital system features and tweaks.
 
 ## How to Enable the Volume Mixer in Windows 11's Action Center
 
  To enable the volume mixer in Windows 11, you will need to do the following:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Download the Latest Windows Insider Build and ViVeTool
 
  Currently, the volume mixer feature is an experimental feature hidden in Windows Insider build 25295\. So, you must install this Windows Insider build or a higher version to enable this feature. We recommend[using UUP Dump to download Windows Insider builds without subscribing to Windows Insider](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
@@ -46,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
  You will also need to download[ViVeTool from GitHub](https://github.com/thebookisclosed/ViVe/releases) to enable the experimental volume mixer feature. It is a command-line tool that can both activate and deactivate experimental Windows features. However, extract the tool to an easily accessible location in the C drive.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Enable Volume Mixer in Windows Using ViVeTool
 
 After you have the ViVeTool ready, repeat the following steps:
@@ -62,30 +68,26 @@ vivetool /enable /id:42106010
 7. You will see a “**Successfully set feature configuration(s)** ” message. Type the**exit** command and press the enter key to close the command prompt window.  
 ![Enabling New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-new-volume-settings-in-action-center.jpg)
 8. Restart your system to allow the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 9. Log in and press**Win + A** to open Action Center. You will notice a new volume mixer icon next to the volume bar. Click on it to reveal the complete sound settings. Both the Spatial Audio and volume mixer will be present inside.  
 ![New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-volume-settings-in-action-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adjust Your Volume Like A Pro on Windows 11
 
  Windows 11 uprooted a lot of useful settings and features. Users resorted to registry hacks and third-party programs to fix this issue. However, the new volume mixer attempts to fix that to some extent. Microsoft might improve the volume mixer further to overshadow apps like EarTrumpet, but that’s a very slim possibility.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +96,21 @@ vivetool /enable /id:42106010
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/authentic-platinum-edition-dvd-ripping-tool-effortlessly-transform-your-dvd-media-into-mp4-h264hevc-format-in-half-an-hour-or-less/"><u>[Authentic] Platinum Edition DVD Ripping Tool – Effortlessly Transform Your DVD Media Into MP4 (H.264/HEVC) Format in Half an Hour Or Less</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nnovate-your-channels-closing-scenes-free-end-screens-for-2024/"><u>[New] Innovate Your Channels' Closing Scenes Free End Screens for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dts-aac-movavi-audio-converter/"><u>網路上免費 DTS 到 AAC 音頻格式轉換 - 使用 Movavi Audio Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critiquing-the-functionality-of-windows-modern-standby/"><u>Critiquing the Functionality of Windows' Modern Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-best-ms-store-picks/"><u>Enhance Your PC: Best MS Store Picks</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-an-improper-scanner-setup-on-your-device-expert-advice-by-yl-software-solutions/"><u>How to Fix an Improper Scanner Setup on Your Device - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-non-playable-media-error-0xc10100bf/"><u>How to Resolve Non-Playable Media Error 0XC10100BF</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-face-fluidity-techniques-implementing-motion-blur-effects/"><u>In 2024, Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualize-and-create-with-top-7-innovative-animation-suites/"><u>In 2024, Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-remote-storage-access-dropbox-and-google-drive-by-drives/"><u>Integrating Remote Storage: Access Dropbox & Google Drive by Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-high-resource-drain-from-unrealcefsubprocess/"><u>Mitigating Windows' High Resource Drain From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-s17t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo S17t? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quest-for-freedom-guide-to-affordable-mmo-games/"><u>Quest for Freedom Guide to Affordable MMO Games</u></a></li>
+</ul></div>
 

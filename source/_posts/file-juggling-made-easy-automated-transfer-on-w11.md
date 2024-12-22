@@ -1,7 +1,7 @@
 ---
 title: "File Juggling Made Easy: Automated Transfer on W11"
-date: 2024-12-11T17:45:53.882Z
-updated: 2024-12-12T17:13:33.232Z
+date: 2024-12-20T22:25:41.049Z
+updated: 2024-12-21T22:09:19.665Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
 
  Files 2 Folder is little more than a shell extension that adds a new option to Windows 11’s classic context menu. Selecting **Files 2 Folder** on the context menu brings up a window with four options for moving the selected files into a new directory.
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 3. Select **Yes** to register the shell extension.  
 ![The register shell extension prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/register-shell-extension-prompt.jpg)
 4. Now bring up a directory that includes some files with which to create a new folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select files to include in your new folder.
 6. Then right-click a selected file and select **Show more options** and **Files 2 Folder** on the classic context menu.  
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
@@ -48,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -64,15 +73,11 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
@@ -82,16 +87,12 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
 3. Then input a title for your new folder and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
@@ -100,24 +101,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[New] 2024 Approved Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-invent-comical-content-for-2024/"><u>[New] Invent Comical Content for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-content-distribution-startup/"><u>[Updated] Mastering the Art of Content Distribution Startup</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-proven-techniques-to-enhance-engagement-and-interaction-for-2024/"><u>[Updated] Proven Techniques to Enhance Engagement and Interaction for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-image-capture-fail-in-windows-os/"><u>How to Address Image Capture Fail in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-rgb-settings-in-windows-11/"><u>Master RGB Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-installation-removing-signatures-adding-unsigned-drivers/"><u>Mastering Windows Installation: Removing Signatures, Adding Unsigned Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-high-power-demand-of-dropbox-on-windows-pc/"><u>Overcoming High Power Demand of Dropbox on Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-downloading-your-dell-mouses-software-needs/"><u>Step-by-Step Guide on Downloading Your Dell Mouse's Software Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-working-with-gpt-3-in-python/"><u>Step-by-Step Guide: Working with GPT-3 in Python</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-playability-issues-in-windows-video/"><u>Troubleshooting Playability Issues in Windows VIDEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-these-10-windows-powertoy-features/"><u>Unleash Potential with These 10 Windows PowerToy Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/upscaling-your-youtube-visuals-for-2024/"><u>Upscaling Your YouTube Visuals for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-google-pixel-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Google Pixel 8 Hard Reset | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +108,25 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-achieving-professional-streams-with-obs-android-style/"><u>[Updated] In 2024, Achieving Professional Streams with OBS, Android Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quickeye-ff-plugins/"><u>2024 Approved QuickEye FF Plugins</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crafted-elegance-and-innovation-the-nixplay-iris-story/"><u>Crafted Elegance & Innovation - The Nixplay Iris Story</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-dual-windows-metrics-a-comparative-study/"><u>Deciphering Dual Windows Metrics: A Comparative Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-data-transfer-problems-on-windows-usb-sticks/"><u>Fixing No-Data Transfer Problems on Windows USB Sticks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-updated-logitech-g910-driver-package-for-a-seamless-pc-experience-on-windows-os/"><u>Get the Updated Logitech G910 Driver Package for a Seamless PC Experience on Windows OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>In 2024, Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-filming-in-water-proven-7-tips-for-vids/"><u>In 2024, Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-content-transfer-via-application-guard-in-edge-win-11/"><u>Mastering Content Transfer via Application Guard in Edge (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outsmarting-ongoing-login-prompts-on-microsoft-teams/"><u>Outsmarting Ongoing Login Prompts on Microsoft Teams</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-guide-zum-ssd-upgrade-ihres-hp-omen-30l/"><u>Schritt-Für-Schritt-Guide Zum SSD-Upgrade Ihres HP Omen 30L</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-disk-management-techniques-for-windows-1011/"><u>Simplifying Disk Management: Techniques for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-no-drivers-available-when-installing-windows/"><u>Solutions for 'No Drivers Available' When Installing Windows</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-diagnosis-of-windows-pc-graphics-hardware-with-expert-tips-from-yl-computing/"><u>Step-by-Step Diagnosis of Windows PC Graphics Hardware with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-android-gaming-on-pcs-through-google-play/"><u>Step-by-Step Guide to Android Gaming on PCs Through Google Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-prores-format-converters-how-to-seamlessly-transition-between-prores-videos/"><u>Top Rated ProRes Format Converters: How to Seamlessly Transition Between ProRes Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-in-multitasking-the-advantage-of-16gb-ram/"><u>Winning in Multitasking: The Advantage of 16GB RAM</u></a></li>
+</ul></div>
+

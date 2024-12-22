@@ -1,7 +1,7 @@
 ---
 title: "The Pathway to Infinite Earnings with Like A Dragon: Expert Tips and Tricks for Gamers on PC"
-date: 2024-12-06T19:29:09.726Z
-updated: 2024-12-13T02:41:56.511Z
+date: 2024-12-17T21:10:10.110Z
+updated: 2024-12-21T19:24:46.073Z
 tags:
   - win11
   - win10
@@ -45,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 2. Right-click the**Deathloop.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
@@ -62,25 +63,18 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 2. Click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
-4. Click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
+4. Click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -98,7 +92,15 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -109,19 +111,16 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -131,15 +130,15 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
 
@@ -151,10 +150,15 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click**Steam** at the top right and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Discord
@@ -163,11 +167,12 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click the **cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
  Deathloop should be back to normal after you applied the settings as above.
 
@@ -190,24 +195,22 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-clearsnap-for-windows-quick-and-clean-shots/"><u>[New] ClearSnap for Windows Quick & Clean Shots</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fbx-the-ultimate-gaming-video-guide/"><u>[New] In 2024, FBX The Ultimate Gaming Video Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-6-social-media-outlets-boosting-business-revenue/"><u>[New] Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/12-best-free-video-compression-programs-top-picks-for-seamless-media-management/"><u>12 Best Free Video Compression Programs: Top Picks for Seamless Media Management</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-best-the-top-5-fpv-goggles-list/"><u>2024 Approved Selecting the Best The Top 5 FPV Goggles List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726223861570-pcx-jpg-movavi/"><u>移動科技：免費 PCX 到 JPG 格式範例，以 Movavi 工具進行測試</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/converta-armazenamento-de-pc-para-mp3-gravatando-sem-custo-ajuda-do-movavi-online/"><u>Converta Armazenamento De PC Para Mp3 Gravatando Sem Custo: Ajuda Do Movavi Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-crop-tool-edit-your-videos-with-ease/"><u>Free Online Crop Tool: Edit Your Videos with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-fur-cr2-zu-bmp-mit-movavi-schnelle-und-einfache-umwandlung/"><u>Gratis Online Konverter Für CR2 Zu BMP Mit Movavi - Schnelle Und Einfache Umwandlung</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gesture-control-a-comprehensive-overview/"><u>In 2024, Mastering Gesture Control A Comprehensive Overview</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c51-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C51 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-vrijetijdige-mp4-in-m4a-vervanger-movavi-expertise-voor-duurzaamheid/"><u>Online Vrijetijdige MP4 in M4A Vervanger Movavi: Expertise Voor Duurzaamheid</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserving-privacy-while-leveraging-chatgpts-capabilities-in-business-environments/"><u>Preserving Privacy While Leveraging ChatGPT's Capabilities in Business Environments</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/seize-visual-riches-from-four-premium-youtube-portals-for-2024/"><u>Seize Visual Riches From Four Premium YouTube Portals for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12r-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12R ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-top-final-cut-pro-replacements-for-windows-users-in-202-cuffs-save-your-projects/"><u>The Ultimate List of Top Final Cut Pro Replacements for Windows Users in 202 Cuffs: Save Your Projects!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-convertisseurs-mov-gratuits-pour-mac-windows-et-en-ligne-comparatif-complet/"><u>Top 11 Convertisseurs MOV Gratuits Pour Mac, Windows Et en Ligne : Comparatif Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-standard-image-dimensions-expert-tips-from-movavi/"><u>Ultimate Guide to Standard Image Dimensions - Expert Tips From Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>[New] 2024 Approved Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-bring-out-the-vibes-of-your-channel-top-10-online-artists-unite/"><u>[New] In 2024, Bring Out the Vibes of Your Channel Top 10 Online Artists Unite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-dilemmas-of-windows-power-saving-standby/"><u>Deciphering the Dilemmas of Windows' Power-Saving Standby</u></a></li>
+<li><a href="https://win-studio.techidaily.com/die-top-strategien-zum-schutz-ihres-servers-windows-server-2019-2016-und-2012/"><u>Die Top-Strategien Zum Schutz Ihres Servers: Windows Server 2019, 2016 Und 2012</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-boost-your-twitter-following/"><u>Effective Strategies to Boost Your Twitter Following</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluate-if-your-computer-meets-windows-11-requirements/"><u>Evaluate If Your Computer Meets Windows 11 Requirements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reestablishing-non-working-ccleaner-in-win1011-pcs/"><u>Guide to Reestablishing Non-Working CCleaner in Win10/11 PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 12 5G FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus Bootloader Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-camera-not-showing-in-windows-device-manager-heres-how-to-fix-it/"><u>Is Your Camera Not Showing in Windows' Device Manager? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-11-shutdown-interval-when-jobs-are-pending/"><u>Manipulating Windows 11 Shutdown Interval when Jobs Are Pending</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-lag-mastering-quick-instagram-on-all-mobile-devices-with-these-6-tips/"><u>No More Lag: Mastering Quick Instagram on All Mobile Devices with These 6 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-drone-models-for-2024/"><u>Pioneering Drone Models for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-organization-best-windows-photo-arrangers/"><u>Prioritize Organization: Best Windows Photo Arrangers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-stop-to-automatic-windows-and-office-updates/"><u>Quick Stop to Automatic Windows and Office Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-note-spotting-in-win-desktop/"><u>Strategic Note Spotting in Win Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-media-streams-on-a-budget-score-the-nanoleaf-4d-for-just-80-this-cyber-monday-featured-by-zdnet/"><u>Transform Your Media Streams on a Budget - Score the Nanoleaf 4D for Just $80 This Cyber Monday, Featured by ZDNET</u></a></li>
 </ul></div>
 

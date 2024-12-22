@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Modern Standby: A Critical Analysis"
-date: 2024-08-16T02:44:09.695Z
-updated: 2024-08-17T02:44:09.695Z
+date: 2024-12-16T08:28:30.757Z
+updated: 2024-12-22T02:18:54.854Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  Windows Modern Standby is a term that you might have heard, but unless you’re particularly tech-savvy, you probably won’t know what it means. That’s why we’ve put together this article to explain what it is in simple terms and whether you need to worry about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Windows Modern Standby?
 
  Windows Modern Standby is a new standby system developed by Microsoft for their family of Windows operating systems in 2020\. It replaces the old version of standby to help reduce the power being used up when waking and sleeping on a modern PC.
@@ -27,13 +31,15 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
  This differs from classic standby, which would take the state of your PC (what you were doing when you put it to sleep) and hold that in memory. Then, when you turn it back on, your PC can fetch it from storage to resume exactly what you were doing. The key difference is that, on the old standby, also known as S3 standby, only a small amount of power was put into the memory on your PC, so it could store information, whereas modern standby provides more power directly to the CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Problem With Windows Modern Standby?
 
 ![Windows 11 menu with various options for sleep modes and power consumption options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-system-power-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve ever left your laptop or tablet in sleep mode in your bag, then found it was horribly hot and completely dead when you tried to use it later, then you’ve experienced Windows Modern Standby. While the feature does try to bring Windows devices more in line with Smartphones, it has also led to various laptops and tablets completely draining when they’re not being used.
@@ -47,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
  There’s also the lifespan of your devices' batteries to consider. If your laptop or tablet is sitting on your coffee table constantly running powerful CPU processes, then you’re likely to find that the battery dies much sooner than you were expecting, and they can be expensive or difficult to replace or repair.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Windows Modern Standby
 
  Now that you know there’s a problem, you might want to learn [how to turn off Windows Modern Standby on your Windows 10/11 devices](https://www.makeuseof.com/windows-disable-modern-standby/). Luckily, it is possible to turn the feature off, though the method is somewhat obtuse. You also have the option of [temporarily disabling sleep mode](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) entirely, which is easier but less effective as options go.
@@ -56,22 +63,12 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
  Bear in mind if you disable this feature, you might find that your laptop takes longer to wake up from sleep mode, and it also won't download any updates for you while you're not using it. If you’re not experiencing a power drain, as mentioned above, then you should leave the feature enabled. On Desktop PCs or laptops/tablets that don’t have a powerful CPU, Windows Modern Standby is a convenience that is worth having.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Modern Standby, in a Nutshell
 
  You should now have a decent understanding of what Windows Modern Standby is, why it's a problem, and how to deal with it. You should now find that you're actually able to use your device after a long journey, assuming that you've done everything you can to keep your battery healthy and alive anyway.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -79,3 +76,25 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-pros-to-follow-vr-industry-trailblazers/"><u>[New] Pros to Follow VR Industry Trailblazers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-tiktok-text-mastery-identify-these-five-pioneering-font-generators/"><u>[Updated] In 2024, TikTok Text Mastery Identify These Five Pioneering Font Generators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-balancing-intense-beats-with-fl-studios-easeful-dimming/"><u>2024 Approved Balancing Intense Beats with FL Studio's Easeful Dimming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-era-comparing-the-m3-and-m1-macbook-pro-for-tech-enthusiasts-is-an-upgrade-worth-it/"><u>Apple’s New Era: Comparing the M3 and M1 MacBook Pro for Tech Enthusiasts - Is an Upgrade Worth It?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-swf-files-to-mp4-for-free-using-movavis-online-tool-quick-and-simple-upload-process/"><u>Convert SWF Files to MP4 for Free Using Movavi's Online Tool - Quick & Simple Upload Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-winservicesexe-in-windows-os/"><u>Decoding WinServices.exe in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discreet-data-transfer-embedding-zip-in-windows-image-files/"><u>Discreet Data Transfer: Embedding ZIP in Windows Image Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-audio-error-0xc00d36b4/"><u>Fixing Windows Audio Error: 0XC00D36B4</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-a-brief-history-of-virtual-reality/"><u>In 2024, A Brief History of Virtual Reality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-barnes-and-nobles-nook-glowlight-plus-the-ultimate-large-screen-ereader/"><u>In-Depth Analysis of Barnes & Noble's Nook GlowLight Plus: The Ultimate Large-Screen Ereader</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-turn-off-defender-firewall/"><u>Mastering Windows 11: Turn Off Defender Firewall</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pricing-guide-to-film-a-bands-music-visual-for-2024/"><u>Pricing Guide to Film a Band's Music Visual for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/utionize-your-youtube-presence-with-personalized-thumbnails/"><u>Revolutionize Your YouTube Presence with Personalized Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-typing-tips-eliminate-latency-in-win-11-pcs/"><u>Speedy Typing Tips: Eliminate Latency in Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-best-computer-usage-tracking-apps-for-windows/"><u>The 6 Best Computer Usage Tracking Apps for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-modify-static-power-controls-in-windows-11/"><u>Tricks to Modify Static Power Controls in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-edges-resource-consumption-on-your-system/"><u>Trimming Edge's Resource Consumption on Your System</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows Security Overhaul: Alteration of Ruleset"
-date: 2024-12-12T02:45:36.368Z
-updated: 2024-12-12T16:11:38.284Z
+date: 2024-12-15T17:12:27.378Z
+updated: 2024-12-22T03:33:18.874Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Control Panel
 
  The Control Panel is an incredible tool that allows you to troubleshoot system issues or tweak PC settings. Now, let’s check out how this tool can help you reset the firewall settings:
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 4. Click the **Restore defaults** option on the left-hand side and follow the on-screen instructions.
 
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
 
@@ -63,7 +63,7 @@ netsh advfirewall reset
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
@@ -79,7 +79,7 @@ netsh advfirewall reset
  Wait for the process to complete, and then restart your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use the Windows Security App
@@ -97,7 +97,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -116,7 +116,7 @@ netsh advfirewall reset
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
@@ -150,22 +150,24 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-art-of-live-streaming-snapchat-videos/"><u>[New] 2024 Approved Master the Art of Live Streaming Snapchat Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-the-perfect-blend-in-minutes-with-picshot/"><u>[New] Crafting the Perfect Blend in Minutes with Picshot</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-maximize-your-library-a-comprehensive-list-of-online-mp3-tag-editor-powerhouses/"><u>2024 Approved Maximize Your Library A Comprehensive List of Online MP3 Tag Editor Powerhouses</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-free-driver-software-for-optimal-functionality-of-your-hp-designjet-500/"><u>Complete Guide: Free Driver Software for Optimal Functionality of Your HP Designjet 500</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-png-images-into-bmp-format-with-movavi/"><u>Free Online Converter: Transforming PNG Images Into BMP Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-para-cambiar-tu-fotografia-de-alta-calidad-dng-a-jpg-gratuito-usando-la-herramienta-en-linea-de-movavi/"><u>Guía Para Cambiar Tu Fotografía De Alta Calidad: DNG a JPG Gratuito Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-delete-a-specific-windows-bt-directory/"><u>How to Delete a Specific Windows ~BT Directory</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/luminous-android-videography-techniques/"><u>Luminous Android Videography Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4r-a-wav-sin-costo-el-poder-de-la-conversion-online-por-movavi/"><u>M4R a WAV Sin Costo: El Poder De La Conversión Online Por Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-flac-mp3/"><u>Movavi의 웹사이트에서 FLAC 파일을 MP3로 가용성 향상: 원격 무료 바이트 정렬과 전환</u></a></li>
-<li><a href="https://article-helps.techidaily.com/navigating-the-top-10-ios-gif-apps-for-2024/"><u>Navigating the Top 10 iOS GIF Apps for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/premier-10-moba-titles-for-android-devotees/"><u>Premier 10 MOBA Titles for Android Devotees</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-retailers-offering-discounts-on-ipad-pro-ipad-air-and-new-apple-pencil-pro-secure-your-early-bird-preorder-today/"><u>Top Retailers Offering Discounts on iPad Pro, iPad Air & New Apple Pencil Pro: Secure Your Early Bird Preorder Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmv-online-mjpeg-converter/"><u>WMV 이미지/비디오를 자동화된 바이트 스트림으로 무료로 변환: Online MJPEG Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-ogg-movavi/"><u>웹 내 MP4 포맷터를 무료로 사용자가 사용하기 위해 OGG 형식으로 변환 - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-wmv/"><u>최선의 MP4, WMV 바인딩: 영상 변환에 대한 전문가 권장</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-invisible-hand-mastering-windows-11s-media-imports/"><u>[Updated] 2024 Approved The Invisible Hand Mastering Windows 11'S Media Imports</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>2024 Approved The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-edge-of-av1-in-video-encoding/"><u>2024 Approved Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-desktop-image-fusion-for-2024/"><u>A Step-by-Step Guide to Desktop Image Fusion for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-diablo-immortal-pc-crashes-expert-tips-and-solutions-for-smooth-gaming/"><u>Defeat Diablo Immortal PC Crashes: Expert Tips and Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-the-authorization-manager-in-windows-11/"><u>How to Open the Authorization Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y78plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y78+</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-online-video-earnings-for-2024/"><u>Mastering Online Video Earnings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-key-choices-in-procuring-a-laptop-windows-style/"><u>Navigating Key Choices in Procuring a Laptop Windows Style</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/nvidia-streamlines-its-array-of-pc-software-offerings/"><u>NVIDIA Streamlines Its Array of PC Software Offerings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-obstacles-reinstate-mspm-in-windows-7/"><u>Overcome Obstacles: Reinstate MSPM in Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reduce-noise-simplifying-windows-11-shutdown/"><u>Reduce Noise: Simplifying Windows 11 Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-headset-mic-connectivity-issues/"><u>Resolving Windows Headset Mic Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slow-sell-of-windows-11-why-users-prefer-the-oldie/"><u>Slow Sell of Windows 11: Why Users Prefer the Oldie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reconnecting-malwarebytes-services-in-windows-11-os/"><u>Steps for Reconnecting Malwarebytes Services in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-arrange-bunched-up-taskbar-icons/"><u>Strategies to Arrange Bunched-Up Taskbar Icons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-nubia-z60-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-the-fix-for-security-snags/"><u>Unlocking Windows: The Fix for Security Snags</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-custom-avatars-with-these-free-online-face-generators/"><u>Updated In 2024, Create Custom Avatars with These Free Online Face Generators</u></a></li>
 </ul></div>
 

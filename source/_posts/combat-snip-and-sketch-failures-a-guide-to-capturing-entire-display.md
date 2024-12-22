@@ -1,7 +1,7 @@
 ---
 title: "Combat Snip & Sketch Failures: A Guide to Capturing Entire Display"
-date: 2024-12-10T19:05:25.001Z
-updated: 2024-12-12T17:13:37.746Z
+date: 2024-12-20T21:56:02.514Z
+updated: 2024-12-21T19:18:27.694Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,6 @@ Here is how you can change the scaling settings:
 ![Adjust the Scale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scale-settings-windows11.jpg)
 5. Close the Settings app and reboot to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hopefully, upon reboot, you will no longer face the problem.
 
  Another way to fix the issue in this scenario is by setting the bigger scaling ratio monitor as your primary display. This is because Windows tends to prioritize the primary display when it comes to scaling. It will set the scaling of the secondary monitor based on the primary one.
@@ -67,7 +63,15 @@ To change your primary display on Windows, follow these steps:
 5. Choose the**Make this my main display** option.  
 ![Switch the main display in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/switch-displays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Snip & Sketch
 
@@ -84,20 +88,20 @@ Follow these steps to proceed:
 ![Click on the New option in Snip & Sketch tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Snip & Sketch
 
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
 
  Since the Snip & Sketch tool is a Microsoft Store app, you can use the Store utility to update it. Here's[how to update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) in Windows, so check it out to learn how to keep Snip & Sketch (and all other Microsoft Store apps) updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair/Reset Snip & Sketch
 
@@ -112,17 +116,13 @@ Here is how to do that:
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
 3. Now, scroll down the following window to look for Snip & Sketch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
 6. Wait for the process to complete, then check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
@@ -148,24 +148,17 @@ Here is how to do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obs-and-shadowplay-which-streams-better/"><u>[New] 2024 Approved Obs and ShadowPlay - Which Streams Better?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>[New] In 2024, Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-screen-recording-tips/"><u>[Updated] 2024 Approved Best Screen Recording Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-snap-authenticity-guide-unveiling-selfies-truths-for-2024/"><u>[Updated] Insta Snap Authenticity Guide Unveiling Selfies' Truths for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-techniques-for-windows-administrators/"><u>Command Prompt Techniques for Windows Administrators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dynamic-control-of-windows-11-taskbar-space/"><u>Dynamic Control of Windows 11 Taskbar Space</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-way-to-set-up-your-arduino-with-windows-driver-installation/"><u>Easy Way to Set Up Your Arduino with Windows Driver Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-0xc0351000-error-windows-sandbox-without-hypervisor/"><u>Eliminating 0xC0351000 Error: Windows Sandbox without Hypervisor</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
-<li><a href="https://article-files.techidaily.com/portable-gear-for-travel-cinematography-for-2024/"><u>Portable Gear for Travel Cinematography for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestepping-winerror-740-elevation-solution-guide/"><u>Sidestepping WinError 740: Elevation Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-edges-ongoing-run-in-win11-environments/"><u>Steering Edge's Ongoing Run in Win11 Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-file-dates-the-windows-edition-approach/"><u>Tailoring File Dates: The Windows Edition Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-distinctive-edge-of-artificial-intelligence-devices/"><u>The Distinctive Edge of Artificial Intelligence Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-failed-proc-invocation-errors-in-malwarebytes/"><u>Tips for Correcting Failed Proc Invocation Errors in Malwarebytes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-uniqueness-in-ai-enhanced-computers/"><u>Unraveling the Uniqueness in AI-Enhanced Computers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlocking-the-secrets-of-effective-youtube-thumbnails/"><u>2024 Approved Unlocking the Secrets of Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v29-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V29 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-obstacles-in-capturing-whole-screen-with-windows-snipping-tool/"><u>Eliminating Obstacles in Capturing Whole-Screen with Windows Snipping Tool.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-blend-iphone-and-tiktok-seamlessly-mastering-siri-for-efficient-filming-for-2024/"><u>How to Blend iPhone and TikTok Seamlessly Mastering Siri for Efficient Filming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-apple-calendar-on-windows-11-or-11/"><u>How to Use Apple Calendar on Windows 11 or 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-optimization-top-techniques-for-businesses-and-brands-for-2024/"><u>Instagram Optimization Top Techniques for Businesses and Brands for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/master-live-stream-gaming-and-pc-monitoring-comprehensive-video-walkthrough-guides/"><u>Master Live Stream Gaming & PC Monitoring: Comprehensive Video Walkthrough Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-windows-11-functionality-with-powertoys/"><u>Maximize Windows 11 Functionality with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-separate-bunched-up-window-applications/"><u>Method to Separate Bunched-Up Window Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-curbing-excessive-http-requests-on-windows/"><u>Swift Remedies for Curbing Excessive HTTP Requests on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus 12 | Dr.fone</u></a></li>
 </ul></div>
 

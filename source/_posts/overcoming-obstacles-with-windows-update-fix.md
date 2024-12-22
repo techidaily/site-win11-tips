@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacles with Windows Update Fix
-date: 2024-12-06T00:01:37.580Z
-updated: 2024-12-12T20:47:14.024Z
+date: 2024-12-17T18:11:16.018Z
+updated: 2024-12-21T17:10:59.398Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  Restarting your PC should be the first thing you do when the Windows Update Troubleshooter gets stuck on a "resolving problems" loop.
 
  Then try running the Windows Update Troubleshooter to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear the DNS Cache
 
@@ -60,17 +68,13 @@ To fix this, you can try restarting Cryptographic Services.
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now close Services and try running the Windows Update Troubleshooter again.
@@ -85,10 +89,6 @@ To fix this, you can try restarting Cryptographic Services.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -101,12 +101,13 @@ To fix this, you can try restarting Cryptographic Services.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
-![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
-4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
+4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
@@ -133,7 +134,7 @@ To edit and enable the Scripted Diagnostics policy:
 7. Finally, tap on**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
@@ -161,16 +162,22 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-must-know-leaders-in-virtual-reality-realm-for-2024/"><u>[Updated] Must-Know Leaders in Virtual Reality Realm for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-mastering-icon-hiding-on-video-three-effective-methods-to-keep-your-brand-intact/"><u>1. Mastering Icon Hiding on Video: Three Effective Methods to Keep Your Brand Intact</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-step-by-step-guide-uploading-your-dvd-files-onto-google-drive-and-icloud/"><u>1. Step-by-Step Guide: Uploading Your DVD Files Onto Google Drive and iCloud</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>2024 Approved Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/deciphering-finances-how-much-do-youtubers-earn-per-ad-for-2024/"><u>Deciphering Finances How Much Do YouTubers Earn Per Ad for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-edge-exploiting-youtube-studio-for-global-viewers-for-2024/"><u>Earning Edge Exploiting YouTube Studio for Global Viewers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-mixer-streaming-tips-for-mac-users/"><u>Essential Mixer Streaming Tips for Mac Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavimp3-swfmp3/"><u>MovaviのフリーオンラインMP3変換ツール - SWFから直接MP3に!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/spotlight-the-25-influencers-redefining-engagement-for-2024/"><u>Spotlight The 25 Influencers Redefining Engagement for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-in-gif-animate-con-facilita-scopri-le-top-10-tecniche-di-movavi/"><u>Trasforma I Tuoi Video in Gif Animate Con Facilità: Scopri Le Top 10 Tecniche Di Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726227481489-wavmp3-movavi/"><u>WAVファイルから効率的なMP3への変換テクニック - Movaviオンラインツールをご利用ください🔊</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-bridging-reality-and-simulation-for-2024/"><u>[New] Bridging Reality and Simulation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-choose-the-right-frames-per-second-30-vs-60-for-2024/"><u>[New] How to Choose the Right Frames Per Second - 30 Vs. 60 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-making-your-own-google-cardboard-for-immersive-vr/"><u>[Updated] 2024 Approved Making Your Own Google Cardboard for Immersive VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-slideshow-software-for-xrxsx-models/"><u>[Updated] Selective Slideshow Software for Xr/XS/X Models</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-madden-19-review-exceptional-options-but-losing-freshness/"><u>Breaking Down Madden 19 Review: Exceptional Options but Losing Freshness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-visual-diskspace-analyzers-into-windows-ui/"><u>Embedding Visual DiskSpace Analyzers Into Window's UI</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-checks-and-balances-before-system-reset/"><u>Essential Checks and Balances Before System Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-fn-key-customizations-for-pcs-w10-and-w11/"><u>Masterful Fn Key Customizations for PCs, W10 & W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-x9b-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor X9b</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x0000011b-in-win11/"><u>Mastering the Resolution of Error 0X0000011B in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-sound-quality-with-dolby-atmos-for-windows/"><u>Maximize Sound Quality with Dolby Atmos for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-audio-conversion-mastery-unleashing-whisper/"><u>Real-Time Audio Conversion Mastery: Unleashing Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-network-connections-in-windows-10/"><u>Reestablishing Network Connections in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inconsistent-colors-on-windows-devices/"><u>Resolving Inconsistent Colors on Windows Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ming-made-simple-free-downloader-to-mp3s-now-for-2024/"><u>Streaming Made Simple Free Downloader to MP3s Now for 2024</u></a></li>
 </ul></div>
 

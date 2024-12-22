@@ -1,7 +1,7 @@
 ---
 title: The Key to Customizable Desktop Context in Modern OS
-date: 2024-12-05T19:22:07.499Z
-updated: 2024-12-13T00:03:14.703Z
+date: 2024-12-17T00:56:55.157Z
+updated: 2024-12-21T23:22:08.007Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Submenu to the Context Menu by Manually Editing the Registry
 
  You can manually create a context menu submenu that includes any number of software shortcuts with the Registry Editor. For the sake of example, here we’ll create a submenu that includes shortcuts for opening the Notepad and Remote Desktop Connection apps. Then you can add more shortcuts for software on your PC. First, you’ll need to lay the foundation for the submenu as follows:
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg)
 4. Enter **Menu1** to be the new key’s name.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click **Menu1** to select the **New** \> **String Value** options.
 
 1. Input **MUIVerb** for the new string’s name.
@@ -47,16 +47,12 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![The Menu1 registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-menu1-key.jpg)
 3. Double-click the **MUIVerb** string added to the **Menu1** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter **Apps** in the **Value** box for the **MUIVerb** string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the **Value data** box if preferred.  
 ![The MUIVerb string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg)
 5. Click **OK** to exit the Edit String window for **MUIVerb**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Next, double-click on the **SubCommand** string inside the **Menu1** key.
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 ![The Delete option for the Menu1 key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Submenu to the Context Menu With Easy Context Menu
 
  Easy Context Menu is a freely available context menu customization desktop app. That software enables you to add custom software shortcut submenus to the right-click menu without [manually editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/).
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 4. Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the **List Editor** button in Easy Context Menu.
@@ -119,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 2. Input **Software Shortcuts** in the **Title** box for the new submenu.  
 ![The List Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu.jpg)
 3. Click the **Add New** button with the **Software Shortcuts** submenu selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Select a program you want to include in the submenu and click **Open**.
 5. Repeat the previous two steps to add more programs to the submenu.  
@@ -138,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![software-shortcuts-submenu2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another advantage of utilizing Easy Context Menu is that it includes options for positing the submenu. You can configure the approximate position of that submenu by selecting one of the three **Show at** options for it within the List Editor window. You can also reposition the submenu or items in it by selecting them and clicking the **Move Up** or **Move Down** buttons.
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  Easy Context Menu also includes **Tools**, **System Tools**, and **Turn Off Options** submenus for you to add to the right-click menu. To add those submenus, select the **System Tools**, **Turn Off Options**, and **Tools** checkboxes for the desktop context menu and click **Apply Changes**. You can also deselect some of the checkboxes for those submenus to remove certain shortcuts from them.
 
 ![A Tools submenu added with Easy Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Organize Your Windows Desktop Context Menu Shortcuts With Submenus
 
@@ -155,21 +155,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
  If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-all-you-need-to-know-about-bandicam-updated-for-2024/"><u>[New] All You Need to Know About Bandicam (Updated ) for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-debating-on-the-significance-of-truthfulness-in-selfies-for-2024/"><u>[New] Debating on the Significance of Truthfulness in Selfies for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-essential-iphone-applications-for-clearing-photos-of-obstacles-for-2024/"><u>[New] Essential iPhone Applications for Clearing Photos of Obstacles for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/beyond-the-basics-advanced-techniques-for-improved-recordings-for-2024/"><u>Beyond the Basics Advanced Techniques for Improved Recordings for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-desktop-space-adding-personalized-weather-symbols-on-taskbar-in-windows-11/"><u>Customize Desktop Space: Adding Personalized Weather Symbols on Taskbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-10-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-apps-supporting-mac-users-in-their-windows-journey/"><u>Ideal Apps Supporting Mac Users in Their Windows Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-combining-audio-and-screens-apples-mix/"><u>In 2024, Combining Audio & Screens Apple's Mix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-meizu-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Meizu to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-fixes-to-overcome-windows-11-unresponsive-typing-error-x80049dd3/"><u>Swift Fixes to Overcome Windows 11 Unresponsive Typing Error - X80049DD3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/total-uninstallation-tactics-for-win-1011-wsl/"><u>Total Uninstallation Tactics for Win 10/11 WSL</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +162,22 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-editmaster-app/"><u>[New] EditMaster App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-techniques-selecting-audioscapes-for-unveiling-videos-for-2024/"><u>[New] Techniques Selecting Audioscapes for Unveiling Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beginners-guide-to-iphone-screen-capture/"><u>[Updated] Beginner's Guide to iPhone Screen Capture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo-for-2024/"><u>[Updated] Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-snip-and-sketch-failures-a-guide-to-capturing-entire-display/"><u>Combat Snip & Sketch Failures: A Guide to Capturing Entire Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722858349840-comparing-ipad-pro-and-macbook-air-unveiling-key-distinctions/"><u>Comparing iPad Pro and MacBook Air: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-apple-integrates-advanced-spatial-mapping-in-ipados-with-the-new-vision-pro-a-user-guide/"><u>Discover How Apple Integrates Advanced Spatial Mapping in iPadOS with the New Vision Pro - A User Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-steering-clear-of-missteps-with-chatgpt-in-content-generation/"><u>Essential Do's and Don'ts: Steering Clear of Missteps with ChatGPT in Content Generation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-troubleshoot-keyboard-shortcuts-on-windows-11/"><u>Fixed: Troubleshoot Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-microsoft-ai-transforms-online-marketplaces/"><u>How Microsoft AI Transforms Online Marketplaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-android-software-syncing-with-windows-devices/"><u>Ideal Android Software Syncing With Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unopened-share-glitch-in-nvidias-tool/"><u>Overcoming Unopened Share Glitch in NVIDIA's Tool</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/realms-reborn-state-of-the-art-virtual-experience/"><u>Realms Reborn State-of-the-Art Virtual Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/successfully-integrating-office-works-into-win11/"><u>Successfully Integrating Office Works Into Win11</u></a></li>
+</ul></div>
+

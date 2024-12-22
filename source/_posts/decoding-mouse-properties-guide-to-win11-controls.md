@@ -1,7 +1,7 @@
 ---
 title: "Decoding Mouse Properties: Guide to Win11 Controls"
-date: 2024-12-08T16:30:00.069Z
-updated: 2024-12-12T20:21:51.853Z
+date: 2024-12-18T16:41:11.579Z
+updated: 2024-12-21T21:10:23.026Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using the Start Menu
 
  The Start menu is the heart and soul of Windows OS and in Windows 11 it is more powerful than before. It can perform a deep search of files, pull results from the web, and launch the pinned apps and system tools without opening File Explorer. Repeat the following steps:
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using the Control Panel
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 4. The Mouse Properties window will launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Settings App
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Using the Run Dialog Box
 
  Windows Run Dialog Box can launch Windows tools and open folder locations if you enter the appropriate short codes or file names. You can launch the Control Panel version of Mouse Properties using the Run dialog box. Here’s how to do it:
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 1. Press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **control /name Microsoft.Mouse** in the text box and press the **Enter** key to launch the Mouse Properties applet.  
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -95,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
@@ -108,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
 4. Close the Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using Command Prompt
 
@@ -129,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 3. Mouse Properties tool will open in a new window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
@@ -143,7 +131,16 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 5. Paste the following path in the text box and click on the **Next** button: **"C:\\Windows\\System32\\main.cpl"**  
 ![Open Mouse Properties Using Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-shortcut.jpg)
 6. Now, type the name of the shortcut. We named it **Mouse Settings**. Click on the **Finish** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. You can double-click on the shortcut and adjust mouse settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Keyboard Shortcut
 
@@ -157,7 +154,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Gain Absolute Control Over Your Mouse on Windows
@@ -168,25 +169,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-boosting-channel-success-scaling-for-a-million-viewers-for-2024/"><u>[Updated] Boosting Channel Success Scaling for a Million Viewers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovators-crafting-engaging-marvel-escapades-for-2024/"><u>[Updated] Innovators Crafting Engaging Marvel Escapades for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-next-gen-windows-features-that-revolutionize-your-experience-for-2024/"><u>[Updated] Next-Gen Windows Features that Revolutionize Your Experience for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-strategic-planning-making-memorable-tiktok-videos-for-2024/"><u>[Updated] Strategic Planning Making Memorable TikTok Videos for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earnings-expertise-in-streams-a-comparative-study/"><u>Earnings Expertise in Streams A Comparative Study</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-learning-efficiency-with-ai-driven-note-taking-gpt-edition/"><u>Elevate Learning Efficiency with AI-Driven Note Taking - GPT Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-powershell-scripts-a-step-by-step-guide/"><u>Enabling PowerShell Scripts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enlisted-steps-to-mend-windows-and-ea-servers-linkup/"><u>Enlisted Steps to Mend Windows and EA Servers Linkup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-defy-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-narzo-60x-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme Narzo 60x 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-file-transfers-on-a-pc-insiders-list-of-favorites/"><u>Optimal File Transfers on a PC: Insider's List of Favorites</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-your-oculus-rift-s-mic-functionality-expert-advice/"><u>Quick Solutions to Restore Your Oculus Rift S Mic Functionality - Expert Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secret-methods-to-hide-windows-11s-language-indicator/"><u>Secret Methods to Hide Windows 11'S Language Indicator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-features-for-context-commands/"><u>Unveiling Windows' Hidden Features for Context Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-aggregatorhostexe-on-windows-and-is-it-safe/"><u>What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +176,23 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-automate-playlist-retrieval-from-youtube-directly-for-2024/"><u>[New] Automate Playlist Retrieval From YouTube Directly for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-art-of-leading-lines-in-iphone-visual-storytelling/"><u>[New] In 2024, The Art of Leading Lines in iPhone Visual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-vivacut-the-full-2024-video-editing-review/"><u>[Updated] Exploring VivaCut The Full 2024 Video Editing Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-fundamentals-of-managing-volume-increase-in-projects/"><u>[Updated] Fundamentals of Managing Volume Increase in Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaversal-motivation-a-curated-list-of-inspiring-quotes/"><u>[Updated] Metaversal Motivation A Curated List of Inspiring Quotes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-effective-hp-screen-capture/"><u>2024 Approved Unveiling the Secrets of Effective HP Screen Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-with-a-pure-start-in-w11/"><u>Cut the Clutter with a Pure Start in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-notetaking-techniques-for-windows-users/"><u>Effective Notetaking Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-and-seek-the-secret-of-the-shutdown-icon/"><u>Hide and Seek: The Secret of the Shutdown Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-multitask-better-on-a-windows-11-pc/"><u>How to Multitask Better on a Windows 11 PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tomtom-gopro-alternative-a-2023-review/"><u>In 2024, TomTom GoPro Alternative A 2023 Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-disabled-windows-protection-barrier/"><u>Strategies to Overcome Disabled Windows Protection Barrier</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-c1900101-in-new-windows-installation/"><u>Tackling C1900101 in New Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-history-of-your-windows-pc/"><u>Unraveling the History of Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-uncovering-7-critical-risks-of-inexpensive-auth-keys/"><u>Windows Woes: Uncovering 7 Critical Risks of Inexpensive Auth Keys</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tackling No Permission Saves Error Windows-Wise
-date: 2024-08-16T02:47:50.766Z
-updated: 2024-08-17T02:47:50.766Z
+date: 2024-12-14T22:02:25.447Z
+updated: 2024-12-22T05:54:05.275Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 2. Under the **Security** tab, select **Advanced**.
 3. Click the **Change** option next to the **Owner** field.  
 ![Folder Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Folder-Security-Settings-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **Yes** if the User Account Control (UAC) prompt appears.
 5. In the **Enter the object name to select** field, type in your username, and click the **Check Names** button. Then, hit **OK**.  
 ![Change Folder Owner on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Change-Folder-Owner-on-Windows.jpg)
@@ -56,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the App With Administrative Privileges
 
  Such an error could occur if the app or program you're using lacks the necessary permissions to access your PC's files. Most of the time, you can fix such issues by running the program with admin rights.
@@ -65,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
  Right-click on the program that’s giving you the error and select **Run as administrator**. Select **Yes** when the User Account Control (UAC) prompt appears. After that, try saving your file in the desired folder.
 
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Program Compatibility Troubleshooter
 
@@ -74,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 2. In the Program Compatibility Troubleshooter window, select **Troubleshoot program**.
 3. Mark the checkbox that reads **The program requires additional permissions** and hit **Next**.  
 ![Program Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Program-Compatibility-Troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
  After completing the above steps, see if you can save files without getting any errors.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check Your Antivirus Program
 
  At times, antivirus software on your PC may become overly cautious and prevent apps from accessing specific folders. When that happens, Windows may show the "You don’t have permission to save in this location" error message.
@@ -100,16 +96,21 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 2. Type **change user account control settings** and select the first result that appears.
 3. In the **User Account Control Settings** window, drag the slider to the bottom and hit **OK**.  
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select **Yes** when the User Account Control prompt shows up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After disabling User Account Control, check to see if you can save files in the desired folder.
 
 ## 7\. Save the File in a Different Location, Then Move It
 
  One way to bypass the "You don’t have permission to save in this location" error is to save your file in a different location and then move it to your desired folder. This is more of a workaround that you can use if the above methods don't work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Create a New User Account
 
@@ -123,15 +124,17 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 4. In the Microsoft account window, click on the **I don't have this person's sign-in information** link.
 5. Follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sign in with your newly created account, and the error should not appear after that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Troubleshoot the Issue in Safe Mode
 
  Safe Mode is a useful feature that can help you identify and troubleshoot various issues with your Windows PC. If none of the above methods work, you can try booting Windows in Safe Mode.
@@ -146,11 +149,31 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/udio-editing-wonders-for-youtube-filmmakers-for-2024/"><u>[New] Audio Editing Wonders for YouTube Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-blitz-through-edits-with-windows-11-pro-tips-for-2024/"><u>[New] Blitz Through Edits with Windows 11 Pro Tips for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-youtube-snippet-access-high-quality-free-download-for-2024/"><u>[New] Exclusive YouTube Snippet Access - High Quality, Free Download for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-likes-and-shares-for-financial-gain-on-snapchat-for-2024/"><u>[New] Leveraging Likes and Shares for Financial Gain on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-hdr-photography-your-essential-list/"><u>2024 Approved Mastering HDR Photography Your Essential List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-0x800700e9-malfunction-a-guide-for-xbox-game-pass-and-windows-11-users/"><u>Disabling 0X800700E9 Malfunction: A Guide for Xbox Game Pass & Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathways-resolving-c0000005-on-modern-windows-systems/"><u>Easy Pathways: Resolving C0000005 on Modern Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-on-the-new-samsung-galaxy-z-fold-eblows-expected-launch-date-pricing-and-speculated-details/"><u>Exclusive Scoop on the New Samsung Galaxy Z Fold Eblows Expected Launch Date, Pricing & Speculated Details</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-vocalvault-critique-of-live-sounds/"><u>In 2024, VocalVault Critique of Live Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-app-fails-addressing-windows-unhandled-exception/"><u>Preventing App Fails: Addressing Windows Unhandled Exception</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-ui-adding-custom-wordpad-command-keys/"><u>Tailoring Windows UI: Adding Custom WordPad Command Keys</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-true-cost-of-quality-a-comprehensive-evaluation-of-the-winegard-fl5500a-flatwave-antenna/"><u>The True Cost of Quality: A Comprehensive Evaluation of the Winegard FL5500A FlatWave Antenna</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooter-restoration-tactics-for-windows-11-users/"><u>Troubleshooter Restoration Tactics for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-from-steams-remote-play-errors/"><u>Unblocking Windows From Steam's Remote Play Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-implementing-usb-access-rules-in-os/"><u>Understanding and Implementing USB Access Rules in OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-10-best-free-and-paid-podcast-editing-software-products/"><u>Updated 2024 Approved 10 Best Free and Paid Podcast Editing Software Products</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-reunite-with-your-copilot/"><u>Windows 11: How To Reunite With Your Copilot</u></a></li>
+</ul></div>
+

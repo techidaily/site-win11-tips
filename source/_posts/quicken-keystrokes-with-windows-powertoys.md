@@ -1,7 +1,7 @@
 ---
 title: Quicken Keystrokes with Windows PowerToys
-date: 2024-08-16T02:45:25.996Z
-updated: 2024-08-17T02:45:25.996Z
+date: 2024-12-17T18:22:12.891Z
+updated: 2024-12-22T05:49:32.606Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
  PowerToys has a few utilities like the Keyboard Manager, Quick Accent, and Shortcut Guide to help you speed up your typing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is PowerToys? How Can You Get It?
 
  Developed by Microsoft in collaboration with its community, PowerToys is a suite of open-source utilities you can install on your Windows 10 or 11 PC. With PowerToys, you can customize your Windows experience and enhance your productivity and efficiency.
@@ -30,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
  Once you have PowerToys, you can use the Keyboard Manager, Quick Accent, and Shortcut Guide to type faster. Remember that PowerToys must be activated and running in the background for these utilities to work.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remap Keys and Shortcuts With the Keyboard Manager
 
  The Keyboard Manager lets you remap keys and shortcuts on your keyboard with the keys you are most comfortable typing with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remap Keys to Type Faster
 
@@ -56,8 +61,9 @@ To remap your keys with Keyboard Manager:
  Now under the**Mapped to** section, click on the**Type** button. Now press**Ctrl + I** or the Italicize shortcut on the keyboard to map the**F1** key to it.
 
 ![F1 Key Remapped to Ctrl + I Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-key-to-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, when you need to italicize a text, instead of Ctrl + I, just press a single key, F1\. So you'll automatically be typing faster.
@@ -73,8 +79,9 @@ To remap your keys with Keyboard Manager:
  You can choose**All Apps** as the Target App or an app such as**Word** , where you want this remapped shortcut to work. But remember to put the executable name or**EXE name** of the Word app, which is**Winword** . You can easily find the EXE names of apps via a Google search.
 
 ![Shift + Z Physical Shortcut Mapped to Ctrl + B Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-shortcuts-powertoys.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, click on the blue**OK** button and click**Continue Anyway** on the prompt.
@@ -92,24 +99,15 @@ To remap your keys with Keyboard Manager:
  Under**Characters** ,**Choose a character set** you want to use, like Catalan, Dutch, French, German, Spanish, and more. Or choose**All available** to get all the options.
 
 ![Quick Accent Settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-accent-settings-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  To use Quick Accent, first press and hold the key of the character on which you want to add an accent. Then press the Activation Key.
 
  For example, if you want to use the accented character**ü** to type**München** , the German name of Munich—press and hold the**u** key and then press the**spacebar,** or the**left or right arrow keys** . A toolbar of accented characters for the letter**u** will appear on your PC screen.
 
 ![Toolbar of Accented Characters for the U Key on Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/munich-umlaut-quick-accent-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  Move across the toolbar with the**spacebar** or the**left or right arrow keys** to highlight the**ü** accented character. Then release the**u** key on your keyboard—and**ü** will get typed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
  You might not be able to always recall the[various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
@@ -118,12 +116,13 @@ To remap your keys with Keyboard Manager:
 
 ![Shortcut Guide Settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-guide-settings-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While typing, activate the Shortcut Guide. An overlay will appear on your screen displaying keyboard shortcuts that use the Win key. You'll also see the result of each shortcut written in the guide.
 
 ![Shortcut Guide Overlay in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-guide-overlay-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the shortcuts while the guide is displayed. So if you're holding the**Win** key, just press a letter like**E** —that would become**Win + E** and open up File Explorer. Release the Win key to close the overlay.
 
@@ -137,14 +136,11 @@ To remap your keys with Keyboard Manager:
 
  And now that you have PowerToys, you can explore the best things to do with these handy tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +149,18 @@ To remap your keys with Keyboard Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-quintessential-20-anime-openers-sounds-for-2024/"><u>[New] Quintessential 20 Anime Openers' Sounds for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-macs-best-choices-for-mkv-file-viewing/"><u>[Updated] 2024 Approved Mac's Best Choices for MKV File Viewing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-strategies-for-igtv-on-facebook-integration-for-2024/"><u>[Updated] Strategies for IGTV on Facebook Integration for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/differences-examined-ipad-pro-versus-macbook-pro-in-focus/"><u>Differences Examined: IPad Pro Versus MacBook Pro in Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-ms-project-efficiency-with-shortcuts/"><u>Elevate Your MS Project Efficiency with Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-speech-recognition-could-not-start-error-on-windows/"><u>How to Fix the Speech Recognition Could Not Start Error on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y56 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-search-of-truth-breaking-barriers-with-app-guard-and-beyond/"><u>In Search of Truth: Breaking Barriers with App Guard and Beyond</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-series-x-a-blu-ray-journey/"><u>Maximizing Xbox Series X: A Blu-Ray Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-text-editing-implementing-wordpad-triggers-in-windows-context-menus/"><u>Optimizing Text Editing: Implementing WordPad Triggers in Windows' Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-reinvigorate-windows-explorer-win-11/"><u>Quick-Fix Guide: Reinvigorate Windows Explorer, Win 11</u></a></li>
+</ul></div>
 

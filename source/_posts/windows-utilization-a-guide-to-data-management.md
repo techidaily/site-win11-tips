@@ -1,7 +1,7 @@
 ---
 title: "Windows Utilization: A Guide to Data Management"
-date: 2024-12-10T17:01:04.823Z
-updated: 2024-12-13T01:21:38.807Z
+date: 2024-12-21T02:35:32.032Z
+updated: 2024-12-21T23:02:48.617Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,14 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Check App Storage Usage From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
@@ -51,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
 
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
 
@@ -74,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -87,23 +87,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhancing-multilingual-reach-adding-subtitles-in-vimeo/"><u>[New] 2024 Approved Enhancing Multilingual Reach Adding Subtitles in Vimeo</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ensuring-clear-audio-in-remote-recording/"><u>[Updated] In 2024, Ensuring Clear Audio in Remote Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-techniques-for-webcam-integration-in-game-recording/"><u>[Updated] In 2024, Top Techniques for WebCam Integration in Game Recording</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-v2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic V2 FRP</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>Boosting Your YouTube Earnings Strategies for Monetizing Short Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-memory-not-written-problem/"><u>Counteracting Windows' Memory Not Written Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-system-bottleneck-explorers/"><u>Innovative System Bottleneck Explorers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/master-guide-for-selecting-tiktok-wallpapers-for-2024/"><u>Master Guide for Selecting TikTok Wallpapers for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-ico-investments-safely-insights-and-risk-assessment-strategies-from-yl-software-specialists/"><u>Navigating ICO Investments Safely: Insights and Risk Assessment Strategies From YL Software Specialists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-edge-for-less-cpu-overhead/"><u>Optimizing Edge for Less CPU Overhead</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-conflicts-of-in-use-resources-in-windows-1011-153-chars/"><u>Resolving Conflicts of In-Use Resources in Windows 10/11 (153 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-sudden-self-shutdown-windows-11-issues/"><u>Solving Sudden Self-Shutdown Windows 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-something-went-wrong-issues-on-office-windows/"><u>Tackling Something Went Wrong Issues on Office Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -111,3 +94,21 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-gamers-tools-premium-gear-lists-on-youtube/"><u>[New] 2024 Approved Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen-for-2024/"><u>[New] Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-youtube-title-creation-the-perfect-formula/"><u>[New] Mastering YouTube Title Creation The Perfect Formula</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-top-ten-youtube-music-reaction-stars-for-2024/"><u>[Updated] Unveiling the Top Ten YouTube Music Reaction Stars for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-screen-setup-gmail-pinned-to-the-windows-edge/"><u>Customizing Your Screen Setup: Gmail Pinned to the Window's Edge</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 14 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-ai-generated-prompts-tools-you-cant-miss/"><u>Leading AI Generated Prompts Tools You Can't Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-pc-management-leveraging-command-prompt-for-effective-identification-and-resolution-of-error-codes/"><u>Proactive PC Management: Leveraging Command Prompt for Effective Identification & Resolution of Error Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-lost-apps-reactivating-the-microsoft-store-windows-11/"><u>Revive Lost Apps: Reactivating the Microsoft Store (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-windows-11-control-panel-is-missing-key-settings-heres-where-to-find-them/"><u>The Windows 11 Control Panel Is Missing Key Settings, Here's Where to Find Them</u></a></li>
+</ul></div>
+

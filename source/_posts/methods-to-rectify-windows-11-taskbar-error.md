@@ -1,7 +1,7 @@
 ---
 title: Methods to Rectify Windows 11 Taskbar Error
-date: 2024-12-05T20:34:40.536Z
-updated: 2024-12-13T01:08:36.684Z
+date: 2024-12-19T01:59:33.906Z
+updated: 2024-12-22T02:59:28.554Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Windows File Explorer
 
 ![restart windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows Explorer is responsible for how you interact with the Windows 11 user interface. Restarting the service will reboot the GUI process and fix any temporary glitches causing the taskbar to stop working.
 
@@ -43,17 +43,9 @@ To restart a Windows Explorer service:
 4. Click the**Restart** task button in the top right corner. Alternatively, right-click on**Windows Explorer** and select**Restart** .
 5. Your screen may flicker for a moment as the Windows Explorer restarts. Your taskbar should start working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall and Re-Register All Windows Apps for All Accounts
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
@@ -68,15 +60,27 @@ To reinstall and register all Windows apps:
 `PS C:\Users\Administrator>`
 5. Close PowerShell and restart your computer. If you don’t want to perform a system reboot, restart Windows Explorer in Task Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the Recently Installed Windows Update
 
  If the taskbar starts to act up after installing a Windows update, uninstall the update to see if it helps fix the issue. Feature Windows updates can sometimes break more things they intend to fix.
 
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Close Conflicting System Services
 
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
 
@@ -93,10 +97,6 @@ To restart system services in Task Manager:
 
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
@@ -127,7 +127,7 @@ To make the Start menu use XAML:
  If the taskbar is not loading due to system file corruption,[run the DISM utility to repair the Windows image](https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/) . Next,[run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix issues with protected system files. Both processes can take a while to complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -141,13 +141,14 @@ To make the Start menu use XAML:
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the most recent one but created before the date of the taskbar issue and click**Next** . If you want to view which programs will be affected, click on**Scan for affected programs.**
 7. Read the description and click on**Finish** to confirm your restore point.
 
@@ -180,24 +181,20 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ideal-tools-for-secure-vimeo-downloads-for-2024/"><u>[New] Ideal Tools for Secure Vimeo Downloads for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-importance-of-understanding-asmr-media-for-2024/"><u>[New] The Importance of Understanding ASMR Media for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlock-the-power-8-best-no-cost-software-for-videographers-and-editors-for-2024/"><u>[New] Unlock the Power 8 Best No-Cost Software for Videographers & Editors for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-plotting-prime-promotional-summaries/"><u>[Updated] In 2024, Plotting Prime Promotional Summaries</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-undisclosed-browsing-of-fb-stories/"><u>[Updated] Undisclosed Browsing of FB Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-explore-virtual-lands-the-best-10-smartphone-vr-headsets/"><u>2024 Approved Explore Virtual Lands The Best 10 Smartphone VR Headsets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-chrome-alerts-on-windows-pc/"><u>Disabling Chrome Alerts on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-macos-with-windows-based-tools-and-applications/"><u>Enhancing macOS with Windows-Based Tools and Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fix-windows-without-router-webpage/"><u>Guide to Fix Windows Without Router Webpage</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>In 2024, HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-now-swift-installation-of-updated-intel-iris-540-video-card-drivers/"><u>Optimize Your PC Now: Swift Installation of Updated Intel Iris 540 Video Card Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerpoint-savings-survival-guide-top-6-tips-for-win11-users/"><u>Powerpoint Savings Survival Guide: Top 6 Tips for Win11 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v27-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V27 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-for-renaming-user-profile-directories-in-win11/"><u>Step-by-Step for Renaming User Profile Directories in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-avoid-file-lock-issues-on-windows-11-devices/"><u>Steps to Avoid File Lock Issues on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-memory-diagnostic-errors-on-pc/"><u>Tips to Overcome Memory Diagnostic Errors on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-high-quality-free-media-players-on-windows-pcs/"><u>Top 7: High-Quality, FREE Media Players on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-windows-calls-recording/"><u>Unveiling the Secrets to Windows Calls Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-audible-riches-from-social-media-videos-fb-to-mp3-guide/"><u>[Updated] 2024 Approved Audible Riches From Social Media Videos - FB To MP3 Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>[Updated] Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-money-maker-on-youtube/"><u>[Updated] In 2024, From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-detailed-examination-of-mycam-for-smart-home-setups-for-2024/"><u>A Detailed Examination of MyCam for Smart Home Setups for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s21-fe-5g-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S21 FE 5G (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dual-screen-switching-guide-for-pcs/"><u>Dual Screen Switching Guide for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-for-the-common-spotify-errors-on-win11/"><u>Easy Fixes for the Common Spotify Errors on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-wintoys-windows-edition-your-ultimate-toolkit/"><u>Exploring 'WinToys': Windows Edition - Your Ultimate Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-dangers-in-linkedins-latest-gaming-feature/"><u>Hidden Dangers in LinkedIn’s Latest Gaming Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-issues-in-pubg-setting-adjustments-for-windows-users/"><u>Overcoming Save Issues in PUBG: Setting Adjustments for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-help-desk-center/"><u>Quick Guide: Unlocking Windows' Help Desk Center</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-your-qualcomm-atheros-bluetooth-connection-on-windows-10-easy-fixes-revealed/"><u>Repair Your Qualcomm Atheros Bluetooth Connection on Windows 10 - Easy Fixes Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-xc0f1103f-with-geforce-now/"><u>Troubleshooting Error Code Xc0f1103f with GeForce Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/user-perspective-on-common-issues-with-windows-11/"><u>User Perspective on Common Issues with Windows 11</u></a></li>
 </ul></div>
 

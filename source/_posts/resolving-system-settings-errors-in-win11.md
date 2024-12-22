@@ -1,7 +1,7 @@
 ---
 title: Resolving System Settings Errors in Win11
-date: 2024-08-16T02:47:18.339Z
-updated: 2024-08-17T02:47:18.339Z
+date: 2024-12-17T20:05:33.292Z
+updated: 2024-12-22T09:06:22.788Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  Fortunately, it's a very common issue in Windows 11 and can easily be resolved using the below fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Some Basic Windows Fixes
 
  The SystemSettings.exe system error often occurs on systems with outdated or corrupt graphics drivers. In such cases,[downloading the latest graphics driver update](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) can resolve the issue.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  It's also important to ensure that you have[installed the latest Windows updates](https://www.makeuseof.com/update-windows-manually/) . This will not only provide access to the latest features but will also eliminate any bugs or glitches that may be causing the error.
 
  Corruption in the important system files is another major reason behind the error at hand. You can quickly detect and eliminate corruption by[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . However, if the SFC scan was unable to solve the issue,[run a DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) to resolve the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove Viruses & Malware From Your Computer
 
@@ -37,15 +45,13 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 3. Choose**Virus & threat protection** from the left sidebar and**Scan options** from the right pane.
 4. Select the**Full scan** bulletin and click the**Scan Now** button.  
 ![Full scan option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, wait till the scanning process is complete. It can take up to one hour, so keep patience. Once done, check out how to[remove found threats from your Windows PC](https://www.makeuseof.com/microsoft-defender-antivirus-found-a-threat/) .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Temporarily Disable Your Antivirus
 
  Improperly configured security applications can sometimes interfere with the functioning of trusted applications, resulting in error messages or complete failure to work. To address this issue, disabling your system's security application is often a viable solution.
@@ -53,14 +59,12 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  To disable the Windows Security app, check our guide on[temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11\. However, if you're using a third-party antivirus program, check its user manual to know about its disabling process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Create a New User Account
 
 ![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Creating a new user account is another solution to fix the SystemSettings.exe system error. This approach is particularly helpful if the issue is being caused by corruption in your current account.
 
@@ -69,29 +73,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  Alternatively, you can permanently delete the old user profile and use the new one instead. However,[back up important files and folders](https://www.makeuseof.com/tag/backup-windows-files-folders/) before deleting the user account.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use System Restore
 
  System Restore is an incredibly useful Windows feature that enables you to undo changes that have caused issues to your computer. You can[use System Restore](https://www.makeuseof.com/use-system-restore-windows/) to send your Windows PC to the time when you were not facing the SystemSettings.exe system error.
 
  It's important to keep in mind that restoring your system to a previous restore point will undo any changes made after the selected restore point. Therefore, make sure to[back up your data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) before proceeding with the restoration process.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the SystemSettings.exe Error on Windows
 
  The Systemsettings.exe system error is one of the many issues you might encounter while accessing the Windows Settings app. Facing this error can be really frustrating as it prevents you from making important changes to your system. Luckily, you can quickly troubleshoot this error using the solution above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,19 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-slide-by-slide-audio-integration-for-dynamic-ppts-for-2024/"><u>[New] Slide-by-Slide Audio Integration for Dynamic PPTs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-win32keygen-threat-signs-impact-and-defensive-actions/"><u>Dissecting Win32/Keygen Threat: Signs, Impact, and Defensive Actions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exposing-effective-promotions-for-2024/"><u>Exposing Effective Promotions for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fast-wi-fi-transmission-using-tp-link-av2000-evaluating-its-remarkable-speed-versus-ordinary-design-quality/"><u>Fast Wi-Fi Transmission Using TP-Link AV2000: Evaluating Its Remarkable Speed versus Ordinary Design Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-operations-error-709/"><u>Fixing Failed Operations: Error 709</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-canon-camcorder-video-editing-made-easy-tips-tricks-and-software/"><u>New Canon Camcorder Video Editing Made Easy Tips, Tricks, and Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/no-more-buffering-choose-from-our-top-15-youtube-playlist-downloads/"><u>No More Buffering? Choose From Our Top 15 YouTube Playlist Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-profitability-your-videos-vs-competitors-success-stories-for-2024/"><u>Pioneering Profitability Your Videos Vs. Competitors' Success Stories for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-dilemma-computer-unable-to-shut-down-under-windows-11-fixed/"><u>Solve the Dilemma: Computer Unable to Shut Down Under Windows 11 (FIXED)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-steps-to-tranquility-for-pcs/"><u>The Essential Steps to Tranquility for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-secure-and-swift-gpo-management-pathways-win11-style/"><u>Unveil Secure and Swift GPO Management Pathways, Win11 Style</u></a></li>
+</ul></div>
 

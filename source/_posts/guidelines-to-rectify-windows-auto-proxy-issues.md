@@ -1,7 +1,7 @@
 ---
 title: Guidelines to Rectify Windows Auto-Proxy Issues
-date: 2024-12-10T18:09:58.203Z
-updated: 2024-12-13T00:43:57.779Z
+date: 2024-12-18T18:40:29.606Z
+updated: 2024-12-21T16:33:11.227Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reboot Your Computer and Router
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Review Proxy Settings in Windows
 
  Because this issue is related to your Windows proxy settings, that's a sensible first place to check. To access proxy settings in Windows 10, open**Settings** , select the**Network & Internet** category, and switch to the**Proxy** tab on the left sidebar. This is in the same place on Windows 11, except**Proxy** is an item in the list instead of appearing on a sidebar.
@@ -51,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  Essentially, a proxy server acts as a middleman between your computer and the internet. Instead of you connecting directly to the internet, you connect to the proxy server, which grabs information from the internet for you.
 
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Network Adapter Troubleshooter
 
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update or Roll Back Your Network Driver
 
  An outdated network driver may lead to connection problems. Similarly, you might have recently installed a botched update for your network driver. In either case, replacing the driver could clear the proxy message issue.
@@ -104,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -125,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
@@ -132,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Scan for Malware
 
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
@@ -186,17 +186,24 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>2024 Approved Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>2024 Approved Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-simple-tricks-for-aspiring-photoshop-editors-for-2024/"><u>5 Simple Tricks for Aspiring Photoshop Editors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-volume-tailored-keyboard-shortcuts-win11/"><u>Crafting Volume Tailored Keyboard Shortcuts (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-windows-11-ui-ungrouping-tips/"><u>Ease Your Windows 11 UI: Ungrouping Tips</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expertenrat-fur-das-herunterladen-von-microsoft-sql-datenbanksicherungen/"><u>Expertenrat Für Das Herunterladen Von Microsoft SQL Datenbanksicherungen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/imessage-integration-on-windows-systems-unveiled/"><u>IMessage Integration on Windows Systems Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-over-windows-11-context-items/"><u>Regaining Control Over Windows 11 Context Items</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/simplify-information-storage-via-mematic-for-2024/"><u>Simplify Information Storage via Mematic for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-gameplay-now-cyberpunk-2077s-persistent-lag-and-frame-drops-resolved/"><u>Smooth Gameplay Now: Cyberpunk 2077'S Persistent Lag and Frame Drops Resolved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-your-windows-app-data-usage/"><u>Unveiling Your Windows App Data Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>[New] 2024 Approved Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-deciding-between-30fps-and-60fps-whats-best-for-video/"><u>[Updated] Deciding Between 30Fps and 60Fps What's Best For Video?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-directing-viewers-gaze-in-iphone-compositions-through-leading-lines-for-2024/"><u>[Updated] Directing Viewers' Gaze in iPhone Compositions Through Leading Lines for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagrams-per-video-restrictions/"><u>2024 Approved Mastering Instagram's Per-Video Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-constant-start-up-into-windows-cmos-settings/"><u>Circumventing Constant Start-Up Into Windows CMOS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-mouse-properties-guide-to-win11-controls/"><u>Decoding Mouse Properties: Guide to Win11 Controls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-gaming-experience-nintendo-switch-and-steam-synergy-for-2024/"><u>Elevate Your Gaming Experience Nintendo Switch and Steam Synergy for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-glitch-in-nvidia-experience-w11-edition/"><u>Eradicating Glitch in Nvidia Experience, W11 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-fatal-errors-encountered-by-developers-in-activisions-top-shooters/"><u>Expert Tips for Fixing Fatal Errors Encountered by Developers in Activision's Top Shooters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-se-2020-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone SE (2020)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-xlsm-document-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add your digital signature to a .xlsm document</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-display-orientation-in-windows/"><u>How to Change Display Orientation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/missing-sd-card-displayed-heres-a-quick-fix/"><u>Missing SD Card Displayed? Here's a Quick Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-photography-essentials-a-detailed-review-2023/"><u>Samsung Photography Essentials – A Detailed Review, 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-outlook-on-windows-heres-how/"><u>Speedy Outlook on Windows? Here's How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sticky-notes-unlocked-windows-11-edition/"><u>Sticky Notes Unlocked: Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-zerodxgierror-in-windows-11/"><u>Strategies to Resolve ZeroDXGI_ERROR in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-asking-too-many-hands-at-once-disk-issue/"><u>Tackling Asking Too Many Hands at Once Disk Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-rtx-graphics-cards-unlocking-the-secrets-behind-nvidias-latest-tech/"><u>What Are RTX Graphics Cards? Unlocking the Secrets Behind NVIDIA's Latest Tech</u></a></li>
 </ul></div>
 

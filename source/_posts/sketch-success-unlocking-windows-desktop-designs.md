@@ -1,7 +1,7 @@
 ---
 title: "Sketch Success: Unlocking Windows Desktop Designs"
-date: 2024-12-07T19:53:44.916Z
-updated: 2024-12-13T02:23:16.050Z
+date: 2024-12-15T03:39:08.688Z
+updated: 2024-12-22T06:46:41.803Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Draw on the Windows Desktop With Epic Pen
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
@@ -45,13 +41,17 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 8. Then you can select an**Enable Epic Pen Pro features for free** option to permanently unlock a Pro feature by opting into the Brightdata scheme for sharing your PC’s resources. You can opt into that scheme later if you wish, but to try out the basic version first click **I don’t want to enable free Epic Pen Pro features right now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Brightdata scheme option for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-epic-pen-pro-features-option.jpg)
 9. Select**Finish** (with the**Launch** checkbox enabled) to start Epic Pen.
 
 Now you can get scribbling on the Windows desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Epic Pen to Draw on Your Desktop
 
@@ -75,10 +75,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -89,12 +85,16 @@ Now you can get scribbling on the Windows desktop.
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
@@ -111,11 +111,11 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
- You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -136,17 +136,15 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/descubra-os-fios-do-arquivo-ts-um-manual-instrutivo-para-desembrulhamento-e-execucao/"><u>Descubra Os Fios Do Arquivo .ts: Um Manual Instrutivo Para Desembrulhamento E Execução</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-leading-free-3d-animation-tools-for-creatives-a-detailed-review/"><u>Discover the Leading Free 3D Animation Tools for Creatives – A Detailed Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhanced-connectivity-awaits-downloading-improved-wireless-network-drivers/"><u>Enhanced Connectivity Awaits - Downloading Improved Wireless Network Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ensuring-smooth-playthroughs-addressing-freezes-and-crashes-in-forza-horizon-5-on-windows-pcs/"><u>Ensuring Smooth Playthroughs: Addressing Freezes and Crashes in Forza Horizon 5 on Windows PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-honor-magic-5-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Honor Magic 5 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audience-favorites-screenplays-of-varied-genres/"><u>In 2024, Audience Favorites Screenplays of Varied Genres</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-principais-12-programas-freescreencapture-para-windows-problem/"><u>Os Principais 12 Programas FreeScreenCapture Para Windows # Problem</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-aerial-imagery-crews-the-10-drones-for-2024/"><u>Premium Aerial Imagery Crews The #10 Drones for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultra-fast-portable-ssd-deal-alert-secure-a-4tb-samsung-t5-for-up-to-half-off-on-amazon-zdnets-picks/"><u>Ultra-Fast Portable SSD Deal Alert: Secure a 4TB Samsung T5 for Up to Half Off on Amazon | ZDNet's Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-intels-new-chip-battlemage-eco-friendly-power-consumption-at-100w-less-than-ice-lake-generation-and-robust-overclocking-in-light-of-latest-raptor-43/"><u>Unveiling Intel's New Chip - Battlemage, Eco-Friendly Power Consumption at 100W Less Than Ice Lake Generation and Robust Overclocking in Light of Latest Raptor Lake Updates</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-free-video-fx-apps-the-ultimate-list-for-ios-and-android-for-2024/"><u>Updated Free Video FX Apps The Ultimate List for iOS and Android for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wi-fi-ram-movavi-online/"><u>무료 Wi-Fi RAM 이미지 형식 전환 - Movavi Online 시적</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[Updated] 2024 Approved Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>[Updated] In 2024, Hourly Highlight Reel #1 to #10 on YouTube's View Chart</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-improving-sound-speeds-a-guide-for-safe-spotify-use/"><u>2024 Approved Improving Sound Speeds A Guide for Safe Spotify Use</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-content-selecting-top-thumbnail-fonts/"><u>Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-when-it-displays-a-black-or-white-screen/"><u>How to Fix the Microsoft Store When It Displays a Black or White Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/huntings-top-5-best-video-recorders-for-2024/"><u>Hunting's Top 5 Best Video Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rallying-net-rejuvenate-your-system-quickly-max-156/"><u>Rallying .NET: Rejuvenate Your System Quickly (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-signals-in-your-pc-try-these-top-7-fixes-for-win11/"><u>Skyrocketing Signals in Your PC? Try These Top 7 Fixes for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eradicate-internal-server-issues-in-win-1011/"><u>Steps To Eradicate Internal Server Issues in Win 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tech-showdown-exclusive-insights-into-the-best-of-ces-2024-by-zdnet-editors/"><u>Top Tech Showdown: Exclusive Insights Into the Best of CES 2024 by ZDNet Editors</u></a></li>
 </ul></div>
 

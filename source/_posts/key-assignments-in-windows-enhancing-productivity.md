@@ -1,7 +1,7 @@
 ---
 title: "Key Assignments in Windows: Enhancing Productivity"
-date: 2024-12-11T16:59:13.541Z
-updated: 2024-12-13T03:09:31.209Z
+date: 2024-12-15T09:30:27.314Z
+updated: 2024-12-22T00:27:59.832Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
  Now, when you press the shortcut key combination, the program will be launched.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
  The process is pretty much the same here, with a few extra steps. Here’s how:
@@ -66,15 +62,7 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
 
@@ -84,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 2. Right-click on the program and click on **Properties**.  
 ![Setting up a keyboard shortcut via the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/03-taskbar-keyboard-shortcut.jpg)
 3. Add a keyboard shortcut to the **Shortcut key** field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
@@ -106,17 +98,27 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
@@ -127,23 +129,6 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-crossfade-audio-dynamics-in-production/"><u>2024 Approved Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-gratis-notebook-programs-for-windows-7-users-a-comprehensive-guide-to-effortless-learning/"><u>Best Gratis Notebook Programs for Windows 7 Users: A Comprehensive Guide to Effortless Learning</u></a></li>
-<li><a href="https://discover-best.techidaily.com/comparing-winx-dvd-ripper-platinum-and-dvd-copy-pro-key-feature-distinctions/"><u>Comparing WinX DVD Ripper Platinum & DVD Copy Pro - Key Feature Distinctions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-genius-widecam-f100-review-addressing-picture-clarity-and-sound-reproducibility-issues/"><u>Comprehensive Genius WideCam F100 Review - Addressing Picture Clarity & Sound Reproducibility Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-compelling-instagram-videos-that-stand-out-for-2024/"><u>Crafting Compelling Instagram Videos That Stand Out for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>First Steps Launching a YouTube Channel for Profit for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-revisit-facebooks-top-watches-a-step-by-step/"><u>In 2024, Revisit Facebook's Top Watches A Step-by-Step</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-solution-for-changing-audio-file-types-convert-asf-to-mp3-online/"><u>Movavi's No-Cost Solution for Changing Audio File Types - Convert ASF to MP3 Online</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-reno-10-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Reno 10 5G unlock screen</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/second-generation-google-nest-hub-without-camera-comprehensive-review/"><u>Second Generation Google Nest Hub Without Camera: Comprehensive Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oneplus-nord-3-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from OnePlus Nord 3 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/webm-to-mp4-livsgrenen-gratist-og-snar-konverting/"><u>Webm-to-MP4 Livsgrenen - Gratist Og Snar Konverting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/webpng-bmp/"><u>モバヴァイの無料WEB専用PNG BMPフォーマット変換ツール</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +136,22 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-artistic-freedom-with-the-top-10-mac-drawings/"><u>[New] 2024 Approved Master Artistic Freedom with the Top 10 Mac Drawings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unbeatable-online-video-recorders-ranked-10/"><u>[New] 2024 Approved Unbeatable Online Video Recorders Ranked #10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>2024 Approved Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-gt-neo-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme GT Neo 5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-value-smart-tv-showdown-detailed-review-of-the-hisense-40-inch-40h5590f-model/"><u>Best Value Smart TV Showdown - Detailed Review of the Hisense 40-Inch 40H5590F Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-robloxs-error-403-blockage-for-windows-users/"><u>Clearing Roblox's Error 403 Blockage for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-eliminating-office-365-bug-code-30015-26/"><u>Guide to Eliminating Office 365 Bug Code 30015-26</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-polishing-your-channels-auditory-appeal-on-youtube/"><u>In 2024, Polishing Your Channel's Auditory Appeal on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unleashing-originality-in-virtual-meme-worlds/"><u>In 2024, Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-definition-discoveries-a-win11-essential-guide/"><u>Instant Definition Discoveries: A Win11 Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-linux-with-windows-integration/"><u>Making the Most of Linux with Windows Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-stopping-edge-tabs-at-launch/"><u>Mastering Windows 11: Stopping Edge Tabs at Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-operations-solving-non-installation-issues-in-windows-enhancements/"><u>Smooth Operations: Solving Non-Installation Issues in Windows Enhancements</u></a></li>
+</ul></div>
+

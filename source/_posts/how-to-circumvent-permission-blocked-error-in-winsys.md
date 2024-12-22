@@ -1,7 +1,7 @@
 ---
 title: How to Circumvent 'Permission Blocked' Error in WinSys
-date: 2024-12-06T00:57:40.791Z
-updated: 2024-12-12T23:02:54.256Z
+date: 2024-12-17T16:27:59.129Z
+updated: 2024-12-22T05:09:45.131Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  After modifying the folder permissions, you should be able to save files without any problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Change the Folder's Owner
 
  If changing the folder permissions does not help, you can make yourself the folder owner. This will allow you to freely access, modify, and save files in that folder. It's worth noting that you can only do this if you're [logged in with an administrative account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/).
@@ -53,22 +49,27 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 3. Click the **Change** option next to the **Owner** field.  
 ![Folder Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Folder-Security-Settings-on-Windows.jpg)
 4. Select **Yes** if the User Account Control (UAC) prompt appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **Enter the object name to select** field, type in your username, and click the **Check Names** button. Then, hit **OK**.  
 ![Change Folder Owner on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Change-Folder-Owner-on-Windows.jpg)
 6. Tick the checkbox that reads **Replace owner on subcontainers and objects**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the App With Administrative Privileges
 
@@ -77,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Right-click on the program that’s giving you the error and select **Run as administrator**. Select **Yes** when the User Account Control (UAC) prompt appears. After that, try saving your file in the desired folder.
 
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Program Compatibility Troubleshooter
 
@@ -89,14 +94,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, see if you can save files without getting any errors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check Your Antivirus Program
 
@@ -146,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  There are [several ways to boot Windows into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/). Use your preferred method to boot your PC in Safe Mode and then check if you can save your files successfully. If this method works, it’s likely that a program or service in the background is causing the problem. Apps and programs that you've installed recently are more likely to have caused the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Save Your Files Without Any Issues
@@ -155,24 +156,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-premium-4k-displays-top-ten-elite-selections/"><u>[New] Premium 4K Displays Top Ten Elite Selections</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essentials-of-editing-your-social-media-profile-picture/"><u>[Updated] Essentials of Editing Your Social Media Profile Picture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/comparing-sharex-with-industry-leaders/"><u>Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dawns-judgment-new-ideas/"><u>Dawn’s Judgment New Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-teammers-frustrations-quickly/"><u>Ease Teammers' Frustrations, Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-mic-issues-within-the-game-of-fortnite/"><u>Expert Tips for Repairing Your Mic Issues Within the Game of Fortnite</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 with/without SIM Card</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-toolbar-usage-in-mspcm-for-windows-11/"><u>Mastering Toolbar Usage in MSPCM for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-pct-a-windows-fixers-journey/"><u>Navigating PCT: A Windows Fixer's Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-vmware-boot-failures-with-8-proven-strategies-win11/"><u>Sidestep VMware Boot Failures with 8 Proven Strategies, Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-economics-of-windows-11-for-microsoft/"><u>The Economics of Windows 11 for Microsoft</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-swift-students-guide-to-bypassing-edgenuity-videos-for-2024/"><u>The Swift Student's Guide to Bypassing Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-os-woes-quick-solutions-to-start-photoscape-immediately/"><u>Win OS Woes: Quick Solutions to Start Photoscape Immediately</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +163,27 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-temporal-twist-learn-how-to-turn-back-time/"><u>[Updated] In 2024, Instagram's Temporal Twist Learn How to Turn Back Time</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-whatsapps-voice-exchange/"><u>[Updated] In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-tutorial-for-youtube-customization-tools-for-2024/"><u>A Comprehensive Tutorial for YouTube Customization Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-your-own-hotkey-system-for-personal-efficiency/"><u>Designing Your Own Hotkey System for Personal Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-cinema-with-these-free-player-lists/"><u>Enhance Your Cinema with These FREE Player Lists</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-much-footage-does-instagram-allow/"><u>How Much Footage Does Instagram Allow?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-connect-to-a-vpn-in-windows-mac-ios-android/"><u>How to Connect to a VPN in Windows / Mac / iOS / Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-binge-worthy-banquet-these-15-unmissable-tiktok-cooking-and-baking-challenges/"><u>In 2024, Binge-Worthy Banquet These 15 Unmissable TikTok Cooking and Baking Challenges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>In 2024, Cinematic Expertise Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximizing-impact-10-indispentic-instagram-editors-apps-for-2024/"><u>Maximizing Impact 10 Indispentic Instagram Editors' Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-on-mac-running-windows-11-through-parallels/"><u>Maximizing Productivity on Mac: Running Windows 11 Through Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-multitask-mastery-in-windows-11/"><u>Maximizing Productivity: Multitask Mastery in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/my-transformative-language-journey-powered-by-mondly-the-essential-10-techniques/"><u>My Transformative Language Journey Powered by Mondly - The Essential 10 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-power-choices-on-modern-windows-pcs/"><u>Navigating Power Choices on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsofts-activation-error-0x8007251d-fixes/"><u>Navigating Through Microsoft's Activation Error 0X8007251D: Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/push-boundaries-with-unique-split-screen-videos-for-youtube-for-2024/"><u>Push Boundaries with Unique Split-Screen Videos for YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-legacy-directx-games-with-dxvk-enhancements/"><u>Reviving Legacy DirectX Games With DXVK Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/take-your-gaming-experience-to-new-heights-on-win-11-with-these-7-tips/"><u>Take Your Gaming Experience to New Heights on Win 11 with These 7 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-syncing-two-windows-systems-with-aoemi/"><u>The Ultimate Guide to Syncing Two Windows Systems with AOEMi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Introducing Smart Color Automation for Win11 Software Suite
-date: 2024-08-16T02:45:24.027Z
-updated: 2024-08-17T02:45:24.027Z
+date: 2024-12-15T17:47:33.316Z
+updated: 2024-12-22T07:00:32.182Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  This remarkable tool has been made available in Windows 11's 25309 build, but if you don't have this version yet, you can use a third-party application called ViveTool instead. Read this guide to learn how to enable Auto Color Management for apps in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Auto Color Management for Apps in Windows 11
 
  The Auto Color Management feature is currently in beta testing. It is only available in Windows Insider builds 25309 and above. If you want to enable this feature on your system, you will first need to [update to the latest Canary channel build](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and then [download ViVeTool from the GitHub page](https://github.com/thebookisclosed/ViVe/releases).
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
  Now open the Command Prompt with administrative rights. If you need help, see our detailed tutorial on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 
 ![Enable New Auto Color Management-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-new-auto-color-management-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you're in the Command Prompt window, run the following command:
 
@@ -47,20 +55,22 @@ vivetool /enable /id:36371531
 4. Next, turn on the toggle for **Automatically manage color for apps**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Settings Now Includes Auto Color Management
 
  With the release of Windows Insider builds 25309, you will get a new feature called Auto Color Management feature in your Windows settings. You can use it for multiple activities such as photo editing and graphic design.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,4 +79,16 @@ vivetool /enable /id:36371531
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-hero5-black-or-yi-comparing-top-actions-cameras-for-2024/"><u>[Updated] Hero5 Black or YI Comparing Top Actions Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-a-live-stream-online-for-2024/"><u>[Updated] How to Create a Live Stream Online for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-breakthrough-methods-in-logging-whatsapp-communication/"><u>2024 Approved Breakthrough Methods in Logging WhatsApp Communication</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-your-home-theater-setup-projection-or-television-for-4k/"><u>Decoding Your Home Theater Setup Projection or Television for 4K?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-git-management-with-github-desktop-on-windows-1011/"><u>Mastering Git Management with GitHub Desktop on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-for-cannot-open-source-file-in-win1110/"><u>Stepwise Approach for 'Cannot Open Source File' In Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-typing-efficient-shortcuts-for-snippets/"><u>Streamlined Typing: Efficient Shortcuts for Snippets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-a-more-dynamic-menu-adding-directories-in-windows-11/"><u>The Path to a More Dynamic Menu: Adding Directories in Windows 11</u></a></li>
+</ul></div>
 

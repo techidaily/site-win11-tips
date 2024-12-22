@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Gaming Experience: Using Intel Graphics Hub"
-date: 2024-08-23T06:59:10.258Z
-updated: 2024-08-24T06:59:10.258Z
+date: 2024-12-15T18:25:32.198Z
+updated: 2024-12-21T18:51:07.548Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 
  Want to relive your awesome gaming moments over and over again or share them with your friends? While you can use the Xbox Game Bar on Windows to record gameplay, you can also use the Intel Graphics Command Center if you like. It’s quite easy to do, and we’re going to show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Record Gameplay With the Intel Graphics Command Center on Windows?
 
  If you're still new to this app, it's a good idea to first learn[how to add games to the Intel Graphics Command Center for better performance](https://www.makeuseof.com/windows-intel-graphics-command-center-add-remove-games/) . Once you're familiar with the Intel Graphics Command Center, you can follow the steps below to capture gameplay with it:
@@ -26,8 +30,18 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 2. Launch Intel Graphics Command Center. If you don’t already have it, you can go to the Microsoft Store to download and install the[Intel Graphics Command Center](https://apps.microsoft.com/store/detail/intel%C2%AE-graphics-command-center/9PLFNLNT3G5G?hl=en-us&gl=us) .  
 ![the intel graphics command center home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-home.jpg)
 3. In Intel Graphics Command Center, select the**Capture** tab in the top menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the intel graphics command center capture screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-capture-screen.jpg)
 4. You will find that there’s a default capture profile already created for you, and you can start recording right away. However, you can also adjust the**Resolution** ,**Output File Name** , and**File Format** before beginning the capture session. Also, leave the**Stream to Location** option at**Save to Local Disk** at this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once you’re ready, click the**Start Recording** button – it’s below the top menu next to the**Capture Profiles** heading.
 6. Play your game and do some cool things worth recording.
 7. When you’re done recording, click the**Stop Recording** button – it will be right where the**Start Recording** button was.  
@@ -47,26 +61,29 @@ To create a custom profile, follow the steps below:
 2. Click**Custom** (the plus sign) below the**Capture Profiles** heading. The new profile will appear on the far right as a card, and it will have a generic name like**Custom 1** .  
 ![An intel graphics command center custom profile card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-custom-profile.jpg)
 3. You can rename the custom profile by clicking the**three horizontal dots** in the top right corner of the card and selecting**Rename** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![renaming a custom profile in the intel graphics command center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-rename-custom-profile.jpg)
 4. Tweak the**Resolution** ,**Save to Location** ,**Output File Name** , and**File Format** options to your liking.
 
 Now your custom profile is ready to go.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It’s All About Capturing Awesome Gaming Moments on Windows
 
  There’s no shortage of ways to record video game footage on Windows, and Intel Graphics Command Center is one of them. You can set it up the way you like and even create multiple capture profiles to save or stream gameplay in different ways. As you can see, it’s not that hard to do.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +92,20 @@ Now your custom profile is ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-the-best-curated-list-of-spectacular-offline-ios-titles/"><u>[Updated] 2024 Approved Best of the Best Curated List of Spectacular Offline iOS Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/android-no-cost-video-capture-tool-for-2024/"><u>Android No-Cost Video Capture Tool for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-xbox-glitches-in-windows-with-ease/"><u>Fixing Xbox Glitches in Windows with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-v29-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo V29</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-mastery-posting-on-snapchat-from-twitter-revealed/"><u>In 2024, Video Mastery Posting on Snapchat From Twitter Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-unsuccessful-discord-updates/"><u>Mastering the Art of Fixing Unsuccessful Discord Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-voice-features-xbox-and-windows-interaction/"><u>Restoring Voice Features: Xbox & Windows Interaction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-crashes-effective-solutions-for-stability-in-back-4-blood/"><u>Solving Game Crashes: Effective Solutions for Stability in 'Back 4 Blood'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-continuous-freezes-resolving-watch-dogs-legion-malfunctions-for-windows-users/"><u>Tackling Continuous Freezes - Resolving 'Watch Dogs: Legion' Malfunctions for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-retrogame-revival-through-retroarchs-shader-capabilities/"><u>The Art of RetroGame Revival Through RetroArch’s Shader Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-metaverse-journey-begins-exploring-6-engrossing-instances-for-2024/"><u>The Metaverse Journey Begins Exploring 6 Engrossing Instances for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-final-cut-pro-for-beginners-rotating-and-flipping-clips-like-a-pro/"><u>Updated 2024 Approved Final Cut Pro for Beginners Rotating and Flipping Clips Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-warfare-maximize-your-frame-rate/"><u>Winning at Warfare: Maximize Your Frame Rate</u></a></li>
+</ul></div>
 

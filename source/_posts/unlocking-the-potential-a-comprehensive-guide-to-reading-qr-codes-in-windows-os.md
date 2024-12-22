@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential: A Comprehensive Guide to Reading QR Codes in Windows OS"
-date: 2024-12-06T01:59:25.479Z
-updated: 2024-12-13T02:10:22.458Z
+date: 2024-12-18T03:47:25.857Z
+updated: 2024-12-22T05:51:50.150Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
  Microsoft added a QR code scanner to its native camera app for Windows. You can use the app to quickly scan a QR code on both Windows 10 and Windows 11 computers. Here are the steps for either OS:
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 4. Place your QR code in front of your computer's camera and the app will scan it automatically.  
 ![Windows Camera Barcode Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-camera-barcode-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's worth noting that the QR code option in the Camera app may not be visible if you aren't running the most recent version of Windows. In this case, you must enable the experimental features in the Windows Camera app to access the QR code option. Here's how:
 
 1. Open the **Camera** app on your PC using Windows Search. Check out [how to use Windows Search](https://www.makeuseof.com/windows-search-use-guide/) if you need help.
@@ -51,10 +51,14 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 4. Enable the toggle next to **Try out new experimental features**.  
 ![Enable Experimental Features in Windows Camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-experimental-features-in-windows-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Scan QR Codes From an Image on Windows
@@ -67,18 +71,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Scan QR Code From an Image Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-using-an-online-service.jpg)
 4. Once you upload the image, the website should scan it automatically and show the result in the **Scanned Data** box. You can copy the result from there if you want.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
@@ -105,23 +101,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Scan QR Code From Image on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-from-image-on-windows.jpg)
 5. The app will immediately scan the QR code within the selected image and open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You now know some quick and simple ways to scan QR codes on your Windows computer. The QR scanner built into the Camera app, a dedicated QR code scanner app, or a web-based solution should be all you need for everyday use.
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-master-list-of-leading-free-screen-capture-programs-for-2024/"><u>[New] Master List of Leading Free Screen Capture Programs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-beginners-tutorial-unveiling-the-secrets-of-mov-files-and-learning-easy-ways-to-open-them/"><u>A Beginner's Tutorial: Unveiling the Secrets of MOV Files & Learning Easy Ways to Open Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-your-next-favorite-kids-film-on-disney-plus-july-2024-collection/"><u>Discover Your Next Favorite Kids' Film on Disney Plus - July 2024 Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elusive-disappearance-of-taskbars-control-in-win-11/"><u>Elusive Disappearance of TaskBar's Control in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prolong-the-wait-before-closing-windows-10-when-active-tasks-are-running/"><u>How to Prolong the Wait Before Closing Windows 10 When Active Tasks Are Running</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-a23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy A23 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-innovate-thumbnails-discover-these-top-8-free-design-aids/"><u>In 2024, Innovate Thumbnails Discover These Top 8 Free Design Aids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-microsoft-store-error-on-win11-with-code-0x80073cf3/"><u>Remedying the Microsoft Store Error on Win11 with Code 0X80073cf3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unsticking-fortnite-troubleshooting-persistent-loading-issues/"><u>Unsticking Fortnite: Troubleshooting Persistent Loading Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-msvcr110dll-missing-error-and-how-do-you-fix-it/"><u>What Is the Msvcr110.dll Missing Error and How Do You Fix It?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +116,21 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/deciphering-non-installed-disk-errors-and-how-to-tackle-them-in-windows-11/"><u>Deciphering 'Non-Installed Disk' Errors and How To Tackle Them in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designing-dramatic-podcast-clips/"><u>Designing Dramatic Podcast Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-in-file-history-settings-on-windows-pcs/"><u>Fixing Error in File History Settings on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-premium-value-save-big-on-your-new-robot-vacuum-purchase-the-enhanced-yeedi-c13-pro-model/"><u>Get Premium Value: Save Big on Your New Robot Vacuum Purchase - The Enhanced YEEDI C13 Pro Model</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-on-your-computer-a-step-by-step-fix/"><u>How to Stop Dreamlight Valley From Crashing on Your Computer - A Step-by-Step Fix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p40plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P40+ Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-smart-outlet-solutions-the-ultimate-guide/"><u>Leading Smart Outlet Solutions: The Ultimate Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-directx-installation-problems/"><u>Overcoming DirectX Installation Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-gameplay-win-troubleshooting-epic-login/"><u>Reviving Your Gameplay: Win Troubleshooting Epic Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-0x80246007-windows-update-problems/"><u>Swift Solutions to 0X80246007 Windows Update Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-views-configuring-windows-11-dual-monitors/"><u>Tailor Your Views: Configuring Windows 11 Dual Monitors</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-symphony-how-spotify-and-facebook-are-converging-on-project-boombox/"><u>The Future Symphony: How Spotify & Facebook Are Converging on Project Boombox</u></a></li>
+</ul></div>
+

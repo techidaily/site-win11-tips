@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Fixing Authentication in Windows OS
-date: 2024-08-16T02:46:50.865Z
-updated: 2024-08-17T02:46:50.865Z
+date: 2024-12-15T16:57:12.106Z
+updated: 2024-12-21T21:07:44.897Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Scan for Malicious Programs
 
  If restarting the computer doesn't solve the issue, check your system for malicious software. Malware infections may corrupt system files and prevent LSA protection from working.
@@ -45,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -61,19 +62,22 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 Administrative Templates > System > Local Security Authority
 5. Double-click **Configure LSASS to run as a protected process** in the right pane.  
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making the above changes, restart your computer and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 4\. Tweak the Registry Editor
 
  If you're running Windows Home edition, you can tweak the Registry Editor to modify Local Security Authority protection values. The steps are pretty straightforward, but be aware that making incorrect changes to the registry can cause serious problems. To be safe, [back up the Windows Registry data](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -86,10 +90,12 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  You can also copy and paste the given path into the address bar at the top of the Registry window. Then, hit Enter to jump directly to the folder.
 5. In the right pane, double-click on **RunAsPPL** to open Edit DWORD (32-bit) Value.  
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Change the Value data from 0 to **2** and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
 
@@ -106,9 +112,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 5. Now click the three dots icon and select **Advanced options** from the menu.
 6. On the next page, scroll down to the **Reset** section and click **Reset**.  
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 7. If the confirmation window pops up, click **Reset** to continue.
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
@@ -120,20 +123,14 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the LSA Protection Error on Windows
 
  Local Security Authority protection safeguards unauthorized access to system resources, such as passwords or other sensitive information. However, this feature might not work as expected due to LSA Protection Error. Thanks to the potential solutions discussed in this guide, solving the problem is easy.
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +138,25 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-crafting-captivating-presentations-by-adding-tunes-for-2024/"><u>[New] Crafting Captivating Presentations by Adding Tunes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-create-stunning-mosaic-photo-collage/"><u>[New] In 2024, How to Create Stunning Mosaic Photo Collage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-balancing-creativity-and-monetization-in-youtube-shorts/"><u>[Updated] In 2024, Balancing Creativity and Monetization in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>2024 Approved Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-the-art-of-screen-enhancement-in-teams/"><u>2024 Approved Mastering the Art of Screen Enhancement in Teams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-hd-picks-for-impeccable-video-recorders/"><u>2024 Approved Premier HD Picks for Impeccable Video Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restart-win11s-dns-service-swiftly/"><u>How to Restart Win11's DNS Service Swiftly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-keep-your-windows-clutter-free-naturally/"><u>Learn to Keep Your Windows Clutter-Free Naturally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-store-installation-challenges/"><u>Mastering Windows Store Installation Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-disk-simplify-life-on-windows-pcs/"><u>Optimize Your Disk, Simplify Life on Windows PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/radiant-palette-adjuster/"><u>Radiant Palette Adjuster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-viewing-syncing-prime-and-windows-11-for-textual-perfection/"><u>Seamless Viewing: Syncing Prime and Windows 11 for Textual Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-security-with-custom-lock-patterns-on-windows-11/"><u>Steps to Enhance Security with Custom Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-strategy-pairing-airpods-with-windows-pcs/"><u>Stepwise Strategy: Pairing AirPods with Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-edge-40-neo-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Edge 40 Neo.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-not-recognizing-razer-devices/"><u>Troubleshooting Synapse Not Recognizing Razer Devices</u></a></li>
+</ul></div>
+

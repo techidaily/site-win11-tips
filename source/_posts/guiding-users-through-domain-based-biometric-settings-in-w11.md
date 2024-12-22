@@ -1,7 +1,7 @@
 ---
 title: Guiding Users Through Domain-Based Biometric Settings in W11
-date: 2024-12-09T01:21:36.490Z
-updated: 2024-12-13T01:59:44.509Z
+date: 2024-12-17T16:54:42.149Z
+updated: 2024-12-22T06:23:25.848Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Allow or Block a Biometrics Log-On via the Local Group Policy Editor
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 5. Choose the **Enabled** option to allow biometrics log on for the domain users. And choose the **Disabled** option to block biometrics log on for the domain users.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable option in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-option.png)
 6. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Allow or Block a Biometrics Log-On Using the Registry Editor
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 4. Name the value **Domain Accounts.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Naming the Value Domain Accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/domain-accounts.jpg)
 5. Double-click on the Domain Accounts value, type **1** in the **Value data** section to enable biometrics log on and **0** to disable biometrics log on for domain users.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Editing the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/value-data.jpg)
@@ -85,29 +85,6 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-review-and-insight-into-movavi-editor-plus-now-available/"><u>[New] Review & Insight Into Movavi Editor Plus, Now Available</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>[Updated] In 2024, Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-your-android-and-iphone-companion-to-igtv-downloads/"><u>[Updated] In 2024, Your Android & iPhone Companion to IGTV Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/all-about-bmp-image-files-exploring-opening-techniques-and-uses/"><u>All About BMP Image Files – Exploring Opening Techniques & Uses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-video-smoothing-applications-of-202-the-year-with-pay-free-choices-available/"><u>Best Video Smoothing Applications of 202 the Year, With Pay-Free Choices Available</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bright-spotlight-spk10-037s-adaptable-softbox-advantages/"><u>Bright Spotlight: SPK10-037's Adaptable Softbox Advantages</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-full-disk-capacity-in-windows-task-manager/"><u>Clearing Full Disk Capacity in Windows Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargar-convertidor-de-archivos-online-gratuito-mp4-a-ogg-por-movavi/"><u>Descargar Convertidor De Archivos Online Gratuito: MP4 a OGG Por Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargas-gratuitas-de-conversion-transformar-archivos-aif-a-formato-wmv-con-movavi/"><u>Descargas Gratuitas De Conversión: Transformar Archivos AIF a Formato WMV Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-offline-vob-to-m4a-transformation-try-the-no-cost-movavi-solution/"><u>Easy Offline VOB to M4A Transformation - Try the No Cost Movavi Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-of-m4b-audio-book-files-using-movavis-easy-tool/"><u>Free Online Conversion of M4B Audio Book Files - Using Movavi's Easy Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/i-migliori-strumenti-per-la-fusione-musicale-del-2024-scelta-definitiva-secondo-movavi/"><u>I Migliori Strumenti per La Fusione Musicale Del 2024: Scelta Definitiva Secondo Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi 14 Phone Without Password?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-music-copyright-rules/"><u>In 2024, Instagram Music Copyright Rules</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4a-aac-movavi/"><u>M4A를 AAC로 자유성 변환하는 웹 기회 - Movavi에서 시작!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726220879793-2024/"><u>𝗠𝗮'𝘃'𝗶𝘁𝗵-2024: 𝗕𝗲𝗼𝗿𝗸𝗮𝗹𝗹𝗹 𝗧𝗵𝗮'𝘁 𝗶𝘀𝗰𝗲𝗻𝘂𝘇𝗶𝗱𝗮𝘁 🚹🚺 | 𝗡𝗼𝘃𝗼𝘀𝘄𝗶𰨒: 𝗦𝗸𝗶𝘀 𝗮𝗹𝗱'𝘁𝘂𝗿𝗻𝗲𝗻𝘀</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-advanced-effects-tutorial/"><u>Updated In 2024, Take Your Videos to the Next Level Advanced Effects Tutorial</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -115,3 +92,22 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-sportscasting-your-pathway-to-highlight-videos/"><u>[New] In 2024, Sportscasting Your Pathway to Highlight Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>[New] In 2024, Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-mac-use-top-5-recommended-sniping-apps/"><u>[Updated] 2024 Approved Enhancing Mac Use Top 5 Recommended Sniping Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>[Updated] 2024 Approved YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-busy-resource-status-on-windows-11-systems/"><u>Counteracting Busy Resource Status on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decibels-dominance-the-ultimate-list-of-programs-for-above-100-output/"><u>Decibels Dominance: The Ultimate List of Programs for Above-100% Output</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facebook-login-theft-uncovering-the-deceptive-chrome-fake-chatgpt-extension/"><u>Facebook Login Theft: Uncovering the Deceptive 'Chrome Fake ChatGPT' Extension</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-magic-5-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 5 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/introductory-walkthrough-how-to-employ-mobizen-screensaver-tools-for-2024/"><u>Introductory Walkthrough How to Employ Mobizen Screensaver Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fn-key-modifications-in-win-1011/"><u>Mastering FN Key Modifications in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/moving-beyond-flashy-features-to-essentials/"><u>Moving Beyond Flashy Features to Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revealing-hidden-aspects-in-minecraft-for-2024/"><u>Revealing Hidden Aspects in Minecraft for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-a-more-dynamic-menu-adding-directories-in-windows-11/"><u>The Path to a More Dynamic Menu: Adding Directories in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>
+

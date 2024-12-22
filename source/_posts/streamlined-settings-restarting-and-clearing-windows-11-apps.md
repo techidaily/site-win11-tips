@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Settings: Restarting and Clearing Windows 11 Apps"
-date: 2024-12-10T23:13:45.901Z
-updated: 2024-12-12T16:50:33.240Z
+date: 2024-12-21T02:44:55.057Z
+updated: 2024-12-22T04:31:04.519Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 11
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -66,14 +70,10 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
 
@@ -96,21 +96,18 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-trendsetters-pictures-origins-explored/"><u>[Updated] 2024 Approved Trendsetters' Pictures Origins Explored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-netflix-adjust-stream-pace/"><u>[Updated] Mastering Netflix Adjust Stream Pace</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-uncover-top-affordable-video-enhancement-platforms-a-comprehensive-guide/"><u>2024 Approved Uncover Top Affordable Video Enhancement Platforms - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2024nun-en-guclu-yabanci-teknikli-ucretlessan-video-donusturme-programi/"><u>2024'Nun En Güçlü Yabancı Teknikli Ücretlessan Video Dönüştürme Programı</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descubra-os-seus-melhores-ferramentas-pdf-reader-a-lista-dos-6-mais-indispensaveis-para-editores-e-lectores/"><u>Descubra Os Seus Melhores Ferramentas PDF Reader: A Lista Dos 6 Mais Indispensáveis Para Editores E Lectores</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-intel-video-driver-glitches-on-windows-11-8-and-7/"><u>Easy Fixes for Your Intel Video Driver Glitches on Windows 11, 8 and 7!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/editor-videografico-ideale-per-i-creator-di-youtube-i-migliori-14-software-del-2024/"><u>Editor Videografico Ideale per I Créator Di YouTube: I Migliori 14 Software Del 2024!</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-started-how-to-update-your-canon-dr-c225-printer-drivers-on-latest-windows-versions/"><u>Getting Started: How to Update Your Canon DR-C225 Printer Drivers on Latest Windows Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-converter-de-mkv-a-flac-por-movavi/"><u>Gratis Online Converter De MKV a FLAC Por Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo T2 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-m4b-bestandjes-omzetten-uploaden-and-herunterladen-online-zonder-kosten/"><u>Movavi: M4B-Bestandjes Omzetten, Uploaden & Herunterladen Online Zonder Kosten</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-rw2-en-images-png-sans-frais-avec-easyformat-pro/"><u>Transformez Vos Fichiers RW2 en Images PNG Sans Frais Avec easyFormat Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-video-formats-mp4-and-mkv-compared-by-movavi-for-optimal-viewing-quality/"><u>Understanding Video Formats: MP4 and MKV Compared by Movavi for Optimal Viewing Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-installation-hurdles-cleared-strategies-that-worked-for-us/"><u>Windows 11 Installation Hurdles Cleared - Strategies That Worked for Us</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-high-quality-capture-the-best-applications-reviewed/"><u>[New] 2024 Approved High-Quality Capture The Best Applications Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sleight-of-the-brain-navigating-top-room-riddles/"><u>[Updated] 2024 Approved Sleight of the Brain Navigating Top Room Riddles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-scrutinizing-selfies-on-instagram-validation-necessary/"><u>[Updated] Scrutinizing Selfies on Instagram Validation Necessary?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-14-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi 14 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-vm-setups-perfect-with-windows-11-laptopsdesktops/"><u>Essential VM Setups Perfect with Windows 11 Laptops/Desktops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210091551-9780857304216-hauntology/"><u>Hauntology | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-teams-crashing-on-windows-11-and-10/"><u>How to Fix Microsoft Teams Crashing on Windows 11 and 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-win11-taskbar-sizes-and-placement/"><u>Mastering Win11 Taskbar Sizes and Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-full-screen-capture-annoyances-with-these-4-strategies/"><u>Overcoming Full-Screen Capture Annoyances with These 4 Strategies.</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oppo-a79-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A79 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-performance-reducing-ums-load-from-vanguard-on-windows-pcs/"><u>Sharpening Performance: Reducing UMS Load From Vanguard on Windows PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-elegance-in-design-with-canvas-hidden-tips-for-2024/"><u>The Art of Elegance in Design with Canva's Hidden Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unified-windows-11-taskbar-without-groups/"><u>Unified Windows 11 Taskbar without Groups</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity with Self-Crafted Windows 11 Shortcuts
-date: 2024-12-09T18:08:20.145Z
-updated: 2024-12-12T18:53:06.374Z
+date: 2024-12-15T19:35:40.714Z
+updated: 2024-12-21T17:47:39.027Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -39,10 +43,15 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 7. Press the **Browse** button to choose an installation folder.  
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Software Hotkeys
@@ -54,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
@@ -63,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 5. Select an app for the hotkey to launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click the **OK** button.
@@ -73,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
@@ -115,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
 
 1. Click the **Add** button.  
@@ -144,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
@@ -153,25 +154,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphone-image-arrangement-top-10-tips/"><u>[New] Mastering iPhone Image Arrangement Top 10 Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expert-insights-on-optimal-fpv-drone-blades-for-2024/"><u>[Updated] Expert Insights on Optimal FPV Drone Blades for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-professional-tools-to-elevate-your-video-openings-for-2024/"><u>[Updated] Professional Tools to Elevate Your Video Openings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-trimming-the-extras-a-practical-guide-to-instagram-video-edits/"><u>[Updated] Trimming the Extras A Practical Guide to Instagram Video Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-integration-of-skype-and-zoom-for-businesses/"><u>2024 Approved Seamless Integration of Skype and Zoom for Businesses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configurative-boot-mastering-startup-program-setup-in-windows-11/"><u>Configurative Boot: Mastering Startup Program Setup in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-device-lockup-in-win11s-sleep/"><u>How to Overcome Device Lockup in Win11's Sleep?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-revive-windows-11s-sluggish-search-bar-on-the-settings-screen/"><u>How To Revive Windows 11'S Sluggish Search Bar on the Settings Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modern-standby-in-windows-os-a-critical-take/"><u>Modern Standby in Windows OS: A Critical Take</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-for-sluggish-utorrent-transfer-rates/"><u>Solution Guide for Sluggish uTorrent Transfer Rates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-lengthening-windows-10-restart-time-while-apps-run/"><u>Strategies for Lengthening Windows 10 Restart Time While Apps Run</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-pivot-point-of-time-the-taskbar-narrative/"><u>The Pivot Point of Time: The Taskbar Narrative</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-players-handbook-to-correcting-audio-errors-in-halo-infinite/"><u>The Player’s Handbook to Correcting Audio Errors in Halo Infinite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-to-fix-any-installer-fiasco-in-win11/"><u>Unlocking Solutions to Fix Any Installer Fiasco in Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +161,22 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-guide-to-profit-sharing-for-creators-of-video-clips-for-2024/"><u>[New] A Guide to Profit Sharing for Creators of Video Clips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlined-techniques-for-console-gaming-captures/"><u>[New] In 2024, Streamlined Techniques for Console Gaming Captures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-guide-vimeo-video-grabs/"><u>[Updated] In 2024, Ultimate Guide Vimeo Video Grabs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-lost-connection-woes-a-step-by-step-guide-to-rejoining-blizzards-network/"><u>Conquer Lost Connection Woes – A Step-by-Step Guide to Rejoining Blizzard's Network</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effiziente-methoden-zum-wiederherstellen-von-windowsold-professionelle-datenwiedergewinnung/"><u>Effiziente Methoden Zum Wiederherstellen Von 'Windows.old' - Professionelle Datenwiedergewinnung</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/home-vr-construct-how-to-assemble-your-own-google-cardboard/"><u>Home VR Construct How to Assemble Your Own Google Cardboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-heic-images-to-jpeg-format-in-windows-11/"><u>Optimizing HEIC Images to JPEG Format in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-s18-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo S18 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-blue-screen-error-0x8007007e-in-windows-systems/"><u>Resolving Blue Screen Error 0X8007007E in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sd-card-reader-wont-show-in-file-explorer-heres-how-to-fix-it/"><u>SD Card Reader Won't Show in File Explorer? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-typing-latency-win-11s-top-fixes-summarized/"><u>Troubleshoot Typing Latency: Win 11'S Top Fixes Summarized</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-empty-folder-error-on-win11-error-code-0x80070091/"><u>Unblocking Empty Folder Error on Win11 (Error Code 0X80070091)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-face-off-final-cut-pro-vs-lumafusion-which-is-right-for-you/"><u>Updated Video Editing Face-Off Final Cut Pro vs LumaFusion - Which Is Right for You?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/vertical-or-horizontal-facebook-video-tactic/"><u>Vertical or Horizontal Facebook Video Tactic</u></a></li>
+</ul></div>
+

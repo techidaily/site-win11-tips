@@ -1,7 +1,7 @@
 ---
 title: "How to Fix PUBG: Battlegrounds Not Saving Settings in Windows 11/10"
-date: 2024-12-06T17:57:26.588Z
-updated: 2024-12-12T22:09:40.043Z
+date: 2024-12-17T16:37:56.467Z
+updated: 2024-12-22T08:05:54.163Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Delete the GameUserSettings File
 
  One of the most widely confirmed solutions for PUBG not saving game settings is to delete its GameUserSettings.ini file. Deleting that configuration file will reset it, which often fixes PUBG not saving settings. Applying this potential resolution has worked for lots of players, and it could be the same for you. This is how you can delete that GameUserSettings.ini file:
@@ -39,18 +35,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
 4. Open the**Local** subfolder within the**AppData** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**TslGame** folder to view and open it.
 6. Then open the**Saved > Config > WindowsNoEditor** folders from there.  
 ![The GameUserSettings.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/gameusersettings-ini-file.jpg)
 7. Right-click the**GameUserSettings.ini** file and select**Delete** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Launch PUBG and try changing the game settings again.
 
@@ -62,7 +50,15 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![The Verify Files option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/verify-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Controlled Folder Access
 
@@ -76,12 +72,16 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus Software
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 4. Click**Uninstall** when asked to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
@@ -129,17 +129,16 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-metaverse-brand-presence/"><u>[Updated] Pioneering Metaverse Brand Presence</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques-for-2024/"><u>[Updated] Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-trailblazer-in-photo-music-fusion-crafting/"><u>2024 Approved Trailblazer in Photo-Music Fusion Crafting</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-the-giants-of-social-media-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Social Media: Navigating Through Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-gionee-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Gionee</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instastars-academy-how-to-amass-1000plus-followers-each-month/"><u>InstaStars Academy How to Amass 1,000+ Followers Each Month</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-the-value-of-different-windows-n-models/"><u>Investigating the Value of Different Windows N Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-pc-space-key-windows-apps-to-remove/"><u>Master Your PC Space: Key Windows Apps to Remove</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-cpu-cost-of-ntoskrnlexe-tasks/"><u>Minimizing CPU Cost of Ntoskrnl.exe Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-wow-offline-pc-lol-solutions/"><u>Overcoming WoW Offline: PC LoL Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>[Updated] Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-status-bars-language-symbol-win11-edition/"><u>Concealing Status Bar's Language Symbol, Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-thx-audio-malfunction-in-windows/"><u>Correcting THX Audio Malfunction in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-sony-xperia-5-v-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Sony Xperia 5 V Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max with/without SIM Card</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-13-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 13 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-in-depth-analysis-of-youtube-adrevenue-average-payout-per-1000-viewers-engagement/"><u>In 2024, In-Depth Analysis of YouTube AdRevenue Average Payout per 1,000 Viewers' Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cpu-temp-regulation-for-windows-users/"><u>Mastering CPU Temp Regulation for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-vagrant-boots-in-windows-11plusvmware/"><u>Mastering the Art of Fixing Vagrant Boots in Windows 11+VMware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-display-driver-not-loading-errors/"><u>Navigating Through Display Driver Not Loading Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-in-s-mode-a-guide-for-windows-1011-users/"><u>Overcoming Stuck in 'S' Mode: A Guide for Windows 10/11 Users</u></a></li>
 </ul></div>
 

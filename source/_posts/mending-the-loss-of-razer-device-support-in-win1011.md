@@ -1,7 +1,7 @@
 ---
 title: Mending the Loss of Razer Device Support in Win10/11
-date: 2024-12-10T21:44:53.792Z
-updated: 2024-12-13T01:24:26.325Z
+date: 2024-12-18T17:47:19.668Z
+updated: 2024-12-22T05:36:37.820Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Plug the Razer Device into an Alternative USB Port
@@ -58,14 +58,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Select Synapse’s Repair Option
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
@@ -75,13 +67,14 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 3. Click the**Change** button for Razer Synapse.  
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall Razer Synapse
 
@@ -99,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 8. Press**Ctrl** +**A** to select any remaining files in the Razer folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Press the**Del** key to erase the selected files.
@@ -109,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 `C:\ProgramData\Razer`
 
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
@@ -131,15 +120,20 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 4. Right-click a Razer mouse and select**Uninstall device** \>**Uninstall** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-option.jpg)
 5. Repeat the previous step for all HID mice devices listed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then double-click the**Keyboards** category.  
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus Utilities
 
@@ -147,7 +141,15 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Configure Your Razer Devices in Synapse Again on Windows
 
@@ -168,19 +170,22 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>[New] The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature/"><u>2024 Approved Navigating the World of Windows 11'S In-Built High Dynamic Range Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>2024 Approved The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/as-15-paginas-de-captura-de-tela-mais-eficazes-entenda-o-que-e-um-captura-tela/"><u>As 15 Páginas De Captura De Tela Mais Eficazes - Entenda O Que É Um Captura-Tela!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-pick-for-learning-new-languages-for-free/"><u>Discover the Best Pick for Learning New Languages For Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/downloadable-tool-convert-your-dts-video-streams-to-m4v-format-for-no-cost-moveavi/"><u>Downloadable Tool: Convert Your DTS Video Streams to M4V Format for No Cost - MoveAVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transforming-gifs-into-mpeg-format-with-ease-movavi/"><u>Free Online Conversion: Transforming GIFs Into MPEG Format with Ease - Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-12-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi 12 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y100i-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y100i Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-substitutes-for-adobe-after-effects-free-and-paid-options-available/"><u>Top 11 Substitutes for Adobe After Effects - Free & Paid Options Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasformare-i-tuoi-gif-in-immagini-png-gratuite-online-movavi/"><u>Trasformare I Tuoi GIF in Immagini PNG Gratuite Online - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-16-premium-free-subtitle-extraction-platforms-featuring-movavi-software-solutions/"><u>Ultimate List of 16 Premium-Free Subtitle Extraction Platforms Featuring Movavi Software Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-elegance-and-brightness-the-taotronics-tt-dl16-led-lamp-a-comprehensive-analysis/"><u>Unveiling Elegance & Brightness: The TaoTronics TT-DL16 LED Lamp - A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-for-mobile-filmmakers-on-crafting-youtube-thumbnails/"><u>[New] 2024 Approved A Guide for Mobile Filmmakers on Crafting YouTube Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-many-gb-is-a-24-hour-video-for-2024/"><u>[New] How Many GB Is a 24 Hour Video for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-handbook-for-saving-insta-content/"><u>[Updated] In 2024, The Ultimate Handbook for Saving Insta Content</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/15-youtube-video-ideas-for-musicians/"><u>15 YouTube Video Ideas for Musicians</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-getting-back-to-basics-in-windows/"><u>Essential Tips: Getting Back to Basics in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-maximizing-vscos-potential-for-2024/"><u>Expert Tips for Maximizing VSCO's Potential for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-set-up-fast-brother-hl-l2340dw-printer-drivers-for-pcs-and-laptops-with-windows-os/"><u>Get Set Up Fast! Brother HL-L2340DW Printer Drivers for PCs and Laptops with Windows OS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ensuring-safety-while-acquiring-no-cost-vlc-player-for-mac-os/"><u>In 2024, Ensuring Safety While Acquiring No-Cost VLC Player for Mac OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-excel-file-distribution-in-windows-environments-by-yl-software-experts/"><u>Mastering the Art of Excel File Distribution in Windows Environments by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-setup-struggles-in-windows-based-pubg/"><u>Overcoming Setup Struggles in Windows-Based PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-x80072f17-in-store/"><u>Overcoming Windows Error X80072F17 in Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-typing-excellence-with-typingaid/"><u>Rapid Typing Excellence with TypingAid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-rectify-device-connectivity-problems/"><u>Techniques to Rectify Device Connectivity Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-thrills-await-unearthing-pleasure-in-lets-go-pikachu-and-lets-go-eevee/"><u>The Thrills Await: Unearthing Pleasure in 'Let's Go, Pikachu!' And 'Let's Go, Eevee!'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-external-monitors-not-sharing-display/"><u>Troubleshooting External Monitors Not Sharing Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-magic-turning-batch-files-into-winexe/"><u>Unleash the Magic: Turning Batch Files Into WinEXE</u></a></li>
 </ul></div>
 

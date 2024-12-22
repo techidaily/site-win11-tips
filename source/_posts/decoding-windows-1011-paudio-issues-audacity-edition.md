@@ -1,7 +1,7 @@
 ---
 title: Decoding Windows 10/11 PAudio Issues, Audacity Edition
-date: 2024-12-10T18:25:01.786Z
-updated: 2024-12-13T01:58:25.788Z
+date: 2024-12-20T00:31:21.006Z
+updated: 2024-12-21T21:34:20.112Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 5. Select**Troubleshooting** to access that applet.  
 ![The Control Panel applets window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-control-panel-items.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, select the**View all** navigation link on the left of the Control Panel window.  
 ![The Troubleshooting applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-applet.jpg)
 2. Click Playing Audio to launch that troubleshooter.  
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 3. Select the troubleshooter’s**Next** option to continue.
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Windows Audio and Endpoint Builder Services
 
@@ -55,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
 
  If you find the above services to be enabled and running, restarting them could also feasibly fix the issue. To do that, click Stop in their properties windows and select**Yes** to confirm. Then click their**Start** options to restart them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Manually Enable all Playback and Recording Devices
 
@@ -76,23 +84,11 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Select the Rescan Audio Devices
 
@@ -103,6 +99,14 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 3. Select the**Rescan Audio Devices** option.  
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
 
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Audacity
 
  A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our[ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
@@ -150,11 +150,11 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
@@ -175,21 +175,24 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/"><u>[New] 2024 Approved Steps to Instagram Verification & Fan Growth in Under 150 Characters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/levating-gameplay-streaming-mastery-for-youtubers-for-2024/"><u>[New] Elevating Gameplay Streaming Mastery for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unparalleled-costless-pixel-perfection-software/"><u>[New] In 2024, Unparalleled, Costless Pixel Perfection Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nleashing-the-power-of-youtube-short-form-videos-for-2024/"><u>[New] Unleashing the Power of YouTube Short Form Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>[Updated] In 2024, Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-virtual-venue-video-capturer/"><u>2024 Approved Virtual Venue Video Capturer</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-giants-exploring-superior-alternatives-to-sony-and-samsung-for-ultimate-gaming-performance-zdnet-insights/"><u>Beyond the Giants: Exploring Superior Alternatives to Sony & Samsung for Ultimate Gaming Performance | ZDNET Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-text-summarization-understanding-its-limitations-and-potential-issues/"><u>ChatGPT and Text Summarization: Understanding Its Limitations and Potential Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/controlling-biometrics-for-domain-admins-on-windows-11/"><u>Controlling Biometrics for Domain Admins on Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/demystifying-system-properties-exploring-their-functionality-in-the-windows-control-panel-a-yl-computing-guide/"><u>Demystifying System Properties: Exploring Their Functionality in the Windows Control Panel – A YL Computing Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-downloading-windows-vary-between-online-and-offline/"><u>How Does Downloading Windows Vary Between Online & Offline?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-high-on-life-crashing-on-windows/"><u>How to Fix High on Life Crashing on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-excellence-windows-11s-future-path/"><u>Redefining Excellence: Windows 11'S Future Path</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-user-expectations-in-windows-11/"><u>Redefining User Expectations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stay-ahead-of-the-curve-without-moving-to-win11/"><u>Stay Ahead of The Curve without Moving to Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-your-pcs-boot-process-with-windows-11s-fast-startup-feature/"><u>Turbocharge Your PC's Boot Process With Windows 11'S Fast Startup Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-your-xbox-experience-with-advanced-screen-capture-methods-for-2024/"><u>[New] Optimizing Your Xbox Experience with Advanced Screen Capture Methods for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-advanced-subtitle-tools-navigate-through-the-best-10-web-edits-for-2024/"><u>[Updated] Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webcam-innovation-for-everyday-life/"><u>[Updated] In 2024, Webcam Innovation for Everyday Life</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-iphones-in-virtual-reality/"><u>2024 Approved Expert Techniques for iPhones in Virtual Reality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-authorization-elevating-your-role/"><u>Command Prompt Authorization: Elevating Your Role</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-fn-key-activation-on-your-pc/"><u>Demystifying Fn Key Activation on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-collection-select-best-windows-dsswitch-alternatives/"><u>Exclusive Collection: Select Best Windows DS/Switch Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-and-optimize-windows-photo-viewer-for-modern-pcs/"><u>How to Reactivate and Optimize Windows Photo Viewer for Modern PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Plus Passcode not Working?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intuitive-windows-interface-via-additional-tools-accessibility/"><u>Intuitive Windows Interface via Additional Tools Accessibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/investing-5-yields-hundreds-of-new-viewers-now-for-2024/"><u>Investing $5 Yields Hundreds of New Viewers Now for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-beginnings-for-your-display-history/"><u>New Beginnings for Your Display History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-task-performance-windows-custom-keys/"><u>Optimize Task Performance: Window's Custom Keys</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-glitches-a-guide-to-repairing-your-clownfish-audio-alteration-gadget/"><u>Overcoming Glitches: A Guide to Repairing Your Clownfish Audio Alteration Gadget</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-standby-problem-with-these-proven-4-step-methods/"><u>Resolve Your iPhone's Standby Problem with These Proven 4-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-window-decor-with-3-easy-steps/"><u>Revitalize Window Decor with 3 Easy Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-effective-use-of-windows-11-calendar/"><u>Tactics for Effective Use of Windows 11 Calendar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleash-multi-device-viewing-how-to-share-your-android-screen-on-a-fire-stick/"><u>Unleash Multi-Device Viewing: How to Share Your Android Screen on a Fire Stick</u></a></li>
 </ul></div>
 

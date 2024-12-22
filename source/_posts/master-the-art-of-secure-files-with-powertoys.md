@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Secure Files with PowerToys
-date: 2024-12-10T17:12:40.235Z
-updated: 2024-12-12T19:50:20.312Z
+date: 2024-12-17T23:42:07.844Z
+updated: 2024-12-22T03:59:09.938Z
 tags:
   - windows10
   - windows11
@@ -23,23 +23,19 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the File Locksmith?
 
  File Locksmith is a relatively new addition to the PowerToys suite of tools. It is a Windows Shell extension used for checking up on the files in use at a particular moment. It also lets you check which system processes are using those files.
 
 ![the file locksmith utility in powertoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have yet to try PowerToys and the utilities it offers, you can download it from the[Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) . File Locksmith was only added to the app in an update in late 2022\. If you don't see it in your current version of PowerToys, click the**General** tab and select**Check for Updates** .
 
  If this is your first counter with PowerToys, check out[how to do more with Windows using PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) for some beginner's advice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Is File Locksmith Most Useful?
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
  It can also be used to troubleshoot the apps and files that slow down your PC and find performance bottlenecks. When you use it alongside other[ways to troubleshoot and improve PC performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) , it can help speed up your PC by quite a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Files and Processes in File Locksmith
@@ -63,18 +59,23 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 3. File Locksmith will open a window and begin scanning the file. Any processes being used will be displayed in the window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Stop the processes directly from the File Locksmith window by clicking the End Process button.  
 ![the file list in the File Locksmith utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-filelist.jpg)
 5. You can click the arrow to expand each process listed to see the Process ID, User, and the path to the individual file being used.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. To refresh the list of processes in File Locksmith, click the Reload button at the top-right of the open window.
 
  To see processes being run by a different user, you will need to open File Locksmith as an administrator. If you are already running PowerToys as an administrator, click the**Restart as Administrator** button at the top-right of the File Locksmith window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using the PowerToys File Locksmith Utility, Made Easy
@@ -96,19 +97,14 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>[New] In 2024, 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>[Updated] In 2024, Moonlit Musings Capturing the Essence of Nocturnal Imagery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-cross-platform-content-sharing/"><u>[Updated] The Art of Cross-Platform Content Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-purifypicture-premium-bg-eraser-and-editor/"><u>2024 Approved PurifyPicture Premium BG Eraser & Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-dark-screen-customization-for-your-notepad-windowed-edition/"><u>Effortless Dark Screen Customization for Your Notepad, Windowed Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-step-by-step-manual-update-installation-for-windows-11/"><u>Effortless Guide: Step-by-Step Manual Update Installation for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/establishing-print-capabilities-in-edge-shield-mode/"><u>Establishing Print Capabilities in Edge Shield Mode</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fading-sound-tracks-with-logic-pro/"><u>In 2024, Fading Sound Tracks with Logic Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-notepad-aesthetics-choosing-windows-11s-themes-and-typefaces/"><u>Mastering Notepad Aesthetics: Choosing Windows 11'S Themes & Typefaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-speed-and-visuals-in-roblox-for-win-users/"><u>Maximize Speed and Visuals in Roblox for Win Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1962796-9781614290698-mindfulness-a-to-z/"><u>Mindfulness A to Z | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-calendar-viewing-experience-with-windows-outlook-tips/"><u>Transform Your Calendar Viewing Experience with Windows Outlook Tips</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-111087ssd/"><u>如何修复在Windows版本 (11/10/8/7)中克隆SSD不起作用的问题</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diverse-methods-for-quickly-accessing-applications-on-pcs/"><u>Diverse Methods for Quickly Accessing Applications on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-insufficient-access-block-for-app-removal-in-win1011/"><u>Eliminating Insufficient Access Block for App Removal in Win10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-motorola-moto-g14-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Motorola Moto G14?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x6-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X6 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-creator-studio-secrets-a-step-by-step-tutorial-for-2024/"><u>Unlock Creator Studio Secrets A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-10-savings-essential-key-insights/"><u>Unlocking Windows 10 Savings: Essential Key Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vibrance-vortex-top-5-video-enhancement-tech/"><u>Vibrance Vortex Top 5 Video Enhancement Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-magic-mastering-keybindings/"><u>Windows Photo Magic: Mastering Keybindings</u></a></li>
 </ul></div>
 

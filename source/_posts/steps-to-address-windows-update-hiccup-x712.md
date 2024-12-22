@@ -1,7 +1,7 @@
 ---
 title: Steps to Address Windows Update Hiccup X712
-date: 2024-12-10T00:00:11.292Z
-updated: 2024-12-12T23:48:30.537Z
+date: 2024-12-21T01:07:55.291Z
+updated: 2024-12-22T05:33:51.562Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Complete system shutdown
 
  Windows OS enables the fast startup option by default. Even if you restart your system, or shut it down, it preserves the system state using hibernate. So, you need to perform a complete system shutdown and then power it back on to close and restart all background services.
@@ -50,10 +54,6 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -65,10 +65,6 @@ Repeat the following steps to start the necessary services:
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
@@ -84,11 +80,11 @@ Repeat the following steps to start the necessary services:
 ![Disk Cleanup App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-cleanup-app-in-windows-11.jpg)
 5. Disk Cleanup will close and redirect you to pick the appropriate drive. Click on the**OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Lastly, click on the**Delete files** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Rename the SoftwareDistribution Folder
 
@@ -102,16 +98,12 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
@@ -119,6 +111,10 @@ net start wuauserv net start cryptSvc net start bits net start msiserver
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 7. Open the Windows update in Settings and try to download and install updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -132,6 +128,10 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
@@ -139,7 +139,7 @@ Retrace the following steps to delete the pending.xml file:
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -165,20 +165,20 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-distinguishing-between-youtube-content-control-and-creative-commons-flexibility-for-2024/"><u>[Updated] Distinguishing Between YouTube Content Control and Creative Commons Flexibility for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[Updated] In 2024, From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-pip-google-chrome-across-devices/"><u>[Updated] Mastering PIP Google Chrome Across Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oneplus-open-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from OnePlus Open to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-tailored-lock-patterns-for-windows-11-devices/"><u>Creating Tailored Lock Patterns for Windows 11 Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harmonizing-chromes-time-with-system-settings-windows/"><u>Harmonizing Chrome's Time with System Settings (Windows)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>In 2024, Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-edge-deletion-in-win11/"><u>Mastering Edge Deletion in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-mandatory-requirements-issue-in-windows-1111/"><u>Quick Fix for Mandatory Requirements Issue in Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-disabled-windows-11-mobile-hotspot-connection/"><u>Solutions for Disabled Windows 11 Mobile Hotspot Connection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/strategic-showdowns-unleashed-exploring-7-best-games/"><u>Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streamline-your-videos-acoustic-appeal-on-youtube/"><u>Streamline Your Video's Acoustic Appeal on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-s18-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo S18? Here is How | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-boot-management-101-complete-configuration-guide/"><u>Windows Boot Management 101: Complete Configuration Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-practical-approach-to-creating-captivating-youtube-shorts-templates-for-2024/"><u>[New] A Practical Approach to Creating Captivating YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>[New] From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-m1-fueled-laptops-face-off-air-versus-pro/"><u>[New] M1-Fueled Laptops Face Off Air Versus Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-webcam-safety-essentials-the-best-covers-ranked/"><u>[Updated] 2024 Approved Webcam Safety Essentials The Best Covers Ranked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-making-insta-videos-audio-the-ultimate-transformation-for-2024/"><u>[Updated] Making Insta Videos Audio The Ultimate Transformation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-testimonial-toolkit-for-effective-promotion/"><u>2024 Approved The Testimonial Toolkit for Effective Promotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-creative-potential-embrace-these-top-10-iphone-image-rules/"><u>2024 Approved Unlocking Your Creative Potential Embrace These Top 10 iPhone Image Rules</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-performance-is-it-improving-or-declining-insights-from-openai/"><u>ChatGPT's Performance: Is It Improving or Declining? Insights From OpenAI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reintroduce-blocked-app-in-os/"><u>How to Reintroduce Blocked App in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-oversaturated-color-from-laptop-display/"><u>How to Remove Oversaturated Color From Laptop Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-key-strategies-for-adding-timestamps-in-youtube-content/"><u>In 2024, Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-tackling-windows-steam-restrictions/"><u>Mastery in Tackling Windows' Steam Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-data-storage-utilizing-diskusage-command-proficiency/"><u>Mastery Over Data Storage: Utilizing DiskUsage Command Proficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-icons-a-quick-guide/"><u>Realigning Windows Icons: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-setup-from-iso-file-to-operational-system/"><u>Windows 11 ARM Setup: From ISO File to Operational System</u></a></li>
 </ul></div>
 

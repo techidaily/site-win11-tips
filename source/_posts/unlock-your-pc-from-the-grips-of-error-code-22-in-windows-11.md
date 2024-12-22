@@ -1,7 +1,7 @@
 ---
 title: Unlock Your PC From the Grips of Error Code 22 in Windows 11
-date: 2024-12-05T22:41:28.458Z
-updated: 2024-12-12T21:24:55.363Z
+date: 2024-12-15T02:01:06.483Z
+updated: 2024-12-21T17:18:56.854Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “This Device Is Disabled (Code 22)” Error on Windows?
 
  When you connect an external device to your computer for the first time, Windows installs the driver that is compatible with the device. The device driver then establishes a connection between the removable device and Windows. This allows Windows to identify the device and use it properly.
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check for Physical Damage on the Device
 
  The error message can also stem from physical damage to your device. To confirm this, look for cracks, dents, or other signs of damage on the device. If you are using a connector, make sure it isn't bent out of shape..
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  You should also look for signs of liquid damage, such as corrosion or discoloration on your device. If you find any physical damage, it is likely the culprit behind the error message. In this case, the best thing you can do is to replace the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Device Driver
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use the Hardware and Device Troubleshooter
 
  Windows comes with several troubleshooters that can help you fix different problems. One of them is the Hardware and Devices troubleshooter, which, as the name suggests, helps to fix hardware issues.
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  So, make sure to update the BIOS to prevent any hardware-related issues on your system. Check out our guide on [updating BIOS in Windows](http://www.makeuseof.com/tag/update-uefi-bios-windows/) to find out how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Perform a Clean Boot
 
  The next solution on the list is to [perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/). This will help you rule out third-party applications that might be causing the error.
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Error Code 22 in Windows
@@ -132,27 +132,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-straightforward-methods-to-save-insta-story-videos/"><u>[Updated] Straightforward Methods to Save Insta Story Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-understanding-macos-11-big-sur-transition-tips-for-2024/"><u>[Updated] Understanding macOS 11 Big Sur Transition Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226721576-cr2-jpeg-movavi/"><u>免費在網站上 CR2 變更成 JPEG - Movavi 編譯器</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728506381005-windows-11-10-8-7/"><u>最佳 Windows 11 / 10 / 8 / 7 快速硬盘清空解决方案 - 高效分区工具</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aural-enhancements-with-video-editing-on-win11/"><u>Aural Enhancements with Video Editing on Win11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/motion-vs-youtube-monetization-which-is-more-profitable/"><u>Dailymotion vs YouTube Monetization Which Is More Profitable?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/democracy-dynamics-leading-electoral-simulators-for-2024/"><u>Democracy Dynamics Leading Electoral Simulators for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhanced-scripting-with-python-new-features-in-microsoft-excel/"><u>Enhanced Scripting with Python: New Features in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-audio-file-converter-m4a-to-aiff-by-movavi/"><u>Free Online Audio File Converter: M4A to AIFF by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gebruikersvrijet-trp-in-mp4-konvertiering-onafhankelijk-van-fysieke-materie-movavi/"><u>Gebruikersvrijet TRP-In MP4 Konvertiering Onafhankelijk Van Fysieke Materie - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-mp3-to-wmv-converter-en-ligne-avec-movavi-guide-complet/"><u>Gratuit MP3-to-WMV Converter en Ligne Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mkamp4/"><u>MKAファイルをMP4に自動変換: 免責の多いウェブサイト</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ntsc-vs-pal-explained-how-to-choose-the-right-video-format-for-your-needs/"><u>NTSC Vs. PAL Explained: How to Choose the Right Video Format for Your Needs</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-webm-to-mp3-converters-for-seamless-audio-conversion-for-2024/"><u>Top WebM to MP3 Converters for Seamless Audio Conversion for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-the-12-premier-screen-capture-applications-ideal-for-enhancing-your-google-meet-experience-by-movavi/"><u>Ultimate Guide: The 12 Premier Screen Capture Applications Ideal for Enhancing Your Google Meet Experience by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vob-online-vob/"><u>VOB 메이크핍 모킹을 원했는가요? Online VOB 편집 무료 온라인 자리에서</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-one-stop-destination-downloading-comprehensive-guides-for-every-iphones-version-and-model/"><u>Your One-Stop Destination: Downloading Comprehensive Guides for Every iPhones Version & Model</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +139,25 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photoshop-for-beginners-essential-snapseed-techniques/"><u>[New] 2024 Approved Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[New] Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfect-ringtone-repository-excellent-sources-for-2024/"><u>[New] Perfect Ringtone Repository Excellent Sources for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-timeless-tones-a-compendium-of-quality-sound-sites/"><u>[New] Timeless Tones A Compendium of Quality Sound Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-snip-and-sketch-failures-a-guide-to-capturing-entire-display/"><u>Combat Snip & Sketch Failures: A Guide to Capturing Entire Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-exploration-of-the-background-eraser-feature-in-photoshop/"><u>Detailed Exploration of the Background Eraser Feature in Photoshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-k70-pro-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Redmi K70 Pro has native MOV support?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-missing-d3dx927dll-error-on-your-pc-easily/"><u>Fixing The Missing d3dx9_27.dll Error on Your PC Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-microsoft-ai-transforms-online-marketplaces/"><u>How Microsoft AI Transforms Online Marketplaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-android-software-syncing-with-windows-devices/"><u>Ideal Android Software Syncing With Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-command-center-stream-your-gameplays-seamlessly/"><u>Intel Command Center: Stream Your Gameplays Seamlessly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/magicard-rio-professional-gaming-wheel-new-release-downloads-for-windows-platforms/"><u>Magicard Rio Professional Gaming Wheel - New Release Downloads for Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-loading-unsigned-drivers-despite-sie/"><u>Mastering Windows: Loading Unsigned Drivers Despite SIE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/successfully-integrating-office-works-into-win11/"><u>Successfully Integrating Office Works Into Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-operation-with-superior-run-capabilities/"><u>Transforming Windows 11 Operation with Superior Run Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicated-office-integration-in-windows-10-and-11/"><u>Uncomplicated Office Integration in WIndows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-solutions-resolving-the-visibility-issue-of-your-freshly-installed-hard-drive-on-windows/"><u>Unveiling Solutions: Resolving the Visibility Issue of Your Freshly Installed Hard Drive on Windows</u></a></li>
+</ul></div>
+

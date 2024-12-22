@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of Microsoft Family Safety
-date: 2024-08-16T02:47:33.168Z
-updated: 2024-08-17T02:47:33.168Z
+date: 2024-12-16T07:21:59.123Z
+updated: 2024-12-22T04:13:09.054Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
  If you are using a Microsoft product, then you are in luck. To counter and protect yourself from all the wrong sides of the Internet, Microsoft introduced the Family Safety feature back in 2011\. Here, we take a detailed look at what Family Safety is, and all the different features it has to offer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Microsoft Family Safety?
 
 ![microsoft family safety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-safety.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a family, then it makes perfect sense you'd want to[protect your children online](https://www.makeuseof.com/child-online-safety-tips/) in every way. In this case, Microsoft's Family Safety will be of huge help.
 
@@ -31,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  Let's look at the features that make Microsoft Family Safety possible, one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Content Filters
 
  The first feature of Microsoft's Family Safety, if not the most important one, is Content Filters. As its name suggests, Content Filter blocks inappropriate and user-specified content, thereby limiting your kid's access to websites, apps, games, etc., with the help of a customized filter.
@@ -47,6 +56,10 @@ Here's how you can set up one through Content Filters:
 
 ![content filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/content-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can access your account through the Family Setup app on your smartphone. Here's how:
 
 1. Launch the**Family Safety** app.
@@ -57,9 +70,6 @@ Here's how you can set up one through Content Filters:
 
  On both the Web and the smartphone app, you will find an additional option,**Apps and games** section. As the name suggest, this will let you limit the user's access to specific apps or games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Screen Time
 
  Overuse of smartphones, computers, and other digital devices is a key issue for children growing in this day and age. This is exactly where**Screen Time** will help you out.
@@ -80,10 +90,6 @@ Here's how you can enable Screen Time:
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Perhaps a little menacing for those of us conscious of cybersecurity, the**Find Your Family** app will help you keep tabs on the live location of your family members, provided they are all using Microsoft products. While this feature can have drawbacks of its own, Find Your Family will certainly give a sense of certainty to its users.
 
@@ -133,8 +139,9 @@ Here's how you can add money to your account:
 4. Select a payment form and click**Add a way to pay** .
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
@@ -144,9 +151,6 @@ Here's how you can add money to your account:
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -155,9 +159,6 @@ Here's how you can add money to your account:
  You'll end up in the**Family Notebook** section of your OneNote as soon as you do this. From there, you will be taken straight to the Introduction page of your Family Notebook, as shown on the image below.
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
@@ -165,14 +166,11 @@ Here's how you can add money to your account:
 
  Family Safety is Microsoft's attempt to help you take back control of how your family enjoys or uses different Microsoft products. With a little effort and understanding, you, too, can limit how you or your family members interact with the internet through their Microsoft products, and use technology in a more healthy, efficient manner.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +179,26 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-highlighting-the-best-ios-psp-emulators-1-5-for-2024/"><u>[New] Highlighting the Best iOS PSP Emulators #1-5 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfect-audio-gear-for-streamers/"><u>[Updated] 2024 Approved Perfect Audio Gear for Streamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essentials-of-animated-visual-communication/"><u>2024 Approved Essentials of Animated Visual Communication</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/d-the-scenes-choosing-ideal-winter-backdrops/"><u>Behind the Scenes Choosing Ideal Winter Backdrops</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-common-issues-with-steam-installation-windows-11/"><u>Combatting Common Issues with Steam Installation, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-system-image-error-x80780119-in-windows/"><u>Eradicating System Image Error X80780119 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reclaiming-achievement-status-on-steam-games/"><u>Guide to Reclaiming Achievement Status on Steam Games</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-15-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 15 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-recognition-issues-heres-what-to-do-if-itunes-or-finder-wont-see-it/"><u>IPhone Recognition Issues? Here's What to Do If iTunes or Finder Won’t See It</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/iphone-video-compression-techniques-a-complete-guide/"><u>IPhone Video Compression Techniques - A Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-performance-perfecting-your-win11-startups/"><u>Proactive Performance: Perfecting Your Win11 Startups</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-bloatware-12-unneeded-windows-apps-you-should-uninstall/"><u>Slash Bloatware: 12 Unneeded Windows Apps You Should Uninstall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-conversational-features-in-win11/"><u>Stop Conversational Features in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-entering-safe-mode-in-windows-11-devices/"><u>The Essentials of Entering Safe Mode in Windows 11 Devices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-your-yout/"><u>Updated In 2024, Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/when-and-why-to-ditch-your-onboard-gpu/"><u>When and Why to Ditch Your Onboard GPU</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-easy-route-to-screen-grabber-tool/"><u>Windows 11'S Easy Route to Screen Grabber Tool</u></a></li>
+</ul></div>
 

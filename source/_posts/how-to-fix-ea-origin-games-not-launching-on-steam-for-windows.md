@@ -1,7 +1,7 @@
 ---
 title: How to Fix EA Origin Games Not Launching on Steam for Windows
-date: 2024-12-07T18:58:20.597Z
-updated: 2024-12-13T02:48:13.427Z
+date: 2024-12-17T23:55:40.969Z
+updated: 2024-12-22T07:13:13.785Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Might an EA/Origin Client Game Fail to Launch on Steam?
@@ -50,6 +50,11 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 1. To uninstall the EA app/Origin client, like with any other software on Windows, use the **Start** menu or **Search** to seek **Add or remove programs**, and when found, "open" it.  
 ![Start Add Remove Programs Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/start-add-remove-programs-entry.jpg)
 2. Find the **Origin** client or **EA** app on the installed apps list, and click on the button with the **three dots** on its right. Choose to **uninstall** it. Typically you should have only one of them installed on your PC since the newer EA app should have replaced the older Origin client. If, for some reason, you still have both, make sure to uninstall each.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Apps Installed Apps EA App Entry Uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-installed-apps-ea-app-entry-uninstall.jpg)
 
 ## Auto-Installing the Correct Origin/EA Client & Credentials
@@ -70,15 +75,7 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 ![Steam Downloading Unravel Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/steam-downloading-unravel-files.jpg)
 3. We're almost there: click the **Play** button, or launch the game any way you wish. However, as we'll see in the next section, you probably won't be able to play right away.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Steam Unravel Reinstalled And Ready To Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/steam-unravel-reinstalled-and-ready-to-play.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that if you have more than one games you'd like to remove, you ought to check our article on [the quicker way to manage your games using Steam's storage manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/).
 
@@ -91,19 +88,25 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 2. If the Origin client/EA app doesn't show up on your screen, wait for the game to return to an "idle" state in the Steam client. If it doesn't, manually exit Steam and re-run it. Then, try relaunching the game. However, even if the Origin client/EA app is running and can connect to Electronic Arts' servers, there's one more thing to do to use it: to sign in again. We also suggest enabling **Keep me signed in** for convenience's sake.  
 ![EA Sign In With Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ea-sign-in-with-account.jpg)
 3. Even signing in can get complicated nowadays since that process, too, might fail - but this time, we already know the culprit and the necessary fix. So, if that happens, return to your firewall and, as before, grant access to the newly-spawned EA-related app you'll find there.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Firewall Allow Another New EA Process Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/firewall-allow-another-new-ea-process-access.jpg)
 4. After that last step, you should finally see the Origin client or EA app on your screen, be correctly signed in, and have access to your library of all your Electronic Arts titles, including the troublesome game we're trying to run.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![EA App Interface After Signing In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ea-app-interface-after-signing-in.jpg)
 5. You should now be able to launch the game from your collection in Origin/EA app or, as initially intended, directly from Steam. Try it out to ensure it works: first, completely exit the Origin/EA app, and check it's not idling in the tray. Then, try launching the game from Steam. Steam should run the Origin/EA app and also "feed it" the necessary arguments to have your game launch automatically without you having to perform any extra actions separately.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Unravel Launched From Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unravel-launched-from-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Up and Running Again With Origin Games on Steam
@@ -118,24 +121,6 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
  Thankfully, the answer's negative. The cause of the problem is a strange conflict that you can solve with some software juggling. Let's see how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-instagram-video-craftsmanship/"><u>[New] In 2024, The Art of Instagram Video Craftsmanship</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instantaneous-ease-in-podcast-broadcasts/"><u>[New] Instantaneous Ease in Podcast Broadcasts</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/5aac5l2v5lin55so6zkx5zyw5luo5qc85byp5yyw55qe5a2y5yko5y2h5ogi5asn54wn54mh4ocu6kplusm6kej/"><u>如何不用钱地从格式化的存储卡恢复照片—详解</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enrich-your-environment-adding-tasks-to-folder-context-menus/"><u>Enrich Your Environment: Adding Tasks to Folder Context Menus</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-easily-cut-large-videos-faster-on-mac/"><u>How to Easily Cut Large Videos Faster on Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Spark 20 Pro?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-gt-neo-5-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme GT Neo 5 Easily?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>In 2024, Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/practical-steps-to-enhance-videos-with-device-based-filtering/"><u>Practical Steps to Enhance Videos with Device-Based Filtering</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-file-management-adding-custom-movecopy-menus/"><u>Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-alert-7-symptoms-needed-a-fresh-start/"><u>Windows Alert: 7 Symptoms Needed a Fresh Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +128,23 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-magix-vision-control-a-deep-dive/"><u>[New] MAGIX Vision Control A Deep Dive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-android-video-calls-effortlessly-for-2024/"><u>[Updated] Navigating Android Video Calls Effortlessly for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/blue-freestyle2-mice-review-ultimate-accessory-for-mac-enthusiasts/"><u>Blue Freestyle2 Mice Review: Ultimate Accessory for Mac Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-wows-disabling-crash-code-in-windows-1111/"><u>Combatting WoW's Disabling Crash Code in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-network-performance-a-taskbar-update/"><u>Displaying Network Performance: A Taskbar Update</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exclusive-review-of-top-mp4-players-for-2024/"><u>Exclusive Review of Top MP4 Players for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-operations-error-709/"><u>Fixing Failed Operations: Error 709</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-painting-and-design-tools-on-windows-no-cost-or-charge-for-2024/"><u>Ideal Painting & Design Tools on Windows No Cost or Charge for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a24-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A24 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenating-non-operational-windows-pen-devices/"><u>Rejuvenating Non-Operational Windows Pen Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speaking-up-resolving-microphone-issues-on-google-meet-windows-edition/"><u>Speaking Up: Resolving Microphone Issues on Google Meet, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-steps-to-tranquility-for-pcs/"><u>The Essential Steps to Tranquility for PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-food-filmmakers-blueprint-techniques-and-tricks-for-2024/"><u>The Food Filmmaker’s Blueprint Techniques and Tricks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-top-5-list-ps3-games-on-windows-platforms/"><u>Ultimate Top 5 List PS3 Games on Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-from-the-clouds-offline-onedrive-access-tips/"><u>Unplugging From the Clouds: Offline OneDrive Access Tips</u></a></li>
+</ul></div>
+

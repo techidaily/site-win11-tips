@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting IP/MAC Using PS on PCs"
-date: 2024-12-11T23:01:32.277Z
-updated: 2024-12-13T00:40:53.845Z
+date: 2024-12-15T05:11:30.085Z
+updated: 2024-12-22T07:09:53.026Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find Your IP or MAC Address on a Windows Using the PowerShell
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 ![windows powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-powershell-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find the MAC Address on Your Windows
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
  That's it; this command will give you the details about all the network adapters from your system, along with their MAC addresses. Look over at the "MacAddress" column, and you will get the address.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An Alternate Way to Find the MAC Address on Windows
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
  Your adapter will be listed along with its MAC address, referenced by "Description" and "Physical Address".
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding Your IP or MAC Address on Windows PC
@@ -84,27 +84,6 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
  While other more straightforward methods exist, you can find your IP or MAC address on Windows using PowerShell. Let's find out how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] In 2024, The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-staying-grounded-in-vr-worlds/"><u>[New] Staying Grounded in VR Worlds</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube/"><u>[Updated] 2024 Approved Live-Stream Titans Duel Comparative Exploration of Twitch & YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours-for-2024/"><u>Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-da-3gp-a-mjpeg-con-movavi/"><u>Conversione Gratuita Online: Da 3GP a MJPEG Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-classroom-assets-explore-the-ultimate-guide-of-30-top-rated-teacher-resources-on-movavi-channel/"><u>Essential Classroom Assets: Explore the Ultimate Guide of 30 Top-Rated Teacher Resources on Movavi Channel</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-incorporating-natural-language-processing-siri-into-your-tiktok-strategy/"><u>In 2024, Incorporating Natural Language Processing (Siri) Into Your TikTok Strategy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-meme-craft-kinemasters-role/"><u>In 2024, Mastering the Meme Craft KineMaster's Role</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-online-transforma-tus-archivos-flac-a-ogg-sin-costo-alguno/"><u>Movavi Online: Transforma Tus Archivos FLAC a Ogg Sin Costo Alguno</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-cost-free-tool-transforming-dpx-photos-into-png-format-online/"><u>Movavi's Cost-Free Tool: Transforming DPX Photos Into PNG Format Online</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-features-of-anthropics-smart-photo-editor-a-detailed-assessment/"><u>Navigating the Features of Anthropics Smart Photo Editor - A Detailed Assessment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-high-quality-streaming-audio-devices-reviewed-by-movavi/"><u>Top 10 High-Quality Streaming Audio Devices - Reviewed by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-13-aplicativos-de-captura-de-webcam-mais-usados-para-windows-10-guia-do-movavi/"><u>Top 13 Aplicativos De Captura De Webcam Mais Usados Para Windows 10 - Guia Do Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-mp4-libero-e-gratuito-tramite-il-servizio-online-di-movavi/"><u>Trasforma I Tuoi File SWF in Formato MP4 Libero E Gratuito Tramite Il Servizio Online Di Movavi</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uefi-me-driver-for-windows-oses/"><u>UEFI ME Driver for Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmawmv-movavi/"><u>WMAおよびWMVファイルの自由なオンライン変換 - Movavi</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,3 +91,22 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-syncing-tiktok-content-with-twitter/"><u>[New] In 2024, Syncing TikTok Content with Twitter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nranked-movies-the-real-top-picks/"><u>[New] Unranked Movies The Real Top Picks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visualediting-deep-dive-comprehensive-article-on-androvid/"><u>[Updated] In 2024, VisualEditing Deep Dive – Comprehensive Article on AndroVid</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>[Updated] Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-the-newest-titans-apple-iphone-15-pro-versus-pro-max/"><u>Comparing the Newest Titans: Apple iPhone 15 Pro versus Pro Max</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>In 2024, Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-portable-computing/"><u>Innovative Windows Portable Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-time-lapse-photography-simple-strategies-for-seamlessly-documenting-your-projects/"><u>Mastering Time-Lapse Photography: Simple Strategies for Seamlessly Documenting Your Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-uac-screenshots-on-pc/"><u>Mastering UAC Screenshots on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/set-the-mood-music-for-whatsapp-status/"><u>Set the Mood Music for WhatsApp Status</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-recovering-accidentally-deleted-items-from-your-microsoft-onedrive/"><u>Step-by-Step Guide: Recovering Accidentally Deleted Items From Your Microsoft OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-how-to-for-efficiently-updating-your-windows-11-amd-drivers/"><u>The Ultimate How-To for Efficiently Updating Your Windows 11 AMD Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/which-win-pkg-tool-triumphs-choco-vs-wslm-analysis/"><u>Which Win Pkg Tool Triumphs? Choco VS. WSLM Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo X100 | Dr.fone</u></a></li>
+</ul></div>
+

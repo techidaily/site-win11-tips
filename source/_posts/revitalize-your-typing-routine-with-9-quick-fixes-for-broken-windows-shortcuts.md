@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Typing Routine with 9 Quick Fixes for Broken Windows Shortcuts
-date: 2024-08-16T02:44:30.853Z
-updated: 2024-08-17T02:44:30.853Z
+date: 2024-12-16T03:31:52.362Z
+updated: 2024-12-22T00:31:53.920Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
  If you can’t use the keyboard shortcuts advantage on your Windows 10 device, we have put together some quick fixes in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Keyboard Hardware
 
  Let’s start by ensuring that keyboard shortcuts aren’t working because of a hardware problem. Try and use a different keyboard shortcut to make sure it’s not just a [broken key that you should fix](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
 
  If you’ve tried multiple keyboard shortcuts and still had no success, use a different USB port and or connect it to a different computer and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn Off the Keyboard’s Gaming Mode
 
@@ -32,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
  Launch the keyboard’s app and turn off any mode that could stop keyboard shortcuts from working.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 3\. Update Keyboard Drivers
 
  If you’ve ruled out a hardware issue, let’s move on and try to figure out if there’s something wrong with your software. First, you should ensure that you’re running the latest keyboard drivers available.
@@ -44,11 +48,16 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  A quick and simple solution to fix your problem is to use Windows 10 Keyboard Troubleshooter. Here is how you can do it:
@@ -59,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 4. Select **Run the troubleshooter** to start the scan.
 
 ![Running keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/keyboard-troubleshooter-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Sticky Keys
 
@@ -86,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Reset the Keyboard Settings
 
  Keyboard shortcuts could’ve stopped working because you took [customizing your keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/) too far. In this case, resetting your keyboard to its default settings should fix the problem.
@@ -102,10 +111,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Click **Add a language** and choose your preferred language
 
 ![Setting a new language in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/set-new-language-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 ## 8\. Check Human Interface Device Service
 
@@ -118,20 +123,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Right-click it again and select **Refresh**.
 
 ![Human interface service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/human-interface-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Check Third-Party Apps
 
  If you’re using a third-party app to configure your keyboard, you should take a look at its customization options. Even if you don’t own a gaming keyboard, certain apps such as [Windows' built-in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/), can change your keyboard layout.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Keyboard Shortcuts Work Again
 
  The biggest challenge to getting the keyboard shortcuts working again is to identify the cause. But if keyboard shortcuts are part of your working routine, it’s worth it to take the time and go through the above solutions to fix the issue.
@@ -142,11 +142,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you can’t use the keyboard shortcuts advantage on your Windows 10 device, we have put together some quick fixes in this guide.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unconventional-techniques-for-rewinding-videos-on-yt/"><u>[Updated] 2024 Approved Unconventional Techniques for Rewinding Videos on YT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>[Updated] In 2024, Navigating Through the Maze Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-evaluating-if-the-new-release-justifies-an-upgrade-tech-insights/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Evaluating if the New Release Justifies an Upgrade | Tech Insights</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/download-free-honda-fit-car-wallpaper-images-digital-art-by-yl-computing/"><u>Download Free Honda Fit Car Wallpaper Images - Digital Art by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-overwatch-audio-capture-settings-for-2024/"><u>Navigating Overwatch Audio Capture Settings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-voice-only-windows-bluetooth-speaker-limitation/"><u>Overcoming Voice-Only Windows Bluetooth Speaker Limitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-repairs-mastering-the-art-of-fixed-wwe-on-pcs/"><u>Rapid Repairs: Mastering the Art of Fixed WWE on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-s-mode-steps-for-win-1110-users/"><u>Sidestep 'S Mode': Steps for Win 11/10 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/strategies-to-overcome-limited-mp-issues-in-iphone-photography/"><u>Strategies to Overcome Limited MP Issues in iPhone Photography</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-arcade-of-history-choosing-best-11-strategy-titles/"><u>The Ultimate Arcade of History: Choosing Best 11 Strategy Titles</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-xr21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia XR21 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/x-studio-voice-synthesizer-windows-compatible-for-2024/"><u>X-Studio Voice Synthesizer, Windows Compatible for 2024</u></a></li>
+</ul></div>
+

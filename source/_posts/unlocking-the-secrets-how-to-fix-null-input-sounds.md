@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets: How to Fix Null Input Sounds"
-date: 2024-08-23T06:59:26.255Z
-updated: 2024-08-24T06:59:26.255Z
+date: 2024-12-16T16:27:50.991Z
+updated: 2024-12-21T17:10:56.974Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
  Correctly plugging the jack into the correct port is vital for getting some noise out of your computer. On older systems, a microphone port can be found beside the speaker/headphone socket. As such, it's worth taking the time to make sure your speaker isn't acting like a giant microphone!
@@ -53,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Confirm That the HDMI Audio Is Selected
 
  Some HD displays don't support audio over an HDMI cable, even when the cable does. As such, there could be a scenario in which you're using an HDMI display that won't play audio.
@@ -68,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 Audio should now play on your HDMI TV.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -86,15 +92,8 @@ Audio should now play on your HDMI TV.
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -117,6 +116,10 @@ Audio should now play on your HDMI TV.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
 ## 9\. Check for Corruption of Windows System Files
@@ -129,8 +132,9 @@ Audio should now play on your HDMI TV.
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
@@ -149,8 +153,9 @@ Audio should now play on your HDMI TV.
  This will turn off all enhancements that could be the cause of your speakers not working.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -159,9 +164,6 @@ Audio should now play on your HDMI TV.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Your Speakers Working Again?
 
  Whatever the reason for your speaker's malfunctioning, if you are a regular computer worker, then you know how working days on end without good background music can get. Hopefully, one of these tips worked out for you, and your speakers are now blasting as usual.
@@ -172,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +181,23 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-educators-roadmap-to-effective-multimedia-use/"><u>[New] 2024 Approved The Educator's Roadmap to Effective Multimedia Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-curating-striking-instagram-profile-photos/"><u>[Updated] In 2024, Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[Updated] In 2024, Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-quirky-qs-how-to-save-funny-tweets-as-gifs/"><u>2024 Approved Quick, Quirky Qs How To Save Funny Tweets as GIFs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlocking-financial-gains-with-these-8-tiktok-tricks/"><u>2024 Approved Unlocking Financial Gains with These 8 TikTok Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/affordable-electric-vehicles-the-end-of-americas-lowest-priced-option/"><u>Affordable Electric Vehicles: The End of America's Lowest-Priced Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-with-a-pure-start-in-w11/"><u>Cut the Clutter with a Pure Start in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-public-ip-a-terminal-windows-methodology/"><u>Discovering Public IP: A Terminal Windows Methodology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deactivate-windows-defender-on-win11/"><u>How to Deactivate Windows Defender on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-multitask-better-on-a-windows-11-pc/"><u>How to Multitask Better on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-unresponsive-scrolling-in-excel-workbooks/"><u>How to Stop Unresponsive Scrolling in Excel Workbooks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>In 2024, Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/jabra-talk-45-exploration-impeccable-sound-plus-extended-usage-time/"><u>Jabra Talk 45 Exploration: Impeccable Sound + Extended Usage Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-the-slip-ups-top-tips-to-use-file-explorer-wisely/"><u>Skip the Slip-Ups: Top Tips to Use File Explorer Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subdued-system-reducing-windows-11-activity/"><u>Subdued System: Reducing Windows 11 Activity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-recommended-tools-for-downloading-anime-from-animeheaven-safely-and-easily/"><u>Top Recommended Tools for Downloading Anime From AnimeHeaven Safely and Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speedy Wake-Up Cycle: Customizing Boot Menu Duration in Win11"
-date: 2024-12-11T16:03:51.561Z
-updated: 2024-12-12T22:02:38.229Z
+date: 2024-12-16T18:07:52.569Z
+updated: 2024-12-22T03:07:41.086Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 7. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change Boot Menu Timeout Using System Configuration
@@ -52,12 +52,17 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 3. Enter the value (seconds) in the **Timeout** section and check the **Make all boot settings permanent** option.  
 ![Timeout option in msconfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timeout-option.jpg)
 4. Click **Apply.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Yes** to confirm your changes.  
 ![Yes option in msconfig window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option-1.jpg)
 6. Choose the **Restart** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change Boot Menu Timeout Using the Command Prompt
@@ -70,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 3. Type the following command and press Enter to change the timeout. Make sure to replace **`SECONDS`**with the new timeout.  
 `bcdedit /timeout SECONDS`  
 ![Timeout change command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timout-change-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! From the next boot, the boot manager will appear for the specified duration of time.
 
@@ -91,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 4. Choose a time between the given options.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control Your System Boot Menu on Windows
@@ -106,27 +107,6 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models/"><u>[New] Navigating New Worlds An In-Depth Study of 6 Metaverse Models</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-video-engagement-by-inserting-captions/"><u>[Updated] 2024 Approved Elevate Video Engagement by Inserting Captions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-creativity-6-approaches-for-recording-minecraft-games-for-2024/"><u>[Updated] Capturing Creativity 6 Approaches for Recording Minecraft Games for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-get-your-youtube-video-seen-6-easy-steps/"><u>[Updated] How to Get Your YouTube Video Seen - 6 Easy Steps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-titles-in-editing-webcam-videos-effectively/"><u>[Updated] In 2024, Leading Titles in Editing Webcam Videos Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-prime-image-hoarders-destination-list/"><u>[Updated] Prime Image Hoarders' Destination List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-companion-apps-windows-and-android-unite/"><u>Essential Companion Apps: Windows & Android Unite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-workplace-monitored-edge-and-chrome-browsers-for-pc-users/"><u>Fixing Workplace-Monitored Edge and Chrome Browsers for PC Users</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-move-from-an-ssd-to-an-hdd-partition-free-using-windows-11-8-or-7/"><u>How to Move From an SSD to an HDD Partition Free Using Windows 11, 8 or 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-issues-post-windows-update/"><u>Immediate Fixes for Issues Post-Windows Update</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-data-management-in-win1011-with-integrated-disk-analysis/"><u>Optimize Data Management in Win10/11 with Integrated Disk Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit-for-2024/"><u>Pro Tips for Crafting & Sharing Content on Reddit for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-device-recognition-failure-in-win-oses/"><u>Quick Fix for Device Recognition Failure in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-maxing-out-amds-game-power/"><u>Step-by-Step Guide to Maxing Out AMD's Game Power</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overturn-restricted-application-alerts/"><u>Strategies to Overturn Restricted Application Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-ms-store-error-code-0x0-on-win-1011/"><u>Troubleshooting: MS Store Error Code 0X0 on Win 10/11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +114,25 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-secrets-to-prolonging-gopros-energy-capacity/"><u>[New] 2024 Approved Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-score-facebooks-1-10-music-video-showcase/"><u>[New] Top Score Facebook’s #1-#10 Music Video Showcase</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cutting-edge-captures-delving-into-iphone-xs-camera/"><u>[Updated] 2024 Approved Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>2024 Approved Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-the-newest-titans-apple-iphone-15-pro-versus-pro-max/"><u>Comparing the Newest Titans: Apple iPhone 15 Pro versus Pro Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-yuva-3-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Yuva 3 Pro.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-spec-failure-marker-windows-11/"><u>Eliminate Spec Failure Marker Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-ms-defender-on-edge-browser-for-enhanced-security-in-win-11/"><u>How to Activate MS Defender on Edge Browser for Enhanced Security in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-customize-your-touch-panels-start-position/"><u>How to Reset and Customize Your Touch Panel's Start Position</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 12+ 5G Phone Without Password?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shortcuts-to-wealth-in-youtube-shorts/"><u>In 2024, Shortcuts to Wealth in YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-indicators-that-make-windows-10-the-smart-choice-over-win11/"><u>Seven Indicators That Make Windows 10 the Smart Choice over Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-game-capture-failures-due-to-low-pc-specs/"><u>Solving Game Capture Failures Due to Low PC Specs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tailoring-your-vimeo-experience-from-free-to-pro/"><u>Tailoring Your Vimeo Experience From Free to Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-simplified-six-ways-to-boost-into-windows-11s-safe-mode/"><u>Troubleshooting Simplified: Six Ways to Boost Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-troublesome-amd-setup-on-windows-machines/"><u>Unlocking Troublesome AMD Setup on Windows Machines</u></a></li>
+</ul></div>
+

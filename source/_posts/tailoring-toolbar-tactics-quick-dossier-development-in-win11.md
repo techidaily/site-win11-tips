@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Toolbar Tactics: Quick Dossier Development in Win11"
-date: 2024-12-10T18:16:35.027Z
-updated: 2024-12-12T19:04:10.360Z
+date: 2024-12-20T00:47:59.132Z
+updated: 2024-12-21T23:49:37.854Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 4. Type in a suitable name for your folder and then press**Enter** .  
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create a New Folder Using File Explorer
 
  File Explorer's menu bar provides access to many useful options. One of them also lets you create a new folder with a couple of mouse clicks.
@@ -48,7 +56,7 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -59,14 +67,10 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
@@ -85,15 +89,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,20 +115,22 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-youtube-rippers-for-media-conversion/"><u>[New] Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/custom-directory-titles-for-your-user-profile-windows-11/"><u>Custom Directory Titles for Your User Profile, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-user-experience-upgrade-taskbar-in-win11/"><u>Elevate Your User Experience: Upgrade Taskbar in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-visuals-shift-to-advanced-wmdesk/"><u>Enhanced Visuals: Shift to Advanced WMDesk</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-a2plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi A2+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-keybindings-windows-application-control/"><u>Master Keybindings: Windows Application Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-erroneous-sound-handling-in-audacity-on-win-1111/"><u>Mending Erroneous Sound Handling in Audacity on Win 11/11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/perfect-shots-essential-photography-edits-for-2024/"><u>Perfect Shots Essential Photography Edits for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/resolved-mystery-of-absentee-shorts/"><u>Resolved Mystery of Absentee Shorts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sprinkle-life-into-windows-11-techniques-for-lively-wallpapers/"><u>Sprinkle Life Into Windows 11: Techniques for Lively Wallpapers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-clear-frozen-security-in-windows-11/"><u>Steering Clear Frozen Security in Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-art-of-instagram-filter-selection-tips-for-the-year-2023/"><u>The Art of Instagram Filter Selection Tips for the Year 2023</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-itel-p55-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Itel P55 5G</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sh-creativity-with-free-templates-essential-for-video-makers/"><u>Unleash Creativity with FREE Templates – Essential for Video Makers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-secrets-of-facebook-live-a-beginners-manual/"><u>Unlock the Secrets of Facebook Live A Beginner's Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-6-online-webcam-recorders-2023/"><u>[Updated] 2024 Approved Top 6 Online Webcam Recorders 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novice-necessities-your-first-steps-in-gopro-world/"><u>[Updated] Novice Necessities - Your First Steps in GoPro World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-edge-40-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://fox-making.techidaily.com/chinas-blind-women-soccer-squad-clinches-global-goalball-crown-and-secures-spot-at-paris-2023-paralympics-latest-updates-by-yl-computing/"><u>China's Blind Women Soccer Squad Clinches Global Goalball Crown & Secures Spot at Paris 2023 Paralympics - Latest Updates by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-pc-with-the-power-of-autodeletion-in-winos/"><u>Declutter Your PC with the Power of AutoDeletion in WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-blue-screen-error-xc0000142/"><u>Eradicating Blue Screen Error XC0000142</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-discords-system-launch-and-auto-update-mechanism/"><u>Halt Discord’s System Launch and Auto-Update Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-non-syncing-in-microsoft-to-do/"><u>Mastering Fixes for Non-Syncing in Microsoft To-Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-keys-a-snipping-tool-fix/"><u>Mastering Windows Keys: A Snipping Tool Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-value-on-the-field-boosting-frame-rates-and-performance-of-valorant-windows-edition/"><u>Maximize Value on the Field: Boosting Frame Rates and Performance of Valorant Windows Edition</u></a></li>
+<li><a href="https://fox-making.techidaily.com/recognizing-signs-how-to-identify-when-your-pcs-motherboard-fails-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify When Your PC's Motherboard Fails - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-winmedia-tool-fault-x8007043c/"><u>Strategies for WinMedia Tool Fault X.8007043C</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginnings-of-streaming-giants-a-look-into-netflixs-original-dvd-subscription-model/"><u>The Beginnings of Streaming Giants: A Look Into Netflix's Original DVD Subscription Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-how-to-for-creating-a-mobile-hotspot-with-win-11/"><u>The Ultimate How-To for Creating a Mobile Hotspot with Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-invisible-find-missing-controls-in-win11-settings/"><u>Uncover the Invisible: Find Missing Controls in Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11-speaker-ones-and-zeros-to-stories/"><u>Unveiling Windows 11 Speaker: Ones and Zeros to Stories</u></a></li>
 </ul></div>
 

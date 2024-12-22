@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Disable Script Execution: 4 Solutions for PS Load Failure"
-date: 2024-12-06T01:24:11.652Z
-updated: 2024-12-13T00:29:55.343Z
+date: 2024-12-18T00:19:53.877Z
+updated: 2024-12-21T20:00:17.626Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run PowerShell in Administrator Mode
 
  Are you currently running PowerShell without proper administrative rights? If so, then perhaps that’s where the issue lies.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 2. Select the **Windows PowerShell (Admin)** option.
 
 ![Selecting the Windows PowerShell (Admin) option on the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/selecting-the-windows-powershell-admin-option-on-the-quick-access-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -107,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -131,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
@@ -147,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
@@ -159,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
  Locate the **ExecutionPolicy** value on the right-hand side.
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
 
@@ -196,27 +196,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  Let’s dive in!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[New] 2024 Approved Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-video-conversion-in-vlc-from-mp4-onward/"><u>[New] Navigating Video Conversion in VLC From MP4 Onward</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-footage-with-best-stabilizer-brands/"><u>[Updated] 2024 Approved Flawless Footage with Best Stabilizer Brands</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discover-the-leading-8-web-resources-for-free-3d-text-psdfiles/"><u>[Updated] Discover the Leading 8 Web Resources for Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-thumbnails-work-in-the-ui/"><u>Ensuring Thumbnails Work in the UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/erase-microsoft-defender-record-trail-windows-edition-guide/"><u>Erase Microsoft Defender Record Trail: Windows Edition Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-excel-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel formula not showing result | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-connect-your-device-errors-in-windows-11/"><u>Guide to Overcoming Connect Your Device Errors in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/has-the-evolution-of-artificial-intelligence-outpaced-the-turing-test-learn-about-five-modern-alternatives-to-ai-assessment/"><u>Has the Evolution of Artificial Intelligence Outpaced the Turing Test? Learn About Five Modern Alternatives to AI Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-playwriting-workshop/"><u>In 2024, Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instantaneous-application-termination-in-windows/"><u>Instantaneous Application Termination in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instantaneous-live-speech-conversion-with-whisper-tech/"><u>Instantaneous Live Speech Conversion with Whisper Tech</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/prime-6-mobile-movie-collections-for-2024/"><u>Prime 6 Mobile Movie Collections for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconstructing-administrative-power-dynamics-on-microsoft-platforms/"><u>Reconstructing Administrative Power Dynamics on Microsoft Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-m365-error-code-30015-26-on-computers/"><u>Steps to Correct M365 Error Code 30015-26 on Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-error-0x8007251d-in-microsofts-activation-process/"><u>Tackling Error 0X8007251D in Microsoft's Activation Process</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11-pc4/"><u>Windows 11 PCでビデオ品質を改善するための4つの戦略</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -224,3 +203,23 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-14-ways-to-make-irresistible-gourmet-vids/"><u>[New] 2024 Approved 14 Ways to Make Irresistible Gourmet Vids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-key-principles-of-metaverse-commercial-strategy/"><u>[New] In 2024, Key Principles of Metaverse Commercial Strategy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-a-step-by-step-igtv-translation-guide/"><u>[Updated] 2024 Approved A Step-By-Step IGTV Translation Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[Updated] In 2024, Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-transition-timings-in-premiere-audio/"><u>2024 Approved Perfecting Transition Timings in Premiere Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-networks-for-your-personalized-watchlist/"><u>2024 Approved Premier Networks for Your Personalized Watchlist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-programs-simplifying-your-operating-system-shift/"><u>Crucial Programs Simplifying Your Operating System Shift</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/exporting-your-flipbuilder-theme-a-step-by-step-guide/"><u>Exporting Your FlipBuilder Theme: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overriding-defenders-restrictions-for-additional-security/"><u>Overriding Defender's Restrictions for Additional Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/patching-file-history-configuration-error-in-windows/"><u>Patching “File History Configuration Error” In Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-6-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 6 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-a-non-functional-windows-11-taskbar/"><u>Resolving a Non-Functional Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-audio-on-windows-via-updated-device-drivers-installation/"><u>Revitalizing Audio on Windows via Updated Device Drivers Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-the-notorious-spotify-code-4-error/"><u>Strategies to Combat the Notorious Spotify Code 4 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-storage-space-by-synergizing-folders-and-files-win-11/"><u>Streamlining Storage Space by Synergizing Folders and Files, Win 11</u></a></li>
+</ul></div>
+

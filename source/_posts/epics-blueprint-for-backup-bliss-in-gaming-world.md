@@ -1,7 +1,7 @@
 ---
 title: Epic's Blueprint for Backup Bliss in Gaming World
-date: 2024-12-11T23:48:48.585Z
-updated: 2024-12-12T16:36:18.325Z
+date: 2024-12-17T04:17:59.733Z
+updated: 2024-12-22T02:43:02.279Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Cloud Saves in Epic Games Launcher
 
  Epic Games Launcher has a Cloud Save feature with which you can back up saved data. That feature automatically backs up saved game progress to Epic’s online cloud service. Then all your saved progress will be preserved so that you can continue playing from where you left off after reinstalling a game. You can enable that Cloud Save feature in Epic Games Launcher like this:
@@ -36,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 4. Then click the checkbox labeled **Enable Cloud Saves** to select that option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check if a Game Supports Cloud Sync
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
@@ -88,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
  Now you can ensure you don’t lose any saved gaming progress before reinstalling Epic Games titles or because of data corruption by backing up game save files with the methods above.
@@ -113,24 +113,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[New] 2024 Approved Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-into-knowing-your-cpus-gen-on-windows-platform/"><u>Ease Into Knowing Your CPU’s Gen on Windows Platform</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-knowledge-for-using-final-cut-pro-effectively/"><u>Essential Knowledge for Using Final Cut Pro Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-undiscovered-to-famous-the-seo-playbook-for-your-podcast-for-2024/"><u>From Undiscovered to Famous The SEO Playbook for Your Podcast for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-v29-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo V29 Lock Screen Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 11? Heres the Best Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-of-the-best-top-mts-video-editing-software-2023/"><u>New 2024 Approved The Best of the Best Top MTS Video Editing Software 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-removal-4-effective-ways-to-delete-a-drives-segmentation/"><u>Quick Removal: 4 Effective Ways to Delete a Drive's Segmentation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reawakening-the-lost-art-of-tab-typing-in-windows/"><u>Reawakening the Lost Art of Tab Typing in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trimming-costs-smart-purchases-of-windows-11-codes/"><u>Trimming Costs: Smart Purchases of Windows 11 Codes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/understanding-the-positives-and-negatives-of-implementing-webex-in-your-business-communications/"><u>Understanding the Positives & Negatives of Implementing WebEx in Your Business Communications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-4-game-changers-in-microsoft-paint-tools/"><u>Unveiling 4 Game-Changers in Microsoft Paint Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-record-secure-game-replays-with-intelligence/"><u>Winning the Record: Secure Game Replays with Intelligence</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +120,27 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-bridging-platforms-posting-twitter-content-on-facebook-for-2024/"><u>[New] Bridging Platforms Posting Twitter Content on Facebook for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-list-film-preview-shorts-for-2024/"><u>[Updated] A-List Film Preview Shorts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[Updated] In 2024, Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>[Updated] Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-digital-canvas-at-hand-select-the-premier-android-drawing-apps/"><u>2024 Approved Digital Canvas at Hand Select the Premier Android Drawing Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faster-film-fun-time-lapse-techniques-for-iphones/"><u>2024 Approved Faster Film Fun Time-Lapse Techniques for iPhones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beyond-the-basics-advanced-insights-into-snapchat-filters/"><u>Beyond the Basics Advanced Insights Into Snapchat Filters</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/como-actualizar-tu-laptop-asus-a-un-ssd-rapido-y-eficiente/"><u>Cómo Actualizar Tu Laptop ASUS a Un SSD Rápido Y Eficiente</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-0x800700e9-malfunction-a-guide-for-xbox-game-pass-and-windows-11-users/"><u>Disabling 0X800700E9 Malfunction: A Guide for Xbox Game Pass & Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathways-resolving-c0000005-on-modern-windows-systems/"><u>Easy Pathways: Resolving C0000005 on Modern Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-reasons-embracing-new-outlook-on-windows/"><u>Essential Reasons: Embracing New Outlook on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-completa-maximizando-el-espacio-libre-en-su-unidad-de-almacenamiento-digital/"><u>Guía Completa: Maximizando El Espacio Libre en Su Unidad De Almacenamiento Digital</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-windows-update-intrusions/"><u>Halt Windows Update Intrusions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disconnect-non-authorized-windows-accounts/"><u>How to Disconnect Non-Authorized Windows Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-ui-adding-custom-wordpad-command-keys/"><u>Tailoring Windows UI: Adding Custom WordPad Command Keys</u></a></li>
+<li><a href="https://win-info.techidaily.com/unavailable-iphone-software-update-fixes-what-you-need-to-know/"><u>Unavailable iPhone Software Update Fixes: What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-implementing-usb-access-rules-in-os/"><u>Understanding and Implementing USB Access Rules in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-power-hotkey-driven-auto-click-wonders/"><u>Unleash Power: Hotkey-Driven Auto Click Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-reunite-with-your-copilot/"><u>Windows 11: How To Reunite With Your Copilot</u></a></li>
+</ul></div>
+

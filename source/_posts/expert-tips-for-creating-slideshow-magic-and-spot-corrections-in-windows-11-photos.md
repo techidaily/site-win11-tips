@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Creating Slideshow Magic and Spot Corrections in Windows 11 Photos
-date: 2024-08-16T02:45:37.525Z
-updated: 2024-08-17T02:45:37.525Z
+date: 2024-12-18T07:04:47.277Z
+updated: 2024-12-21T16:52:34.976Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  Microsoft Photos is testing some new experimental features to upgrade the feature set to make it a full-fledged photo viewing and editing app. The primary standout feature is Spot Fix which removes blemishes from photos. Another new addition is the revamped slideshow which now offers cool designs, background music, and some transitions and animations as well.
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does the Slideshow Feature Do?
 
@@ -43,18 +47,12 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
 
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
@@ -65,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Spot Fix Feature?
 
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
@@ -80,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  Now, click on the area which you want to remove using the tool. If you want to increase the size of the tool, adjust the **size slider** present on the right side. You may have to use the spot fix on an area (textured or patterns) multiple times to get it right.
 
 ![Spotfix feature in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
 
@@ -91,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Improvements in the Photos App
 
  The app reintroduces the Timeline Scrollbar using which you can quickly view photos added in a particular month or year. Microsoft also added the [timeline scrollbar in the Gallery section of the File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) which is also in the experimental stage.
@@ -101,18 +98,21 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Much-Needed Overhaul for Photos on Windows 11
 
  Microsoft Photos never captured the interest of users until this update came around. The ability to organize photo collection, add a captivating slideshow, and image editing features make it a competent photo editing app.
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +120,25 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-creating-gentle-volume-reduction-in-audacity/"><u>[Updated] Creating Gentle Volume Reduction in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dual-screen-switching-guide-for-pcs/"><u>Dual Screen Switching Guide for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-dual-monitors-without-glitches/"><u>Enabling Dual Monitors Without Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-wintoys-windows-edition-your-ultimate-toolkit/"><u>Exploring 'WinToys': Windows Edition - Your Ultimate Toolkit</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-mcafees-new-ai-based-solution-to-detect-deepfake-voices-a-game-changer-zdnet-explores-reliability/"><u>Is McAfee's New AI-Based Solution to Detect Deepfake Voices a Game Changer? ZDNet Explores Reliability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-brings-copilot-to-surface-devices-a-game-changer-for-business-professionals-learn-about-the-new-enhancements/"><u>Microsoft Brings Copilot to Surface Devices: A Game-Changer for Business Professionals! Learn About the New Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-issues-in-pubg-setting-adjustments-for-windows-users/"><u>Overcoming Save Issues in PUBG: Setting Adjustments for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-systemsettingsexe-crash-in-win11/"><u>Quick Fix for SystemSettings.exe Crash in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-hyper-v-with-windows-11-easy-steps/"><u>Stop Hyper-V with Windows 11 Easy Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-amplify-windows-disk-space-safely/"><u>Strategies to Amplify Windows Disk Space Safely</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-narrative-on-film-for-2024/"><u>The Art of Narrative on Film for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unleash-potential-stardews-premium-mod-lineup-7-14/"><u>Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-separates-exe-from-msi-software-packages/"><u>What Separates EXE From MSI Software Packages?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100i-power-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100i Power 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+

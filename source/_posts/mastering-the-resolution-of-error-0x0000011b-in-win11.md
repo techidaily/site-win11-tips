@@ -1,7 +1,7 @@
 ---
 title: Mastering the Resolution of Error 0X0000011B in Win11
-date: 2024-12-08T21:55:43.415Z
-updated: 2024-12-12T17:29:53.540Z
+date: 2024-12-17T01:17:07.710Z
+updated: 2024-12-22T09:33:01.695Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**Apply** and**OK** to save the changes.
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
@@ -64,7 +60,7 @@ To check and install Windows updates:
 5. Once installed, restart your PC and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Install the Printer Manually via the Local Port
@@ -82,9 +78,19 @@ To check and install Windows updates:
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -94,10 +100,6 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -117,15 +119,11 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
@@ -133,7 +131,7 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
@@ -151,14 +149,20 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -180,19 +184,15 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-creating-worldly-videos-on-the-move/"><u>[Updated] 2024 Approved Creating Worldly Videos on the Move</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-keep-your-videos-trending-on-youtube-by-sustaining-creative-commitments/"><u>[Updated] 2024 Approved Keep Your Videos Trending on YouTube by Sustaining Creative Commitments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-mac-image-compiler-for-2024/"><u>[Updated] Advanced Mac Image Compiler for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-you-really-hearing-the-full-effect-of-dolby-atmos-audio-technology/"><u>Are You Really Hearing the Full Effect of Dolby Atmos Audio Technology?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/boot-file-copybcdboot3/"><u>Boot File CopyにおけるBCDBoot問題を解消するための3手法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/como-convertir-gratis-un-aif-a-wmv-mediante-movavi-sin-complicaciones/"><u>Cómo Convertir Grátis Un AIF a WMV Mediante Movavi Sin Complicaciones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprendere-il-concetto-di-green-screen-e-come-utilizzarlo-efficacemente/"><u>Comprendere Il Concetto Di Green Screen E Come Utilizzarlo Efficacemente</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mp4-videos-to-gifs-fast-movavis-top-ranking-online-and-free-tool/"><u>Convert MP4 Videos to GIFs Fast - Movavi's Top-Ranking Online and Free Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-convert-vob-tracks-to-lossless-flac-format-quick-easy-and-free/"><u>Download & Convert VOB Tracks to Lossless FLAC Format - Quick, Easy and Free!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-a70-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A70 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-image-editor-convert-your-webp-files-to-bmp-without-charge/"><u>Movavi Image Editor - Convert Your WebP Files to BMP Without Charge</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-epic-video-editing-add-mind-blowing-effects-to-your-videos-for-2024/"><u>New Epic Video Editing Add Mind-Blowing Effects to Your Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rip-proof-free-online-conversion-of-m4r-to-mp3-by-movavi/"><u>Rip-Proof, Free Online Conversion of M4R to MP3 by Movavi</u></a></li>
-<li><a href="https://win-best.techidaily.com/yl-computing-sahara-desert-backgrounds-premium-digital-artwork-collection/"><u>YL Computing Sahara Desert Backgrounds - Premium Digital Artwork Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-straightforward-approach-to-mastering-simple-hdr-techniques/"><u>[New] Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-chortle-chamber-ideas-for-7-amusing-online-sessions-for-2024/"><u>[Updated] Chortle Chamber Ideas for 7 Amusing Online Sessions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audio-capturing-in-android-without-rooting-guide-for-2024/"><u>Audio Capturing in Android - Without Rooting [Guide] for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-network-path-was-not-found-error-on-windows/"><u>How to Fix the Network Path Was Not Found Error on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-play-fortnite-on-older-gpus-under-windows-solutions-explored/"><u>How to Play Fortnite on Older GPUs Under Windows - Solutions Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-upgrade-joystick-changing-guide/"><u>Joy-Con Upgrade: Joystick Changing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-linux-experience-key-strategies-for-windows-users-with-wsl-2/"><u>Maximize Linux Experience: Key Strategies for Windows Users with WSL 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-mail-calendar-using-preferred-images/"><u>Transform Windows Mail, Calendar Using Preferred Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-subsystem-for-linux-error-4294967295/"><u>Troubleshooting Windows Subsystem for Linux: ERROR 4294967295</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-sea-snag-footage-top-5-picks-for-2024/"><u>Ultimate Sea Snag Footage - Top 5 Picks for 2024</u></a></li>
 </ul></div>
 

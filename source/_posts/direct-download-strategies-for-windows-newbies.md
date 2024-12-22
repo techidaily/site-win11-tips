@@ -1,7 +1,7 @@
 ---
 title: Direct Download Strategies for Windows Newbies
-date: 2024-12-12T03:11:58.203Z
-updated: 2024-12-12T20:57:45.805Z
+date: 2024-12-21T08:00:06.895Z
+updated: 2024-12-22T01:06:13.014Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 Let's talk about how you can use these to download a browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -57,15 +61,7 @@ Let's talk about how you can use these to download a browser.
 
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Download a Browser Using the Curl Command
 
@@ -80,6 +76,10 @@ Let's talk about how you can use these to download a browser.
 Paste the link in quotation marks like so:
 
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
@@ -110,14 +110,10 @@ Next, run the following command:
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once the process is complete, you can start using the new browser.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -138,10 +134,14 @@ Run the following command in PowerShell:
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Browsing on Your Fave Browser From Day One
 
@@ -162,20 +162,17 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerate-or-slow-down-on-the-screen-netflix/"><u>[New] Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-immediate-dance-broadcasts-on-roktv-for-2024/"><u>[New] Immediate Dance Broadcasts on ROKTV for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-download-diva-a-guide-to-free-skype-tone-resources-for-2024/"><u>[Updated] Download Diva A Guide to Free Skype Tone Resources for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-incorporating-seconds-and-minutes-on-youtube-clips/"><u>[Updated] Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-video-player-platforms-reviewed-from-desktops-to-smartphones-unveiled/"><u>Best Video Player Platforms Reviewed: From Desktops to Smartphones Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuite-de-conversion-en-gif-outils-video-en-ligne-moovit/"><u>Gratuité De Conversion en GIF : Outils Vidéo en Ligne - Moov.it</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-convertisseur-video-avi-en-ligne-moviwizard/"><u>Gratuito Convertisseur Vidéo AVI en Ligne - MoviWizard</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>In 2024, Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-subtitle-converters-no-cost-for-srt-files/"><u>In 2024, Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/perfect-placement-for-instagrams-audio-emojis-a-quick-guide-for-2024/"><u>Perfect Placement for Instagram’s Audio Emojis – A Quick Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-video-format-change-download-movavis-user-friendly-gratis-mpgmp4-conversion-tool-online/"><u>Seamless Video Format Change: Download Movavi’s User-Friendly, Gratis MPG/MP4 Conversion Tool Online!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-grabacion-de-telefono-movil-gsm-a-formato-video-mp4-en-un-solo-click/"><u>Transforma Grabación De Teléfono Móvil GSM a Formato Video MP4 en Un Solo Click</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-mov-en-ligne-moovavi/"><u>Transformer Gratuitement Un Fichier AVI en Format MOV en Ligne - Moovavi</u></a></li>
-<li><a href="https://win-latest.techidaily.com/verify-your-printer-setup-a-comprehensive-guide-to-ensuring-proper-installation-yl-computing/"><u>Verify Your Printer Setup: A Comprehensive Guide to Ensuring Proper Installation - YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavim4v/"><u>ダイナミックなビデオ変換: MovaviスウィフトからM4Vへ、無償でオンライン実行可能!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-creating-a-memorable-podcast-niche-top-ai-name-generators/"><u>[New] 2024 Approved Creating a Memorable Podcast Niche – Top AI Name Generators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>[New] Hitching a Ride on Stream Success OBS + Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-humor-in-minutes-kinemaster-techniques/"><u>[New] The Art of Humor in Minutes KineMaster Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tailoring-speech-interpretation-a-guide-with-google-translate/"><u>[Updated] 2024 Approved Tailoring Speech Interpretation A Guide with Google Translate</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-diverse-vlogging-content-suggestions/"><u>[Updated] In 2024, Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers/"><u>[Updated] The Path to Insta Prominence Unveiling 9 Key Moves for Fame Seekers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-user-engagement-analysis-using-our-cookiebot-platform/"><u>Boost User Engagement Analysis Using Our Cookiebot Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-scripts-unblocking-blocked-windows-files/"><u>Decoding the Scripts: Unblocking Blocked Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insight-into-windows-component-services-toolset/"><u>Essential Insight Into Windows Component Services Toolset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-implementing-high-end-audio-in-windows-11/"><u>Guide to Implementing High-End Audio in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-magic-6-lite-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Magic 6 Lite Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-recovery-how-to-access-windows-11s-restore-settings/"><u>System Recovery: How to Access Windows 11'S Restore Settings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Store Glitches on Win 11
-date: 2024-12-11T20:15:52.220Z
-updated: 2024-12-12T21:13:35.496Z
+date: 2024-12-19T08:07:32.409Z
+updated: 2024-12-21T21:49:08.769Z
 tags:
   - windows10
   - windows11
@@ -35,17 +35,14 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 4. Click the **Run** option for starting the Windows Store Apps troubleshooter.  
 ![The Run Windows Store Apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-run-button.jpg)
 5. Then select to apply any potential solution presented within Windows Store Apps.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Windows 10, the steps for opening Windows Store Apps aren’t quite the same. Click the **Update & Security** category in Windows 10’s Settings app and select the **Troubleshoot** tab. Then you can click an **Additional troubleshooter** navigation option to reach the list of troubleshooting utilities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable the Microsoft Store Install Service
 
@@ -58,12 +55,13 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-window-1.jpg)
 5. Open the **Startup type** menu by clicking on it and selecting **Automatic**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Settings for the Microsoft Store Install Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-install-service-properties-window.jpg)
 6. Then select **Start** in the Microsoft Store Install Service Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select **Apply** to save the selected settings for the service.
 8. Click the Microsoft Store Install Service window’s **OK** button.
 
@@ -76,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 `WSReset.exe`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Some General Windows Troubleshooting Tips
@@ -99,17 +97,21 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall the Microsoft Store
 
 ![An uninstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-apppackage-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reinstalling Microsoft Store is a slightly more drastic potential fix for error 0x00000000 to apply when others fail. This potential resolution will replace the Microsoft Store’s files.
 
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Set Up a New Windows User Account
 
@@ -118,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Perform a Windows System Restore
 
@@ -141,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Screenshot captured by Jack Slater - No attribution required
 
  To apply the same potential solution in Windows 10, click **Download tool now** on the [Microsoft Windows 10 download page](https://www.microsoft.com/en-gb/software-download/windows10).
@@ -148,7 +150,7 @@ Screenshot captured by Jack Slater - No attribution required
  Open the downloaded Windows 10 Setup wizard and select the **Upgrade this PC Now** option. Then click the **Keep personal files and apps** option and select **Install**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Everything You Need on Microsoft Store
@@ -157,27 +159,6 @@ Screenshot captured by Jack Slater - No attribution required
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-proven-tactics-for-saving-lol-events/"><u>[New] 2024 Approved Proven Tactics for Saving LOL Events</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-color-grading-a-look-at-luts-significance-for-2024/"><u>[New] Navigating Color Grading A Look at LUT's Significance for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-earn-through-engagement-securing-youtube-partnership-membership/"><u>[Updated] In 2024, Earn Through Engagement Securing YouTube Partnership Membership</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/abbyy-compreno-crowned-innovative-leader-of-2016-by-kmworld-magazine/"><u>ABBYY Compreno Crowned 'Innovative Leader of 2016' By KMWorld Magazine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-program-interactions-with-context-menu-upgrades/"><u>Ease Your Program Interactions with Context Menu Upgrades</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-mute-speakers-in-windows-7/"><u>Effective Solutions for Fixing Mute Speakers in Windows 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-enhanced-top-free-must-have-tools-for-windows-11/"><u>Effortlessly Enhanced: Top Free Must-Have Tools for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/evanescence-of-audio-glitch-overcoming-code-0xd36b4/"><u>Evanescence of Audio Glitch: Overcoming Code 0Xd36b4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-switch-off-subtitle-features-in-amazon-prime-video/"><u>Guide: How to Switch Off Subtitle Features in Amazon Prime Video</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-hitching-a-ride-in-high-flying-tiktok-live-shows/"><u>In 2024, Hitching a Ride in High-Flying TikTok Live Shows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlimited-editing-discover-these-9-free-cloud-tools/"><u>In 2024, Unlimited Editing Discover These 9 Free Cloud Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-v30-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo V30 Pro FRP Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-start-menu-experience-in-windows-11/"><u>Maximize Your Start Menu Experience in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-your-system-for-effortless-file-disposal-in-windows/"><u>Set Your System for Effortless File Disposal in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-invisible-zip-file-encryption-within-pixels/"><u>The Art of Invisible ZIP File Encryption Within Pixels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ancestry-the-surviving-features-from-the-seventh-era/"><u>Windows Ancestry: The Surviving Features From the Seventh Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-access-fixing-past-login-phrase-problem/"><u>Winning Back Access: Fixing Past Login Phrase Problem</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +166,23 @@ Screenshot captured by Jack Slater - No attribution required
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-masterful-nintendo-switch-fighting-game-collection-max-156/"><u>[New] In 2024, Masterful Nintendo Switch Fighting Game Collection (Max 156)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-refresh-techniques-to-start-your-macbook-pro-over-again/"><u>Easy Refresh Techniques to Start Your MacBook Pro Over Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-guide-organizing-your-files-with-custom-finder-preferences/"><u>Effective Guide: Organizing Your Files with Custom Finder Preferences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestreams-using-manycams-advanced-features-for-virtual-webcams-and-professional-video-editing/"><u>Enhance Your Livestreams Using ManyCam's Advanced Features for Virtual Webcams and Professional Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-non-functional-windows-start-menu-entry/"><u>Fixed: Non-Functional Windows Start Menu Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-portable-computing/"><u>Innovative Windows Portable Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-uac-screenshots-on-pc/"><u>Mastering UAC Screenshots on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-online-a-teljes-utmutatoi-szervezetbe-illesedese-es-kepernyok-rogzitese-obs-szel-csoportjainkban/"><u>Movavi Online: A Teljes Útmutatói Szervezetbe Illésedése És Képernyők Rögzítése OBS-Szel Csoportjainkban</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-n-models-essential-guide/"><u>Navigating Through Windows N Models: Essential Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-guide-to-enhancing-colors-in-photoshop-for-2024/"><u>Quick Guide to Enhancing Colors in Photoshop for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-how-to-for-efficiently-updating-your-windows-11-amd-drivers/"><u>The Ultimate How-To for Efficiently Updating Your Windows 11 AMD Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-v30-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo V30 Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-engaging-with-windows-11-taskbar-activating-end-task-option/"><u>Understanding and Engaging with Windows 11 Taskbar: Activating End Task Option</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-advantages-of-hdmi-21-should-your-next-tech-update-include-this-standard/"><u>Unveiling the Advantages of HDMI 2.1 – Should Your Next Tech Update Include This Standard?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/which-win-pkg-tool-triumphs-choco-vs-wslm-analysis/"><u>Which Win Pkg Tool Triumphs? Choco VS. WSLM Analysis</u></a></li>
+</ul></div>
+

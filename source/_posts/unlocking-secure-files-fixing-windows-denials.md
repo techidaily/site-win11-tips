@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secure Files: Fixing Windows Denials"
-date: 2024-12-12T00:25:23.075Z
-updated: 2024-12-12T18:33:53.481Z
+date: 2024-12-16T18:14:24.096Z
+updated: 2024-12-21T20:40:50.372Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
  If the issue was the lack of administrator privileges, your app will run by the end of these steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable Potentially Unwanted App Blocking
 
  Unwanted app blocking is a [Windows Security](https://www.makeuseof.com/windows-11-quick-security-guide/) feature that prevents low-reputation apps and software from running. That feature can cause the "cannot access the specified device" error when enabled. You can check if unwanted app blocking is enabled and disable it as follows:
@@ -68,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 6. Select **Apply** to save the new file settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click **OK** to close the file's properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the File's Permissions
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 9. Press the **OK** buttons on all windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Recreate a Program's Shortcut
@@ -106,8 +102,17 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
 4. Select **Next** and input a shortcut title in the text box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Finish** to add the new program shortcut.
 6. Right-click the program's old shortcut to select **Delete** (the trash can button in Windows 11).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Double-Check the File's Location
 
@@ -118,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 ![The Target box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-target-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That **Target** box will show whether the file is on another drive. If it is, connect the external drive that includes the file to your PC to access it. Double-check that the file specified hasn't been deleted if the **Target** box references the local C: drive. To do that, open the folder path specified in File Explorer.
@@ -137,11 +142,12 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 5. Then select the **Enabled** radio button.  
 ![The Admin Approval Mode policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-admin-approval-mode-policy-settings.jpg)
 6. Click **Apply** to set the policy.
-7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
 
 ## 8\. Set Up a Windows Security Exclusion Affected Software or File
 
@@ -150,11 +156,7 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 ![Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-exclusion-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Temporarily Disable Any Active Third-Party Security Software
@@ -166,6 +168,10 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
  How exactly you turn off different third-party antivirus apps varies slightly. However, most have context menus from which you can select to disable their shields. Click the system tray icon for your antivirus software with the right mouse button to view its context menu. Then choose an option for disabling its antivirus shield from there.
 
  Should this potential solution work, you'll know what's causing it. However, don't leave your antivirus software disabled. Add affected files to the security software's exceptions list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Repair or Reinstall the File
 
@@ -180,36 +186,11 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
  Depending on the app, you will get an option to either uninstall the app or change its settings. That's it—from there just follow the on-screen instructions, and you will be done in no time. If you installed the app, make sure you get it from a trusted source again and then see if you are facing the same error again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get the "Cannot Access the Specified Device" Error Sorted in Windows 10 and 11
 
  We don't promise guaranteed solutions, but the potential resolutions here will likely resolve the "cannot access the specified device" error on your PC. Many users have sorted that file access issue out in Windows by applying the above fixes.
 
  So, how do you solve the "cannot access the specified device" error? Check out some of the troubleshooting steps you can take below.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-clearscreenstreamer-seamless-easy-w11-screenshots-for-2024/"><u>[Updated] ClearScreenStreamer Seamless, Easy W11 Screenshots for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-9-puzzle-and-adventure-titles-for-unplugged-android-gaming/"><u>[Updated] In 2024, Essential 9 Puzzle & Adventure Titles for Unplugged Android Gaming</u></a></li>
-<li><a href="https://win-tips.techidaily.com/5q245qqu56il5byp5lul57s577ya5aac5l2v5b6e5b2x54mh5pah5lu25lit5yplusw5zue5qqu5qgi5zkm55uu6yye/"><u>歸檔程式介紹：如何從影片文件中取回檔案和目錄</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221405424-mp3/"><u>網路上任何影片 MP3 格式免費轉換工具列表</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alaw-wavmp3web-movavi/"><u>ALAW WAVからMP3へフリーなWebベースの音声コンバータ - Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrocks-value-packed-b760m-pro-rs-review-affordable-pricing-with-abundant-m2-support/"><u>ASROCK's Value-Packed B760M PRO RS Review - Affordable Pricing with Abundant M.2 Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-your-images-with-movavis-on-line-tool-fast-free-from-tga-to-gif/"><u>Convert Your Images with Movavi's On-Line Tool - Fast, Free, From TGA to GIF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertissez-votre-fichier-vers-une-video-mp4-sans-cout-utiliser-movavi-online/"><u>Convertissez Votre Fichier Vers Une Vidéo MP4 Sans Coût - Utiliser Movavi Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guida-passo-passo-per-convertire-mmf-in-mp3-online-senza-costi-con-laiuto-di-movavi-impara-come-gestire-la-tua-musica-semplicemente/"><u>Guida Passo-Passo per Convertire MMF in MP3 Online Senza Costi Con L'Aiuto Di Movavi: Impara Come Gestire La Tua Musica Semplicemente!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacer-tu-snd-lineal-sin-gastos-con-movavi-tutorial-paso-a-paso/"><u>Hacer Tu SND Lineal Sin Gastos Con Movavi: Tutorial Paso a Paso</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-customize-your-websites-book-titles-with-keywords-and-descriptions-using-flipbuilder/"><u>How to Customize Your Website's Book Titles with Keywords & Descriptions Using FlipBuilder</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-methods-to-access-apples-podcast-library-for-2024/"><u>Innovative Methods to Access Apple's Podcast Library for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/monitoring-your-internet-consumption-a-step-by-step-guide/"><u>Monitoring Your Internet Consumption: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mxf-movavi/"><u>MXFファイルの無料オンライン変換サービス - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722982170944-steam-remote-play-issues-heres-how-you-can-fix-them-now/"><u>Steam Remote Play Issues? Here's How You Can Fix Them Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-au-format-mp3-au-flac-en-ligne-avec-movavi-comment-le-faire/"><u>Transformation Gratuite De Fichiers Au Format MP3 Au FLAC en Ligne Avec Movavi - Comment Le Faire</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20C | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +199,21 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] In 2024, Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-license-free-meditation-songs-your-ultimate-selection/"><u>2024 Approved License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brainy-battles-2024s-ultimate-trivia-channel-ranking/"><u>Brainy Battles 2024'S Ultimate Trivia Channel Ranking</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-essential-android-usb-drives-compatible-with-windows/"><u>Download & Setup: Essential Android USB Drives Compatible with Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-lockpicking-games-for-thrill-seekers/"><u>Elite Lockpicking Games for Thrill Seekers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-solving-windows-11-login-problems/"><u>Quick Fix: Solving Windows 11 Login Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-remove-print-support-from-windows-11-pc/"><u>Securely Remove Print Support From Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-phantom-device-mistake-on-windows-os/"><u>Solving Phantom Device Mistake on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-faster-download-rates-in-the-ms-store/"><u>Strategies for Faster Download Rates in the MS Store</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/stream-the-hottest-trailers-top-10-iphone-and-ipad-movie-apps-for-2024/"><u>Stream the Hottest Trailers Top 10 iPhone and iPad Movie Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-slow-cursor-movement-turn-off-mouse-accel-windows-11/"><u>The Art of Slow Cursor Movement: Turn Off Mouse Accel Windows 11</u></a></li>
+</ul></div>
+

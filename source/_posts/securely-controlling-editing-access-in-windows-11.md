@@ -1,7 +1,7 @@
 ---
 title: Securely Controlling Editing Access in Windows 11
-date: 2024-08-16T02:46:03.206Z
-updated: 2024-08-17T02:46:03.206Z
+date: 2024-12-16T23:49:19.322Z
+updated: 2024-12-21T20:04:02.839Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,16 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 6. Click **Apply** followed by **OK**.  
 ![Block Registry Editor Access via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-group-policy-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
 
  Another way to restrict the Registry Editor access on Windows involves using the Registry Editor itself. Here are the steps you can follow.
@@ -49,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 6. Right-click on the **System** key and select **New > DWORD (32-bit) Value**. Name it **DisableRegistryTools**.
 7. Double-click the newly created DWORD, type **1** in the Value data field, and hit **OK**.  
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
@@ -72,10 +69,12 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System] "DisableRegistryTools"=dword:00000000`  
 ![Create Reg File to Enable Registry Editor Access on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-reg-file-to-enable-registry-editor-access-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **File** menu and select **Save as**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **Desktop** in the **Save as** dialog box.
 6. Enter a suitable name followed by ".reg" and hit **Save**. For instance, you could name the file **ReEnableRegistry.reg** or something similar.
 7. Use one of the many [ways to open the Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/).
@@ -87,15 +86,14 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Allowing or Disallowing Registry Editor Access on Windows
 
  Blocking access to the Registry Editor is an effective way to protect your system from registry mishaps. Nonetheless, if you opt to re-enable access to the Registry Editor on your PC, make sure to exercise caution to avoid messing up the Windows Registry.
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,3 +101,22 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-ultimate-virtual-worlds-for-party-gaming/"><u>[New] 10 Ultimate Virtual Worlds for Party Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[New] 2024 Approved Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-minute-movie-narrative-blueprint/"><u>[New] Minute Movie Narrative Blueprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commence-the-telling-in-windows-11-ecosystem/"><u>Commence the Telling in Windows 11 Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demolishing-the-empty-directory-problem-windows-0x80070091-hurdle/"><u>Demolishing the Empty Directory Problem: Windows' 0X80070091 Hurdle</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-smoother-battlefield-2042-experience-dealing-with-frame-rate-problems/"><u>Expert Tips for a Smoother Battlefield 2042 Experience - Dealing with Frame Rate Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-conventional-to-cutting-edge-the-shift-in-os-features/"><u>From Conventional to Cutting-Edge: The Shift in OS Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-pdf-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Add Your Digital Signature to a PDF Document</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-pubg-battlegrounds-not-saving-settings-in-windows-1110/"><u>How to Fix PUBG: Battlegrounds Not Saving Settings in Windows 11/10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-msvbvm50dll-file-missing-error-a-step-by-step-guide/"><u>How To Resolve 'msvbvm50.dll' File Missing Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-the-art-of-viral-videos-1mplus-audience-journey-for-2024/"><u>Mastering the Art of Viral Videos 1M+ Audience Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-failed-device-pairings-in-windows-11/"><u>Quick Fix for Failed Device Pairings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-grayed-out-memory-management-in-win11/"><u>Reviving Grayed-Out Memory Management in Win11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-essential-guide-to-cinematic-instagram-videos-for-2024/"><u>The Essential Guide to Cinematic Instagram Videos for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Uncover Hidden 5GHz Networks in Windows 11 Using 7 Tips
-date: 2024-08-16T02:46:31.747Z
-updated: 2024-08-17T02:46:31.747Z
+date: 2024-12-20T21:33:19.327Z
+updated: 2024-12-22T03:47:09.938Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  Now that you know all the primary culprits behind the issue let's dive into the working fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Your Computer Supports the 5GHz Wi-Fi Band
 
  Before getting into advanced troubleshooting, make sure your computer is compatible with the 5GHz connection. As it turns out, if your device doesn't support the 5GHz band, there's no chance it will detect it.
@@ -57,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  Your computer might fail to detect the 5GHz connection if there's something wrong with your router. Restarting the router is one of the best ways you can try to get rid of most of the network issues, including this one. Hence, check out our guide on[how to restart your router](https://www.makeuseof.com/how-to-reset-router/) and check if it makes any difference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Manually Enable the 5GHz Wi-Fi Band
 
  Windows lets you manually enable or disable the 5GHz Wi-Fi band on your computer. You can do it with the help of the Device Manager. Here are the steps you need to follow:
@@ -70,14 +64,12 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 4. Select the**5G Wireless Mode** and click the drop-down icon under**Value.**
 5. Choose**IEEE 802.11a/n** from the list.  
 ![Enable 5GHz in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-5ghz.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
 
  A Wi-Fi adapter is an important component that lets your device connect to a network. Sometimes, a temporary glitch with the Wi-Fi adapter can stop Windows from recognizing a particular band.
@@ -90,12 +82,13 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 4. Click**Change adapter settings** in the left panel.
 5. Right-click on the Wi-Fi adapter and click**Disable.**  
 ![Disable Network Adapter using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-network-adapter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Wait for a minute or so, and then right-click on the Wi-Fi adapter again and choose**Enable.**
 
  That's it. Now check if your computer is showing a 5GHz connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Internet Connection Troubleshooter
 
@@ -107,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 4. Click the**Run** button next to**Internet Connection** .  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
 
 ## 6\. Download the Latest Network Driver Update
@@ -116,15 +113,13 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 1. Open the Device Manager, expand the Network adapter, right-click on the installed network adapter and choose**Update** **driver** .
 2. Select**Search automatically for drivers** from the window that crops up.  
 ![Updating Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/5-Updating-Network-Drivers-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update on your computer. After that, restart your device and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset TCP/IP and Flush DNS Cache
 
  The next solution on the list is to reset the TCP/IP and then flush the DNS cache. Here's how:
@@ -139,20 +134,21 @@ ipconfig /renew`
 
 Reboot your computer after executing the above commands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Faster Transfer Speeds With a 5GHz Connection
 
  Nothing more frustrating than settling for 2.4GHz if you know your computer is compatible with the 5GHz connection. The problem mainly results due to corruption in the network adapter. Fortunately, you can quickly fix the issue by following the solutions.
 
  But in the worst-case scenario, if the problem continues, you can consider resetting your network settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +157,16 @@ Reboot your computer after executing the above commands.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[Updated] 2024 Approved The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-recorder-tips-effective-screen-and-camera-capturing-techniques/"><u>[Updated] In 2024, Vimeo Recorder Tips Effective Screen & Camera Capturing Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a20-sound-troubles-straightforward-repair-steps-for-a-broken-mic/"><u>Astro A20 Sound Troubles: Straightforward Repair Steps for a Broken Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-non-functional-windows-start-menu-entry/"><u>Fixed: Non-Functional Windows Start Menu Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-n-models-essential-guide/"><u>Navigating Through Windows N Models: Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-with-windows-update-fix/"><u>Overcoming Obstacles with Windows Update Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-windows-could-not-connect-to-system-event-notification-errors/"><u>Solution Steps: Fixing 'Windows Could Not Connect to System Event Notification' Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-engaging-with-windows-11-taskbar-activating-end-task-option/"><u>Understanding and Engaging with Windows 11 Taskbar: Activating End Task Option</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-for-unparalleled-artificial-intelligence-solutions/"><u>Why Choose Claude for Unparalleled Artificial Intelligence Solutions?</u></a></li>
+</ul></div>
 

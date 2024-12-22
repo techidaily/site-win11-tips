@@ -1,7 +1,7 @@
 ---
 title: "Epic Speed: Turbocharging Launcher Download Times"
-date: 2024-12-10T19:21:17.596Z
-updated: 2024-12-12T22:47:33.468Z
+date: 2024-12-19T00:52:49.458Z
+updated: 2024-12-21T19:26:10.940Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Problems With the Backend
 
  It's possible to get super slow download speeds in Epic Games if there is a backend issue with the client or any other Epic Games service. Therefore, if your download speed has dropped unexpectedly, ensure all Epic Games servers and systems are up and running and the cause of the problem is not there.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
  You can check that in several ways, but here's the easiest: go to [Epic Games' status page](https://status.epicgames.com/) and check if everything is up and running, shown as green. If any outages are listed there, represented by a red or yellow color, wait for Epic Games to resolve the backend problem, and the download speed will return to normal.
 
 ![All Systems Showing as Operational on the Epic Games Status Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/all-systems-showing-as-operational-on-the-epic-games-status-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If all systems appear to function correctly, then there's nothing wrong with the backend. In that case, move on to the next fix.
 
@@ -62,16 +62,8 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ![Open Settings in the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-open-settings-in-the-epic-games-launcher.jpg)
 3. Make sure that the box beside **Throttle Downloads** isn't checked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If it was checked before, click the box once to uncheck it.  
 ![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
@@ -96,6 +88,14 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 3. Delete each **webcache** folder you find.  
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reconfigure the Engine.ini File
 
  According to Reddit users and numerous YouTubers, modifying the Engine.ini file in the Epic Games installation folder can also make the download process faster. Follow these steps to reconfigure the file:
@@ -105,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 3. Here, right-click the **Engine.ini** file and open it with Notepad or any other text editor.  
 ![Open the Engine.ini File in Notepad From the Epic Games Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-open-the-engine-ini-file-in-notepad-from-the-epic-games-installation-folder.jpg)
 4. Delete all the content in this file and add the following code instead:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `[HTTP]  
 HttpTimeout=10  
@@ -124,11 +120,11 @@ RetryTime=0.5`
 ![Save the Engine.ini File After Adding Few Commands in It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-save-the-engine-ini-file-after-adding-few-commands-in-it-1.jpg)
 6. Restart the Epic Games Launcher again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perform Some Windows-Specific Changes to Speed Up Downloads
 
@@ -136,6 +132,10 @@ RetryTime=0.5`
 
 * Changing your DNS settings to Google's public DNS is well-known for boosting download speeds for most apps and clients. So, [switch your DNS server](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and see whether the download speed improves.
 * [Whitelist the Epic Games Launcher from Microsoft Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and any third-party antivirus you use. This will prevent security suites from restricting or limiting download activity in any way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Speed Up the Epic Games Launcher Downloads
 
@@ -147,24 +147,6 @@ RetryTime=0.5`
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>[New] Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavicr2-jpeg/"><u>「MovaviのオンラインCR2処理 - すぐに使える無料JPEGへの変換サービス」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/qtmp3-movavi/"><u>「お金を費やさずにQT音楽MP3形式コンバート可能 – Movaviの使い方」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aprenda-a-alterar-o-tamanho-de-seu-video-com-essas-9-ferramentas-mais-utilizadas/"><u>Aprenda a Alterar O Tamanho De Seu Vídeo Com Essas 9 Ferramentas Mais Utilizadas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eficientes-tecnicas-para-la-optimizacion-del-almacenamiento-de-su-disco-duro/"><u>Eficientes Técnicas Para La Optimización Del Almacenamiento De Su Disco Duro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-your-files-from-m1v-to-mp4-with-ease-movavi/"><u>Free Online Converter: Transform Your Files From M1V to MP4 with Ease - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-online-transformador-de-videos-para-convertir-wmv-en-webm-moviwizard/"><u>Gratuito Online: Transformador De Vídeos Para Convertir WMV en WebM - MoviWizard</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-12t-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12T Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-apple-ipad-pro-11-inch-2018-the-unrivaled-king-of-high-end-tablets/"><u>In-Depth Analysis: Apple iPad Pro (11-Inch, 2018) - The Unrivaled King of High-End Tablets</u></a></li>
-<li><a href="https://techidaily.com/installing-and-configuring-superrepo-for-kodi-a-detailed-tutorial/"><u>Installing and Configuring SuperRepo for Kodi - A Detailed Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quintessential-6-giants-of-vast-language-systems/"><u>Quintessential 6 Giants of Vast Language Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-11-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-site-potential-through-cookiebot-integration/"><u>Unlocking Site Potential Through Cookiebot Integration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/x-audiomaster-personal-computing-for-2024/"><u>X-AudioMaster Personal Computing for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +154,27 @@ RetryTime=0.5`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-alluring-phrase-formulation-device/"><u>[New] In 2024, Alluring Phrase Formulation Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-rapid-periscope-livestream-optimization-methods/"><u>[New] In 2024, Rapid Periscope Livestream Optimization Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-list-of-effective-snapchat-techniques-for-2024/"><u>[New] The Ultimate List of Effective Snapchat Techniques for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-save-techniques-for-snapchat-memories-for-2024/"><u>[Updated] Quick Save Techniques for Snapchat Memories for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists/"><u>2024 Approved From Canvas to Ledger The Ultimate List of NFT Engines for Artists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-iphone-video-tips-trim-to-size-with-precision-cutting/"><u>2024 Approved IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-canon-mx870-on-windows-xp-vista-and-7-systems/"><u>Enable Canon MX870 on Windows XP, Vista, and 7 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-keep-your-windows-clutter-free-naturally/"><u>Learn to Keep Your Windows Clutter-Free Naturally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-store-installation-challenges/"><u>Mastering Windows Store Installation Challenges</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro-for-2024/"><u>Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-terrain-mastering-classic-diablo/"><u>Navigating the Terrain: Mastering Classic Diablo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outlook-preview-setup-for-windows-1011-users/"><u>Outlook Preview Setup for Windows 10/11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-resource-conflict-error-on-windows-1011-155-chars/"><u>Resolving Resource Conflict Error on Windows 10/11 (155 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-viewing-syncing-prime-and-windows-11-for-textual-perfection/"><u>Seamless Viewing: Syncing Prime and Windows 11 for Textual Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-security-with-custom-lock-patterns-on-windows-11/"><u>Steps to Enhance Security with Custom Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-strategy-pairing-airpods-with-windows-pcs/"><u>Stepwise Strategy: Pairing AirPods with Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resuming-razer-device-connection-support-by-synapse/"><u>Strategies for Resuming Razer Device Connection Support by Synapse</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C12 Pro | Dr.fone</u></a></li>
+</ul></div>
+

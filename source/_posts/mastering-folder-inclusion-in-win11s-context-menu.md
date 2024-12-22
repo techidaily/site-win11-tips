@@ -1,7 +1,7 @@
 ---
 title: Mastering Folder Inclusion in Win11's Context Menu
-date: 2024-08-23T07:00:13.473Z
-updated: 2024-08-24T07:00:13.473Z
+date: 2024-12-16T08:05:53.545Z
+updated: 2024-12-21T17:48:27.902Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
@@ -56,9 +60,6 @@ Once your PC has restarted:
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
  Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
@@ -75,14 +76,18 @@ Once your PC has restarted:
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -102,8 +107,9 @@ Once your PC has restarted:
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -114,16 +120,18 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
  MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
@@ -134,8 +142,6 @@ Once your PC has restarted:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +149,26 @@ Once your PC has restarted:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-deconstructing-the-features-of-djis-quadcopter-model-3/"><u>[New] 2024 Approved Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expand-your-instagram-skills-advanced-use-of-queries/"><u>[New] 2024 Approved Expand Your Instagram Skills Advanced Use of Queries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-top-users-to-increase-visibility/"><u>[New] Utilizing Top Users to Increase Visibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-reviews-by-toms-experts/"><u>Comprehensive Hardware Reviews by Tom's Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-editing-with-powertoys-essentials/"><u>Effortless Editing with PowerToys Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-chromiums-network-gateway-through-windows-security/"><u>Enabling Chromium's Network Gateway Through Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-hiding-the-search-bar-on-11/"><u>Essential Tips for Hiding the Search Bar on 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-dull-to-dynamic-nine-techniques-for-clear-windows-views/"><u>From Dull to Dynamic: Nine Techniques for Clear Windows Views</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-fresh-update-and-free-download-for-windows-11-8-7-users/"><u>MPOW Bluetooth Drivers – Fresh Update & Free Download for Windows 11, 8, 7 Users</u></a></li>
+<li><a href="https://win-data.techidaily.com/musik-zwischen-ipad-und-iphone-hin-und-herscheiden-mit-oder-ohne-pc/"><u>Musik Zwischen Ipad Und Iphone Hin- Und Herscheiden - Mit Oder Ohne PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-location-errors-in-windows-108/"><u>Overcoming Save Location Errors in Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/patch-up-the-net-framework-on-windows-efficiently-max-156/"><u>Patch Up the .NET Framework on Windows Efficiently (Max 156)</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-to-address-missing-bluetooth-on-your-windows-11-system/"><u>Quick Remedies to Address Missing Bluetooth on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-typing-speed-with-windows-tools/"><u>Skyrocket Your Typing Speed with Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensive-guide-to-windows-diagnostics-creating-and-analyzing-reports/"><u>The Comprehensive Guide to Windows Diagnostics: Creating & Analyzing Reports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-windows-system-restore-rollbacks/"><u>The Essentials of Windows System Restore Rollbacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-youtube-visuals-for-no-charge-best-free-downloader-guide-for-2024/"><u>Unlock YouTube Visuals for No Charge Best Free Downloader Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-gopro-quik-review-is-it-the-best-video-editor-for-your-needs-for-2024/"><u>Updated GoPro Quik Review Is It the Best Video Editor for Your Needs for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone XR? | Dr.fone</u></a></li>
+</ul></div>
 

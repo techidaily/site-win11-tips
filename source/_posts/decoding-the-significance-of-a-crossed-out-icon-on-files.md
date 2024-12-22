@@ -1,7 +1,7 @@
 ---
 title: Decoding the Significance of a Crossed Out Icon on Files
-date: 2024-12-07T18:02:47.730Z
-updated: 2024-12-12T21:43:25.263Z
+date: 2024-12-17T19:03:44.788Z
+updated: 2024-12-21T18:33:57.309Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before We Get Started…
 
  First, perform the following preliminary checks, as they may help you get to the bottom of the problem:
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
  If the above checks do not assist in pinpointing the cause, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Log Into OneDrive and Begin Syncing
 
  Find the OneDrive icon at the right end of the taskbar, also known as the notification area or system tray. Seeing a red cross or slanted dash on the OneDrive icon means you are no longer logged in to OneDrive, and your files are not being synced. So, you'll need to sign in again to begin syncing. To do that, follow these steps:
@@ -49,17 +49,22 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 2. Click the**Sign in** button.  
 ![Click on the Sign in Button to Log in to Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-sign-in-button-to-log-in-to-microsoft-onedrive.jpg)
 3. Enter the email address associated with your Microsoft account and click**Sign in** . If you want to sync your data to a OneDrive account created with the same Microsoft account you are using on your device, you won't have to enter a password. If it's different, you may need to enter a password.  
-![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
-4. Choose a OneDrive folder location or click**Next** to use the default location.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
+4. Choose a OneDrive folder location or click**Next** to use the default location.  
 
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
 5. Then, follow a few on-screen instructions to log into OneDrive.
 
  After logging in, reboot your device. Hopefully, a fresh sync will resolve the issue with the folder icons. But how do you proceed if you're already logged in to OneDrive?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Relink Your OneDrive Account
 
@@ -72,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 4. Go to the**Account** tab in the**OneDrive Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then click on**Unlink this PC** .  
@@ -81,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 7. After unlinking the account, open Windows File Explorer or the folder where you see a red circle with a white cross.
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
 
@@ -92,21 +101,18 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 2. On the left sidebar, right-click on**OneDrive** and click**Show more options** .  
 ![Click on the Show More Options to Expand Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-the-show-more-options-to-expand-context-menu.jpg)
 3. Select**Settings** from the context menu.  
-![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
-4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
+4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
 
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Ensure OneDrive Has Enough Space Free
 
@@ -120,13 +126,13 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall OneDrive
 
@@ -143,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Red Circles on Your Windows Folders
 
@@ -167,21 +169,24 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-techniques-for-broadcasting-fb-live-on-cable-for-2024/"><u>[New] Top Techniques for Broadcasting FB Live on Cable for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-an-insider-look-at-vegaspro-2019-for-2024/"><u>[Updated] An Insider Look at VegasPro 2019 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-moons-magic-dos-and-donts-of-immersive-night-photography/"><u>[Updated] In 2024, Moon's Magic Do's & Don'ts of Immersive Night Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros-for-2024/"><u>A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-your-gifs-into-high-quality-jpeg-images-for-free-by-movavi/"><u>Convert Your GIFs Into High-Quality JPEG Images for Free by Movavi!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/data-retrieval-tactics-after-a-hard-drive-failure-expert-advice-from-yl-computings-software-solutions/"><u>Data Retrieval Tactics After a Hard Drive Failure: Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-methods-to-reboot-your-pc-on-windows-8/"><u>Effective Methods to Reboot Your PC on Windows 8</u></a></li>
-<li><a href="https://win-news.techidaily.com/erstellen-sie-ein-dell-bildschirmfoto-unter-windows-11-8-oder-7-mit-funf-effektiven-techniken/"><u>Erstellen Sie Ein Dell-Bildschirmfoto Unter Windows 11, 8 Oder 7 Mit Fünf Effektiven Techniken</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-conversion-of-wma-audio-a-step-by-step-guide-with-top-tools/"><u>Free Conversion of WMA Audio: A Step-by-Step Guide with Top Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transforming-vob-files-into-high-quality-m2ts-format-with-ease-movavi/"><u>Free Online Conversion: Transforming VOB Files Into High-Quality M2TS Format with Ease - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-pratique-reduire-et-agrandir-des-fichiers-videos-a-laide-du-logiciel-movavi-video-converter/"><u>Guide Pratique : Réduire Et Agrandir Des Fichiers Vidéos À L'aide Du Logiciel Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/los-10-mejores-programas-para-crear-mixes-de-musica-una-guia-completa/"><u>Los 10 Mejores Programas Para Crear Mixes De Música: Una Guía Completa</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/reacting-when-youre-seen-in-a-video-on-fb-messenger-for-2024/"><u>Reacting When You're Seen In a Video On FB Messenger for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ers-fortune-on-screen-young-ryan-as-top-youtuber-earner-for-2024/"><u>Toddler's Fortune on Screen Young Ryan As Top YouTuber Earner for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-12-free-windows-8-screen-capture-tools-a-comprehensive-guide/"><u>Top 12 Free Window's 8 Screen Capture Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vob-6-202/"><u>VOB 파일을 정기적으로 재생하는 데 도움이 되는 6가지 제안: 급증의 202)년에 대한 전문가 통칭</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-infusing-youtube-soundtracks-within-multimedia/"><u>[Updated] In 2024, Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-saving-insta-story-content-for-2024/"><u>[Updated] Step-by-Step Guide to Saving Insta Story Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-clear-cut-strategy-for-image-border-management-on-canva/"><u>[Updated] The Clear-Cut Strategy for Image Border Management on Canva</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-savor-success-the-hottest-food-challenges-on-tiktok-to-keep-you-entertained-and-inspired/"><u>2024 Approved Savor Success The Hottest Food Challenges on TikTok to Keep You Entertained and Inspired</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-itunes-operation-in-windows-environment/"><u>Guide to Restoring iTunes Operation in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-permission-blocked-error-in-winsys/"><u>How to Circumvent 'Permission Blocked' Error in WinSys</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-selections-free-vs-paid-hd-playback-software/"><u>In 2024, Exclusive Selections Free vs Paid HD Playback Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016336803-lucidsound-ls3t-mic-malfunction-heres-your-step-by-step-guide-to-fixing-it/"><u>LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-secure-files-with-powertoys/"><u>Master the Art of Secure Files with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-fatal-javascript-error-in-windows-11s-discord/"><u>Navigating Through The Fatal JavaScript Error in Windows 11'S Discord</u></a></li>
+<li><a href="https://fox-access.techidaily.com/non-competitive-front-row-fun-ranking-the-top-ten/"><u>Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-path-disconnect-issues/"><u>Overcoming Windows Path Disconnect Issues</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-c51-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme C51 unlock screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-non-opening-nuisance-7-steps-to-fix-stubborn-websites-in-win-os/"><u>The Non-Opening Nuisance: 7 Steps to Fix Stubborn Websites in WIN OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-to-correct-the-missing-d3dx927dll-error-message/"><u>Troubleshooting Steps to Correct the Missing d3dx9_27.dll Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-d3dx939-error-fix-guide-here/"><u>Win11's D3DX9_39 Error: Fix Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-regulating-biometric-access-for-users/"><u>Windows 11: Regulating Biometric Access for Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

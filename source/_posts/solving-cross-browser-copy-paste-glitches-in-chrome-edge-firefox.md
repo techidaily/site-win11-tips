@@ -1,7 +1,7 @@
 ---
 title: Solving Cross-Browser Copy Paste Glitches in Chrome, Edge, Firefox
-date: 2024-12-07T02:09:35.979Z
-updated: 2024-12-12T20:46:22.662Z
+date: 2024-12-15T09:32:43.688Z
+updated: 2024-12-22T07:59:51.327Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Perform Some Preliminary Checks
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  If none of the above basic checks help, it's time to move on to the other fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check How Widespread the Issue Is
 
  Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
@@ -54,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check for Problems With Your Keyboard
 
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -74,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Security Settings
 
 ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ## 6\. Clear the Clipboard Cache and History
 
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 * [Update your web browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to the latest version.
 * [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Alternative Methods to Copy and Paste Text
 
  If every other option fails, and you still can't copy-paste text normally, copy and paste text in your browser using the context menu. Though it isn't a quick way to copy and paste text, it is reasonably reliable and does the job most of the time.
@@ -136,23 +136,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-non-facebook-activities-exploration/"><u>[Updated] 2024 Approved Navigating Non-Facebook Activities Exploration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-pioneering-sustainability-transforming-metropolitan-environments/"><u>2024 Approved Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/h264-h264/"><u>發現H.2#64格式: H.264媒體播放解決方案、設定及支持的作業系統比較分析</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviwmampeg/"><u>完美上線不用付費，使用Movavi將WMA改造成MPEG影片</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-and-fast-switch-vob-videos-to-mp4-formats-for-pc-and-mac-users-using-movavis-free-tool/"><u>Easy & Fast: Switch VOB Videos to MP4 Formats for PC and Mac Users Using Movavi's Free Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-iphone-to-smart-tv-connectivity-glitches-with-airplay/"><u>Easy Fixes for iPhone to Smart TV Connectivity Glitches with AirPlay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-batch-designs-how-to-harness-the-power-of-canva-and-chatgpt-for-your-content-needs/"><u>Effortless Batch Designs: How to Harness the Power of Canva and ChatGPT for Your Content Needs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-f54-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy F54 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-streamlining-the-production-process-of-your-short-videos/"><u>In 2024, Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-quadro-driver-software-for-enhanced-windows-11-performance/"><u>Latest NVIDIA Quadro Driver Software for Enhanced Windows 11 Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-best-ai-video-editing-software-of/"><u>Top 10 Best AI Video Editing Software Of</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-file-webm-in-gif-gratuito-fast-e-versatile-conversion-tool/"><u>Trasforma File Webm in Gif Gratuito - Fast E Versatile Conversion Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pcx-jpg-movavi/"><u>온라인 PCX 이미지 교체를 위한 자세하고 JPG로의 가장 좋은 방법 - 무료 Movavi 프로그램</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +143,27 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-android-and-ios-the-best-sound-distortion-tools/"><u>[New] 2024 Approved Android & iOS The Best Sound Distortion Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-game-recorder-software-list/"><u>[New] In 2024, Top 10 Game Recorder Software List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-whatsapps-call-conversation-strategy/"><u>[New] Mastering WhatsApp's Call Conversation Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>[Updated] 2024 Approved From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cutting-edge-editing-10-pioneering-tools-for-instagram-vids/"><u>[Updated] In 2024, Cutting-Edge Editing 10 Pioneering Tools for Instagram Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-media-creation-tool-issue-x8007043c/"><u>Decoding Windows' Media Creation Tool Issue X.8007043C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-for-eradicating-roblox-error-262/"><u>Efficient Methods for Eradicating Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-continuity-a-guide-to-safekeeping-your-game-progress/"><u>Ensuring Continuity: A Guide to Safekeeping Your Game Progress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-wifi-disconnection-issue-on-windows-laptopspcs/"><u>Fixing WiFi Disconnection Issue on Windows Laptops/PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-service-did-not-respond-error-1053-on-windows/"><u>How to Fix “The Service Did Not Respond” Error 1053 on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-reconfigurator-for-videos/"><u>In 2024, Frame Reconfigurator for Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-15-gear-to-enhance-your-gopro-shots/"><u>In 2024, Prime 15 Gear to Enhance Your GoPro Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-secret-to-obtaining-fcp-for-free/"><u>In 2024, The Secret to Obtaining FCP for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s23-fe-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S23 FE Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-start-mastering-pc-directx-setup-and-maintenance/"><u>Quick Start: Mastering PC DirectX Setup & Maintenance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-the-saved-image-effect-uninstalling-webp-in-chrome-win-wise/"><u>Reversing the Saved Image Effect: Uninstalling WebP in Chrome, Win-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-wake-up-cycle-customizing-boot-menu-duration-in-win11/"><u>Speedy Wake-Up Cycle: Customizing Boot Menu Duration in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-store-glitches-on-win-11/"><u>Tackling Store Glitches on Win 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-9-live-stream-networks-revealed-secrets/"><u>Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+</ul></div>
+

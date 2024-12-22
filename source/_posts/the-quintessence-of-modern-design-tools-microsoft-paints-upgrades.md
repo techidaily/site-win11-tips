@@ -1,7 +1,7 @@
 ---
 title: The Quintessence of Modern Design Tools - Microsoft Paint's Upgrades
-date: 2024-12-10T23:42:03.597Z
-updated: 2024-12-12T16:10:08.735Z
+date: 2024-12-20T23:23:44.886Z
+updated: 2024-12-22T07:17:48.620Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Microsoft Paint Gets a Design Overhaul
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paint's Dark Mode Is Available for Everyone
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
@@ -55,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 ## 4\. Enhanced Zoom Controls and Accessibility
 
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
@@ -87,24 +87,6 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rafting-youtube-masterpieces-with-powerful-hashtag-strategies-for-2024/"><u>[New] Crafting YouTube Masterpieces with Powerful Hashtag Strategies for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[Updated] Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/business-video-editing-software-movavi-suite-and-screen-recording-solutions/"><u>Business Video Editing Software: Movavi Suite & Screen Recording Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-deadly-windows-1011-error-0x8007045d/"><u>Bypassing Deadly Windows 10/11 Error 0X8007045D</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-tp-link-archer-ax6-6000-with-nighthawk-ax12-performance-showdown/"><u>Comparing TP-Link Archer AX6# 6000 with Nighthawk AX12 - Performance Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/imovie-windows-pc-imovie/"><u>IMovie ใน Windows: เซ็ก컬 ไส้กระแท่ก ข้อสง่�ใน PC iMovie - ทักษะลึกซาก</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenlose-online-dts-aac-umwandlung-mit-movavi-perfekt-fur-filme-und-musik/"><u>Kostenlose Online DTS AAC Umwandlung Mit Movavi - Perfekt Für Filme Und Musik</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterful-minds-meet-discover-the-pluses-of-chatgpt-plus/"><u>Masterful Minds Meet - Discover the Pluses of ChatGPT Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-de-video-f4v-a-formatos-sin-costo-usar-online-gratis/"><u>Movavi: Convertidor De Vídeo F4V a Formatos Sin Costo - Usar Online Gratis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviwebp/"><u>Movaviの使いやすいオンラインWEBPファイル変換サービス - 完全無料</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unveiling-synergy-youtube-content-on-facebook-network/"><u>Unveiling Synergy YouTube Content on Facebook Network</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mp4-video-editing-on-a-budget-top-10-free-editors/"><u>Updated In 2024, MP4 Video Editing on a Budget Top 10 Free Editors</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-solutions-for-fixing-unresponsive-scanners-after-connection-expert-advice-from-yl-computing/"><u>YL Solutions for Fixing Unresponsive Scanners After Connection - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp43gp-moovavis/"><u>오픈소스 내 MP4/3GP를 원격으로 무용화하는 방법 - Moovavis</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,3 +94,25 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-mov-files-on-windows-10/"><u>[New] How to Record MOV Files on Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boosting-snapchat-impact-select-6-excellent-video-editors/"><u>[Updated] Boosting Snapchat Impact Select 6 Excellent Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-video-praise-with-innovative-approaches/"><u>[Updated] Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-digital-presence-with-advanced-cookiebot-solutions/"><u>Boost Digital Presence with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-cloner-de-maniere-securisee-un-cartouche-memoire-sd-sur-pc/"><u>Comment Cloner De Manière Sécurisée Un Cartouche Mémoire (SD) Sur PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-ms-project-efficiency-with-shortcuts/"><u>Elevate Your MS Project Efficiency with Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-continuous-unlocked-windows-state/"><u>Guidelines for Continuous Unlocked Windows State</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-speech-recognition-could-not-start-error-on-windows/"><u>How to Fix the Speech Recognition Could Not Start Error on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unlock-channels-success-key-equipment-insights/"><u>In 2024, Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-search-of-truth-breaking-barriers-with-app-guard-and-beyond/"><u>In Search of Truth: Breaking Barriers with App Guard and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-deciphering-and-fixing-upgrade-issues/"><u>Mastering the Art of Deciphering & Fixing Upgrade Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-text-editing-implementing-wordpad-triggers-in-windows-context-menus/"><u>Optimizing Text Editing: Implementing WordPad Triggers in Windows' Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-reinvigorate-windows-explorer-win-11/"><u>Quick-Fix Guide: Reinvigorate Windows Explorer, Win 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-14-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 14 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Updated In 2024, Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-guide-setting-up-and-utilizing-chatgpt/"><u>Win Guide: Setting Up & Utilizing ChatGPT</u></a></li>
+</ul></div>
+

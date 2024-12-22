@@ -1,7 +1,7 @@
 ---
 title: "Winning in Multitasking: The Advantage of 16GB RAM"
-date: 2024-12-09T00:03:20.143Z
-updated: 2024-12-12T22:38:38.356Z
+date: 2024-12-21T07:47:15.906Z
+updated: 2024-12-22T02:33:03.963Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 * [What Is Happening With RAM in Windows Computers?](#what-is-happening-with-ram-in-windows-computers)
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -71,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
  While Microsoft has reasons for upping the minimum amount of RAM, it's easy to be skeptical about its claims. Who's to say this isn't just a move to raise the demand for RAM and force hardware prices up? Is 16GB of RAM really necessary?
@@ -108,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-ultimate-vr-eyewear-selection-for-drone-contests/"><u>[New] In 2024, Ultimate VR Eyewear Selection for Drone Contests</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-honored-proposals-leading-ringtone-creators-iphone/"><u>2024 Approved Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oneplus-ace-2-pro-frp-bypass-by-drfone-android/"><u>About OnePlus Ace 2 Pro FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-art-of-victoria-greywing-a-detailed-analysis-on-movavi/"><u>Exploring the Art of Victoria Greywing - A Detailed Analysis on Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/facilidade-e-velocidade-na-aceleracao-de-videos-descubra-as-melhores-ferramentas/"><u>Facilidade E Velocidade Na Aceleração De Vídeos - Descubra as Melhores Ferramentas!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-convertire-raf-scatta-veloce-con-movavi/"><u>Gratuito Convertire RAF: Scatta Veloce Con Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-ai-tools-to-spark-your-podcast-written-name/"><u>In 2024, Innovative AI Tools to Spark Your Podcast' Written Name</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-strategies-to-thrive-on-reddit/"><u>In 2024, Step-by-Step Strategies to Thrive on Reddit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kop-nu-top-choice-screen-capture-tool-for-efficient-digital-recordings/"><u>Köp Nu: Top-Choice Screen Capture Tool for Efficient Digital Recordings</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-overcoming-windows-update-mishap-resolving-error-code-0x80240017/"><u>Successfully Overcoming Windows Update Mishap: Resolving Error Code 0X80240017</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/supreme-session-naming-service-for-2024/"><u>Supreme Session Naming Service for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-13-ricette-di-fotografia-video-metodi-essenziali-per-diverse-situazioni-di-shooting/"><u>Top 13 Ricette Di Fotografia Video: Metodi Essenziali per Diverse Situazioni Di Shooting</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +115,21 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-diary-top-picks-for-personal-video-devices/"><u>[Updated] Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diving-deep-into-samsung-photo-enhancers-guide/"><u>2024 Approved Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016401732-bluetooth-delay-fixes-fast-and-simple-solutions/"><u>Bluetooth Delay Fixes: Fast and Simple Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hering-youtube-shorts-a-comprehensive-overview/"><u>Deciphering YouTube Shorts A Comprehensive Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disconnect-saved-networks-in-win-11/"><u>Disconnect Saved Networks in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-and-configuring-internet-settings-in-win11/"><u>Exploring & Configuring Internet Settings in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010088167-how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/is-bing-stepping-back-from-its-battle-against-google-insights-revealed-technews/"><u>Is Bing Stepping Back From Its Battle Against Google? Insights Revealed | TechNews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/paint-the-virtual-space-windows-desktop-artistry/"><u>Paint the Virtual Space: Windows Desktop Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-11-from-randomly-rebooting-itself/"><u>Stop Windows 11 From Randomly Rebooting Itself</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-extending-explorers-functionality/"><u>The Ultimate Guide to Extending Explorer's Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-swiftly-sweep-away-windows-drive-segments/"><u>The Ultimate Guide to Swiftly Sweep Away Windows Drive Segments</u></a></li>
+</ul></div>
+

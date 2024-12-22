@@ -1,7 +1,7 @@
 ---
 title: Strategies for Fixed SystemSettings.exe on Windows 11
-date: 2024-08-16T02:48:20.444Z
-updated: 2024-08-17T02:48:20.444Z
+date: 2024-12-20T05:01:03.700Z
+updated: 2024-12-22T00:37:30.774Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
  Fortunately, it's a very common issue in Windows 11 and can easily be resolved using the below fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Some Basic Windows Fixes
 
  The SystemSettings.exe system error often occurs on systems with outdated or corrupt graphics drivers. In such cases,[downloading the latest graphics driver update](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) can resolve the issue.
@@ -37,29 +41,29 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 3. Choose**Virus & threat protection** from the left sidebar and**Scan options** from the right pane.
 4. Select the**Full scan** bulletin and click the**Scan Now** button.  
 ![Full scan option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, wait till the scanning process is complete. It can take up to one hour, so keep patience. Once done, check out how to[remove found threats from your Windows PC](https://www.makeuseof.com/microsoft-defender-antivirus-found-a-threat/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Temporarily Disable Your Antivirus
 
  Improperly configured security applications can sometimes interfere with the functioning of trusted applications, resulting in error messages or complete failure to work. To address this issue, disabling your system's security application is often a viable solution.
 
  To disable the Windows Security app, check our guide on[temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11\. However, if you're using a third-party antivirus program, check its user manual to know about its disabling process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Create a New User Account
 
 ![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Creating a new user account is another solution to fix the SystemSettings.exe system error. This approach is particularly helpful if the issue is being caused by corruption in your current account.
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
  Alternatively, you can permanently delete the old user profile and use the new one instead. However,[back up important files and folders](https://www.makeuseof.com/tag/backup-windows-files-folders/) before deleting the user account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5\. Use System Restore
 
  System Restore is an incredibly useful Windows feature that enables you to undo changes that have caused issues to your computer. You can[use System Restore](https://www.makeuseof.com/use-system-restore-windows/) to send your Windows PC to the time when you were not facing the SystemSettings.exe system error.
@@ -79,20 +79,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  It's important to keep in mind that restoring your system to a previous restore point will undo any changes made after the selected restore point. Therefore, make sure to[back up your data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) before proceeding with the restoration process.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the SystemSettings.exe Error on Windows
 
  The Systemsettings.exe system error is one of the many issues you might encounter while accessing the Windows Settings app. Facing this error can be really frustrating as it prevents you from making important changes to your system. Luckily, you can quickly troubleshoot this error using the solution above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +99,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-in-depth-analysis-of-altering-facial-gender-on-social-platforms/"><u>[New] In 2024, In-Depth Analysis of Altering Facial Gender on Social Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] 2024 Approved InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prove-your-expertise-with-these-windows-10-tricks/"><u>[Updated] Prove Your Expertise with These Windows 10 Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211114283-9798989037520-as-above-so-below-sun-moon-stars/"><u>As Above, So Below Sun, Moon & Stars | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-for-eradicating-roblox-error-262/"><u>Efficient Methods for Eradicating Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-flip-functionality-in-windows-11-snap-feature/"><u>Fast-Flip Functionality in Windows 11 Snap Feature</u></a></li>
+<li><a href="https://win-web.techidaily.com/fichier-explorer-windows-11-bug-fix-top-7-remedies/"><u>Fichier Explorer Windows 11 Bug Fix: Top 7 Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-run-windows-memory-caching-issue/"><u>Fix Run Window's Memory Caching Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-wifi-disconnection-issue-on-windows-laptopspcs/"><u>Fixing WiFi Disconnection Issue on Windows Laptops/PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hyper-resolution-hub-top-8k-cameras-decoded/"><u>In 2024, Hyper-Resolution Hub Top 8K Cameras Decoded</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/must-try-top-5-mac-streaming-applications/"><u>Must-Try Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-maze-of-robloxs-error-262/"><u>Navigating Through the Maze of Roblox's Error 262</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-break-free-from-adobe-10-innovative-premiere-elements-alternatives/"><u>New Break Free From Adobe 10 Innovative Premiere Elements Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveal-elusive-cameras-from-windows-dm-interface/"><u>Reveal Elusive Cameras From Windows' DM Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-twitter-management-applications-a-comprehensive-guide/"><u>Top-Ranking Twitter Management Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-improvements-the-latest-microsoft-paint-edition/"><u>Transformative Improvements: The Latest Microsoft Paint Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-a-comprehensive-guide-to-reading-qr-codes-in-windows-os/"><u>Unlocking the Potential: A Comprehensive Guide to Reading QR Codes in Windows OS</u></a></li>
+</ul></div>
 

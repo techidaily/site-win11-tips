@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Enhancing Usability with Narrator
-date: 2024-08-16T02:46:19.872Z
-updated: 2024-08-17T02:46:19.872Z
+date: 2024-12-18T22:52:24.964Z
+updated: 2024-12-22T01:00:56.579Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -162,20 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +191,26 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-beat-the-hype-30-tiktok-inspired-deals-at-amazon/"><u>[New] In 2024, Beat the Hype - 30 TikTok-Inspired Deals at Amazon</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pairing-youtube-sounds-with-visual-narratives/"><u>[New] Pairing YouTube Sounds with Visual Narratives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-uniting-two-giants-transmitting-facebook-vids-on-whatsapp/"><u>[Updated] 2024 Approved Uniting Two Giants Transmitting Facebook Vids on WhatsApp</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transform-video-beats-into-ringtones-must-visit-sites-explored-for-2024/"><u>[Updated] Transform Video Beats Into Ringtones Must-Visit Sites Explored for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>2024 Approved Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-dual-windows-metrics-a-comparative-study/"><u>Deciphering Dual Windows Metrics: A Comparative Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-data-transfer-problems-on-windows-usb-sticks/"><u>Fixing No-Data Transfer Problems on Windows USB Sticks</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-respond-when-your-hard-disk-crashes-a-guide-by-yl-computing/"><u>How to Respond When Your Hard Disk Crashes: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-free-high-quality-youtube-banner-samples-inside/"><u>In 2024, Free High-Quality YouTube Banner Samples Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-content-transfer-via-application-guard-in-edge-win-11/"><u>Mastering Content Transfer via Application Guard in Edge (Win 11)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-video-stabilization-on-a-budget-8-free-online-tools-to-get-you-started/"><u>New Video Stabilization on a Budget 8 Free Online Tools to Get You Started</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outsmarting-ongoing-login-prompts-on-microsoft-teams/"><u>Outsmarting Ongoing Login Prompts on Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-pc-management-leveraging-command-prompt-for-effective-identification-and-resolution-of-error-codes/"><u>Proactive PC Management: Leveraging Command Prompt for Effective Identification & Resolution of Error Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-disk-management-techniques-for-windows-1011/"><u>Simplifying Disk Management: Techniques for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-no-drivers-available-when-installing-windows/"><u>Solutions for 'No Drivers Available' When Installing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-windows-11-control-panel-is-missing-key-settings-heres-where-to-find-them/"><u>The Windows 11 Control Panel Is Missing Key Settings, Here's Where to Find Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-in-multitasking-the-advantage-of-16gb-ram/"><u>Winning in Multitasking: The Advantage of 16GB RAM</u></a></li>
+</ul></div>
 

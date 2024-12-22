@@ -1,7 +1,7 @@
 ---
 title: The Essential Route for GPO Discovery in PCs
-date: 2024-08-23T06:59:51.990Z
-updated: 2024-08-24T06:59:51.990Z
+date: 2024-12-19T03:58:09.608Z
+updated: 2024-12-22T04:55:43.068Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
 ![the menu that shows up when you right-click Administrative Templates in the Loca Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Filter Options dialog box, make sure to check the **Enable Keyword Filters** checkbox. Next, in the text box next to **Filter for word(s)**, enter the search terms for the policy or, if you know it, the exact name of the policy.
 
 ![the Filter Options dialog box with the Enable Keywords and filter text box part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-options-search-phrase-windows.jpg)
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  While editing, keep in mind that changing the right [group policies can make your PC better](https://www.makeuseof.com/tag/12-ways-windows-group-policy-can-make-pc-better/), or, if you tweak the wrong one, make it worse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Search Using the Group Policy Website
 
  Besides using filters in the LGPE, you can also use the [Group Policy Search](https://gpsearch.azurewebsites.net/) website. While on the site, click the **filter icon** in the top left corner and uncheck all the products you don’t want to include in the search.
@@ -64,11 +72,16 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
 ![the search results on the Group Policy Search website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/gps-website-searching-policy-results.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Where it says **Key**, you can see where to find the setting in the Registry Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Search Using the Group Policy Settings Reference
 
  If you prefer something offline and a little easier to access compared to searching with the LGPE's filters and the Group Policy Search website, Microsoft has a document you can use. So, download the [Group Policy Settings Reference](https://www.microsoft.com/en-us/download/details.aspx?id=25250) sheet and open it in Excel.
@@ -77,28 +90,21 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
 ![searching the group policy reference sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/group-policy-reference-sheet-text-filter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  The policies that match the search terms will appear in column **C**. You can find the location of the policy in column **E** under the **Policy Path** heading.
 
 ![the results of searching for a group policy in the reference sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/group-policy-reference-sheet-policy-path.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  That’s the folder you need to look at in the LGPE to find the policy that you need to edit.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Find the Group Policy You Need on Windows
 
  Now you should be able to find the group policies you need to make your PC better. We know how overwhelming it can be to use the Local Group Policy Editor, but with these tools, it should become a little easier. And if your edits don't take effect right away, there’s a way for you to manually refresh the LGPE to apply the settings immediately.
 
  In this guide, we're going to show you three ways to search for the group policies you need so you don't get lost.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +112,25 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/treamlining-visual-storytelling-with-youtube-videos-for-2024/"><u>[New] Streamlining Visual Storytelling with YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-symphony-in-silence-mastering-audio-with-precision/"><u>[Updated] A Symphony in Silence Mastering Audio with Precision</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insider-strategies-free-access-to-professional-imagery/"><u>[Updated] Insider Strategies Free Access to Professional Imagery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-minimum-requirement-violations-with-intel-hardware-corrections/"><u>Combatting Minimum Requirement Violations with Intel Hardware Corrections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cing-visual-appeal-youtube-images-in-presentations-for-2024/"><u>Enhancing Visual Appeal YouTube Images in Presentations for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-connection-problems-with-network-settings-reset-guide/"><u>Fix Common iPhone Connection Problems with Network Settings Reset Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-microsofts-decision-to-dismiss-windows-7-and-81/"><u>Implications of Microsoft's Decision to Dismiss Windows 7 and 8.1</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-virtualboxs-efail-0x80004005-failures-on-windows/"><u>Overcoming Virtualbox's E_FAIL (0X80004005) Failures on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-your-favorite-microsoft-store-applications/"><u>Reactivating Your Favorite Microsoft Store Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redistributing-qbittorrent-from-one-machine-to-another-windows/"><u>Redistributing qBittorrent: From One Machine to Another Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138624597-9781722520274-self-reliance-condensed-classics/"><u>Self-Reliance (Condensed Classics) | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-to-turn-off-igtv-for-2024/"><u>Step-by-Step to Turn Off IGTV for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-restoring-fn-keys-functionality-in-dell-laptops/"><u>Step-by-Step Troubleshooting: Restoring Fn Keys Functionality in Dell Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-slow-steam-downloads-on-windows-devices/"><u>Troubleshooting Slow Steam Downloads on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-10-savings-essential-key-insights/"><u>Unlocking Windows 10 Savings: Essential Key Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-magic-mastering-keybindings/"><u>Windows Photo Magic: Mastering Keybindings</u></a></li>
+</ul></div>
+

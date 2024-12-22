@@ -1,7 +1,7 @@
 ---
 title: "Making the Most of JDK: Steps for Windows 11 Users"
-date: 2024-08-16T02:48:27.365Z
-updated: 2024-08-17T02:48:27.365Z
+date: 2024-12-19T03:02:07.307Z
+updated: 2024-12-21T21:15:51.443Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run a Check for Java JDK on Your PC
 
  Before we move to the installation, though, it’s useful to see if JDK is already present in your system. To do that, go to the **Start menu** search bar, type in ‘cmd,’ and select the Best match.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
 ![cmd command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also check for the JDK through the Control Panel as well. Here's how:
 
 1. Head to **Start menu** search bar, type in 'control panel', and select the best match.
@@ -40,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
  If you cannot find the JDK section through either method, jump to the section below for the installation instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing Java JDK in Windows 11
 
  To install the JDK installer, we need to head to Oracle’s website first. Here’s how:
@@ -53,27 +62,24 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 5. Once the JDK installation is complete, click on **Close**.
 
 ![downloading the java installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/downloading-the-java-installer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![java development kit installation menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/java-development-kit-installation-menu.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By the end of this process the Java development kit will be successfully installed on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Installing and Running Java in Windows 11
 
  And that’s all, folks. Follow the steps above, and the Java environment will be successfully set up on your PC. Being one of the more popular programming languages out there, installing and learning Java is your first step in growing in this handy, object-oriented language.
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -81,3 +87,18 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-quicktime-lapse-setup-for-5/"><u>[New] 2024 Approved Ultimate Quicktime-Lapse Setup for #5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-geforce-now-error-0xc0f1103f-in-windows-10-and-11/"><u>How to Fix the GeForce Now Error 0Xc0f1103f in Windows 10 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-camon-30-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Camon 30 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y100t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y100t to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-in-depth-analysis-understanding-the-google-podcast-app/"><u>In 2024, In Depth Analysis Understanding the Google Podcast App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-server-issue-in-windows-media/"><u>Overcoming Server Issue in Windows Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-deactivated-volume-backups-in-windows/"><u>Reactivating Deactivated Volume Backups in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A54 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-revenue-rise-how-to-harness-the-power-of-ads/"><u>Vimeo Revenue Rise How to Harness the Power of Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-xbox-not-working-fix-it-fast/"><u>Windows Xbox Not Working? Fix It Fast</u></a></li>
+</ul></div>
+

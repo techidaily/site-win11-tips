@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Lost Internet Connection
-date: 2024-08-16T02:46:20.891Z
-updated: 2024-08-17T02:46:20.891Z
+date: 2024-12-21T04:03:15.312Z
+updated: 2024-12-22T09:30:10.226Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  This error is often triggered due to temporary glitches, bad network adapter drivers, and issues with your Wi-Fi router or modem. Even a loose Ethernet connection can trigger this error, so make sure your Ethernet cable is firmly connected. If the issue persists, try the additional steps described below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Airplane Mode on Windows
 
  The[Airplane mode in Windows 10 and 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) works similarly to your cellular devices. When enabled, Airplane mode disables all the connectivity options, including Bluetooth and Wi-Fi. To fix it, check and disable Airplane mode to restore your Wi-Fi connectivity.
@@ -30,6 +34,11 @@ To disable Airplane mode on Windows:
 2. In the left pane, open the**Network & internet** tab.  
 ![airplane mode windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/airplane-mode-windows-11-settings.jpg)
 3. Click on**Airplane mode** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable airplane mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-airplane-mode-windows-11.jpg)
 4. Toggle the switch to turn off**Airplane mode.**
 5. Make sure to set**Wi-Fi** and**Bluetooth** to**On** under**Wireless devices.**
@@ -46,9 +55,6 @@ To run the Network Adapter troubleshooter:
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-troubleshoot-other-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Next, click on**Other troubleshooters** to view all the available troubleshooters.  
 ![Windows 11 troubleshoot other troubleshooter network adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-troubleshoot-other-troubleshooter-network-adapter.jpg)
 4. Locate the**Network Adapter** option and click the**Run** button.
@@ -56,8 +62,9 @@ To run the Network Adapter troubleshooter:
 6. Apply any recommended fixes and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reinstall Your Network Adapter Driver
 
  You can reinstall the existing network driver to fix temporary issues with the network device. Windows saves a list of available drivers and lets you reinstall them via Device Manager.
@@ -68,35 +75,29 @@ To reinstall the network driver:
 2. Type**devmgmt.msc** and click**OK** to open**Device Manager.**
 3. In Device Manager, expand the**Network Adapters** section.  
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Right-click on your network device and select**Update driver.**  
 ![browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-my-computer-for-drivers.jpg)
 5. Click on**Browse my computer for drivers.**  
 ![let me pick driver from list available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/let-me-pick-driver-from-list-available-drivers-on-my-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 6. Next, click **Let me pick from my list of available drivers on my computer.**  
 ![select device driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-device-driver-you-want-to-install-for-this-hardware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. In the **Select the device driver you want to install for this hardware** dialog, select the top driver for your network device and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Windows will start to install the driver. When the success message appears, close Device Manager.
 
  Check if the issue is resolved. If not, repeat the steps but with a different available driver. Usually, a generic driver from Microsoft is available. So, select a different driver from the one you installed earlier and click**Next** to finish the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 4\. Update Your Adapter's Network Driver
 
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If a reinstall didn't help, try to update your network adapter driver. An outdated or buggy driver can create compatibility issues. Also, if you have upgraded your OS to a newer version, your system may be missing newer driver updates.
 
@@ -121,6 +122,10 @@ To download the drivers:
 
  Additionally, use the built-in system management utility offered by your computer manufacturer. For example, HP laptops come with an HP Support Assistant utility. You can use it to find new drivers for networking and other devices on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Perform a Windows Network Reset
 
  Windows features a network reset feature as part of advanced network settings. When you perform a network reset, it removes and reinstalls the network drivers and resets other networking components to their factory default.
@@ -131,12 +136,14 @@ To download the drivers:
 2. Open the**Network & internet** tab in the left pane.  
 ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-2.jpg)
 3. Scroll down and click on**Advanced network settings.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![network reset windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-windows-11.jpg)
 4. Next, click on**Network reset** .  
 ![network reset reset now windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-reset-now-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the**Reset** now button for**Network reset.**
 6. Click**Yes** to confirm the action.
 
@@ -164,16 +171,14 @@ To perform a system restore using the restore point:
 2. Type**rstrui.exe** and click**OK** .
 3. In the**System Restore** dialog, click**Next** .  
 ![select restore point windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check the**Show more restore points option** to view all the available restore points on your computer.
 5. Select the most recent restore point and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Read the description and click**Finish** to begin the restore process. This process can take several minutes, and your computer may restart multiple times. Wait for the process to complete and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the "You Are Not Connected to Any Networks" Error on Windows
 
@@ -185,8 +190,6 @@ To perform a system restore using the restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +197,19 @@ To perform a system restore using the restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-elite-guide-exceptional-instagram-hlv-designers-for-2024/"><u>[New] Elite Guide Exceptional Instagram HLV Designers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ranking-the-best-ios-videography-tech/"><u>[New] In 2024, Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>[Updated] 2024 Approved Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimized-text-designs-for-after-effects/"><u>2024 Approved Optimized Text Designs for After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumvent-windows-updates-error-code-0x80242016/"><u>Circumvent Windows Update's Error: Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-screen-setup-gmail-pinned-to-the-windows-edge/"><u>Customizing Your Screen Setup: Gmail Pinned to the Window's Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flawless-dialogues-6-things-not-to-miss-in-gpt-conversations/"><u>Flawless Dialogues: 6 Things Not To Miss in GPT Conversations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-reno-10-proplus-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Reno 10 Pro+ 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-lost-apps-reactivating-the-microsoft-store-windows-11/"><u>Revive Lost Apps: Reactivating the Microsoft Store (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-keys-how-to-fix-quieted-pc-sounds/"><u>Taming the Keys: How to Fix Quieted PC Sounds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c210-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C210 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-pc-gear-insights-from-toms-hardware-experts/"><u>Unveiling the Latest in PC Gear - Insights From Tom's Hardware Experts</u></a></li>
+</ul></div>
 

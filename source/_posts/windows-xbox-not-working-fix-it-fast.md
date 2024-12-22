@@ -1,7 +1,7 @@
 ---
 title: Windows Xbox Not Working? Fix It Fast
-date: 2024-12-11T00:18:01.540Z
-updated: 2024-12-12T21:41:42.866Z
+date: 2024-12-20T06:38:16.290Z
+updated: 2024-12-22T03:08:49.655Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -54,6 +50,10 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
 
@@ -71,14 +71,10 @@ Restart the Xbox app after this and see if it works fine.
 ![Reinstall Gaming Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-Gaming-Services-App.jpg)
 6. Click the**Install** button to download the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Windows Store Apps Troubleshooter
@@ -92,10 +88,6 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -114,6 +106,10 @@ To repair the Xbox app on Windows:
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn[how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -125,7 +121,7 @@ To repair the Xbox app on Windows:
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
@@ -143,10 +139,14 @@ To leave the Xbox Insider Program:
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart the Xbox app after this and try to use it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting the Xbox App on Windows
 
@@ -169,18 +169,22 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/igital-cinematographer-hub/"><u>[New] Digital Cinematographer Hub</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-20-instagram-video-exporters-online-windows-mac-edition/"><u>[New] In 2024, Top 20 Instagram Video Exporters Online, Windows, Mac Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-leading-animals-in-play-androids-favorites-list/"><u>[Updated] 2024 Approved Leading Animals in Play Android's Favorites List</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-a-decades-best-anime-opening-songs-compiled/"><u>[Updated] In 2024, A Decade's Best Anime Opening Songs Compiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/activate-windows-11s-automatic-high-dynamic-range-auto-hdr-for-2024/"><u>Activate Windows 11'S Automatic High Dynamic Range (Auto HDR) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-memory-writing-failure/"><u>Demystifying Windows Memory Writing Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-functionality-of-runtime-brokers-on-your-pc/"><u>Dissecting the Functionality of Runtime Brokers on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-browser-speed-fixing-edge-in-windows-10plus11/"><u>Enhance Browser Speed: Fixing Edge in Windows 10+11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-your-individual-brand-flame/"><u>Igniting Your Individual Brand Flame</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-windows-copilot-using-vivetool-guide/"><u>Integrate Windows Copilot Using ViveTool Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slow-the-spin-swift-the-steps-how-to-stop-pointer-accel-in-win-11/"><u>Slow the Spin, Swift the Steps: How to Stop Pointer Accel in Win 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-poco-f5-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Poco F5 5G</u></a></li>
-<li><a href="https://discover-community.techidaily.com/winini-file-management-steps-to-delete-unnecessary-startup-entries-guided-tutorial-by-yl-software/"><u>Win.ini File Management: Steps to Delete Unnecessary Startup Entries - Guided Tutorial by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>[New] Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-user-generated-feedback-influences-video-ranks/"><u>[Updated] How User-Generated Feedback Influences Video Ranks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-skilled-uav-operation-tips-for-filmmakers/"><u>[Updated] Skilled UAV Operation Tips for Filmmakers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>2024 Approved Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-your-calendar-best-windows-tools-for-enhanced-efficiency/"><u>Command Your Calendar: Best Windows Tools for Enhanced Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-drive-designations-c-d/"><u>Delving Into Drive Designations (C:, D:)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-cmd-uncovering-five-fascinating-features/"><u>Dive Into CMD: Uncovering Five Fascinating Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enjoy-entertainment-anywhere-with-simple-downloads-of-films-shows-and-songs/"><u>Enjoy Entertainment Anywhere with Simple Downloads of Films, Shows, & Songs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-13t-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi 13T Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-non-responsive-wireless-keyboard-on-windows-computers/"><u>How to Fix a Non-Responsive Wireless Keyboard on Windows Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>In 2024, The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-processor-age-detection-a-windows-users-guide-8-methods/"><u>Intel Processor Age Detection: A Windows User’s Guide (8 Methods)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-terminal-5-amusing-stunts-for-command-line/"><u>Master the Terminal: 5 Amusing Stunts for Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-corrupted-file-error-0x80070570-on-modern-windows-oses/"><u>Solving Corrupted File Error 0X80070570 on Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-cross-browser-copy-paste-glitches-in-chrome-edge-firefox/"><u>Solving Cross-Browser Copy Paste Glitches in Chrome, Edge, Firefox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-settings-restarting-and-clearing-windows-11-apps/"><u>Streamlined Settings: Restarting and Clearing Windows 11 Apps</u></a></li>
 </ul></div>
 

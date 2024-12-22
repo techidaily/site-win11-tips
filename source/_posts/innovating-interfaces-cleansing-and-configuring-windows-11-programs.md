@@ -1,7 +1,7 @@
 ---
 title: "Innovating Interfaces: Cleansing and Configuring Windows 11 Programs"
-date: 2024-12-07T20:04:57.775Z
-updated: 2024-12-12T23:24:21.955Z
+date: 2024-12-18T08:01:04.227Z
+updated: 2024-12-21T21:01:38.948Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 11
 
  To reset an app on Windows 11, start by pressing**Win + I** to bring up the Settings app. Then, navigate to**Apps > Installed apps** .
 
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -57,22 +61,18 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -96,20 +96,20 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-harmonic-windows-tunes-hub/"><u>[New] Harmonic Windows Tunes Hub</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>2024 Approved Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-the-tech-behind-windows-11s-file-protection-features/"><u>Delving Into the Tech Behind Windows 11'S File Protection Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-user-interface-affixing-this-pc-symbols/"><u>Enhance User Interface: Affixing 'This PC' Symbols</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2016-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2016 Fix 2024 | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flawless-audio-and-visual-recording-using-the-modern-windows-11-snipping-tool-max-156/"><u>Flawless Audio & Visual Recording Using the Modern Windows 11 Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-freezing-and-patch-problems-in-windows-11-updates/"><u>How to Overcome Freezing and Patch Problems in Windows 11 Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-virtual-memory-a-step-by-step-for-windows-11-users/"><u>Leveraging Virtual Memory: A Step-by-Step for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-simple-tutorial-for-converting-videos-into-various-audio-formats-like-mp3-aac-and-more/"><u>Quick & Simple Tutorial for Converting Videos Into Various Audio Formats Like MP3, AAC, and More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-downloading-and-setting-up-adobe-reader-on-microsoft-marketplace/"><u>The Ultimate Guide for Downloading and Setting up Adobe Reader on Microsoft Marketplace</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformacion-sin-costo-de-wmv-al-formato-asf-utilizando-movavi-online/"><u>Transformación Sin Costo De WMV Al Formato ASF Utilizando Movavi Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-itel-p55t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Itel P55T Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-beat-to-buzz-creating-impact-in-10-seconds-on-youtube/"><u>[New] 2024 Approved From Beat to Buzz Creating Impact in 10 Seconds on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-group-of-12-tools-for-endless-video-capture-for-2024/"><u>[New] Elite Group of 12 Tools for Endless Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ime-is-money-learn-to-slash-youtube-video-durations/"><u>[New] Time Is Money - Learn to Slash YouTube Video Durations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-is-av1-better-than-vp9-learn-it-here-for-2024/"><u>[Updated] Is AV1 Better Than VP9? Learn It Here for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classic-chimes-catalogue-websites-of-worth/"><u>Classic Chimes Catalogue Websites of Worth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-window-past-with-these-3-tricks/"><u>Clear Window Past with These 3 Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-biometric-security-program-for-microsoft-windows-systems/"><u>Download & Update Guide: Biometric Security Program for Microsoft Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-fixes-avoiding-user-sign-in-in-windows-systems/"><u>Fast Fixes: Avoiding User Sign-In in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/paint-the-virtual-space-windows-desktop-artistry/"><u>Paint the Virtual Space: Windows Desktop Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-11-from-randomly-rebooting-itself/"><u>Stop Windows 11 From Randomly Rebooting Itself</u></a></li>
+<li><a href="https://win11.techidaily.com/the-intelligent-os-shift-ai-redefining-windows-software/"><u>The Intelligent OS Shift: AI Redefining Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-extending-explorers-functionality/"><u>The Ultimate Guide to Extending Explorer's Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-the-fatal-window-error-c0000022-solution/"><u>Winning Over the Fatal Window Error: C0000022 Solution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sticky Notes Unlocked: Windows 11 Edition"
-date: 2024-12-07T17:13:52.935Z
-updated: 2024-12-12T22:17:27.668Z
+date: 2024-12-14T16:20:04.049Z
+updated: 2024-12-22T03:21:46.097Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Sticky Notes on Windows?
 
  Windows offers a handy tool called Sticky Notes that lets you take notes and keep track of information. This is basically a note-taking application that comes pre-installed with the Windows operating system.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
  Now that you know what a sticky note is, let's see how to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Sticky Notes via Windows Search
@@ -48,7 +52,7 @@ To open Sticky Notes using the Windows Search tool, do the following:
 2. Then type "Sticky Notes" into the search bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
@@ -68,11 +72,7 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Scroll down until you see**Sticky Notes** , then click to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
@@ -87,6 +87,10 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Pin Sticky Notes to the Taskbar
 
  If you're looking for an easy way to keep track of your sticky notes, try pinning them to the taskbar in Windows 11\. Here's how to do this:
@@ -96,10 +100,6 @@ To open Sticky Notes from the Start Menu, follow these steps:
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
 Now you can access your sticky notes right from the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easy Access to Sticky Notes
 
@@ -120,24 +120,18 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tips-for-achieving-peak-performance-switch-pro-and-steam-games/"><u>[New] In 2024, Tips for Achieving Peak Performance Switch Pro & Steam Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-is-photoshops-shake-control-a-game-changer-in-2024/"><u>[New] Is Photoshop's Shake Control a Game Changer, In 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mr-beasts-financial-landscape/"><u>[New] Mr. Beast’s Financial Landscape</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-laws-governing-recording-youtube-live-streams/"><u>[Updated] 2024 Approved Laws Governing Recording YouTube Live Streams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-discover-the-magic-of-editing-in-60-seconds-with-snapseed-for-2024/"><u>[Updated] Discover the Magic of Editing in 60 Seconds with Snapseed for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-premium-recording-solutions-windows-edition/"><u>[Updated] Premium Recording Solutions Windows Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-multimedia-mac-recording-software-with-sound/"><u>2024 Approved Multimedia Mac Recording Software with Sound</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pc-virtual-reality-hits-top-10/"><u>2024 Approved PC Virtual Reality Hits Top 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-wi-fi-networks-usage-meter-settings-on-windows-11/"><u>Configuring Wi-Fi Network's Usage Meter Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-webcams-invisible-screen-problem/"><u>Correcting Webcam's Invisible Screen Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-your-pcs-core-crafting-and-dissecting-reports/"><u>Deciphering Your PC's Core: Crafting and Dissecting Reports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-advanced-protection-implementing-ms-defender-for-edge-browser/"><u>Enable Advanced Protection: Implementing MS Defender for Edge Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-network-drive-view-on-smartphones/"><u>Enabling Network Drive View on Smartphones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unlock-a-resource-removing-occupied-files-message-on-windows-154-chars/"><u>How to Unlock a Resource: Removing Occupied Files Message on Windows (154 Chars)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-refusal-to-unfold-with-double-clicks/"><u>Overcoming Windows' Refusal to Unfold with Double-Clicks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-peak-time-chatgpt-capacity-crash/"><u>Resolving Peak-Time ChatGPT Capacity Crash</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-prime-day-savings-on-apple-products/"><u>Top Prime Day Savings on Apple Products</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-your-pc-for-multimedia-mastery-adopt-tdarr-for-transcoding/"><u>Turbocharge Your PC for Multimedia Mastery - Adopt Tdarr for Transcoding</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pc-masterys-essential-list-for-video-download-enthusiasts/"><u>[Updated] 2024 Approved PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-easy-steps-for-screening-snapchat-on-the-go-for-2024/"><u>[Updated] Easy Steps for Screening Snapchat on the Go for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-vidtwitter-effortless-video-downloads-from-social-sites-for-2024/"><u>[Updated] VidTwitter Effortless Video Downloads From Social Sites for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aiff-to-wmv/"><u>快適な移行: AIFF to WMVオンライン変換ツール - セットアップ不要</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220684689-wma-mp3-movavi/"><u>免費線上 WMA 到 MP3 無失真解碼 - 使用 Movavi 音樂格式轉換器</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-elements-for-implementing-channel-banners-in-games/"><u>In 2024, Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-efficient-mac-search-in-windows-11-environments/"><u>Key Steps for Efficient MAC Search in Windows 11 Environments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-graphics-driver-updates-for-intel-windows-7-edition/"><u>Mastering Graphics Driver Updates for Intel, Windows 7 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-privacy-obfuscating-windows-taskview/"><u>Securing Privacy: Obfuscating Windows TaskView</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-non-starting-speech-recognition-windows-errors/"><u>Steps to Rectify Non-Starting Speech Recognition Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-auto-empty-feature-for-windows-users/"><u>Streamlining File Management: Auto-Empty Feature for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-apps-for-windows-screensaver-time-tracking-magic/"><u>Top 5 Apps for Windows Screensaver: Time-Tracking Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-speakers-in-windows/"><u>Troubleshooting Silent Speakers in Windows</u></a></li>
 </ul></div>
 

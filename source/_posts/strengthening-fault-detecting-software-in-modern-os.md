@@ -1,7 +1,7 @@
 ---
 title: Strengthening Fault-Detecting Software in Modern OS
-date: 2024-12-10T16:22:26.961Z
-updated: 2024-12-13T01:18:55.901Z
+date: 2024-12-17T19:44:28.999Z
+updated: 2024-12-22T03:19:18.043Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Scan and Repair System Files
@@ -45,15 +45,24 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 3. Click on the **Startup type** drop-down menu and choose the **Automatic** setting if a different option is selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, select the **Start** option for the service to run.  
 ![The Cryptographic Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cryptographic-services-window.jpg)
 5. Click on the **Apply** and **OK** options to set your selected settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Repeat the previous steps for the Windows Update, Windows Installer, and the Background Intelligent Transfer Service.
 
  If those services are already running and set to an automatic startup, try restarting them. Right-click the service in the Services window and select a **Restart** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Flush the DNS Cache and Reset the Winsock Catalog
 
@@ -92,10 +101,6 @@ net stop msiserver`
 ![The rename catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rename-catroot2-folder.jpg)
 5. Restart services by entering and executing these commands:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `net start cryptsvc  
   
 net start wuauserv  
@@ -117,15 +122,24 @@ net start msiserver`
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/environment-variables-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click **TEMP** in the System variables box.
 2. Erase the text in the **Variable** **value** box. Then input **%SystemRoot%\\TEMP** inside the **Variable** **value** box.  
 ![The Edit System Variable window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-system-variable-window.jpg)
 3. Click **OK** on the Edit System Variable window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat the previous three steps for the TMP variable.
 5. Select **OK** on the Environment Variables window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Enable Troubleshooters in Group Policy Editor
 
@@ -136,18 +150,10 @@ net start msiserver`
 ![The Scripted Diagnostic policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scripted-diagnostic-policies.jpg)
 3. Double-click the **Troubleshooting: Allow users to access and run Troubleshooting Wizards** policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Enabled** to re-enable troubleshooters if the policy is disabled.  
 ![The Troubleshooting: Allow users to access and run Troubleshooting Wizards policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-allow-users-to-access-and-run-troubleshooters.jpg)
 5. Press the **Apply** \> **OK** buttons.
 6. Repeat the previous three steps for the **Troubleshooting: Allow users to access online troubleshooting content** and **Configure Security Policy for Scripted Diagnostics** policies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Utilize the System Restore Tool
 
@@ -168,11 +174,7 @@ net start msiserver`
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Your Windows Issues With the Troubleshooters Once More
@@ -181,29 +183,6 @@ net start msiserver`
 
  The full error messages and codes can vary slightly and appear after users select to run the troubleshooters. Consequently, the affected Windows troubleshooters don’t work. This is how you can fix troubleshooters not working on Windows 11/10 PCs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-advance-your-vimeo-video-speed-for-2024/"><u>[New] Advance Your Vimeo Video Speed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-to-your-device-download-videos-for-2024/"><u>[Updated] FB to Your Device - Download Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-complete-mac-book-on-srt-file-handling/"><u>[Updated] The Complete Mac Book on SRT File Handling</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-potential-integrating-snapchat-into-business-models-for-2024/"><u>[Updated] Unlocking Potential Integrating Snapchat Into Business Models for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/como-convertir-archivos-wmv-a-formato-avi-gratuito-online-con-convertidor-de-movavi/"><u>Cómo Convertir Archivos WMV a Formato AVI Gratuito Online Con Convertidor De Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-de-archivos-mp3-a-mp4-gratuita-y-facil-con-movavi-online/"><u>Conversión De Archivos MP3 a MP4 Gratuita Y Fácil Con Movavi Online</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/discover-the-leading-7-alternatives-for-securely-cracking-and-duplicating-dvd-content/"><u>Discover the Leading 7 Alternatives for Securely Cracking & Duplicating DVD Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-your-files-from-ape-to-wav-format-with-movavi/"><u>Free Online Converter: Change Your Files From APE to WAV Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-flv-to-mpeg-using-movavis-tools/"><u>Free Online Converter: Convert FLV to MPEG Using Movavi's Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mp4-to-gif-converter-movavi-guide/"><u>Free Online MP4 to GIF Converter - Movavi Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-c50-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco C50 Without PUK Codes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-windows-11-deployment-offline/"><u>Mastery of Windows 11 Deployment Offline</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi/"><u>MOV 形式到MXF：免費線上轉換器 - 運用 Movavi 解決方案</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/passaggi-fondamentali-di-avvio-del-software-movavi-su-sistemi-operativi-windows/"><u>Passaggi Fondamentali Di Avvio Del Software Movavi Su Sistemi Operativi Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-tu-fotografia-raw-en-jpeg-con-facilidad-y-gratuitamente-mediante-movavi/"><u>Transforma Tu Fotografía RAW en JPEG Con Facilidad Y Gratuitamente Mediante Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-audio-aac-en-video-wmv-gratuitement-en-ligne-avec-movavi-guide-complet-de-conversion/"><u>Transformez Vos Fichiers Audio AAC en Vidéo WMV Gratuitement en Ligne Avec Movavi - Guide Complet De Conversion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-gen-2-google-nest-hub-the-features-without-a-lens-reviewed/"><u>Unboxing Gen 2 Google Nest Hub: The Features Without a Lens Reviewed!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -211,3 +190,17 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-video-call-and-chat-service-selections/"><u>[New] In 2024, Elite Video Call & Chat Service Selections</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/catalog-of-linguistic-siblings-to-spain/"><u>Catalog of Linguistic Siblings to Spain</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-selection-prime-auto-tracking-tech-review/"><u>Expert Selection Prime Auto Tracking Tech Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-htc-u23-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your HTC U23 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-social-media-symphony-composing-jake-pauls-youtube-success/"><u>In 2024, The Social Media Symphony Composing Jake Paul's YouTube Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-error-0x800700e1-in-windows-11-devices/"><u>Remedying Error 0X800700E1 in Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-webp-imaging-tailor-chromes-settings-on-windows-devices/"><u>Stop WebP Imaging: Tailor Chrome's Settings on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-combat-a-disabled-backspace-key-in-windows/"><u>Tactics to Combat a Disabled Backspace Key in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-separates-exe-from-msi-software-packages/"><u>What Separates EXE From MSI Software Packages?</u></a></li>
+</ul></div>
+

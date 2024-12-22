@@ -1,7 +1,7 @@
 ---
 title: "Multilingual Mastery: Unlock Foreign Language Translation with Keys"
-date: 2024-12-11T17:28:05.181Z
-updated: 2024-12-13T02:57:12.043Z
+date: 2024-12-18T16:24:05.845Z
+updated: 2024-12-21T21:45:04.668Z
 tags:
   - windows10
   - windows11
@@ -38,22 +38,18 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
  You can view the main QTranslate translation window by selecting text and pressing the**Ctrl** key twice. That window displays the selected foreign text alongside the translated content. There you can change the translation by choosing a different language on the drop-down menu and clicking**Translate** . Click the**Listen** **to text** (headphone) buttons to play an audio text-to-speech translation.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
@@ -63,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
  QTranslate also incorporates some**Appearance** settings with which you can customize its user interface. Click the**Theme** drop-down menu there to choose a different window style. You can customize the software’s colors by clicking the**Text** and**Frame Color** options.
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
@@ -88,11 +84,11 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Translate Files With DeepL
 
@@ -101,12 +97,16 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
@@ -133,17 +133,18 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-clearsnapzoom7-master-your-photographic-scaling-for-2024/"><u>[New] ClearSnapZoom7 Master Your Photographic Scaling for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-conversion-youtube-videos-to-mac-ratio-for-2024/"><u>[New] Effortless Conversion Youtube Videos to Mac Ratio for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boost-social-influence-with-these-15-snap-ideas/"><u>[New] In 2024, Boost Social Influence with These 15 Snap Ideas</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-prime-collection-no-cost-windowsmac-videoplays/"><u>[Updated] In 2024, Prime Collection No-Cost Windows/Mac Videoplays</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweetvidaudiomaker-instant-sound-output/"><u>[Updated] In 2024, TweetVidAudioMaker Instant Sound Output</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmamov-movavi/"><u>網站直接免費自動轉化WMA到MOV - Movavi無損格式轉換器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-aac-files-to-mpeg-format-without-cost-using-movavis-online-tool/"><u>Convert AAC Files to MPEG Format Without Cost Using Movavi's Online Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-repair-your-nvidia-screen-capture-tool-when-its-not-responding/"><u>How to Repair Your Nvidia Screen Capture Tool When It's Not Responding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-yayinada-onemli-mp3lere-donusturulenecek-13-uykudur-youtube-video-hareketleri/"><u>Movavi Yayınada Önemli MP3'lere Dönüştürülenecek 13 Uykudur YouTube Video Hareketleri</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-zte-axon-40-lite-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/web-m1v-0/"><u>우아한 Web용 M1V 영상 전환: 제공자 가격 0</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gif-muvavi/"><u>オンラインで簡単にGIFファイルを無料変換 - Muvavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free-mobile-screen-snatching-androids-leading-eight/"><u>[New] Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-journey-into-the-enigma-discovering-hidden-emoji-messages-for-2024/"><u>[New] Journey Into the Enigma Discovering Hidden Emoji Messages for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-en-ligne-de-fichiers-ogg-vers-wma-movavi/"><u>Conversion Gratuite en Ligne De Fichiers Ogg Vers Wma - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-color-combinations-for-terminal/"><u>Exploring Color Combinations for Terminal</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-play-keeping-your-ps4-joystick-connected-to-win-again/"><u>Precision Play: Keeping Your PS4 Joystick Connected to Win Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-steps-for-preventing-power-save-of-usbs-in-windows-11/"><u>Proactive Steps for Preventing Power Save of USBs in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-privacy-obfuscating-windows-taskview/"><u>Securing Privacy: Obfuscating Windows TaskView</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-auto-empty-feature-for-windows-users/"><u>Streamlining File Management: Auto-Empty Feature for Windows Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-social-networking-grounds-for-youtube-growth-for-2024/"><u>Top Social Networking Grounds for YouTube Growth for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-guide-to-youtube-app-on-iphones-and-androids-for-2024/"><u>Ultimate Guide to YouTube App on iPhones and Androids for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-p40-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel P40 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

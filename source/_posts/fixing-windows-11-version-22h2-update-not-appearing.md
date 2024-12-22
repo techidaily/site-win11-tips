@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Version 22H2 Update Not Appearing
-date: 2024-12-08T22:52:28.941Z
-updated: 2024-12-12T23:19:14.555Z
+date: 2024-12-18T04:17:25.652Z
+updated: 2024-12-22T05:35:53.260Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Windows 11’s Troubleshooter for Updates
 
  The Windows Update troubleshooter is there to check for and resolve issues with the update process. That troubleshooter isn’t guaranteed to fix all update errors, but it might fix Windows 11’s 22H2 update not installing for some users at least. You can run the Windows Update troubleshooter in the following steps:
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 4. Select**Run** for the Windows Update troubleshooter.  
 ![The Run button for Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-run-button-for-windows-update-1.jpg)
 5. Wait for the troubleshooter to detect issues and display an outcome. It will usually automatically apply fixes for detected issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disconnect Non-Essential External Hardware and Peripherals From PC
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 * Webcams
 * Microphones
 * Secondary monitors (you only need one)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run a System File and Deployment Image Scan
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Cleanup recommendations in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/cleanup-recommendations-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check If the Dependency Services for Windows Update are Enabled
@@ -97,10 +93,14 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 5. Select**Apply** \>**OK** to set the service’s settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Repeat the previous four steps for the Background Intelligent Transfer Service, Cryptographic Service, and Windows Update services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make Sure .NET Framework 3.5 is Enabled
 
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 6. Press the**OK** button in the Windows Features window.
 7. Then click**Yes** to install.
 8. Restart Windows 11 after installing the feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset the Components for Windows Update
 
@@ -133,15 +137,16 @@ net stop msiserver`
 `ren C:\Windows\System32\catroot2 Catroot2.old`  
 ![The ren catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-catroot2-folder-1.jpg)
 5. Then restart the services with these commands:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net start wuauserv  
 net start bits  
 net start cryptSvc  
 net start msiserver`
 6. Close Command Prompt, and select**Restart** on your Start menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Antivirus Utilities
 
@@ -152,7 +157,7 @@ net start msiserver`
  AVG and Avast are two antivirus software packages that often generate Windows update errors. Those antivirus tools have also been incompatible with some Windows 10 builds. If you have either of those two installed, consider uninstalling them instead of merely disabling their shields.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Disable Kernel DMA Protection
@@ -171,10 +176,6 @@ net start msiserver`
 
 ![Driver Booster 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-booster2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you may be able to install some new drivers with optional Windows updates. This is how you can check available optional updates in Windows 11:
 
 1. [Open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and its**Windows Update** tab.
@@ -184,7 +185,7 @@ net start msiserver`
 5. Click the**Download and install** option for selected driver updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Install the 22H2 Update via the Installation Assistant
@@ -212,14 +213,15 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-parodic-play-writing-and-producing-humor-videos/"><u>[New] 2024 Approved Parodic Play Writing and Producing Humor Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content/"><u>[Updated] Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-where-to-find-hotspots-for-vr-content/"><u>[Updated] In 2024, Where to Find Hotspots for VR Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instaloops-unlocked-the-addictive-power-of-instagrams-boomers/"><u>[Updated] InstaLoops Unlocked The Addictive Power of Instagram's Boomers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-assistance-for-your-common-windows-complaints/"><u>Effortless Assistance for Your Common Windows Complaints</u></a></li>
-<li><a href="https://extra-information.techidaily.com/filmmaking-bliss-top-10-aspects-of-filmora-editing/"><u>Filmmaking Bliss Top 10 Aspects of Filmora Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-development-with-microsoft-copilot-ai/"><u>Mastering Windows Development with Microsoft Copilot AI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-rectify-type-error-code-x80049dd3-on-pc/"><u>Swift Solutions to Rectify Type Error Code X80049DD3 on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-windows-upgrade-anomalies-at-error-0x30017/"><u>Winning Over Windows Upgrade Anomalies at Error 0X30017</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unraveling-mukbang-the-art-of-feast-filled-vlogs/"><u>[New] In 2024, Unraveling Mukbang The Art of Feast-Filled Vlogs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-wsls-problematic-error-code-4294967295-on-windows/"><u>Combatting WSL's Problematic Error Code: 4294967295 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-synaptic-detection-failure-for-razer-hardware/"><u>Fixing Synaptic Detection Failure for Razer Hardware</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-control-turn-around-windows-update-dilemmrancies/"><u>Reclaim Control: Turn Around Windows Update Dilemmrancies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-virtual-reality-bargain-this-october-with-metas-premium-512gb-quest-3-at-steep-discount-prices-tech-spotlight/"><u>Snag the Ultimate Virtual Reality Bargain This October with Meta's Premium 512GB Quest 3 at Steep Discount Prices | Tech Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-struggle-within-the-shadows-seeking-freedom-in-a-regulated-world/"><u>The Struggle Within the Shadows: Seeking Freedom in a Regulated World</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-addictive-traits-of-the-most-popular-mobile-apps/"><u>Top Addictive Traits of the Most Popular Mobile Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-realtek-bluetooth-software-for-windows-users/"><u>Update to the Most Recent Realtek Bluetooth Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-review-honor-magicbook-14-the-value-packed-14-wonder-laptop-featuring-a-powerful-graphics-upgrade/"><u>ZDNet Review: Honor MagicBook 14 – The Value-Packed 14 Wonder Laptop Featuring a Powerful Graphics Upgrade!</u></a></li>
 </ul></div>
 

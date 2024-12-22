@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Access on Windows Servers
-date: 2024-12-11T23:47:01.789Z
-updated: 2024-12-12T16:15:01.874Z
+date: 2024-12-20T08:48:39.496Z
+updated: 2024-12-22T07:53:21.915Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Rule Out Server-Side Issues
 
  First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  Once you're confident there is no server-side issue, apply the appropriate fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Next, Apply Preliminary Checks
 
  First, apply the following preliminary checks before attempting any of the fixes below:
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  If the above preliminary checks do not help, proceed to the main fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Browser-Specific Issues
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
@@ -76,17 +80,9 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Reset Your Browser
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
 
@@ -109,12 +105,16 @@ Proceed to the next step if either of these changes does not help.
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Disable Any Proxy Servers You Are Using
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
@@ -141,14 +141,20 @@ Proceed to the next step if either of these changes does not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/eliminating-wows-critical-failure-code-with-precision/"><u>Eliminating WoW's Critical Failure Code with Precision</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-play-8t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor Play 8T Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-strategies-for-updating-surface-computers-software/"><u>Simplified Strategies for Updating Surface Computers' Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-loading-errors-in-discord-app/"><u>Steps to Overcome Loading Errors in Discord App</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722707775404-top-rated-smartwatch-models-a-comprehensive-guide/"><u>Top-Rated Smartwatch Models : A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-global-potential-with-advanced-in-depth-powertoy-mouse-skills/"><u>Unleash Global Potential with Advanced, In-Depth PowerToy Mouse Skills</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-skagen-falster-3-where-vintage-appeal-meets-todays-digital-advancements/"><u>Unveiling The Skagen Falster 3 - Where Vintage Appeal Meets Today's Digital Advancements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-tips-for-game-recording-on-windows-10/"><u>[New] 2024 Approved Essential Tips for Game Recording on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-successful-torrent-downloads-an-in-depth-guide-for-newbies/"><u>Easy Steps to Successful Torrent Downloads: An In-Depth Guide for Newbies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-spec-failure-marker-windows-11/"><u>Eliminate Spec Failure Marker Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-fan-rewake-strategy-documented-here/"><u>GPU Fan Rewake Strategy Documented Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-ms-defender-on-edge-browser-for-enhanced-security-in-win-11/"><u>How to Activate MS Defender on Edge Browser for Enhanced Security in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-customize-your-touch-panels-start-position/"><u>How to Reset and Customize Your Touch Panel's Start Position</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-galaxy-s23plus-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Galaxy S23+.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-an-upgrade-to-macos-sonoma-beneficial-for-me/"><u>Is an Upgrade to macOS Sonoma Beneficial for Me?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-indicators-that-make-windows-10-the-smart-choice-over-win11/"><u>Seven Indicators That Make Windows 10 the Smart Choice over Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-game-capture-failures-due-to-low-pc-specs/"><u>Solving Game Capture Failures Due to Low PC Specs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-sony-xperia-10-v-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Sony Xperia 10 V Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-simplified-six-ways-to-boost-into-windows-11s-safe-mode/"><u>Troubleshooting Simplified: Six Ways to Boost Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unifying-sound-the-ultimate-guide-on-linking-several-bluetooth-speakers-with-a-single-device/"><u>Unifying Sound: The Ultimate Guide on Linking Several Bluetooth Speakers with a Single Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-troublesome-amd-setup-on-windows-machines/"><u>Unlocking Troublesome AMD Setup on Windows Machines</u></a></li>
 </ul></div>
 

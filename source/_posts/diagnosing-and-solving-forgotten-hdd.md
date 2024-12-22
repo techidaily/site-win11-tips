@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Solving Forgotten HDD
-date: 2024-08-16T02:44:33.965Z
-updated: 2024-08-17T02:44:33.965Z
+date: 2024-12-19T20:15:07.377Z
+updated: 2024-12-21T17:16:09.036Z
 tags:
   - windows10
   - windows11
@@ -30,21 +30,22 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Check the Hardware Connection
 
 ![man fixing a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-fixing-a-computer-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like any technical system, the hardware connections in your PC can go awry at times. In the case of your hard drive, a loose wire or a faulty port can leave you with a defective hard drive connection on your PC.
 
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change the Drive's Formatting to NTFS
 
  NTFS is the most preferred formatting system for Windows computers for various reasons. So, problems can arise for various reasons, especially if your PC is using a formatting different from that of NTFS.
@@ -53,15 +54,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Also, we'd like to add that your Windows can also work well enough on an exFat or FAT32 file system, even though they might come with reduced or subpar features. So, if you're using or choose to use one of these file systems, then you shouldn't face any technical difficulties either.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update Your Windows Driver
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Most hard drives don't require or come with a specific type of software. The operating system can easily recognize them on its own.
 
@@ -79,6 +74,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now reboot your PC to solidify the changes and see if you are still left with the hard drive detection error on your Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the Disk Management Tool
 
  The Disk Management tool, as its name irrevocably suggests, is a tool that can manage all things related to the disk partition of your hard drive. From creating and deleting to tweaking and so on—the tool can do it all.
@@ -94,9 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If your hard drive(s) is visible, then you can try a couple of things to get things back to the way they were: a complete partition allocation or formatting an existing partition. Let's look at them both.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Allocating the 'Unallocated' Partition (Volume)
 
  Most hard disks divide their total storage into multiple, smaller parts called Partitions. So if you are using multiple disks, you must allocate some disk space to the partition for its normal functioning.
@@ -110,6 +106,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Click on **Finish** to finalize the setup and then see if you are still left with your hard drive error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Format an Allocated Partition
 
  Only see this as a sort of nuclear option, as you will lose all your previous data from the selected drive. To begin the format, right-click on the partition and choose **Format**.
@@ -119,8 +119,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Your Hard Drive Detection Issues on Your Windows
 
  In most cases, one of the methods we have listed above will fix your hard drive detection issues. Just follow the steps to the letter, and you will be good to go anywhere from a few seconds to minutes.
@@ -129,11 +130,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While hard drive errors primarily arise out of some hardware malfunction, other lighter causes can also be behind them in some cases. Thankfully, we have many tricks that can work in situations like that. So, jump right in and look at all the ways you can fix your hard drive error issues on your Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-overcoming-airdrop-obstacles-fast-track-fixes-for-iosmacos-devices/"><u>[New] Overcoming AirDrop Obstacles Fast-Track Fixes for iOS/macOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-math-are-they-compatible/"><u>AI & Math: Are They Compatible?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-and-seek-the-secret-of-the-shutdown-icon/"><u>Hide and Seek: The Secret of the Shutdown Icon</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-gt-10-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix GT 10 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restart-print-spooler-service-on-windows/"><u>How to Restart Print Spooler Service on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprerancial-free-imagery-tips-and-tricks/"><u>In 2024, Comprerancial Free Imagery Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-syncs-aoemi-guide-for-dual-windows-systems/"><u>Mastering File Syncs: AOEMi Guide for Dual Windows Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-screen-sharing-for-ppts-for-2024/"><u>Mastering Screen Sharing for PPTs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-why-final-cut-pro-beats-final-cut-express/"><u>New In 2024, Why Final Cut Pro Beats Final Cut Express?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfecting-audio-the-best-cam-mics-for-2024/"><u>Perfecting Audio The Best Cam Mics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-disabled-windows-protection-barrier/"><u>Strategies to Overcome Disabled Windows Protection Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-3-routes-to-unveil-windows-group-policies/"><u>The 3 Routes to Unveil Windows Group Policies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-30-camcorders-directly-at-your-eyes-for-2024/"><u>Top 30 Camcorders Directly At Your Eyes for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-history-of-your-windows-pc/"><u>Unraveling the History of Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-guide-essential-tools-for-novices/"><u>Windows 10 Guide: Essential Tools for Novices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-chatter-removal-its-consequences-explored/"><u>Windows 11 Taskbar Chatter Removal: Its Consequences Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-uncovering-7-critical-risks-of-inexpensive-auth-keys/"><u>Windows Woes: Uncovering 7 Critical Risks of Inexpensive Auth Keys</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/yl-softwares-premium-acura-nsx-visual-gallery-stunning-2019-car-photos-for-desktop-backgrounds/"><u>YL Software's Premium Acura NSX Visual Gallery: Stunning 2019 Car Photos for Desktop Backgrounds</u></a></li>
+</ul></div>
+

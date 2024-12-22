@@ -1,7 +1,7 @@
 ---
 title: Decoding Windows' Media Creation Tool Issue X.8007043C
-date: 2024-12-10T23:00:53.573Z
-updated: 2024-12-12T23:21:03.437Z
+date: 2024-12-18T07:09:03.852Z
+updated: 2024-12-22T07:53:50.711Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Media Creation Tool as an Administrator
 
  You can fix permission issues by executing the Media Creation Tool with administrator privileges. By default, the tool does not require administrator rights to run. But you can[manually run Windows apps as an administrator](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) to see if that resolves the error.
@@ -41,11 +37,7 @@ To run Media Creation Tool as administrator:
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
@@ -60,8 +52,17 @@ To run Media Creation Tool as administrator:
 4. Next, check the**Unblock** option.  
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install Any Pending Windows Updates
 
@@ -76,7 +77,7 @@ To update your Windows computer:
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -89,19 +90,16 @@ To run the Windows Update Troubleshooter:
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
@@ -137,6 +135,10 @@ sfc /scannow
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
@@ -162,24 +164,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/omprehensive-directory-extracting-yt-template-videos-online/"><u>[New] Comprehensive Directory Extracting YT Template Videos Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-review-of-powerdirector-apps-latest-edition-2024/"><u>[New] Expert Review of PowerDirector App's Latest Edition - 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-oceans-choosing-your-best-action-camera/"><u>[New] Navigating Oceans Choosing Your Best Action Camera</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/remier-screen-capture-device-essential-for-video-sharers-for-2024/"><u>[New] Premier Screen Capture Device Essential for Video Sharers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elite-driving-sims-best-five-titles-for-2024/"><u>[Updated] Elite Driving Sims Best Five Titles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-5-superior-ps2-android-gaming-simulators-reviewed/"><u>[Updated] In 2024, The 5 Superior PS2 Android Gaming Simulators Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-5-best-dvd-creators-on-mac-os/"><u>2024 Approved 5 Best DVD Creators on Mac OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-techniques-to-resolve-missing-osetupdll-issues/"><u>Effective Techniques to Resolve 'Missing oSetup.dll' Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-addressing-windows-error-0x80040610-in-outlook/"><u>Expert Tips for Addressing Windows Error 0X80040610 in Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-minecraft-wi-fi-gaming-hurdles-on-pc/"><u>Navigating Minecraft Wi-Fi Gaming Hurdles on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-how-to-swiftly-toggle-fn-key-on-windows/"><u>Quick Fix: How to Swiftly Toggle Fn Key on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-wsl-performance-after-win-11-update/"><u>Restoring WSL Performance After Win 11 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-microsoft-store-login-experience/"><u>Revive Your Microsoft Store Login Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-outlook-crash-steps-for-windows-users/"><u>Solving Outlook Crash: Steps for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-configuring-windows-hello/"><u>The Essential Guide to Configuring Windows Hello</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unearthing-windows-11s-inner-workings-its-registry-details/"><u>Unearthing Windows 11’S Inner Workings: Its Registry Details</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-13-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 13 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728497875910-windows-11/"><u>Windows 11 システムのアップデート失敗解決:予約領域修正方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-activating-audio-mixing-via-action-center/"><u>Windows 11: Activating Audio Mixing via Action Center</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>[New] 2024 Approved Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reimagine-your-storytelling-with-smartly-scaled-instagram-videos/"><u>[Updated] 2024 Approved Reimagine Your Storytelling with Smartly Scaled Instagram Videos</u></a></li>
+<li><a href="https://techidaily.com/asus-expertbook-p5-advanced-energy-saving-performance-with-up-to/"><u>ASUS ExpertBook P5: Advanced Energy-Saving Performance with Up To</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211427358-9781647420727-awaken-to-your-calling/"><u>Awaken to Your Calling | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-overriding-windows-account-prompts/"><u>Effortless Entry: Overriding Windows Account Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-service-failed-for-virtual-disk-support/"><u>How to Fix Service Failed for Virtual Disk Support</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-earning-edge-reached-for-subscribers-above-500/"><u>In 2024, Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-v29-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo V29 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpeg-2-to-mp4-conversion-how-to-convert-unplayable-m2v-videos-into-playable-mp4-format/"><u>MPEG-2 to MP4 Conversion - How to Convert Unplayable M2V Videos Into Playable MP4 Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-heic-images-to-jpeg-format-in-windows-11/"><u>Optimizing HEIC Images to JPEG Format in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-blue-screen-error-0x8007007e-in-windows-systems/"><u>Resolving Blue Screen Error 0X8007007E in Windows Systems</u></a></li>
 </ul></div>
 

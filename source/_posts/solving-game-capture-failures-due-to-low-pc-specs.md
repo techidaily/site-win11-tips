@@ -1,7 +1,7 @@
 ---
 title: Solving Game Capture Failures Due to Low PC Specs
-date: 2024-12-07T01:36:22.285Z
-updated: 2024-12-12T18:49:09.360Z
+date: 2024-12-21T02:02:38.795Z
+updated: 2024-12-22T04:47:07.833Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable Game DVR With Game DVR Config
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 ![The Game DVR Config software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-dvr-config.jpg)
 6. Click the **Force software MFT** checkbox to select that setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg)
 5. Double-click on the **PortableOperatingSystem** DWORD in the Control key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Delete the **0** number and input **1** within the **Value data** box.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window.jpg)
 7. Set the value by clicking **OK** inside the Edit DWORD window.
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable the Windows Game Recording and Broadcasting Policy
 
@@ -95,12 +83,16 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 5. Click **Enabled** if that policy is disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select **Apply** to enable the recording policy and **OK** to close the window.  
 ![The Enables or disables Windows Game Recording and Broadcasting policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg)
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Erase Data in the GameDVR Registry Key
 
@@ -116,28 +108,19 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 ![the-delete-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option.jpg)
 5. Click the Start menu’s Power button and select **Restart**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Recording Again With the Xbox Game Bar
 
  The potential solutions covered here are widely confirmed to resolve the “PC doesn't meet the hardware requirements for captures” by users who’ve needed to fix that issue. So, it’s most likely applying the potential fixes above will resolve that Game Bar recording issue on your Windows laptop or desktop. Then you can record video while gaming with the Game Bar’s recording feature again.
 
  The error message highlights a PC doesn’t meet system requirements for Game Bar recording. Yet, this error often arises for users who’ve utilized Game Bar’s recording on their PCs before. This is how you can fix the “PC doesn't meet the hardware requirements for captures” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-comparing-content-formats-podcasts-versus-youtube/"><u>[New] Comparing Content Formats Podcasts Versus YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-go-to-list-for-effortless-downloads-of-fb-stories/"><u>[Updated] 2024 Approved Your Go-To List for Effortless Downloads of FB Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-closer-look-at-youtubes-unlisted-content-category/"><u>[Updated] In 2024, A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-complex-policies-gpresult-techniques-explored/"><u>Conquering Complex Policies: GPResult Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-educational-style-windows-11/"><u>Customizing Educational Style Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-instructions-setting-up-wm6/"><u>In 2024, Expert Instructions Setting Up WM6</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-grasping-the-advantages-of-av1-in-video-coding/"><u>In 2024, Grasping the Advantages of AV1 in Video Coding</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/insider-guide-to-gopro-wizardry/"><u>Insider Guide to GoPro Wizardry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-adapting-linux-subsystem-to-windows-11-upgrades/"><u>Overcoming Challenges: Adapting Linux Subsystem to Windows 11 Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-the-source-win-friendly-free-software-picks/"><u>Secure the Source: Win-Friendly Free Software Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-picturecapture-error-in-11s-camera-app/"><u>Steps to Resolve PictureCapture Error in 11'S Camera App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-solutions-for-inactive-batch-scripts-on-windows/"><u>Tactical Solutions for Inactive Batch Scripts on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Smart 8 HD | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +129,21 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-video-discoverability-with-strategic-tagging-on-youtube-for-2024/"><u>Elevating Video Discoverability with Strategic Tagging on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-video-downloader-winmacosmobile-power-up-for-2024/"><u>Facebook Video Downloader Win/macOS/Mobile Power-Up for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guia-passo-a-passo-clonagem-de-hd-noble-em-sistemas-windows-1011-com-inicializacao-simplificada/"><u>Guia Passo a Passo: Clonagem De HD Noble Em Sistemas Windows 10/11 Com Inicialização Simplificada</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-domain-based-biometric-settings-in-w11/"><u>Guiding Users Through Domain-Based Biometric Settings in W11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-technology-for-marketing-insights/"><u>Harnessing the Power of Cookiebot Technology for Marketing Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dji-mini-and-air-2-mixing-made-easy-with-20-free-luts/"><u>In 2024, DJI Mini & Air 2 Mixing Made Easy with 20 Free LUTS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-aerial-imagery-crews-the-10-drones/"><u>In 2024, Premium Aerial Imagery Crews The #10 Drones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-touch-typing-features-in-windows/"><u>Navigating Through Touch Typing Features in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-the-unknown-component-alert-from-windows/"><u>Removing the Unknown Component Alert From Windows</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-successfully-adding-and-configuring-new-pc-hardware-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Successfully Adding and Configuring New PC Hardware in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quintessence-of-modern-design-tools-microsoft-paints-upgrades/"><u>The Quintessence of Modern Design Tools - Microsoft Paint's Upgrades</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/venture-into-virtual-worlds-a-close-look-at-lgs-360-tech-for-2024/"><u>Venture Into Virtual Worlds A Close Look at LG's 360 Tech for 2024</u></a></li>
+</ul></div>
+

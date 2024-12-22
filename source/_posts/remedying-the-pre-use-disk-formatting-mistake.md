@@ -1,7 +1,7 @@
 ---
 title: Remedying the Pre-Use Disk Formatting Mistake
-date: 2024-12-11T22:48:31.689Z
-updated: 2024-12-12T17:09:31.462Z
+date: 2024-12-15T06:29:32.460Z
+updated: 2024-12-21T18:00:52.016Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Reasons Behind the Error Message?
 
  You can see the “Format Disk in drive” message due to one or more of the following reasons:
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 4. Core system files have gone missing or corrupt.
 5. A third-party app is conflicting with system apps and services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error
 
  Try out the following methods to fix the disk error message and save your data stored on it:
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 ### 1\. Check the USB Drive
 
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Perform a Complete Shutdown
 
@@ -67,19 +63,15 @@ Repeat the following steps:
 ![Perform a Complete Shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/perform-a-complete-shutdown.jpg)
 4. It will take longer than usual for your system to shut down. Power it on again and open File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the USB disk and check if you are able to access the files on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Do a Clean Boot
 
  Third-party applications and services can interfere with system apps and impede their normal functioning. So,[perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) of your system. It will disable all the third-party services and programs from running at startup. If you are able to access the disk now, repeat the clean boot process while enabling third-party services one by one to isolate the culprit program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Change the USB Drive Letter Using Disk Management
 
@@ -91,16 +83,21 @@ Repeat the following steps:
 4. Click on the**Change** button. Then, click on the**arrow** button to expand the drop-down list and select a drive letter from it.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Lastly, click on the**OK** button. Reconfirm your decision and click on the**Yes** button to change the Drive letter.
-6. You will see a system notification informing you about the Drive letter change and mounting the drive.
-7. Press**Win + E** to open the File Explorer and check whether the USB drive is accessible or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. You will see a system notification informing you about the Drive letter change and mounting the drive.
+7. Press**Win + E** to open the File Explorer and check whether the USB drive is accessible or not.
 
 ### 5\. Scan the Hard Disk Using CHKDSK
 
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Run an SFC and DISM Scan
 
@@ -132,6 +129,10 @@ Repeat the following steps:
 
  However, before[performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try[System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can[factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Access USB Disk Contents Without Formatting
 
  It is a bad idea to click on the Format button when File Explorer prompts you to do it to access the USB disk. Firstly, try to check the hardware malfunctions and salvage the data on the USB disk. You can use another system or create a Linux installation media to access files on the USB disk.
@@ -153,22 +154,18 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-digital-filmmakers-guide-converting-avi-media-to-compact-gif-format-in-filmora/"><u>[New] 2024 Approved Digital Filmmakers' Guide Converting AVI Media to Compact GIF Format in Filmora</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>[Updated] IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>[Updated] Mastering the Art of Voice Modification The Ultimate Guide to MorphVOX</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-scholarly-streams-10-best-ed-tutorials-yt/"><u>[Updated] Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-transformer-gratuitement-un-fichier-gif-en-format-m4v-avec-moviesavvy/"><u>1. Transformer Gratuitement Un Fichier GIF en Format M4V Avec MovieSavvy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mpgmkv-movavi/"><u>將MPG電影文件自動轉成MKV - Movavi的無限制線上服務</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-tus-audios-desde-aif-a-m4a-gratuitamente-en-linea-usando-el-innovador-software-de-movavi-para-conversiones-rapidas-y-seguras/"><u>Cambia Tus Audios Desde AIF a M4A Gratuitamente en Línea, Usando El Innovador Software De Movavi Para Conversiones Rápidas Y Seguras.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/change-trp-files-to-mpeg-format-for-free-using-movavis-web-tool/"><u>Change TRP Files to MPEG Format for Free Using Movavi's Web Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-transformer-votre-nsv-en-video-mpeg-gratuite-en-ligne-guide-detaille-de-moveave/"><u>Comment Transformer Votre NSV en Vidéo MPEG Gratuite en Ligne - Guide Détaillé De Moveave</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-audios-wav-directamente-al-formato-linea-congratuito-usando-herramientas-de-movavi/"><u>Convertir Audios WAV Directamente Al Formato Línea Congratuito Usando Herramientas De Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solution-to-prevent-fortnite-from-exceeding-video-memory-limits/"><u>Effective Solution to Prevent Fortnite From Exceeding Video Memory Limits</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-fetch-and-improve-driver-performance-on-your-xp-pen-graphics-tool/"><u>Guide to Fetch & Improve Driver Performance on Your XP-Pen Graphics Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-riot-games-fixed-the-recurring-connectivity-bug-in-lols-latest-2aster-version/"><u>How Riot Games Fixed the Recurring Connectivity Bug in LoL's Latest 2Aster Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/las-mejores-tacticas-para-escalar-la-claridad-de-tu-fotografia-un-ranking-top-6/"><u>Las Mejores Tácticas Para Escalar La Claridad De Tu Fotografía: Un Ranking Top-6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-modulo-convertitore-gratuito-raf-a-jpeg-online-per-fotografie-di-alta-qualita-e-facile-gestione/"><u>Movavi - Modulo Convertitore Gratuito RAF a JPEG Online per Fotografie Di Alta Qualità E Facile Gestione</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photography-elite-line-up-best-6-4k-dslr-options-reviewed/"><u>Photography Elite Line-Up Best 6 4K DSLR Options Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-insiders-guide-to-crafting-perfect-instagram-posts-for-2024/"><u>The Insider's Guide to Crafting Perfect Instagram Posts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-experts-guide-to-xbox-one-screen-captures/"><u>[New] In 2024, The Expert's Guide to Xbox One Screen Captures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-compact-obs-setup-for-underpriced-pcs/"><u>[Updated] Compact OBS Setup for Underpriced PCs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mobile-apps-for-top-notch-introduction-videos-on-iosandroid-for-2024/"><u>[Updated] Mobile Apps for Top-Notch Introduction Videos on iOS/Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-login-attempt-wait-time-for-windows-os/"><u>Customizing Login Attempt Wait Time for Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-stranded-alert-on-xbox-in-windows-a-step-by-step-guide/"><u>Fixing 'Stranded' Alert on Xbox in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-enable-and-use-dvd-playback-feature-on-the-xbox-one-gaming-system/"><u>How to Enable and Use DVD Playback Feature on the Xbox One Gaming System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-stale-group-policies-on-windows-machines/"><u>Quick Fixes for Stale Group Policies on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-semaphore-timeout-in-windows-1110/"><u>Quick Guide: Solving Semaphore Timeout in Windows 11/10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-strategies-for-ensuring-maximum-productivity-of-your-computer-insights-by-yl-software/"><u>Top Strategies for Ensuring Maximum Productivity of Your Computer - Insights by YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-optimal-display-performance-on-win1011/"><u>Unlock Optimal Display Performance on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-voice-recorders-quick-access-with-shortcuts-guide/"><u>Windows 11 Voice Recorders: Quick Access with Shortcuts Guide</u></a></li>
 </ul></div>
 

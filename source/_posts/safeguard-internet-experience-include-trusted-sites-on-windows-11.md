@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Internet Experience: Include Trusted Sites on Windows 11"
-date: 2024-12-10T18:31:53.979Z
-updated: 2024-12-12T16:36:21.786Z
+date: 2024-12-15T05:11:16.927Z
+updated: 2024-12-21T21:51:11.402Z
 tags:
   - windows10
   - windows11
@@ -37,22 +37,27 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 3. Switch to the **Security** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Trusted sites** icon and then click the **Sites** button.  
 ![Trusted sites option in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trusted-sites-option.jpg)
 5. Paste the copied URL in the **Add this website to the zone** field and then click the **Add** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-button.jpg)
 6. Click the **Close** option and then **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove a website from the trusted list, access the **Trusted sites** window, select the website and then click the **Remove** button.
 
 ![Remove button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Website to the Google Chrome Trusted List
 
@@ -79,14 +84,14 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Website to the Mozilla Firefox Trusted List
@@ -100,12 +105,21 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
 6. Click the **Save Changes** option.
 
  If you want to remove a website from Mozilla Firefox's trusted list, access the Manage Exceptions window, select the website and click the **Remove Website** option. Then, click the Save Changes button.
 
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Brave Trusted List
 
@@ -116,40 +130,13 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 ![Lock icon in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lock-icon.jpg)
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Up Trusted Sites List
 
  Oftentimes, you will notice your browser showing error messages upon accessing certain websites or web pages. This is in place to keep your computer secure from potentially harmful websites. But if you know the website you're trying to access is safe, you can add it to the trusted list of different browsers.
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] In 2024, Screen Review Snapshot Is Active 8 Top-Tier or Not?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-10-tools-to-shield-photographic-work-for-2024/"><u>[Updated] Top 10 Tools to Shield Photographic Work for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-unlock-your-kitchens-full-potential-why-waiting-to-invest-in-the-paprika-app-was-my-biggest-mistake/"><u>1. Unlock Your Kitchen's Full Potential: Why Waiting to Invest in the Paprika App Was My Biggest Mistake</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-transformer-des-fichiers-cr2-en-images-jpeg-sur-internet-et-ordinateur-guide-complet-pour-2024/"><u>Comment Transformer Des Fichiers CR2 en Images JPEG Sur Internet Et Ordinateur: Guide Complet Pour 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-beautiful-ai-appraisal-insights-on-costs-capabilities-and-comparable-tools/"><u>Comprehensive Beautiful AI Appraisal: Insights on Costs, Capabilities & Comparable Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-mp4-converter-movavi/"><u>Free Online AVI to MP4 Converter - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-complimentary-web-based-tool-for-mp3-to-flac-transformation-high-quality-hassle-free-upgrades/"><u>Movavi's Complimentary Web-Based Tool for MP3 to FLAC Transformation: High-Quality, Hassle-Free Upgrades!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-interruptions-solving-dark-souls-3s-persistent-crash-troubles/"><u>No More Interruptions: Solving Dark Souls 3'S Persistent Crash Troubles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/spark-interest-and-build-community-through-these-10-igtv-approaches-for-2024/"><u>Spark Interest and Build Community Through These 10 IGTV Approaches for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-17-free-alternatives-to-adobe-premiere-pro-by-movavi-comprehensive-guide/"><u>Top 17 Free Alternatives to Adobe Premiere Pro by Movavi: Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-the-past-essential-history-youtubes-for-educational-journey/"><u>Unlocking the Past Essential History YouTubes For Educational Journey</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +145,20 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-the-invisible-hand-mastering-windows-11s-media-imports/"><u>[New] The Invisible Hand Mastering Windows 11'S Media Imports</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-smileslice-studio-memomaestrospace/"><u>[Updated] SmileSlice Studio MemoMaestroSpace</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-resolution-mastery-tackling-not-found-or-missing-gsdll32dll-challenges-on-windows-systems/"><u>Error Resolution Mastery: Tackling 'Not Found' Or Missing gsdll32.dll Challenges on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-powerful-programs-for-efficient-screen-grabbing-without-windows/"><u>Five Powerful Programs for Efficient Screen Grabbing Without Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-iphone-unable-to-sendreceive-texts/"><u>How to Troubleshoot 'iPhone Unable to Send/Receive Texts'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-offset-noctua-nh-d15-g2-subdued-whirring-increased-heatpipe-capacity/"><u>Introducing the New Offset Noctua NH-D15 G2: Subdued Whirring, Increased Heatpipe Capacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpiece-magic-creating-artwork-on-win-1011/"><u>Masterpiece Magic: Creating Artwork on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-directdraw-a-path-to-flawless-performance-in-win1011/"><u>Mastery over DirectDraw: A Path to Flawless Performance in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redistributing-qbittorrent-from-one-machine-to-another-windows/"><u>Redistributing qBittorrent: From One Machine to Another Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-persistent-pin-failures-in-windows-os/"><u>Strategies to Overcome Persistent PIN Failures in Windows OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
+</ul></div>
+

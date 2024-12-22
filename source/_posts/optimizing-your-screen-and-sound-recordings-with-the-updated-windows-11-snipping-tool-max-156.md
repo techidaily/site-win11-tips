@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your Screen & Sound Recordings with the Updated Windows 11 Snipping Tool (Max 156)
-date: 2024-08-23T07:00:14.513Z
-updated: 2024-08-24T07:00:14.513Z
+date: 2024-12-16T01:58:41.725Z
+updated: 2024-12-22T05:59:25.748Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the Snipping Tool is ready to capture audio. Here’s how to do it:
 
 1. Relaunch the Snipping Tool app.
@@ -51,6 +55,11 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 4. Click on the **microphone** icon to open the drop-down menu. Select the audio recording device that you want to use from the list (internal or external mic).  
 ![Select mic input in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-mic-input-in-snipping-tool.jpg)
 5. Click on the **microphone** icon again. Since it is muted by default, click on the **Mute** option to deselect it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on **Mute System Audio** if you want to mute the system sounds while recording the audio.
 7. Hit the **Start** button to proceed to record the screen and your audio.
 8. Once done, click on the **s** **top recording** icon.
@@ -58,8 +67,13 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
  Follow the steps below to tweak the audio capture settings:
@@ -68,28 +82,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 2. Navigate to the top right corner and click on the **see more** (ellipsis) icon, then select **Settings**. Scroll down to the **Screen recording** section.  
 ![Open Snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-snipping-tool-settings.jpg)
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Audio Recording Feature Any Good?
 
  If you [use an external microphone](https://www.makeuseof.com/questions-ask-before-buying-external-microphone/), the quality of the audio capture is decent. Since you can select the audio input device and mute or unmute the audio capture while video recording, you also have the option to add a voiceover while recording a video, which you can use as a video guide.
@@ -97,22 +93,12 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  The Snipping Tool saves the video recording with the audio capture in MP4 format; it doesn’t create a separate file for the audio recording. But you can [use editing apps like Clipchamp](https://www.makeuseof.com/windows-clipchamp-record-screen-camera/) to separate the audio recording from the video and then tweak it.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Capture Audio Along With Your Screen
 
  The Snipping Tool is getting more love from Microsoft and the new audio recording feature makes it a decent app for recording video with audio. You don’t need to use third-party apps like OBS Studio anymore. However, it will take some time for the feature to become available to everyone.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +106,24 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-yi-hero-review-transform-your-videography-with-4k/"><u>[New] In 2024, YI Hero Review Transform Your Videography with 4K</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-future-of-content-creation-profitability-on-youtube/"><u>[Updated] The Future of Content Creation Profitability on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-gopros-versatility-up-against-nikons-km-170/"><u>2024 Approved GoPro's Versatility Up Against Nikon's KM-170</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-access-controls-for-standard-windows-users/"><u>Customizing Access Controls for Standard Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-digital-deceit-unmasking-fakes-in-windows-store-apps/"><u>Deciphering Digital Deceit: Unmasking Fakes in Windows Store Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dive-into-robotics-the-ultimate-review-of-the-amazing-wonder-workshop-dash-toys/"><u>Dive Into Robotics: The Ultimate Review of the Amazing Wonder Workshop Dash Toys</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-microsoft-store-fault-code-0x80073cf3-on-win11/"><u>Mending Microsoft Store Fault Code 0X80073cf3 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pivotal-points-a-roadmap-for-system-refreshment/"><u>Pivotal Points: A Roadmap for System Refreshment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothed-out-data-errors-in-drives/"><u>Smoothed Out Data Errors in Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-rectify-device-not-found-in-virtualbox/"><u>Stepwise Approach to Rectify 'Device Not Found' In VirtualBox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-customizing-windows-11-notepad/"><u>The Ultimate Guide to Customizing Windows 11 Notepad</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone XS? | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-terminal-reboot-return-to-standard/"><u>Win11 Terminal Reboot: Return To Standard</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering Content Transfer via Application Guard in Edge (Win 11)
-date: 2024-12-07T23:00:28.434Z
-updated: 2024-12-13T01:56:50.944Z
+date: 2024-12-19T23:37:47.235Z
+updated: 2024-12-21T21:25:52.672Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Copy and Paste via Windows Settings
@@ -41,24 +41,16 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -77,13 +69,18 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 2. Now right-click on**Hvsi** and select**New > DWORD (32-bit) Value** .  
 ![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click twice on the newly created DWORD key to open a pop-up window.
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -91,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  If you'd like to turn off this feature, just repeat the aforementioned steps, but set the Value data to**0** and click**OK** . That's all it takes for your changes to be put into effect!
 
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
 
@@ -111,24 +112,20 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-testimonials-techniques-for-persuasive-video-credibility/"><u>[New] The Art of Testimonials Techniques for Persuasive Video Credibility</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-from-basic-to-brilliant-a-complete-hdr-portrait-guide/"><u>[Updated] 2024 Approved From Basic to Brilliant A Complete HDR Portrait Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-gif-grabbers-handbook-a-comprehensible-guide-to-downloading-twitter-gifs/"><u>[Updated] The GIF Grabber's Handbook A Comprehensible Guide to Downloading Twitter GIFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-apng-vers-line-movavi-votre-solution-simplifiee/"><u>Conversion Gratuite Apng Vers Line - Movavi: Votre Solution Simplifiée</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ogg-to-mp4-streaming-files-with-movavis-online-tool/"><u>Free Conversion of OGG to MP4 Streaming Files with Movavi's Online Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mov-to-wav-converter-moveavee/"><u>Free Online MOV to WAV Converter - Moveavee</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-tod-em-mov-mit-movavi-kostenloses-umwandeln/"><u>Gratis Online Konverter: TOD Em MOV Mit Movavi - Kostenloses Umwandeln</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-verbetering-mod-naar-mp4-met-movavi-online-konvertor/"><u>Gratuit Verbetering MOD Naar MP4 Met Movavi - Online Konvertor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-completa-para-convertir-archivos-snd-sin-coste-con-movavi-metodo-gratuito-y-sencillo/"><u>Guía Completa Para Convertir Archivos SND Sin Coste Con Movavi: Método Gratuito Y Sencillo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-facil-y-rapida-para-cambiar-tu-video-desde-m4v-a-wmv-sin-coste-usando-movavi-online-converter/"><u>Guía Fácil Y Rápida Para Cambiar Tu Vídeo Desde M4V a WMV Sin Coste Usando Movavi Online Converter</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715701271427-mastering-vrecorder-download-install/"><u>Mastering VRecorder Download, Install!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-para-mp3-em-segundo-plano-facil-livre-e-direto-com-o-movavi-perfeito-para-todos/"><u>Mp4 Para Mp3 Em Segundo Plano: Fácil, Livre E Direto Com O Movavi - Perfeito Para Todos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-3d-animation-tools-free-and-premium-options-compared-for-2024/"><u>New Top 3D Animation Tools Free and Premium Options Compared for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/no-cost-enjoyable-9-festive-feasts-in-one-wholesome-film-series-for-2024/"><u>No Cost, Enjoyable 9 Festive Feasts in One Wholesome Film Series for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-and-effortless-way-to-download-youtube-as-high-quality-wav-files/"><u>Quick and Effortless Way to Download YouTube as High-Quality WAV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-aac-au-format-ogg-gratuitement-via-le-web-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier AAC Au Format Ogg Gratuitement via Le Web - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-audio-video-interchange-file-format-avi-from-asf-at-no-cost-movavis-expert-guide/"><u>Transform Audio-Video Interchange File Format (AVI) From ASF at No Cost - Movavi's Expert Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated 2024 Approved AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-counter-facebooks-instantaneous-deletion-of-videos-for-2024/"><u>[New] How to Counter Facebook's Instantaneous Deletion of Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-survey-diverse-categories-in-visual-media-tech/"><u>[Updated] Survey Diverse Categories in Visual Media Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-10-powerful-igtv-video-tips-for-amplified-brand-impact/"><u>2024 Approved 10 Powerful IGTV Video Tips for Amplified Brand Impact</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-missing-text-alerts-on-your-iphone-here-are-7-remedies/"><u>Dealing with Missing Text Alerts on Your iPhone? Here Are 7 Remedies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-reviving-your-headset-microphone-when-it-stops-working/"><u>Effective Techniques: Reviving Your Headset Microphone When It Stops Working</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-30i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 30i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-optimal-way-with-windows-11/"><u>Navigating the Optimal Way with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-blue-screen-clues-in-windows-event-viewer/"><u>Post-Blue Screen Clues in Windows Event Viewer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicker-downloads-for-battlenet-games-win-pcs-now/"><u>Quicker Downloads for Battle.net Games, Win PCs Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-bluetooth-error-try-connection-failure/"><u>Solving Windows 11'S Bluetooth Error: Try Connection Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-windows-startup-fault-with-winscomrssvdll/"><u>Strategies for Correcting Windows Startup Fault with WinscomrssvDll</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-essential-202course-on-resolving-discords-audio-disruption-issues-a-complete-how-to/"><u>The Essential 202Course on Resolving Discord's Audio Disruption Issues - A Complete How-To</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/unlock-advanced-data-insights-with-our-cookiebot-integrated-solutions/"><u>Unlock Advanced Data Insights with Our Cookiebot Integrated Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-trigger-system-restore-on-windows-11-os/"><u>Unveiling Techniques to Trigger System Restore on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-component-services-easily/"><u>Windows 11: Accessing Component Services Easily</u></a></li>
 </ul></div>
 

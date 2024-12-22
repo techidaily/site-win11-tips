@@ -1,7 +1,7 @@
 ---
 title: Eliminating Windows 11 Folder Tab Buzz
-date: 2024-12-12T01:26:00.968Z
-updated: 2024-12-13T00:58:37.005Z
+date: 2024-12-18T03:45:56.525Z
+updated: 2024-12-22T08:53:59.730Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViVeTool?
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable File Explorer Tabs In Windows 11
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
@@ -61,13 +57,17 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 vivetool /disable /id:37634385  
 vivetool /disable /id:36354489
 6. You will see the “**Successfully set feature configuration(s)** ” if the command executes successfully.
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
 
@@ -82,7 +82,7 @@ vivetool /disable /id:36354489
 6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable Any Windows 11 Feature Using ViVeTool
@@ -104,17 +104,20 @@ vivetool /disable /id:36354489
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-enhancing-call-clarity-silencing-distractions-for-2024/"><u>[Updated] Enhancing Call Clarity Silencing Distractions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>[Updated] Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-games-effortlessly-with-nvidia/"><u>2024 Approved Capture Games Effortlessly with NVIDIA</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-exit-wave-analysis/"><u>2024 Approved Instagram Exit Wave Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beat-the-hype-with-budget-friendly-apple-vision-xr-companions-zdnet-review/"><u>Beat the Hype with Budget-Friendly Apple Vision XR Companions - ZDNet Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-of-mov-files-to-vob-format-move-itcom/"><u>Free Online Conversion of MOV Files to VOB Format - Move-it.com</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-x50-gt-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor X50 GT Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/les-12-maitres-du-montage-video-en-haute-volee-en-2024-decouvrez-avec-movavi/"><u>Les 12 Maîtres Du Montage Vidéo en Haute Volée en 2024 - Découvrez Avec Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-black-ops-cold-war-error-code-0xc0000005-a-step-by-step-solution/"><u>Overcoming Black Ops Cold War Error Code 0Xc0000005 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95642493-9781786780706-the-healing-power-of-life-alignment/"><u>The Healing Power of Life Alignment | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-su-contenido-flash-al-formato-mp4-por-internet-sin-gastos-guia-paso-a-paso-solucion-gratuita-de-movavi/"><u>Transforma Su Contenido Flash Al Formato MP4 Por Internet Sin Gastos, Guía Paso a Paso - Solución Gratuita De Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221843560-3g2-mp4-movavi/"><u>구독 없이 3G2 파일을 무료 MP4 형식으로 전환하는 - Movavi 소프트웨어</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-community-builders-gamer-youtubers/"><u>[New] In 2024, Community Builders Gamer YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-start-a-successful-youtube-gaming-channel/"><u>[Updated] 2024 Approved How to Start a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-migrer-facilement-et-gratuitement-vos-donnees-mac-vers-un-disque-dur-externe-avec-trois-techniques-simples/"><u>Comment Migrer Facilement Et Gratuitement Vos Données Mac Vers Un Disque Dur Externe Avec Trois Techniques Simples</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismiss-incompatibility-signals-in-windows-11/"><u>Dismiss Incompatibility Signals in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedite-your-entry-with-temporary-windows-profiles/"><u>Expedite Your Entry with Temporary Windows Profiles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/extensive-analysis-the-complete-gear-360-camera-experience-for-2024/"><u>Extensive Analysis The Complete Gear 360 Camera Experience for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jubilant-join-and-leave-steps/"><u>In 2024, Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-manipulation-of-user-credentials-in-windows-11/"><u>Masterful Manipulation of User Credentials in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repair-process-for-the-lunar-client-not-starting-windows-problem/"><u>Repair Process for the Lunar Client Not Starting Windows Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-app-blocking-system-functions-error-on-windows/"><u>Resolving the App Blocking System Functions Error on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/sharing-instagram-reels-on-facebook-a-step-by-step-guide/"><u>Sharing Instagram Reels on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-high-latency-in-virtual-construction-platform/"><u>Solving High Latency in Virtual Construction Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-overlooked-duo-windows-underutilized-performance-and-reliability-metrics/"><u>The Overlooked Duo: Windows' Underutilized Performance and Reliability Metrics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-for-panasonics-hc-wxf991/"><u>The Ultimate Review for Panasonic's HC-WXF991</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zip-your-words-into-srt-easily-convert-text-archives-for-2024/"><u>Zip Your Words Into SRT Easily Convert Text Archives for 2024</u></a></li>
 </ul></div>
 

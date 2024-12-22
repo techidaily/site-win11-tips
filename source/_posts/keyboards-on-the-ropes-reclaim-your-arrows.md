@@ -1,7 +1,7 @@
 ---
 title: Keyboards on the Ropes? Reclaim Your Arrows
-date: 2024-12-06T21:56:33.963Z
-updated: 2024-12-12T21:28:31.896Z
+date: 2024-12-18T08:46:02.294Z
+updated: 2024-12-22T05:28:44.156Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Hardware and Devices Troubleshooter
 
  If restarting your computer doesn’t fix the arrow keys not working, you can try running the Hardware and Devices troubleshooter. This tool is designed to detect and fix common hardware problems with your computer, including keyboard issues.
@@ -43,7 +47,15 @@ msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter
 
@@ -55,20 +67,20 @@ msdt.exe -id DeviceDiagnostic
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Try Using a Different Keyboard
 
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update the Keyboard Driver
 
@@ -81,15 +93,7 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
 
@@ -99,10 +103,6 @@ To reinstall the keyboard driver, follow these steps:
 2. When a popup menu appears, click**Uninstall** to confirm.
 
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
 
@@ -123,22 +123,18 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-animatedapp-full-guide-and-review-24-overview/"><u>2024 Approved AnimatedApp Full Guide & Review '24 Overview</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-groundbreaking-camera-work-insight-and-backup-films/"><u>2024 Approved Groundbreaking Camera Work Insight and Backup Films</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/chromebook-vs-windows/"><u>Chromebook vs Windows: 選択肢を比較してみませんか</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-m54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy M54 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-learning-with-themes-on-win-11/"><u>Elevate Learning with Themes on Win 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-efficiency-update-hp-officejet-firmware/"><u>Enhance Printing Efficiency: Update HP Officejet Firmware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-check-your-proxy-server-settings-on-windows-11/"><u>How to Check Your Proxy Server Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-make-calls-from-your-phone-using-the-intel-unison-app-on-windows-11/"><u>How to Make Calls From Your Phone Using the Intel Unison App on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-photomagic-studio/"><u>In 2024, PhotoMagic Studio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-startechs-usb-graphics-adapter-for-pc-free-guide-and-download/"><u>Install StarTech's USB Graphics Adapter for PC - FREE Guide & Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-more-lost-features-in-contemporary-windows/"><u>No More: Lost Features in Contemporary Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launching-hurdles-in-grand-theft-auto-5-experience/"><u>Overcoming Launching Hurdles in Grand Theft Auto 5 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-sound-top-free-windows-editing-tools/"><u>Streamline Your Sound: Top FREE Windows Editing Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win11s-comic-viewing-protocols/"><u>Unlocking Win11's Comic Viewing Protocols</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-the-yearly-update-plan-means-for-your-windows-11-experience/"><u>What The Yearly Update Plan Means for Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-and-file-explorer-stop-the-crashing-cycle-now/"><u>Win11 and File Explorer: Stop the Crashing Cycle Now</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725289844497-winx-dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum - 在線客服解答最常見的問題</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-10-top-ios-players-elevating-video-watching-on-devices-for-2024/"><u>[New] 10 Top iOS Players Elevating Video Watching on Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-conquering-low-light-with-iphones-advanced-hdr-techniques-for-2024/"><u>[New] Conquering Low Light with iPhone’s Advanced HDR Techniques for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-video-presentation-utilizing-lc-and-bb-techniques-on-facebook-for-2024/"><u>[New] Mastering Video Presentation Utilizing LC and BB Techniques on Facebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-volume-control-soft-fades-within-logic-pro-environment/"><u>[New] Volume Control Soft Fades Within Logic Pro Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-shell-infrastructure-host-high-cpu-on-windows-1111/"><u>[SOLVED] Shell Infrastructure Host High CPU on Windows 11/11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-legal-compliance-in-your-tiktok-content-upload/"><u>[Updated] 2024 Approved Mastering Legal Compliance in Your TikTok Content Upload</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-pictures-at-work-master-snap-camera-use-for-2024/"><u>[Updated] Perfect Pictures at Work Master Snap Camera Use for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr/"><u>[Updated] Tech Triad Analysis Understanding the Intersection of VR, AR & MR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-fix-for-audacious-crashes-the-9999-window-issue/"><u>Crafting a Fix for Audacious Crashes: The 9999 Window Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-amdnvidia-ui-features/"><u>Guide to Switch Off AMD/Nvidia UI Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-unnecessary-anti-virus-messages-in-chrome/"><u>How to Overcome Unnecessary Anti-Virus Messages in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-speech-recognition-made-simple-whisper-method/"><u>Real-Time Speech Recognition Made Simple - Whisper Method</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-5-free-mpeg-video-joiner-tools-reviewed-for-2024/"><u>Top 5 Free MPEG Video Joiner Tools Reviewed for 2024</u></a></li>
 </ul></div>
 

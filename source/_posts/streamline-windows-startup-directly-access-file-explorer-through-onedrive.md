@@ -1,7 +1,7 @@
 ---
 title: "Streamline Windows Startup: Directly Access File Explorer Through OneDrive"
-date: 2024-12-10T21:52:20.872Z
-updated: 2024-12-13T02:30:13.877Z
+date: 2024-12-19T04:29:54.274Z
+updated: 2024-12-21T17:36:38.103Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Folder Options
 
  If you want to make OneDrive the starting point of your File Explorer, you can do so using folder options. Here's how to do it:
@@ -39,20 +35,20 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 3. On the General tab, click the **Open File Explorer to** drop-down menu and select "Username Personal". Here, "Username" refers to your Windows account name.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Open File Explorer to OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive.jpg)
 4. Click **Apply** \> **OK** to close the dialog box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using the Registry Editor
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Using a Reg File
 
  The third and final method to set OneDrive as the default view involves using a reg file. It contains the necessary instructions that modify the registry on your behalf. So, if you're not comfortable using the registry editor, this is the right way to go.
@@ -95,30 +87,24 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 6. In the Save as dialog box, select **All files** from the Save as type drop-down menu and hit Enter. Make sure the file is saved as a **.reg** file and not as a .txt file.  
 ![Open File Explorer to OneDrive Using REG File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive-using-reg-file.jpg)
 7. Double-click the REG file you just created. If you're prompted for permission to change your computer, click **Yes**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Finally, restart your computer for the changes to take effect.
 
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
 
  There you have it; three different methods to make OneDrive your default File Explorer view. If you like, you can also change other folder views, such as Downloads or This PC, using the same techniques we discussed above. I hope this guide helped you get things done quickly and easily.
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] 2024 Approved Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-vsdm-video-capture-overview-thorough-scrutiny/"><u>[Updated] 2024 Approved VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-new-era-for-in-car-entertainment-systems/"><u>A New Era for In-Car Entertainment Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-installing-latest-drivers-for-acer-nitro-5-laptop/"><u>Comprehensive Tutorial on Installing Latest Drivers for Acer Nitro 5 Laptop</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-guide-to-setting-up-screen-mirroring-between-your-apple-devices/"><u>Easy Guide to Setting Up Screen Mirroring Between Your Apple Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-executable-format-pe/"><u>Exploring Windows Executable Format (PE)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-make-word-open-email-attachments-in-read-only-by-default/"><u>Guidelines to Make Word Open Email Attachments in Read-Only by Default</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-fraps-vs-competitors-screen-recorder-showdown/"><u>In 2024, Fraps vs Competitors Screen Recorder Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-look-for-task-managers-launch-screen-win11/"><u>New Look for Task Manager's Launch Screen (Win11)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-gaming-consoles-transformation-ps5-reviewed/"><u>The Gaming Console's Transformation: PS5 Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ip-port-inspection-strategies/"><u>Windows IP Port Inspection Strategies</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +113,25 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-skyhigh-snapshot-top-5-time-lapse-videos/"><u>[New] In 2024, Skyhigh Snapshot - Top 5 Time-Lapse Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-making-sense-of-typical-podcaster-profits/"><u>[Updated] 2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-tools-and-websites-to-download-mp3-from-youtube-videos/"><u>Best Tools and Websites to Download MP3 From YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demolishing-the-empty-directory-problem-windows-0x80070091-hurdle/"><u>Demolishing the Empty Directory Problem: Windows' 0X80070091 Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-solutions-for-programs-that-dont-work-on-vistawindows-7/"><u>Discover Solutions for Programs that Don't Work on Vista/Windows 7.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970360097-hassle-free-update-guide-for-surface-book-drivers-quick-download-steps-inside/"><u>Hassle-Free Update Guide for Surface Book Drivers - Quick Download Steps Inside!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>In 2024, Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-achieving-perfect-ambience-fading-and-brightening-sound-with-keyframes-in-filmora-mac/"><u>New In 2024, Achieving Perfect Ambience Fading and Brightening Sound with Keyframes in Filmora (Mac)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-torrent-selections-for-streamlined-downloads-on-windows/"><u>Optimal Torrent Selections for Streamlined Downloads on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pros-of-sticking-with-windows-10-over-the-newbie-windows-11/"><u>Pros of Sticking with Windows 10 over the Newbie Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-failed-device-pairings-in-windows-11/"><u>Quick Fix for Failed Device Pairings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-grayed-out-memory-management-in-win11/"><u>Reviving Grayed-Out Memory Management in Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strengthening-video-impact-with-professional-audio-cues/"><u>Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-tech-insights-from-toms-hardware-reviews/"><u>The Ultimate Guide to Choosing Tech: Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-phone-recording-problems/"><u>Troubleshooting Windows Phone Recording Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-the-best-singing-experience-with-elite-karaoke-machines-in-2e24/"><u>Unlock the Best Singing Experience with Elite Karaoke Machines in 2E24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winfixer-tackling-inaccessible-networks-on-windows-11-os/"><u>Winfixer: Tackling Inaccessible Networks on Windows 11 OS</u></a></li>
+</ul></div>
+

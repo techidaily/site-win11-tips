@@ -1,7 +1,7 @@
 ---
 title: Managing Heat Efficiency in Your Windows 11 Computer
-date: 2024-08-16T02:48:04.297Z
-updated: 2024-08-17T02:48:04.297Z
+date: 2024-12-18T19:59:23.684Z
+updated: 2024-12-21T18:50:52.869Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,21 @@ To update your Windows computer:
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your system started to overheat after a recent Windows update, try to uninstall the update to fix the issue. You can check the Windows update history in the Settings app. You need to look for an update that matches the timeline when your Windows 11 computer started to overheat. If found, uninstall the update to see if that resolves the problem.
 
  You can[manually uninstall Windows 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) using Settings and Control Panel. Once uninstalled, check if the CPU temperature is in the ideal range.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check Background Apps for High CPU Usage
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Background apps with high CPU usage are often responsible for an overheating computer. Even if the app is using only 5-6% of your CPU resources, it may still be able to cause high CPU temperature.
 
@@ -70,14 +75,9 @@ To update your Windows computer:
  You can[change the Windows Power Plan using Control Panel](https://www.makeuseof.com/windows-11-change-power-plan/) . Under**Power Options** , review your current plan and select**Balanced (Recommended)** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change the Maximum Processor State
 
  You can fix the Windows 11 overheating problem by changing the maximum processor state in processor power management. By default, the maximum processor state is set to 100%. This means, if required, the processor can run at its factory potential and underclock when necessary.
@@ -90,21 +90,29 @@ To change the maximum processor state on Windows:
 2. Type**control** and click**OK** to open Control Panel.
 3. Go to**System and Security** and click on**Power Options** .  
 ![power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-options-control-panel-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Next, click the**Change plan settings** option for your currently active power plan.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![change plan settings power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-plan-settings-power-options-control-panel.jpg)
 5. Click on**Change advanced power settings** .  
 ![change advanced power settings control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-advanced-power-settings-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Scroll down and expand the**Processor power management** section.
 2. Next, expand the**Maximum processor state** option.  
 ![change maximum processor state 99 precent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-maximum-processor-state-99-precent.jpg)
 3. Select**On Battery** and change the value to**99%** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Plugged in** and change the value to**99%** .
 5. Click**Apply** and**OK** to save the changes.
 
@@ -116,9 +124,6 @@ To change the maximum processor state on Windows:
 
  If the issue persists, your computer is likely[overheating due to insufficient airflow, fan problems, and driver issues](https://www.makeuseof.com/how-to-fix-overheating-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable Windows Search Indexing
 
  Searchindexer is a Windows service that facilitates faster Windows search. While it works in the background, this service can cause high CPU usage, thus resulting in high temperatures.
@@ -128,9 +133,6 @@ To change the maximum processor state on Windows:
 ## 7\. Adjust the Performance Option to "Best Performance"
 
 ![The Adjust for best performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/adjust-for-best-performance-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your computer is overheating under heavy use like gaming, you can adjust your system to offer the best performance. Adjusting for best performance comes at the cost of reduced visual effects.
 
@@ -155,11 +157,16 @@ To use the Go back option:
 
  If the option is greyed out, the option is no longer available on your PC. Windows disables the Go back recovery option 10 days after the upgrade. You can, however, extend the[10 days go-back period to 60 days on Windows 11](https://www.makeuseof.com/windows-11-extend-rollback-period/) using Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Perform a System Restore
 
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows 11 automatically creates a snapshot of your system’s current state, known as restore points. A new restore point is created before installing an update. You can use an existing restore point to undo the changes and fix any issues that may have occurred due to a bad Windows update or recent changes made to your system.
@@ -174,27 +181,18 @@ To perform a system restore:
 
  A restore point won’t remove your files and folders. However, it will remove apps and games installed after the restore point was created.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Check for Hardware Issues
 
  A clean install should fix any issues occurring due to a software conflict. But, before performing a clean install, look into other issues to[fix your overheating laptop](https://www.makeuseof.com/tag/fix-overheating-laptop/) .
 
  First and foremost, check your laptop vents and clean them if necessary. Next, make sure to keep your laptop on a hard surface that allows the vents to displace hot air. A good laptop cooler can offer external cooling support and keep the temperature low.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 11\. Clean Install Windows 11
 
  A Windows clean install may seem extreme, but it can be necessary to purge the remanent system files and drivers after the upgrade. Some of these drivers and files can cause your system to malfunction and overheat. If you have upgraded to Windows 11 from Windows 10, a clean install may be due.
 
  To clean install Windows 11, all you need is a[Windows 11 bootable USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . Next, back up your personal files and folders to an external drive. Once done, boot from the USB drive and reinstall the OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing an Overheating Windows 11 Computer
 
  To fix an overheating Windows 11 computer, troubleshoot it for background services and bad Windows updates. Additionally, unblock the vents, clean the internals, and use a laptop on a hard surface to allow sufficient airflow.
@@ -205,8 +203,6 @@ To perform a system restore:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +210,23 @@ To perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-dynamic-dialogue-driven-decks-for-2024/"><u>[New] Dynamic Dialogue Driven Decks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-your-ultimate-guide-to-capturing-underwater-wonders/"><u>[New] In 2024, Your Ultimate Guide to Capturing Underwater Wonders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-perfect-playtime-toy-cars-and-games/"><u>[Updated] 2024 Approved Perfect Playtime Toy Cars & Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[Updated] Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>2024 Approved Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-wsls-problematic-error-code-4294967295-on-windows/"><u>Combatting WSL's Problematic Error Code: 4294967295 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-d3d11-compatible-gpu-error-on-win11win10/"><u>Demystifying the D3D11-Compatible GPU Error on Win11/Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-synaptic-detection-failure-for-razer-hardware/"><u>Fixing Synaptic Detection Failure for Razer Hardware</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-gamers-guide-to-free-game-recording-tools/"><u>In 2024, Gamers' Guide to Free Game Recording Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>In 2024, Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cpu-excesses-windows-resource-monitors-secrets-revealed/"><u>Navigating CPU Excesses: Windows Resource Monitor's Secrets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-control-turn-around-windows-update-dilemmrancies/"><u>Reclaim Control: Turn Around Windows Update Dilemmrancies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-struggle-within-the-shadows-seeking-freedom-in-a-regulated-world/"><u>The Struggle Within the Shadows: Seeking Freedom in a Regulated World</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/transform-scripted-text-into-storytelling-magic-for-2024/"><u>Transform Scripted Text Into Storytelling Magic for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-fixing-your-non-functional-corsair-hs60-microphone/"><u>Troubleshooting Tips: Fixing Your Non-Functional Corsair HS60 Microphone</u></a></li>
+</ul></div>
 

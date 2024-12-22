@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Resolving Non-Functional Gesture Inputs
-date: 2024-08-23T06:59:25.129Z
-updated: 2024-08-24T06:59:25.129Z
+date: 2024-12-21T07:46:58.599Z
+updated: 2024-12-22T09:13:06.350Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ## Diagnosing and Resolving Non-Functional Gesture Inputs
 
  Can't use multi-finger gestures on your touchpad? Is it not responding when you zoom in, scroll down, or switch between applications? Now's the time to fix it. This guide shows you fast tips for getting your touchpad gestures back to normal on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Are Touchpad Gestures Not Working?
 
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
  For this, press **Win + X** on your keyboard. Then press **U** and select **Restart**. This closes all open programs and restarts your device. Once it starts up, check if your touchpad gestures work again.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Touchpad Gestures
 
  If your touchpad gestures are disabled, you can't execute multi-finger commands. To enable gestures, access your touchpad settings and adjust accordingly. Here's how to do it.
@@ -48,20 +53,19 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 3. Scroll down in the right pane and click on the **Touchpad** section.  
 ![Bluetooth & devices in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bluetooth-devices-in-settings.jpg)
 4. Under **Gestures & interaction**, you'll see several touchpad gesture options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Check the boxes for each gesture you want to activate.
 6. To configure three-finger or four-finger gestures, click **Advanced gestures** under Related settings.  
 ![Advanced gestures in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-gestures-in-settings.jpg)
 7. On this page, you will see various configuration options for multi-finger gestures. Click on the drop-down menu and select the action you want for each gesture.  
 ![Touchpad in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/touchpad-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you configure the settings, your touchpad is ready for three-finger and four-finger commands. Now close the Settings window and test the gestures.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update Touchpad Drivers
 
  Outdated or corrupt touchpad drivers also affect gesture recognition. So, if you’re still having issues, try updating your touchpad drivers.
@@ -71,6 +75,11 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 3. Scroll down and expand **Mice and other pointing devices**.  
 ![Update Touch driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-touch-driver.jpg)
 4. Right-click on your touchpad device and select **Update driver**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search automatically for drivers for Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-automatically-for-drivers-for-mouse.jpg)
 5. On the next page, choose **Search automatically for drivers**.
 
@@ -87,16 +96,9 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 3. Right-click on the touchpad device and select **Uninstall device**.  
 ![Uninstall Mice and other pointing devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-mice-and-other-pointing-devices.jpg)
 4. Click **Uninstall** when prompted.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now wait for the process to finish. Once it does, restart your computer. Windows will automatically reinstall new touchpad drivers for your device at startup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 5\. Run Hardware and Devices troubleshooter
 
  Sometimes technical glitches make touchpad gestures unresponsive. In that case, run the hardware and devices troubleshooter to diagnose and resolve the issue.
@@ -108,7 +110,15 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 3. Click on **Advanced** and check the box for **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now click **Next** and let the troubleshooter find and fix any hardware-related problems. Once it completes, restart your computer and try using the touchpad again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Check for Third-Party Software Interference
 
@@ -120,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![Turn Windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-windows-features-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This stops these programs from interfering with Windows processes. Once you’ve made the changes, restart your computer and check if the touchpad gestures are working again.
 
 ## 7\. Reset Touchpad Gestures Settings
@@ -137,19 +144,11 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 4. Now click the **Reset** button next to **Reset touchpad settings and gestures to default**.  
 ![Reset touchpad settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-touchpad-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the settings are reset, restart your computer and see if your touchpad gestures have become responsive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Into Your Touchpad Gestures Again
 
  Though touchpad gestures make navigating Windows easier, sometimes glitches happen. If you’re having trouble with touchpad gestures on your Windows computer, try the solutions mentioned above. To avoid such problems in the future, keep your Windows and device drivers up to date. Make sure to install genuine software from secure sources.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +156,25 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-android-video-calls/"><u>[New] The Ultimate Guide to Android Video Calls</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-complete-roadmap-to-online-tiktok-streaming-from-desktop/"><u>[Updated] In 2024, The Complete Roadmap to Online TikTok Streaming From Desktop</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unleash-potential-the-best-10-motivational-movies/"><u>[Updated] In 2024, Unleash Potential The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-g42-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia G42 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-scripts-unblocking-blocked-windows-files/"><u>Decoding the Scripts: Unblocking Blocked Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insight-into-windows-component-services-toolset/"><u>Essential Insight Into Windows Component Services Toolset</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-para-intercambiar-informacion-entre-iphone-con-fonetool/"><u>Guía Paso a Paso Para Intercambiar Información Entre iPhone Con FoneTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-implementing-high-end-audio-in-windows-11/"><u>Guide to Implementing High-End Audio in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-failed-directx-downloads/"><u>How to Resolve Failed DirectX Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-zte-blade-a73-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From ZTE Blade A73 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-avi-to-ogv-upgrader-complimentary-service-by-movavi/"><u>Online AVI-to-OGV Upgrader: Complimentary Service by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-s-mode-steps-for-win-1110-users/"><u>Sidestep 'S Mode': Steps for Win 11/10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-recovery-how-to-access-windows-11s-restore-settings/"><u>System Recovery: How to Access Windows 11'S Restore Settings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transforming-facebook-watchlists-implementing-autoplay-for-youtube-content/"><u>Transforming Facebook Watchlists Implementing Autoplay for YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-alias-tags-in-coding-practices/"><u>Unpacking Alias Tags in Coding Practices</u></a></li>
+</ul></div>
+

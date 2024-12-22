@@ -1,7 +1,7 @@
 ---
 title: Unlocking New Horizinas with Upgraded Windows PCs to 16GB RAM
-date: 2024-12-10T23:47:47.227Z
-updated: 2024-12-12T21:48:17.161Z
+date: 2024-12-20T18:17:29.060Z
+updated: 2024-12-21T21:43:42.111Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,22 +45,22 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
 
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 > Microsoft has set the baseline for DRAM in AI PCs at 16GB. In the long term, TrendForce projects that AI PCs will catalyze an increase in annual demand for PC DRAM bits, with consumer upgrade trends further boosting this demand.
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -108,23 +108,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-from-download-to-usage-setting-up-obs-on-a-mac/"><u>[New] In 2024, From Download to Usage Setting Up OBS on a Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed/"><u>[Updated] 2024 Approved Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-profits-the-essential-3-step-guide-for-gauging-youtube-earnings/"><u>[Updated] Unlocking Profits The Essential 3-Step Guide for Gauging YouTube Earnings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-back-to-normal-overcoming-safe-mode-outlook/"><u>Getting Back to Normal: Overcoming Safe Mode Outlook</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A15 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Lava Storm 5G FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mac-users-guide-the-5-most-acclaimed-sniping-apps/"><u>In 2024, Mac Users' Guide The 5 Most Acclaimed Sniping Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/notepaddarkmodesettingguidewin/"><u>NotepadDarkModeSettingGuideWin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pursuing-mac-os-aesthetics-for-windows-5-must-try-methods/"><u>Pursuing Mac OS Aesthetics for Windows: 5 Must-Try Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sifting-through-nvidia-drivers-to-find-best-suit-for-you/"><u>Sifting Through Nvidia Drivers to Find Best Suit For You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-context-menu-customization-in-windows-11/"><u>The Art of Context Menu Customization in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-cheap-windows-key-savings-may-not-pay-off/"><u>Why Cheap Windows Key Savings May Not Pay Off</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +115,27 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-drone-dynamics-hubsan-h501x4-in-depth-overview/"><u>[New] 2024 Approved Drone Dynamics Hubsan H501X4 In-Depth Overview</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-webs-deception-caution-against-buying-non-real-subscribers/"><u>[New] The Web's Deception Caution Against Buying Non-Real Subscribers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premium-window-calls-top-8-standout-titles/"><u>[Updated] In 2024, Premium Window Calls Top 8 Standout Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-gratis-video-chat-solutions-for-corporate-and-schools-for-2024/"><u>[Updated] Top 10 Gratis Video Chat Solutions for Corporate & Schools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-the-newest-titans-apple-iphone-15-pro-versus-pro-max/"><u>Comparing the Newest Titans: Apple iPhone 15 Pro versus Pro Max</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/effective-strategies-for-diagnosing-and-fixing-windows-memory-problems-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing & Fixing Windows Memory Problems: Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-non-functional-windows-start-menu-entry/"><u>Fixed: Non-Functional Windows Start Menu Entry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funfactory-enjoy-video-making-with-ease/"><u>In 2024, FunFactory Enjoy Video Making with Ease</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS Max?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-strategies-for-web-design-with-the-aid-of-chatgpt-technology/"><u>Innovative Strategies for Web Design with the Aid of ChatGPT Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-portable-computing/"><u>Innovative Windows Portable Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-transfer-learning-functionality-explained-in-depth/"><u>Mastering AI Transfer Learning: Functionality Explained in Depth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-uac-screenshots-on-pc/"><u>Mastering UAC Screenshots on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-n-models-essential-guide/"><u>Navigating Through Windows N Models: Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-with-windows-update-fix/"><u>Overcoming Obstacles with Windows Update Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-how-to-for-efficiently-updating-your-windows-11-amd-drivers/"><u>The Ultimate How-To for Efficiently Updating Your Windows 11 AMD Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-engaging-with-windows-11-taskbar-activating-end-task-option/"><u>Understanding and Engaging with Windows 11 Taskbar: Activating End Task Option</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/which-win-pkg-tool-triumphs-choco-vs-wslm-analysis/"><u>Which Win Pkg Tool Triumphs? Choco VS. WSLM Analysis</u></a></li>
+</ul></div>
+

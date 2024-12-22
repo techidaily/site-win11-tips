@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Page Not Rendered in MS Marketplace
-date: 2024-08-16T02:44:53.856Z
-updated: 2024-08-17T02:44:53.856Z
+date: 2024-12-20T01:06:04.561Z
+updated: 2024-12-22T08:01:08.967Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  As such, if you also see this error message on the Microsoft Store, then this is the place where you need to be. Here, we'll share seven different ways to fix the "Page could not be loaded" error message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Microsoft Store "Page Could Not Be Loaded" Error?
 
  Usually, the "Page could not be loaded" error message appears when the app you are searching for is unavailable on the Microsoft Store. But sometimes, it appears even on searching for available apps like Minecraft. The error message comes along with the 0x80131505 code.
@@ -33,10 +37,12 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 1. Launch the Microsoft Store app and click your profile icon at the top bar.
 2. Choose the**Sign out** option.  
 ![Sign Out option in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-out-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 3. Next, restart the Microsoft Store, click the profile icon and choose**Sign in.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sign In Option of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-option.jpg)
 4. Select your account and then click the**Continue** option.
 5. Enter your PIN to confirm your identity.
@@ -49,10 +55,12 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 2. In the search bar, type**Region settings** and choose**Open** from the right pane.  
 ![Region Settings option in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/region-settings-1.jpg)
 3. Click the drop-down icon next to**Country and region** and choose your country name from the list.  
-![Choose Region in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choose-region.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Choose Region in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choose-region.jpg)
 
  That's it. You might need to restart your computer (see[how to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
 
@@ -67,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 3. Choose**Other troubleshooters.**
 4. Under the**Other** section, click the**Run** button next to the**Windows Store Apps** troubleshooter.  
 ![The Run button for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-run-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, the troubleshooter window will appear and start detecting problems. If it finds any, it will automatically fix it without much user input.
@@ -86,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Now open the Microsoft Store and check if you are still facing the problem. If yes, then try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 5\. Reset the SoftwareDistribution Folder
 
  Corruption in the SoftwareDistribution folder can also be a reason behind the error message. You'll have to reset this folder to remove the corruption.
@@ -122,13 +128,15 @@ Net Start cryptsvc`
 3. Click the**Set up** button.
 4. Disable the toggle under the**Use a proxy server** option.  
 ![Use a Proxy Server option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-a-proxy-server-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair and Reset the Microsoft Store
 
  Windows offer Repair and Reset troubleshooting options for most of the built-in applications. The Repair option repairs the broken and corrupt files of the app. In contrast, the Reset option deletes all the app's data.
@@ -140,40 +148,22 @@ To use these troubleshooting options, follow the below instructions:
 3. Choose**Advanced options.**
 4. Click the**Repair.**  
 ![MS Store Repair Option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ms-store-repair-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will now start repairing the Microsoft Store. After the process is complete, you'll see a checkmark next to the repair option.
 
  Now, launch the Microsoft store and check if the problem continues. If yes, then click**Reset** present under the Repair option.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the "Page Could Not Be Loaded" Error in the Windows Store
 
  It's very common to face issues in the Microsoft Store. Fortunately, most of these issues can easily be resolved by applying some simple fixes. If you see the "Page could not be loaded" error message, you can fix it using the above solutions.
 
  However, if none of the solutions was helpful, consider resetting your computer to factory defaults.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +172,23 @@ To use these troubleshooting options, follow the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-picks-top-6-fb-lite-extractors/"><u>[New] 2024 Approved Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-minimum-requirement-violations-with-intel-hardware-corrections/"><u>Combatting Minimum Requirement Violations with Intel Hardware Corrections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-powerful-programs-for-efficient-screen-grabbing-without-windows/"><u>Five Powerful Programs for Efficient Screen Grabbing Without Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frustrating-103003-glitch-in-battlegrounds-of-arma-a-complete-walkthrough/"><u>Fixing the Frustrating 103003 Glitch in Battlegrounds of Arma - A Complete Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016424304-getting-your-modern-warfare-voice-chat-up-and-running-again-solutions-inside/"><u>Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-activating-pdf-scanning-feature-in-your-windows-based-printer-techsolutions-by-yl/"><u>Guide: Activating PDF Scanning Feature in Your Windows-Based Printer - TechSolutions by YL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-microsofts-decision-to-dismiss-windows-7-and-81/"><u>Implications of Microsoft's Decision to Dismiss Windows 7 and 8.1</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>In 2024, Invisible Interviewer's Guide Stealthy iOS & Android Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-google-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Google FRP Without Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes-for-2024/"><u>Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpiece-magic-creating-artwork-on-win-1011/"><u>Masterpiece Magic: Creating Artwork on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-directdraw-a-path-to-flawless-performance-in-win1011/"><u>Mastery over DirectDraw: A Path to Flawless Performance in WIN10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-how-to-identify-your-motherboard-model-effortlessly/"><u>Quick Guide: How to Identify Your Motherboard Model Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redistributing-qbittorrent-from-one-machine-to-another-windows/"><u>Redistributing qBittorrent: From One Machine to Another Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Reno 10 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-persistent-pin-failures-in-windows-os/"><u>Strategies to Overcome Persistent PIN Failures in Windows OS</u></a></li>
+</ul></div>
 

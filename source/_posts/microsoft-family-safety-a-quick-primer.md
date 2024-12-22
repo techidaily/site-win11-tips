@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Family Safety: A Quick Primer"
-date: 2024-08-16T02:47:26.144Z
-updated: 2024-08-17T02:47:26.144Z
+date: 2024-12-20T16:19:44.393Z
+updated: 2024-12-21T17:10:10.859Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Content Filters
 
  The first feature of Microsoft's Family Safety, if not the most important one, is Content Filters. As its name suggests, Content Filter blocks inappropriate and user-specified content, thereby limiting your kid's access to websites, apps, games, etc., with the help of a customized filter.
@@ -43,8 +47,9 @@ Here's how you can set up one through Content Filters:
 * If you like, you can also toggle on the**Only use allowed websites** feature to provide access to specific websites. In this case, simply mention all the 'allowed' websites in the**Allowed sites** section below, and you will be good.
 
 ![content filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/content-filters.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can access your account through the Family Setup app on your smartphone. Here's how:
@@ -72,14 +77,15 @@ Here's how you can enable Screen Time:
 
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perhaps a little menacing for those of us conscious of cybersecurity, the**Find Your Family** app will help you keep tabs on the live location of your family members, provided they are all using Microsoft products. While this feature can have drawbacks of its own, Find Your Family will certainly give a sense of certainty to its users.
 
@@ -99,9 +105,6 @@ Firstly, make sure you have checked all your location permissions:
 
  That's it; do this, and location sharing will be turned on your Family Safety account from here on.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Activity Reporting
 
  With Activity Reporting enabled on your PC, you get direct access to your family's device usage. Basically, how they use it, what they're spending their time most on, and for how long—Activity Reporting gives you all of this information in a single place. Again, you have two ways to go about this: through the website, or via the Family Safety app.
@@ -119,8 +122,9 @@ Firstly, make sure you have checked all your location permissions:
 * Click on**Settings** and toggle on the**Activity reporting** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Spending
 
  Do your family members splurge your money on vanity purchases? While buying a few things here and there is not a big deal, however, if your kids are used to spending money online irresponsibly, a more restricted approach to spending might be more suited.
@@ -151,27 +155,22 @@ Here's how you can add money to your account:
  You'll end up in the**Family Notebook** section of your OneNote as soon as you do this. From there, you will be taken straight to the Introduction page of your Family Notebook, as shown on the image below.
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Learning All About Microsoft Family Safety
 
  Family Safety is Microsoft's attempt to help you take back control of how your family enjoys or uses different Microsoft products. With a little effort and understanding, you, too, can limit how you or your family members interact with the internet through their Microsoft products, and use technology in a more healthy, efficient manner.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +179,18 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-vocal-innovation-at-your-fingertips-with-pubg-hacks/"><u>[New] Vocal Innovation at Your Fingertips with PUBG Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-skyboxes-to-studio-walls-top-9-drone-software-showdowns/"><u>[Updated] From Skyboxes to Studio Walls Top 9 Drone Software Showdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-fix-for-audacious-crashes-the-9999-window-issue/"><u>Crafting a Fix for Audacious Crashes: The 9999 Window Issue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-impactful-video-campaigns-for-startups/"><u>Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-the-dxgierrordevicehunk-issue/"><u>Guide to Overcoming the DXGI_ERROR_DEVICE_HUNK Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-amdnvidia-ui-features/"><u>Guide to Switch Off AMD/Nvidia UI Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-speech-recognition-made-simple-whisper-method/"><u>Real-Time Speech Recognition Made Simple - Whisper Method</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/into-worlds-youtubes-premier-selection-of-vr-movies/"><u>Step Into Worlds YouTube's Premier Selection of VR Movies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-quicken-vimeo-videos/"><u>Strategies to Quicken Vimeo Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-textbook-script-troubles-a-quick-guide-for-windows/"><u>Tackling Textbook Script Troubles: A Quick Guide for Windows</u></a></li>
+</ul></div>
 

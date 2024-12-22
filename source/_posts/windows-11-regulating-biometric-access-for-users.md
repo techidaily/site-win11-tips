@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Regulating Biometric Access for Users"
-date: 2024-12-08T17:11:36.162Z
-updated: 2024-12-12T17:53:51.314Z
+date: 2024-12-14T22:34:55.103Z
+updated: 2024-12-22T00:23:35.708Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Allow or Block a Biometrics Log-On via the Local Group Policy Editor
@@ -40,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 4. Double-click on the **Allow domain users to log on using biometrics** policy in the right pane.  
 ![Allow domain users to log on using biometrics policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-domain-users-to-log-on-using-biometrics-policy.jpg)
 5. Choose the **Enabled** option to allow biometrics log on for the domain users. And choose the **Disabled** option to block biometrics log on for the domain users.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable option in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-option.png)
 6. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Allow or Block a Biometrics Log-On Using the Registry Editor
@@ -66,15 +67,15 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![Naming the Value Domain Accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/domain-accounts.jpg)
 5. Double-click on the Domain Accounts value, type **1** in the **Value data** section to enable biometrics log on and **0** to disable biometrics log on for domain users.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Editing the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/value-data.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control Biometrics Logins on Your Computer
@@ -83,25 +84,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-infographic-index-youtubes-surprising-stat-treasury-2017/"><u>[New] In 2024, The Infographic Index YouTube's Surprising Stat Treasury (2017)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>[Updated] In 2024, Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-9-platforms-for-unparalleled-gamers-joy/"><u>[Updated] Top 9 Platforms for Unparalleled Gamers' Joy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/augmenting-learning-with-vr-for-2024/"><u>Augmenting Learning with VR for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-background-computation-load/"><u>Cutting Down Background Computation Load</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guaranteed-compatibility-simple-way-to-get-wacom-intuos-pro-driver-for-windows-11-installed/"><u>Guaranteed Compatibility: Simple Way to Get Wacom Intuos Pro Driver for Windows 11 Installed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-retrieve-your-files-a-step-by-step-guide-on-restoring-a-mistakenly-formatted-disk/"><u>How to Retrieve Your Files: A Step-by-Step Guide on Restoring a Mistakenly Formatted Disk</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Phone with Broken Screen</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-your-iphone-unlock-code-easy-ways-to-reset-and-secure-your-phone-again/"><u>Lost Your iPhone Unlock Code? Easy Ways to Reset and Secure Your Phone Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-troubleshooting-uncovering-and-resolving-error-codes-via-command-prompt/"><u>Mastering PC Troubleshooting: Uncovering & Resolving Error Codes via Command Prompt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-gaming-potential-tackling-fps-challenges-in-valorant/"><u>Maximize Gaming Potential: Tackling FPS Challenges in Valorant</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-sleep-how-to-schedule-idle-time-out-on-windows-11/"><u>Secure Sleep: How to Schedule Idle Time-Out on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-0xc0000005-problem-in-windows/"><u>Strategies to Resolve 0Xc0000005 Problem in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-windows-11-error/"><u>Understanding and Overcoming Windows 11 Error</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -109,3 +91,19 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-save-instastories-infinite-the-liberation-app/"><u>[New] Save InstaStories Infinite The Liberation App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-handy-tips-downloading-youtube-like-content-via-android/"><u>[Updated] In 2024, Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-your-first-step-to-successful-streaming/"><u>[Updated] Your First Step to Successful Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-getting-back-to-basics-in-windows/"><u>Essential Tips: Getting Back to Basics in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-the-dxgierrordevicehunk-issue/"><u>Guide to Overcoming the DXGI_ERROR_DEVICE_HUNK Issue</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>In 2024, The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/may-17th-new-york-times-crossword-solutions-unveiling-clues-341/"><u>May 17Th New York Times Crossword Solutions - Unveiling Clues #341</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-typing-excellence-with-typingaid/"><u>Rapid Typing Excellence with TypingAid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-textbook-script-troubles-a-quick-guide-for-windows/"><u>Tackling Textbook Script Troubles: A Quick Guide for Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-magic-turning-batch-files-into-winexe/"><u>Unleash the Magic: Turning Batch Files Into WinEXE</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revive Lost Apps: Reactivating the Microsoft Store (Windows 11)"
-date: 2024-12-09T00:00:02.064Z
-updated: 2024-12-12T17:22:16.662Z
+date: 2024-12-17T19:22:37.233Z
+updated: 2024-12-22T06:25:27.673Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Re-Register Microsoft Store Apps for Current Users
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the[Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
@@ -51,7 +51,7 @@ To re-register Microsoft Store apps for the current user:
  During the process, you may see some errors highlighted in red. It is due to PowerShell trying to reinstall existing apps on Windows. So, ignore the error and wait for the process to complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Re-Register Microsoft Store Apps for All Users
@@ -59,7 +59,7 @@ To re-register Microsoft Store apps for the current user:
 ![re register microsoft store apps all users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-microsoft-store-apps-all-users.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to re-register the built-in Windows apps for all users, you’ll need to tweak the above PowerShell cmdlet a little to include the -AllUsers parameter. This would allow the cmdlet to search through all user accounts on the system and install and re-register the Microsoft Store apps.
@@ -70,7 +70,7 @@ To re-register Microsoft Store apps for the current user:
 3. This process may take some time to complete depending on the number of apps that require re-registering and reinstalling.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install and Re-Register All Microsoft Store Apps on Windows 11
@@ -92,22 +92,20 @@ To re-register Microsoft Store apps for the current user:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[New] In 2024, The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-analysis-djis-latest-uav-inspire-1/"><u>[Updated] Extensive Analysis DJI's Latest UAV, Inspire 1</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-how-does-youtube-pay-you/"><u>2024 Approved How Does YouTube Pay You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-gratis-i-file-aiff-in-formato-m4r-online-con-convertitore-audiovideo-movavi/"><u>Cambia Gratis I File AIFF in Formato M4R Online Con Convertitore Audiovideo - Movavi</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/easy-tutorial-on-transforming-tivo-files-into-high-quality-mp4-videos/"><u>Easy Tutorial on Transforming TiVo Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-guide-connecting-your-mac-and-television-with-airplay/"><u>Essential Guide: Connecting Your Mac and Television with AirPlay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-tga-images-into-bmp-format/"><u>Free Online Converter: Transforming TGA Images Into BMP Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-moegenoefening-livestreamen-met-jeldende-videoprogramma-movavi/"><u>Gratis Moegenoefening Livestreamen Met Jeldende Videoprogramma - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-swf-filament-naar-format-m4v-omzetten-leergids-van-movavi-online/"><u>Gratuit SWF-Filament Naar Format M4V Omzetten: Leergids Van Movavi Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>In 2024, Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v30-lite-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V30 Lite 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/komt-een-kostenlose-conversie-aan-ogg-adres-met-movavi-voor-online-activiteiten-afvallend-au-inlevering-gratis/"><u>Komt Een Kostenlose Conversie Aan: OGG-Adres Met Movavi Voor Online Activiteiten, Afvallend .au - Inlevering Gratis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/premier-pro-expertise-for-sound-switchers-for-2024/"><u>Premier Pro Expertise for Sound Switchers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-video-conversion-free-webm-and-mkv-transformers-at-movavis-digital-library/"><u>Streamline Video Conversion: Free Webm and MKV Transformers at Movavi's Digital Library</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-top-9-replacement-editing-software-for-windows-users-seeking-an-alternative-to-final-cut-pro/"><u>The Top 9 Replacement Editing Software for Windows Users Seeking an Alternative to Final Cut Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-votre-contenu-video-mkv-en-audio-mp3-sur-internet-gratuitement-techniques-de-convertisseur-video/"><u>Transformez Votre Contenu Vidéo MKV en Audio MP3 Sur Internet Gratuitement - Techniques De Convertisseur Vidéo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ddressing-missing-image-display-in-youtubes-shorts-for-2024/"><u>[New] Addressing Missing Image Display in YouTubes Shorts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-cross-service-playlist-migration-step-by-step-guide/"><u>[Updated] In 2024, Mastering Cross-Service Playlist Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising/"><u>[Updated] In 2024, Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>[Updated] Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-instagram-presence-with-professional-video-editing-skills/"><u>In 2024, Elevate Instagram Presence with Professional Video Editing Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-dns-cache-cleansing-on-windows-machines/"><u>Mastering Steam DNS Cache Cleansing on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-on-mac-running-windows-11-through-parallels/"><u>Maximizing Productivity on Mac: Running Windows 11 Through Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-performance-perfecting-your-win11-startups/"><u>Proactive Performance: Perfecting Your Win11 Startups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-updating-synaptics-drivers-on-your-pc/"><u>Quick Guide to Downloading and Updating Synaptics Drivers on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-increasing-fps-while-playing-tainted-grail-conquest/"><u>Step-by-Step Guide to Increasing FPS While Playing Tainted Grail: Conquest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-updates-via-explorers-context-menus/"><u>Streamlining System Updates via Explorer's Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-entering-safe-mode-in-windows-11-devices/"><u>The Essentials of Entering Safe Mode in Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-syncing-two-windows-systems-with-aoemi/"><u>The Ultimate Guide to Syncing Two Windows Systems with AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workspace-combining-android-tabs-with-w11-pcs/"><u>Transform Your Workspace: Combining Android Tabs with W11 PCs</u></a></li>
 </ul></div>
 

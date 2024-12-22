@@ -1,7 +1,7 @@
 ---
 title: Remedy for No App Associated Files on Windows
-date: 2024-12-10T02:12:03.041Z
-updated: 2024-12-12T19:29:59.750Z
+date: 2024-12-21T00:39:39.406Z
+updated: 2024-12-21T21:15:17.243Z
 tags:
   - windows10
   - windows11
@@ -34,22 +34,22 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 3. Navigate to the**General** tab and look for the file format next to**Type of file** .  
 ![Check the File Format in Properties Window of File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it's a commonly used file format, such as PDF, JPEG, PNG, Docx, etc., for which you have the appropriate app installed, move on directly to heading #2\. However, if you see an unusual file format here—something you haven't seen before, make sure you have the appropriate app installed.
 
  To confirm this, right-click the file and navigate to**Open with > Choose another app** .
 
 ![Click on Choose Another App by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have a relevant app installed, Windows will suggest you select it to open the file. If you don't see any app suggestions here, you probably don't have any apps installed capable of opening this file type.
 
 ![Windows Suggesting Some Apps to Open the Image File in PNG Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-suggesting-some-apps-to-open-the-image-file-in-png-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If that's the case, simply go to any of your browsers, search for Windows apps that can run files in that format, and download them. After downloading the appropriate app, make it the default for opening this file type.
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -92,15 +96,7 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Restart your device once after that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -110,7 +106,7 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're opening a folder by searching it in Windows Search or Quick Access, consider opening it directly from File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Apps or Games? Try These Tips
@@ -120,6 +116,10 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're using a shortcut to open games, especially the ones installed in a gaming client, open them from the gaming client or the installation directory.
 * In case the game launcher requires you to log in before playing any of the installed games, ensure you do so.
 * If you're experiencing this error in a specific game or app, ensure its files haven't been corrupted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Open Your Apps, Files, and Folders Again on Windows
 
@@ -140,20 +140,22 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effective-screenrecording-practices-for-professionals-for-2024/"><u>[New] Effective ScreenRecording Practices for Professionals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analisi-completa-di-apowersoft-screen-recorder-dettagli-sul-funzionamento-costi-e-piu-informazioni/"><u>Analisi Completa Di Apowersoft Screen Recorder - Dettagli Sul Funzionamento, Costi E Più Informazioni</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cele-mai-populari-convertitorii-de-video-gratuti-mkv-in-mp4-format-compatibile-cu-windows-si-mac-treiste-o-vizibilitate-mai-mare/"><u>Cele Mai Populari Convertitorii De Video Gratuți, MKV in MP4 Format, Compatibile Cu Windows Și Mac - Treiște O Vizibilitate Mai Mare!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-transition-from-mpg-to-m4v-get-started-here-for-free/"><u>Effortlessly Transition From MPG to M4V - Get Started Here for Free!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-flac-files-into-m4a-format-with-ease-movavi/"><u>Free Online Converter: Transform FLAC Files Into M4A Format with Ease - Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-baldurs-gate-3-pc-instability-issues-successfully/"><u>How to Fix Baldur's Gate 3 PC Instability Issues Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-open-an-avi-file-a-comprehensive-guide/"><u>How To Identify and Open an AVI File: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-asus-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Asus FRP</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-elevating-windows-10-photos-visuals-through-personalized-filtersmusic/"><u>In 2024, Elevating Windows 10 Photos Visuals Through Personalized Filters/Music</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introduction-to-mandarin-scripting/"><u>Introduction to Mandarin Scripting</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kindleoasis-2019-comprehensive-review-for-a-paper-quality-reading-experience/"><u>KindleOasis (2019) Comprehensive Review for a Paper-Quality Reading Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloze-omzetting-van-rmvb-naar-wmv-online-efficient-met-movavi/"><u>Kostenloze Omzetting Van RMVB Naar WMV Online - Efficiënt Met Movavi</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-are-there-better-alternatives-to-magix-samplitude-for-professional-sound-design/"><u>New In 2024, Are There Better Alternatives to MAGIX Samplitude for Professional Sound Design?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-three-asian-languages-quick-sort-and-keep-track/"><u>Top Three Asian Languages: Quick Sort & Keep Track</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-tu-archivo-aif-a-formato-de-audio-m4a-sin-coste-alguno-con-el-servicio-online-de-convertidor-de-archivos/"><u>Transforma Tu Archivo AIF a Formato De Audio M4A Sin Coste Alguno Con El Servicio Online De Convertidor De Archivos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-photos-removing-backdrops-with-ease/"><u>[Updated] Transform Your Photos Removing Backdrops with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acknowledge-feedback-provide-feedback-to-the-speaker-to-confirm-your-understanding-of-what-they-said/"><u>Acknowledge Feedback Provide Feedback to the Speaker to Confirm Your Understanding of What They Said</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-out-windows-a-guide-to-auto-delete-files-and-folders/"><u>Clear Out Windows: A Guide to Auto-Delete Files and Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-access-for-admin-tasks-on-pc/"><u>Command Prompt Access for Admin Tasks on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-professional-landscape-with-4k-and-beyond-the-benq-bl2711u-story-for-2024/"><u>Exploring the Professional Landscape with 4K and Beyond - The BenQ BL2711U Story for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-within.techidaily.com/impact-de-la-reinstallation-windows-sur-les-donnees-sauvegardees-est-ce-certain/"><u>Impact De La Réinstallation Windows Sur Les Données Sauvegardées - Est-Ce Certain ?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-perks-for-your-gopro-camera/"><u>In 2024, Premier Perks for Your GoPro Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovating-interfaces-cleansing-and-configuring-windows-11-programs/"><u>Innovating Interfaces: Cleansing and Configuring Windows 11 Programs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-insta-story-focus-zooming-in-and-out-techniques-for-2024/"><u>Mastering Insta Story Focus Zooming In & Out Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-drive-letters-in-windows-causes-and-resolutions/"><u>No Drive Letters in Windows: Causes & Resolutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-multi-modal-captures-how-to-use-snipping-tools-audio-feature-max-156/"><u>Perfecting Multi-Modal Captures: How to Use Snipping Tool's Audio Feature (Max 156)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-guide-for-troubleshooting-and-resolving-i2c-interface-device-drivers/"><u>Quick Fix Guide for Troubleshooting and Resolving I2C Interface Device Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-self-shutdown-issues-win11-techniques/"><u>Solve Self-Shutdown Issues: Win11 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mastering-bluescreenview/"><u>Step-by-Step Guide to Mastering BlueScreenView</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-reviving-your-external-hard-drive-with-command-prompt-on-windows-11/"><u>Step-by-Step Guide: Reviving Your External Hard Drive with Command Prompt on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-volume-mixer-a-step-by-step-guide/"><u>Windows 11 Volume Mixer: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

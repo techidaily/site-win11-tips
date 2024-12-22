@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Troubleshoot Keyboard Shortcuts on Windows 11"
-date: 2024-12-06T23:28:45.632Z
-updated: 2024-12-12T23:47:35.090Z
+date: 2024-12-16T16:09:31.866Z
+updated: 2024-12-21T23:25:14.849Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  Then, try to use one of the Function keys.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 1. Disconnect and reconnect the keyboard.
 2. For a Bluetooth keyboard, remove the battery, wait a few minutes, and reconnect it.
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Filter Keys
@@ -96,14 +96,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  In the Start menu search bar, search for **services** and select **Run as administrator**. Then, double-click on the **Human Interface Device** service. Set **Startup type** to **Manual** and click **Apply > OK** to save the new system changes.
 
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, restart your computer and check if the problem is now fixed.
 
@@ -123,26 +123,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-your-content-leading-twitter-video-tools/"><u>[New] 2024 Approved Elevate Your Content Leading Twitter Video Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[New] 2024 Approved Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[New] 2024 Approved The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-direct-download-dojo-become-a-master-of-ifunny-jokes/"><u>[New] Direct Download Dojo Become a Master of iFunny Jokes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-the-art-of-recording-macs-roblox-sessions-for-2024/"><u>[New] Mastering the Art of Recording Mac's Roblox Sessions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dark-art-of-night-photography-best-practices-revealed/"><u>2024 Approved The Dark Art of Night Photography Best Practices Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-thrifty-windows-mastery-of-keys-and-savings/"><u>Essential Guide to Thrifty Windows: Mastery of Keys and Savings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-sticky-notes-not-syncing-on-windows-11/"><u>How to Fix Your Sticky Notes Not Syncing on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-your-xbox-controller-back-on-track/"><u>How to Get Your Xbox Controller Back on Track</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-animation-solutions-with-advanced-3d-modellers-for-2024/"><u>Innovative Animation Solutions with Advanced 3D Modellers for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/life-without-the-social-network-a-data-tale/"><u>Life without The Social Network: A Data Tale</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/perfect-your-clips-step-by-step-youtube-editing-tips/"><u>Perfect Your Clips Step-by-Step YouTube Editing Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-skills-faster-with-these-top-8-study-tips-on-a-windowed-pc/"><u>Sharpen Skills Faster with These Top 8 Study Tips on a Windowed PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-reset-strategies-unveiling-windows-8-secrets/"><u>System Reset Strategies: Unveiling Windows' 8 Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-timed-lock-screen-issue-in-windows/"><u>Troubleshooting Non-Timed Lock Screen Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011-a-complete-guide-to-overcoming-error-code-0x800704b3/"><u>Win10/11: A Complete Guide to Overcoming Error Code 0X800704B3</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +130,21 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-highlights-of-excellence-top-15-unboxing-youtubers-for-the-year-2024/"><u>[New] Highlights of Excellence Top 15 Unboxing Youtubers for the Year, 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-6-premier-nft-services-boosting-artist-imagination/"><u>[New] In 2024, Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturecraft-elite-precision-for-windowsmac-snaps/"><u>[Updated] 2024 Approved CaptureCraft Elite Precision for Windows/Mac Snaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-synapse-stalling-windows-fixes-unveiled/"><u>Conquering Synapse Stalling: Windows Fixes Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defining-system-safety-through-cooling-settings/"><u>Defining System Safety Through Cooling Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-printer-driver-mp560-fast-and-simple-guide/"><u>Download and Install Canon Printer Driver MP560 - Fast & Simple Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-efficiently-compressing-mkv-videos-with-minimal-loss-of-visual-fidelity/"><u>Guide to Efficiently Compressing MKV Videos with Minimal Loss of Visual Fidelity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences-for-2024/"><u>Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-voice-over-narration-on-microsofts-document-editor/"><u>Restoring Voice Over Narration on Microsoft's Document Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-pc-six-ways-to-boot-safe-mode-in-windows-11/"><u>Secure Your PC: Six Ways to Boot Safe Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-features-windows-toolbars-unseen-options/"><u>Sneaky Features: Windows Toolbars' Unseen Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-customizable-desktop-context-in-modern-os/"><u>The Key to Customizable Desktop Context in Modern OS</u></a></li>
+</ul></div>
+

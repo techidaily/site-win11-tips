@@ -1,7 +1,7 @@
 ---
 title: "Stop Autonomous Restarts: Win11 Strategy"
-date: 2024-08-16T02:45:15.887Z
-updated: 2024-08-17T02:45:15.887Z
+date: 2024-12-18T03:30:57.052Z
+updated: 2024-12-22T09:19:46.741Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,12 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 ![Update Windows 11 to the latest version available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -45,24 +46,19 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 6. Click **Next** to run the troubleshooter.
 
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scan Your System for Malware
 
  If the shutdown box constantly popping up isn’t the only issue you’re dealing with, you might be dealing with a malware infestation.
@@ -76,8 +72,9 @@ No advertising on the website.
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Start Windows in Safe Mode
 
  When [starting Windows in Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/), your system starts with a set of basic programs and drivers. This way, you can determine if a third-party app is the one causing the shutdown box to open by itself.
@@ -85,10 +82,9 @@ No advertising on the website.
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the Windows Shutdown Box Appearing By Itself
 
  Having the shutdown box constantly open by itself can be really annoying as it keeps interrupting your work. Hopefully, one or more of the above fixes helped you fix the issue.
@@ -97,11 +93,30 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-buy-list-selecting-the-premier-video-cards-for-youtube/"><u>[Updated] 2024 Approved Best Buy List Selecting the Premier Video Cards for YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enjoy-your-content-youtube-shorts-are-shown-again-for-2024/"><u>[Updated] Enjoy Your Content – YouTube Shorts Are Shown Again for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-instant-screener-chromeos-edition/"><u>2024 Approved Instant Screener ChromeOS Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-solutions-for-curing-100-drive-saturation-in-windows-11-computers/"><u>Comprehensive Solutions for Curing 100% Drive Saturation in Windows 11 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-control-over-windows-clock-with-custom-time-region-setup/"><u>Enhancing Control Over Windows Clock with Custom Time Region Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-customizing-device-settings-in-windows-11/"><u>Essential Steps for Customizing Device Settings in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859732-9780972749367-exploring-the-mindful-way/"><u>Exploring the Mindful Way | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/minecraft-masterpieces-creative-buildings-guide/"><u>Minecraft Masterpieces Creative Buildings Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029433966-mp4/"><u>MP4動画や音声に特化した編集ソフト＆アプリ選びのガイドランキング【最新】</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-overcoming-nvidia-control-panel-failures/"><u>Navigating and Overcoming Nvidia Control Panel Failures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pioneer-bdr-xs06-blu-ray-burner-a-thorough-review-focusing-on-its-convenience-and-efficiency/"><u>Pioneer BDR-XS06 Blu-Ray Burner: A Thorough Review Focusing on Its Convenience & Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-app-fails-addressing-windows-unhandled-exception/"><u>Preventing App Fails: Addressing Windows Unhandled Exception</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactive-fixes-for-dormant-windows-headset-microphone/"><u>Reactive Fixes for Dormant Windows Headset Microphone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-ftdi-adapter-glitches/"><u>Tackle FTDI Adapter Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooter-restoration-tactics-for-windows-11-users/"><u>Troubleshooter Restoration Tactics for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/virtualization-mastery-windows-host-to-linux-guest-with-hyper-v/"><u>Virtualization Mastery: Windows Host to Linux Guest with Hyper-V</u></a></li>
+</ul></div>
+

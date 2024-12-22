@@ -1,7 +1,7 @@
 ---
 title: "Efficient Disk Utilization: The Defrag Technique in Win11"
-date: 2024-12-11T19:17:38.087Z
-updated: 2024-12-12T20:59:51.644Z
+date: 2024-12-16T09:33:15.523Z
+updated: 2024-12-21T16:03:25.302Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With the Optimize Drives App
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 5. Press the**Analyze drives** button. Then the utility will display a fragmentation percentage in the**Current Status** column.  
 ![The Optimize Drives window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/optimize-drives-window.jpg)
 6. Select the**Optimize** option to defrag the drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How much you need to defrag a drive depends on the fragmentation percentage figure shown in the**Current Status** column. If that’s less than the four percent mark, defragmentation isn’t particularly necessary and won’t make much difference. However, it’s worth defragging a drive with more than 10 percent fragmentation.
 
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
@@ -101,16 +105,12 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 ![The Action menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-action-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I Defrag a Solid-State Drive?
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
  Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enhance Your PC’s HDD Efficiency in Windows 11
@@ -142,22 +142,14 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] 2024 Approved Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-ways-to-increase-audience-retention-on-youtube-filmora/"><u>[New] 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>[Updated] In 2024, From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726027045701-avidemux/"><u>Avidemux 用ビデオからオーディオを分離・抽出する手順</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/enhance-your-site-visits-using-the-power-of-cookiebot-platforms/"><u>Enhance Your Site Visits Using the Power of Cookiebot Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-sekiros-sudden-shutdown-problems-fast-and-simple-methods/"><u>Fix Sekiro's Sudden Shutdown Problems Fast and Simple Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-determining-windows-app-storage-addresses/"><u>Guide to Determining Windows App Storage Addresses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-losing-windows-11-taskbar-chat-affect-you/"><u>How Does Losing Windows 11 Taskbar Chat Affect You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-boost-your-typing-speed-with-typingaid/"><u>How to Boost Your Typing Speed With TypingAid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-memory-not-recorded-problems/"><u>How to Overcome Windows Memory Not Recorded Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-gionee-f3-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Gionee F3 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-block-how-to-fix-ms-pc-manager-woes/"><u>Installation Block: How to Fix MS PC Manager Woes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-sound-effects-for-fcp-a-beginners-guide-to-elevating-your-video-editing-game/"><u>New 2024 Approved Free Sound Effects for FCP A Beginners Guide to Elevating Your Video Editing Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0x0000004e-fault-in-windows-10-and-11/"><u>Overcoming 0X0000004E Fault in Windows 10 & 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-privacy-understanding-the-risks-of-using-chatgpts-tailored-models/"><u>Protecting Your Privacy: Understanding the Risks of Using ChatGPT’s Tailored Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-missing-sections-of-navigation-view/"><u>Remedying Missing Sections of Navigation View</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win11s-power-efficient-user-and-group-control/"><u>Unlocking Win11's Power: Efficient User and Group Control</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-art-of-matching-fpv-drones-with-ideal-blades-for-2024/"><u>[New] The Art of Matching FPV Drones with Ideal Blades for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-easeus-reviewed-a-world-of-technology/"><u>[Updated] 2024 Approved EaseUS Reviewed A World of Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sony-s6700-updated-summary-unpacked/"><u>[Updated] Sony S6700 Updated Summary Unpacked</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visionary-video-setups-a-filmmakers-guide-to-brilliance/"><u>[Updated] Visionary Video Setups A Filmmaker's Guide to Brilliance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-lacking-procreate-discover-top-6-alternatives-for-your-digital-art-needs/"><u>Android Lacking Procreate? Discover Top 6 Alternatives for Your Digital Art Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-excel-file-view-in-windows-notepad/"><u>Quick Guide: Excel File View in Windows Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-conquer-unforeseen-system-alerts/"><u>Strategies to Conquer Unforeseen System Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/studio-2-unveiled-near-perfect-creative-tool-by-microsoft/"><u>Studio 2 Unveiled: Near-Perfect Creative Tool by Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-sticky-notes-a-users-blueprint/"><u>Windows 11'S Sticky Notes: A User's Blueprint</u></a></li>
 </ul></div>
 

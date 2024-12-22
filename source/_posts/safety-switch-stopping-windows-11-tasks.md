@@ -1,7 +1,7 @@
 ---
 title: "Safety Switch: Stopping Windows 11 Tasks"
-date: 2024-08-16T02:47:39.178Z
-updated: 2024-08-17T02:47:39.178Z
+date: 2024-12-15T20:55:08.624Z
+updated: 2024-12-21T21:17:38.555Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 ![windows 11-shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-11-shutdown.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you do this your computer will be turned off.
 
 ## 2\. How to Shut Down Windows 11 With Your PC's Power Button
@@ -50,27 +54,12 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
  Once done, go to **Power Options > Choose what the power buttons do > When I press the power button** and ensure this is set to "Shut down."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 3\. Use the Alt + F4 Shortcut to Shut Down Windows 11
 
  Don’t like to follow the long-winded method and procedures? We don’t either. Thankfully, someone at Microsoft understood this as well.
 
  First, hit **the Windows Key + D** to go to your computer's desktop. Then, press the **Alt + F4** keys together, and the shutdown menu will pop up in front of your screen. Select the shutdown option from the dropdown menu and hit **Enter**. Your Windows 11 computer will now turn off without any hassles.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use Windows 11's Power Menu
 
  Another straightforward method, apart from the ones we’ve already covered above, is to use the [Power Menu](https://www.makeuseof.com/windows-power-menu-guide/).
@@ -78,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  The Power Menu, also called the power user menu, is the central hub for all important features of Windows computers. To shut down your Windows 11 from Power Menu, **right-click** on the Start menu, select the **Shut down or sign out** option, and then click **Shutdown**.
 
 ![windows shutdown from power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-shutdown-from-power-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  As soon as you select shut down, your Windows 11 will turn off.
 
@@ -95,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  Your Windows 11 will shut down a few seconds after this.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Use CTRL + Alt + Delete to Shut Down Your Windows 11 PC
 
  Another shortcut on our list, you can also try the **Ctrl + Alt + Delete** shortcut to turn off your PC; it's one of the many [shortcuts to shut down or put your PC to sleep](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/).
@@ -104,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  First, press the keys together to open the options screen. From there, click on the **Power** button in the lower-right corner, and then click on the **Shut down** option. Your PC will shut down normally, just as in other methods.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Turn Off Your Windows 11 With PowerShell
 
  You can think of PowerShell as a more complex version of Cmd. While the Command prompt gives you a nice command line interface, with PowerShell you can manage and carry out a host of administrative commands.
@@ -118,8 +106,13 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 ![powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Use the Run Dialog Box
 
  Another alternate way to shut down your Windows 11 is through the Run dialog box. Follow the below steps:
@@ -142,11 +135,27 @@ shutdown /s /f /t 0
 
  So let’s go over all the ways to shut down Windows 11, from the familiar to the new.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-through-beginners-guide-on-telegram-promotions/"><u>[New] 2024 Approved Navigating Through Beginner’s Guide on Telegram Promotions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-premier-hexacopters-showcase-in-10/"><u>[Updated] In 2024, Premier Hexacopters Showcase in 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-choices-for-professional-gopro-video-editing-for-2024/"><u>[Updated] Top Choices for Professional GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
+<li><a href="https://discover-community.techidaily.com/evaluating-scanner-power-problems-at-yl-software-solutions/"><u>Evaluating Scanner Power Problems at YL Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-problems-of-your-malfunctioning-paradox-game-launcher/"><u>Fixing the Problems of Your Malfunctioning Paradox Game Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-nvidia-geforce-experience-error-in-windows-11-and-11/"><u>How to Fix the “Unable to Connect to NVIDIA” GeForce Experience Error in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-resource-alerts-customizing-taskbar-for-resource-monitoring/"><u>Master Resource Alerts: Customizing Taskbar for Resource Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-windows-startup-fault-with-winscomrssvdll/"><u>Strategies for Correcting Windows Startup Fault with WinscomrssvDll</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-to-address-gpeditmsc-absence/"><u>Troubleshooting Steps to Address Gpedit.msc Absence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-trigger-system-restore-on-windows-11-os/"><u>Unveiling Techniques to Trigger System Restore on Windows 11 OS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-step-by-step-process-to-fuse-several-audio-tracks-into-one-cohesive-piece/"><u>Updated In 2024, Step-by-Step Process to Fuse Several Audio Tracks Into One Cohesive Piece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-component-services-easily/"><u>Windows 11: Accessing Component Services Easily</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of System Recovery for Broken Windows Registry
-date: 2024-08-16T02:48:38.736Z
-updated: 2024-08-17T02:48:38.736Z
+date: 2024-12-18T21:53:09.283Z
+updated: 2024-12-21T19:24:07.072Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 
  However, the Windows Registry isn’t impervious to errors. These errors can arise due to malware infestations, unexpected power failures, and corrupt or outdated entries.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Broken Registry Items in Windows 11
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
@@ -43,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 2. Disk Cleanup tool will launch. Select the**C drive** and click on the**OK** button.
 3. Navigate down and click on the**Clean up system files** button.  
 ![Run Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-disk-cleanup-tool-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
@@ -62,6 +55,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -73,9 +70,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Patiently wait for the utility to scan and replace files on your system.
 5. **Close** the command prompt window and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Try a DISM Scan
 
  DISM is also a command line tool, but it can scan and repair Windows System Image files. The utility can work in both online and offline modes. Repeat the following steps to run a DISM scan:
@@ -83,15 +77,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press**Win + S** to launch Windows search. Search for**CMD** , and select the**Run as administrator** option from the right pane.
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 3. Wait for the tools to scan and repair the problems with the system image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Finally,**close** the command prompt and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of[creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -102,11 +99,13 @@ Here’s how you can import an old backup in Windows Registry:
 2. Go to the top bar in the Registry Editor window and click on**File > Import** .  
 ![Importing old registry backup in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/importing-old-registry-backup-in-windows-11.jpg)
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
-4. Wait for a few minutes for the import to complete.**Restart** your system.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Wait for a few minutes for the import to complete.**Restart** your system.
+
 ### 6\. Check for Malware on Your System
 
  Malware can create and modify the registry items, and can even break or corrupt existing registry entries. You must perform a thorough scan of your Windows computer using Windows defender.
@@ -130,32 +129,32 @@ Repeat the following steps to perform a system restore:
 3. You will see a list of all the available restore points created by program installations or Windows updates.
 4. **Select** the most recent restore point from the list and then click on the**Scan for affected programs** button. Note down these programs or take a screenshot because you will have to reinstall them again.  
 ![Restore Windows 11 to an old but working state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restore-windows-11-to-an-old-but-working-state.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 5. Click on the**Close** button. In the System Restore window click on the**Next** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Keep Your Registry Safe From Corruption
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +163,26 @@ Repeat the following steps to perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-adventurers-anthology-the-finest-10-affordable-mmos/"><u>[New] Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-engaging-in-the-moment-of-a-tiktok-life/"><u>[Updated] Engaging in the Moment of a TikTok Life</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-depth-analysis-the-vida-video-editor-experience/"><u>[Updated] In-Depth Analysis The Vida Video Editor Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quantity-of-videos-on-128gb-storage-media/"><u>[Updated] Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[Updated] Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-entertaining-entrances-tales-that-resonate/"><u>2024 Approved Entertaining Entrances Tales That Resonate</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dynamic-typography-adding-layers-to-your-illustration/"><u>Dynamic Typography Adding Layers to Your Illustration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-precautionary-measures-on-windows-11-upgrade/"><u>Essential Precautionary Measures on Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exit-the-sharpness-of-windows-high-contrast-mode/"><u>Exit the Sharpness of Windows' High Contrast Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-reimagined-the-power-of-artificial-intelligence/"><u>Gaming Reimagined: The Power of Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-itunes-operation-in-windows-environment/"><u>Guide to Restoring iTunes Operation in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-permission-blocked-error-in-winsys/"><u>How to Circumvent 'Permission Blocked' Error in WinSys</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972975975-latest-mpow-bluetooth-drivers-for-windows-get-your-download-here/"><u>Latest MPOW Bluetooth Drivers for Windows: Get Your Download Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-calc-spotlight-within-windows/"><u>Maintaining Calc Spotlight Within Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-swf-files-on-a-mac-top-players-and-tutorials/"><u>Mastering SWF Files on a Mac: Top Players and Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-internet-preferences-on-win11/"><u>Modifying Internet Preferences on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-fatal-javascript-error-in-windows-11s-discord/"><u>Navigating Through The Fatal JavaScript Error in Windows 11'S Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-tech-through-artificial-intelligence/"><u>Transforming Windows Tech Through Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-tackling-unexpected-wins-alerts/"><u>Understanding and Tackling Unexpected WINS Alerts</u></a></li>
+</ul></div>
 

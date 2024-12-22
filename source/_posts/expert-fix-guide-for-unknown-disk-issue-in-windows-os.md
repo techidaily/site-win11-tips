@@ -1,7 +1,7 @@
 ---
 title: Expert Fix Guide for 'Unknown Disk' Issue in Windows OS
-date: 2024-08-16T02:47:44.200Z
-updated: 2024-08-17T02:47:44.200Z
+date: 2024-12-20T02:16:50.356Z
+updated: 2024-12-22T02:18:10.487Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,18 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![Close-up picture of a Laptop’s USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pexels-castorly-stock-4065705.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A faulty USB port can also prevent your system from detecting the hard drive, resulting in the issue under discussion. Hence, it's imperative to ensure that the USB port is functioning correctly. To confirm that, just swap ports, i.e., plug the external drive into a different port than where it was connected before.
 
  If the external drive starts working immediately after switching ports, the port it was connected to earlier is either incompatible with your drive or has a problem. Thus, you should either keep using the other USB port or apply the fixes covered in our guide on [how to fix USB port issues on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) to make the faulty port work again.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Scan and Resolve Hard Drive Issues
 
  If there is no connection issue and your USB port is functioning correctly, you should scan and fix file system issues with your hard drive. Windows offers a utility named CHKDSK, which assesses the file system structure, addresses file name linkage issues, and looks for bad clusters, among other operations. Usually, running this utility fixes hard drive problems.
@@ -55,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  Ensure you enter the correct drive letter for the scan to work.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update the Disk Drive Drivers
 
  Having outdated drivers can also disrupt the normal functioning of your disk drive, making it impossible for it to initialize. To ensure that's not the cause of the issue, you should update the disk drive drivers. Here are the steps you need to take:
@@ -66,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 2. Expand the **Disk drives** category.
 3. Right-click on your desired drive and click **Update driver**.  
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
 
@@ -76,14 +82,8 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 3. Once installed, search for **"MiniTool Partition Wizard"** in Windows Search, and then run the app.
 4. Right-click on the problematic disk and select **Initialize to MBR Disk**. Then, click **Apply**.  
 ![Click on Initialize to MBR Disk in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-initialize-to-mbr-disk-in-the-minitool-partition-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click on the disk again, and then click **Rebuild MBR**. Then, click **Apply** once more.  
 ![Click on Rebuild MBR in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-rebuild-mbr-in-the-minitool-partition-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 6. Right-click the disk again and select **Create**. Then, click **OK**.
 
 ## 6\. Format the Disk and Create a New Partition
@@ -96,21 +96,23 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 4. Depending on which drive you are having problems with, type **"Disk 0"** or **"Disk 1"** and hit **Enter**.
 5. Once the disk is selected, type **"clean"** and press **Enter** to format it.  
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 9. Lastly, type **"assign"** and hit **Enter** to assign the drive letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the external drive presenting the error under discussion contains essential data, you shouldn't format it, as you'll lose data this way. Before taking this route, keep that in mind.
 
  Some [data recovery tools](https://www.makeuseof.com/best-data-recovery-software/) allow you to recover deleted files from formatted drives. If you need to format your external hard drive containing important data as a last resort, you can use these tools to retrieve your deleted data. However, they may not work in every situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bring Your Disk Drive Back to Life
 
@@ -120,11 +122,28 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  If you want to resolve this issue and successfully load the data, here are a few fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-stories-a-step-by-step-polling-guide/"><u>[New] Mastering Instagram Stories A Step-by-Step Polling Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/5-best-hd-hunting-recorders-reviewed/"><u>5 Best HD Hunting Recorders Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-best-ms-store-picks/"><u>Enhance Your PC: Best MS Store Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-inserting-wordpad-keys-to-the-windows-11-menu-bar/"><u>Enhancing Productivity: Inserting WordPad Keys to the Windows 11 Menu Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-non-playable-media-error-0xc10100bf/"><u>How to Resolve Non-Playable Media Error 0XC10100BF</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-gt-10-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix GT 10 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-remote-storage-access-dropbox-and-google-drive-by-drives/"><u>Integrating Remote Storage: Access Dropbox & Google Drive by Drives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-11-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 11 5GFRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-resilience-overcoming-chatgpt-login-hurdles/"><u>Mastering Resilience: Overcoming ChatGPT Login Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-high-resource-drain-from-unrealcefsubprocess/"><u>Mitigating Windows' High Resource Drain From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-fraudulent-bingpt-crypto-before-its-too-late/"><u>Spotting Fraudulent BinGPT Crypto Before It's Too Late</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-exclusive-zero-cost-visual-frames/"><u>Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-techniques-for-capturing-virtual-reality-gaming-for-2024/"><u>Top Techniques for Capturing Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-originality-resetting-personalized-search-on-windows-11/"><u>Winning Back Originality: Resetting Personalized Search on Windows 11</u></a></li>
+</ul></div>
+

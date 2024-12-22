@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Full Potential of Your PowerPoint Slides: Fixing Their Prints on Windows"
-date: 2024-08-16T02:45:49.224Z
-updated: 2024-08-17T02:45:49.224Z
+date: 2024-12-20T05:20:38.478Z
+updated: 2024-12-21T17:28:45.631Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  We’ll go through some easy fixes that should get Microsoft PowerPoint to print correctly on your Windows 10 or 11 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Configure the Print Options in PowerPoint
 
  Like other Office apps, Microsoft PowerPoint offers a number of options for customizing the printing process. For example, you can use these options to configure PowerPoint to print inserted objects, such as Excel charts or Word documents, at the printer's resolution.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  After you have configured the above options in PowerPoint, your prints should come out as you intended.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Modify Print Layout
 
  The Print dialog in Microsoft PowerPoint provides you with a variety of options for getting the desired print output. You must go through these options and ensure that they are set up appropriately.
@@ -46,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  Open your PowerPoint presentation and press **Ctrl + P** to access the Print dialog. Select your preferred print layout. For instance, if you are looking to [print your presentation with notes](https://www.makeuseof.com/tag/add-print-powerpoint-speaker-notes/), you will need to select the **Notes Pages** layout. Additionally, if your printed PowerPoint slides are cut off, select the **Scale to Fit Paper** option.
 
 ![Print Layout in PowerPoint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/print-layout-in-powerpoint.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After selecting your preferred options, print a test page and see if PowerPoint prints correctly.
 
@@ -79,15 +84,13 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 6. Clear all the checkboxes to disable add-ins.
 7. Click **OK**.  
 ![Disable Add-ins in PowerPoint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-add-ins-in-powerpoint.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart PowerPoint after completing the above steps, and then enable your add-ins one at a time. You will need to print a test slide after enabling each add-in until the issue occurs again. Once you find the faulty add-in, consider removing it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair Your PowerPoint File
 
  If the PowerPoint is failing to print only in a specific presentation, it may be corrupted. You can use the built-in file repair option in PowerPoint to fix the presentation. To do so, use these steps:
@@ -96,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 2. Locate and select your PowerPoint file.
 3. Click the downward arrow next to **Open** to select **Open and Repair**.  
 ![Repair PowerPoint File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/repair-powerpoint-file-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PowerPoint will open the presentation after repairing it. After that, you should be able to print it without any issues.
 
@@ -110,15 +117,13 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 3. Select **Other troubleshooters**.
 4. Click the **Run** button next to the **Printer**.  
 ![Run Printer Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-printer-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  Wait for the troubleshooter to do its thing and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Update Microsoft PowerPoint
 
  It’s possible that printing issues in Microsoft PowerPoint are because you are using an outdated version of the program. Hence, it’s a good idea to ensure that you are using the most recent version of PowerPoint, especially if you have [turned off automatic updates for Office apps](https://www.makeuseof.com/windows-stop-automatic-office-updates/).
@@ -126,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  In PowerPoint, head to **File > Account > Update Options** and select **Update Now** to install pending updates.
 
 ![Update PowerPoint on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-powerpoint-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run the Office Repair Tool
 
@@ -144,17 +146,9 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  Wait for the process to complete and then check if the issue still occurs.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Fix Issues With Your Printer
 
  If the above solutions do not work, the problem may be with your printer rather than PowerPoint. To resolve the issue, you can try the following tips:
@@ -162,16 +156,11 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 * **Update the Printer Driver:** Outdated or corrupt printer drivers can cause printing problems in PowerPoint. Go ahead and [update the outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your printer and see if that helps.
 * **Remove and Reinstall the Printer:** Another thing you can do is [remove your printer](https://www.makeuseof.com/windows-remove-printer/) from Windows and set it up from scratch. This should help resolve any issues caused by improper setup or misconfigured settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No More Printing Problems in PowerPoint for Windows
 
  It can be frustrating when PowerPoint does not print correctly, especially when you are short on time. Hopefully, one or more of the above suggestions have helped you resolve the issue and Microsoft PowerPoint is now printing correctly on your Windows computer.
 
  We’ll go through some easy fixes that should get Microsoft PowerPoint to print correctly on your Windows 10 or 11 computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -179,3 +168,27 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instas-music-guide-essentials-for-2024/"><u>[New] Insta's Music Guide Essentials for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-synapse-stalling-windows-fixes-unveiled/"><u>Conquering Synapse Stalling: Windows Fixes Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-de-avi-a-mjpeg-sin-problemas-como-usar-herramientas-en-linea-gratis-como-movavi/"><u>Conversión De AVI a MJPEG Sin Problemas: Cómo Usar Herramientas en Línea Gratis Como Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defining-system-safety-through-cooling-settings/"><u>Defining System Safety Through Cooling Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-ffmpeg-unaltered-audio-extraction/"><u>Delving Into FFmpeg Unaltered Audio Extraction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-troubleshoot-keyboard-shortcuts-on-windows-11/"><u>Fixed: Troubleshoot Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fusing-iphones-audio-and-visuals-together/"><u>In 2024, Fusing iPhones' Audio and Visuals Together</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-nettools-with-these-steps/"><u>Master Your Windows NetTools With These Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/masterpiece-moments-iphone-plus-androids-best-ig-covers-for-2024/"><u>Masterpiece Moments IPhone + Android's Best IG Covers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-world-of-chat-ai-a-closer-look-at-how-chatgpt-sets-new-standards-for-interaction/"><u>Navigating the World of Chat AI: A Closer Look at How ChatGPT Sets New Standards for Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/order-your-exclusive-pre-release-of-the-apple-watch-series-10-today-secrets-revealed-plus-money-saving-tips/"><u>Order Your Exclusive Pre-Release of the Apple Watch Series 10 Today: Secrets Revealed + Money-Saving Tips!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unopened-share-glitch-in-nvidias-tool/"><u>Overcoming Unopened Share Glitch in NVIDIA's Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-voice-over-narration-on-microsofts-document-editor/"><u>Restoring Voice Over Narration on Microsoft's Document Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-pc-six-ways-to-boot-safe-mode-in-windows-11/"><u>Secure Your PC: Six Ways to Boot Safe Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-features-windows-toolbars-unseen-options/"><u>Sneaky Features: Windows Toolbars' Unseen Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-customizable-desktop-context-in-modern-os/"><u>The Key to Customizable Desktop Context in Modern OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-top-5-hits-where-to-get-royalty-evading-laugh-tracks-online/"><u>Updated The Top 5 Hits Where to Get Royalty-Evading Laugh Tracks Online</u></a></li>
+</ul></div>
+

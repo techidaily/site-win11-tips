@@ -1,7 +1,7 @@
 ---
 title: Decoding Windows 11'S Visual Customization - 10 Key Methods
-date: 2024-12-10T21:33:19.872Z
-updated: 2024-12-13T01:21:42.309Z
+date: 2024-12-19T00:31:15.292Z
+updated: 2024-12-22T03:09:54.060Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,16 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using the Start Menu
 
  The Start menu is the easiest and most widely used method to access any application. You can even search for applications and files directly from the Start menu. Here’s how:
 
 1. Press the **Win** key to launch the Start menu.
 2. Type **Display settings** and click on the **Open** option in the right pane to go to the Display settings section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Using the Desktop Context Menu
 
@@ -45,11 +45,7 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 ![Open Display Settings Desktop Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-desktop-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Windows Search
@@ -59,6 +55,14 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 1. Press **Win + S** to [launch Windows Search](https://www.makeuseof.com/windows-search-use-guide/).
 2. Type **Display settings** in the search bar. Press **Enter** to launch the Display settings section within the settings app.  
 ![Open Display Settings Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-windows-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
 
@@ -76,6 +80,14 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 2. Go to the right pane in the Settings app and click on the **Display** option.  
 ![Open Display Settings Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Using the Task Manager
 
  It is possible to launch the Settings app and its subsections using the Task Manager. Windows 11 Task Manager can now search for processes using both the name and PID. So, you can use the Run new task feature to launch display settings. Repeat the following steps:
@@ -85,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 3. Click on the **OK** button to launch the Display settings window.  
 ![Open Display Settings Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Using the Command Prompt
 
  If you prefer the terminal route for opening files and folder locations, you can open the display settings without exiting the Command Prompt. Here’s how to do it:
@@ -96,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 1. Press **Win + R** to launch the Run dialog box. Type **CMD** and press the Enter key to launch the command prompt. No need to run the Command Prompt with administrator privileges.
 2. Type the **start ms-settings:display** command in the terminal and press the **Enter** key to launch the **Display** section in the Settings app.  
 ![Open Display Settings Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-using-cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Using the PowerShell
 
@@ -109,14 +113,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 2. The Terminal app will open the PowerShell in a new tab by default. Type **start-process ms-settings:display** command in the Terminal and press **Enter** key.  
 ![Open Display Settings Using Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-using-powershell.jpg)
 3. The display settings page will launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
 
@@ -140,32 +136,15 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 ![Open Display Settings Using keyboard shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-display-settings-using-keyboard-shortcut.jpg)
 4. Click on the **Apply** button and then click on the **OK** button. Close the Properties window. Try out the shortcut key combination to test it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tweak Your Display Settings Easily on Windows
 
  Managing multiple monitors, and adjusting refresh rates and resolutions is impossible without the dedicated Display settings section. Older Windows versions had different-looking display settings windows which significantly changed in Windows 11\. If you want the fastest way to launch the display settings, create a shortcut as described above and map a shortcut key to it.
 
  The revamped Settings app in Windows 11 offers more options in the Display section; namely HDR, refresh rate adjustment, and Night Light. Apart from the usual Settings app route, there are multiple methods to open the Settings app on Windows 11\. Curious? Let’s begin.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-in-the-world-of-online-product-evaluation-channels/"><u>[New] Getting Started in the World of Online Product Evaluation Channels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-rising-from-the-crowd-post-vidcon-video-events/"><u>[New] In 2024, Rising From the Crowd Post-VidCon Video Events</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-article-hook-maker/"><u>[Updated] Pinnacle Article Hook Maker</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-video-tweeting-on-phones-avoid-retweets/"><u>Direct Video Tweeting on Phones - Avoid Retweets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-update-tutorial-for-intel-hd-graphics-5500-chip-drivers/"><u>Easy Update Tutorial for Intel HD Graphics 5500 Chip Drivers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-video-quality-from-youtube-to-crisp-avis-format/"><u>Elevate Video Quality From YouTube to Crisp Avis Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-through-win-settings-unearthing-group-policies/"><u>Journey Through Win Settings: Unearthing Group Policies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-java-rapid-android-studio-compilation-in-windows/"><u>Jumpstart Java: Rapid Android Studio Compilation in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992743536-lost-in-battle-for-azeroth-or-stuck-on-overwatch-rebooting-your-way-back-into-the-game-servers/"><u>Lost in Battle for Azeroth or Stuck on Overwatch? Rebooting Your Way Back Into the Game Servers!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-a-unique-win11-screener-display/"><u>Setting Up a Unique Win11 Screener Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-windows-task-movements/"><u>Techniques to Halt Windows Task Movements</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-gamers-pc-build-on-a-dime-maximizing-power-with-an-rtx-4070-and-2tb-storage-score-your-piece-this-prime-day/"><u>The Ultimate Gamers' PC Build on a Dime: Maximizing Power with an RTX 4070 & 2TB Storage - Score Your Piece This Prime Day</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tick-tock-troubles-in-wintime-calibrate-now/"><u>Tick-Tock Troubles in WinTime? Calibrate Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-taskbar-issues-in-windows-11/"><u>Troubleshooting Taskbar Issues in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-running-slow-identify-the-issues-and-rectify-them/"><u>Why Is My iPhone Running Slow? Identify the Issues & Rectify Them!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-users-create-a-self-hosted-free-chatgpt-copy-with-gpt4all/"><u>Windows Users, Create a Self-Hosted Free ChatGPT Copy with GPT4All</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +153,21 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-accessories-for-travel-footage-production-for-2024/"><u>[Updated] Accessories for Travel Footage Production for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-your-visual-narrative-top-10-iphoneandroid-screenshot-sticker-apps/"><u>[Updated] Craft Your Visual Narrative – Top 10 iPhone/Android Screenshot Sticker Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-the-gap-with-quantum-hdr-knowledge/"><u>2024 Approved Bridging the Gap with Quantum HDR Knowledge</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comment-construire-un-concept-dimage-de-systeme-sur-votre-appareil/"><u>Comment Construire Un Concept D'Image De Système Sur Votre Appareil ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-checks-and-balances-before-system-reset/"><u>Essential Checks and Balances Before System Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-fn-key-customizations-for-pcs-w10-and-w11/"><u>Masterful Fn Key Customizations for PCs, W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-sound-quality-with-dolby-atmos-for-windows/"><u>Maximize Sound Quality with Dolby Atmos for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-audio-conversion-mastery-unleashing-whisper/"><u>Real-Time Audio Conversion Mastery: Unleashing Whisper</u></a></li>
+<li><a href="https://article-helps.techidaily.com/record-and-upload-speeches-to-powerpoint/"><u>Record and Upload Speeches to PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-network-connections-in-windows-10/"><u>Reestablishing Network Connections in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inconsistent-colors-on-windows-devices/"><u>Resolving Inconsistent Colors on Windows Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-for-transcribing-and-converting-video-tweets-into-audio-files-mp3/"><u>Secrets for Transcribing & Converting Video Tweets Into Audio Files (MP3)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-to-safeguard-your-email-address-in-public-records/"><u>The Ultimate Strategy to Safeguard Your Email Address in Public Records</u></a></li>
+</ul></div>
+

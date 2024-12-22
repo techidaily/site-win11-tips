@@ -1,7 +1,7 @@
 ---
 title: Mastering Quick FIXES to Common Windows 11 Problems
-date: 2024-08-16T02:46:34.631Z
-updated: 2024-08-17T02:46:34.631Z
+date: 2024-12-18T22:47:32.414Z
+updated: 2024-12-22T04:15:46.406Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ Follow these steps to uninstall the printer:
 
 After the printer is uninstalled, try updating your system again.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 2\. BSOD After Installing the Update
 
  After installing the update, you might also encounter a blue or black screen of death. Typically, these issues are caused by the outdated drivers on the system but can be caused by other reasons as well.
@@ -56,12 +53,13 @@ Once you are in Safe Mode, follow these steps to update the drivers:
 ![Update driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapters-update-driver.jpg)
 4. Now, click on**Search automatically for drivers** to let the utility search the system for an updated version.  
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then, follow the on-screen instructions to install the driver.
 
  If a corrupt or outdated driver is not the cause of the problem, then you can[check the BSOD log files in the Event Viewer](https://www.makeuseof.com/windows-bsod-log-file-location/) to determine the cause of the problem and implement solutions accordingly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Networking Issues in the System
 
@@ -73,16 +71,26 @@ Here is how you can run the Network troubleshooter:
 2. Navigate to**System** \>**Troubleshoot** \>**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 3. Now, look for the Network Adapter troubleshooter and click on the**Run** button for it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run the network adapter troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/network-adapter-run.jpg)
 4. Wait for the troubleshooter to scan the system for errors, then check the result. In case the troubleshooter has identified errors, it will suggest fixes for them. Click on**Apply this fix** to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If not, click on the**Close the troubleshooter** button.
 
  If running the Network troubleshooter did not resolve the issue, you can proceed with[resetting the network settings](https://www.makeuseof.com/reset-network-settings-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Sound Not Working
 
  If the Windows 22H2 update affected your system sound, the first thing that you should do is run the Audio troubleshooter. Simply access the**Other troubleshooters** menu by following the steps described above and run the Audio troubleshooter from there.
@@ -95,21 +103,21 @@ Here is how you can do that:
 2. Type control in the text field of the dialog box and click Enter.
 3. Now, click on**Uninstall a program** under the Programs section of the Control Panel.  
 ![Uninstall a program option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-a-program.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Choose**View installed updates** from the left pane.  
-![View installed updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/view-installed-updates.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![View installed updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/view-installed-updates.jpg)
 5. Next, locate the targeted update and right-click on it.
 6. Choose**Uninstall** from the context menu.  
 ![Uninstall an update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-an-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Follow the on-screen instructions to complete the uninstallation process and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Slow System Performance
 
@@ -124,9 +132,6 @@ Follow these steps to proceed:
 ![Access the Advanced options of the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-app.jpg)
 5. Navigate to the Background apps permissions section and choose**Never** .  
 ![Dont allow the app to run in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/background-app-permission.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perform the same steps for the apps that you think might be causing the issue, and then check if doing so improves the system's overall speed. You can also check out the other[ways to make Windows faster and improve its performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
 
@@ -136,14 +141,11 @@ Follow these steps to proceed:
 
  If you feel that the 22H2 version is quite problematic as of now, then we recommend you wait for Microsoft to launch the official fixes. 'Til then, you can stay on the 21H2 version or roll back to Windows 10.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +154,22 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-reverse-video-on-instagram-for-2024/"><u>[New] How to Reverse Video on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>[New] Top Picks 7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-seamless-sound-transfer-top-10-youtube-to-mp3-picks-for-2024/"><u>[Updated] Seamless Sound Transfer Top 10 YouTube to Mp3 Picks for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instasoul-unleash-your-essence-through-100-dynamic-captions/"><u>2024 Approved InstaSoul Unleash Your Essence Through 100 Dynamic Captions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-overriding-windows-account-prompts/"><u>Effortless Entry: Overriding Windows Account Prompts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-12plus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 12+ 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-service-failed-for-virtual-disk-support/"><u>How to Fix Service Failed for Virtual Disk Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-win-back-your-deleted-documents-on-windows/"><u>How to Win Back Your Deleted Documents on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-it-time-for-a-smarter-more-secure-operating-system/"><u>Is It Time for a Smarter, More Secure Operating System?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-techniques-for-troubleshooting-and-fixing-application-crashes/"><u>Master Techniques for Troubleshooting and Fixing Application Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-heic-images-to-jpeg-format-in-windows-11/"><u>Optimizing HEIC Images to JPEG Format in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-family-with-microsofts-safety-features/"><u>Protect Your Family with Microsoft's Safety Features</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-adjusting-date-and-time-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210520310-9781788179126-the-mercury-retrograde-book/"><u>The Mercury Retrograde Book | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-to-successful-worldwide-links-on-windows-mc/"><u>Unlocking Secrets to Successful Worldwide Links on Windows MC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Correcting Dual Application Configuration Error
-date: 2024-12-08T02:27:54.009Z
-updated: 2024-12-12T17:10:44.496Z
+date: 2024-12-15T19:25:10.020Z
+updated: 2024-12-22T01:02:23.838Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reinstall Microsoft Visual C++ Packages
@@ -40,17 +40,13 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -65,7 +61,7 @@ To run the SFC scan on your computer:
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-SFC-Scan-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the scan to complete and then run the DISM (or Deployment Image Servicing and Management) scan by entering the following command:
@@ -84,10 +80,6 @@ To run the SFC scan on your computer:
 4. Follow the on-screen prompts to run the troubleshooter and see if the error occurs again.  
 ![Program Compatibility Troubleshooter Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatibility-Troubleshooter-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Repair the Problematic App
 
  If the Windows troubleshooter fails to find any problems, you can try repairing the problematic app on Windows. Here's how to do it.
@@ -98,10 +90,6 @@ To run the SFC scan on your computer:
 4. Scroll down to locate the problematic app on the list. Click the**three-dot menu icon** next to it and select**Advanced options** .
 5. Scroll down to the Reset section and click on**Repair** .  
 ![Repair App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-App-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should see a right checkmark next to the Repair button once the process is complete.
 
@@ -116,13 +104,25 @@ To run the SFC scan on your computer:
 3. Select**Uninstall** again to confirm.  
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
 
  If your computer is infected with malware, you may encounter such errors when launching apps and programs. To check for this possibility, you can run a full system scan of your PC with Windows Defender. You can also use one of the[best third-party antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) for this.
 
  If the scan uncovers anything suspicious, take the recommended steps to fix the issue and reboot your PC after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -168,19 +168,24 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unleash-creativity-building-a-memorable-podcast-logo/"><u>[Updated] 2024 Approved Unleash Creativity Building a Memorable Podcast Logo</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>[Updated] In 2024, Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[Updated] In 2024, How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>2024 Approved Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3gp-flv-movavi/"><u>変換器で3GP FLVフォーマットを自由にオンラインで変更する - Movaviの専用ツール</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-de-conversor-de-video-online-gratuito-do-movavi-versao-para-arquivos-m1v/"><u>Download De Conversor De Vídeo Online Gratuito Do Movavi - Versão Para Arquivos M1V</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/evaluating-camstudios-latest-screen-recording-features-for-2024/"><u>Evaluating CamStudio's Latest Screen Recording Features for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-modificar-la-tasa-de-bits-en-audios-convertidor-mp3/"><u>Guía Paso a Paso: Modificar La Tasa De Bits en Audios - Convertidor MP3</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-xs-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone XS Max Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-obss-virtual-cameras-a-complete-walkthrough-for-content-creators/"><u>Mastering OBS's Virtual Cameras : A Complete Walkthrough for Content Creators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-conversion-de-fichiers-jpeg-avec-movavi-services-complets-et-efficaces/"><u>Online Gratuite Conversion De Fichiers Jpeg Avec Movavi - Services Complets Et Efficaces</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pro-tips-for-free-fast-effective-tv-show-recording/"><u>Pro Tips for FREE, Fast, Effective TV Show Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ts-avi-avi-movavi/"><u>TS-AVI로 원형 이미지를 바꾸기: 인터넷으로 무료 AVI 변환 도구 - Movavi</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-common-causes-of-intermittent-internet-disconnections-a-guide-by-yl-computing-and-yl-software/"><u>Understanding Common Causes of Intermittent Internet Disconnections: A Guide by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-guide-selecting-top-ranked-free-srt-translation-tools/"><u>[New] In 2024, Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716070048390-updated-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[Updated] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-your-creativity-seamless-video-scaling-techniques-on-a-mac/"><u>[Updated] 2024 Approved Unleash Your Creativity Seamless Video Scaling Techniques on a Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>[Updated] In 2024, A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-guide-camstudio-recording-tool/"><u>[Updated] In 2024, Comprehensive Guide CamStudio Recording Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-l2690dw-printer-software-latest-drivers-and-updates/"><u>Download Brother L2690dw Printer Software: Latest Drivers and Updates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-recording-tips-capturing-every-moment-of-discord-streaming/"><u>Essential Recording Tips Capturing Every Moment of Discord Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-missing-camera-device-manager-hurdle/"><u>Fix Missing Camera: Device Manager Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-bluetooth-pairing-failures-on-windows-11-os/"><u>Fixing Bluetooth Pairing Failures on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-silent-microphone-feedback-with-obs-w11-edition/"><u>Fixing Silent Microphone Feedback with OBS, W11 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-x-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone X Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-5-lite-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic 5 Lite?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-iphone-email-apps-reviewed-our-selections/"><u>Leading iPhone Email Apps Reviewed: Our Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-navigators-using-c-for-cloud-storage-access/"><u>Mastering Network Navigators: Using C: For Cloud Storage ACCESS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-chatter-re-enable-microsoft-microphone-for-google-meet/"><u>No Chatter? Re-Enable Microsoft Microphone for Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-silent-microsoft-outlook-push-issues/"><u>Overcoming Silent Microsoft Outlook Push Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-professional-print-quality-from-powerpoint-in-windows-os/"><u>Securing Professional Print Quality From PowerPoint in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-post-discord-update-issues-for-windows-users/"><u>Tackling Post-Discord Update Issues for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-terminal-customization-setting-and-changing-default/"><u>Windows Terminal Customization: Setting & Changing Default</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Swiftly Disable Windows 11 Notification System
-date: 2024-12-09T16:18:13.583Z
-updated: 2024-12-12T20:27:23.387Z
+date: 2024-12-19T01:09:04.184Z
+updated: 2024-12-22T01:32:51.114Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications When They Pop Up
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  All Microsoft Store applications will stop. Likewise, if it's another app, you will no longer get any notifications from it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Maybe you miss turning off a notification when it appears. But this notification banner will show up in the Notification Center. So open the Notification Center by pressing**Win + N** keys together or clicking on the date and time in the taskbar.
@@ -51,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 5. Click on this**three-dots menu** and select**Turn off all notifications for Snipping Tool** , as you see in the screenshot below, or for any other app sending notifications.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn Off All Notifications Option in Notification Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-off-all-notifications.jpg)
 
  To clear all notifications from the Notification Center, click the**Clear all** button at the top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off All Notifications at Once
 
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 ![Notifications Selected in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-notifications-in-settings-1.jpg)
 3. Turn off the**Notifications toggle** at the top of the**Notifications** page.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Notifications Toggle Turned Off in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-notifications-toggle-off-1.jpg)
 
  Now you will not have any notifications pop up on the screen to distract you. You can also stop all notifications for a temporary amount of time by[enabling Do Not Disturb mode on Windows](https://www.makeuseof.com/windows-11-do-not-disturb-mode/) .
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
  Or you can choose to[explore the notification settings and customize notifications](https://www.makeuseof.com/windows-11-customize-notifications/) to your liking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Work Uninterrupted on Windows Without Notifications
@@ -100,14 +100,18 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-premium-minecraft-channel-graphics/"><u>[New] In 2024, Get Premium Minecraft Channel Graphics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-action-packed-snapshots-of-x-snow-2022/"><u>[Updated] Action-Packed Snapshots of X-Snow 2022</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/hassle-free-steps-to-transform-avi-videos-into-dvd-format-compatible-with-all-dvd-players/"><u>Hassle-Free Steps to Transform AVI Videos Into DVD Format Compatible with All DVD Players</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhancing-communication-on-google-meet-step-by-step/"><u>In 2024, Enhancing Communication on Google Meet [Step-by-Step]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-your-system-up-to-date-for-windows-11-installation/"><u>Is Your System up to Date for Windows 11 Installation?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-downloading-and-updating-konica-minolta-printer-drivers-simple-instructions/"><u>Step-by-Step: Downloading & Updating Konica Minolta Printer Drivers [Simple Instructions]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-five-data-usage-practices-in-win11/"><u>Understanding Five Data Usage Practices in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-customization-in-win11-layouts/"><u>Unleash the Power of Customization in Win11 Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-win-access-fixing-epic-launcher-login-gaps/"><u>Unlocking Win Access: Fixing Epic Launcher Login Gaps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-instagrams-video-landscape-a-detailed-look-for-2024/"><u>[New] Navigating Instagram's Video Landscape A Detailed Look for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-explore-our-updated-top-10-best-fb-video-extractors-for-android-users/"><u>[Updated] Explore Our Updated Top 10 Best FB Video Extractors for Android Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-strategies-efficiently-saving-rocket-league-matches-for-2024/"><u>[Updated] Top Strategies Efficiently Saving Rocket League Matches for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-image-save-fail-in-win11s-camera-function/"><u>Dealing with Image Save Fail in Win11's Camera Function</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/free-downloads-available-educational-treehouse-video-collection/"><u>Free Downloads Available! Educational Treehouse Video Collection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-f5-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco F5 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-text-effects-in-adobe-after-effects/"><u>Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshots-print-screen-or-snip-and-sketch/"><u>Navigating Windows Screenshots: Print Screen or Snip and Sketch?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-paths-to-transform-your-win11-layout/"><u>Three Paths to Transform Your Win11 Layout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-keyboard-techniques-for-faster-input-on-windows-pcs/"><u>Turbo-Keyboard Techniques for Faster Input on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-full-potential-in-windows-11-boosting-virtual-memory/"><u>Unleashing Full Potential in Windows 11: Boosting Virtual Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-trick-hiding-the-power-command-effortlessly/"><u>Win11 Trick: Hiding the Power Command Effortlessly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Trim Overscan on Windows: Full-Screen Perfection Guide"
-date: 2024-12-07T00:22:28.352Z
-updated: 2024-12-12T21:52:01.739Z
+date: 2024-12-14T19:00:14.362Z
+updated: 2024-12-21T22:19:35.258Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disconnect and Reconnect the Display
 
  Overscanning problems on Windows can arise from a poorly connected [HDMI or DisplayPort](https://www.makeuseof.com/displayport-vs-hdmi/) cable. This can cause the screen image to appear stretched or cut off. Hence, the first thing you should do is disconnect and reconnect the display.
 
  Turn off your monitor or TV and unplug the HDMI or DisplayPort cable. Wait a few seconds, and then plug the cable back in. While you’re at it, ensure that both the cable's connector and the port are clean and free from any visible dust to ensure a secure connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Display Resolution
 
@@ -51,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ![Change Display Resolution in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-display-resolution-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When attempting this fix, some users report having their screen resolution settings appear grayed out. If such is the case for you too, check our guide on [fixing inaccessible screen resolution settings on Windows](https://www.makeuseof.com/windows-inaccessible-screen-resolution-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Display Scale
 
@@ -65,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 3. Click the drop-down menu next to **Scale** to select the **Recommended** value.  
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
 
- After changing the display scale, disconnect and reconnect the display and check if the issue is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After changing the display scale, disconnect and reconnect the display and check if the issue is resolved.
 
 ## 4\. Use the Graphics Control Panel
 
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 7. Click **X** to close the window.  
 ![Fix Overscanning Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-intel-graphics-command-center.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix Overscanning Using the NVIDIA Control Panel
 
 1. Open the **NVIDIA Control Panel** using the search menu.
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 7. Click **OK** and then **Apply**.  
 ![Fix Overscanning Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-nvidia-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix Overscanning via AMD Radeon Settings
 
 1. Right-click on an empty spot on your desktop and select **AMD Radeon Settings** from the context menu.
@@ -110,17 +106,21 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 3. Move the slider next to **HDMI Scaling** to make the display fit the screen.  
 ![Fix Overscanning via AMD Radeon Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-via-amd-radeon-settings.jpg)
 
- Once you make the necessary adjustments using the above steps, the issue should not occur again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you make the necessary adjustments using the above steps, the issue should not occur again.
 
 ## 5\. Adjust Your Monitor’s Display Settings
 
  Most modern monitors include settings that let you customize display parameters like resolution, aspect ratio, scaling, and more. You can access the On-Screen Display (OSD) menu using the physical buttons or a remote.
 
  Look for settings such as "Auto Adjust," "Screen Fit," "1:1," or "Scaling" on the menu. Experiment with different options and see if they help resolve overscanning or overscaling issues on your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run the Display Calibration Tool
 
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 * **Install Windows Updates:** It is possible that the overscanning issue is caused by a buggy Windows build. In such cases, [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) should help resolve the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overcome Overscanning on Windows
@@ -167,26 +167,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
  Fortunately, it’s possible to fix the overscanning or overscaling issues in Windows so that all the content is visible. This guide will walk you through the process.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-your-content-creation-leveraging-vimeo-recorder/"><u>[New] In 2024, Elevating Your Content Creation Leveraging Vimeo Recorder</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-peeling-back-layers-what-hides-beneath-each-snapchat-emoji/"><u>[New] In 2024, Peeling Back Layers What Hides Beneath Each Snapchat Emoji?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-notch-assistance-highest-rated-iphone-ringtone-makers/"><u>[New] In 2024, Top-Notch Assistance Highest Rated iPhone Ringtone Makers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[Updated] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviflacaac/"><u>如何使用MOVAVI將FLAC格式自由轉換成AAC - 線上無縫服務</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pbmpngmovavi/"><u>移動魷魚(PBM)成PNG便攜轉換器：使用Movavi免費網上服務 - 高效變更影像格式</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/archivage-des-films-sur-vhs-une-solution-digitale-passionnelle-chez-movavi/"><u>Archivage Des Films Sur VHS : Une Solution Digitale Passionnelle Chez Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-convertir-votre-oma-en-une-version-en-ligne-gratuite-avec-movavi-les-etapes-cles/"><u>Comment Convertir Votre OMA en Une Version en Ligne Gratuite Avec Movavi : Les Étapes Clés</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/process-extracting-youtube-media-directly-for-2024/"><u>Easy Process Extracting YouTube Media Directly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effektieve-videoclips-verkorte-nieuwaardigheid-experimenteer-met-movavis-sterke-verslenginstrumente/"><u>Effektieve Videoclips Verkorte Nieuwaardigheid | Experimenteer Met Movavi's Sterke Verslenginstrumente</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-note-30-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Note 30 Face Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-video-converter-italiano-per-pc-e-mac-installazione-gratuita-con-codice-attivazione/"><u>Movavi Video Converter Italiano per PC E Mac - Installazione Gratuita Con Codice Attivazione</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-free-dvd-ripper-programs-for-windows-10-and-11-complete-downloads-and-guides/"><u>Top Free DVD Ripper Programs for Windows 10 & 11: Complete Downloads and Guides</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-de-archivos-mpeg-a-aiff-tecnicas-y-consejos-con-movavi/"><u>Transformación Gratuita De Archivos MPEG a AIFF: Técnicas Y Consejos Con Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/uncover-the-secrets-a-six-point-strategy-to-restore-webcam-audio-on-any-computer/"><u>Uncover the Secrets: A Six-Point Strategy to Restore Webcam Audio on Any Computer</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +174,22 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mp4-player-guide-top-selections/"><u>[New] MP4 Player Guide Top Selections</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-through-digital-profit-landscapes/"><u>[New] Navigating Through Digital Profit Landscapes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fixing-glitches-seeing-your-own-face-in-fb-live/"><u>[Updated] Fixing Glitches Seeing Your Own Face in FB Live</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-noisy-disruptor-win1011s-error-0xc00d36b4/"><u>Correcting the Noisy Disruptor: Win10/11's Error 0Xc00d36b4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-for-fast-tracking-startup-repair-functions/"><u>Guide for Fast-Tracking Startup Repair Functions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-windows-11-taskbar-error/"><u>Methods to Rectify Windows 11 Taskbar Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-the-notorious-security-breach-bug-is-now-patched-in-fnaf/"><u>PC Players Rejoice: The Notorious Security Breach Bug Is Now Patched in FNAF!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-integration-of-nvidia-7025-in-win11/"><u>Smooth Integration of Nvidia 7025 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-windows-update-hiccup-x712/"><u>Steps to Address Windows Update Hiccup X712</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools-for-2024/"><u>Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tailored-audio-connector-for-podcasting-pros-for-2024/"><u>Tailored Audio Connector for Podcasting Pros for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-toolbar-tactics-quick-dossier-development-in-win11/"><u>Tailoring Toolbar Tactics: Quick Dossier Development in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/turbo-speed-for-snapchat-newcomers-video-edition/"><u>Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
+</ul></div>
+

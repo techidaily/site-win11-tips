@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Fixing Error 0X8007045D in Win OS
-date: 2024-12-11T23:23:33.138Z
-updated: 2024-12-12T21:55:20.513Z
+date: 2024-12-15T07:56:48.962Z
+updated: 2024-12-22T08:39:18.945Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Main Causes of the Windows 0x8007045d Error?
 
  You'll usually encounter the 0x8007045d error while copying single or multiple files through an external source—usually a USB stick or a CD/DVD drive. Here's how the error can appear, often in a dialog box:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 * Error 0x8007045D: The request could not be performed because of an I/O device error.
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Perform a Windows Update
 
@@ -54,10 +46,14 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're done, check and see if the 0x8007045d error persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
 
@@ -71,15 +67,15 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -97,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
 
@@ -141,24 +141,20 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>[New] 2024 Approved Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-cultivating-excellence-the-top-7-stardew-mods-ranked-7-14/"><u>[New] Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-dual-display-dynamics-video-recorder-rankings-for-2024/"><u>[New] Dual Display Dynamics Video Recorder Rankings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-expert-techniques-for-adding-borders-to-your-instagram-images/"><u>[New] In 2024, Expert Techniques for Adding Borders to Your Instagram Images</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/building-a-strong-foundation-for-advertising-deals-using-famebit-methods/"><u>Building a Strong Foundation for Advertising Deals Using FameBit Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-pc-and-mac-9-superior-traits-for-pcs/"><u>Comparing PC & Mac: 9 Superior Traits for PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/connectivity-made-simple-android-and-windows-shared-files-guide/"><u>Connectivity Made Simple: Android & Windows Shared Files Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-the-windows-default-pdf-handler/"><u>Customizing the Windows Default PDF Handler</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-reels-and-stories-evolution/"><u>Decoding Instagram's Reels and Stories Evolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/global-navigation-simplified-powertoys-peek-and-border-integration/"><u>Global Navigation Simplified - PowerToys' Peek & Border Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-create-a-safely-remove-hardware-dialog-shortcut-in-windows-11/"><u>How to Create a Safely Remove Hardware Dialog Shortcut in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-12-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi 12 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/low-cost-superior-circular-lenses-for-photos-and-videos-for-2024/"><u>Low-Cost, Superior Circular Lenses for Photos & Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-total-windows-screen-capturing-with-these-4-tips/"><u>Mastering the Art of Total Windows Screen Capturing with These 4 Tips.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-defender-disruptions-top-5-restoration-techniques/"><u>Overcoming Defender Disruptions: Top 5 Restoration Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-insights-the-power-and-mobility-of-razers-top-of-the-line-blade-pro-17/"><u>Review Insights: The Power and Mobility of Razer's Top-of-the-Line Blade Pro 17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-repairing-grammarlys-inactive-state/"><u>Tips for Repairing Grammarly's Inactive State</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-best-mac-methods-for-recording-roblox-games-for-2024/"><u>Unveiling Best Mac Methods for Recording Roblox Games for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-tips-to-erase-unwanted-temp-files-quickly/"><u>Windows Tips to Erase Unwanted Temp Files Quickly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-imgur-meme-generator/"><u>[New] 2024 Approved Imgur Meme Generator</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-arsenal-choosing-the-top-7-fps/"><u>[New] Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>[Updated] 2024 Approved Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-future-awaits-elevate-your-fb-chronicles-for-free/"><u>[Updated] 2024 Approved The Future Awaits Elevate Your FB Chronicles for FREE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>2024 Approved Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparative-analysis-exe-versus-msi-file-formats/"><u>Comparative Analysis: Exe Versus Msi File Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solution-for-the-mfplatdll-not-found-error/"><u>Comprehensive Solution for the 'mfplat.dll Not Found' Error</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-professional-insights-for-better-gopro-recording/"><u>In 2024, Professional Insights for Better GoPro Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximizing-iphone-tech-care-utilizing-the-apple-support-tool/"><u>Maximizing iPhone Tech Care - Utilizing the Apple Support Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-misuse-of-windows-11-insider-releases/"><u>Preventing Misuse of Windows 11 Insider Releases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-solving-windows-11-login-problems/"><u>Quick Fix: Solving Windows 11 Login Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-phantom-device-mistake-on-windows-os/"><u>Solving Phantom Device Mistake on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-faster-download-rates-in-the-ms-store/"><u>Strategies for Faster Download Rates in the MS Store</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/trackingcast-synopsis/"><u>TrackingCast Synopsis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-down-cpu-consumption-by-tiworkerexe-tasks/"><u>Trimming Down CPU Consumption by TiWorker.exe Tasks</u></a></li>
 </ul></div>
 

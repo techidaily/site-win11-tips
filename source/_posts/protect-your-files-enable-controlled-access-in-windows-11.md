@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Files: Enable Controlled Access in Windows 11"
-date: 2024-12-08T23:37:58.404Z
-updated: 2024-12-13T01:17:08.122Z
+date: 2024-12-19T20:24:40.264Z
+updated: 2024-12-21T17:41:55.974Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On Controlled Folder Access in Windows Security
 
  The Controlled folder access setting is buried within ransomware protection in the Windows Security app. However, it’s easy to find and turn that option on/off when you know where it is. This is how to turn on the Windows Security’s app Controlled folder access option.
@@ -35,23 +39,15 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 3. Click**Manage ransomware protection** to reach the**Controlled folder access** setting.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Controlled folder access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access.jpg)
 4. Now turn on the**Controlled folder access** option to enable that feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Controlled folder access protects your Documents, Videos, Pictures, and Music user folders when enabled. To view the list of protected user directories, click**Protected folder** . You can add more to the list by clicking the**Add protected folder** button, choosing a directory, and clicking**Select Folder** .
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access With PowerShell
 
@@ -83,15 +79,24 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 2. Then double-click**Configure Controlled folder access** to view that setting’s window.  
 ![The Controlled Folder Access policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-in-group-policy-editor.jpg)
 3. Select the Configure Controlled folder access window’s**Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Block** on the drop-down menu to select the strictest CFA mode. However, you can also select alternative**Audit Mode** ,**Block disk notification only** , and**Audit disk notification only** options for enabling controlled folder access.  
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the Configure Controlled folder access window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
@@ -146,16 +151,8 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![The controlled folder access registry script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-registry-script.jpg)
 4. Next, press**Ctrl** +**Shift** +**S** to view Notepad’s "Save as" window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
@@ -163,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 4. Close the Notepad editor, and double-click the**Turn on Control folder access.reg** file on the desktop.  
 ![The registry script confirmation dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-script-confirmation-dialog.jpg)
 5. Select**Yes** to confirm you trust the script.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
 
@@ -178,7 +179,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 4. Click**Yes** to erase that key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Controlled Folder Access Exceptions
@@ -215,18 +216,19 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space/"><u>[New] 2024 Approved The Viewer Count Chronicles Mastering the Math of Monetizing Moments in YouTube Space</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[New] In 2024, Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-instant-insights-switching-up-your-facebook-profile-coverage-easily-for-2024/"><u>[Updated] Instant Insights Switching Up Your Facebook Profile Coverage Easily for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-top-earning-youtube-star-globally/"><u>[Updated] Top Earning YouTube Star Globally</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/7-key-strategies-for-perfect-macro-video-shooting-for-2024/"><u>7 Key Strategies for Perfect Macro Video Shooting for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/data-extraction-techniques-for-unbooting-laptop-drives/"><u>Data Extraction Techniques for Unbooting Laptop Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-top-12-no-cost-editors-competing-with-lightroom-a-deep-dive-into-movavi-features/"><u>Discover the Top 12 No-Cost Editors Competing with Lightroom: A Deep Dive Into Movavi Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-gif-creation-from-webm-files-at-no-cost-discover-movavis-powerful-tool/"><u>Effortless GIF Creation From WebM Files at No Cost - Discover Movavi's Powerful Tool!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/entendiendo-las-diferencias-entre-formatos-de-archivo-tiff-vs-jpeg-elegir-el-correcto-para-su-proyecto-grafico/"><u>Entendiendo Las Diferencias Entre Formatos De Archivo: TIFF Vs. JPEG, Elegir El Correcto Para Su Proyecto Gráfico.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-voc-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Transform VOC Files Into MP4 Format with Movavi</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-length-and-style-in-your-instagram-videos/"><u>In 2024, Leveraging Length and Style in Your Instagram Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-ts-format-a-guide-to-ts-file-extensions-and-compatibility/"><u>Understanding the TS Format: A Guide to TS File Extensions and Compatibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-icine-donumuz-oyunculuk-sistemleriyle-haftalarak-etkinlestirme-adimlari/"><u>Windows İçine Dönümüz Oyunculuk Sistemleriyle Haftalarak Etkinleştirme Adımları</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leading-edge-fb-video-repository/"><u>[New] 2024 Approved Leading Edge FB Video Repository</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tackling-background-noise-in-virtual-presentations/"><u>[New] In 2024, Tackling Background Noise in Virtual Presentations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-tv-viewing-of-popular-facebook-feeds-for-2024/"><u>[Updated] Instant TV Viewing of Popular Facebook Feeds for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-free-software-for-turning-videos-into-files/"><u>2024 Approved Top Free Software for Turning Videos Into Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-privacy-focused-search-engine-a-closer-look-at-duckduckgos-safety-features/"><u>Exploring the Privacy-Focused Search Engine: A Closer Look at DuckDuckGo's Safety Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-windows-vlc-unreadable-input-error/"><u>How to Correct Windows VLC Unreadable Input Error</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-6s-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 6s to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-monochrome-moments-to-multicolor-movies/"><u>In 2024, From Monochrome Moments to Multicolor Movies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-unveils-windows-11-with-a-smart-taskbar-companion-for-users/"><u>Microsoft Unveils Windows 11 with a Smart Taskbar Companion for Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-torrent-selections-for-streamlined-downloads-on-windows/"><u>Optimal Torrent Selections for Streamlined Downloads on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-amd-ryzen-5-2500u-seamless-guide-to-the-newest-drivers/"><u>Optimize Your AMD Ryzen 5 2500U - Seamless Guide to the Newest Drivers!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-windows-11-search-bar-operability-in-settings-app/"><u>Recovering Windows 11 Search Bar Operability in Settings App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-organization-of-ideas-using-obsidian-tools/"><u>Visual Organization of Ideas Using Obsidian Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zooming-into-the-details-with-team-meetings/"><u>Zooming Into the Details with Team Meetings</u></a></li>
 </ul></div>
 

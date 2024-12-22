@@ -1,7 +1,7 @@
 ---
 title: Launching Driver Verifier on Windows 11
-date: 2024-12-10T00:39:07.538Z
-updated: 2024-12-13T02:29:12.485Z
+date: 2024-12-17T21:04:45.030Z
+updated: 2024-12-21T21:06:50.453Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Opening the Driver Verifier Manager With a Taskbar Search
 
  The easiest way to open Driver Verifier Manager in Windows 11 is to type “verifier” in the Taskbar search and click on the result to start it.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
@@ -55,10 +59,14 @@ To open Driver Verifier Manager using Task Manager, do the following:
 5. Now click**OK** to launch Driver Verifier Manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. When UAC prompts, click**Yes** to grant administrative rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
 
@@ -69,10 +77,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
  A desktop shortcut is a quick and easy way to open and access frequently used programs and files without leaving the desktop. As a result, you will not have to search through multiple menus and folders as you do often.
@@ -82,10 +86,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 1. Right-click on your desktop and select**New > Shortcut** .  
 ![Open Driver Vefifier With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-with-desktop-shortcut.jpg)
 2. Type the below command into the "Create Shortcut" window and click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\WINDOWS\system32\verifier.exe`
 3. Then, type a name for your shortcut (such as "Driver Verifier") and hit**Finish** .
@@ -102,7 +102,7 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
@@ -126,24 +126,24 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>[Updated] In 2024, Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>[Updated] In 2024, Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-subtle-volume-lessening-masterclass-using-lumafusion/"><u>[Updated] Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhance-mobile-viewing-fb-videos-on-android/"><u>2024 Approved Enhance Mobile Viewing FB Videos on Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210065089-9781989838525-bedtime-stories-guided-meditations-for-busy-adults-2-in-1/"><u>Bedtime Stories & Guided Meditations For Busy Adults (2 in 1) | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-embedding-subtitles-directly/"><u>Comprehensive Guide: Mastering the Art of Embedding Subtitles Directly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-de-fichiers-avi-a-format-m4v-sans-frais-faites-le-vous-meme-avec-des-outils-gratuits/"><u>Conversion De Fichiers AVI À Format M4V Sans Frais - Faites-Le Vous-Même Avec Des Outils Gratuits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-computer-hardware-through-toms-expert-reviews/"><u>Discover the Latest in Computer Hardware Through Tom's Expert Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-mp4-converter-software-compatible-with-windows-and-mac-latest-update-2024/"><u>Free MP4 Converter Software - Compatible with Windows & Mac, Latest Update 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/gameplay-chronicles-top-four-ways-to-record-on-xbox-one-for-2024/"><u>Gameplay Chronicles Top Four Ways to Record on Xbox One for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gamers-guidebook-4-proven-strategies-for-gameplay-recordings/"><u>Gamer's Guidebook 4 Proven Strategies for Gameplay Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-rapide-pour-changer-des-fichiers-wav-en-videos-mp4-la-solution-de-movavi-gratuite-en-ligne/"><u>Guide Rapide Pour Changer Des Fichiers WAV en Vidéos MP4 : La Solution De Movavi Gratuite en Ligne</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme V30 Phone with Broken Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloos-omheen-nef-fotos-in-instantie-bmp-met-movavi-konvertor-online/"><u>Kostenloos Omheen: NEF-Foto's in Instantie BMP Met Movavi Konvertor Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-free-trp-file-line-converter-transformacion-gratuita-para-tus-archivos/"><u>Movavi Free TRP File Line Converter: Transformación Gratuita Para Tus Archivos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shop-online-expert-guide-to-the-best-video-editors-available-today/"><u>Shop Online: Expert Guide to the Best Video Editors Available Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flac-wma/"><u>디지털 공간에서 FLAC WMA 오디오 파일을 자원 없이 전환하는 방법</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mjpeg-movavi/"><u>シンプルな手順でMOV MJPEG形式の自由にオンライン変換 - Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-videos-with-complimentary-banners-here/"><u>[New] 2024 Approved Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>[New] 2024 Approved From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice/"><u>[New] In 2024, Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-guide-to-crafting-your-own-insta-tones-for-2024/"><u>[New] Step-By-Step Guide to Crafting Your Own Insta Tones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-apple-devices-enthusiasts-guide-to-top-voice-recorders-for-2024/"><u>[Updated] Apple Devices Enthusiast's Guide to Top Voice Recorders for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-tailoring-medical-messages-in-social-media-ads/"><u>[Updated] In 2024, Tailoring Medical Messages in Social Media Ads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-mp4-conversion-effective-ipv-means-and-techniques/"><u>[Updated] Mastering MP4 Conversion Effective IPV Means & Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-alcatels-joy-tab-2-best-value-lte-tablets-compared/"><u>Comprehensive Review of Alcatel's Joy Tab 2 - Best Value LTE Tablets Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dynamic-system-insights-integrating-memory-and-processor-data/"><u>Dynamic System Insights: Integrating Memory & Processor Data</u></a></li>
+<li><a href="https://discover-best.techidaily.com/experience-smooth-screen-recording-with-these-15-elite-no-cost-solutions/"><u>Experience Smooth Screen Recording with These 15 Elite, No-Cost Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-upgraded-windows-11-beyond-the-surface/"><u>Exploring Upgraded Windows 11: Beyond the Surface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-infamous-excel-scroll-glitches-on-desktop/"><u>Fix Infamous Excel Scroll Glitches on Desktop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboardmouse-interference-in-win11s-sleep-mode/"><u>Keyboard/Mouse Interference in Win11's Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-wwin-plus-printer-not-responding-issue-in-windows/"><u>Overcoming WWin + Printer Not Responding Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-colors-to-microsoft-windows-store-ui/"><u>Restoring Colors to Microsoft Windows Store UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergy-of-systems-implementing-apple-maps-on-a-windows-device/"><u>Synergy of Systems: Implementing Apple Maps on a Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-fixed-status-of-0x80072af9-error/"><u>Unlocking Fixed Status of 0X80072AF9 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-stuck-exe-files-in-windows-landscape/"><u>Unlocking Stuck Exe Files in Windows Landscape</u></a></li>
 </ul></div>
 

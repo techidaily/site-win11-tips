@@ -1,7 +1,7 @@
 ---
 title: Commence the Telling in Windows 11 Ecosystem
-date: 2024-12-10T18:58:22.389Z
-updated: 2024-12-12T21:08:56.466Z
+date: 2024-12-19T20:46:36.590Z
+updated: 2024-12-22T08:06:47.131Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Start the Narrator Using a Keyboard Shortcut
 
  If you're using Windows 11, you can open Narrator by pressing**Win + Ctrl + Enter** on your keyboard. This shortcut will work even if you're in another app or in the middle of a task.
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Start the Narrator Using a Run Command
 
@@ -39,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 2. In the Run window that opens, type "Narrator" into the field and click**OK** .  
 ![Open Narrator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-run-command.jpg)
 3. The narrator will now launch and begin reading aloud whatever is on your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Start the Narrator via Command Prompt
 
@@ -51,14 +67,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
 5. The Narrator window will open, and you can start using the screen reader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. How to Start the Narrator With the Windows Search Tool
 
  If you're using a screen reader because you have vision problems, you know how important it is to be able to find things quickly on your computer. The Windows Search tool can help you do just that.
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 1. To open the Windows Search tool, click the**Start** button.  
 ![Open Narrator Using Windows Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-search-tool.jpg)
 2. Type "Narrator" into the search box and select the top result.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You now have Narrator running on your computer.
 
@@ -85,7 +89,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Start the Narrator Using Windows Settings
@@ -107,11 +111,11 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The Narrator will start on your Windows 11 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Start Narrator With a Desktop Shortcut
 
@@ -133,11 +137,11 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-task-manager.jpg)
 3. Type "Narrator" in the text field and hit Enter.
 
- Close the Task Manager window and the Narrator should now be up and running.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Close the Task Manager window and the Narrator should now be up and running.
 
 ## 10\. How to Start Narrator From File Explorer
 
@@ -158,10 +162,6 @@ That's all; your Narrator should now be ready to go.
 
  It's just that simple. This is how you can open Narrator on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## It’s Easy to Start Up the Narrator on Windows 10
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
@@ -181,24 +181,24 @@ That's all; your Narrator should now be ready to go.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[New] 2024 Approved From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-dissecting-disney-disguises-the-goofy-trek-for-2024/"><u>[New] Dissecting Disney Disguises 'The Goofy Trek' For 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-picturecut-studio/"><u>[New] In 2024, PictureCut Studio</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-unlocking-data-in-twitter-archives/"><u>[Updated] Unlocking Data in Twitter Archives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-reno-9a-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo Reno 9A to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-radar-detectors-for-budget-conscious-motorists-check-out-our-s55-analysis-from-scratch-to-screen/"><u>Affordable Radar Detectors for Budget-Conscious Motorists - Check Out Our 'S55' Analysis From Scratch to Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-error-e1-code-in-windows-1011/"><u>Clearing Up Error E1 Code in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diy-windows-audio-to-text-application-using-autohotkey-and-whisper-libraries/"><u>DIY Window's Audio to Text Application Using AutoHotkey & Whisper Libraries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-reactivate-windows-11-troubleshooters/"><u>Essential Guide to Reactivate Windows 11 Troubleshooters</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-regain-admin-privileges-on-a-pc/"><u>How to Regain Admin Privileges on a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-revive-windows-obs-studio-launch-issues/"><u>Methods to Revive Windows OBS Studio Launch Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-disabled-mobile-hotspot-issue/"><u>Overcoming Windows 11'S Disabled Mobile Hotspot Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-directories-enabling-controlled-access-in-windows-1011/"><u>Securing Directories: Enabling Controlled Access in Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-hiccups-a-guide-to-restoring-zoom-microphone-functionality-on-windows/"><u>Solving Audio Hiccups: A Guide to Restoring Zoom Microphone Functionality on Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-definitive-list-of-premium-vector-sites/"><u>The Definitive List of Premium Vector Sites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-to-eliminate-fps-hiccups-stutters-and-optimize-game-performance/"><u>Troubleshooting Guide to Eliminate FPS Hiccups, Stutters & Optimize Game Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-execution-identifiers-in-app-management/"><u>Understanding Execution Identifiers in App Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-pc-potential-windows-11-sans-bloatware/"><u>Unleash PC Potential: Windows 11, Sans Bloatware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-captivating-igtv-cover-images-thumbnails/"><u>[Updated] Crafting Captivating IGTV Cover Images (Thumbnails)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafting-the-ideal-drone-lipo-energy-allies/"><u>[Updated] Crafting the Ideal Drone - LiPo Energy Allies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cut-the-clutter-in-your-tiktok-archive-learn-to-edit-wisely/"><u>[Updated] In 2024, Cut the Clutter in Your TikTok Archive Learn to Edit Wisely</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-impact-blueprint-for-success-in-instagram-video-campaigns/"><u>[Updated] In 2024, Visual Impact Blueprint for Success in Instagram Video Campaigns</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-your-pcs-dark-background-to-colorful/"><u>Converting Your PC's Dark Background to Colorful</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dynamic-system-insights-integrating-memory-and-processor-data/"><u>Dynamic System Insights: Integrating Memory & Processor Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-upgraded-windows-11-beyond-the-surface/"><u>Exploring Upgraded Windows 11: Beyond the Surface</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fine-tuning-film-views-through-zoom-adjustment/"><u>Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-infamous-excel-scroll-glitches-on-desktop/"><u>Fix Infamous Excel Scroll Glitches on Desktop</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-experts-choice-of-commercial-free-recording/"><u>In 2024, Expert's Choice of Commercial-Free Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboardmouse-interference-in-win11s-sleep-mode/"><u>Keyboard/Mouse Interference in Win11's Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-wwin-plus-printer-not-responding-issue-in-windows/"><u>Overcoming WWin + Printer Not Responding Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rallying-net-rejuvenate-your-system-quickly-max-156/"><u>Rallying .NET: Rejuvenate Your System Quickly (Max 156)</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-itel-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Itel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-colors-to-microsoft-windows-store-ui/"><u>Restoring Colors to Microsoft Windows Store UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergy-of-systems-implementing-apple-maps-on-a-windows-device/"><u>Synergy of Systems: Implementing Apple Maps on a Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-stuck-exe-files-in-windows-landscape/"><u>Unlocking Stuck Exe Files in Windows Landscape</u></a></li>
 </ul></div>
 

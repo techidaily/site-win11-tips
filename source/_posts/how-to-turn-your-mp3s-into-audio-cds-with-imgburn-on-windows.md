@@ -1,7 +1,7 @@
 ---
 title: How to Turn Your Mp3s Into Audio CDs With ImgBurn on Windows
-date: 2024-08-16T02:44:48.889Z
-updated: 2024-08-17T02:44:48.889Z
+date: 2024-12-17T17:24:22.068Z
+updated: 2024-12-22T03:58:48.326Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
  We're explaining all this because you'll have to keep in mind some limitations inherent to audio CDs' very nature that we'll see next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Audio CD Limitations: How to Avoid Whine, Skips, and Maximize Compatibility
 
  CD writing devices kept evolving and, in the process, speeding up until they reached speeds up to 72x. However, such rotation rates also demanded high-quality optical media. Cheap discs could even explode when used with devices that exceeded writing speeds over 42x. And no, we're not exaggerating.
@@ -60,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
  Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on[how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Download and Install ImgBurn
 
  With the necessary information out of the way, it's time to write some music on your CDs. For this article, we're taking for granted that your PC is equipped with a CD writer and that you have a handful of audio files and blank CDs available.
@@ -75,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
  Place an "empty" CD in your CD writer, and prepare to burn some music.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Cue File
 
  The music on Audio CDs is stored in sequence, track after track. In the realm of CD writing, that sequence is called the "CUE," from the popular CUE & BIN format combination. Think of it as a playlist for a media player, defining how tracks will be placed on the disc.
@@ -84,34 +86,30 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 2. Drag and drop your audio files from a file manager on ImgBurn's**Create CUE File** window. You'll see them in serialized sequence inside the**Layout** part of ImgBurn's window.  
 ![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
 3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
-![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
 4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
 ![ImgBurn Creating the CUE Changing Sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-changing-sequence.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5. Most Audio CD Players will display information about the playing track on their screen. You can choose what they should show from the**CD-TEXT** section under the**Track Options** . If you don't want to enter information for your music manually, go for either**File Name** or**Tag** .  
-![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
 6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
 ![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to "Burn" Your Music Onto a CD
@@ -122,16 +120,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![ImgBurn Write Image File to Disc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-write-image-file-to-disc.jpg)
 2. If you have more than one optical disc writing device on your PC, select the correct one under**Destination** .  
 ![ImgBurn Select Writing Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-select-writing-device.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Turn your attention to the bottom right of ImgBurn's writing window. Change the**Write Speed** under**Settings** to 4x or even lower for optimal results.  
 ![ImgBurn Choose Writing Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-choose-writing-speed.jpg)
 4. Click on the large button on the bottom left of ImgBurn's writing window to start the burning process.  
 ![ImgBurn Burn Media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-burn-media.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. ImgBurn's main window will "morph" again to show you the writing process progress. Your Audio CD will be ready when the bar under**Complete** fills up. Depending on your settings and hardware, your CD tray may eject when the writing completes.  
 ![ImgBurn Writing Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-writing-progress.jpg)
 
@@ -141,14 +133,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  With CDs restricted to around 70 minutes of audio, you must prioritize, think, and plan. To choose the tracks that matter the most. To carefully consider the melodies and lyrics that are more appropriate for an event, a mood, or a state of mind.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +146,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-techniques-for-excellent-powerpoint-recordings/"><u>[Updated] Cutting-Edge Techniques for Excellent PowerPoint Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-magic-solutions-to-restore-sound-on-your-hearthstone-game/"><u>Fixing Muted Magic: Solutions to Restore Sound on Your Hearthstone Game</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-diagnose-and-repair-a-critical-stop-error-bsod-on-your-computer/"><u>How to Diagnose & Repair a Critical Stop Error (BSOD) on Your Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/implementing-cross-browser-compatibility-in-web-development-for-2024/"><u>Implementing Cross-Browser Compatibility in Web Development for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>In 2024, Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/live-streaming-simplified-a-guide-to-using-onestream/"><u>Live Streaming Simplified A Guide to Using OneStream</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-touch-sensitivity-for-a-seamless-experience/"><u>Optimizing Touch Sensitivity for a Seamless Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rekindle-the-yuletide-spark-in-home-windows/"><u>Rekindle the Yuletide Spark in Home Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/studio-2-unveiled-near-perfect-creative-tool-by-microsoft/"><u>Studio 2 Unveiled: Near-Perfect Creative Tool by Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disconnected-resources-with-expertise-on-windows-platform/"><u>Tackling Disconnected Resources with Expertise on Windows Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-decrease-wlanextexe-usage-on-pcs/"><u>Tricks to Decrease WLANEXT.EXE Usage on PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-samsungs-future-tech-key-dates-latest-updates-and-anticipated-innovations/"><u>Unveiling Samsung's Future Tech : Key Dates, Latest Updates & Anticipated Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-sticky-notes-a-users-blueprint/"><u>Windows 11'S Sticky Notes: A User's Blueprint</u></a></li>
+</ul></div>
 

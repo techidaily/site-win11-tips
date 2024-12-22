@@ -1,7 +1,7 @@
 ---
 title: Functional Failures? Cure Win10 Key Issues Now
-date: 2024-12-08T19:54:32.649Z
-updated: 2024-12-13T02:19:11.563Z
+date: 2024-12-21T09:42:57.004Z
+updated: 2024-12-22T05:00:01.391Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Make Sure the Fn Keys Are Not Locked
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
  On your keyboard, look for an **Fn**, **F lock**, or **F Mode** key. Depending on your laptop, you should press for one time or press and hold for a few seconds. If this doesn’t work, press the **Fn** and **Esc** keys at the same time.
 
  Then, try to use one of the Function keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your Keyboard for Dirt and Grime
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Filter Keys
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
  In Windows, the Filter Keys feature is designed to stop repeated keystrokes. However, disabling it might have a positive impact on the Fn keys' functionality.
 
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Keyboards Drivers
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
@@ -123,25 +123,6 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>[New] 2024 Approved In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>[New] In 2024, Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2023windows-movie-maker11/"><u>2023年最好的免费Windows Movie Maker替代品：探索11种功能丰富的视频编辑工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effektivt-bearbetar-audiofilmer-ivan-med-movavi-din-gamla-ljudbittarrat-ratt-utanfor-tiden/"><u>Effektivt Bearbetar Audiofilmer - Ivån Med Movavi: Din Gamla Ljudbittarrat Rätt Utanför Tiden</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi-0/"><u>MOV 파일을 MXF로 이식: MOVavi에서 비용 0%의 온라인 제공</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-ferramenta-online-gratuita-para-transformar-mp4-em-formato-3gp-com-facilidade/"><u>Móvavi: Ferramenta Online Gratuita Para Transformar MP4 Em Formato 3GP Com Facilidade!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mpg-conversion-of-ram-a-complimentary-online-service-with-moveai-tech-solutions/"><u>MPG Conversion of RAM: A Complimentary Online Service with MoveAI Tech Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-technical-hurdles-a-guide-to-running-disco-elysium-flawlessly-on-windowsmac/"><u>Overcoming Technical Hurdles: A Guide to Running 'Disco Elysium' Flawlessly on Windows/Mac</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/quietcomfort-pro-canal-plugs-reviews/"><u>QuietComfort Pro Canal Plugs Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/veelvoulend-ongemakkooptje-qt-naar-mp4-omzetten-met-movavi-gratis-en-direct-op-internet/"><u>Veelvoulend Ongemakkooptje: QT Naar MP4 Omzetten Met Movavi, Gratis en Direct Op Internet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visual-vibrancy-in-every-tiktok-moment/"><u>Visual Vibrancy in Every TikTok Moment</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aiff-m4amp3/"><u>무료 AIFF 매니페스트를 M4A/MP3로 바꾸기 - 이식센터에서 원통</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +130,21 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-youtube-editing-101-incorporating-time-markers/"><u>[New] 2024 Approved YouTube Editing 101 Incorporating Time Markers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-quick-method-retain-tweets-video-on-your-android-gadget/"><u>[Updated] 2024 Approved Quick Method Retain Tweets' Video on Your Android Gadget</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-celebrating-soundtracks-the-ultimate-anime-list/"><u>[Updated] In 2024, Celebrating Soundtracks The Ultimate Anime List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critiquing-the-functionality-of-windows-modern-standby/"><u>Critiquing the Functionality of Windows' Modern Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-best-ms-store-picks/"><u>Enhance Your PC: Best MS Store Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-hiding-the-search-bar-on-11/"><u>Essential Tips for Hiding the Search Bar on 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/gentle-request-for-a-greater-genuine-community/"><u>Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-itel-p40plus-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Itel P40+ Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-c51-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme C51 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-location-errors-in-windows-108/"><u>Overcoming Save Location Errors in Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-typing-speed-with-windows-tools/"><u>Skyrocket Your Typing Speed with Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensive-guide-to-windows-diagnostics-creating-and-analyzing-reports/"><u>The Comprehensive Guide to Windows Diagnostics: Creating & Analyzing Reports</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-on-toms-computing-and-gadgets/"><u>The Ultimate Resource on Tom's Computing and Gadgets</u></a></li>
+</ul></div>
+

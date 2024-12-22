@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizardry: Easy Pathways to New Directories"
-date: 2024-12-12T02:03:39.042Z
-updated: 2024-12-13T02:43:55.135Z
+date: 2024-12-18T00:47:13.127Z
+updated: 2024-12-21T19:01:08.521Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create a New Folder Using the Context Menu
 
  The easiest and most well-known way to create a new folder on Windows is through the context menu. You can use this method to create folders nearly anywhere in Windows. Here are the steps you can follow:
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -52,7 +56,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -64,14 +72,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
@@ -88,10 +92,6 @@ To create a new folder using File Explorer's menu:
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
@@ -115,20 +115,22 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-reveling-in-creativity-the-best-of-filmoras-edits/"><u>[New] In 2024, Reveling in Creativity The Best of Filmora's Edits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-best-of-the-best-6-superior-signature-background-removers-for-2024/"><u>[Updated] Best of the Best 6 Superior Signature Background Removers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>2024 Approved Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726224076280-rmvb-mpeg-movavi/"><u>免費移動電影 RMVB到 MPEG 在线转换 - 使用 Movavi 软件</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-audio-to-video-conversion-convert-your-wav-recordings-into-avi-gratis/"><u>Effortless Audio-to-Video Conversion: Convert Your WAV Recordings Into AVI - Gratis!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-3gp-files-to-mpeg-with-movavi/"><u>Free Online Conversion: Convert 3GP Files to MPEG with Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ghostly-movie-editing-hacks-for-2024/"><u>Ghostly Movie Editing Hacks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-festive-moments-in-a-flash-on-iphone/"><u>In 2024, Capturing Festive Moments in a Flash on iPhone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-creativity-with-top-9-free-tools-to-craft-your-brand/"><u>In 2024, Unleash Creativity with Top 9 Free Tools to Craft Your Brand</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavitod/"><u>Movaviのワンクリックで簡単TOD変換サービス - 無料</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-a-aiff-trasformare-i-formati-di-file-audio-gratuitamente-con-mediahuman-converter/"><u>MP4 a AIFF: Trasformare I Formati Di File Audio Gratuitamente Con MediaHuman Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/passa-file-video-avi-al-codec-audio-ad-alta-qualita-flac-servizio-di-conversione-on-line-free-movavi/"><u>Passa File Video AVI Al Codec Audio Ad Alta Qualità FLAC, Servizio Di Conversione On-Line Free - Movavi</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/el-the-revenue-riddle-googles-guided-triple-steps-to-youtube-income-analysis/"><u>Unravel the Revenue Riddle Google's Guided Triple Steps to YouTube Income Analysis</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/voice-in-unison-for-the-digital-stage-for-2024/"><u>Voice-in-Unison for the Digital Stage for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-magic-v2-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor Magic V2 Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey-for-2024/"><u>[New] ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-expertly-crafted-video-making-software-iphone-android/"><u>[New] In 2024, Expertly Crafted Video-Making Software (iPhone, Android)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-picks-for-virtual-globe-tourists/"><u>[New] In 2024, Top Picks for Virtual Globe Tourists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>[Updated] 2024 Approved Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-fastest-practices-powerpoint-recordings/"><u>[Updated] In 2024, Fastest Practices PowerPoint Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-for-enabledisable-windows-msi/"><u>Command Line for Enable/Disable Windows MSI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-into-classic-diablo-key-moves-and-strategies/"><u>Diving Into Classic Diablo: Key Moves and Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-windows-11-aesthetics-the-ultimate-backdrop-guide/"><u>Elevating Windows 11 Aesthetics: The Ultimate Backdrop Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-your-frozen-windows-updates-now-discover-6-easy-methods/"><u>Fix Your Frozen Windows Updates Now! Discover 6 Easy Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-accessibility-to-msconfigs-gpeditmsc/"><u>How to Restore Accessibility to Msconfig's Gpedit.msc</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-sync-issues-with-airpods-turn-off-head-tracking/"><u>How to Stop Audio Sync Issues with AirPods: Turn Off Head Tracking</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-filmora-13-editor-download-create-stunning-videos-for-2024/"><u>New Free Filmora 13 Editor Download Create Stunning Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-outdated-directx-software-through-dxvk-innovation/"><u>Redefining Outdated DirectX Software Through DXVK Innovation</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-increase-frame-rates-and-combat-stutters-in-new-games/"><u>Step-by-Step Guide to Increase Frame Rates and Combat Stutters in New Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/strategies-for-selecting-and-syncing-music-with-visuals-for-2024/"><u>Strategies for Selecting and Syncing Music with Visuals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-windows-11-widget-features-for-enhanced-productivity/"><u>Uncovering Windows 11 Widget Features for Enhanced Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-resource-monitoring-systray-for-power-users/"><u>Visual Resource Monitoring: SysTray for Power Users</u></a></li>
 </ul></div>
 

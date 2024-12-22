@@ -1,7 +1,7 @@
 ---
 title: Win Back Your Elusive 5GHz Connection with These Solutions
-date: 2024-08-16T02:45:20.878Z
-updated: 2024-08-17T02:45:20.878Z
+date: 2024-12-17T23:27:35.682Z
+updated: 2024-12-22T02:40:54.853Z
 tags:
   - windows10
   - windows11
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 `netsh wlan show drivers`
 4. Scroll down and look for the section named**"Number of** **supported bands."**  
 ![Check supported bands in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-supported-bands.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 5. If this section shows both 2.4GHz and 5GHz, then it indicates your computer is compatible with the 5GHz band. But if it only shows 2.4GHz, then it means that your device doesn't support a 5GHz connection.
 
  Another method to confirm your computer's compatibility is by checking the radio types.
@@ -53,16 +50,14 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  If the radio type shows**802.11a 802.11g 802.11n** , then your computer is compatible with both 2.4GHz and 5GHz connections. But if it shows**802.11g 802.11n** or**802.11n 802.11g 802.11b** as available network modes, then your device only supports the 2.4GHz Wi-Fi band.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 2\. Restart Your Router
 
  Your computer might fail to detect the 5GHz connection if there's something wrong with your router. Restarting the router is one of the best ways you can try to get rid of most of the network issues, including this one. Hence, check out our guide on[how to restart your router](https://www.makeuseof.com/how-to-reset-router/) and check if it makes any difference.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Manually Enable the 5GHz Wi-Fi Band
 
  Windows lets you manually enable or disable the 5GHz Wi-Fi band on your computer. You can do it with the help of the Device Manager. Here are the steps you need to follow:
@@ -75,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 ![Enable 5GHz in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-5ghz.jpg)
 6. Click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
 
  A Wi-Fi adapter is an important component that lets your device connect to a network. Sometimes, a temporary glitch with the Wi-Fi adapter can stop Windows from recognizing a particular band.
@@ -90,12 +82,17 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 4. Click**Change adapter settings** in the left panel.
 5. Right-click on the Wi-Fi adapter and click**Disable.**  
 ![Disable Network Adapter using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-network-adapter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Wait for a minute or so, and then right-click on the Wi-Fi adapter again and choose**Enable.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Now check if your computer is showing a 5GHz connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Internet Connection Troubleshooter
 
@@ -109,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Download the Latest Network Driver Update
 
  You will likely face the issue if you last updated the network driver a long time ago. To download the latest network driver update on your computer, follow the below steps:
@@ -116,15 +117,13 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 1. Open the Device Manager, expand the Network adapter, right-click on the installed network adapter and choose**Update** **driver** .
 2. Select**Search automatically for drivers** from the window that crops up.  
 ![Updating Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/5-Updating-Network-Drivers-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update on your computer. After that, restart your device and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset TCP/IP and Flush DNS Cache
 
  The next solution on the list is to reset the TCP/IP and then flush the DNS cache. Here's how:
@@ -145,14 +144,11 @@ Reboot your computer after executing the above commands.
 
  But in the worst-case scenario, if the problem continues, you can consider resetting your network settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +157,16 @@ Reboot your computer after executing the above commands.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-localisez-votre-compte-google-perdu-guide-complet-de-recuperation/"><u>Comment Localisez Votre Compte Google Perdu: Guide Complet De Récupération</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-bluetooth-pairing-failures-on-windows-11-os/"><u>Fixing Bluetooth Pairing Failures on Windows 11 OS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-apple-tv-broadcast-of-russias-matches-at-the-2018-fifa-world-cup/"><u>Free Apple TV Broadcast of Russia's Matches at the 2018 FIFA World Cup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-capture-still-shots-from-video-using-photos-on-windows-10/"><u>In 2024, Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-troubleshoot-and-mend-your-instagram-video-issues/"><u>In 2024, Troubleshoot & Mend Your Instagram Video Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-navigators-using-c-for-cloud-storage-access/"><u>Mastering Network Navigators: Using C: For Cloud Storage ACCESS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-chatter-re-enable-microsoft-microphone-for-google-meet/"><u>No Chatter? Re-Enable Microsoft Microphone for Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-post-discord-update-issues-for-windows-users/"><u>Tackling Post-Discord Update Issues for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restoring Online Status of League of Legends (LoL) on PC
-date: 2024-08-16T02:48:35.520Z
-updated: 2024-08-17T02:48:35.520Z
+date: 2024-12-15T21:01:27.499Z
+updated: 2024-12-21T17:31:45.895Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
  To fix the League of Legends disconnecting issue, you should ensure you're properly connected to the internet, the connection isn't weak or unstable, the Riot servers aren't down, whitelist the game from Windows Defender or antivirus to rule out their interference, resolve League of Legends client issues, and check for router or ISP problems.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## But First, Some Preliminary Checks…
 
  Take the following steps before leaping into more complex troubleshooting tricks:
@@ -52,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If other users have reported a similar problem, rest assured that your connectivity issues stem from Riot's servers, and not from your PC. All you have to do is wait for the problem to be resolved automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 2\. Rule Out Internet Issues
 
  If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
@@ -64,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
 ![Flushing DNS Cache in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/2-Flushing-DNS-Cache-in-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the internet isn't connected or is unstable, follow these steps:
 
@@ -78,18 +73,23 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
 Proceed to the next step if the above checks and fixes do not help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Connect to a Different Network
 
 ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
  If you do not experience the same issue on a different network, the problem lies with your primary internet connection. It could be a hardware issue with your router, a restriction from your ISP, or something else. You should have your ISP representative inspect your internet to rule out all of this.
 
  However, if the problem persists after changing the internet, the OS must be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Whitelist the League of Legends on Windows Defender
 
@@ -112,32 +112,31 @@ Proceed to the next step if the above checks and fixes do not help.
 3. From the left sidebar, select the**General** tab.
 4. Then click on the**Initiate Full Repair** button.  
 ![Running a Full Repair of League of Legends Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/running-a-full-repair-of-league-of-legends-client.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 5. Afterward, follow the on-screen instructions to fix your files.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Report the Problem to Riot Games
 
  Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
  If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the League of Legends Disconnecting Issue
 
  Disconnecting from your game when you are about to defeat your friends can be extremely frustrating. Hopefully, the fixes in this article will help you fix this annoying problem and establish a stable connection to Riot servers. If nothing works, reinstall the game.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +145,24 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-innovative-techniques-for-iphone-sideways-shots/"><u>[New] Innovative Techniques for iPhone Sideways Shots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-exclusive-access-to-facebook-beats/"><u>[Updated] In 2024, Exclusive Access to Facebook Beats</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/celebrating-love-with-the-perfect-countdown-timer-mobile-app-for-2024/"><u>Celebrating Love with the Perfect Countdown Timer Mobile App for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-guide-utilizing-vimeo-record-for-screen-and-webcam-capture/"><u>Essential Guide Utilizing Vimeo Record for Screen & Webcam Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-geforce-experience-error-how-to-restore-missing-configuration/"><u>Fixing GeForce Experience Error: How to Restore Missing Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-version-22h2-update-not-appearing/"><u>Fixing Windows 11 Version 22H2 Update Not Appearing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-steams-file-permission-blunders-in-win11/"><u>Guidelines for Fixing Steam's File Permission Blunders in Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-f23-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo F23 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-persistently-show-calculator-at-top-window/"><u>How to Persistently Show Calculator at Top Window</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-compact-performance-beast-the-ultimate-gamer-laptop-that-takes-workplaces-by-storm-zdnet/"><u>Introducing Dell's Compact Performance Beast: The Ultimate Gamer Laptop That Takes Workplaces by Storm | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-iphone-selfies-naturally-10-best-no-cost-enhancing-apps/"><u>Master iPhone Selfies Naturally 10 Best No-Cost Enhancing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/missing-control-panel-features-in-win11-discover-hidden-options/"><u>Missing Control Panel Features in Win11: Discover Hidden Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-recovery-environment-quickly/"><u>Navigating to Windows Recovery Environment Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-photoshop-hiccups-in-windows/"><u>Overcoming Photoshop Hiccups in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/six-simplest-strategies-to-craft-your-mc-dwelling/"><u>Six Simplest Strategies to Craft Your MC Dwelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-file-resolution-6-ultimate-remedies-to-powerpoint-errors/"><u>Speedy File Resolution: 6 Ultimate Remedies to PowerPoint Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-policy-complexity-gpresults-role-in-reporting/"><u>Unraveling Policy Complexity: GPResult's Role in Reporting</u></a></li>
+</ul></div>
 

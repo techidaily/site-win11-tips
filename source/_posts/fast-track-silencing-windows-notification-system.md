@@ -1,7 +1,7 @@
 ---
 title: Fast-Track Silencing Windows Notification System
-date: 2024-12-07T00:50:30.143Z
-updated: 2024-12-12T21:36:34.132Z
+date: 2024-12-19T01:53:33.205Z
+updated: 2024-12-22T04:31:24.269Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications When They Pop Up
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  All Microsoft Store applications will stop. Likewise, if it's another app, you will no longer get any notifications from it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Maybe you miss turning off a notification when it appears. But this notification banner will show up in the Notification Center. So open the Notification Center by pressing**Win + N** keys together or clicking on the date and time in the taskbar.
@@ -51,16 +51,16 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 5. Click on this**three-dots menu** and select**Turn off all notifications for Snipping Tool** , as you see in the screenshot below, or for any other app sending notifications.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn Off All Notifications Option in Notification Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-off-all-notifications.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To clear all notifications from the Notification Center, click the**Clear all** button at the top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off All Notifications at Once
 
@@ -70,11 +70,12 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 2. Select**Notifications** under the**System** page.  
 ![Notifications Selected in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-notifications-in-settings-1.jpg)
 3. Turn off the**Notifications toggle** at the top of the**Notifications** page.  
-![Notifications Toggle Turned Off in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-notifications-toggle-off-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Notifications Toggle Turned Off in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-notifications-toggle-off-1.jpg)
 
  Now you will not have any notifications pop up on the screen to distract you. You can also stop all notifications for a temporary amount of time by[enabling Do Not Disturb mode on Windows](https://www.makeuseof.com/windows-11-do-not-disturb-mode/) .
 
@@ -99,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-achieving-sonic-harmony-advanced-crossfading-in-audacity-for-2024/"><u>[New] Achieving Sonic Harmony Advanced Crossfading in Audacity for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-selecting-free-music-for-videos/"><u>[New] Mastering the Art of Selecting Free Music for Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-swipe-right-on-virality-blend-tiktok-trends-into-insta-reels/"><u>[New] Swipe Right on Virality Blend TikTok Trends Into Insta Reels</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>[Updated] In 2024, Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-eliminate-bluetooth-audio-lag/"><u>Effortless Ways to Eliminate Bluetooth Audio Lag!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudulent-fauxpas-real-gpt-insights/"><u>Fraudulent Fauxpas: Real GPT Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-exit-code-1-on-pc-with-minecraft/"><u>Overcoming Exit Code 1 on PC with Minecraft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unrecognized-interfaces-with-ease-in-windows/"><u>Overcoming Unrecognized Interfaces with Ease in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocketing-vm-efficiency-on-windows-with-six-tips/"><u>Skyrocketing VM Efficiency on Windows with Six Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-the-0x0000011b-error-in-win11/"><u>Troubleshooting: Resolving the 0X0000011B Error in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-for-qt-engine-startup-failure-in-programming/"><u>Unveiling Solutions for Qt Engine Startup Failure in Programming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-guide-to-masterful-photo-editing-with-gimp-a-detailed-breakdown-of-the-best-gratis-option-for-all-operating-systems/"><u>Your Guide to Masterful Photo Editing with GIMP – A Detailed Breakdown of the Best Gratis Option for All Operating Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-recording-gaming-with-fraps/"><u>[New] 2024 Approved The Ultimate Guide to Recording Gaming with Fraps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-speakers-guide-to-captivating-visual-storytelling/"><u>[New] In 2024, The Speaker's Guide to Captivating Visual Storytelling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectacular-8-cameras-for-professional-live-viewers/"><u>[New] Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[Updated] 8 Best Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/appreciate-with-us-open-source-and-subscription-outro-samples/"><u>Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-opengl-error-code-3-from-nvidia/"><u>How to Eradicate OpenGL Error Code 3 From Nvidia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovate-windows-life-unleashing-upcoming-tools-via-vivetool/"><u>Innovate Windows Life: Unleashing Upcoming Tools via ViVeTool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masters-list-of-affordable-and-premium-win-art-tools/"><u>Master's List of Affordable & Premium Win Art Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-capturing-stunning-photos-with-your-own-selfie-light/"><u>Step-by-Step Tutorial: Capturing Stunning Photos with Your Own Selfie Light</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477878907-tired-of-waiting-for-late-texts-on-ios-devices-heres-how-to-fix-it/"><u>Tired of Waiting for Late Texts on iOS Devices? Here's How to Fix It!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wwinplusp-glitch-on-pc-solutions-included/"><u>Troubleshooting: WWin+P Glitch on PC, Solutions Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-files-fixing-windows-denials/"><u>Unlocking Secure Files: Fixing Windows Denials</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728492419373-windows-11/"><u>ファイル履歴保存設定を変更せよ! Windows 11 では今や全ファイルが安全にバックアップされる</u></a></li>
 </ul></div>
 

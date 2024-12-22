@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Handbook: Permanently Turn Off Defender on Win 11"
-date: 2024-12-11T01:02:05.282Z
-updated: 2024-12-12T23:47:59.711Z
+date: 2024-12-15T21:42:33.062Z
+updated: 2024-12-22T01:08:04.903Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ![Disable Tamper Protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Disable-Tamper-Protection-2.jpg)
 5. Close the Windows Security app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable Microsoft Defender in Windows 11
 
  We have already disabled Tamper Protection, so it won't interfere when you disable Microsoft Defender using GPE, Registry Editor, or any third-party tool. Here are the following methods that work flawlessly to disable the inbuilt security app on Windows 11:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Disable Microsoft Defender Using Group Policy Editor
 
@@ -64,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 5. Select the**Enabled** radio button and click on the**Apply** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Lastly, click on the**OK** button and close the Group Policy Editor. Restart your system and open Windows Security.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Disable Microsoft Defender Using Registry Editor
 
@@ -88,10 +92,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 ![Disable Windows Defender Using Group Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-registry-editor.jpg)
 6. Close the Registry Editor and restart your system to apply changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Launch Windows Security and visit the Virus and threat protection section. You will see a “ **No active antivirus provider. Your device is vulnerable.** ” message.
 
 ### 3\. Disable Microsoft Defender Using CMD
@@ -106,7 +106,7 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender" /v D
 4. Type**exit** to close the Command Prompt window and restart your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Disable Microsoft Defender Using Winaero Tweaker
@@ -122,10 +122,6 @@ Repeat the following steps:
 4. Then, click on the**Disable Microsoft Defender** checkbox. Scroll down and click on the**Reboot now** button.
 5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Disable Microsoft Defender Using Ultimate Windows Tweaker
 
  Like Winaero Tweaker, the Ultimate Windows Tweaker is also a Windows customization app. You can easily enable and disable multiple Windows operating system settings and features which are otherwise very difficult to locate. Repeat the following steps:
@@ -136,6 +132,10 @@ Repeat the following steps:
 4. Select the checkbox next to the**Disable Microsoft Defender** option and click on the**Apply Tweaks** button. You will see a Windows popup that will inform you whether the tweak was successful or not.  
 ![Disable Windows Defender Using Ultimate Windows Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-ultimate-windows-tweaker.jpg)
 5. Finally, click on the**Close** button and restart your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Permanently Disable Microsoft Defender on Windows 11
 
@@ -156,17 +156,19 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/mp4-aacmovavi/"><u>在线MP4-AAC无障碍转换服务：如何用Movavi实现高效转码</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bandicam-por-movavi-detalle-del-producto-y-precio/"><u>Bandicam Por Movavi - Detalle Del Producto Y Precio</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevating-visual-storytelling-the-mavic-pro-journey-for-2024/"><u>Elevating Visual Storytelling The Mavic Pro Journey for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ensuring-clear-screens-with-win11-fixes/"><u>Ensuring Clear Screens with Win11 Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966394637-free-canon-printer-driver-downloads-and-latest-updates-get-started-now/"><u>Free Canon Printer Driver Downloads and Latest Updates - Get Started Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-cost-web-based-aiffaac-audio-format-changeover-movavi-converter/"><u>No-Cost Web-Based Aiff/Aac Audio Format Changeover - Movavi Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-m4a-to-swf-file-transformation-without-charge-with-movavi-software-solutions/"><u>Online M4A to SWF File Transformation without Charge with Movavi Software Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-drm-free-conversion-of-ebooks-starting-at-chapter-7/"><u>Step-by-Step Guide: DRM-Free Conversion of eBooks - Starting at Chapter 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sustainable-tech-innovations-the-corporate-journey-towards-eco-friendly-solutions-zdnet/"><u>Sustainable Tech Innovations: The Corporate Journey Towards Eco-Friendly Solutions | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-stadia-heres-how-to-restore-your-headset-connection/"><u>Trouble with Stadia? Here's How to Restore Your Headset Connection!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-zte-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On ZTE Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/iuycroynhcdtjrjsp5eg7zse66gc7is47iqkoidrsjjsnzhtmjug67cw6rk97j2eioycroyaqe2vncdsojxqtzdtlzwg66as66plus47yq4iouwqeuylsi/"><u>사진 편집 프로세스: 반응형 배경을 사용한 정교한 리미트 방법</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[New] 2024 Approved A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ommanding-youtube-realm-through-strategic-creator-studio-utilization-for-2024/"><u>[New] Commanding YouTube Realm Through Strategic Creator Studio Utilization for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-hd-lens-guide-for-pro-level-cinematography/"><u>[New] Ultimate HD Lens Guide for Pro-Level Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-twitter-video-converters-guide/"><u>[Updated] Premier Twitter Video Converters Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 Pro and iPad Securely</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225784181-webmavi-movavi/"><u>無料移動平台以WebM格式改為AVI - 使用Movavi的方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-free-videography-starter-pack-openers-and-more/"><u>In 2024, Free Videography Starter Pack Openers & More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-voice-only-windows-bluetooth-speaker-limitation/"><u>Overcoming Voice-Only Windows Bluetooth Speaker Limitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-repairs-mastering-the-art-of-fixed-wwe-on-pcs/"><u>Rapid Repairs: Mastering the Art of Fixed WWE on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-s-mode-steps-for-win-1110-users/"><u>Sidestep 'S Mode': Steps for Win 11/10 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steal-the-show-with-the-cheapest-ever-apple-13-inch-macbook-air-m2-this-cyber-monday-zdnet-exclusive-insights/"><u>Steal the Show with the Cheapest-Ever Apple 13-Inch MacBook Air M2 This Cyber Monday | ZDNET Exclusive Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/swagtron-swagboard-t1-review/"><u>Swagtron Swagboard T1 Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-applying-lav-filters-on-windows/"><u>The Ultimate Guide to Applying LAV Filters on Windows</u></a></li>
 </ul></div>
 

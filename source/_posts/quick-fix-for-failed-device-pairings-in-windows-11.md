@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Failed Device Pairings in Windows 11
-date: 2024-12-06T22:07:23.828Z
-updated: 2024-12-12T23:03:44.662Z
+date: 2024-12-19T16:29:26.830Z
+updated: 2024-12-21T20:27:56.832Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,15 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 5. Then wait for the troubleshooter to make any changes.  
 ![The Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-bluetooth-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To run the Bluetooth troubleshooter in Windows 10, click**Update & Security** within that platform’s Settings app. Click the**Troubleshoot** tab and select**Additional troubleshooters** from there; select**Bluetooth** to access the**Run the troubleshooter** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Start or Restart the Bluetooth Services
 
@@ -51,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 5. Choose**Automatic** within the**Startup type** menu.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-startup-type-drop-down-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Select the properties window’s**Start** option to run Bluetooth Support Service. If the service is already running, click**Stop** and**Start** to restart it.
 2. Click**Apply** to save the new Bluetooth Support Service settings.
 3. Select the Bluetooth Support Service Properties window’s**OK** option.
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 5. Restart your PC after adjusting the Bluetooth services.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reconfigure the Log On Settings for the Bluetooth Support Service
@@ -76,16 +80,16 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![The Select User window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-the-object-name-box.jpg)
 5. Click the**Find Now** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select**Local Services** in the search results.  
 ![The Find Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/user-search-results.jpg)
 2. Click the Select User window’s**OK** button a couple of times.
 3. Erase the text in the**Password** and**Confirm password** boxes to clear them.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-log-on-tab.jpg)
 4. Select**Apply** \>**OK** to set the new logon settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Right-click the Bluetooth Support Service and select**Stop** if running. Then restart that same service by right-clicking and selecting**Start** .
 6. Right-click the**Bluetooth Handsfree Service** and select**Start** if that service is stopped.
@@ -109,19 +113,20 @@ Now we need to access the Bluetooth settings:
 5. Then right-click the Bluetooth adapter and select its**Uninstall device** option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-device-option.jpg)
 6. Select**Uninstall** when prompted to confirm the chosen option.  
-![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button3.jpg)
-7. Restart the PC for Windows to reinstall a generic Bluetooth driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button3.jpg)
+7. Restart the PC for Windows to reinstall a generic Bluetooth driver.
 
  Alternatively, you can download the latest Bluetooth adapter device driver from the manufacturer’s website for manual installation. Uninstall the Bluetooth driver as outlined in the steps above. Then double-click the downloaded Bluetooth driver setup package to install the latest driver.
 
  Some users have also said they needed to delete and reinstall all Bluetooth drivers listed in Device Manager to get the issue fixed. First, try reinstalling one as covered above. If that’s not enough, you can try a more drastic approach like reinstalling all Bluetooth drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Try Some Windows-Based Fixes
@@ -134,10 +139,6 @@ Now we need to access the Bluetooth settings:
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-restore-utility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you’ll need to reinstall software packages installed after a restore point’s date after applying this potential resolution. Our guide to[setting up and utilizing restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows to an earlier time. Choose the oldest restore point you can if you’re not sure what to select.
 
 ### Reinstall Windows 11
@@ -149,7 +150,7 @@ Now we need to access the Bluetooth settings:
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-windows-11-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilize Your Connected Bluetooth Devices Again on Windows
@@ -171,22 +172,24 @@ Now we need to access the Bluetooth settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-creative-video-overlays-top-10-essentials-for-2024/"><u>[New] Creative Video Overlays Top 10 Essentials for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>2024 Approved Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/blowout-offer-grab-the-apple-m2-macbook-air-for-only-749-on-amazons-october-prime-day-zdnet-insider-tips/"><u>Blowout Offer: Grab the Apple M2 MacBook Air for Only $749 on Amazon's October Prime Day | ZDNET Insider Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enablingdisabling-dim-aesthetic-in-power-options-menu/"><u>Enabling/Disabling Dim Aesthetic in Power Options Menu</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/error-404-unable-to-locate-webpage-solutions-from-digiarty/"><u>Error 404: Unable to Locate Webpage - Solutions From DigiArty</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100A to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-windows-steam-efficiency-dodging-zero-speed-phenomena/"><u>Maximize Windows Steam Efficiency: Dodging Zero-Speed Phenomena</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/meet-your-pcs-eligibility-for-windows-11/"><u>Meet Your PC's Eligibility for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-halt-unlock-code-x80131500/"><u>Microsoft Store Halt: Unlock Code X80131500</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-maze-of-error-80080300-in-teams-w11-edition/"><u>Navigating Through the Maze of Error 80080300 in Teams W11 Edition</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/resolu-comment-recuperer-les-dossiers-quick-access-disparus-de-lexplorateur-de-fichiers-windows-10/"><u>Résolu - Comment Récupérer Les Dossiers Quick Access Disparus De L'Explorateur De Fichiers Windows 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tailoring-your-youtube-videography-with-powerful-wm-maker-skills/"><u>Tailoring Your YouTube Videography with Powerful WM Maker Skills</u></a></li>
-<li><a href="https://win-web3.techidaily.com/top-recommended-wd-blue-solid-state-drive-migration-tools-for-win11win10win8win7/"><u>Top Recommended WD Blue Solid State Drive Migration Tools for Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-windows-runner-error-0x8007000f/"><u>Understanding and Resolving Windows Runner Error 0X8007000f</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-your-processors-age-through-windows-8-helpful-methods/"><u>Unveil Your Processor’s Age Through Windows: 8 Helpful Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-prevent-desktop-icon-shrinkage/"><u>Win 11: Prevent Desktop Icon Shrinkage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-groundwork-for-av1-mastery/"><u>[New] Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-engaging-video-audiences-choosing-impactful-youtube-images/"><u>[New] In 2024, Engaging Video Audiences Choosing Impactful YouTube Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-see-what-you-just-watched-on-facebook/"><u>[Updated] 2024 Approved How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lens-lockdown-top-rated-phone-friendly-tripods/"><u>[Updated] Lens Lockdown Top-Rated Phone-Friendly Tripods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-tutorial-for-top-memes-kinemaster/"><u>[Updated] Quick Tutorial for Top Memes KineMaster</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-and-tricks-for-professional-minecraft-videos/"><u>[Updated] Tips and Tricks for Professional Minecraft Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-top-tier-discord-automations-for-2024/"><u>[Updated] Top-Tier Discord Automations for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-aoc-monitor-up-and-running-on-windows-driver-download-guide/"><u>Get Your AOC Monitor Up and Running on Windows - Driver Download Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restart-win11s-dns-service-swiftly/"><u>How to Restart Win11's DNS Service Swiftly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Phone Network-Ready</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-keep-your-windows-clutter-free-naturally/"><u>Learn to Keep Your Windows Clutter-Free Naturally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-store-installation-challenges/"><u>Mastering Windows Store Installation Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-terrain-mastering-classic-diablo/"><u>Navigating the Terrain: Mastering Classic Diablo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-disk-simplify-life-on-windows-pcs/"><u>Optimize Your Disk, Simplify Life on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-resource-conflict-error-on-windows-1011-155-chars/"><u>Resolving Resource Conflict Error on Windows 10/11 (155 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-viewing-syncing-prime-and-windows-11-for-textual-perfection/"><u>Seamless Viewing: Syncing Prime and Windows 11 for Textual Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-security-with-custom-lock-patterns-on-windows-11/"><u>Steps to Enhance Security with Custom Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-strategy-pairing-airpods-with-windows-pcs/"><u>Stepwise Strategy: Pairing AirPods with Windows PCs</u></a></li>
 </ul></div>
 

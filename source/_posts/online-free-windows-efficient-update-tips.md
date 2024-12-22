@@ -1,7 +1,7 @@
 ---
 title: "Online-Free Windows: Efficient Update Tips"
-date: 2024-08-23T06:58:44.358Z
-updated: 2024-08-24T06:58:44.358Z
+date: 2024-12-20T06:18:01.973Z
+updated: 2024-12-21T17:59:07.191Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 ## Online-Free Windows: Efficient Update Tips
 
  If there's a computer that's in an isolated environment, where it can't access the internet, updating it can seem impossible. Luckily, there's a program you can use to download the needed Windows Updates on a computer that has internet access and then install them on the offline computer. It's called Portable Update, and we're going to show you how to use it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Download and Install Portable Update
 
@@ -36,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
 ![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
 
  Now, that you know what's available, it's time to download the files for offline installation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Download the Windows Update You Want
 
  To download the files, click on the **Download** tab at the top to view the downloadable files, along with other details, such as their size, and severity. Click on the checkbox on the right of the update you want to download (you can select more than one), and then click on **Start** in the top-right corner of the screen. When selecting the files to download, make sure their **Status** column says **Not Installed**.
@@ -53,29 +57,19 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 ![the Download tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-download-tab-in-portable-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the download finishes, it will disappear from the list. Portable Update will place the Windows Update files in the **Cache** folder, which is where it will look when you try to install them on the other computer.
 
 ![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you're ready to move the program over to the offline computer.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Install the Selected Windows Updates
 
  Unplug the USB drive with Portable Update on it, plug it into the offline computer, and launch it. Now, go to the **Install** tab, select all the downloads you want to install, and then click **Start** in the top-right corner. Portable Update will then install the updates.
@@ -83,18 +77,14 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 ![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Install Windows Updates Another Way
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +92,22 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-swiftly-resolving-delayed-videos-in-facebooks-chatting-application-for-mobile-devices/"><u>[New] In 2024, Swiftly Resolving Delayed Videos in Facebook's Chatting Application for Mobile Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-sharing-made-simple-camera-roll-to-social-now-for-2024/"><u>[Updated] Snap Sharing Made Simple Camera Roll to Social Now for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oneplus-nord-n30-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your OnePlus Nord N30 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-visual-diskspace-analyzers-into-windows-ui/"><u>Embedding Visual DiskSpace Analyzers Into Window's UI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-and-scrutinize-your-pdfs-using-these-6-innovative-chatgpt-conversational-tools/"><u>Engage and Scrutinize Your PDFs Using These 6 Innovative ChatGPT Conversational Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-the-windows-mobility-center-in-windows-11/"><u>How to Disable the Windows Mobility Center in Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-drafting-a-compelling-closing-statement-for-tiktok/"><u>In 2024, Drafting a Compelling Closing Statement for TikTok</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 7?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x0000011b-in-win11/"><u>Mastering the Resolution of Error 0X0000011B in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-vr-headsets-woes-expert-fix-for-oculus-gear-malfunctions-in-the-new-year/"><u>Solving Your VR Headset's Woes: Expert Fix for Oculus Gear Malfunctions in the New Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-ensuring-fresh-look-of-windows-applications/"><u>Strategies for Ensuring Fresh Look of Windows Applications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-15-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 15 Making It Possible</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-drops-its-may-15-deadline-for-accepting-new-privacy-policy/"><u>WhatsApp Drops Its May 15 Deadline for Accepting New Privacy Policy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-overhaul-alteration-of-ruleset/"><u>Windows Security Overhaul: Alteration of Ruleset</u></a></li>
+</ul></div>
+

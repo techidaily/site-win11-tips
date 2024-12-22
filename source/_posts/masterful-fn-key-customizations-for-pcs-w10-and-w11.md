@@ -1,7 +1,7 @@
 ---
 title: Masterful Fn Key Customizations for PCs, W10 & W11
-date: 2024-12-10T02:35:11.772Z
-updated: 2024-12-13T00:14:56.363Z
+date: 2024-12-17T08:40:04.622Z
+updated: 2024-12-22T05:17:59.094Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
  The easiest way to change function keys is by modifying settings within the Windows Mobility Center. This method, however, will only work for those of you using a Dell device.
@@ -43,12 +47,13 @@ Here is how to proceed:
 2. Alternatively, launch the Control Panel and navigate to the**Hardware and Sound** section.  
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
-![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
-4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
+4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
@@ -87,15 +92,7 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
 
@@ -110,12 +107,17 @@ If you are a Windows 11 user, follow these steps:
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
@@ -127,7 +129,7 @@ If you are a Windows 11 user, follow these steps:
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
@@ -163,16 +165,17 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/battle-for-neighborville-an-unforgettable-encounter-with-hilarious-plant-zombie-shooting-action/"><u>'Battle for Neighborville': An Unforgettable Encounter with Hilarious Plant-Zombie Shooting Action</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-vr-on-the-go-smartphones-top-10-choices/"><u>[New] 2024 Approved VR on the Go Smartphones' Top 10 Choices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/harting-the-course-to-trending-youtubers/"><u>[New] Charting the Course to Trending YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-secrets-behind-iconic-mukbang-videos/"><u>[New] In 2024, Decoding the Secrets Behind Iconic Mukbang Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4wmvmovavi/"><u>網路直通無限 - 優質MP4到WMV自由轉換：Movavi頂尖解決方案</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-ignite-discussion-with-custom-creative-story-inquiries/"><u>In 2024, Ignite Discussion with Custom, Creative Story Inquiries</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/indiana-jones-movie-marathon-the-ideal-progression-for-ultimate-enjoyment/"><u>Indiana Jones Movie Marathon: The Ideal Progression for Ultimate Enjoyment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-zet-omhet-voor-mxf-files-eenvoudigheid-en-kostenloosheid-met-movavi-solutions/"><u>Online Zet Omhet Voor MXF Files: Eenvoudigheid en Kostenloosheid Met Movavi Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ouroboros-uma-lista-com-10-estrategias-inteligentes-utilizando-ia-para-elevar-a-qualidade-dos-seus-videos/"><u>Ouroboros: Uma Lista Com 10 Estratégias Inteligentes Utilizando IA Para Elevar a Qualidade Dos Seus Vídeos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/veezie-3gp-in-gratis-online-wav-vormaat-met-movavi-konverteren-efficient/"><u>Veezie 3GP in Gratis Online WAV-Vormaat Met Movavi - Konverteren Efficiënt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lg-unveils-new-dimensions-with-its-360-degree-vr-headgear/"><u>[Updated] In 2024, LG Unveils New Dimensions with Its 360-Degree VR Headgear</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro Max iOS System? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-remedy-correcting-disk-read-issues/"><u>Immediate Remedy: Correcting Disk Read Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-warzone-glitches-cutting-edge-fixes-to-enhance-your-desktop-gaming-quality/"><u>Navigating Through Warzone Glitches: Cutting-Edge Fixes to Enhance Your Desktop Gaming Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-guide-installing-and-exploring-ifunnys-meme-app-for-2024/"><u>Quick Guide Installing & Exploring iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-gameplay-win-troubleshooting-epic-login/"><u>Reviving Your Gameplay: Win Troubleshooting Epic Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-disregard-fake-virus-alert-from-chrome/"><u>Steps to Disregard Fake Virus Alert From Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-0x80246007-windows-update-problems/"><u>Swift Solutions to 0X80246007 Windows Update Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-ignoring-misleading-anti-virus-alerts-in-chrome/"><u>Tutorial: Ignoring Misleading Anti-Virus Alerts in Chrome</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-c51-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme C51 FRP Bypass</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-maintain-high-quality-video-compression-of-avi-files-in-windows-10/"><u>Ultimate Guide: Maintain High-Quality Video Compression of AVI Files in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vision-and-motion-fusion-leading-phones-combining-power-speed-and-smooth-shots/"><u>Vision & Motion Fusion Leading Phones Combining Power, Speed, and Smooth Shots</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Embedding Visual DiskSpace Analyzers Into Window's UI
-date: 2024-12-06T00:46:17.604Z
-updated: 2024-12-12T23:04:53.917Z
+date: 2024-12-18T16:33:30.890Z
+updated: 2024-12-21T21:48:17.414Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
 
  RidNacs will open and display drive storage usage for all subfolders and files within the directory, as shown in the snapshot directly below. The graphical bars there show you the percentage volume of all the subfolders and files within the selected directory. That window also shows the number of files in each subfolder along with standard size details.
@@ -61,7 +53,11 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**Next** when installation is complete.
 7. Click**Finish** to exit the Disk Savvy setup window.
 
@@ -90,9 +82,17 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
@@ -127,19 +127,22 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook-for-2024/"><u>[Updated] Broadcast Your Previous Video A Guide to Live-Streaming on Facebook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-your-twitch-stream-game-with-these-5-steps/"><u>2024 Approved Elevate Your Twitch Stream Game with These 5 Steps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-enriching-storytelling-the-magic-of-adding-music-to-reels/"><u>2024 Approved Enriching Storytelling The Magic of Adding Music to Reels</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-fire-tablet-vs-ipad-which-tablet-fits-your-lifestyle-best/"><u>Amazon Fire Tablet Vs. IPad: Which Tablet Fits Your Lifestyle Best?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enjoy-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-omzetten-van-caf-naar-mp3-met-movavi-voorlopig-makkelijk-en-efficient/"><u>Gratis Online Omzetten Van CAF Naar MP3 Met Movavi - Voorlopig Makkelijk en Efficiënt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-wegwijzer-om-ts-in-wmv-te-konverteren-onlinelastig/"><u>Gratuit Wegwijzer Om TS in WMV Te Konverteren - Onlinelastig</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/improve-youtube-viewing-of-fb-videos-on-android/"><u>Improve YouTube Viewing of FB Videos on Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/muting-problem-solutions-for-obs-sound-capture/"><u>Muting Problem Solutions for OBS Sound Capture</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>New Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-premium-brain-boosting-apps-discover-the-worlds-top-6-for-intellectual-growth/"><u>The Ultimate Selection of Premium Brain Boosting Apps: Discover the World's Top 6 for Intellectual Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-images-seamlessly-convert-jpgs-to-gifs-at-no-cost-using-movavi/"><u>Transform Your Images Seamlessly: Convert JPGs to GIFs at No Cost Using Movavi</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/transformacion-gratuita-de-archivos-audiovideo-en-el-correo-electronico-con-convertidores-online-movavi/"><u>Transformación Gratuita De Archivos Audio/Video en El Correo Electrónico Con Convertidores Online - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforme-seu-png-em-jpeg-rapidamente-com-o-conversor-da-movavi-simplicidade-guiada/"><u>Transforme Seu PNG Em JPEG Rapidamente Com O Conversor Da Movavi - Simplicidade Guiada</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-teamimage-blurring-backgrounds-on-microsoft-teams/"><u>[New] Enhancing TeamImage Blurring Backgrounds on Microsoft Teams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[New] In 2024, Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-14-ultra-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi 14 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-perfection-ios-and-androids-best-montage-aides-for-2024/"><u>Crafting Perfection IOS & Android's Best Montage Aides for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-drivers-for-the-hp-deskjet-ink-advantage-3520-easily/"><u>Download & Install Drivers for the HP Deskjet Ink Advantage 3520 Easily</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/macos-sonoma-and-its-impactful-game-mode-features/"><u>MacOS Sonoma and Its Impactful Game Mode Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-quick-fix-methods-for-kickstarting-your-game-of-battlefield-5-ultimate-guide/"><u>Master the Quick-Fix Methods for Kickstarting Your Game of Battlefield 5 – Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-pc-health-streamlined-autoupdate-and-amd-video-replacement/"><u>Optimal PC Health: Streamlined Autoupdate & AMD Video Replacement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-disabled-netflix-windows-app/"><u>Reactivating Disabled Netflix Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-application-couldnt-start-error-code-0xc000003e-in-win11/"><u>Resolving The Application Couldn't Start: Error Code 0XC000003E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-and-swift-optimal-strategies-for-qr-code-scanning-in-windows/"><u>Secure & Swift: Optimal Strategies for QR Code Scanning in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilizing-default-windows-safescreensaver-settings/"><u>Stabilizing Default Windows SafeScreensaver Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-protocol-for-correcting-windows-11s-voice-keyboard-error/"><u>Step-by-Step Protocol for Correcting Windows 11'S Voice Keyboard Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-copilot-protocol-execution-in-win11/"><u>Stop Copilot Protocol Execution in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-desktop-setup-insert-gmail-to-windows-edge/"><u>Tailor-Made Desktop Setup: Insert Gmail to Windows Edge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-m3-macbook-pro-insights-on-price-points-specs-and-launch-date/"><u>Unveiling the M3 MacBook Pro: Insights on Price Points, Specs, and Launch Date</u></a></li>
 </ul></div>
 

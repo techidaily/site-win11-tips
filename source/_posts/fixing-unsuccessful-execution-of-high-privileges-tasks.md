@@ -1,7 +1,7 @@
 ---
 title: Fixing Unsuccessful Execution of High Privileges Tasks
-date: 2024-08-16T02:46:27.738Z
-updated: 2024-08-17T02:46:27.738Z
+date: 2024-12-17T19:04:20.447Z
+updated: 2024-12-22T02:14:51.429Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Run as Administrator Not Working?
 
  Before you start fixing things, you must understand what causes this issue. In general, you may experience Run as administrator not working due to the following reasons:
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Group Policy Settings
 
  Is the Run as administrator function not working despite trying the suggestions above? It's likely that group policy settings block the feature. To fix this, head to the Local Group Policy Editor and check the settings.
@@ -74,10 +76,12 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 4. In the right pane, you'll see a list of different security options. Scroll to the bottom and double-click on the **User Account Control: Run all administrators in Admin Approval Mode** policy.  
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
-![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
@@ -97,16 +101,14 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 5. Next, expand the **ContextMenuHandlers** folder and look for any suspicious entries. If you find any, delete them.  
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now exit the Registry Editor and restart your computer.
 
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try Some Generic Fixes
 
  Besides the fixes mentioned above, some generic solutions work in any situation. Try these out if you’re still having issues running applications with elevated privileges:
@@ -116,8 +118,9 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 * [Create a New Administrator User Account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/): If all else fails, try creating a new administrator user account and logging in. This ascertains if your existing account is corrupted or not.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshooting Run as Administrator on Windows
 
  We hope this guide helped you solve the Run as administrator not working on Windows issue. Despite the prevalence of this problem, it’s relatively easy to fix if you know what to do.
@@ -126,11 +129,33 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-instagram-experience-with-in-story-captions-for-2024/"><u>[New] Enhancing Instagram Experience with In-Story Captions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-influence-a-peek-at-top-25-social-media-icons-on-insta-for-2024/"><u>[New] Inside Influence A Peek at Top 25 Social Media Icons on Insta for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-estimating-byte-consumption-of-full-film-daily/"><u>2024 Approved Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-hot-hands-on-10-must-have-vr-peripherals/"><u>2024 Approved Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quantum-hdr-unveiled-industry-insights/"><u>2024 Approved Quantum HDR Unveiled Industry Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-15-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 15 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Itel A70</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-authentication-errors-in-windows-os/"><u>Combatting Authentication Errors in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-inadequate-access-for-app-updates-and-removals/"><u>Dealing with Inadequate Access for App Updates and Removals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-visual-diskspace-analyzers-into-windows-ui/"><u>Embedding Visual DiskSpace Analyzers Into Window's UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-speed-turbocharging-launcher-download-times/"><u>Epic Speed: Turbocharging Launcher Download Times</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-touchpad-right-click-issue-in-windows-11-resolved/"><u>Fix: Touchpad Right-Click Issue in Windows 11 - Resolved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-the-windows-mobility-center-in-windows-11/"><u>How to Disable the Windows Mobility Center in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x0000011b-in-win11/"><u>Mastering the Resolution of Error 0X0000011B in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-games-to-pcwindows-using-google-play/"><u>Navigating Android Games to PC/Windows Using Google Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-ajnata-konvertacia-vidio-v-podobie-mp3-rychlik-nejvice-uspesnosti/"><u>Online Ajnáta Konvertácia Vidio v Podobie MP3 Rychlík - Nejvíce Úspešnosti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-dashboard-for-atis-hd-4800-driver-updates/"><u>Quick Dashboard for ATI's HD 4800 Driver Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-ensuring-fresh-look-of-windows-applications/"><u>Strategies for Ensuring Fresh Look of Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-overhaul-alteration-of-ruleset/"><u>Windows Security Overhaul: Alteration of Ruleset</u></a></li>
+</ul></div>
+

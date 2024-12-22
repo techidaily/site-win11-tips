@@ -1,7 +1,7 @@
 ---
 title: Recovering Windows 11 Search Bar Operability in Settings App
-date: 2024-12-06T23:18:31.880Z
-updated: 2024-12-12T20:09:16.586Z
+date: 2024-12-15T07:22:05.156Z
+updated: 2024-12-22T01:23:48.937Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Device
 
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-11-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A restart can fix many issues that are plaguing your system. When you restart your PC, you are essentially instructing it to start with a clean slate, leaving behind issues that might be causing trouble. Restarting your PC can also fix the Search issue in the Settings app.
 
@@ -38,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides new features, software updates are meant to improve performance by fixing issues impacting your PC. While it can happen to anyone, a dysfunctional Search can be pretty common if you are running a Windows 11 Insider build. Either way, if you are seeing a software update on the**Windows Update** page in the Settings app, you should install it to see if it fixes the issue.
@@ -58,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  The troubleshooter will look for the root cause of the issue and offer you solutions. Now, follow the fixes it recommends and see if the problem is gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reset the Settings App
 
 ![Settings app setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/settings-app-setting-edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can troubleshoot whatever is causing the Search issue in the Settings app by resetting or repairing it. A reset will take the Settings app to a normal state, though the app data will be deleted. On the other hand, if you repair the app, your system will look for what's causing the problem and try to fix it without deleting app data.
 
@@ -78,16 +86,12 @@ To reset or repair the Settings app, follow the below steps:
  Under the**Reset** option, you will see**Repair** and**Reset** . Try repairing the app first, as it will not delete anything. However, if repairing does not work, you should try the**Reset** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use Commands in PowerShell to Reset Settings App
 
 ![PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  PowerShell in Windows 11 is a powerful tool that helps you control your PC from a command-line interface. One of the things you can do using PowerShell is reset what's causing the issue to its original setting.
 
@@ -96,10 +100,6 @@ To reset or repair the Settings app, follow the below steps:
 `Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage`
 
  It will reset the Settings app and take it back to its default state, which means you can find settings quickly by searching in the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Windows Explorer Search Strip, Restored
 
@@ -120,14 +120,20 @@ To reset or repair the Settings app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>[New] Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-powerpoint-recording-on-camera-for-professionals-for-2024/"><u>[New] Mastering PowerPoint Recording on Camera for Professionals for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/asuss-best-in-class-ally-docks-discovered/"><u>Asus's Best-in-Class Ally Docks - Discovered</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-absent-application-issue-on-windows-devices/"><u>Fixing Absent Application Issue on Windows Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-find-n3-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Find N3 Flip</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-visual-quality-and-fps-in-roblox-gameplay-windows/"><u>Improving Visual Quality & FPS in Roblox Gameplay Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recover-lost-sound-adjustments-post-windows-update/"><u>Recover Lost Sound Adjustments Post-Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mouse-gesture-setup-for-windows-11s-microsoft-edge/"><u>Step-By-Step Guide to Mouse Gesture Setup for Windows 11'S Microsoft Edge</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevating-posts-how-to-trend-on-social-media/"><u>[New] Elevating Posts How to Trend on Social Media</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>[Updated] Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-the-perfect-day-for-podcast-release/"><u>[Updated] Crafting the Perfect Day for Podcast Release</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-gopro-editors-blueprint-to-stunning-colored-images/"><u>[Updated] In 2024, The GoPro Editor's Blueprint to Stunning Colored Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-s23-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel S23 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-non-installed-disk-errors-and-how-to-tackle-them-in-windows-11/"><u>Deciphering 'Non-Installed Disk' Errors and How To Tackle Them in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-in-file-history-settings-on-windows-pcs/"><u>Fixing Error in File History Settings on Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-11-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus 11 5G FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-directx-installation-problems/"><u>Overcoming DirectX Installation Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scaling-back-on-excessive-ntoskrnlexe-demand/"><u>Scaling Back on Excessive Ntoskrnl.exe Demand</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-replicating-conditional-formatting-rules-in-excel/"><u>Step-by-Step Guide: Replicating Conditional Formatting Rules in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-0x80246007-windows-update-problems/"><u>Swift Solutions to 0X80246007 Windows Update Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-views-configuring-windows-11-dual-monitors/"><u>Tailor Your Views: Configuring Windows 11 Dual Monitors</u></a></li>
 </ul></div>
 

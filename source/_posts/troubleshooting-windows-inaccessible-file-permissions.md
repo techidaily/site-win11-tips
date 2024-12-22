@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows' Inaccessible File Permissions
-date: 2024-08-23T07:00:30.554Z
-updated: 2024-08-24T07:00:30.554Z
+date: 2024-12-20T06:37:28.275Z
+updated: 2024-12-22T06:52:27.537Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Now you know what causes this error, let's explore the solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Take Ownership of the Folder
 
  If granting full control permissions does not work, take ownership of the folder to get more control. Taking ownership means you can manage, access, and delete files within it. Here's how to do it:
@@ -54,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
@@ -75,31 +73,36 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 3. Scroll down to find the **Microsoft Photos** app. You can also use the search bar to find it.  
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 5\. Run the Program Compatibility Troubleshooter
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
 
@@ -107,11 +110,33 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  In this article, we explain how to fix this error, so you can view your photos again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decoding-the-usefulness-what-does-fbs-blue-icon-mean/"><u>[New] In 2024, Decoding the Usefulness What Does FB’s Blue Icon Mean?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-introduction-to-moving-graphics-core-principles/"><u>[New] In 2024, Introduction to Moving Graphics Core Principles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[Updated] In 2024, Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-d3d11-compatible-gpu-error-on-win11win10/"><u>Demystifying the D3D11-Compatible GPU Error on Win11/Win10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-ai-tool-assisted-prompt-engineering-applications/"><u>Discover the Ultimate 5 AI Tool Assisted Prompt Engineering Applications</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-picture-sequence-architect/"><u>In 2024, Ultimate Picture Sequence Architect</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-camon-20-premier-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Camon 20 Premier 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-blogging-revenue-with-ads-from-buyselladscom/"><u>Maximize Your Blogging Revenue with Ads From buySellAds.com</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cpu-excesses-windows-resource-monitors-secrets-revealed/"><u>Navigating CPU Excesses: Windows Resource Monitor's Secrets Revealed</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-vintage-vs-modern-ranking-radio-sound-effects/"><u>New 2024 Approved Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-control-turn-around-windows-update-dilemmrancies/"><u>Reclaim Control: Turn Around Windows Update Dilemmrancies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rejuvenate-a-stalled-discord-overlay-in-windows/"><u>Steps to Rejuvenate a Stalled Discord Overlay in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-struggle-within-the-shadows-seeking-freedom-in-a-regulated-world/"><u>The Struggle Within the Shadows: Seeking Freedom in a Regulated World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-3-fixes-to-regain-access-on-win1011s-dark-screens/"><u>Top 3 Fixes to Regain Access on Win10/11's Dark Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-fixing-your-non-functional-corsair-hs60-microphone/"><u>Troubleshooting Tips: Fixing Your Non-Functional Corsair HS60 Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-wise-stop-rounded-corner-style/"><u>Window Wise: Stop Rounded Corner Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-a-deep-dive-into-gpo-enforcement-per-user/"><u>Windows 10/11: A Deep Dive Into GPO Enforcement Per User</u></a></li>
+</ul></div>
+

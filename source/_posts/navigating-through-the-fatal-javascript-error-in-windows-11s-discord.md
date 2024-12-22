@@ -1,7 +1,7 @@
 ---
 title: Navigating Through The Fatal JavaScript Error in Windows 11'S Discord
-date: 2024-12-06T00:58:25.979Z
-updated: 2024-12-12T22:18:22.828Z
+date: 2024-12-21T08:57:30.088Z
+updated: 2024-12-21T17:41:19.535Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 7. Choose a**Discord** version.
 8. Click**Uninstall** to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete Discord’s Data Folders
 
  The fatal Javascript error often arises because of corrupted Discord cache data. Fortunately, erasing a couple of Discord data folders will clear out any corruption.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 5. Open Windows Explorer with**Win + E** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 3. Click**Manage Settings** to view the options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
@@ -129,16 +129,17 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
@@ -163,14 +164,24 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-legal-labyrinth-of-sharing-music-on-instagram/"><u>[Updated] 2024 Approved Decoding the Legal Labyrinth of Sharing Music on Instagram</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-demystifying-the-math-of-youtube-ratio-perfection-for-2024/"><u>[Updated] Demystifying the Math of YouTube Ratio Perfection for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>[Updated] Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>2024 Approved Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-windows-registry-tweaks-guide/"><u>Command Prompt: Windows Registry Tweaks Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-archive-support-on-windows-11/"><u>How to Enable Archive Support on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-pathway-setting-up-movie-maker-6/"><u>In 2024, Perfect Pathway Setting Up Movie Maker 6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-resemble-macos-adopting-5-key-visual-changes/"><u>Making Windows Resemble MacOS: Adopting 5 Key Visual Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-windows-11s-resource-monitor-when-it-fails/"><u>Resetting Windows 11'S Resource Monitor When It Fails</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-ranked-drones-synced-seamlessly-with-gopros/"><u>[Updated] 2024 Approved Top-Ranked Drones Synced Seamlessly With GoPros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-for-exceptional-tiktok-video-production/"><u>[Updated] Expert Tips for Exceptional TikTok Video Production</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-drive-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube/"><u>[Updated] In 2024, Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/cracking-the-code-windows-versioning-insight/"><u>Cracking the Code: Windows Versioning Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-error-code-0xc1900101/"><u>Decoding Windows 11 Error Code: 0XC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digging-deep-into-windows-11-its-inner-workings-revealed/"><u>Digging Deep Into Windows 11: Its Inner Workings Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-and-resolving-windows-entry-not-found/"><u>Dissecting and Resolving Windows 'Entry Not Found'</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-finding-installed-programs-locations/"><u>Essential Tips: Finding Installed Programs' Locations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-powerful-programs-for-efficient-screen-grabbing-without-windows/"><u>Five Powerful Programs for Efficient Screen Grabbing Without Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-an-idle-windows-start-button-problem/"><u>Fixing an Idle Windows Start Button Problem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-resolve-issues-with-non-responsive-windows-media-player-on-your-pc/"><u>How to Resolve Issues with Non-Responsive Windows Media Player on Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-crop-companions-best-farming-games-to-gather-with-buddies/"><u>In 2024, Crop Companions Best Farming Games to Gather with Buddies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpiece-magic-creating-artwork-on-win-1011/"><u>Masterpiece Magic: Creating Artwork on Win 10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/power-meets-style-delving-into-the-durable-battery-features-of-motorolas-newest-offering-the-moto-g-power/"><u>Power Meets Style: Delving Into the Durable Battery Features of Motorola's Newest Offering, The Moto G Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-based-roblox-error-due-to-account-settings/"><u>Remedying Windows-Based Roblox Error Due To Account Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reorganize-storage-with-onedrive-on-windows-11-platform/"><u>Reorganize Storage with OneDrive on Windows 11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-persistent-pin-failures-in-windows-os/"><u>Strategies to Overcome Persistent PIN Failures in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-solutions-for-a-quiet-laptop/"><u>Troubleshooting Complete Silence: Solutions for a Quiet Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-the-command-prompt-for-advanced-registry-customizations/"><u>Utilizing the Command Prompt for Advanced Registry Customizations</u></a></li>
 </ul></div>
 

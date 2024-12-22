@@ -1,7 +1,7 @@
 ---
 title: "Clear Out Windows: A Guide to Auto-Delete Files and Folders"
-date: 2024-12-11T23:18:06.679Z
-updated: 2024-12-12T20:41:20.615Z
+date: 2024-12-19T22:06:40.581Z
+updated: 2024-12-21T16:50:36.191Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 3. Scroll down and click on **Storage** on the right-hand side. Here, you will find various computer data storage and management options.  
 ![Stoage in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stoage-in-system-settings.jpg)
 4. Now, you will see a toggle switch under **Storage Sense**. If it's turned off, click to switch it on. This feature enables Windows to delete no longer needed files automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn on Storage Sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-storage-sense.jpg)
 5. Once Storage Sense is active, click the tiny arrow next to it to expand the options.
 6. On the next screen, you'll find an option that says, **Delete files in my recycle bin if they have been there for over**. Click the drop-down menu beside this and select the duration, after which Windows should empty the recycle bin automatically.
@@ -46,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 8. You can also configure the system to delete downloaded files that haven't been used for several days. To do so, click the **Delete files in my Downloaded folder if they haven't been opened for more than** drop-down menu and select the desired option.
 
  Once you're done, close the Settings window. Windows will automatically empty your Recycle Bin from now on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Automate the Recycle Bin Using the Task Scheduler
 
@@ -59,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 5. Enter a name for your task (e.g., Empty Recycle Bin) and a brief description if you want. Then, click the **Next** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. The following window will ask you to select the frequency when Windows should empty your Recycle Bin. You can choose Daily, Weekly, Monthly, or One time only. Once you've chosen your preferred frequency, click **Next**.  
 ![Create a Basic Task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-a-basic-task.jpg)
 2. After that, set the start date and time for your task. Also, select **Recur every** to specify the total duration of each cleaning session. Then, click **Next**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Start Date and Time in Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-date-and-time-in-task-wizard.jpg)
 3. You must specify what action Windows should perform when this task runs. Click on the **Start a program** option and click **Next** again.  
@@ -79,20 +84,16 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 5. Running this command will delete your Recycle Bin content. Click **Next** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now, you can review your settings and tick **Open the Properties dialog for this task when I click Finish** if you want to make any changes. When done, hit the **Finish** button.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/finish-task-wizard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you're done, close the Task Scheduler window. From now on, Windows will empty your Recycle Bin according to your specified frequency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Automate the Recycling Process on Windows
@@ -101,21 +102,6 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  Let's look at the different ways to auto-empty the Recycle Bin on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-from-spoken-word-to-memo-iphone-audio-guidance/"><u>[New] 2024 Approved From Spoken Word to Memo IPhone Audio Guidance</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-best-5k-displays-list-8/"><u>2024 Approved Discovering Best 5K Displays - List #8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defender-history-erase-rituals-for-secure-windows-1011-devices/"><u>Defender History Erase Rituals for Secure Windows 10/11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatching-digital-speed-dismantling-windows-100mbps-barrier/"><u>Dispatching Digital Speed: Dismantling Windows’ 100Mbps Barrier</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-zdnet-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro | ZDNET Recommendations</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 12 Safe and Legal</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-transitioning-photos-from-physical-to-digital-storage/"><u>In 2024, Transitioning Photos From Physical to Digital Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-outlook-unveiling-vrs-downfalls/"><u>Inside Outlook Unveiling VR's Downfalls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-quell-the-no-email-malfunction-in-app/"><u>Mastering Windows 11: Quell the No Email Malfunction in App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-recurring-bios-failures-on-windows/"><u>Mitigating Recurring BIOS Failures on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-signature-checks-for-updating-unsigned-drivers-in-oses/"><u>Removing Signature Checks for Updating Unsigned Drivers in OSes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +109,25 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-viral-traction-via-youtube-short-content/"><u>[New] In 2024, Surge Viral Traction via YouTube Short Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-secretive-approach-to-watching-insta-stories-for-2024/"><u>[Updated] Secretive Approach to Watching Insta-Stories for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-updates-and-downloads-for-your-microsoft-surface-book/"><u>Effortless Driver Updates & Downloads for Your Microsoft Surface Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-embed-google-play-into-your-win11/"><u>How to Embed Google Play Into Your Win11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-enable-youtube-videos-to-self-play-on-facebook-for-2024/"><u>How to Enable Youtube Videos to Self-Play on Facebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-invalid-user-alerts-in-w11-operating-systems/"><u>How to Rectify Invalid User Alerts in W11 Operating Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-macpc-vmix-bridge-software/"><u>In 2024, MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-live-content-utilizing-wirecast-for-fb/"><u>In 2024, Master the Art of Live Content Utilizing Wirecast for FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-how-to-fix-your-pc-controller/"><u>Regaining Control: How to Fix Your PC Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shut-off-redundant-windows-alerts-and-recommendations/"><u>Shut Off Redundant Windows Alerts and Recommendations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-network-with-dns-setup-in-windows-11/"><u>Streamline Your Network with DNS Setup in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-challenges-of-xbox-game-pass-error-0x00000001-with-windows-11-pcs/"><u>Tackling the Challenges of Xbox Game Pass Error 0X00000001 with Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-insight-on-wintoys-unlocking-its-full-potential-in-windows/"><u>The Ultimate Insight on WinToys: Unlocking Its Full Potential in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-razr-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Razr 40 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-function-keys-in-windows-11-display/"><u>Troubleshooting Non-Responsive Function Keys in Windows 11 Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/uniting-digital-and-physical-worlds/"><u>Uniting Digital and Physical Worlds</u></a></li>
+</ul></div>
+

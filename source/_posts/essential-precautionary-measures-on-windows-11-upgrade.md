@@ -1,7 +1,7 @@
 ---
 title: Essential Precautionary Measures on Windows 11 Upgrade
-date: 2024-12-07T02:07:03.739Z
-updated: 2024-12-12T22:58:17.770Z
+date: 2024-12-18T02:48:25.250Z
+updated: 2024-12-22T00:21:11.629Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Microsoft Defender Protects Your PC From Threats, Never Disable It
 
 ![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft Defender, formerly known as Windows Defender, is your default antivirus app that protects your PCs from various threats, including viruses, malware, spyware, and phishing. It protects you from falling prey to threats emanating from both online and offline.
 
@@ -60,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
@@ -83,23 +75,19 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  If you're not a pro at generating a strong password by yourself, check our list of the [best password generators for Windows](https://www.makeuseof.com/desktop-password-generators-windows/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Never Use Public Wi-Fi Without VPN
 
 ![connecting to a virtual private network on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-screen-showing-a-vpn-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Public Wi-Fi services can come to your rescue if you've run out of mobile data and don't have broadband at home. It's essentially free internet offered by businesses, organizations, or municipalities in public places, helping you save money.
 
  Before the benefits lure you into logging into public WiFi, just be aware of the risk involved. However, you can mitigate the risks by using a VPN service.
 
  A VPN service will not expose your true identity to hackers, thus helping you stay protected and protect your privacy. We have a guide to help you choose between the [fastest VPN services](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Outdated Software Can Give You Trouble, Try to Avoid Them
 
@@ -113,17 +101,29 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  User Account Control (UAC) is a security feature in Windows 11\. It's enabled by default to keep your PC safe from risks that could be triggered when you make specific changes to your PC.
 
  When enabled, UAC will display a warning message asking you to allow or deny those changes on your PC. It may also ask for an administrator password before letting you make unauthorized changes.
 
  Unless you're an advanced user wanting to bypass those prompts, you should never [disable the UAC prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/). When UAC is turned off, you won't get any prompts to warn you about the consequences of the change. So, if you're a casual user, you better avoid changing the UAC's default state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Avoid Installing Too Many Programs on Your PC
 
  When you're no longer using a program, it's always better to get rid of it. We recommend you uninstall all the programs that are no longer essential to you. By uninstalling them, you can free the system's memory and improve the overall performance of your PCs.
 
  Moreover, you should always keep an eye on the number of apps running in the background. And if too many of them are in the background, the app currently in use may not be as responsive as you'd want it to be. Installing too many apps on your PC makes your system more cluttered and makes it difficult to find them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Now You're Aware of What You Shouldn't Do in Windows 11
 
@@ -133,27 +133,6 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims/"><u>[New] In 2024, The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/kyrocket-subscribers-mastering-youtube-traffic-boost-for-2024/"><u>[New] Skyrocket Subscribers Mastering YouTube Traffic Boost for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guided-approach-to-saving-exact-youtube-segments/"><u>[Updated] 2024 Approved Guided Approach to Saving Exact YouTube Segments</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter/"><u>[Updated] Instagram Verified Posts - Do They Matter?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/battle-for-best-action-camera-sony-fdr-x1000v-meets-hero-4-black/"><u>Battle for Best Action Camera Sony FDR-X1000V Meets Hero 4 Black</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-stealthy-camera-alerts-on-windows-11/"><u>Disabling Stealthy Camera Alerts on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-extend-your-win11-menu-with-portables/"><u>Effortlessly Extend Your Win11 Menu With Portables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-countering-cant-get-mail-errors-in-mail-app-of-windows-11/"><u>Expert Guide: Countering Can't Get Mail Errors in Mail App of Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-or-remove-the-run-as-different-user-option-to-start-on-windows-11/"><u>How to Add or Remove the “Run as Different User” Option to Start on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v29e-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V29e Without PUK Codes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-learn-to-make-a-flawless-square-video-in-imovie-for-instagram/"><u>In 2024, Learn to Make a Flawless Square Video in iMovie for Instagram</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-jackery-powerbar-with-integrated-ac-socket/"><u>In-Depth Analysis of the Jackery PowerBar with Integrated AC Socket</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-11-common-windows-11-issues/"><u>Navigating 11 Common Windows 11 Issues</u></a></li>
-<li><a href="https://fox-where.techidaily.com/prevent-and-resolve-computer-overheating-essential-tips-by-yl-software-professionals/"><u>Prevent and Resolve Computer Overheating: Essential Tips by YL Software Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sudo-integration-in-windows-the-evolution/"><u>Sudo Integration in Windows: The Evolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-defective-zip-operations-in-win-11-os/"><u>Tackling Defective ZIP Operations in Win 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-system-efficiency-sleep-vs-hibernate-vs-shutdown/"><u>Windows System Efficiency: Sleep Vs. Hibernate Vs. Shutdown</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +140,17 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-green-screen-recorders-how-to-use-them/"><u>[New] 2024 Approved Best Green Screen Recorders How to Use Them?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-masters-of-digital-avengers-realms/"><u>2024 Approved Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-common-issues-with-steam-installation-windows-11/"><u>Combatting Common Issues with Steam Installation, Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reactivate-and-fix-turned-off-mobile-internet-connection/"><u>Guide to Reactivate and Fix Turned Off Mobile Internet Connection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt/"><u>In 2024, Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-bloatware-12-unneeded-windows-apps-you-should-uninstall/"><u>Slash Bloatware: 12 Unneeded Windows Apps You Should Uninstall</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-guide-to-navigating-stardews-ginger-island/"><u>The Ultimate Guide to Navigating Stardew’s Ginger Island</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-organization-best-windows-to-dos-compared/"><u>Unleashing Organization: Best Windows To-Dos Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-easy-route-to-screen-grabber-tool/"><u>Windows 11'S Easy Route to Screen Grabber Tool</u></a></li>
+</ul></div>
+
