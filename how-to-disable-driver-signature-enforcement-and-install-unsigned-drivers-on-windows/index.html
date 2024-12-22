@@ -27,21 +27,14 @@
 <meta property="og:description" content="This Article Describes How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg">
-<meta property="og:image" content="https://awario.com/images/pages/index/img-leads-1280@1x.avif">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-the-code-signing-for-driver-packages-policy.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2087264">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/2087264/19272">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-the-code-signing-for-driver-packages-policy.jpg">
-<meta property="og:image" content="https://www.epubor.com/images/drm-removal-feature2.png">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-off-driver-signature-enforcement-in-terminal.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/secure-boot-error-powershell.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-on-test-mode-in-terminal.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/17238-1496243">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1496243/17238">
-<meta property="og:image" content="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png">
-<meta property="article:published_time" content="2024-08-15T18:48:07.545Z">
-<meta property="article:modified_time" content="2024-08-16T18:48:07.545Z">
+<meta property="article:published_time" content="2024-12-16T09:45:22.055Z">
+<meta property="article:modified_time" content="2024-12-21T17:11:58.647Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -676,7 +669,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">20576</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">21046</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -727,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-08-16 02:48:07</span>
-        <span class="mobile">2024-08-16 02:48:07</span>
+        <span class="desktop">2024-12-16 17:45:22</span>
+        <span class="mobile">2024-12-16 17:45:22</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-08-17 02:48:07</span>
-            <span class="mobile">2024-08-17 02:48:07</span>
+            <span class="desktop">2024-12-22 01:11:58</span>
+            <span class="mobile">2024-12-22 01:11:58</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -801,6 +794,10 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="How-to-Disable-Driver-Signature-Enforcement-and-Install-Unsigned-Drivers-on-Windows"><a href="#How-to-Disable-Driver-Signature-Enforcement-and-Install-Unsigned-Drivers-on-Windows" class="headerlink" title="How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows"></a>How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</h2><p> Sometimes, Windows will block you from installing an unsigned driver, which is a driver you’ve downloaded elsewhere other than through a Windows Update or the device manufacturer’s website. But if you need the driver, and you know it is perfectly safe, you can turn off driver signature enforcement and let it through.</p>
 <p> In this guide, we’re going to show you several ways to do it.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="How-to-Disable-Driver-Signature-Enforcement-in-the-Startup-Settings"><a href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Startup-Settings" class="headerlink" title="How to Disable Driver Signature Enforcement in the Startup Settings"></a>How to Disable Driver Signature Enforcement in the Startup Settings</h2><p> A temporary way to disable driver signature enforcement is through Startup Settings, allowing you to install the unsigned drivers. However, the moment you restart your PC, Windows will re-enable driver signature enforcement. The unsigned drivers you’ve installed will still work, but you may not be able to install new ones.</p>
 <p> To disable driver signature enforcement this way, you’ll have to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-startup-settings/" >access the Startup Settings screen <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The <strong>Disable driver signature enforcement</strong> option will be the seventh one, so press <strong>F7</strong> or <strong>7</strong> on your keyboard to select it.</p>
 <p><img  
@@ -811,13 +808,9 @@
                 ></p>
 <p> Your computer will then restart, and when it reboots, you’ll be able to install those unsigned drivers.</p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://awario.com/images/pages/index/img-leads-1280@1x.avif"
-                      border="0"
-                ></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="How-to-Disable-Driver-Signature-Enforcement-in-the-Local-Group-Policy-Editor"><a href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Local-Group-Policy-Editor" class="headerlink" title="How to Disable Driver Signature Enforcement in the Local Group Policy Editor"></a>How to Disable Driver Signature Enforcement in the Local Group Policy Editor</h2><p> You can also disable driver signature enforcement by tweaking the <strong>Code signing for driver packages</strong> policy in the Local Group Policy Editor (LGPE). Doing this will allow you to install unsigned drivers even if you restart your computer.</p>
 <p> Unfortunately, you can only natively access the LGPE if you’re on Windows Pro or Enterprise Edition. However, there is a way to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >access the LGPE on Windows Home <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <ol>
@@ -833,40 +826,21 @@
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-the-code-signing-for-driver-packages-policy.jpg"
                       alt="editing the Code signing for driver packages policy"
-                ><!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19272-2087264"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2087264/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ><!-- affiliate ads end --></li>
+                ></li>
 <li>Click the <strong>Enabled</strong> radio button, and then, in the <strong>Options</strong> section, click on the dropdown and select <strong>Ignore</strong>.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-the-code-signing-for-driver-packages-policy.jpg"
                       alt="enabling the Code signing for driver packages policy"
-                ><!-- affiliate ads begin -->
-<a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/drm-removal-feature2.png"
-                      border="0"
-                >Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a><!-- affiliate ads end --></li>
+                ></li>
 <li>Click on <strong>OK</strong>.</li>
 </ol>
 <p> If you want to enable driver signature enforcement again, go back to step #4 and set the radio button to <strong>Not configured</strong>.</p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline=""></p>
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## How to Disable Driver Signature Enforcement in PowerShell
 
-<p> Another way to disable driver signature enforcement is by running the command to turn off integrity checks in PowerShell (you’ll have to run it as an administrator). And just like with the Local Group Policy Editor, it will remain disabled until you enable it again.</p>
+<h2 id="How-to-Disable-Driver-Signature-Enforcement-in-PowerShell"><a href="#How-to-Disable-Driver-Signature-Enforcement-in-PowerShell" class="headerlink" title="How to Disable Driver Signature Enforcement in PowerShell"></a>How to Disable Driver Signature Enforcement in PowerShell</h2><p> Another way to disable driver signature enforcement is by running the command to turn off integrity checks in PowerShell (you’ll have to run it as an administrator). And just like with the Local Group Policy Editor, it will remain disabled until you enable it again.</p>
 <p> Follow the steps below to turn off driver signature enforcement in PowerShell:</p>
 <p> You can disable driver signature enforcement by <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >opening Command Prompt as an administrator <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> if you prefer it over PowerShell.</p>
 <ol>
@@ -880,6 +854,10 @@
                 ></li>
 <li>Hit <strong>Enter</strong> to run the command.</li>
 </ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> To turn on driver signature enforcement again, replace the command in step #3 with <strong>bcdedit &#x2F;set nointegritychecks off</strong>.</p>
 <p> One potential problem you can run into when trying to turn off driver signature enforcement this way is an error stating <strong>The value is protected by Secure Boot policy and cannot be modified or deleted</strong>.</p>
 <p><img  
@@ -898,29 +876,14 @@
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-on-test-mode-in-terminal.jpg"
                       alt="turning on Test Mode in Terminal"
-                ><!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17238-1496243"
-                      border="0" alt="" width="1000" height="1221"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1496243/17238"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ><!-- affiliate ads end --></li>
+                ></li>
 <li>Hit <strong>Enter</strong> to run the command.</li>
 </ol>
 <p> Now restart your computer, and when it boots back up, it will be in test mode. After you’re done installing those drivers, don’t forget to disable test mode. The command to do that is <strong>bcdedit &#x2F;set testsigning off</strong>.</p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png"
-                      border="0"
-                ><br></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Now-You-Can-Install-Unsigned-Drivers-on-Windows"><a href="#Now-You-Can-Install-Unsigned-Drivers-on-Windows" class="headerlink" title="Now You Can Install Unsigned Drivers on Windows"></a>Now You Can Install Unsigned Drivers on Windows</h2><p> Installing unsigned drivers on Windows is not recommended, since they can lead to unexpected behavior. However, if you trust the driver, there’s no reason why the OS should block you from installing it. Just use one of the methods mentioned above, and you should be able to install and use unsigned drivers on your Windows PC.</p>
 <p> In this guide, we’re going to show you several ways to do it.</p>
 <p><ins class="adsbygoogle"
@@ -929,6 +892,21 @@
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/updated-weaving-tech-guide-mastering-screen-recording-on-loom-for-2024/"><u>[Updated] Weaving Tech Guide Mastering Screen Recording on Loom for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-programs-simplifying-your-operating-system-shift/"><u>Crucial Programs Simplifying Your Operating System Shift</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-revival.techidaily.com/effective-strategies-to-safeguard-personal-data-during-professional-use-of-chatgpt/"><u>Effective Strategies to Safeguard Personal Data During Professional Use of ChatGPT</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://data-safeguard.techidaily.com/essential-repair-strategies-for-photo-8-standard-version-official-user-guide/"><u>Essential Repair Strategies for Photo 8 Standard Version - Official User Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oneplus-11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any OnePlus 11 5G Phone Password Using Emergency Call</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-poco-c65-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Poco C65 | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-apps.techidaily.com/in-2024-vertical-video-mastery-top-editing-apps-for-iphone-and-android/"><u>In 2024, Vertical Video Mastery Top Editing Apps for iPhone and Android</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-rated-3d-animation-software-for-all-levels/"><u>New In 2024, Unleash Your Creativity Top-Rated 3D Animation Software for All Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-a-non-functional-windows-11-taskbar/"><u>Resolving a Non-Functional Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-audio-on-windows-via-updated-device-drivers-installation/"><u>Revitalizing Audio on Windows via Updated Device Drivers Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-storage-space-by-synergizing-folders-and-files-win-11/"><u>Streamlining Storage Space by Synergizing Folders and Files, Win 11</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -939,11 +917,11 @@
         <li><strong>Title:</strong> How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-08-16 02:48:07</li>
+                :</strong> 2024-12-16 17:45:22</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-08-17 02:48:07
+                    :</strong> 2024-12-22 01:11:58
             </li>
         
         <li>
@@ -987,13 +965,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/from-blank-slate-to-masterpiece-windows-11-desk-drawing-guide/"
+                        href="/overcoming-windows-11-taskbar-disruption/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">From Blank Slate to Masterpiece: Windows 11 Desk Drawing Guide</span>
+                                <span class="post-nav-title-item">Overcoming Windows 11 Taskbar Disruption</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1003,10 +981,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/optimizing-linux-experience-via-windows-resources/"
+                        href="/how-to-optimize-gaming-experience-for-fullscreen/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Optimizing Linux Experience via Windows Resources</span>
+                                <span class="post-nav-title-item">How to Optimize Gaming Experience for Fullscreen</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1028,7 +1006,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-and-Install-Unsigned-Drivers-on-Windows"><span class="nav-text">How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Startup-Settings"><span class="nav-text">How to Disable Driver Signature Enforcement in the Startup Settings</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Local-Group-Policy-Editor"><span class="nav-text">How to Disable Driver Signature Enforcement in the Local Group Policy Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Now-You-Can-Install-Unsigned-Drivers-on-Windows"><span class="nav-text">Now You Can Install Unsigned Drivers on Windows</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-and-Install-Unsigned-Drivers-on-Windows"><span class="nav-text">How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Startup-Settings"><span class="nav-text">How to Disable Driver Signature Enforcement in the Startup Settings</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-in-the-Local-Group-Policy-Editor"><span class="nav-text">How to Disable Driver Signature Enforcement in the Local Group Policy Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Disable-Driver-Signature-Enforcement-in-PowerShell"><span class="nav-text">How to Disable Driver Signature Enforcement in PowerShell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Now-You-Can-Install-Unsigned-Drivers-on-Windows"><span class="nav-text">Now You Can Install Unsigned Drivers on Windows</span></a></li></ol>
 
     </div>
 </div>
