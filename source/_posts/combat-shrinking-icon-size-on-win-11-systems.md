@@ -1,7 +1,7 @@
 ---
 title: Combat Shrinking Icon Size on Win 11 Systems
-date: 2024-12-21T01:52:41.903Z
-updated: 2024-12-22T09:04:04.178Z
+date: 2024-12-23T18:24:12.844Z
+updated: 2024-12-27T23:06:54.392Z
 tags:
   - windows10
   - windows11
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are My Icons Shrinking on Windows 11?
 
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
@@ -49,22 +49,22 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
 
 [Make sure you have file extensions turned on](https://www.makeuseof.com/windows-11-see-file-extensions/), so you know which files to delete, as you don't want to delete anything but the .db files.
 
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Icons From Shrinking
 
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
@@ -72,35 +72,12 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>[New] Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-gif-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering GIF A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[Updated] Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://driver-error.techidaily.com/brother-mfc-9340cdw-driver-download-and-update-in-windows-1087-easily/"><u>Brother MFC-9340CDW Driver Download & Update in Windows 10/8/7 EASILY!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/comment-bloquer-une-video-sur-pc-mac-android-et-iphone/"><u>Comment Bloquer Une Vidéo Sur PC, Mac, Android Et iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-updating-your-epson-v700-printer-drivers-on-pcs-with-windows-7-8-or-10/"><u>Easy Install Guide: Updating Your Epson V700 Printer Drivers on PCs with Windows 7, 8 or 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1627775-9781444141139-first-steps-in-tarot-flash/"><u>First Steps in Tarot: Flash | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-launch-failed-lunar-client-on-pcs/"><u>Guide to Overcoming Launch Failed Lunar Client on PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovating-gaming-graphics-with-model-simplification/"><u>Innovating Gaming Graphics with Model Simplification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-boot-process-with-service-configurations/"><u>Optimize Windows Boot Process with Service Configurations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-windows-update-failure-code-0x800f080a/"><u>Quick Fixes for Windows Update Failure: Code 0X800f080a</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960625857-quick-guide-how-to-install-or-upgrade-synaptics-touchpad-drivers-on-windows/"><u>Quick Guide: How to Install or Upgrade Synaptics Touchpad Drivers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silent-stealers-apps-that-undermine-windows-11-performance/"><u>Silent Stealers: Apps That Undermine Windows 11 Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-a-sluggish-unresponsive-windows-start-icon/"><u>Solutions for a Sluggish, Unresponsive Windows Start Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-file-format-alterations-on-your-pc/"><u>Streamline File Format Alterations on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-user-specific-policy-application-on-windows-1111/"><u>Streamlining User Specific Policy Application on Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-windows-1011-menu-for-efficiency/"><u>Tailor Windows 10/11 Menu for Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-fastest-bittorrent-tools-for-windows/"><u>The Ultimate List of Fastest BitTorrent Tools for Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +86,21 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-experts-choice-aspertronics-for-phones/"><u>[New] In 2024, Expert's Choice Aspertronics For Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhome-unlocked-delving-into-windows-11s-potential/"><u>DevHome Unlocked: Delving Into Windows 11'S Potential</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enlightening-the-entanglement-of-skyrims-xsb-errors/"><u>Enlightening the Entanglement of Skyrim's XSB Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/viewership-virtuously-expert-guide-to-implementing-youtubes-featured-listings/"><u>Gain Viewership Virtuously Expert Guide to Implementing YouTube's Featured Listings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Sony Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-video-editors-top-8-linux-picks/"><u>In 2024, Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mouse-troubles-resurrecting-sleeping-winos/"><u>Mouse Troubles: Resurrecting Sleeping WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-for-peak-performance/"><u>Optimizing Windows 11 for Peak Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-remedy-mcuicnt-execution-missing-windows-issue/"><u>Steps to Remedy McUICnt Execution Missing Windows Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-how-to-successfully-add-and-configure-hardnox-ultra-build-for-enhanced-kodi-streaming/"><u>Ultimate Tutorial: How to Successfully Add and Configure Hardnox Ultra Build for Enhanced Kodi Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-age-estimation-tips-and-tricks/"><u>Windows Age Estimation Tips and Tricks</u></a></li>
+</ul></div>
+

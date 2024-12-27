@@ -1,7 +1,7 @@
 ---
 title: "Displaying D: Drive Folder Alongside Existing Paths"
-date: 2024-12-20T06:11:38.775Z
-updated: 2024-12-21T18:18:09.818Z
+date: 2024-12-20T22:07:03.227Z
+updated: 2024-12-27T20:14:28.100Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before You Proceed…
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
@@ -111,36 +115,9 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-world-of-mac-screenshot-with-confidence/"><u>[New] Navigating the World of Mac Screenshot with Confidence</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-simplified-guide-to-recording-pc-screens-for-hp-users/"><u>[New] Simplified Guide to Recording PC Screens for HP Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-stunning-photo-tile-magic/"><u>[Updated] From Ordinary to Stunning Photo Tile Magic</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[Updated] In 2024, From Views to Valuables The Ultimate Video Income Play</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streaming-mastery-with-obs-game-mode-for-2024/"><u>[Updated] Streaming Mastery with OBS Game Mode for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-12-pro-4g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 12 Pro 4G FRP Bypass Instantly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/audiovisual-alchemy-transforming-powerpoint-into-engagement-for-2024/"><u>Audiovisual Alchemy Transforming PowerPoint Into Engagement for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-internal-failure-in-win11win10-connections/"><u>Correcting Internal Failure in Win11/Win10 Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-functionality-with-new-contextual-folders/"><u>Enhancing Taskbar Functionality with New Contextual Folders</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-spatial-sound-in-windows-11/"><u>How to Enable Spatial Sound in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-the-100-obstacle-in-windows-update-processes/"><u>Overcome the 100% Obstacle in Windows Update Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pinpointing-and-purging-error-0xa00f4289-in-win11s-webcam/"><u>Pinpointing & Purging Error 0xA00F4289 in Win11's Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-address-phantom-devices-in-pcs/"><u>Strategies to Address Phantom Devices in PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-strategies-for-tackling-windows-camera-errors/"><u>Swift Strategies for Tackling Windows Camera Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unsticking-windows-update-quick-repair-tips/"><u>Unsticking Windows Update: Quick Repair Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-lock-your-screens-look/"><u>Windows 11: How to Lock Your Screen's Look</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +126,27 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[New] 2024 Approved Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illustrate-like-a-pro-selecting-superior-vector-image-creators/"><u>[New] Illustrate Like a Pro Selecting Superior Vector Image Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unstable-pointer-in-windows-environments/"><u>Combatting Unstable Pointer in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-wallet-power-with-premium-w11-pro-deals/"><u>Elevate Wallet Power with Premium W11 Pro Deals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-look-at-the-high-performance-huion-inspiroy-g10t-drawing-board-stellar-construct-and-efficacy-unveiled/"><u>Expert Look at the High-Performance Huion Inspiroy G10T Drawing Board - Stellar Construct and Efficacy Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-latest-ai-innovations-from-wwdc-underwhelming-advancements-and-my-relief-tech-insights/"><u>Exploring Apple's Latest AI Innovations From WWDC: Underwhelming Advancements and My Relief | Tech Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v27e-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V27e Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-pova-6-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Pova 6 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-launch-your-computers-diagnostic-mode/"><u>How to Swiftly Launch Your Computer's Diagnostic Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722178437843-live-traffic-updates/"><u>Live Traffic Updates:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-disk-utility-windows-1011-edition-techniques/"><u>Navigating Disk Utility: Windows 10/11 Edition Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-essential-windows-keyboard-tricks-for-efficiency/"><u>Quick Access: Essential Windows Keyboard Tricks for Efficiency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/reliable-techniques-for-updating-and-installing-amd-ryzen-gpu-drivers-safely/"><u>Reliable Techniques for Updating & Installing AMD Ryzen GPU Drivers Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-minimum-spec-requirements-conflicts-with-intel-graphics-errors/"><u>Resolving Minimum Spec Requirements Conflicts with Intel Graphics Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/savvy-shoppers-secret-buy-now-for-612-life-win10/"><u>Savvy Shoppers' Secret: Buy Now for $6.12 Life Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-significance-and-risks-of-deleting-pagefilesys/"><u>The Significance and Risks of Deleting Pagefile.sys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unallocated-drive-letters-in-windows-explained-and-how-to-fix-it/"><u>Unallocated Drive Letters in Windows Explained & How to Fix It</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-security-potential-video-tutorial-on-deploying-bitrasers-erasure-solutions-for-large-scale-environments/"><u>Unlocking Security Potential: Video Tutorial on Deploying BitRaser's Erasure Solutions for Large-Scale Environments</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/upgrading-from-windows-10-to-windows-11-transfer-your-profile-with-ease-using-these-three-techniques/"><u>Upgrading From Windows 10 to Windows 11? Transfer Your Profile with Ease Using These Three Techniques</u></a></li>
+</ul></div>
+

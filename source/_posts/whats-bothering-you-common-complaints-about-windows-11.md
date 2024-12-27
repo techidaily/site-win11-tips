@@ -1,7 +1,7 @@
 ---
 title: What's Bothering You? Common Complaints About Windows 11
-date: 2024-08-16T02:38:54.528Z
-updated: 2024-08-17T02:38:54.528Z
+date: 2024-12-20T17:21:45.977Z
+updated: 2024-12-27T19:58:23.891Z
 tags:
   - windows10
   - windows11
@@ -22,20 +22,22 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When Windows 10 debuted, Microsoft offered a free upgrade for PCs running Windows 7 and 8.1\. Windows 10 users can also upgrade to Windows 11 for free, but not everyone is eligible because of the stringent hardware requirement.
 
  Windows 10 PCs over six years old will unlikely have the TPM 2.0 technology in the processor. And this is one primary reason why many people are still not being offered the Windows 11 update via the Windows update.
 
  There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process
 
 ![windows 11 login problems](https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You get a lot of benefits if you use Microsoft Account with your Windows 11 PC. Microsoft recommends a Microsoft account to make the most of Windows 11, though it's not mandatory to use it over a local account.
@@ -45,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Many users feel that Microsoft should bring back the old system where a Microsoft account was not mandatory during the setup process.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Windows 11 Does Not Offer Significant Benefits Over Windows 10 for Many
 
  For Many people, Windows 11 is worth the upgrade because of its plethora of new features, design changes, and improvements. But for many people, the changes are not practical and are something they will never use. Also, Windows 10 gives users a sense of familiarity because they have been using it for a long time.
@@ -58,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Changing Default Apps Is Too Hard
 
 ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
@@ -71,31 +75,26 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce[a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. The Limited Functionality of the Windows 11 Taskbar
 
  Users have also raised complaints about the limited functionality of the Windows 11 taskbar. It is currently missing popular features like the "never combine" option, which shows a more informative taskbar button. Windows 11 users have also criticized Microsoft for not allowing the taskbar to move to the sides or the top of the screen. Users want both these taskbar functionalities back in Windows 11\. Beyond these two, there are other[ways Microsoft can improve the Windows 11 taskbar](https://www.makeuseof.com/microsoft-improve-windows-11-taskbar/) .
 
  In what could be a relief to many Windows 11 users, Microsoft is working on adding the never combine app icons option to the OS. Twitter user Albacore spotted the capability in Windows 11 Insider builds.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Windows 11 Has Flaws, but Every Other OS Has Them Too
 
  Like every other operating system, Windows 11 has flaws and is not perfect. However, it works for most people. If you are not too bothered about the missing features, you will love and appreciate a lot of new features and an updated design of the operating system.
 
  Surely, with the features mentioned above, Windows 11 will be more appealing to more people.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,26 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-algorithm-advantage-tips-for-achieving-instagram-video-fame-for-2024/"><u>[New] The Algorithm Advantage Tips for Achieving Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode/"><u>[Updated] Exclusive Play on Apex How to Turn Off Cross-Platform Mode</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banishing-buffering-blues-with-latest-win11-features/"><u>Banishing Buffering Blues with Latest Win11 Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-and-speedy-arduino-mega-25n0-driver-downloads-start-your-project-now/"><u>Easy and Speedy Arduino Mega 25N0 Driver Downloads - Start Your Project Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-default-mobility-settings-on-windows-11/"><u>Eliminate Default Mobility Settings on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-mkv-deck-desktop-and-mobile/"><u>Elite MKV Deck Desktop & Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-older-os-practical-steps-beyond-windows-11/"><u>Enhance Older OS: Practical Steps Beyond Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-prevent-non-shown-stories-on-twitter/"><u>In 2024, Prevent Non-Shown Stories on Twitter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-official-amd-ryzen-chipset-software-today/"><u>Install Official AMD Ryzen Chipset Software Today</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/"><u>Navigating the Pre-Owned iPad Market: A Buyer's Top Five Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-w11-desktop-with-taskbar-pins/"><u>Optimizing W11 Desktop with Taskbar Pins</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problemlos-umgangen-10-effektive-methoden-zur-reparatur-ihrer-nicht-funktionierenden-seagate-wechselplatte/"><u>Problemlos Umgangen: 10 Effektive Methoden Zur Reparatur Ihrer Nicht Funktionierenden Seagate-Wechselplatte</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-non-functional-slack-alerts-on-pcs/"><u>Quick Fixes for Non-Functional Slack Alerts on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-missing-file-thumbnails-in-microsofts-newest-os/"><u>Remedy Missing File Thumbnails in Microsoft's Newest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-discrepanranks-between-prime-audio-and-subtitle-feedback-on-windows-11/"><u>Resolve Discrepanranks Between Prime Audio & Subtitle Feedback on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-grades-essential-8-windows-based-study-tips/"><u>Skyrocket Your Grades: Essential 8 Windows-Based Study Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-java-vm-initialization-fixes-on-windows/"><u>Strategies for Java VM Initialization Fixes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-virtualbox-and-efail-error-0x80004005/"><u>Troubleshooting Windows Virtualbox and E_FAIL (Error: 0X80004005)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-for-driver-failed-on-win1011-systems/"><u>Unveiling Solutions for Driver Failed on Win10/11 Systems</u></a></li>
+</ul></div>
 

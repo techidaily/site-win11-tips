@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2024-12-15T19:48:05.954Z
-updated: 2024-12-22T02:03:18.892Z
+date: 2024-12-23T19:54:57.714Z
+updated: 2024-12-27T21:27:49.531Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Device Usage Options on Windows?
 
  Device Usage Options allow you to customize your Windows experience by setting preferences for how ads are displayed. Microsoft also provides tips & suggestions and personalizes recommendations for you. Depending on your choice, Windows presents you with different types of information and services.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 * **Business:** Do you want to use your device for work? With this option, Windows offers tips on managing your business, tracking expenses, and providing customer service.
 
  Now that you know what Device Usage Options are, here's how to change them in Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Using Windows Settings
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 ![Change Gaming Device Usage Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-gaming-device-usage-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To apply the settings, double-click the reg file. This will turn on the Device usage options for Gaming.
 
  If you want to turn off this option, create a new reg file and paste the following:
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  Now save it with the **.reg** extension as above and double-click to apply.
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Family Device Usage Options
 
@@ -121,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
   
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### School Device Usage Options
 
@@ -149,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Business Device Usage Options
@@ -167,38 +171,11 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  Once you have created the reg file for the Device Usage Option, double-click to apply. Now when you open System **Settings** \> **Personalisation** \> **Device Usage**, you should see the option turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Configure Your Device’s Usage Options in a Flash
 
  With the right Device Usage Options, Microsoft will show you relevant tips, advertisements, and recommendations. If you're a student, entertainer, or business owner, you now know two methods to change your Device Usage options in Windows 11\.
 
  Before we dig in, let's see what Device Usage Options are and how they affect your Windows experience.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-the-immersive-world-tips-for-recording-vr-games/"><u>[New] 2024 Approved Capturing the Immersive World Tips for Recording VR Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-hacks-for-hassle-free-podcast-streaming/"><u>[New] In 2024, Hacks for Hassle-Free Podcast Streaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-xr-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone XR? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/comprehensive-digital-revolution-guide-essential-steps-for-the-insurance-industry-with-abbyy/"><u>Comprehensive Digital Revolution Guide: Essential Steps for the Insurance Industry with ABBYY</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-audiences-across-platforms-leveraging-facebook-twitter-instagram-and-youtube-for-brand-growth/"><u>Connecting Audiences Across Platforms: Leveraging Facebook, Twitter, Instagram, and YouTube for Brand Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diskspace-analyzer-add-on-for-windows-menu-system/"><u>DiskSpace Analyzer Add-On for Windows Menu System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-fixes-at-fingertips-mapping-shortcut-keys-in-windows-11/"><u>Fast Fixes at Fingertips: Mapping Shortcut Keys in Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/find-your-got-ringtone-leading-online-retailers/"><u>Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-started-with-windows-11-file-compression/"><u>Getting Started with Windows 11 File Compression</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overlook-missing-requirements-error-in-win10win11-os/"><u>How to Overlook Missing Requirements Error in Win10/Win11 OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-gt-5-240w-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme GT 5 (240W)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 Plus to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>In 2024, The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prove-you-can-do-it-no-more-wsl/"><u>Prove You Can Do It: No More WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-installer-error-a-step-by-step-guide/"><u>Resolving Windows 11'S Installer Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategies-for-a-conflict-free-group-disengagement/"><u>Strategies for a Conflict-Free Group Disengagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-plan-syncing-wireless-and-cable-networks-for-windows-users/"><u>The Complete Plan: Syncing Wireless and Cable Networks for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-virtual-game-archives-in-playnite/"><u>Unleashing the Full Potential of Virtual Game Archives in Playnite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-removing-drive-divisions-in-windows-os/"><u>Unraveling the Mystery of Removing Drive Divisions in Windows OS</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +184,19 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-borders-a-list-of-top-quality-apps-and-tools/"><u>[Updated] 2024 Approved Mastering Instagram Borders A List of Top-Quality Apps & Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leveraging-vlc-media-player-for-remote-streaming-for-2024/"><u>[Updated] Leveraging VLC Media Player for Remote Streaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-knowledge-of-storage-management-using-windows-diskusage-commands/"><u>Enhancing Your Knowledge of Storage Management Using Windows DiskUsage Commands</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-poco-c55-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Poco C55</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-not-supported-problem-in-windows-os/"><u>Quick Fixes to 'Not Supported' Problem in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-steams-missing-files-issue-on-windows-11/"><u>Rectifying Steam's Missing Files Issue on Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secrets-of-facebook-cover-vids-for-aspiring-social-media-stars-for-2024/"><u>Secrets of Facebook Cover Vids for Aspiring Social Media Stars for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-upgrading-your-windows-11-login-method/"><u>The Complete Guide to Upgrading Your Windows 11 Login Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwanted-visual-effects-disable-geforce-overlays/"><u>Unwanted Visual Effects? Disable GeForce Overlays</u></a></li>
+</ul></div>
+

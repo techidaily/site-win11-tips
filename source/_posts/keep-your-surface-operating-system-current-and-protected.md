@@ -1,7 +1,7 @@
 ---
 title: Keep Your Surface Operating System Current and Protected
-date: 2024-12-15T18:56:38.591Z
-updated: 2024-12-22T05:59:17.891Z
+date: 2024-12-21T16:34:28.329Z
+updated: 2024-12-27T21:41:22.156Z
 tags:
   - windows10
   - windows11
@@ -24,20 +24,20 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Firmware Updates on Surface Computers From Settings App
 
 ![install windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Installing firmware updates on your Surface PC is simple. You can install the latest firmware version on your Surface device from the Windows Update page in the Settings app.
 
  You can open the Settings app by pressing the **Win key** \+ **I** button on your keyboard and then clicking Windows Update. Now, click Check for updates. If a new firmware version is available for your Surface PC, it will show up on the update page. After installing the update, a restart is required for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Manually Download and Install Firmware on Surface Computers
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Once the download is completed, you can open the file (in the **.msi** format) and follow the on-screen prompt to install the update on your Surface. To complete the installation, you need to restart the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Should Remember Before Installing the Surface Firmware Update
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 ![Closed Microsoft Surface on a blue surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/closed-microsoft-surface-on-a-blue-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must have a stable power supply and internet connection during the update process. Also, be careful about installing the right firmware update for your device.
@@ -64,35 +64,12 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Also, you need to remember that Microsoft pushes driver and firmware updates for at least four years from when the device was first released. If your Surface device is older than four years, you won’t receive any firmware updates. Before manually downloading it, you need to [check whether your Surface device has reached the end of support](https://www.makeuseof.com/surface-end-of-support/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Firmware Updates on Your Surface Devices
 
  Given that firmware updates are important for the overall health of your Surface devices, you should never ignore them. Although rare, Microsoft sometimes rolls out new features with firmware updates.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-macs-premier-video-to-mp4-converters-guide/"><u>[New] In 2024, Mac's Premier Video to MP4 Converters Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[Updated] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-earths-premier-online-income-tycoon/"><u>[Updated] In 2024, Earth’s Premier Online Income Tycoon</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-moto-e13-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-win-11-games-top-7-techniques-for-maximum-fun/"><u>Enhancing Win 11 Games: Top 7 Techniques for Maximum Fun</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/examining-the-impact-of-eliminating-taskbar-chat-from-windows-11/"><u>Examining the Impact of Eliminating Taskbar Chat From Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-youtube-channels-get-paid-regularly-in-2024/"><u>How Do YouTube Channels Get Paid Regularly, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-your-public-ip-a-cli-technique-guide/"><u>Identifying Your Public IP: A CLI Technique Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-secure-boot-and-tpm-configuration-in-vbox/"><u>Mastering Secure Boot and TPM Configuration in VBox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-control-a-guide-for-broken-controllers/"><u>Restoring Control: A Guide for Broken Controllers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722523647520-smart-trip-saver-s55-review-affordable-advanced-vehicle-safety-gadget-unveiled-on-escortpassport/"><u>Smart Trip Saver: S55 Review - Affordable Advanced Vehicle Safety Gadget Unveiled on Escortpassport!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-incorporating-copymove-actions-in-windows-menu/"><u>Step-by-Step: Incorporating Copy/Move Actions in Windows Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/task-triumphs-leading-windows-programs-to-boost-your-output/"><u>Task Triumphs: Leading Windows Programs to Boost Your Output</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-magic-vs-2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Magic Vs 2 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-migrating-hard-drive-data-from-hdd-to-ssd-using-acronis-true-image/"><u>Ultimate Guide: Migrating Hard Drive Data From HDD to SSD Using Acronis True Image</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-inner-world-instructions-for-engaging-with-windows-private-analysis-console/"><u>Unlocking Inner World: Instructions for Engaging with Windows' Private Analysis Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-windows-camera-unwanted-shutdowns/"><u>Winning Over Windows Camera Unwanted Shutdowns</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +78,25 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>[New] 2024 Approved Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-taking-command-of-zoom-breakout-sessions/"><u>[Updated] 2024 Approved Taking Command of Zoom Breakout Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>[Updated] In 2024, Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-full-circle-clips-iphone-filming-tips-for-2024/"><u>[Updated] Mastering Full-Circle Clips IPhone Filming Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-store-linkedin-videos-with-these-6-high-quality-apps/"><u>[Updated] Secure and Store LinkedIn Videos with These 6 High-Quality Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-your-first-auto-gpt-model/"><u>Building Your First Auto-GPT Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-startup-diagnostics-on-pcs/"><u>How to Initiate Startup Diagnostics on PCs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-12-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 12 Pro Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-10-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 10 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-follow-these-steps-now/"><u>Microsoft To-Do Not Sync? Follow These Steps Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigational-knowledge-incorporating-apple-maps-on-a-windows-laptop/"><u>Navigational Knowledge: Incorporating Apple Maps on a Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-embracing-windows-11-widgets/"><u>Step-by-Step: Embracing Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharged-windows-11-app-accessibility-methods/"><u>Turbocharged Windows 11 App Accessibility Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-stores-error-0x80073d26/"><u>Unlocking the Secrets of Windows Store's Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-pc-stealthy-rdp-for-windows-11/"><u>Unlocking Your PC: Stealthy RDP for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winterminal-update-bg-selection/"><u>WinTerminal: Update Bg Selection</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/would-you-benefit-from-chatgpt-plus-heres-why-you-should-consider-signing-up/"><u>Would You Benefit From ChatGPT Plus? Here's Why You Should Consider Signing Up!</u></a></li>
+</ul></div>
+

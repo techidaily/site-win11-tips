@@ -1,7 +1,7 @@
 ---
 title: "Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users"
-date: 2024-12-21T07:25:12.915Z
-updated: 2024-12-22T00:44:36.937Z
+date: 2024-12-21T16:37:16.842Z
+updated: 2024-12-27T20:51:35.588Z
 tags:
   - windows10
   - windows11
@@ -42,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 8. Click**Save** to apply the resize.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users who select the alternative**Percentage** option need to enter percentage values in the**Width** and**Height** boxes. Entering values like 80 and 90 will reduce the size of the image by 20 and 10 percent. Inputting higher numbers like 110 and 120 will increase the image’s size by 10 and 20 percent. Thus, the percentage size change amounts to how much the values are above or below 100.
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Resize Images With Paint
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  The resize image options in Paint
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Resize Images With Paint 3D
@@ -80,6 +84,11 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
 9. Select the**Save** option. Or you can select**Save as** if you prefer not to overwrite the original file.
@@ -96,33 +105,21 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
 4. Click**Image Magic** to bring up that extension’s window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
@@ -143,6 +140,11 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
 ![The resize settings in the Advanced Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer-resize-options.jpg)
 7. Click**OK** to exit Advanced Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Browse** for the**Output Folder** option. Choose a folder to include the resized files, and click the**OK** button.
 9. Press**Convert** to resize the images.
 
@@ -167,19 +169,20 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pixelated-palace-beginner-friendly-home-design-guide/"><u>[New] 2024 Approved Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-6-networks-maximizing-biz-potential/"><u>[Updated] 2024 Approved Premium 6 Networks Maximizing Biz Potential</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-academic-allies-premier-educators-on-youtube-for-2024/"><u>[Updated] Academic Allies Premier Educators on YouTube for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-budget-friendly-asmr-solutions-premium-quality-mics-awaiting-you/"><u>[Updated] Budget-Friendly ASMR Solutions Premium Quality Mics Awaiting You</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-finds-alert-best-in-class-laptops-on-sale-for-prime-day-including-the-stellar-lg-gram-pro-17-tech-insights/"><u>Amazing Finds Alert: Best-in-Class Laptops on Sale for Prime Day, Including the Stellar LG Gram Pro 17 | Tech Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-windows-error-code-0x8007007e/"><u>Essential Tips to Solve Windows Error Code: 0X8007007E</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-fixes-to-save-vanished-files-in-windows/"><u>Expert Fixes to Save Vanished Files in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-edges-persistent-background-on-win11/"><u>Fine-Tuning Edge's Persistent Background on Win11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-gt-10-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix GT 10 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-yellow-filter-effect-from-pc-display/"><u>Removing Yellow Filter Effect From PC Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-compatibility-issue-on-your-device/"><u>Troubleshooting Windows 11 Compatibility Issue on Your Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-winscomrssvsvcdll-faults-on-windows-systems/"><u>Troubleshooting WinscomrssvSvc.dll Faults on Windows Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>Virtual Reality Showdown Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-perfect-memos-through-sound-waves/"><u>[New] Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevating-visual-content-a-guide-to-adding-descriptions-on-instagram/"><u>[New] In 2024, Elevating Visual Content A Guide to Adding Descriptions on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>[New] In 2024, From Camera Roll to Feed Adding Photos on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-your-current-os-windows-10/"><u>Compelling Case for Continuing with Your Current OS - Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-unhackable-dialog-button-for-hardware-disconnect-in-win11/"><u>Crafting Unhackable Dialog Button for Hardware Disconnect in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-advanced-file-backup-features/"><u>Enabling Advanced File Backup Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>In 2024, Boost Your Meeting Management Syncing Zoom with Gmail Emails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-hard-drive-potential-a-deep-dive-into-using-diskusage-in-windows/"><u>Maximizing Your Hard Drive Potential: A Deep Dive Into Using DiskUsage in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476459-9780880507721-meditation-the-first-and-last-freedom/"><u>Meditation: The First and Last Freedom | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-common-cc-issues-with-ease-on-window-10/"><u>Navigating Through Common CC Issues with Ease on Window 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>New In 2024, Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-to-troubleshoot-windows-xp-incompatibilities/"><u>Quick Solutions to Troubleshoot Windows XP Incompatibilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-epic-launcher-crashes-quickly/"><u>Stop Windows Epic Launcher Crashes Quickly</u></a></li>
 </ul></div>
 

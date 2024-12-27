@@ -1,7 +1,7 @@
 ---
 title: Resetting “Windows Asks for Old Pass” Issue on Win11
-date: 2024-12-18T07:45:58.004Z
-updated: 2024-12-21T22:39:00.410Z
+date: 2024-12-20T18:06:50.592Z
+updated: 2024-12-27T20:55:01.325Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Try All of Your Commonly Used Passwords
@@ -49,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
@@ -77,38 +77,22 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
  While this error is a headache for sure, you can easily resolve it with a little password tinkering. Keep calm, try the steps above, and enjoy your newly set-up device.
 
  However, this error can be easily resolved. Here’s everything you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-launch-and-lay-the-foundations-of-xps-video-craft-for-2024/"><u>[New] Launch & Lay the Foundations of XP's Video Craft for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-411-on-building-sports-video-gold/"><u>[New] The 411 on Building Sports Video Gold</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/debunking-prevailing-myths-in-the-world-of-artificial-intelligence-based-chatbots/"><u>Debunking Prevailing Myths in the World of Artificial Intelligence-Based Chatbots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-personalization-guide-attaching-this-pc-image/"><u>Desktop Personalization Guide: Attaching 'This PC' Image</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-excellence-select-win-based-tools-for-task-management/"><u>Efficient Excellence: Select Win-Based Tools for Task Management</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-6-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 6 Without Passcode Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-highlighted-text-challenges-in-windows-pdfs/"><u>Overcome Highlighted Text Challenges in Windows PDFs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-steps-transferring-your-images-from-iphone-seamlessly/"><u>Simple Steps: Transferring Your Images From iPhone Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-parsing-failure-code-0xc00ce556/"><u>Tackling Windows' Parsing Failure Code 0xC00CE556</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quick-lifecycle-of-game-servers-to-care-or-not/"><u>The Quick Lifecycle of Game Servers: To Care or Not?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/traversing-through-user-identification-landscapes-in-win11/"><u>Traversing Through User Identification Landscapes in Win11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +101,23 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ballad-bliss-songs-that-score-big-on-will-you-questions/"><u>[New] 2024 Approved Ballad Bliss Songs that Score Big on 'Will You?' Questions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-skypes-leading-audio-devices-ranked-and-reviewed/"><u>[New] In 2024, Skype's Leading Audio Devices Ranked & Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>[New] Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effective-pip-use-on-edge-browser/"><u>[Updated] Expert Tips for Effective PIP Use on Edge Browser</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-revolutionary-tangle-free-usb-c-cord-transforms-my-travel-experience-why-everyone-should-try/"><u>1. Revolutionary 'Tangle-Free' USB-C Cord Transforms My Travel Experience - Why Everyone Should Try</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/achieving-virality-on-youtube-essential-steps-demystified-for-2024/"><u>Achieving Virality on YouTube Essential Steps Demystified for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-constant-calculator-visibility-on-pcs/"><u>Ensuring Constant Calculator Visibility on PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/play-uninterrupted-solutions-to-prevent-fall-guys-from-freezing-on-your-desktop-computer/"><u>Play Uninterrupted: Solutions to Prevent Fall Guys From Freezing on Your Desktop Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-greyed-out-bin-status-on-win11-pc/"><u>Rectifying Greyed Out Bin Status on Win11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-dormant-media-playback-in-windows-11/"><u>Reigniting Dormant Media Playback in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-40i-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 40i</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-robloxs-error-403-obstacle-on-windows/"><u>Unlocking Roblox's Error 403 Obstacle on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-the-hidden-reactivating-grayed-out-memory-in-win11/"><u>Unveil the Hidden: Reactivating Grayed-Out Memory in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-screensaver-unchangeability-best-practices/"><u>Windows Screensaver Unchangeability: Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xbox-game-install-woes-quick-fix-guide/"><u>Xbox Game Install Woes: Quick Fix Guide</u></a></li>
+</ul></div>
+

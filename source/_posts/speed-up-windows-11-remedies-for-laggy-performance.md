@@ -1,7 +1,7 @@
 ---
 title: "Speed Up Windows 11: Remedies for Laggy Performance"
-date: 2024-08-16T02:37:57.197Z
-updated: 2024-08-17T02:37:57.197Z
+date: 2024-12-24T22:15:36.370Z
+updated: 2024-12-27T16:20:31.269Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,25 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  Likewise, not deleting junk files or incorrectly configuring power plan preferences can also slow down your device. So, here are some tips to improve the performance of your PC and make your Windows 11 experience faster and more responsive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Storage Sense
 
  The junk files in our system often get piled up because we forget to clean them. These files not only occupy disk space but also negatively impact system performance. Storage Sense, a feature in Windows 11, acknowledges the importance of removing this extra burden. Once enabled, it automatically wipes out all junk on a device, improving its performance.
 
  If you suspect that having insufficient storage space could be degrading the performance of your device, turn on Storage Sense to boost your device's performance. If you're unfamiliar with this process, see our guide on[using Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Set the Power Plan to Best Performance
 
  Windows users can choose between two power plans: high performance and balanced. Although the balanced power plan can help lower power consumption (particularly on laptops), it limits the device's performance. Since the balanced power plan is often selected by default, you are likely using the same if you have not changed the power plan before.
 
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
 
@@ -43,20 +48,15 @@ To turn off these services, follow these steps:
 
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Notifications
 
  Windows sends notifications regularly to inform users of new app updates, unresolved issues with installed apps, improper syncing, etc. While such notifications are sometimes handy, they consume a ton of system resources. So, disabling these notifications for specific apps and services can make your device more efficient.
@@ -69,9 +69,6 @@ To turn off these notifications, follow the below steps:
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
 
@@ -95,11 +92,12 @@ To pause updates, follow these steps:
 3. Expand the dropdown next to**Pause updates** and select the desired timeframe.  
 ![Paused Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-2-Resuming-the-Paused-Windows-Updates-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
  If you have made the above tweaks and they have failed to boost the performance of your device, some unnecessary processes might be overburdening it. So, you need to identify which processes are causing the most stress and which components they are straining. You can quickly check that in Task Manager.
@@ -109,13 +107,15 @@ To pause updates, follow these steps:
  To do that, click on the column header of that component in Task Manager to sort the processes consuming the most resources in descending order. Then, filter out the processes causing that component a great deal of stress and terminate them. To close a task, right-click on the task and click**End task** .
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Other Ways to Improve Performance
 
  Besides the above tips, removing unwanted programs, defragmenting storage drives, debloating your Windows operating system, and disabling visual effects are other ways to speed up your device. Our[guide on speeding up Windows 11](https://www.makeuseof.com/windows-11-speed-up-tricks/) includes more detailed instructions on how to make these tweaks.
@@ -128,14 +128,11 @@ So, try them out to boost your system's performance.
 
  If you do not see any improvement in performance after making the above tweaks, you may have low-end components installed on your device. Therefore, you'll need to upgrade your device to improve its performance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +141,26 @@ So, try them out to boost your system's performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-full-participant-grid-display-in-meet/"><u>[New] 2024 Approved Unlock Full Participant Grid Display in Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-jolly-juvenile-auto-antics/"><u>2024 Approved Jolly Juvenile Auto Antics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>2024 Approved Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/come-superare-il-blocco-blu-di-windows-10-strategie-e-soluzioni-approfondite/"><u>Come Superare Il Blocco Blu Di Windows 10: Strategie E Soluzioni Approfondite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-error-0x80070570-expert-solutions-for-a-smooth-fix/"><u>Decoding Error 0X80070570 - Expert Solutions for a Smooth Fix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encoding-large-datasets-how-3d-printed-holograms-use-ordinary-plastics-for-secure-storage-of-keys-and-addresses-up-to-576-bits/"><u>Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintain-your-cursors-pace-how-to-turn-off-acceleration-in-win-11/"><u>Maintain Your Cursor's Pace: How To Turn Off Acceleration in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-public-ip-on-win-1011-via-cli/"><u>Navigating to Public IP on Win 10/11 via CLI</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimize-your-videos-for-instagram-mac-resizing-guide/"><u>Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/out-with-the-old-clearing-up-past-protection-logs-on-windows/"><u>Out with the Old: Clearing Up Past Protection Logs on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-blue-screen-error-0x8007007e/"><u>Overcoming the Windows Blue Screen Error 0X8007007E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-power-with-instant-admin-windows-terminal-entry/"><u>Prioritize Power with Instant Admin Windows Terminal Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-silent-tab-barrier-in-windows-environments/"><u>Solving the Silent Tab Barrier in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shadowed-sides-of-task-manager/"><u>The Shadowed Sides of Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-starting-over-in-steam-games/"><u>The Ultimate Guide to Starting Over in Steam Games</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transferring-ios-applications-seamlessly-between-iphone-models-15-and-14/"><u>Transferring iOS Applications Seamlessly Between iPhone Models (15 & 14)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x87e00017-in-microsoft-store/"><u>Troubleshooting Error Code: 0X87e00017 in Microsoft Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-with-the-apple-m2-macbook-air-on-amazon-for-only-749-this-prime-day-zdnet-exclusive/"><u>Unlock Savings with the Apple M2 MacBook Air on Amazon for Only $749 This Prime Day – ZDNet Exclusive</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-as-a-film-studio-tutorials-and-competitive-choices-for-2024/"><u>YouTube as a Film Studio Tutorials & Competitive Choices for 2024</u></a></li>
+</ul></div>
 

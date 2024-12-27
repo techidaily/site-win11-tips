@@ -1,7 +1,7 @@
 ---
 title: Unveiling Techniques for an Eye-Catching Cursor on Windows
-date: 2024-12-14T19:28:20.567Z
-updated: 2024-12-21T16:14:36.583Z
+date: 2024-12-23T16:32:56.396Z
+updated: 2024-12-27T19:06:54.251Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
 ![The Additional mouse settings navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/additional-mouse-settings-option.jpg)
 5. Then click the**Pointer Options** tab in the Mouse Properties window that opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the**Show location of pointer** **when I press the Ctrl key** checkbox.  
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
 7. Click**Apply** in the Mouse Properties window.
@@ -58,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![mouse-highlight-app-window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mouse-highlight-app-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The default size for the circle highlight is 30, but you can make it bigger or smaller. Enter a value less than 30 in the**Size** box. Or input a number higher than 30 to increase the circle’s size.
@@ -69,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Highlight the Cursor With PowerToys
 
@@ -93,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerToy’s cursor highlighting only applies to mouse clicking. You’ll see different color circles whenever you right or left-click the mouse. Those circles are set to yellow and blue colors by default.
@@ -103,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
@@ -115,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
 4. Click**Cursor Highlighter** to view the extension’s options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
@@ -150,24 +151,15 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-efficient-techniques-for-capturing-google-voice-calls-for-2024/"><u>[New] Efficient Techniques for Capturing Google Voice Calls for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-bing-microsofts-search-engine-explained/"><u>All About Bing - Microsoft's Search Engine Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conceal-windows-11s-observer-mode/"><u>Conceal Windows 11'S Observer Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-windows-update-attempts/"><u>Concealing Windows Update Attempts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convert-your-mp4-videos-to-mkv-without-costing-a-penny-quick-and-easy-tutorial/"><u>Convert Your MP4 Videos to MKV Without Costing a Penny - Quick and Easy Tutorial!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-guide-to-reviving-your-unresponsive-dell-usb-connection/"><u>DIY Guide to Reviving Your Unresponsive Dell USB Connection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-ethernet-connectivity-for-windows-printers/"><u>Enhance Ethernet Connectivity for Windows Printers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>In 2024, Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-audacitys-audio-failure-on-windows-11-devices/"><u>Mending Audacity's Audio Failure on Windows 11 Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-rapid-video-trimming-on-mac-updated-2023/"><u>New In 2024, The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-browser-friendly-windows-apps-for-speedier-connections/"><u>Optimize Browser-Friendly Windows Apps for Speedier Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-route-to-uncover-graphics-card-details-window-11/"><u>Rapid Route to Uncover Graphics Card Details, Window 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-google-on-your-w11-device/"><u>Setting Up Google on Your W11 Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-12r-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus 12R FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-windows-users-lifting-sticky-notes/"><u>Tips for Windows Users: Lifting Sticky Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-parseerror-windows-11-and-10-edition/"><u>Troubleshooting ParseError: Windows 11 & 10 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-revolution-redesign-and-upgrades-in-explorer/"><u>Windows 11 Revolution: Redesign and Upgrades in Explorer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-video-revenue-youtubes-path/"><u>[New] 2024 Approved Elevating Video Revenue YouTube's Path</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-dive-into-virtual-realities-with-up-to-date-android-tips/"><u>[New] In 2024, Dive Into Virtual Realities with Up-to-Date Android Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/four-innovative-app-tools-to-streamline-home-painting-processes/"><u>Four Innovative App Tools to Streamline Home Painting Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-altering-windows-lockscreen-timers/"><u>Guide to Altering Windows Lockscreen Timers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-sending-and-receiving-imessages-on-windows-platforms-tips/"><u>Guide: Sending & Receiving iMessages on Windows Platforms - Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-itel-p55t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Itel P55T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-connect-wifi-in-windows-7-solved/"><u>How to Connect WiFi in Windows 7 [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-default-windows-safescreensaver/"><u>Preserving Default Windows SafeScreensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-zeroxc000003e-windows-software-initiation-problem/"><u>Steps to Correct ZeroXc000003e Windows Software Initiation Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-changes-to-login-credentials-on-win-11/"><u>Strategic Changes to Login Credentials on Win 11</u></a></li>
 </ul></div>
 

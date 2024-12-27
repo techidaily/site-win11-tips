@@ -1,7 +1,7 @@
 ---
 title: Overcoming Error 0X00000001 in Xbox Game Pass with Windows 11
-date: 2024-08-16T02:42:22.882Z
-updated: 2024-08-17T02:42:22.882Z
+date: 2024-12-24T22:26:26.314Z
+updated: 2024-12-27T21:11:53.773Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,19 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 4. Now press the**Run** button for launching the Windows Store App.  
 ![The Run option for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option-for-windows-store-apps.jpg)
 5. The troubleshooter may apply some fixes automatically. If it suggests any potential solutions, select to apply them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter.jpg)
 
  To access the same troubleshooter in Windows 10, click**Update & Security** \>**Troubleshoot** . You can bring up the troubleshooting tool list by clicking**Additional troubleshooters** . Then click Windows Store Apps’**Run the troubleshooter** option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair and Reset the Xbox, Microsoft Store, and Gaming Services Apps
 
  The Xbox, Microsoft Store, and Game Services apps are three that can feasibly cause error 0x00000001 when they’re corrupted. Repairing and resetting all those apps via Settings could clear any issues with them and resolve 0x00000001 with that. You can clear all those apps’ data as instructed in our guide to[resetting apps on Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) .
@@ -55,18 +61,22 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 4. Input and execute this command for removing Gaming Services:  
 `get-appxpackage Microsoft.GamingServices | remove-Appxpackage -allusers`  
 ![The uninstall Gaming Services command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-remove-app-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To reinstall Gaming Services, enter the following PowerShell command and press**Return** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
 ![The start MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-ms-store-command.jpg)
 6. If you don’t reinstall Gaming Services with PowerShell, the Xbox app might prompt you to download it when you start it. In this case, you can click the download icon within Xbox app instead.
-7. Click**Get** on the Gaming Services MS Store page the command opens.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Click**Get** on the Gaming Services MS Store page the command opens.
+
 ## 4\. Start the Xbox Live Auth Manager Service
 
  Xbox Live Auth Manager provides Xbox Live authentication services. Xbox app issues can occur when that service is disabled. So, make sure that the service is enabled and running like this:
@@ -82,15 +92,19 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 5\. Flush the Domain Name System (DNS) Cache
 
  Internet connection instability generated by corrupted or outdated DNS data is another potential cause for error 0x00000001\. Flushing the DNS via Command Prompt will address such an issue. Our guide to[how to flush the DNS on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) covers clearing the cache with an ipconfig command.
 
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-flush-dns-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run the Windows Image and System File Scans
 
@@ -102,17 +116,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. First, run the Deployment Image Servicing and Management tool by executing this command:  
 `DISM.exe /Online /Cleanup-image /Restorehealth`  
 ![The Deployment Image and Servicing Management command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-repair-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 3. Then start a System File Checker scan by inputting this text and hitting**Enter** :  
 `sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Xbox App
 
  If repairing and resetting the Xbox app didn’t do the trick, try reinstalling it instead. Applying this potential resolution will refresh all the Xbox app’s files. You can uninstall and reinstall Xbox as follows:
@@ -125,13 +137,7 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Click the**Get in Store** and**Open Microsoft Store** options.
 6. Reinstall Xbox by clicking its**Get** button.  
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Install and Play Your Xbox Game Pass Titles Again
 
  You’ll probably be able to install Game Pass titles via the Xbox app again after applying the potential error 0x00000001 fixes above. That doesn’t mean they’re guaranteed error 0x00000001 solutions, but they have worked for many users.
@@ -144,8 +150,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-nikon-d850-vs-d7500-features/"><u>[New] 2024 Approved Exploring Nikon D850 Vs D7500 Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-videopilot-hd-snapshot-guide-for-2024/"><u>[Updated] VideoPilot HD Snapshot Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed/"><u>2024 Approved The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-d-drive-folder-alongside-existing-paths/"><u>Displaying D: Drive Folder Alongside Existing Paths</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-x-flip-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo X Flip Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-redmi-a2plus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Redmi A2+ to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-pin-on-windows-10-and-11-a-step-by-step-guide/"><u>Overcoming Stuck PIN on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-decoding-your-graphics-spec-in-windows-11/"><u>Pace Up: Decoding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-system-windows-5-best-optimizers/"><u>Skyrocket Your System: Windows' 5 Best Optimizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-shield-adopt-these-7-secure-protocols/"><u>Windows Shield: Adopt These 7 Secure Protocols</u></a></li>
+</ul></div>
 

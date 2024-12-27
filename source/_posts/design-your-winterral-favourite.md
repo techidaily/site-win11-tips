@@ -1,7 +1,7 @@
 ---
 title: Design Your WinTerral Favourite
-date: 2024-12-18T16:45:31.050Z
-updated: 2024-12-22T09:23:27.035Z
+date: 2024-12-26T19:44:48.156Z
+updated: 2024-12-27T22:26:22.441Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
@@ -109,14 +109,14 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
 
@@ -137,20 +137,22 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprerante-audio-from-computers-the-essential-guide-of-eight-tips-for-2024/"><u>[New] Comprerante Audio From Computers The Essential Guide of Eight Tips for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-15-youtube-starter-templates-a-guide-to-popularity/"><u>[Updated] 15 YouTube Starter Templates A Guide to Popularity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-behind-the-scenes-look-at-podcaster-income/"><u>[Updated] 2024 Approved Behind-the-Scenes Look at Podcaster Income</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[Updated] Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-instagram-potential-a-comprehensible-guide/"><u>[Updated] Unlocking Instagram Potential A Comprehensible Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-galaxy-a05s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Galaxy A05s</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-sound-experience-via-latest-audio-drivers/"><u>Elevate Your Windows Sound Experience via Latest Audio Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensure-continuous-tracking-in-command-window/"><u>Ensure Continuous Tracking in Command Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-devices-not-opened-by-audacity-on-windows/"><u>Guide to Fixing Devices Not Opened by Audacity on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Pova 6 Pro 5G Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insights-into-windows-pe-file-structure/"><u>Insights Into Windows PE File Structure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-numlock-and-scroll-indicators-in-windows-systray/"><u>Integrate Numlock & Scroll Indicators in Windows SysTray</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-locked-out-windows-accounts/"><u>Reactivating Locked Out Windows Accounts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-earning-top-dollar-from-your-old-dvd-collection-on-a-local-and-global-scale/"><u>The Ultimate Guide to Earning Top Dollar From Your Old DVD Collection on a Local and Global Scale</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-when-purchasing-your-next-gaming-system/"><u>Top 5 Essential Factors When Purchasing Your Next Gaming System</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-essentials-of-using-azures-voice-recognition/"><u>[New] The Essentials of Using Azure's Voice Recognition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-commercial-free-android-vision-capturer-for-2024/"><u>[Updated] Commercial-Free Android Vision Capturer for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-beyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm/"><u>[Updated] In 2024, Beyond Simplicity Exploring the Intricacies of YouTube’s View Count Algorithm</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-proven-iphone-tips-effortless-video-length-and-size-control-for-2024/"><u>[Updated] Proven iPhone Tips Effortless Video Length & Size Control for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dell-monitor-stability-restored/"><u>Dell Monitor Stability Restored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-windowsstore-folders-inaccessible-layers/"><u>Dissecting WindowsStore Folder's Inaccessible Layers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/fusing-melody-with-moments-music-and-voiceovers-in-reels/"><u>Fusing Melody with Moments Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-forgotten-regedit-on-your-pc/"><u>How To Reactivate Forgotten Regedit on Your PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>In 2024, 3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
+<li><a href="https://win11.techidaily.com/next-level-windows-paving-the-ai-way-forward/"><u>Next-Level Windows: Paving the AI Way Forward</u></a></li>
+<li><a href="https://win-blog.techidaily.com/patch-applied-for-black-ops-cold-wars-ui-glitch-code-27711-in-call-of-duty-series/"><u>Patch Applied for Black Ops Cold War's UI Glitch Code 27711 in Call of Duty Series</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subtle-scams-the-undisclosed-threats-in-affordable-windows-licenses/"><u>Subtle Scams: The Undisclosed Threats in Affordable Windows Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-fix-isdonedll-glitches-in-w10-and-11/"><u>Tips to Fix ISDone.dll Glitches in W10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-and-resolve-hidden-5ghz-network-on-windows-11-here/"><u>Uncover and Resolve Hidden 5GHz Network on Windows 11 Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-scribe-within-windows-11-speech-mode/"><u>Unleash the Scribe Within: Windows 11 Speech Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-experience-unleashed-creating-windows-programs-from-sites/"><u>Web Experience Unleashed: Creating Windows Programs From Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-pixel-perfect-discover-the-7-finest-artist-apps/"><u>Win10 Pixel Perfect: Discover the 7 Finest Artist Apps</u></a></li>
 </ul></div>
 

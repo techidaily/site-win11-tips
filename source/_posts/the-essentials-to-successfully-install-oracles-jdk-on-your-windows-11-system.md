@@ -1,7 +1,7 @@
 ---
 title: The Essentials to Successfully Install Oracle's JDK on Your Windows 11 System
-date: 2024-08-16T02:42:11.117Z
-updated: 2024-08-17T02:42:11.117Z
+date: 2024-12-24T17:30:23.164Z
+updated: 2024-12-27T21:45:04.204Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run a Check for Java JDK on Your PC
 
  Before we move to the installation, though, it’s useful to see if JDK is already present in your system. To do that, go to the **Start menu** search bar, type in ‘cmd,’ and select the Best match.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
 ![cmd command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also check for the JDK through the Control Panel as well. Here's how:
 
 1. Head to **Start menu** search bar, type in 'control panel', and select the best match.
@@ -39,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
  If you cannot find the JDK section through either method, jump to the section below for the installation instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Installing Java JDK in Windows 11
 
  To install the JDK installer, we need to head to Oracle’s website first. Here’s how:
@@ -53,27 +58,28 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 5. Once the JDK installation is complete, click on **Close**.
 
 ![downloading the java installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/downloading-the-java-installer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![java development kit installation menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/java-development-kit-installation-menu.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By the end of this process the Java development kit will be successfully installed on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing and Running Java in Windows 11
 
  And that’s all, folks. Follow the steps above, and the Java environment will be successfully set up on your PC. Being one of the more popular programming languages out there, installing and learning Java is your first step in growing in this handy, object-oriented language.
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -81,3 +87,22 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>[New] In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-8-best-video-grabbers-for-windows-10-for-2024/"><u>[New] Top 8 Best Video Grabbers for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-commercial-sky-storage-provider/"><u>[Updated] 2024 Approved Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-odbc-data-sources-in-windows/"><u>Deciphering ODBC Data Sources in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x8b-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X8b FRP?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-confirming-disk-type-hdd-or-nvme/"><u>Quick Tips for Confirming Disk Type – HDD or NVMe?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-overcoming-the-unsuccessful-playback-test-tone-glitch/"><u>Step-by-Step Fixes for Overcoming the Unsuccessful Playback Test Tone Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-sound-on-win11-via-created-keyboard-actions/"><u>Tailoring Sound on Win11 via Created Keyboard Actions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-delaying-windows-10-restart-while-ongonant-applications-are-opened/"><u>Tips for Delaying Windows 10 Restart While Ongonant Applications Are Opened</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/blogging-victory-surviving-ten-frequent-phobias/"><u>Videoblogging Victory Surviving Ten Frequent Phobias</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-wonderland-the-art-of-dossiers-design/"><u>Win11 Wonderland: The Art of Dossiers Design</u></a></li>
+</ul></div>
+

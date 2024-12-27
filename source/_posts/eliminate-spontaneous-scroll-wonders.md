@@ -1,7 +1,7 @@
 ---
 title: Eliminate Spontaneous Scroll Wonders
-date: 2024-12-19T16:18:03.774Z
-updated: 2024-12-22T00:52:46.786Z
+date: 2024-12-20T20:48:54.620Z
+updated: 2024-12-27T17:09:41.383Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Windows to Scroll By Itself?
 
 ![Person using a mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/person-using-a-mouse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're experiencing automatic scrolling on your Windows PC, these might be the reasons:
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ## How to Fix Automatic Scrolling on Windows
 
  Let's apply the above solutions to fix this strange auto scroll issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. First, Perform Some Preliminary Checks
 
@@ -85,13 +93,13 @@ If the above basic checks don't help, apply the remaining fixes.
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Remove or Uninstall Ghost Devices
 
@@ -102,16 +110,8 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Clicking on the Show Hidden Devices Option in the View Tab of Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-clicking-on-the-show-hidden-devices-option-in-the-view-tab-of-device-manager.jpg)
 3. Expand the**Mice and other pointing devices** category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
 
@@ -128,16 +128,17 @@ If the above basic checks don't help, apply the remaining fixes.
 6. Make sure the**Lines to scroll at a time** slider isn't set too high.  
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
 7. After that, click on the**Additional mouse settings** link.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
@@ -159,24 +160,15 @@ If the above basic checks don't help, apply the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-framework-developing-transformative-lifestyle-broadcasts-for-2024/"><u>[New] Framework Developing Transformative Lifestyle Broadcasts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlined-methods-for-documenting-overwatch-engagements/"><u>[New] In 2024, Streamlined Methods for Documenting Overwatch Engagements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-stories-the-bare-essentials-guide/"><u>[New] Stories The Bare Essentials Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unwanted-comments-made-easy-an-overview/"><u>[Updated] Unwanted Comments Made Easy An Overview</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-mastery-on-the-move-crafting-impactful-video-thumbnails-mobile-for-2024/"><u>[Updated] YouTube Mastery on the Move Crafting Impactful Video Thumbnails (Mobile) for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-methods-for-snapping-uac-prompts/"><u>Efficient Methods for Snapping UAC Prompts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fortifying-your-gaming-memory-with-epic-safeguards/"><u>Fortifying Your Gaming Memory with Epic Safeguards</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-guide-on-downloading-setting-up-and-utilizing-msixbundle-extensions/"><u>Masterful Guide on Downloading, Setting Up, and Utilizing MSixbundle Extensions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-command-for-system-data-view/"><u>Mastering the Command for System Data View</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-for-locating-your-windows-backdrop-file/"><u>Method for Locating Your Window's Backdrop File</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-subsystem-for-linux-with-win-11/"><u>Navigating Windows Subsystem for Linux with Win 11</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/recognizing-graphics-card-problems-tips-from-yl-computings-latest-guide/"><u>Recognizing Graphics Card Problems - Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/solving-the-puzzle-of-blurry-scans-expert-tips-from-yl-software/"><u>Solving the Puzzle of Blurry Scans: Expert Tips From YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-high-dpi-scale-issues-head-on/"><u>Tackling Windows High-DPI Scale Issues Head-On</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-eliminating-rdp-blackout-conditions/"><u>Techniques for Eliminating RDP Blackout Conditions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-wintoys-harnessing-windows-hidden-strengths/"><u>Unveiling 'WinToys': Harnessing Windows' Hidden Strengths</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-treiber-repair-needed-all-drivers-missing/"><u>Urgent Treiber Repair Needed - All Drivers Missing!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-choosing-the-best-screen-capture-app-obs-vs-fraps-for-2024/"><u>[New] Choosing the Best Screen Capture App – OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-metaverse-and-multimeva-a-comparative-study-of-features-for-2024/"><u>[Updated] Metaverse and Multimeva A Comparative Study of Features for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-computing-reviewed-the-essential-guide-from-tomamoor/"><u>Cutting-Edge Computing Reviewed: The Essential Guide From Tom'amoor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-netflix-library-a-guide-to-popular-teen-flicks/"><u>Navigating the Netflix Library: A Guide to Popular Teen Flicks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-device-not-reachable-error-in-windows-os/"><u>Navigating Through Device Not Reachable Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-discord-wins-search-functionality-a-step-by-step-guide/"><u>Repairing Discord Win's Search Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-set-windows-back-to-original-configs/"><u>Strategies to Set Windows Back to Original Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-in-win11-using-nircmd-tips/"><u>Streamline Your Workflow in Win11 Using NirCmd Tips</u></a></li>
 </ul></div>
 

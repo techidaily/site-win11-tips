@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blocked Logins in Windows
-date: 2024-12-15T03:42:58.063Z
-updated: 2024-12-21T22:39:39.057Z
+date: 2024-12-24T16:54:40.518Z
+updated: 2024-12-27T22:54:14.820Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Press **Enter** to sign-in to your user account.
 
  After a successful login, you can reset your PIN, disable the sign-in attempt threshold, and check the user profile configuration to see if your account is disabled. Needless to say, you must be signed to apply this fix.
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  If you don't have an alternate user account setup, [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/). Skip to the later part of the article that shows how to enable the built-in administrator account without the need to sign in.
 
  Once you can sign in, follow these steps to check your account status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
 
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 8. Click **Apply** and **OK** to save the changes.
 
  If both the options are already unchecked, proceed to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Account PIN
 
@@ -149,7 +149,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
@@ -167,11 +167,16 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. In the right pane, locate and right-click on **MaxDenials**.  
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -180,38 +185,11 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
  Windows 10 and 11 computers can act up and lock you out of your system due to a glitch or system malfunction. However, you can bypass this cooling period by signing in with an account password or a PIN reset.
 
  Windows may show this error for various reasons, including a temporary glitch, corrupted login PIN, or incorrect account configuration. Here, we guide you through a few troubleshooting steps to resolve the error and regain access to your computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>[New] The Essentials 2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-techniques-for-efficiently-timestamp-youtube-content/"><u>[Updated] Step-by-Step Techniques for Efficiently Timestamp YouTube Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>2024 Approved Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/coalescing-iphone-media-with-ease-for-2024/"><u>Coalescing iPhone Media with Ease for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-ms-to-do-apps-sync-issues-a-simple-guide/"><u>Decoding MS To-Do App's Sync Issues: A Simple Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-integration-inside-look-at-the-functioning-of-7-gpt-4-enhanced-applications/"><u>Demystifying AI Integration: Inside Look at the Functioning of 7 GPT-4 Enhanced Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-fixes-for-media-maker-tool-errors-x8007043c/"><u>Finding Fixes for Media Maker Tool Errors: X.8007043C</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-turn-off-method-for-windows-11-alerts/"><u>Immediate Turn-Off Method for Windows 11 Alerts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/microsoft-copilot-vs-chatgpt-four-key-benefits-that-make-the-difference/"><u>Microsoft Copilot vs ChatGPT: Four Key Benefits That Make the Difference</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-visual-impact-using-in-built-color-tuning-features/"><u>Optimize Visual Impact Using In-Built Color Tuning Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-for-stopping-repeat-teams-sign-ins/"><u>Quick Steps for Stopping Repeat Teams Sign-Ins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-engaging-your-flaccid-windows-start-icon/"><u>Re-Engaging Your Flaccid Window's Start Icon</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/selecting-the-best-free-melodies-for-your-youtube-video/"><u>Selecting the Best Free Melodies for Your YouTube Video</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-an-overview-of-facebook-twitter-instagram-and-youtube-features/"><u>Social Media Titans: An Overview of Facebook, Twitter, Instagram & YouTube Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-your-onedrive-glitches-in-under-30-minutes/"><u>Solving Your OneDrive Glitches in Under 30 Minutes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-auditory-experience-with-atmos-in-windows/"><u>Transform Your Auditory Experience with Atmos in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-to-windows-11-enable-tpm-activate-secure-boot-pre-upgrade/"><u>Transitioning to Windows 11: Enable TPM, Activate Secure Boot Pre-Upgrade</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-13c-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi 13C? Here is How | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -220,3 +198,27 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/xploring-the-depths-of-asmr-content/"><u>[New] Exploring the Depths of ASMR Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-all-about-dji-inspire-2-today/"><u>[New] Unlocking All About DJI Inspire 2 Today</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-transformation-of-windows-10-landscape/"><u>[Updated] 2024 Approved The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-detailed-look-at-artificial-intelligence-prompting-careers-prosperity-and-growth/"><u>A Detailed Look at Artificial Intelligence Prompting Careers: Prosperity & Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-boot-ready-windows-11-usb-best-practices-in-three-ways/"><u>Crafting a Boot-Ready Windows 11 USB: Best Practices in Three Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-pause-window-solutions-for-slow-gpsvc/"><u>Dissecting the Pause Window: Solutions for Slow GPSVC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-workspace-switch-to-smart-windows-layouts/"><u>Enhance Your Workspace: Switch to Smart Windows Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-managing-windows-fn-key/"><u>Expert Strategies for Managing Windows' Fn Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-display-driver-error-on-windows-11-systems/"><u>Fixing 'Display Driver Error' On Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-back-lost-file-images-in-windows-11/"><u>How to Get Back Lost File Images in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-12-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus 12 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-uncover-all-that-you-need-to-know-about-netflix-services/"><u>Inside Scoop: Uncover All That You Need To Know About Netflix Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-scaling-hurdles-on-windows-devices/"><u>Navigating High-DPI Scaling Hurdles on Windows Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902817028-postpartum-care-following-a-uterine-rupture-is-critical-to-monitor-for-complications-such-as-hemorrhage-infection-or-impact-on-future-fertility/"><u>Postpartum Care Following a Uterine Rupture Is Critical to Monitor for Complications Such as Hemorrhage, Infection, or Impact on Future Fertility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-windows-11s-unresponsive-display-brightness-controls/"><u>Repairing Windows 11'S Unresponsive Display Brightness Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-system-maintenance-with-terminal-commands/"><u>Secure System Maintenance with Terminal Commands</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/swf-3gp-online/"><u>SWF 및 3GP 파일 무료 원격 전환 - Online 쉘</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-excels-true-potential-with-these-3-ai-innovations/"><u>Unlocking Excel's True Potential with These 3 AI Innovations</u></a></li>
+</ul></div>
+

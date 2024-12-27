@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2024-12-15T03:37:44.249Z
-updated: 2024-12-22T01:56:41.283Z
+date: 2024-12-21T21:35:18.505Z
+updated: 2024-12-27T16:06:48.064Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
@@ -64,12 +64,13 @@ To fix this, you can try restarting Cryptographic Services.
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
 
@@ -84,10 +85,6 @@ To fix this, you can try restarting Cryptographic Services.
  You can quickly learn how to run the SFC and DISM, and also explore how they work. Check out our piece on the[differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for the full low-down.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update System Drivers
 
@@ -104,11 +101,11 @@ To fix this, you can try restarting Cryptographic Services.
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
- After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -129,6 +126,11 @@ To edit and enable the Scripted Diagnostics policy:
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
@@ -136,7 +138,7 @@ To edit and enable the Scripted Diagnostics policy:
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
@@ -160,24 +162,21 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-a-guide-to-the-best-headsets-and-goggles-in-metaverse/"><u>[Updated] A Guide to the Best Headsets and Goggles in Metaverse</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-digital-media-seeker-for-2024/"><u>[Updated] Digital Media Seeker for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-guide-to-perfectly-pair-videos-and-stories-for-2024/"><u>[Updated] Step-by-Step Guide to Perfectly Pair Videos and Stories for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-x-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone X Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-fatal-errors-how-to-fix-xbox-game-pass-issue-code-0x00000001-in-windows-11/"><u>Clearing Up Fatal Errors: How to Fix Xbox Game Pass Issue Code 0X00000001 in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-updating-wonderfox-dvd-ripper-to-newest-release/"><u>Comprehensive Guide: Updating WonderFox DVD Ripper to Newest Release</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cross-network-laughter-whos-tops-today/"><u>Cross-Network Laughter Who's Tops Today?</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-s17-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo S17 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-defy-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Defy 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-uncover-the-hidden-spots-of-installing-pc-apps/"><u>How to Uncover the Hidden Spots of Installing PC Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-blaze-2-5g-music-recovery-recover-deleted-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>Lava Blaze 2 5G Music Recovery - Recover Deleted Music from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-unsupported-interface-glitch-top-5-solutions/"><u>Overcoming Windows' Unsupported Interface Glitch: Top 5 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-frozen-ctrl-situation-for-windows-11-users/"><u>Remedying the Frozen Ctrl Situation for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scaling-back-resource-usage-by-tiworkerexe-on-windows/"><u>Scaling Back Resource Usage by TiWorker.exe on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-setup-strategies-for-project-execution/"><u>Speedy Setup Strategies for Project Execution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-resolving-the-requires-elevation-snag/"><u>Streamlining Windows 11: Resolving the Requires Elevation Snag</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-getting-started-with-pokemon-go/"><u>The Ultimate How-To: Getting Started with Pokémon GO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-cloud-vs-local-reinstall-understanding-key-differences/"><u>Windows Cloud Vs. Local Reinstall: Understanding Key Differences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-gone-data-proven-strategies-for-windows/"><u>Winning Back Gone Data: Proven Strategies for Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>[New] In 2024, Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fb-hd-stream-to-local-storage/"><u>[New] In 2024, FB HD Stream to Local Storage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-sierra-icloud-drive-integrations-and-usage-for-2024/"><u>[New] Unlocking Sierra iCloud Drive Integrations & Usage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighted-viewer-insights-unveiled/"><u>[Updated] 2024 Approved Highlighted Viewer Insights Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay/"><u>2024 Approved Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-11-0x80070003-5/"><u>针对Windows 11：消除代码错误 0X80070003 - 深入了解5个维修方法来提高系统性能</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-technicalities-inside-the-windows-iscsi-initiator/"><u>Deciphering the Technicalities: Inside the Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-mechanics-of-microsofts-phone-link-app/"><u>Discovering the Mechanics of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-powershell-implementing-execution-policies-wisely/"><u>Elevating PowerShell: Implementing Execution Policies Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-the-echoes-correcting-server-stumbled-errors-in-win-store/"><u>Eliminate the Echoes: Correcting Server Stumbled Errors in Win Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-android-smartwatch-selection-thoroughly-testing-and-evaluating-the-best-picks-insights-from-zdnet-professionals/"><u>Elite Android Smartwatch Selection: Thoroughly Testing & Evaluating the Best Picks - Insights From ZDNet Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-for-accessing-repair-tools-on-windows/"><u>Essential Methods for Accessing Repair Tools on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 Plus You Should Try Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-multitasking-window-11-shortcuts-explained/"><u>Maximize Multitasking: Window 11 Shortcuts Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/post-block-reconciliation-tactics-for-fb-friends/"><u>Post-Block Reconciliation Tactics for FB Friends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-features-0x80071a90-error-and-how-do-you-fix-it/"><u>What Is the Windows Features 0X80071A90 Error and How Do You Fix It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overclocking Valorant: Tips for 0.1KB/S Boost on PC"
-date: 2024-12-18T23:41:20.198Z
-updated: 2024-12-21T20:32:27.120Z
+date: 2024-12-25T23:06:29.369Z
+updated: 2024-12-27T20:54:17.922Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 4. Click on**Edit** next to**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. As per your DNS provider, choose**IPv4** or**IPv6** .
 7. If you choose IPv4, enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers** , respectively.
 8. If you choose IPv6, enter**2001:4860:4860::8888** and**2001:4860:4860::8844** in**Preferred** and**Alternate DNS servers** , respectively.  
@@ -78,14 +83,10 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 9. Click on Save.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if you are still facing the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
 
@@ -97,10 +98,14 @@ Check if you are still facing the problem.
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Uninstall Avast Antivirus
@@ -112,10 +117,6 @@ Check if you are still facing the problem.
 3. Right-click on Avast and choose**Uninstall** from the context menu.
 
  After that, follow the on-screen instruction to complete the uninstallation process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Flush the DNS Cache
 
@@ -141,11 +142,11 @@ Here are the steps for downloading the latest network drivers:
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
 4. Click on**Search automatically for drivers** .
 
- Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
 
 ## 9\. Change Riot Client Priority
 
@@ -160,10 +161,6 @@ Here are the steps you need to follow.
 
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Reset the Network Settings
 
  Sometimes your current network settings can be the reason behind slow downloading in different applications, including Valorant. To fix this, you'll have to reset the network settings, which will reinstall the network adapters, and configure other network services back to their default values.
@@ -176,7 +173,11 @@ Here's how to reset the network settings:
 3. Click**Yes** to the UAC that crops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Valorant Downloading Issue Fixed
@@ -200,24 +201,21 @@ Here's how to reset the network settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>[New] BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-3-cheap-fast-internet-plans-for-gamers/"><u>[New] In 2024, Top 3 Cheap, Fast Internet Plans for Gamers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>[Updated] 2024 Approved Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-scripts-to-screen-a-filmmakers-guide/"><u>2024 Approved Scripts to Screen A Filmmaker's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparable-digital-painting-apps-for-windows/"><u>Comparable Digital Painting Apps for Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-shrink-windows-1/"><u>DVD Shrink ソフトウェアを Windows 1</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/effortless-edits-bending-image-into-shape-for-2024/"><u>Effortless Edits Bending Image Into Shape for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-and-tips-for-chromes-non-saving-files-in-the-windows-network/"><u>Fixes and Tips for Chrome's Non-Saving Files in the Windows Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-application-run-time-failures-proficiently/"><u>Handling Windows Application Run-Time Failures Proficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-reshape-an-ssd-drive-on-a-hard-disk-in-windows-1011-with-secure-boot-enabled/"><u>How to Reshape an SSD Drive on a Hard Disk in Windows 10/11 with Secure Boot Enabled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-using-b-roll-to-enhance-cinematic-quality/"><u>In 2024, Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/japan-deploys-interceptor-over-scrambled-drone-monitoring-chinese-bzk-005-flight-near-yonaguni/"><u>Japan Deploys Interceptor Over Scrambled Drone: Monitoring Chinese BZK-005 Flight Near Yonaguni</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maintain-an-organized-filespace-configuring-auto-delete-on-windows-11/"><u>Maintain an Organized Filespace: Configuring Auto Delete on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-opening-system32-in-win11/"><u>Steps for Opening System32 in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-dialogue-into-written-words-whisper-edition/"><u>Transform Your Dialogue Into Written Words - Whisper Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-lost-screen-mirroring-on-pc/"><u>Troubleshooting Lost Screen Mirroring on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-interface-overhaul-explorer-upgrades/"><u>Unveiling Windows 11'S Interface Overhaul: Explorer Upgrades</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-growth-booster-top-seo-tools-uncovered-for-2024/"><u>Video Growth Booster – Top SEO Tools Uncovered for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-embrace-dxvk-for-a-better-windows-gaming-experience/"><u>Why Embrace DXVK for a Better Windows Gaming Experience?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-dos-and-donts-of-youtube-video-logging/"><u>[New] The Do's and Don'ts of YouTube Video Logging</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instas-power-players-a-guide-to-your-niches-movers-and-shakers/"><u>[Updated] 2024 Approved Insta’s Power Players A Guide to Your Niche's Movers & Shakers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-ranked-free-drawing-apps-for-mac/"><u>[Updated] Unleash Creativity Ranked FREE Drawing Apps for Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-affordable-gopro-purchase-guide-tips-and-tricks/"><u>2024 Approved Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027639469-facebook/"><u>Facebook動画編集技術：トリミングから混合まで</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-rectifying-top-6-auto-gpt-hiccups/"><u>Key Strategies: Rectifying Top 6 Auto-GPT Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-inactivity-timer/"><u>Mastering Windows Inactivity Timer</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-fuzziness-essential-fixes-for-blurry-windows-screens/"><u>Overcoming Fuzziness: Essential Fixes for Blurry Windows Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-ensuring-smooth-windows-downloads/"><u>Overcoming Obstacles: Ensuring Smooth Windows Downloads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-memory-writing-errors-on-win/"><u>Strategies for Dealing with Memory Writing Errors on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-existent-files-warning-in-windows-11/"><u>Tackling Non-Existent Files Warning in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/team-share-woes-quick-windows-guide/"><u>Team Share Woes: Quick Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-undercover-apps-in-microsofts-marketplace/"><u>Unveiling Undercover Apps in Microsoft's Marketplace</u></a></li>
 </ul></div>
 

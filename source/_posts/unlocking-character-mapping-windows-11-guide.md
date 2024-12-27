@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Character Mapping: Windows 11 Guide"
-date: 2024-12-16T17:13:37.009Z
-updated: 2024-12-22T07:05:57.386Z
+date: 2024-12-25T18:45:34.615Z
+updated: 2024-12-27T21:27:34.914Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Open Character Map Using the Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool.jpg)
 2. Type "character map" in the search box and hit the**Enter** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Character Map Using the Run Dialog
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open Character Map From the Start Menu
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 3. Scroll down to the bottom and click**Windows Tools** .
 4. You will see a list of Windows tools on the next screen.
 5. Click twice on the**Character Map** . It will take you to the Character Map utility page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. How to Open Character Map Using the Control Panel
 
@@ -85,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
 ## 6\. How to Open Character Map Via File Explorer
@@ -100,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 3. This will open the Character Map window on your computer screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Character Map Using a Desktop Shortcut
@@ -112,12 +104,12 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Create Desktop Shortcut of Character Map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-Character-Map.jpg)
 3. Click**Next** and then give your shortcut a name.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A shortcut will appear on the desktop of your computer; double-click it to open the Character Map application.
 
@@ -138,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
 
  Furthermore, you can also pin the Character Map application to the taskbar for easy access. Follow these steps to take so:
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
 
 This way you can now easily access the tool from the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open a Character Map in a Snap
 
@@ -167,20 +167,21 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-rhythmic-reckonings-top-disruptors-for-mobile-devices/"><u>[Updated] 2024 Approved Rhythmic Reckonings Top Disruptors for Mobile Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/achieve-cinematic-brilliance-the-11-ultimate-tutorials-on-color-grading-for-2024/"><u>Achieve Cinematic Brilliance The 11 Ultimate Tutorials on Color Grading for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comparative-study-top-software-for-webcam-recording-for-2024/"><u>Comparative Study Top Software for Webcam Recording for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-the-memory-could-not-be-written-error-on-windows/"><u>How to Fix the The Memory Could Not Be Written Error on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-nova-y71-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei Nova Y71 Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-commands-setting-up-win-shortcuts-swiftly/"><u>Master Your Commands: Setting up WIN Shortcuts Swiftly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-tailored-snap-layouts-with-powertoys/"><u>Mastering the Art of Tailored Snap Layouts with PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-fixing-winservicesexe-problems/"><u>Overcoming Challenges: Fixing Winservices.exe Problems</u></a></li>
-<li><a href="https://solve-help.techidaily.com/qualitatsbewusste-methoden-zum-schnellen-transcodieren-von-ts-zu-mp4-eine-detaillierte-anleitung-mit-10-techniken/"><u>Qualitätsbewusste Methoden Zum Schnellen Transcodieren Von TS Zu MP4 - Eine Detaillierte Anleitung Mit 10 Techniken</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/section-2a-understanding-pituitamo-secreting-tumors/"><u>Section 2A: Understanding Pituitamo-Secreting Tumors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-right-way-to-linux-exclude-wsl/"><u>The Right Way to Linux: Exclude WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-correct-error-code-0x80073cf3-in-microsoft-store-win11/"><u>Tips to Correct Error Code 0X80073CF3 in Microsoft Store Win11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unlock-chromebooks-full-potential-install-linux-for-2024/"><u>Unlock Chromebooks Full Potential Install Linux for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-or-11-wont-wake-from-sleep-with-keyboard-or-mouse-what-to-do/"><u>Windows 11 or 11 Won't Wake From Sleep With Keyboard or Mouse? What to Do</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-tactics-for-boosting-vhs-quality-through-digital-tools/"><u>[New] In 2024, Top Tactics for Boosting VHS Quality Through Digital Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-youtube-tracks-into-mp3-with-macos/"><u>[New] Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-macos-sierra-installation-procedures/"><u>[Updated] In 2024, Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-poco-c50-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aligning-objectives-brands-and-youtube-collaborative-moves-for-2024/"><u>Aligning Objectives Brands and YouTube Collaborative Moves for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-the-top-20-leading-ios-data-restoration-apps-on-pc-platforms/"><u>Comprehensive Guide to the Top 20 Leading iOS Data Restoration Apps on PC Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-a-viral-youtube-sensation-simplified-action-plan-for-2024/"><u>Creating a Viral YouTube Sensation Simplified Action Plan for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-task-management-utilize-the-power-of-flow-launcher/"><u>Enhance Task Management: Utilize the Power of Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-0x80042306-a-step-by-step-approach/"><u>Fixing Windows Error 0X80042306: A Step-by-Step Approach</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y200-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y200 Data? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-0x800700e9-error-within-xbox-game-pass-and-windows-11/"><u>Rectifying 0X800700E9 Error Within Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-original-boot-menu-colors/"><u>Reinstating Original Boot Menu Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-silent-audio-input-quick-remedies-for-obs-and-windows-11/"><u>Resurrecting Silent Audio Input: Quick Remedies for OBS & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retro-tech-adopting-windows-11-on-pre-2021-models/"><u>Retro Tech: Adopting Windows 11 on Pre-2021 Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-driver-failure-in-windows-11plus/"><u>Troubleshooting Display Driver Failure in Windows 11+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-enabling-grammarly-for-windows/"><u>Troubleshooting: Enabling Grammarly for Windows</u></a></li>
 </ul></div>
 

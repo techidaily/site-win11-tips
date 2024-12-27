@@ -1,7 +1,7 @@
 ---
 title: Enabling Chromium's Network Access Over Windows Security Barrier
-date: 2024-08-16T02:43:47.681Z
-updated: 2024-08-17T02:43:47.681Z
+date: 2024-12-22T19:18:34.198Z
+updated: 2024-12-27T17:40:47.365Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  When you're sure that neither Chrome nor any harmful software in your device is causing the trouble, you are good to grant Chrome exclusive access through the firewall.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Allow Chrome to Access the Network in Your Firewall Settings
 
  To allow Chrome to access the network in your firewall settings, follow the below steps:
@@ -44,35 +45,32 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 4. Click **Firewall & network protection**.
 5. On the right side of the **Windows Security** window, click on **Allow an app through firewall**.  
 ![Clicking on Allow an App Through Firewall in Windows Security Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-4-Clicking-on-Allow-an-App-Through-Firewall-in-Windows-Security-Settings-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Check if Chrome is already listed in the **Allowed applications** window. If it has already been added, select the app and click **Remove**. Afterward, add Chrome again by following the steps below. If Chrome has not been added yet, follow the steps below to add it for the first time.
 2. Click the **Change settings** button.
 3. Click on **Allow another app**.  
 ![Clicking on Allow Another App Option to Add New App in Allowed Apps List of Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-5-Clicking-on-Allow-Another-App-Option-to-Add-New-App-in-Allowed-Apps-List-of-Windows-Firewall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the **Add an app** window, click the **Browse** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select Chrome's executable file by going to **C: drive > Program Files > Google > Chrome > Application**.  
 ![Selecting Chrome’s Executable File by Following the Path by Clicking on the Browse Button in Add an App Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-6-Selecting-Chrome’s-Executable-File-by-Following-the-Path-by-Clicking-on-the-Browse-Button-in-Add-an-App-Window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 6. Once the path has been defined, click the **Add** button again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Clicking on Add Button after Selecting Chrome’s Executable File to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-7-Clicking-on-Add-Button-after-Selecting-Chrome’s-Executable-File-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
 7. Make sure the **Public** and **Private** boxes are checked right next to Chrome.
 8. Click **Ok**.  
 ![Checking the Boxes for Public and Private Options Next to Google Chrome to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-8-Checking-the-Boxes-for-Public-and-Private-Options-Next-to-Google-Chrome-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use [other ways to make an exception in Windows 11](https://www.makeuseof.com/windows-11-security-exclusions/). Once Chrome is added, try opening the webpage again. If the browser still throws the same error, your antivirus is likely to blame. Therefore, you should also add an exception to your antivirus program for Chrome.
@@ -84,15 +82,14 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  Check the documentation on the official websites of [Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/#pc), [Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows), [McAfee](https://www.mcafee.com/support/?articleId=TS102056&page=shell&shell=article-view), and [Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/) for instructions on creating an exception for any program in each antivirus. If you use a different program than those listed above, refer to your antivirus documentation for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Help Chrome Establish a Successful Connection
 
  Allowing Chrome exclusive access to firewall and antivirus should help the browser establish a successful connection. You would, therefore, visit the webpage where you encountered the error before. In case the issue persists, you can change your browser since there are many great options available.
 
  As the error suggests, it's possible that your antivirus or firewall has detected malware in your browser or that the website you're visiting isn't safe. In this article, we will show you how to proceed when you encounter this error and how to whitelist Chrome in firewall and antivirus settings.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +97,25 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[New] Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sculpting-speed-at-winter-olympics/"><u>[New] Sculpting Speed at Winter Olympics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-photographers-secret-to-color-inversion-for-2024/"><u>[New] The Photographer's Secret to Color Inversion for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>[Updated] 2024 Approved Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-mobile-photography-boosters-iphone-vs-android/"><u>[Updated] Essential Mobile Photography Boosters IPhone vs Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>2024 Approved Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pc-reset-simplified-strategies-for-windows-rebooting/"><u>Easy PC Reset: Simplified Strategies for Windows Rebooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-software-alignment-in-windows-11/"><u>Efficient Software Alignment in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-stopping-freezing-and-reboot-issues-during-the-post/"><u>How to Fix Stopping, Freezing, and Reboot Issues During the POST</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-logins-not-allowed-with-8-steps/"><u>Resolving Windows Logins Not Allowed with 8 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-life-a-compreehers-handbook-to-creating-multiple-directories-in-windows-1011/"><u>Simplify Your Life: A Compreeher's Handbook to Creating Multiple Directories in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-disrupted-functionality-after-windows-updates/"><u>Solutions for Disrupted Functionality After Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steel-your-systems-start-with-5-fixes-to-secure-boot-snags-in-windows/"><u>Steel Your System's Start with 5 Fixes to Secure Boot Snags in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-spooler-service-reset-on-pc/"><u>Swift Spooler Service Reset on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-paudio-knot-audacitys-windows-remedy-guide/"><u>Unraveling the PAudio Knot: Audacity's Windows Remedy Guide</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/warum-die-app-store-funktion-nach-dem-neuesten-ios-update-auf-ihrem-iphone-nicht-mehr-funktioniert/"><u>Warum Die App-Store-Funktion Nach Dem Neuesten iOS Update Auf Ihrem iPhone Nicht Mehr Funktioniert?</u></a></li>
+</ul></div>
+

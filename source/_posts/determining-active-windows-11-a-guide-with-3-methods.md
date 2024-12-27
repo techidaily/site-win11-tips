@@ -1,7 +1,7 @@
 ---
 title: "Determining Active Windows 11: A Guide with 3 Methods"
-date: 2024-12-15T01:05:05.919Z
-updated: 2024-12-22T00:21:22.676Z
+date: 2024-12-24T21:22:01.018Z
+updated: 2024-12-27T22:42:27.509Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 ![Check Activation Status on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-activation-status-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the status reads**Active** , it means your Windows 11 copy is activated. On the other hand, if the status displays**Not active** , it implies that the copy of your Windows 11 is not yet activated.
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 * Windows is not activated.
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
@@ -72,14 +68,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
@@ -93,7 +85,15 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Checking Windows 11’s Activation Status, Made Easy
 
@@ -116,24 +116,24 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-and-share-your-digital-world-effortlessly/"><u>[New] 2024 Approved Capture and Share Your Digital World Effortlessly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-discovering-expert-seed-selection-for-valheimers-for-2024/"><u>[New] Discovering Expert Seed Selection for Valheimers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-secrets-to-recording-high-quality-overwatch-matches-for-2024/"><u>[Updated] Secrets to Recording High-Quality Overwatch Matches for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>2024 Approved Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unleash-creativity-on-screen-discover-the-best-reactions/"><u>2024 Approved Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-life-in-high-res-chromatic-shades-with-4k-for-2024/"><u>Capturing Life in High-Res Chromatic Shades with 4K for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/complete-step-by-step-tutorial-successfully-duplicating-an-nvme-ssd-in-a-single-slot-configuration/"><u>Complete Step-by-Step Tutorial: Successfully Duplicating an NVMe SSD in a Single-Slot Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elite-four-password-keepers-for-a-robust-windows-11-experience/"><u>Elite Four Password Keepers for a Robust Windows 11 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-130-on-steam-heres-how-to-get-it-running-smoothly-again/"><u>Error Code 130 on Steam? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-sticky-note-discrepancies-in-win11/"><u>Fixing Sticky Note Discrepancies in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-calamity-to-caution-prioritize-windows-backups/"><u>From Calamity to Caution: Prioritize Windows Backups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-steam-deck-to-full-os-installing-windows/"><u>From Steam Deck to Full OS: Installing Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-adding-program-icons-to-windows-11s-taskbar/"><u>Quick Guide: Adding Program Icons to Windows 11'S Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-error-during-software-updates/"><u>Steps for Correcting Error During Software Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-overuse-of-resources-in-remote-connectivity-tools/"><u>Tackling Overuse of Resources in Remote Connectivity Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-impact-of-microsofts-copilot-key-on-pcs/"><u>Understanding the Impact of Microsoft's Copilot Key on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-outlook-a-step-by-step-to-unique-calendar-design/"><u>Windows Outlook: A Step-by-Step to Unique Calendar Design</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-effortlessly-record-and-share-snapchat-videos/"><u>[New] 2024 Approved How to Effortlessly Record and Share Snapchat Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-beyond-the-veil-of-space-time-the-greatest-sci-fi-films-experiences/"><u>[New] Beyond the Veil of Space-Time The Greatest Sci-Fi Films' Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-8-platforms-for-private-screenings/"><u>[New] Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-audio-preservation-for-academics-on-apple-systems/"><u>[New] In 2024, Audio Preservation for Academics on Apple Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[Updated] Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-rectifying-error-0x800700e1-on-windows-11-devices/"><u>Guidelines for Rectifying Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-mend-vac-verification-issues-on-pc/"><u>Guidelines to Mend VAC Verification Issues on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-image-clarity-solutions-for-blurred-graphics-in-cod-warzone-gaming-on-desktops/"><u>Improving Image Clarity: Solutions for Blurred Graphics in COD: Warzone Gaming on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-essential-windows-encrypted-apps-150-chars/"><u>Mastering Privacy: Essential Windows Encrypted Apps (150 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-file-type-modification-in-the-windows-realm/"><u>Mastery of File Type Modification in the Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-sticky-notes-sync-failures-on-windows-11/"><u>Overcoming Sticky Notes Sync Failures on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/select-apple-airpod-variants-get-a-tech-boost-this-fall-with-three-key-features-as-revealed-by-zdnet/"><u>Select Apple AirPod Variants Get a Tech Boost This Fall with Three Key Features, as Revealed by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-problem-resolution-in-windows-with-troubleshoot-shortcuts/"><u>Speedy Problem Resolution in WIndows with Troubleshoot Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotting-hidden-pane-panes-strategies-to-try-with-win11/"><u>Spotting Hidden Pane Panes: Strategies to Try with Win11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tf2-constant-crashing-issues-heres-the-solution/"><u>TF2 Constant Crashing Issues? Here's the Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-potential-of-generative-ai/"><u>Understanding ChatGPT: Unlocking the Potential of Generative AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-hardware-identification-in-windows-systems/"><u>Unveiling the Power: Hardware Identification in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vanguard-of-windows-11-selecting-your-most-trusted-password-guardians/"><u>Vanguard of Windows 11: Selecting Your Most Trusted Password Guardians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-with-the-tesla-robotaxi-projections-on-cost-rollout-dates-and-specs-explored/"><u>What's New with the Tesla Robotaxi? Projections on Cost, Rollout Dates & Specs Explored</u></a></li>
 </ul></div>
 

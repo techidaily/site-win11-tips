@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functional Slack Alerts on PCs
-date: 2024-12-15T08:26:27.676Z
-updated: 2024-12-22T02:26:23.920Z
+date: 2024-12-23T19:41:25.943Z
+updated: 2024-12-27T22:23:28.667Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Knowing all the possible culprits, let’s check out solutions that will help you troubleshoot this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
 ![Restart button in Shut Down Windows prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before trying any complex solutions, make sure to restart your computer at least once. This will eliminate any bug or glitch that might be causing the issue.
 
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  However, if the Slack servers are operational and you still encounter the problem, it's possible that the Windows Focus session feature is involved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stop Focus Sessions on Windows
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Choose **System** from the left sidebar and **Focus** from the right pane.
 3. Click the **Stop** **focus** **session** button.  
 ![Stop focus session button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-focus-session-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And that’s about it. Check if you now receive notifications on Slack.
 
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![Do not disturb toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/do-not-disturb-toggle.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, you can add Slack as an exception to the Do not disturb mode. This way, you'll still receive Slack notifications even if your computer is in this mode. Here’s how to do that:
@@ -96,11 +100,11 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 3. Click the **Add** **ap** **ps** button and choose **Slack** from the list of installed apps that crops up.  
 ![Add apps button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-apps-button.jpg)
 
- That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
 
 ## 5\. Allow Slack to Send Notifications
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![Notifications toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/notifications-toggle.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, Windows will show all the notifications from Slack in its notification center.
@@ -130,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Clear Slack Cache Data
 
  Slack can sometimes misbehave and fail to send notifications due to corrupt cache data. To fix this, you can clear Slack's cache data.
@@ -143,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![Clear Cache and Restart option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-cache-and-restart.jpg)
 
  Slack will now clear its cache data and restart automatically. Once it has restarted, check to see if Slack is sending notifications. If not, you may need to reset Slack's data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Slack App's Data
 
@@ -154,10 +158,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Click **Yes** on the confirmation prompt.  
 ![Yes option to reset Slack data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, Slack will restart automatically, and you will have to sign in to your workspace again.
 
 ## Fix Slack Notifications Not Working on Windows
@@ -168,21 +168,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  You can do a few things to troubleshoot this problem, and this guide is all about that. Here, we’ll explore eight ways to fix Slack notifications not working on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-3-easy-youtube-audio-extraction-methods-free-and-secure-for-2024/"><u>[New] 3 Easy YouTube Audio Extraction Methods Free & Secure for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-examining-the-effectiveness-of-iscreen-recording/"><u>[Updated] 2024 Approved Examining the Effectiveness of iScreen Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-leveraging-windows-11s-start-screen/"><u>Essential Techniques for Leveraging Windows 11'S Start Screen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-8-top-tier-filters-to-elevate-your-live-feed/"><u>In 2024, 8 Top-Tier Filters to Elevate Your Live Feed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>In 2024, The Evolution of Audio Liberation Pazera's Advanced Techniques (2E)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-your-systems-inner-workings/"><u>Initiating Your System's Inner Workings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-gaming-experience-on-windows-hardware/"><u>Optimizing Your Gaming Experience on Windows Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-pc-display-rgb-control-guide-for-win11/"><u>Tailoring Your PC Display: RGB Control Guide for Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-solving-common-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Tips: Solving Common Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-pick-of-smart-locks-for-iphones-that-blend-in-seamlessly/"><u>Ultimate Guide: Top Pick of Smart Locks for iPhones That Blend In Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unite-windows-devices-for-streamlined-transcoding-operations-using-tdarr/"><u>Unite Windows Devices for Streamlined Transcoding Operations Using Tdarr</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -190,3 +175,19 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-how-to-utilizing-whatsapps-audio-messaging/"><u>[New] The How-To Utilizing WhatsApp's Audio Messaging</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-prime-8-edits-suites-on-linux-os/"><u>[Updated] In 2024, Prime 8 Edits Suites on Linux OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-complete-users-manual-to-mac-dvd-burning-for-2024/"><u>[Updated] The Complete User's Manual to Mac DVD Burning for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodge-upload-issue-windows-error-code-0x80242016/"><u>Dodge Upload Issue: Windows Error Code 0X80242016</u></a></li>
+<li><a href="https://article-tips.techidaily.com/innovating-film-production-with-augmented-realms-for-2024/"><u>Innovating Film Production with Augmented Realms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-recovering-troubleshooter-function-in-windows-11/"><u>Navigating the Maze: Recovering Troubleshooter Function in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-revive-your-inactive-windows-11-wi-fi-hotspot/"><u>Steps to Revive Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/stop-the-surprising-shutdowns-discover-what-causes-spontaneous-computer-restarts-with-expert-advice-from-yl-software/"><u>Stop the Surprising Shutdowns! Discover What Causes Spontaneous Computer Restarts with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-sticky-note-access/"><u>Unlocking the Secrets of Sticky Note Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-photo-sorting-software-for-pc-users/"><u>Winning Photo Sorting Software for PC Users</u></a></li>
+<li><a href="https://discover-great.techidaily.com/yl-computing-tips-accelerate-your-computers-boot-process-with-ease/"><u>YL Computing Tips: Accelerate Your Computer's Boot Process with Ease!</u></a></li>
+</ul></div>
+

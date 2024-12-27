@@ -1,7 +1,7 @@
 ---
 title: "Revoking Tech: Shortcuts for Purging Programs in Windows 11 (115 Chars)"
-date: 2024-12-19T03:56:08.230Z
-updated: 2024-12-22T02:06:37.294Z
+date: 2024-12-21T22:45:35.119Z
+updated: 2024-12-27T21:42:49.234Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Uninstall Software in the Control Panel
 
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![uninstall-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall Software via the Start Menu
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![programs-and-features-applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/programs-and-features-applet.png)
 4. If the software has a folder on the Start menu, click the folder to expand it. Then right-click the app in the folder to select its **Uninstall** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Uninstall Software via File Explorer
 
  Many desktop software packages will have uninstall.exe files in their folders you can click to uninstall them with. To do so, you’ll need to find their uninstall.exe files within Explorer. This is how you remove software via File Explorer.
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 4. Double-click the uninstall.exe to open an uninstall window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select the required options in the uninstaller window to remove the software.
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 `product where name="Epic Games Launcher" call uninstall`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Remove Software With PowerShell
 
  You can’t uninstall some built-in Windows UWP apps, such as Camera and Photos, in Settings. If you want to remove some of those built-in apps, you can do so with this PowerShell command-line method. Follow the steps below to uninstall software with PowerShell.
@@ -122,13 +118,26 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 5. Find the app you want to uninstall in the list, and note down the PackageFullName specified for it. You can copy the PackageFullName by selecting its text and pressing the **Ctrl + C** hotkey.  
 ![The Get-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/get-appxpackage-command.png)
 6. Then input this uninstall app command and press **Return**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Remove-AppxPackage [App Name]`
 
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/remove-apppackage.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you replace **\[App Name\]** in that command with the PackageFullName for the app you want to uninstall. A command to uninstall Edge would look like this:
 
 `Remove-AppxPackage Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Software With Third-Party Uninstallers
 
@@ -146,19 +155,15 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The Uninstall option in Windows 11's search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstall-option-in-the-search-tool.jpg)
 4. If the software you want to install isn’t the best match, right-click its search result and select **Uninstall**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Uninstall Software With Gaming Clients
 
  Many users install games with gaming clients, such as Steam and Epic Games Launcher. If you’ve installed a game with a gaming client, you can also uninstall it with the same software. You can do so by selecting the uninstall option for a game within the client software. This [how-to-uninstall Steam games article](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) tells you how to remove games within Steam.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-option-in-epic-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. How to Uninstall Software With Registry Editor and Run
 
@@ -177,15 +182,15 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The Run dialog that includes an UninstallString value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-run-dialog.jpg)
 9. Press **OK** to bring up an uninstall window for the software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Select to uninstall the software from there.
 
  Some programs will have keys with alphanumeric codes that don’t match their titles in any way. So, you may need to identify program keys differently. To do so, select a key with an alphanumeric code and look at the value for its **DisplayName** string. The **DisplayName** strings show you the names of the keys’ software packages.
 
 ![The value data for a DisplayName string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-displayname-string-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Uninstall Software via the Context Menu
 
@@ -196,11 +201,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The Uninstall desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-context-menu-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Uninstall Software You Don’t Need
@@ -209,29 +210,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
  There are various ways you can uninstall software in Windows 11\. Most users will probably be familiar with Windows’ built-in "Programs and Features" uninstaller. However, utilizing that uninstaller is not necessarily the best way to remove software; and sometimes you might have to try different methods. These are seven ways you can remove software packages in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-attention-secrets-to-making-your-youtube-ads-stand-out/"><u>[New] The Art of Attention Secrets to Making Your YouTube Ads Stand Out</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[Updated] In 2024, Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/easy-methods-for-saving-outlook-express-mailboxes-on-external-drives/"><u>Easy Methods for Saving Outlook Express Mailboxes on External Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-jotting-down-made-simple-in-win11/"><u>Effortless Jotting Down Made Simple in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-voice-activation-failures-in-the-latest-windows-os/"><u>Fixing Voice Activation Failures in the Latest Windows OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a54-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A54 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-mastering-chromebook-zoom-features/"><u>In 2024, Secrets to Mastering Chromebook Zoom Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-ultimate-clarity-with-the-z32x-monitor/"><u>In 2024, The Quest for Ultimate Clarity with the Z32X Monitor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-lut-applications-in-premiere-pro-for-2024/"><u>Mastering LUT Applications in Premiere Pro for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-storage-unlocking-extra-space-on-your-iphone-with-simple-decluttering-steps/"><u>Maximizing Storage: Unlocking Extra Space on Your iPhone with Simple Decluttering Steps</u></a></li>
-<li><a href="https://win-superb.techidaily.com/microsofts-copilot-vs-copilot-pro-evaluating-value-in-ai-assistance-a-cost-benefit-analysis-on-zdnet/"><u>Microsoft's Copilot Vs. Copilot Pro: Evaluating Value in AI Assistance – A Cost-Benefit Analysis on ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-away-from-blocked-router-configuration/"><u>Navigating Away From Blocked Router Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-forgotten-windows-11-pin-post-corruption/"><u>Reinstating Forgotten Windows 11 PIN Post-Corruption</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-systemsettingsexe-glitch-in-windows-11/"><u>Remedying SystemSettings.exe Glitch in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shifting-initial-home-page-away-from-settings-app/"><u>Shifting Initial Home Page Away From Settings App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-realignment-of-window-widgets-separation-in-winos/"><u>Title: Realignment of Window Widgets' Separation in WinOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-quick-fix-flipping-clips-in-final-cut-pro-made-easy/"><u>Updated 2024 Approved Quick Fix Flipping Clips in Final Cut Pro Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-seamless-auto-restart-when-idle/"><u>Windows 10/11: Seamless Auto Restart When Idle</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -239,3 +217,23 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>[New] FCP’s Ultimate Effect Upgrade The Best 10 Plugins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-srt-file-management-for-seamless-audible-experience/"><u>[New] SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-complete-blueprint-for-tracking-yt-viewsrevenue/"><u>[Updated] 2024 Approved Complete Blueprint for Tracking YT Views/Revenue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-application-made-simple-python-plus-gpt-3/"><u>AI Application Made Simple: Python + GPT-3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/almost-there-discover-how-this-high-end-3600-laptop-matches-up-to-my-dream-computer-specifications/"><u>Almost There: Discover How This High-End $3,600 Laptop Matches Up to My Dream Computer Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-messaging-clues-how-to-know-if-your-text-has-been-seen/"><u>Deciphering Messaging Clues: How to Know If Your Text Has Been Seen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-msvcr110dll-deficiency-on-pcs/"><u>Eliminating Msvcr110.dll Deficiency on PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-s23plus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy S23+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-sharing-between-two-computers-with-aoemi/"><u>Optimizing File Sharing Between Two Computers with AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-application-start-up-issues-how-to-fix-error-code-0xc000003e-in-windows-11/"><u>Overcoming Application Start-Up Issues: How to Fix Error Code 0XC000003E in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-initial-no-display-window-dilemma/"><u>Solving Initial No-Display Window Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-extraordinary-windows-capabilities-today/"><u>Unlock Extraordinary Windows Capabilities Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-style-dynamic-window-management-with-wmdesk/"><u>Upgrade Style: Dynamic Window Management with WmDesk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10win11-fixing-non-operational-diagnostics/"><u>Win10/Win11: Fixing Non-Operational Diagnostics</u></a></li>
+</ul></div>
+

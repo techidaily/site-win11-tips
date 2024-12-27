@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2024-12-17T04:35:21.406Z
-updated: 2024-12-22T05:40:33.185Z
+date: 2024-12-20T18:56:40.199Z
+updated: 2024-12-27T17:22:50.651Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Copy and Paste via Windows Settings
@@ -40,20 +40,17 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 5. Go to the Isolated browsing section and click the link "Change Applications Guard settings."  
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
-![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
-7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
+7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -74,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click twice on the newly created DWORD key to open a pop-up window.
@@ -83,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -91,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  If you'd like to turn off this feature, just repeat the aforementioned steps, but set the Value data to**0** and click**OK** . That's all it takes for your changes to be put into effect!
 
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
 
@@ -111,21 +112,16 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-precision-in-adding-time-stamps-to-images-for-2024/"><u>[Updated] Precision in Adding Time Stamps to Images for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/iuawsoweiplusocsplusodreodiuobqplusocioociplusodkplusocuoodjeocuemdouobpplusobruiehewogeobqoekvuwgheodlplusodreocuplusocueauuewwhoaipuevptog5pya5paw44oh44o826/"><u>新型コロナによるビジネス面での脅威と社内プロセス改善戦略: 最新データ分析</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/come-gestire-quando-la-casella-di-posta-di-outlook-e-completa-soluzioni-rapide/"><u>Come Gestire Quando La Casella Di Posta Di Outlook È Completa: Soluzioni Rapide</u></a></li>
-<li><a href="https://facebook.techidaily.com/connect-with-melodies-enjoy-spotifys-mini-panel-on-facebook/"><u>Connect with Melodies: Enjoy Spotify's Mini-Panel on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-zoom-downfall-fix-error-1132/"><u>Counteracting Windows' Zoom Downfall - Fix Error 1132</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/expert-tips-for-successfully-resolving-failing-windows-11-system-restore-problems/"><u>Expert Tips for Successfully Resolving Failing Windows 11 System Restore Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-most-frequent-user-criticisms-on-windows-11/"><u>Exploring The Most Frequent User Criticisms on Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-sense-of-mbr-failures-through-data-analysis/"><u>Making Sense of MBR Failures Through Data Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-troubleshooting-in-windows-11-keyboard-shortcuts/"><u>Mastering Troubleshooting in Windows 11: Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-tab-key-malfunction-in-modern-oses/"><u>Overcoming Tab Key Malfunction in Modern OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-hidden-configurations-finding-lost-control-panel-features/"><u>Revive Hidden Configurations: Finding Lost Control Panel Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-download-of-asus-aura-customization-suite-for-windows-1110-users/"><u>Step-by-Step Download of ASUS AURA Customization Suite for Windows 11/10 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-cloud-storage-integrating-dropbox-and-google-drive-via-c/"><u>Unlocking Cloud Storage: Integrating Dropbox and Google Drive via C</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/your-ultimate-resource-for-cutting-edge-pc-components-at-toms-hardware/"><u>Your Ultimate Resource for Cutting-Edge PC Components at Tom's Hardware</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-ps2-emulation-software-for-ios-users/"><u>[Updated] In 2024, Ideal PS2 Emulation Software for IOS Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sketch-humorous-images-with-adobe/"><u>2024 Approved Sketch Humorous Images with Adobe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/complete-deletion-of-wsl-in-windows-11-environment/"><u>Complete Deletion of WSL in Windows 11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-reactivate-stalled-wsreset-on-pcs/"><u>Essential Steps to Reactivate Stalled WSReset on PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-gaping-security-risk-in-apples-updated-anti-theft-technology-and-how-to-patch-it-up-cyberguardian-news/"><u>Exploring the Gaping Security Risk in Apple's Updated Anti-Theft Technology & How to Patch It Up | CyberGuardian News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tune-your-devices-touch-sensitivity-in-windows-11/"><u>How to Tune Your Device's Touch Sensitivity in Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/introducing-the-latest-addition-to-fxmagnetic-the-revolutionary-rsi-trader-for-mt4-pros/"><u>Introducing the Latest Addition to FXmagnetic: The Revolutionary RSI Trader for MT4 Pros</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/losungen-zur-einstellung-automatischer-loschvorgange-und-wiederherstellung-wichtiger-dll-dateien/"><u>Lösungen Zur Einstellung Automatischer Löschvorgänge Und Wiederherstellung Wichtiger DLL-Dateien</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-system-performance-with-fewer-processes/"><u>Optimizing System Performance with Fewer Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-to-utilizing-devs-space-in-win11/"><u>The Essential Blueprint to Utilizing Devs Space in Win11</u></a></li>
 </ul></div>
 

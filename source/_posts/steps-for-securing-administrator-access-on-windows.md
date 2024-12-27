@@ -1,7 +1,7 @@
 ---
 title: Steps for Securing Administrator Access on Windows
-date: 2024-08-16T02:38:35.027Z
-updated: 2024-08-17T02:38:35.027Z
+date: 2024-12-26T16:40:30.389Z
+updated: 2024-12-27T18:21:59.749Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Have you ever wanted to run the Control Panel as an administrator on Windows? Doing so can give you access to certain configuration options that would otherwise be unavailable. This article will show you how to quickly and easily open the Control Panel with administrative privileges in any Windows version. Let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to open the Control Panel as an Administrator through Run Command
 
  The Control Panel is a powerful tool for managing Windows settings and making changes to your computer. However, if you intend to use it with administrator privileges, the Run dialog box is the way to go. This is how you do it.
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
 
  If you're looking for a faster way to launch it instead of using the Run dialog box, then creating a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) can be an effective solution. Here's a quick hack to help you create quick access points.
@@ -39,16 +44,20 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 1. Right-click on your desktop and select**New > Shortcut** .
 2. In the next step, you will be asked to give the shortcut's location. So, type the following path in the text box and click**Next** .  
 ![Open Control Panel With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-with-desktop-shortcut.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 C:\WINDOWS\system32\control.exe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
 ![Open Control Panel Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Next, right-click on the shortcut and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the Shortcut tab, click on**Advanced** .
 6. Check the**Run as administrator** box and click**OK** .
 7. Also, click**Apply > OK** in the Properties window.
@@ -56,20 +65,18 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Most Out of Elevated Control Panel
 
  It is quite easy to run the Control Panel, but some tasks may require elevated access. Here are two methods of opening the Control Panel as an administrator. Check them out and tell us which you find more helpful.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -78,4 +85,23 @@ C:\WINDOWS\system32\control.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-conquer-color-with-pro-techniques-in-photography/"><u>[New] In 2024, Conquer Color with Pro Techniques in Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts/"><u>[Updated] Crafting Compelling Online Presentations Using Zoom for YouTube Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-window-search-with-these-11-fixes/"><u>Enhance Window Search with These 11 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-restart-distro-and-catroot2-in-ws11-computers/"><u>How to Swiftly Restart Distro & Catroot2 in WS11 Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-m6-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco M6 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-utilize-end-task-functionality-for-better-task-management-in-windows-11/"><u>How to Utilize End Task Functionality for Better Task Management in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-z-fold-5-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy Z Fold 5 Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-x50-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor X50 Face Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-poweradd-pilot-pro2-charger-the-powerhouse-device-for-laptops-and-more/"><u>In-Depth Look at POWERADD Pilot Pro2 Charger: The Powerhouse Device for Laptops and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-hurdles-overcome-download-icloud-to-windows-pc/"><u>Installation Hurdles Overcome: Download iCloud to Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-redesigned-widgets-pickers-for-win11/"><u>Introduction: Redesigned Widgets Pickers for Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-174-launches-featuring-enhanced-podcast-accessibility-fresh-emoji-additions-and-notable-updates-to-apples-eu-app-marketplace-tech-insights/"><u>IOS 17.4 Launches Featuring Enhanced Podcast Accessibility, Fresh Emoji Additions & Notable Updates to Apple's EU App Marketplace - Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-functionality-the-new-approach-to-windows-11/"><u>Prioritizing Functionality: The New Approach to Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-lenovo-dock-driver-enhancement-tips/"><u>Quick Lenovo Dock Driver Enhancement Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-810-printer-management-proficiency/"><u>Unlocking Windows 8/10 Printer Management Proficiency</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Dependencies: Using WPM Effectively"
-date: 2024-08-16T02:39:34.639Z
-updated: 2024-08-17T02:39:34.639Z
+date: 2024-12-21T21:45:46.785Z
+updated: 2024-12-27T17:53:47.198Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  As Windows has developed over the years, we’ve seen Microsoft introduce some of Linux’s functionality into the Windows ecosystem. In addition to Windows 10 and 11 supporting a Linux subsystem through WSL 2, they also feature a package manager called the Windows Package Manager (or winget for short).
 
  So what exactly is the Windows Package Manager, and how do you use it? Read on as we answer all of your burning questions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Package Manager?
 
@@ -47,9 +51,6 @@ Some examples of popular package managers include:
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
 ![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
@@ -57,10 +58,6 @@ Some examples of popular package managers include:
 
  Previously, Windows users had to rely on Chocolatey—a third-party package manager specialized for Windows OS. Chocolatey is quite powerful and widely adopted by the larger Windows fraternity. On the other hand, most Windows users are not familiar or comfortable with the Windows Package Manager yet; we hope this guide will help change that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Set Up Windows Package Manager on Windows 11
 
  The Windows Package Manager does not come pre-installed on Windows, so you’ll have to download it manually. Fortunately, the installation process is straightforward and shouldn’t pose any hurdles.
@@ -70,8 +67,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  There are two main ways of installing the Windows Package Manager on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Install Winget Using the Microsoft Store
 
  The easiest way to install the Windows Package Manager is through the Microsoft Store. You can download the Windows Package Manager through Microsoft’s official App Installer to do so:
@@ -79,14 +77,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Launch the**Microsoft Store** using the**Start menu** .
 2. Search for**App Installer** and select the best match.  
 ![app installer win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-installer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Install Winget Through PowerShell
 
  If you’re having issues in the Microsoft Store, you should consider installing winget using Windows PowerShell. Once you’ve connected to the internet, follow the below steps:
@@ -97,8 +89,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Once the installation is completed, type the following command and press**Enter** to verify your installation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Winget on Windows 11
 
  Now that you’ve set up winget, you’ll have to learn how to use commands associated with the winget tool, including downloading, config configuring, and viewing installed applications.
@@ -111,20 +104,25 @@ To download an application using winget, use the following command:
 
 `winget install <APP_NAME>`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Browse for Applications
 
  If you’re looking for a new app to install but don’t know how to browse the available apps, you can use the search feature of winget. One method is to use the search command of winget within the command line. Enter a search query with the below command, and you’ll get a list of available apps that satisfy your search criteria.
 
 ![winget search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 For example, to search for zipping programs, you can type:
 
 `winget search zip`
 
  Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How to View Installed Applications
 
@@ -144,14 +142,11 @@ For example, to search for zipping programs, you can type:
 
  Winget is incredible at installing applications on your Windows 11 PC. You no longer need to hunt for malware-free download links on the internet; simply open up a terminal and download the application you need via winget.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +155,22 @@ For example, to search for zipping programs, you can type:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-ways-to-capture-and-save-snapchat-media-on-phone/"><u>[New] In 2024, Effective Ways to Capture and Save Snapchat Media on Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[New] In 2024, Hourly Headliners The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/college-hacks-assembling-your-very-own-wire-free-home-cinema-in-shared-accommodation/"><u>College Hacks: Assembling Your Very Own Wire-Free Home Cinema in Shared Accommodation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-fix-a-flapping-control-key-on-win11/"><u>Effective Strategies to Fix a Flapping Control Key on Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s17-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S17 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-11-proplus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 11 Pro+ FRP Without Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-android-photography-tricks-and-tools/"><u>In 2024, Mastering Android Photography Tricks & Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-dark-mode-guide-for-calculator-application/"><u>Instant Dark Mode: Guide for Calculator Application</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps-for-2024/"><u>Modulate Your Message A Top-Tier List of Voice Change Mobile Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-dead-grammarly-feature-with-simple-steps/"><u>Reviving a Dead Grammarly Feature with Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-sounds-and-banners-in-windows/"><u>Stop Chrome Sounds & Banners in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-stop-autolock-functionality/"><u>Unlock Windows: Stop Autolock Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-group-policies-in-windows-11/"><u>Unveiling the Power of Group Policies in Windows 11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/various-methods-for-capturing-screenshots-on-your-computer/"><u>Various Methods for Capturing Screenshots on Your Computer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/virtual-venue-video-verifier-for-2024/"><u>Virtual Venue Video Verifier for 2024</u></a></li>
+</ul></div>
 

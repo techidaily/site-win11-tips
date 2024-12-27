@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Workspace: Reinstate Windows Icons"
-date: 2024-08-16T02:39:06.438Z
-updated: 2024-08-17T02:39:06.438Z
+date: 2024-12-24T22:48:09.985Z
+updated: 2024-12-27T19:46:29.292Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,6 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -44,11 +39,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. Under the**Desktop icons** section, use the checkboxes to enable the icons you want on your desktop.
 6. Click**Apply** followed by**OK** to save the changes.  
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your icons should appear on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Explorer
 
@@ -58,15 +58,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Select**Task Manager** from the list.
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Rebuild Icon Cache
 
  Another reason why desktop icons on Windows may appear broken or go missing is if the existing icon cache data is corrupt. In that case, you can try clearing the corrupted icon cache data. This will force Windows to rebuild the icon cache from scratch and resolve your problem.
@@ -114,13 +116,11 @@ To rebuild icon cache on Windows 11:
 5. Select**Not configured** or**Disabled** .
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -145,25 +145,23 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore the Missing Desktop Icons on Windows 11
 
  Hopefully, the above-mentioned solutions have helped you restore the missing desktop icons on Windows 11 and things are back to normal. However, if none of the above solutions work, you may have to reset your Windows 11 PC as a last resort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +170,24 @@ Follow these steps to perform a system restore on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-sound-reconstruction-with-ffmpeg-preserving-format-integrity/"><u>[New] Sound Reconstruction with FFmpeg Preserving Format Integrity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-video-production-with-clear-sound-effects/"><u>[New] Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-audio-purging-techniques-for-streaming-success-for-2024/"><u>[Updated] Audio Purging Techniques for Streaming Success for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-making-a-trendy-jujutsu-kaisen-tiktok-video-for-2024/"><u>[Updated] Making a Trendy Jujutsu Kaisen TikTok Video for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-engaging-live-videos-on-smartphones-and-social-networks-for-2024/"><u>Crafting Engaging Live Videos on Smartphones & Social Networks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-comeback-classics-via-dosbox-x/"><u>Cutting Edge Comeback: Classics via DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-eradicating-the-mysterious-windows-c0000022/"><u>Deciphering and Eradicating the Mysterious Windows C0000022</u></a></li>
+<li><a href="https://driver-download.techidaily.com/detailed-arbitration-clauses-in-international-contracts-can-prevent-disputes-over-procedural-matters-such-as-governing-law-language-and-seat-selection/"><u>Detailed Arbitration Clauses in International Contracts Can Prevent Disputes over Procedural Matters, Such as Governing Law, Language, and Seat Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-windowss-abrupt-pink-displays/"><u>Essential Tips to Solve Windows's Abrupt Pink Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-ftp-restoring-file-transfer-on-windows-11-pcs/"><u>Fixing FTP: Restoring File Transfer on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-windows-sandbox-in-win-11-easily/"><u>How To Configure Windows Sandbox in Win 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-infuse-your-pc-with-a-seasonal-flair-system-tray-weather-icons-in-windows-11/"><u>How to Infuse Your PC with a Seasonal Flair: System Tray Weather Icons in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-edge-40-neo-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Edge 40 Neo.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-photo-navigation-in-modern-windows-explorer/"><u>Streamlined Photo Navigation in Modern Windows Explorer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-process-for-shaping-photos/"><u>Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-fundamentals-of-accessibility-made-easy/"><u>Windows 10: Fundamentals of Accessibility Made Easy</u></a></li>
+</ul></div>
 

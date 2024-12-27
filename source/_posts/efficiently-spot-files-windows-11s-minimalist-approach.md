@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Spot Files: Windows 11'S Minimalist Approach"
-date: 2024-12-18T05:07:51.445Z
-updated: 2024-12-22T01:13:38.001Z
+date: 2024-12-20T18:53:03.006Z
+updated: 2024-12-27T21:14:56.594Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 1. [Open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and click the **View** option in the top bar.
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
 
@@ -54,25 +58,25 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
- With that, you should have less space between your files in File Explorer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With that, you should have less space between your files in File Explorer.
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
 
@@ -112,21 +112,14 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-beating-the-curve-adapting-to-new-facebook-content-rules-for-2024/"><u>[New] Beating the Curve Adapting to New Facebook Content Rules for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortlessly-record-time-lapses-on-apple-devices/"><u>[New] Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>[Updated] Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-nurturing-nature-in-the-metropolis-a-new-paradigm-for-cities/"><u>[Updated] Nurturing Nature in the Metropolis A New Paradigm for Cities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>[Updated] Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-time-travel-adventures-for-unique-anime-inspired-tiktoks-for-2024/"><u>[Updated] Time Travel Adventures for Unique Anime-Inspired TikToks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-simplified-path-to-perfect-video-clarity/"><u>2024 Approved Simplified Path to Perfect Video Clarity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lift-screen-limitations-in-windows-11-with-these-methods/"><u>Lift Screen Limitations in Windows 11 with These Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-on-winservicesexe-in-windows-os/"><u>Masterclass on WinServices.exe in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-avoid-fullscreen-frustrations/"><u>Navigate Through Windows: Avoid Fullscreen Frustrations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-path-to-facebooks-exclusive-verified-marker/"><u>Navigating the Path to Facebook's Exclusive Verified Marker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovering-original-directory-view-in-win11/"><u>Recovering Original Directory View in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-slide-show-creation-windows-11s-seven-step-methodology/"><u>Seamless Slide Show Creation: Windows 11'S Seven-Step Methodology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-stalled-spotify-on-windows-systems/"><u>Steps to Address Stalled Spotify on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-rejuvenation-exploring-windows-8-restarts/"><u>System Rejuvenation: Exploring Windows' 8 Restarts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-swapping-video-direction-in-snapchat/"><u>[New] 2024 Approved Tips for Swapping Video Direction in Snapchat</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>[Updated] 2024 Approved Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-social-media-posts-from-phone-to-instagram-for-2024/"><u>[Updated] Seamless Social Media Posts From Phone to Instagram for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-and-clean-up-youtube-footage-borderless-tutorial-for-2024/"><u>Enhance and Clean Up YouTube Footage Borderless Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-command-prompt-popping-up-by-itself-on-windows/"><u>How to Fix Command Prompt Popping Up by Itself on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-a-custom-inactivity-lock-time-on-windows/"><u>How to Set a Custom Inactivity Lock Time on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-tpm-problems-on-windows-11-masterly/"><u>Navigating TPM Problems on Windows 11 Masterly</u></a></li>
 </ul></div>
 

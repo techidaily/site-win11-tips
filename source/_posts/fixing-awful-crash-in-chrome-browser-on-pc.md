@@ -1,7 +1,7 @@
 ---
 title: Fixing Awful Crash in Chrome Browser on PC
-date: 2024-08-16T02:42:54.026Z
-updated: 2024-08-17T02:42:54.026Z
+date: 2024-12-25T20:33:47.112Z
+updated: 2024-12-27T19:02:55.182Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Start With the Generic Fixes
 
  It’s a good idea to start with some basic troubleshooting tips and see if that fixes Chrome’s “Aw Snap!” page crash error on Windows.
@@ -30,14 +34,15 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2\. Rule Out Issues With Your Internet Connection
 
  A weak or inconsistent internet connection can prevent Google Chrome from loading pages, resulting in the “Aw Snap!” page crash error. Hence, it's important to make sure that your internet connection is working properly. A quick way to test your internet connection on Windows is to open an app that uses the internet, such as the Microsoft Store, and see if it loads fine.
 
  If there’s a problem with your internet, try out some [helpful suggestions to resolve internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) or switch to an alternate network connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use an Incognito Window
 
@@ -46,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
  To open an incognito window in Chrome, click the **three-dot menu** icon in the top-right corner, and select **New Incognito window**. After that, try visiting a few websites and see if they load fine.
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
 
@@ -61,19 +70,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 2. Hover the cursor over **More tools** and then select **Extensions** from the submenu.
 3. Use the toggles to disable all your extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Hardware Acceleration
 
 [Hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) is a useful feature in Chrome that allows the browser to utilize your GPU for executing graphics-intensive tasks. While this feature enhances the responsiveness of Chrome when loading animations, videos, and other graphical content, it can occasionally interfere with browser processes and result in issues. Consequently, webpages may crash in Chrome and trigger the “Aw Snap!” error message.
@@ -88,8 +87,9 @@ No advertising on the website.
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -99,16 +99,9 @@ No advertising on the website.
 3. Select **Add** from the resulting menu.
 4. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After creating a new profile, try loading a few websites and see if you get any errors.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 7\. Reset Google Chrome
 
  If all of the above fixes prove ineffective, you can consider resetting Google Chrome as a last resort. Doing so will revert all the browser settings to their default values, effectively resolving any problems caused by misconfigured settings.
@@ -122,6 +115,10 @@ No advertising on the website.
 5. Select the **Reset settings** option to proceed.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
 ## Browse With Google Chrome Again on Windows
@@ -130,11 +127,27 @@ No advertising on the website.
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>[New] In 2024, The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] In 2024, Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-accelerated-gpu-task-execution-in-windows-operating-system/"><u>Disabling Accelerated GPU Task Execution in Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-elevation-prompt-obstacle-winerror-740-solution/"><u>Disarming Elevation Prompt Obstacle: WinError 740 Solution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2581410-9781786780089-every-breath-you-take/"><u>Every Breath You Take | Free Book</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-curating-tunes-a-comprehensive-guide-to-youtube-lists/"><u>In 2024, Curating Tunes A Comprehensive Guide to YouTube Lists</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-maximize-video-clarity-with-obs-tweaks/"><u>In 2024, Maximize Video Clarity with OBS Tweaks</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mastering-incremental-file-copies-using-the-robocopy-utility/"><u>Mastering Incremental File Copies Using the Robocopy Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-classics-with-a-twist-easy-achievement-addition-via-retroarch-software/"><u>Revive Classics with a Twist: Easy Achievement Addition via Retroarch Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-lava-yuva-2-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Lava Yuva 2 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-errors-to-restore-functionality-of-thaumaturge-application-on-personal-computers/"><u>Solving Common Errors to Restore Functionality of Thaumaturge Application on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-changes-enhancing-vintage-windows-for-aging-user/"><u>Transformative Changes: Enhancing Vintage Windows for Aging User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-torrent-tracks-windows-solutions-for-stalls/"><u>Unblocking Torrent Tracks: Windows Solutions for Stalls</u></a></li>
+</ul></div>
+

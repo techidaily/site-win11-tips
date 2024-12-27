@@ -1,7 +1,7 @@
 ---
 title: How to Fix Outlook Notifications Not Working on Windows
-date: 2024-08-16T02:39:37.892Z
-updated: 2024-08-17T02:39:37.892Z
+date: 2024-12-25T22:07:35.640Z
+updated: 2024-12-27T18:20:08.227Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
  Microsoft Outlook, like any other email client, keeps you up to date with your most recent emails by sending you timely notification alerts. However, if these Outlook notifications stop working, you may miss important emails and alerts.
 
  Fortunately, there are several ways to fix this problem. So, let's get started and discover the various ways for fixing Outlook's notifications on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Offline Mode in Outlook
 
@@ -44,18 +48,6 @@ Follow these steps to check Outlook’s notification settings:
 
  Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
  Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
@@ -65,19 +57,17 @@ Follow these steps to check Outlook’s notification settings:
 3. Scroll down to the**Notifications from apps and other senders** section and select**Outlook** .
 4. Enable**Notifications** toggle for Outlook. Then, check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -89,9 +79,6 @@ No advertising on the website.
 
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Battery Saver
 
  Another reason Outlook may fail to send you notifications is if the battery saver is enabled on your laptop. If it is, apps like Outlook will fail to sync data in the background, and you may not receive notifications from Outlook unless you open the app. To avoid this, you must disable the battery saver mode on Windows by following the steps below.
@@ -100,8 +87,9 @@ No advertising on the website.
 2. Click on**Battery saver** to expand it.
 3. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check Outlook's Rules
@@ -114,8 +102,9 @@ Here's how you can access Outlook's rules:
 2. In the**Info** tab, select the**Manage Rules & Alerts** option.
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Clear the Outlook Cache
@@ -128,8 +117,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 2. Type**%localappdata%\\Microsoft\\Outlook** in the Open field and press**Enter** .
 3. In the**RoamCache** folder that appears,[select all the files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) and click the trash icon at the top to delete them.  
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Outlook after this and check if the notifications are working now.
@@ -141,8 +131,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
@@ -157,9 +148,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 ## 10\. Repair the Microsoft Office Suite
 
@@ -179,14 +167,11 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +180,22 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-how-to-get-up-close-with-video-chat-colleagues/"><u>[Updated] 2024 Approved How to Get Up Close with Video Chat Colleagues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-creative-auditory-shifts-with-premiere-pro/"><u>[Updated] In 2024, Creative Auditory Shifts with Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-empty-folder-misconraneuement-in-windows-11-with-0x80070091/"><u>Curing Empty Folder Misconraneuement in Windows 11 with #0X80070091</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/embarking-on-twitter-steps-for-newbies/"><u>Embarking on Twitter Steps for Newbies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-right-drivers-how-to-update-canons-mp-series-printers-for-modern-windows-oses/"><u>Get the Right Drivers: How to Update Canon's MP Series Printers for Modern Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/innovative-iphone-macro-tactics-for-professional-results-for-2024/"><u>Innovative iPhone Macro Tactics for Professional Results for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-ps1-gaming-duckstations-step-by-step-win-approach/"><u>Navigating PS1 Gaming: Duckstation’s Step-by-Step WIN Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-climates-on-windows-11-superior-apps-guide/"><u>Precise Climates on Windows 11: Superior Apps Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-defender-error-code-0x80004004/"><u>Quick FIX for Defender Error Code 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-word-edits-with-snipping-tool/"><u>Streamlining Word Edits with Snipping Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879296738-struggling-to-pair-your-apple-watch-discover-these-pressent-solutions/"><u>Struggling to Pair Your Apple Watch? Discover These Pressent Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-license-expiry-warning-in-windows-1011/"><u>Troubleshooting Windows License Expiry Warning in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-mouse-controls-on-win11/"><u>Unlocking the Secrets of Mouse Controls on Win11</u></a></li>
+</ul></div>
 

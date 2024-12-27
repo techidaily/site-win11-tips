@@ -1,7 +1,7 @@
 ---
 title: "Optimize It All: The Top 7 Ways to Use Windows 11 Effectively (39)"
-date: 2024-12-15T04:01:46.642Z
-updated: 2024-12-21T20:37:04.240Z
+date: 2024-12-26T19:38:54.964Z
+updated: 2024-12-27T23:17:31.282Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 ![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make Windows apps easier to locate, it is sensible to first get rid of unnecessary software and [remove bloatware from your PC](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/). This will make searching for apps easier, and it will benefit your memory usage.
 
  To view a complete list of all apps and programs installed on your machine, hit **Windows + I** to open the settings page. Click **Apps**, then select **Installed Apps**. Now, you can view an alphabetical list of installed apps on your device. To remove an app, hit the three dots beside any app and select **Uninstall**.
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pin Programs to the Taskbar
 
@@ -55,17 +47,17 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![Epic games launcher on windows 11 app search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/epic-games-launcher-on-windows-11-app-search.jpg)
 2. Right-click the app, then select **Pin to taskbar**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
@@ -95,19 +91,20 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 2. Right-click the app and select **Open File Location**.  
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
 3. In File Explorer, right-click the file and select **Properties**.  
-![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
-4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
+4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Utilize the Quick Access Menu
@@ -115,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
@@ -141,28 +138,15 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  To enter Task View, use the keyboard shortcut **Windows +** **Tab** or hit the dedicated button beside the search bar. Now you can move apps between virtual desktops by clicking and dragging them. This will reduce overwhelm and help you [multitask better on Windows 11](https://www.makeuseof.com/windows-11-multitasking-tips/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Access Apps Faster And Improve Your Efficiency on Windows 11
 
  If you want to be more efficient when working on your Windows 11 PC, try out these tips to adopt a more productive workflow. Often, productivity revolves around consistently making small changes to make a greater change over time. Save time and master your workflow using these tips.
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-internal-sound-recording-in-android/"><u>[New] In 2024, Effortless Internal Sound Recording in Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>2024 Approved How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/console-to-computer-a-guide-to-live-game-capture/"><u>Console to Computer A Guide to Live Game Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-github-top-chatgpt-dialogue-ideas/"><u>Elite Github Top ChatGPT Dialogue Ideas</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-burnt-to-gourmet-a-riveting-overcooked-2-evaluation/"><u>From Burnt to Gourmet: A Riveting Overcooked! 2 Evaluation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/independent-operation-of-microsofts-onedrive-on-pc/"><u>Independent Operation of Microsoft's OneDrive on PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-hd-broadcasts-on-the-social-media-giant-fb-for-2024/"><u>Mastering HD Broadcasts on the Social Media Giant, FB for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-dysfunctional-troubleshooting-tools-in-windows-1011/"><u>Perfecting Dysfunctional Troubleshooting Tools in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reopen-closed-nvidia-cp-in-win11-step-by-step-guide/"><u>Reopen Closed Nvidia CP in Win11 - Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/saving-savior-top-6-tactics-for-bypassing-save-problems-win11/"><u>Saving Savior: Top 6 Tactics for Bypassing Save Problems WIN11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-strategists-toolkit-understanding-metrics-trends-and-user-insights/"><u>The Instagram Strategist’s Toolkit Understanding Metrics, Trends & User Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-invisible-window-way-bringing-windows-back-to-focus-in-edges/"><u>The Invisible Window Way: Bringing Windows Back to Focus in Edges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-photo-fix-a-comprehensive-camera-problem-solver/"><u>Windows Photo Fix: A Comprehensive Camera Problem Solver</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -171,3 +155,21 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] 2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premier-script-development-arena/"><u>[Updated] In 2024, Premier Script Development Arena</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-top-8-best-ios-tools-for-video-editing-and-conversion/"><u>Discover Top 8 Best iOS Tools for Video Editing & Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-voice-chat-in-valorant-a-step-by-step-guide/"><u>Effective Fixes for Non-Functional Voice Chat in Valorant - A Step by Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enlarging-pinned-items-area-on-windows-11-ui/"><u>Enlarging Pinned Items' Area on Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-geforce-scans-in-windows-with-ease/"><u>Fixing Failed GeForce Scans in Windows with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-adequate-to-essential-understanding-16gb-in-win-pcs/"><u>From Adequate to Essential: Understanding 16GB in Win PCs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mirthful-mobile-memories-iphone/"><u>In 2024, Mirthful Mobile Memories (iPhone)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>In 2024, The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-excel-display-glitch-in-notepad/"><u>Resolve Excel Display Glitch in Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-synergy-linux-boosted-by-windows-elements/"><u>Seamless Synergy: Linux Boosted by Windows Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-enhance-memory-functionality-in-w11/"><u>Strategies to Enhance Memory Functionality in W11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-the-comprehensive-guide-to-hardware/"><u>Unveiling Tech Secrets: The Comprehensive Guide to Hardware</u></a></li>
+</ul></div>
+

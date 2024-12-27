@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2024-12-17T18:06:43.613Z
-updated: 2024-12-22T03:29:16.375Z
+date: 2024-12-20T22:57:01.644Z
+updated: 2024-12-27T16:16:21.739Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
 
@@ -49,9 +41,18 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 4. Then, right-click on the WindowsApps folder and select its **Rename** context menu option. You should find that directory within the drive’s root directory.  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
 
@@ -62,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
@@ -76,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 4. Select the **Show hidden files, folders and drives** radio button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Apply** to save the new Explorer settings.
@@ -87,16 +88,17 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
 2. Input **SYSTEM** inside the object name box.  
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
@@ -111,21 +113,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-ultra-short-timelapse-capture-methods/"><u>[New] 2024 Approved Top Ultra-Short Timelapse Capture Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] Free Tribe 50 Branding Banners Ready to Unleash!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rotational-realities-how-to-captivate-with-instagrams-sideways-videos/"><u>[Updated] In 2024, Rotational Realities How to Captivate with Instagram's Sideways Videos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-inaccurate-cpu-display-on-windows-pc/"><u>Corrective Measures for Inaccurate CPU Display on Windows PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-settings-in-windows/"><u>Navigating High DPI Settings in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-non-working-function-button-for-brightness-on-windows-11/"><u>Rectifying Non-Working Function Button for Brightness on Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>The Complete Guide to Generating Profits Vimeo Monetization Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-windows-exception-breakpoint-problem/"><u>Troubleshooting Steps for Windows' Exception Breakpoint Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-windows-11-service-configuration/"><u>Unraveling the Mystery: Windows 11 Service Configuration</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +120,25 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-plotting-the-perfect-tiktok-outro-journey/"><u>[New] 2024 Approved Plotting the Perfect TikTok Outro Journey</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] In 2024, From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-decoding-the-secret-of-instagrams-video-cap/"><u>[Updated] In 2024, Decoding the Secret of Instagram's Video Cap</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-name-selection-for-distinctive-youtube-channels/"><u>[Updated] Mastering Name Selection for Distinctive YouTube Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977663540-corsair-control-software-get-yours-today-and-upgrade-your-gaming-experience/"><u>Corsair Control Software - Get Yours Today & Upgrade Your Gaming Experience!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enriching-the-playnite-experience-through-integration-of-emulators/"><u>Enriching the Playnite Experience Through Integration of Emulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-without-functional-windows-firewall/"><u>Essential Fixes Without Functional Window’s Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-display-your-internet-speed-on-the-windows-taskbar/"><u>How to Display Your Internet Speed on the Windows Taskbar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-victory-of-fifa-19-ruling-over-the-realm-of-virtual-sports-competitions/"><u>Inside the Victory of FIFA 19: Ruling Over the Realm of Virtual Sports Competitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fast-downloads-with-utorrent-on-pcs/"><u>Mastering Fast Downloads with uTorrent on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-misfire-in-microsoft-os/"><u>Mastering Network Misfire in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-nuances-exploring-4-windows-ways-to-measure-internet-speed/"><u>Network Nuances: Exploring 4 Windows Ways to Measure Internet Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-usb-resource-deficit-error/"><u>Overcoming USB Resource Deficit Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-windows-gameplay-boost-yuzu-speed/"><u>Sharpening Windows Gameplay: Boost Yuzu Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-d3dx939dll-file-absence-now-solved/"><u>Troubleshooting Steps for d3dx9_39.dll File Absence - Now Solved</u></a></li>
+</ul></div>
+

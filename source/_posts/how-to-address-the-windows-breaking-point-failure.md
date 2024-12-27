@@ -1,7 +1,7 @@
 ---
 title: How to Address the Windows Breaking Point Failure
-date: 2024-12-16T21:30:00.841Z
-updated: 2024-12-22T07:42:42.060Z
+date: 2024-12-21T18:11:16.332Z
+updated: 2024-12-27T20:05:40.958Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -43,6 +39,10 @@ To disable startup apps on Windows:
 ![disable startup apps windows 11 new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/disable-startup-apps-windows-11-new.jpg)
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker and the DISM Tools
 
@@ -81,10 +81,14 @@ To run the CHKDSK tool:
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-chkdsk-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Any GPU Overclocking
 
@@ -107,24 +111,12 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -141,10 +133,19 @@ To uninstall an application on Windows:
 4. Type the name of your app in the search bar.  
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
@@ -165,19 +166,18 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-camstudio-recording-tech-a-comprehensive-2023-analysis-for-2024/"><u>[New] CamStudio Recording Tech A Comprehensive 2023 Analysis for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagrams-icons-navigating-through-its-leading-25-stars-for-2024/"><u>[New] Instagram's Icons Navigating Through Its Leading 25 Stars for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-step-by-step-manual-swiftly-produce-captions-for-facebook-videos/"><u>[Updated] A Step-by-Step Manual Swiftly Produce Captions for Facebook Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-perfection-for-newbies-the-lunapic-way/"><u>2024 Approved Photo Perfection for Newbies The LunaPic Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commanding-your-pcs-performance-horizon-with-cpu/"><u>Commanding Your PC's Performance Horizon with CPU</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/deciphering-how-t-series-earns-via-youtube/"><u>Deciphering How T-Series Earns via Youtube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-a-fully-active-windows-11-system/"><u>Ensuring a Fully-Active Windows 11 System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unleash-creativity-with-these-top-10-video-text-effects/"><u>In 2024, Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stumbling-blocks-for-anydesk-on-win11/"><u>Overcoming Stumbling Blocks for AnyDesk on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-crashes-with-error-0x80073cf3/"><u>Tackling Microsoft Store Crashes with Error 0X80073CF3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-elderly-directx-experience-via-advanced-dxvk-support/"><u>Transforming Elderly DirectX Experience via Advanced DXVK Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-stop-ea-server-connections-problem/"><u>Troubleshooting Windows: Stop EA Server Connections Problem</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-reasons-behind-my-unwavering-love-for-the-huawei-p30-pro/"><u>Unpacking the Reasons Behind My Unwavering Love for the Huawei P30 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[New] 2024 Approved Quiet Your Feed Stop Instagram's Suggestion System</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[Updated] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-notebooks-visual-techniques-in-obsidian/"><u>Declutter Your Notebooks: Visual Techniques in Obsidian</u></a></li>
+<li><a href="https://video-capture.techidaily.com/decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid-for-2024/"><u>Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-unilateral-windows-headset-defects/"><u>Diagnosing Unilateral Windows Headset Defects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-controls-for-typical-windows-accounts/"><u>Enhancing Security Controls for Typical Windows Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-software-interaction-winshortcut-guide/"><u>Enhancing Software Interaction: WinShortcut Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-inserting-secure-passwords-into-texts-win-style/"><u>Expert Tips for Inserting Secure Passwords Into Texts, Win-Style</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-redmi-13c-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Redmi 13C 5G Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-meizu-21-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Meizu 21 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-c02-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia C02 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-process-for-distro-and-catroot2-fixes-in-ws11/"><u>The Ultimate Process for Distro & Catroot2 Fixes in WS11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-extra-storage-a-step-by-step-guide-to-clear-your-iphone-clutter-and-save-gb/"><u>Unlocking Extra Storage: A Step-by-Step Guide to Clear Your iPhone Clutter & Save GB</u></a></li>
 </ul></div>
 

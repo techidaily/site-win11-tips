@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Cursor Lighting with Windows 11 Tips
-date: 2024-08-16T02:40:06.304Z
-updated: 2024-08-17T02:40:06.304Z
+date: 2024-12-22T18:03:33.221Z
+updated: 2024-12-27T16:00:15.570Z
 tags:
   - windows10
   - windows11
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
@@ -77,18 +81,20 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 5. Click the**Mouse utilities** tab.
 6. Scroll down and turn on the**Enable Mouse Highlighter** option.  
 ![The Enable Mouse Highlighter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-mouse-highligher-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PowerToy’s cursor highlighting only applies to mouse clicking. You’ll see different color circles whenever you right or left-click the mouse. Those circles are set to yellow and blue colors by default.
 
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
 
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
@@ -99,30 +105,26 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Cursor Highlighter** to view the extension’s options.
 5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the color palette box to choose a color for the highlight and select save.
 7. Now open a new website page in your browser to see your highlighted cursor.
 
 ![The mouse pointer highlight added by the Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-circle-highligher-for-cursor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that extensions from other stores need to be enabled for Edge users to highlight their cursors with this Chrome add-on. You can access that option in Edge by pressing**Alt** +**F** and selecting**Extensions** \>**Manage Extensions** . Then turn on the**Allow extensions from other stores** setting.
 
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
  You can make your cursor shine by highlighting it in Windows 11/10\. The highlighting options in PowerToys and Mouse Pointer Highlight apps will come in handy for numerous presentation and tutorial purposes in Windows 11/10\. Windows' show pointer feature and the Cursor Highlighter extension also provide useful visual cursor indicators, albeit with slightly less functionality.
@@ -133,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,24 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-tweets-for-exceptional-hd-quality/"><u>Enhancing Tweets for Exceptional HD Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computer-equipment-with-toms-review-site/"><u>Exploring the Latest in Computer Equipment with Tom's Review Site</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-obs-studio-not-starting-up/"><u>Fixing Windows: OBS Studio Not Starting Up</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XR Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-the-latest-adb-driver-software/"><u>How To: Secure Your Samsung Phone with the Latest ADB Driver Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-phonelink-a-pose-should-you-turn-off-yourphoneexe/"><u>Is PhoneLink a Pose: Should You Turn Off YourPhoneExe?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fn-key-onoff-guide-for-windows-users/"><u>Mastering Fn Key: On/Off Guide for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mov-en-gif-eenvoudig-versterken-met-de-moovavi-gratis-filmconverteur/"><u>MOV en GIF - Eenvoudig Versterken Met De Moovavi Gratis Filmconverteur</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-10-eloquent-spanish-salutations-and-greetings/"><u>Navigating 10 Eloquent Spanish Salutations & Greetings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-pc-name-not-valid-issue-on-windows/"><u>Overcoming the PC Name Not Valid Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-windows-with-meaningful-upgrades/"><u>Revolutionizing Windows with Meaningful Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-your-devices-safety-enhance-pin-length/"><u>Taking Control of Your Device's Safety: Enhance Pin Length</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-savvy-strategies-testing-audiovisual-gear-before-meetings/"><u>Tech-Savvy Strategies: Testing Audio/Visual Gear Before Meetings</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-game-crashes/"><u>Troubleshooting Steps: Resolving 'Cult of the Lamb' PC Game Crashes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unfolding-horizons-at-mondlylanguages-a-visionary-saga/"><u>Unfolding Horizons at MondlyLanguages - A Visionary Saga</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-win11-lifeline-prioritizing-device-health-with-these-key-checkpoints/"><u>Your Win11 Lifeline - Prioritizing Device Health with These Key Checkpoints</u></a></li>
+</ul></div>
 

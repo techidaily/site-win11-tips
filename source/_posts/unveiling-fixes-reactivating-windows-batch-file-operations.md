@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Fixes: Reactivating Windows Batch File Operations"
-date: 2024-08-16T02:38:56.847Z
-updated: 2024-08-17T02:38:56.847Z
+date: 2024-12-25T20:23:08.124Z
+updated: 2024-12-27T18:32:35.788Z
 tags:
   - windows10
   - windows11
@@ -47,29 +47,27 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 2. Open the [ChatGPT website](https://chat.openai.com) and log in with your Google account.
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
  Another way around the antivirus issue is by adding your BAT file to the list of antivirus exclusions. This allows specific files to bypass the regular antivirus scan.
@@ -78,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Adjust .BAT File Association
 
  Have you ever noticed that when you open a .TXT file, Notepad pops up, or when you open a .PNG or .JPG, the Windows Photos app opens? This is because of file association. Similarly, BAT files have a default program file association, i.e., with the Command Prompt.
@@ -101,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
  There are multiple file types in the same Settings section. If you want to change the default apps for launching a specific file type, you can do so. For example, if you use Drawboard as a PDF viewer, click on **.pdf** and select it as a default app for all your PDF files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Batch File
 
@@ -126,23 +125,28 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
-![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolve All Your BAT File Issues on Windows
 
  We've pointed out every possible solution for all your Windows BAT or Batch file-related issues. So, try them once and run any batch files without errors.
@@ -151,11 +155,31 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ro-tips-for-effective-youtube-tag-utilization-for-2024/"><u>[New] Pro Tips for Effective YouTube Tag Utilization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-to-instagram-posting-videos-effortlessly/"><u>2024 Approved YouTube to Instagram Posting Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dable-youtube-intro-designs-and-templates-for-2024/"><u>Affordable YouTube Intro Designs and Templates for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-accelerated-gpu-task-execution-in-windows-operating-system/"><u>Disabling Accelerated GPU Task Execution in Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-elevation-prompt-obstacle-winerror-740-solution/"><u>Disarming Elevation Prompt Obstacle: WinError 740 Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-blizzards-battlenet-launcher-effective-solutions-for-windows-users/"><u>Fixing Blizzard's Battle.net Launcher: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-review-best-dynamic-capture-devices/"><u>In 2024, Essential Review Best Dynamic Capture Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-pricing-for-optimal-windows-11-key-deals/"><u>Navigating Pricing for Optimal Windows 11 Key Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-classics-with-a-twist-easy-achievement-addition-via-retroarch-software/"><u>Revive Classics with a Twist: Easy Achievement Addition via Retroarch Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722773801949-stay-motivated-with-fitbit-versa-3s-inbuilt-gps-and-comprehensive-health-apps/"><u>Stay Motivated with Fitbit Versa 3'S Inbuilt GPS & Comprehensive Health Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stay-safe-online-the-false-chatgpt-extension-posing-a-risk-to-your-facebook-accounts/"><u>Stay Safe Online: The False 'ChatGPT' Extension Posing a Risk to Your Facebook Accounts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-method-to-restore-sharp-imagery-and-reduce-blur-in-cod-warzone-on-personal-computers/"><u>Step-by-Step Method to Restore Sharp Imagery and Reduce Blur in COD: Warzone on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-changes-enhancing-vintage-windows-for-aging-user/"><u>Transformative Changes: Enhancing Vintage Windows for Aging User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-despite-photo-error-on-pc/"><u>Unlock Full Potential Despite Photo Error on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-control-touchscreen-responsiveness-on-windows-pcs/"><u>Unlock the Potential: Control Touchscreen Responsiveness on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winterize-your-windows-11-with-7-tips/"><u>Winterize Your Windows 11 with 7 Tips</u></a></li>
+</ul></div>
+

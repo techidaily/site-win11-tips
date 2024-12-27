@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Image Magic - The Seventh Simple Trick Unveiled
-date: 2024-12-20T18:52:36.796Z
-updated: 2024-12-21T18:14:27.928Z
+date: 2024-12-26T22:19:31.654Z
+updated: 2024-12-27T21:10:54.180Z
 tags:
   - windows10
   - windows11
@@ -53,9 +53,18 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Press the**Settings** button to bring up further options.  
 ![The Photo Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photo-screen-saver-settings.jpg)
 6. Click the**Browse** button for selecting pictures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Choose a folder that includes the photos you want to show in the slideshow, and click**OK** to confirm.
 8. Select an option on the**Slide show** **speed** drop-down menu.
 9. Click the**Save** and**Apply** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Set Up a Slideshow With the Photos App
 
@@ -66,23 +75,15 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The Albums tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/albums-tab.jpg)
 3. Click**New album** to select images within Photos to include in your slideshow. You can click the**Import** \>**From folder** options to select images you can’t find within the Photos app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Press the**Create** button to set up the album.  
 ![The Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/the-create-button.jpg)
 5. Select the album you just set up in Photos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click the**Slideshow** button to view your photo presentation.  
 ![The slideshow option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/slideshow-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Set Up a Slideshow With Video Editor
@@ -96,36 +97,37 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The New video project button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/new-video-project-button.jpg)
 5. Enter a title for your clip, and click the**OK** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click**\+ Add** \>**From this PC** to select some images for the slideshow. Then select**Open** to add them.
 2. Drag image thumbnails from the project library onto the slides at the bottom of the**My Slideshow** tab.  
 ![The My Slideshow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photo-slides.jpg)
 3. Check all the slides' checkboxes, and right-click one to select**Duration** . Then input a value to set how long the slideshow displays all the images before changing.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Duration option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/duration-option.jpg)
 4. You can add captions to specific images by right-clicking them and selecting**Edit** \>**Text** option. Enter a caption in the text box, select a font, and click**Done** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Text caption options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/caption-text-options.jpg)
 5. To add some sound, click the**Background music** option. Then choose an audio scheme, and press the**Done** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the three-dot button at the top right of Video Editor to select**Themes** . Select a theme to set for the slideshow and click**Done** .  
 ![The Themes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/themes-option.jpg)
 7. Press the**Finish video** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select an option on the**Video quality** drop-down menu, and click the**Export** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Set Up a Slideshow With Google Photos
@@ -145,7 +147,11 @@ his is how you can set up a screensaver slideshow in Windows 11:
 9. Your album slideshow will now play in full-screen mode. Click the left and right arrows to flick through your images.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Set Up a Slideshow With Google Slides
@@ -192,10 +198,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![Selected slideshow images in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pictures-in-windows-media-player.jpg)
 8. Hold the**Ctrl** key and select photos to include within the slideshow.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Then hold the left mouse button to drag your image selection onto your playlist’s title in the Windows Media Player sidebar.
 10. Release the left mouse button when you see the**Add to** \+ tooltip.
 
@@ -206,7 +208,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![A slideshow image in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-slideshow-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Needs Third-Party Photo Slideshow Software?
@@ -228,22 +230,22 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-rated-desktop-video-recorders-for-pcmac/"><u>[New] In 2024, Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-leading-edge-of-color-grading-with-luts/"><u>2024 Approved Leading Edge of Color Grading with LUTs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tips-apply-smooth-motion-blur-on-your-pics/"><u>2024 Approved Quick Tips Apply Smooth Motion Blur on Your Pics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c02-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C02 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/avatars-pandora-adventure-stable-gameplay-experience-on-windows-and-pc/"><u>Avatar's Pandora Adventure - Stable Gameplay Experience on Windows & PC</u></a></li>
-<li><a href="https://techidaily.com/correcting-encryption-conflict-issues-on-windows-systems/"><u>Correcting Encryption Conflict Issues on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-group-policy-objects-at-a-targeted-user-on-windows-1111/"><u>Directing Group Policy Objects at a Targeted User on Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-optional-enhancements-in-windows-11-a-complete-fix-guide/"><u>Effortless Optional Enhancements in Windows 11: A Complete Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-defining-wins-command-prompt/"><u>Guidelines for Defining Win's Command Prompt</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-note-30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Note 30 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-brightness-control-via-function-keys-on-win-11/"><u>Reestablishing Brightness Control via Function Keys on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-non-present-device-warning-in-windows-11/"><u>Remedy for Non-Present Device Warning in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-load-times-overcoming-01kbs-delays-in-valorant/"><u>Swift Load Times: Overcoming 0.1KB/S Delays in Valorant</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-invisible-changes-that-bring-your-desktop-life-master-themes-on-windows-11/"><u>The Invisible Changes That Bring Your Desktop Life: Master Themes on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-apex-legends-engine-issues/"><u>Troubleshooting Guide: Fixing Apex Legends Engine Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-visual-treats-free-video-to-gif-transformation-for-2024/"><u>Twitter's Visual Treats Free Video to Gif Transformation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-six-key-reasons-for-choosing-win11-overseas-macos/"><u>Unveiling Six Key Reasons for Choosing Win11 Overseas macOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-potential-best-free-safe-followers-enhancing-your-feed-iosandroid/"><u>[New] 2024 Approved Unleash Potential Best Free, Safe Followers Enhancing Your Feed (iOS/Android)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhancing-visuals-with-paradox-creation-for-2024/"><u>[New] Enhancing Visuals with Paradox Creation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-odins-fury-new-wrath-unleashed/"><u>[New] In 2024, Odin's Fury New Wrath Unleashed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-elevating-your-instagram-engagement-through-hashtags/"><u>[New] Step-by-Step Elevating Your Instagram Engagement Through Hashtags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-errors-office-activation-success-guide/"><u>Disabling Errors: Office Activation Success Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-aussie-vernacular-100plus-essential-terms/"><u>Embrace Aussie Vernacular: 100+ Essential Terms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restore-accessibility-of-registry-editor/"><u>Guide to Restore Accessibility of Registry Editor</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-system-image-0x80780119-error-on-windows/"><u>How to Fix the System Image 0X80780119 Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intricate-control-of-firewall-areas-on-windows-os/"><u>Intricate Control of Firewall Areas on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
+<li><a href="https://win-web.techidaily.com/overcoming-scanner-os-software-conflicts-expert-advice-by-yl-technology-team/"><u>Overcoming Scanner-OS Software Conflicts: Expert Advice by YL Technology Team</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveal-hidden-setup-windows-11-missing-controls-located/"><u>Reveal Hidden Setup: Windows 11 Missing Controls Located</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/sign-up-saga-crafting-your-digital-persona-facebook/"><u>Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tips-simplifying-windows-pcs-for-aging-elders/"><u>Tech Tips: Simplifying Windows PCs for Aging Elders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-replacement-apps-for-windows-11-default-tools/"><u>Top 10 Replacement Apps for Windows 11 Default Tools</u></a></li>
 </ul></div>
 

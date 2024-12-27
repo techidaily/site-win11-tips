@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Enhance Pointer Features in Windows 11
-date: 2024-08-16T02:42:57.159Z
-updated: 2024-08-17T02:42:57.159Z
+date: 2024-12-23T21:04:58.046Z
+updated: 2024-12-27T21:27:28.335Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,14 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
 
 So, without further ado, let’s get into them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Choosing Your Mouse Pointer Style
 
  To[change the style of your Mouse pointer](https://www.makeuseof.com/change-your-cursor-on-windows/) , head over to**Settings > Accessibility** on your computer.
 
 ![Screenshot accessibility settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-accessibility-settings-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click the**Mouse pointer and touch** category. You have the options White, Black, Inverted, and Custom under**Mouse pointer style.** As such, you can choose any of them to change your pointer style.
@@ -48,35 +46,17 @@ So, without further ado, let’s get into them.
 
  Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Adjusting Your Mouse Cursor Size
 
  If you would like your pointer to appear bigger, drag the**Size** slider to increase its size.
 
 ![Screenshot showing size slider on mouse pointer settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Increasing your Mouse Pointer Speed
 
  Your mouse’s pointer speed has a great impact on its performance and is often crucial to improving your efficiency. To adjust your pointer speed, go to**Settings > Bluetooth & devices** and click on the**Mouse** category.
 
 ![screenshot of mouse pointer speed settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-speed-settings-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
 
@@ -93,24 +73,30 @@ So, without further ado, let’s get into them.
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Additional Mouse Pointer Settings
 
  To tweak your mouse further, head over to**Additional mouse settings** on the same page.
 
 ![screenshot of additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  From here, you can enable**ClickLock** to let you drag and drop without holding down the mouse button.
 
 ![how to enable ClickLock on additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the**Pointers** tab to select a mouse scheme and customize the different shapes of the mouse pointer. You can also[use a custom mouse cursor](https://www.makeuseof.com/windows-11-custom-mouse-cursor/) by clicking**Browse** to download online. Lastly, you can tick the**Enhance pointer shadow** checkbox if you’d prefer that.
 
 ![Screenshot of mouse pointer options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-options-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the**Pointer Options** tab, you can select a pointer speed and**Enhance pointer precision** with the checkbox. If you’d like the pointer to move to its default in a dialogue box, click**Snap To.**
 
@@ -118,29 +104,35 @@ So, without further ado, let’s get into them.
 
  Hit**Apply** afterward to implement your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Customize Your Text Cursor
 
  The text cursor is that blinking vertical line that indicates the point where you can enter or highlight text on your screen. The following settings show you how to enhance the look of your text cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Using the Text Cursor Indicator
 
  The text indicator can help you find a cursor easily in a sea of text. By enabling the text indicator in settings, you won’t have to waste time searching for the text cursor while typing.
 
  To turn it on, open **Settings > Accessibility** and select the **Text cursor** option.  Toggle on the text cursor indicator. ![screenshot of text cursor settings page windows 11](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-text-cursor-settings-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Changing the Text Cursor’s Thickness
 
  You might want your text cursor to appear bolder on the screen, so it's more visible. To do this, use the slider in the**Text Cursor Thickness** section.
 
 ![screenshot of text cursor thickness settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-text-cursor-thickness-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Configuring Your Mouse Pointer Makes Your PC More Accessible
 
@@ -154,8 +146,6 @@ So, without further ado, let’s get into them.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +153,18 @@ So, without further ado, let’s get into them.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-revised-interview-guidelines-for-captivating-listeners/"><u>[Updated] Revised Interview Guidelines for Captivating Listeners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-graphics-to-iconic-messages-a-complete-tutorial-for-chat-apps-for-2024/"><u>Converting Graphics to Iconic Messages A Complete Tutorial for Chat Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-xbox-access-problem-0x00000001-error-guide/"><u>Correcting Xbox Access Problem - 0X00000001 Error Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-configuration-of-power-settings-with-expert-advice-by-yl-software-experts/"><u>Easy Configuration of Power Settings with Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone without PIN</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-access-with-custom-windows-shortcuts-uwp/"><u>Instantaneous Access with Custom Windows Shortcuts (UWP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-into-surround-sound-excellence-installing-atmos-for-windows-pcs/"><u>Journey Into Surround Sound Excellence: Installing Atmos for Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-comics-in-windows-11-the-essential-tutorial/"><u>Mastering Comics in Windows 11: The Essential Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterpiece-makers-editing-images-with-invisible-text-for-2024/"><u>Masterpiece Makers Editing Images with Invisible Text for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-quality-free-video-player-play-any-movie-on-your-pc-and-macos/"><u>Top-Quality Free Video Player: Play Any Movie on Your PC & macOS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of FN Key Configuration for Windows OS
-date: 2024-08-16T02:41:05.389Z
-updated: 2024-08-17T02:41:05.389Z
+date: 2024-12-23T21:08:03.357Z
+updated: 2024-12-27T21:04:00.617Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  By default, these keys can only be used when you press the dedicated Fn key with them. Nevertheless, you can customize this setting, along with many others, to suit your needs. Here are the different ways you can modify the settings of Windows 10 and 11 function keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Function Keys, and Why Do You Need Them?
 
  Function keys, or just "Fn" for short, are used to trigger functions of the F keys (F1, F2, F3, etc.) on the top of the keyboard. In essence, it acts as a shortcut key for basic yet essential functions like changing the volume, brightness, and backlight.
@@ -37,17 +41,23 @@ Here is how to proceed:
 1. Type Windows Mobility Center in Windows search and click**Open** .
 2. Alternatively, launch the Control Panel and navigate to the**Hardware and Sound** section.  
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click on**Windows Mobility Center** .  
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -80,9 +90,6 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
 
@@ -90,29 +97,21 @@ If you are a Windows 11 user, follow these steps:
 2. Type Recovery in the search field and choose**Recovery options** from the list of options available.
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the following window, head over to the**Configuration** tab.
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Fn Lock
 
  If you do not want to press the Fn key every time you want to enable/disable any of the 12 functions, you can toggle on the Fn lock. With this feature, the Fn key will appear to always be held down on the keyboard, and you will be able to use any function key without having to first press the Fn key.
@@ -121,9 +120,6 @@ If you are a Windows 11 user, follow these steps:
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Is It a Good Idea To Change Fn Key Settings?
 
  Changes to Fn keys are safe and do not have any negative consequences. The customization options for the keys within Windows are limited, but there are quite a few third-party resources that you can look into if you want to modify keys a step further.
@@ -138,18 +134,19 @@ If you are a Windows 11 user, follow these steps:
 
  Ultimately, whether it is a good idea to change the Fn key settings or not will depend on how you use your computer and what you prefer. We recommend weighing the pros and cons and consider your usage patterns before you make a decision.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Function Keys Like a Pro
 
  Function keys are great for improving productivity and efficiency. With the right techniques in mind, you can make the most of them. We hope that following the steps above enabled you to modify the setting of your function keys. It is also important to note that all the methods outlined above don't make a permanent change to the system, so you can always revert the changes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +155,26 @@ If you are a Windows 11 user, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-seamless-video-to-photo-conversion-for-windows-users/"><u>[New] 2024 Approved Seamless Video-to-Photo Conversion for Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-picture-unraveling-the-google-podcast-application/"><u>[New] Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-your-step-by-step-path-to-a-top-facebook-music-video/"><u>[New] In 2024, Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtubes-video-comment-features/"><u>[Updated] Mastering YouTube's Video Comment Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-global-stage-viewings/"><u>[Updated] Superior Global Stage Viewings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/20-most-popular-memes-on-reddit-and-twitter/"><u>20 Most Popular Memes on Reddit and Twitter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quietude-in-a-click-the-ultimate-calm-list/"><u>2024 Approved Quietude in a Click The Ultimate Calm List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pc-reset-simplified-strategies-for-windows-rebooting/"><u>Easy PC Reset: Simplified Strategies for Windows Rebooting</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a58-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A58 4G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-enhancing-performance-with-resources-in-android-wsl/"><u>Methods for Enhancing Performance with Resources in Android WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-port-reset-failed-in-latest-win-11-os/"><u>Overcoming 'Port Reset Failed' In Latest Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-repairs-top-9-tactics-for-smooth-windows-11-wwe-play/"><u>Rapid Repairs: Top 9 Tactics for Smooth Windows 11 WWE Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-mute-audio-issue-for-screen-recordings/"><u>Resolving Mute Audio Issue for Screen Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-life-a-compreehers-handbook-to-creating-multiple-directories-in-windows-1011/"><u>Simplify Your Life: A Compreeher's Handbook to Creating Multiple Directories in Windows 10/11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-missing-backup-service-for-windows-servers-2008-2012-2016/"><u>Solving the Problem of Missing Backup Service for Windows Servers (2008, 2012, 2016)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steel-your-systems-start-with-5-fixes-to-secure-boot-snags-in-windows/"><u>Steel Your System's Start with 5 Fixes to Secure Boot Snags in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-updates-from-halted-by-error-2e/"><u>Stop Windows Updates From Halted by Error 2E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-playbook-engaging-and-exiting-focus-mode-on-windows-terminal/"><u>The Practical Playbook: Engaging & Exiting Focus Mode on Windows Terminal</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unleashing-potential-the-role-of-expertise-and-protection-in-advancing-cloud-native-platforms-according-to-zdnet/"><u>Unleashing Potential: The Role of Expertise and Protection in Advancing Cloud-Native Platforms, According to ZDNet</u></a></li>
+</ul></div>
 

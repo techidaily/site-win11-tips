@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Windows Touchpad Commands
-date: 2024-08-16T02:36:55.339Z
-updated: 2024-08-17T02:36:55.339Z
+date: 2024-12-23T21:14:07.773Z
+updated: 2024-12-27T16:32:14.400Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,15 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
  Now that you know the common causes of touchpad gestures not working on Windows. If you encounter this issue, try these solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  It may sound obvious, but restarting your computer fixes minor glitches and bugs. This refreshes memory and flushes out misbehaving processes. So before you delve into more complex solutions, restart your computer and check if it helps.
 
  For this, press **Win + X** on your keyboard. Then press **U** and select **Restart**. This closes all open programs and restarts your device. Once it starts up, check if your touchpad gestures work again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 2\. Enable Touchpad Gestures
 
  If your touchpad gestures are disabled, you can't execute multi-finger commands. To enable gestures, access your touchpad settings and adjust accordingly. Here's how to do it.
@@ -56,15 +54,13 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![Advanced gestures in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-gestures-in-settings.jpg)
 7. On this page, you will see various configuration options for multi-finger gestures. Click on the drop-down menu and select the action you want for each gesture.  
 ![Touchpad in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/touchpad-in-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you configure the settings, your touchpad is ready for three-finger and four-finger commands. Now close the Settings window and test the gestures.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Touchpad Drivers
 
  Outdated or corrupt touchpad drivers also affect gesture recognition. So, if you’re still having issues, try updating your touchpad drivers.
@@ -73,14 +69,15 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 2. Type **devmgmt.msc** in the Run search box and press Enter. This opens the Device Manager window.
 3. Scroll down and expand **Mice and other pointing devices**.  
 ![Update Touch driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-touch-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Right-click on your touchpad device and select **Update driver**.  
 ![Search automatically for drivers for Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-automatically-for-drivers-for-mouse.jpg)
 5. On the next page, choose **Search automatically for drivers**.
 
  This allows Windows to find and install the latest available drivers for your touchpad. If this doesn't work, search for the touchpad manufacturer's drivers online and install them that way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Touchpad Drivers
 
@@ -94,7 +91,15 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![Uninstall Mice and other pointing devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-mice-and-other-pointing-devices.jpg)
 4. Click **Uninstall** when prompted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now wait for the process to finish. Once it does, restart your computer. Windows will automatically reinstall new touchpad drivers for your device at startup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run Hardware and Devices troubleshooter
 
@@ -106,15 +111,13 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 2. Type **msdt.exe -id DeviceDiagnostic** in the search box and hit Enter. This opens the Hardware and Devices troubleshooter window.
 3. Click on **Advanced** and check the box for **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  Now click **Next** and let the troubleshooter find and fix any hardware-related problems. Once it completes, restart your computer and try using the touchpad again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check for Third-Party Software Interference
 
  Sometimes third-party applications can interfere with Windows touchpad gestures. So, if you’ve recently installed any new software or apps on your computer, try uninstalling them and see if it solves the problem.
@@ -138,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 3. Next, click **Touchpad** to expand it.
 4. Now click the **Reset** button next to **Reset touchpad settings and gestures to default**.  
 ![Reset touchpad settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-touchpad-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Once the settings are reset, restart your computer and see if your touchpad gestures have become responsive.
 
@@ -148,11 +148,24 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
  Though touchpad gestures make navigating Windows easier, sometimes glitches happen. If you’re having trouble with touchpad gestures on your Windows computer, try the solutions mentioned above. To avoid such problems in the future, keep your Windows and device drivers up to date. Make sure to install genuine software from secure sources.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-unleashed-a-creators-guide-to-greatness/"><u>[New] 2024 Approved YouTube Unleashed A Creator's Guide to Greatness</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-google-meets-screen-alteration-techniques/"><u>[Updated] In 2024, Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-disarray-a-quick-guide-to-counteract-pink-windows-woes/"><u>Desktop Disarray: A Quick Guide to Counteract Pink Windows Woes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-turn-up-your-pexels-photo-game-for-2024/"><u>How to Turn Up Your Pexels Photo Game for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-k11-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo K11 5G Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lenovos-game-changer-an-expert-review-of-the-portable-and-efficient-thinkpad-x1-nano-laptop/"><u>Lenovo's Game Changer: An Expert Review of the Portable and Efficient ThinkPad X1 Nano Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slashing-resource-drain-from-security-applications/"><u>Slashing Resource Drain From Security Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-combat-windowss-pink-fade/"><u>The Ultimate Guide to Combat WINDOWS's Pink Fade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-reactivate-non-responsive-keyboard-shortcuts-for-brightness-control-in-windows-11/"><u>Tips to Reactivate Non-Responsive Keyboard Shortcuts for Brightness Control in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unlocking-secrets-how-to-bypass-dvd-copy-safeguards/"><u>Unlocking Secrets: How to Bypass DVD Copy Safeguards</u></a></li>
+</ul></div>
+

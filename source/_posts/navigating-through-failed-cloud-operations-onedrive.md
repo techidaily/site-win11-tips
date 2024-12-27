@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Failed Cloud Operations (OneDrive)
-date: 2024-12-20T18:51:39.116Z
-updated: 2024-12-21T23:00:03.272Z
+date: 2024-12-20T16:42:48.988Z
+updated: 2024-12-27T16:25:42.992Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Log Out and Back Into OneDrive
 
  First, try logging out and back into your OneDrive account. To do so, you’ll need to unlink your PC with your OneDrive account. This is how you can log out and sign back into OneDrive:
@@ -47,15 +43,11 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 3. Enter a password, and press the**Sign in** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Free Up Hard Drive Space
 
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the OneDrive App
@@ -81,12 +73,13 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
-5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
-`%localappdata%\Microsoft\OneDrive\onedrive.exe`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
+`%localappdata%\Microsoft\OneDrive\onedrive.exe`
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -98,13 +91,14 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
@@ -117,7 +111,16 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 3. Right-click the file affected by error 0x80070185 and select**Always keep on this** **device** .  
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -130,12 +133,12 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
@@ -175,20 +178,19 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/reating-impact-with-high-converting-youtube-advertising-banners-for-2024/"><u>[New] Creating Impact with High-Converting YouTube Advertising Banners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-editing-game-changer-fcps-best-10-plugins/"><u>[New] The Editing Game Changer FCP's Best 10 Plugins</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-essentials-in-filming-adventure-vlogs-for-2024/"><u>[Updated] Essentials in Filming Adventure Vlogs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-shift-your-video-format-from-mkv-to-mp4-windows/"><u>Efficiently Shift Your Video Format: From MKV to MP4 (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-visuals-and-speed-on-roblox-windows-app/"><u>Enhancing Visuals and Speed on Roblox Windows App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expected-launch-postponement-apples-ai-capabilities-set-for-release-in-october-insights-from-zdnet/"><u>Expected Launch Postponement: Apple's AI Capabilities Set for Release in October - Insights From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-uniting-networks-sharing-fb-vids-on-whatsapp-chat/"><u>In 2024, Uniting Networks Sharing FB Vids on WhatsApp Chat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-0xa00f425d-in-microsofts-windows-camera-app/"><u>Overcoming Error Code: 0XA00F425D in Microsoft's Windows Camera App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-error-0xc004f050/"><u>Overcoming Windows Upgrade Error: 0XC004F050</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-the-elusive-error-0x80073d26-on-windows/"><u>Resolving the Elusive Error 0X80073D26 on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-buying-virtual-reality-games-on-the-meta-oculus-quest-2-platform/"><u>Ultimate Guide to Buying Virtual Reality Games on the Meta (Oculus) Quest 2 Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-ai-computers-distinctions-explored/"><u>Unveiling AI Computers: Distinctions Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-where-your-wallpaper-saves-in-pc/"><u>Unveiling Where Your Wallpaper Saves in PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rapid-accessibility-of-instagram-videos-and-stories/"><u>[Updated] Rapid Accessibility of Instagram Videos and Stories</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-edges-app-protection-with-better-graphics/"><u>Elevate Edge's App Protection with Better Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-dall-e-3-for-free-inside-microsoft-bing/"><u>How to Use DALL-E 3 for Free Inside Microsoft Bing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a24-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A24 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-worlds-best-live-streaming-sites-for-2024/"><u>In-Depth Look at World's Best Live Streaming Sites for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mac-and-pcs-top-10-supercharged-srt-systems-unveiled-for-2024/"><u>Mac & PC's Top 10 Supercharged SRT Systems Unveiled for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts-for-2024/"><u>New Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforcing-remote-access-on-windows-systems-with-ease/"><u>Reinforcing Remote Access on Windows Systems with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-team-collaboration-with-less-overhead/"><u>Revolutionizing Team Collaboration with Less Overhead</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sky-high-setup-top-10-msistore-masterpieces/"><u>Sky-High Setup: Top 10 MSIStore Masterpieces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11-computer-system-oversight/"><u>Swift Solutions for Windows 11 Computer System Oversight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-website-with-personalized-advertising-powered-by-cookiebot/"><u>Unlock the Potential of Your Website with Personalized Advertising Powered by Cookiebot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-fixing-windows-11-update-error-0x800f0922/"><u>Unlocking Solutions: Fixing Windows 11 Update Error 0X800f0922</u></a></li>
 </ul></div>
 

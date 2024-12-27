@@ -1,7 +1,7 @@
 ---
 title: Mitigating Critical Application Hiccups on PC
-date: 2024-12-16T23:06:11.884Z
-updated: 2024-12-22T07:40:37.422Z
+date: 2024-12-22T16:18:29.069Z
+updated: 2024-12-27T19:26:17.331Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Some Basic Fixes
 
  Begin troubleshooting the issue by applying these basic fixes, which may stop Roblox from crashing right away:
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  Until the issue isn't fixed, continue using the Microsoft Store app to play Roblox experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Don't Run Roblox on a Virtual Machine
@@ -54,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![An open laptop sitting on a windowsill with a residential view in the background.](https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Do you also want to run Roblox Player on a virtual machine, but the client crashes? If so, that could be the cause of the error. Close the virtual machine and run Roblox by installing the client on your OS; hopefully, nothing will go wrong this way.
 
  If you don't use a virtual machine and still get the **"the application encountered an unrecoverable error"** error, virtualization could be enabled in the BIOS settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Virtualization From the BIOS
 
@@ -72,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 5. Click on **Intel VT for Direct I/O** and uncheck the box beside **Enable** **Intel VT for Direct I/O**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Intel VT for Direct IO in BIOS Settings of a Dell Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-vt-for-direct-io-in-bios-settings-of-a-dell-device.jpeg)
@@ -100,14 +112,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 4. Right-click on the **Roblox** folder and click **Delete**.  
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Report the Problem to the Roblox Support Team
 
  If none of the above fixes resolve the issue, you should follow the instructions in the error message: get a crash dump, and send it to Roblox. Follow these steps to do that:
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 `%UserProfile%\AppData\Local\Roblox\logs  
 %UserProfile%\AppData\Local\Roblox\logs\crashes`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the Roblox Client
 
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -142,23 +142,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Among the leading causes of this error can be interference from the browser, running Roblox in a virtual machine, or misconfigured BIOS settings. The error message suggests users share a crash dump with Roblox support to diagnose the issue. Before you do that, perform the below-mentioned checks and fixes first.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-optimal-strategy-for-broadcasting-via-obs-on-fb-live/"><u>[Updated] 2024 Approved Optimal Strategy for Broadcasting via OBS on FB Live</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[Updated] In 2024, From Novice to Pro The Complete Creator Hub Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-flip-side-realities-of-virtual-reality/"><u>[Updated] The Flip Side Realities of Virtual Reality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-mma-games-for-virtual-fight-enthusiasts-for-2024/"><u>[Updated] Top 5 MMA Games for Virtual Fight Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-online-seminars/"><u>2024 Approved Capturing Online Seminars</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-galaxy-m54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Galaxy M54 5G</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effiziente-methoden-zum-vollstandigen-loschen-aller-daten-von-deinem-computer-top-tipps/"><u>Effiziente Methoden Zum Vollständigen Löschen Aller Daten Von Deinem Computer – Top-Tipps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1050238-9781780995588-healing-with-spirit/"><u>Healing with Spirit | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-auto-narration-in-windows-office-word/"><u>How To Reactivate Auto-Narration in Windows Office Word</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-wi-fi-hotspot-functionality/"><u>Mastering Windows 11'S Wi-Fi Hotspot Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-machine-identification-sid-finder-in-win11/"><u>Mastery of Machine Identification: SID Finder in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-dotnet-restoration-in-windows-max-156/"><u>Quick DotNet Restoration in Windows (Max 156)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/trova-la-soluzione-per-lenvironment-di-riparazione-di-windows-con-difficolta-insolite/"><u>Trova La Soluzione per L'Environment Di Riparazione Di Windows Con Difficoltà Insolite</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +149,25 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-top-6-ideal-helmet-harnesses-for-gopros/"><u>[Updated] Navigating Through Top 6 Ideal Helmet Harnesses for GoPros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-critical-look-at-sns-hdrs-potential-and-alternatives/"><u>2024 Approved A Critical Look at SNS HDR's Potential & Alternatives</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-k11-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo K11 5G PC | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-rog-rapture-gt-ax110-router-assessment-highlighting-topnotch-performance-for-gamers/"><u>Asus ROG Rapture GT-AX110# Router Assessment: Highlighting Topnotch Performance for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-cloud-glitches-on-pc/"><u>Correcting Steam Cloud Glitches on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-tailored-windows-key-tricks/"><u>Elevate PC Performance: Tailored Windows Key Tricks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-do-you-earn-when-a-million-watch-youtube-for-2024/"><u>How Much Do You Earn When a Million Watch Youtube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-narzo-60x-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme Narzo 60x 5G Through Google Earth?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-the-use-of-android-devices-as-windows-11-webcams/"><u>Pioneering the Use of Android Devices as Windows 11 Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-bluetooth-links-with-these-top-9-fixes-in-win-11/"><u>Re-Establish Bluetooth Links with These Top 9 Fixes in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-online-overcoming-fall-guys-connection-hiccups-in-windows/"><u>Stay Online: Overcoming Fall Guys Connection Hiccups in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-lsa-problems-on-windows-10/"><u>Steps to Eliminate LSA Problems on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-outlook-rules-in-windows/"><u>Troubleshooting Non-Functional Outlook Rules in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-the-x-symbolize-in-windows-folder-structure/"><u>What Does the X Symbolize in Windows' Folder Structure?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-windows-10-survive-through-2025-understanding-the-costs-and-commitments/"><u>Will Windows 10 Survive Through 2025? Understanding the Costs and Commitments</u></a></li>
+</ul></div>
+

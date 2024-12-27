@@ -1,7 +1,7 @@
 ---
 title: "Slip Through Security Gaps: Stealthy Remote Access on Windows 11"
-date: 2024-08-16T02:38:44.921Z
-updated: 2024-08-17T02:38:44.921Z
+date: 2024-12-22T21:01:39.393Z
+updated: 2024-12-27T17:23:57.967Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 ## Slip Through Security Gaps: Stealthy Remote Access on Windows 11
 
  Remote Desktop connections let two computers share data and applications online. It's handy for accessing files and programs from afar. Although security measures often require passwords. But what if you could connect to your remote desktop without it? This article explains how to connect to a remote desktop without a password in Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Using Group Policy
 
@@ -34,13 +38,19 @@ Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
 
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using Security Policy
 
  Security policies are another way to connect remotely without passwords. This tool is similar to the group policy editor but specific to the local computer. This means any changes you make to the local security policy will only apply to the local computer while group policies are domain-wide.
@@ -54,18 +64,12 @@ Windows Settings > Security Settings > Local Policies > Security Options
 Security Settings > Local Policies > Security Options
 5. Now move to the right panel and double-click on **Accounts: Limit local account use of blank passwords to console logon only**. This will open the Properties window for this policy.  
 ![Use Security Policy to Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-security-policy-to-connect-remote-desktop-without-a-password.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select **Disabled** and click on **Apply > OK** to save changes.
 
  Once you save this setting, remote connections are possible without passwords.
 
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Using Registry Editor
 
  When running Windows Home, use the registry editor instead of the group policy editor. The registry editor is a hierarchical database that stores system configuration and settings.
@@ -107,8 +111,9 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using a Reg File
 
  If you're not good at editing with the registry editor, create a .reg file instead. The .reg files are basically text files with predefined instructions. When executed, they change the registry and apply settings automatically.
@@ -123,10 +128,12 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 "LimitBlankPasswordUse"=dword:00000000`
 3. Now click **File** \> **Save as** and set the file type to **All files**.  
 ![Create a Reg File Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-connect-remote-desktop-without-a-password.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Name the file **no-password.reg** and save it to your desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on the file to execute it and apply the settings automatically.
 
  Your remote connections will now run without passwords. To re-enable the password prompt, create another text file with the following code:
@@ -138,14 +145,9 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Now save the file as **enabled\_password.reg** and double-click it to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Password-Free Remote Access
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +155,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-how-to-download-part-of-a-youtube-videos/"><u>[New] 2024 Approved How to Download Part of a YouTube Videos?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>[New] Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-swift-moments-visual-and-auditory-sniped/"><u>[New] In 2024, Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-achieving-expert-colors-for-images/"><u>[Updated] In 2024, Step-by-Step Achieving Expert Colors for Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-strategic-evasion-the-best-room-escapes-ranked/"><u>[Updated] Strategic Evasion The Best Room Escapes Ranked</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-python-with-gpt-3-advanced-integration-strategies-for-developers/"><u>Bridging Python with GPT-3: Advanced Integration Strategies for Developers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-at-snipeits-stalling-fast-fixes-to-jumpstart-it/"><u>Halt at SnipeIt's Stalling? Fast Fixes to Jumpstart It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-disconnection-quick-fix-for-xbox-win11-app/"><u>Navigating Through Disconnection: Quick Fix for Xbox Win11 App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-starting-red-dead-redemption-2-now-fixed/"><u>Resolved: Issues with Starting Red Dead Redemption 2 Now Fixed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustaining-our-future-with-green-technology-key-challenges-and-prospects-ahead-expert-analysis-by-zdnet/"><u>Sustaining Our Future with Green Technology: Key Challenges and Prospects Ahead | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-through-frozen-windows-update-woes/"><u>The Pathway Through Frozen Windows Update Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-bluetooth-troubleshooting-music-only-lacking-volumecontrols/"><u>Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/zero-degree-zeal-2022-winter-olympics-triumphs/"><u>Zero-Degree Zeal 2022 Winter Olympics Triumphs</u></a></li>
+</ul></div>
+

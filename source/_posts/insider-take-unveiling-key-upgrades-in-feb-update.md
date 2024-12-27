@@ -1,7 +1,7 @@
 ---
 title: "Insider Take: Unveiling Key Upgrades in FEB Update"
-date: 2024-12-18T21:26:45.365Z
-updated: 2024-12-21T18:54:06.164Z
+date: 2024-12-23T19:32:57.223Z
+updated: 2024-12-27T22:22:20.171Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Search for Processes or Tasks in Task Manager
 
 ![Search in Taskbar Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-in-taskbar-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before the February 2023 update, there was no search functionality in Task Manager. As a result, users could not find the task or process quickly. The February feature drop fixes the issue by introducing a search strip at the very top of the Task Manager.
 
  If for some reason, you want to check what's happening with a particular task or process, you can easily find it by using the search strip instead of scrolling through the bottom to spot it in Task Manager. After successfully installing the February 2023 update, you should immediately see the search functionality in the Task Manager, as it is enabled by default.
 
  To open the Task Manager, right-click on the Taskbar and select**Task Manager** . If you are not thorough with it,[check out how to use Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. A New Taskbar for Tablet Users
 
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Bear in mind the ability to select between two taskbar modes is available only for tablets and convertibles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New Designs for the Search Bar in the Taskbar
@@ -70,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Among the three design options, the last one will occupy the most space in Taskbar. The ability to hide Search from appearing in Taskbar is also there. If you need more help, check out[how to get started with Windows 11 Taskbar Search](https://www.makeuseof.com/windows-11-taskbar-search/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Energy Recommendations Settings to Reduce Your Carbon Footprint
 
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The February 2023 feature drop offers a new way to control your environmental impact by introducing**Energy Recommendations** in the Settings app. The new setting allows you to reduce your carbon footprint by lowering the energy consumption of your PC.
 
@@ -93,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  While you should always aim to reduce the power consumption of your PC, make sure it does not come at the expense of lesser performance and productivity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Access the Windows Studio Effects Directly From the Taskbar in Quick Settings
 
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/)
 
@@ -120,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change the size of the Widgets panel to take up the entire space of your PC screen after installing the Windows 11 February feature update. You can click on the**enlarge icon** , located right beside the**user profile logo** , to expand the Widgets panel.
@@ -133,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![New Snipping Tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-snipping-tool-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before the arrival of the Windows 11 February 2023 update, users were primarily dependent on third-party tools like OBS Studio to capture what was happening on their PC screens. But now, the new Snipping Tool can also start a recording session of what is happening on your PC screen.
 
  You can select a portion of your screen before starting the session. Also, you can pause or resume the recording whenever you like. However, screen recording in Snipping Tool will only record what is going on your screen, not the audio.
@@ -142,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ## 9\. A Tabbed Interface in Notepad
 
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The tabbed interface is now expanded to the Notepad. Like in File Explorer, the new Notepad will enable you to open multiple folders and directories in one app window. Because different folders or directories can be in a single Notepad window due to the tabs support, it is easier for you to switch between them.
 
@@ -170,24 +170,22 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>[New] 2024 Approved A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-jumpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators/"><u>[Updated] Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-facebook-financial-gains-a-step-by-step-guide/"><u>[Updated] Unlocking Facebook Financial Gains A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-panorama-pro-network-partnership-guide/"><u>2024 Approved Panorama Pro Network Partnership Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boosting-efficiency-expert-advice-on-key-productivity-apps-and-strategies-for-streamlining-your-daily-tasks-zdnet/"><u>Boosting Efficiency: Expert Advice on Key Productivity Apps & Strategies for Streamlining Your Daily Tasks | ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-battery-powered-google-nest-doorbell-evaluation/"><u>Comprehensive Battery-Powered Google Nest Doorbell Evaluation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-experience-today-ms-store/"><u>Elevate Your PC Experience Today - MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quietly-turn-off-microsofts-win11-firewall/"><u>How to Quietly Turn Off Microsoft's Win11 Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reap-the-benefits-of-bulk-directories-with-ease-in-windows-latest-os/"><u>Reap the Benefits of Bulk Directories with Ease in Window's Latest OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snap-clean-top-10-apps-to-sharpen-your-digital-world-for-2024/"><u>Snap Clean Top 10 Apps to Sharpen Your Digital World for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-to-restore-dell-laptop-keyboard-functionality/"><u>Solution Steps to Restore Dell Laptop Keyboard Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-gaming-fix-fullscreen-issues-now/"><u>Streamline Your Gaming: Fix Fullscreen Issues Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook-for-2024/"><u>Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-savvy-reestablishing-server-link-with-7-fixes-for-obs-studio/"><u>Sync Savvy: Reestablishing Server Link with 7 Fixes for OBS Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-advantages-win10-vs-win11-battle/"><u>Top 7 Advantages: Win10 Vs. Win11 Battle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-create-failed-issue-in-windows/"><u>Understanding and Overcoming Create Failed Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-windows-index-configuration/"><u>Understanding Windows Index Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-upgradation-made-easy-setting-up-win11-on-vmware-player/"><u>Windows Upgradation Made Easy: Setting up Win11 on VMware Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earn-while-you-entertain-the-content-creators-guide/"><u>[New] 2024 Approved Earn While You Entertain The Content Creator's Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficientuseofyourwebcamforrecording/"><u>[New] EfficientUseOfYourWebcamForRecording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expert-advice-elevating-your-nba-live-viewing/"><u>[New] In 2024, Expert Advice Elevating Your NBA Live Viewing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovative-vfx-equipment-for-eco-warriors/"><u>[Updated] 2024 Approved Innovative VFX Equipment for Eco Warriors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-resourceerror-and-text-display-in-windows-11/"><u>Correcting ResourceError and Text Display in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-the-disabled-directive-in-powershell-execution/"><u>Disarming the 'Disabled' Directive in PowerShell Execution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-human-touch-with-the-help-of-artificial-intelligence/"><u>Embrace Human Touch with the Help of Artificial Intelligence</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-visual-fidelity-and-speed-in-gaming-by-refreshing-dell-g3-drivers/"><u>Improve Visual Fidelity and Speed in Gaming by Refreshing Dell G3 Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone XS Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-user-name-transitions-on-windows-11-easy-way/"><u>Navigating User Name Transitions on Windows 11 Easy Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-typing-latency-on-win-11-with-these-expert-strategies/"><u>Overcome Typing Latency on Win 11 with These Expert Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-system-with-prudent-windows-11-feature-management/"><u>Securing Your System with Prudent Windows 11 Feature Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/type-swifter-typingaid-training-tips/"><u>Type Swifter! TypingAid Training Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlinked-file-program-correction-strategies-for-win/"><u>Unlinked File Program Correction Strategies for Win</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valheim-desync-troubleshooting-guide-eliminating-frames-per-second-fps-drops-and-hitches/"><u>Valheim Desync Troubleshooting Guide: Eliminating Frames Per Second (FPS) Drops and Hitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wiping-windows-temporaries-made-simple/"><u>Wiping Windows Temporaries Made Simple</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-studio-audit-earnings-review-for-2024/"><u>YouTube Studio Audit Earnings Review for 2024</u></a></li>
 </ul></div>
 

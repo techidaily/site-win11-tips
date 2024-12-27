@@ -1,7 +1,7 @@
 ---
 title: How to Enable the Redesigned Widgets Picker in Windows 11
-date: 2024-12-16T16:40:18.573Z
-updated: 2024-12-22T00:41:17.047Z
+date: 2024-12-23T18:01:49.122Z
+updated: 2024-12-27T22:58:08.884Z
 tags:
   - windows10
   - windows11
@@ -25,20 +25,20 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
@@ -50,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -85,30 +81,15 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-getting-the-most-out-of-pc-hdr-videos/"><u>[New] Getting the Most Out of PC HDR Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-video-experience-with-apple-melodies/"><u>[Updated] Enhancing Video Experience with Apple Melodies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-minecrafts-persistent-frozen-screen-a-comprehensive-guide-to-smoother-gameplay/"><u>Beat Minecraft's Persistent Frozen Screen : A Comprehensive Guide to Smoother Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-it-admin-cant-do-more-windows-alert/"><u>How to Overcome 'IT Admin Can’t Do More' Windows Alert</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-remedy-guide-resolving-os-based-office-faults/"><u>Immediate Remedy Guide: Resolving OS-Based Office Faults</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-14-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 14 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-repairing-windows-charmap-failures/"><u>Mastering the Art of Repairing Windows CharMap Failures</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>New 2024 Approved Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-multiplayer-malfunctions-in-elden-ring-with-these-tips/"><u>Overcome Multiplayer Malfunctions in Elden Ring with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-your-pc-classics-experience-full-hd-and-scummvm-synergy/"><u>Perfecting Your PC Classics Experience: Full HD & ScummVM Synergy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-error-a00f425d-from-windows-1011-camera-app/"><u>Removing Error A00F425D From Windows 10/11 Camera App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-non-ecobee-non-amazon-smart-thermostat-wins-in-our-tests-insights-from-zdnet/"><u>Top-Rated Non-Ecobee, Non-Amazon Smart Thermostat Wins in Our Tests - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-functionality-in-dormant-windows-batch-files/"><u>Unlocking Functionality in Dormant Windows Batch Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-art-of-windows-11s-in-place-revamping/"><u>Unveiling the Art of Windows 11'S In-Place Revamping</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-best-tool-to-translate-youtube-video-to-arabic/"><u>Updated Best Tool to Translate YouTube Video to Arabic</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +98,22 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-perfect-picture-pro-the-best-phones-for-uncompromised-4k-video-quality/"><u>[New] Perfect Picture Pro The Best Phones for Uncompromised 4K Video Quality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-conference-room-to-youtube-google-meet-broadcasting-for-2024/"><u>[Updated] From Conference Room to Youtube Google Meet Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-scripting-developing-a-countdown-mechanism-in-obs/"><u>[Updated] In 2024, Elite Scripting Developing a Countdown Mechanism in OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-windows-media-player-your-cd-conversion-companion/"><u>[Updated] Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/5bci5a626yg45poh77ya5aac5l2v5ywn6lk75l255so5pya5l2z56gs56kf5ykz5lu96luf6auu77ym5a6m576o5zyw5a2y5yplusw5yuv5owl56ob56kf5y23/"><u>專家選擇：如何免費使用最佳硬碟備份軟體，完美地存取動態磁碟卷</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-cortana-service-in-win11/"><u>Deactivating Cortana Service in Win11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-and-use-the-free-ogg-media-player-compatible-with-pc-and-mac/"><u>Download & Use the Free OGG Media Player Compatible with PC & Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-of-crafting-crystal-clear-vhs-graphics-online/"><u>In 2024, The Essentials of Crafting Crystal-Clear VHS Graphics Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-skies-with-microsoft-flight-simulator-x-gold-edition-a-comprehensive-review-of-the-leading-aeronautical-gaming-experience/"><u>Master the Skies with Microsoft Flight Simulator X: Gold Edition - A Comprehensive Review of The Leading Aeronautical Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-navigate-and-control-windows-function-fn-button/"><u>Quick Guide to Navigate & Control Windows' Function (Fn) Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-file-upload-errors-in-chrome-for-windows-users/"><u>Say Goodbye to File Upload Errors in Chrome for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shifting-window-bar-through-decades-1985-2023/"><u>The Shifting Window Bar Through Decades (1985-2023)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-permanent-file-removal-with-customized-setup-of-windows-trash-11/"><u>Unleash Permanent File Removal with Customized Setup of Windows Trash (11)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubers-spotlighting-niche-gaming-subcultures-for-2024/"><u>Youtubers Spotlighting Niche Gaming Subcultures for 2024</u></a></li>
+</ul></div>
+

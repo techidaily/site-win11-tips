@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows 11 'Get Support' Glitch
-date: 2024-12-16T09:46:33.707Z
-updated: 2024-12-22T00:20:20.054Z
+date: 2024-12-20T21:57:57.875Z
+updated: 2024-12-27T20:28:51.537Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -80,11 +80,20 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 1. Type **VPN settings** in Windows Search and select **Open** next to the search result.  
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -95,18 +104,15 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 1. You can use the Services app to manage all the Windows services. To open that, press **Win + R** and type **services.msc**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -125,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
@@ -135,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  For uninstallation, you can easily [uninstall a Windows app via Settings](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/). Once done, go to the [Get Help Microsoft Store page](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T). Click on the **Get in Store app** button and download it from there.
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
@@ -150,23 +152,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>[Updated] 2024 Approved Cutting Edge Creativity Choosing High-Quality Camera Lenses</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-techniques-for-accurate-ps3-playback-rendering/"><u>[Updated] In 2024, Techniques for Accurate PS3 Playback Rendering</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/er-nu-den-ideale-tid-til-en-nyt-affaldssorteringsprogram-discover-movavis-multimedia-software/"><u>Er Nu Den Ideale Tid Til en Nyt Affaldssorteringsprogram? Discover Movavi's Multimedia Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/explorerexe-error-solved-and-secured/"><u>Explorer.exe Error: Solved & Secured</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-basicwin10grabber-free-software-download/"><u>In 2024, BasicWin10Grabber - Free Software Download</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-system-restore-a-step-by-step-guide-to-using-clonezillas-partimage-on-windows-os/"><u>Mastering System Restore: A Step-by-Step Guide to Using Clonezilla's Partimage on Windows OS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-voice-changers-essentials-for-video-makers-for-2024/"><u>Prime Voice Changers Essentials for Video Makers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-time-discrepancies-in-chrome-windows/"><u>Resolving Time Discrepancies in Chrome (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-microsoft-error-resolution-on-w11/"><u>Step-by-Step Guide to Microsoft Error Resolution on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-sluggishness-solutions-for-a-swift-windows-11/"><u>Tackling Sluggishness: Solutions for a Swift Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-graphics-performance-in-windows-11-pcs/"><u>Tailor Graphics Performance in Windows 11 PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/versatile-intro-editing-app-for-your-device-repertoire-for-2024/"><u>Versatile Intro Editing App for Your Device Repertoire for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-world-wonders-per-screen-themes-for-multitaskers-on-windows/"><u>Window World Wonders: Per Screen Themes for Multitaskers on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -174,3 +159,24 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-exploring-alternatives-to-game-bar-for-video-recording/"><u>[Updated] In 2024, Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premium-eco-conscious-video-recorders-how-to-use-for-2024/"><u>[Updated] Premium Eco-Conscious Video Recorders How to Use for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-saving-your-iphone-screen-a-step-by-step-approach/"><u>[Updated] Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-vital-video-forms-for-captivated-viewers-for-2024/"><u>6 Vital Video Forms for Captivated Viewers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-package-management-in-w11-your-wingetuser-guidebook/"><u>Effortless Package Management in W11 - Your WingetUser Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-net-installation-required-app-problems-in-windows/"><u>Fixing .NET Installation Required App Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rejuvenate-silent-computer-sounds-effectively/"><u>How to Rejuvenate Silent Computer Sounds Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/light-up-the-room-cursor-enhancement-tips-in-win1011/"><u>Light Up the Room: Cursor Enhancement Tips in Win10/11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-best-alternatives-to-pinnacle-studio/"><u>Mac Users, Rejoice! Best Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-locate-and-execute-hidden-registry-tools/"><u>Methods to Locate and Execute Hidden Registry Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-iphone-discover-simple-solutions-to-restore-audio/"><u>Silent iPhone? Discover Simple Solutions to Restore Audio</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-on-windows-end-black-pixels/"><u>Unblocking Steam on Windows: End Black Pixels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x9b-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X9b Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-troubleshooting-overcoming-zero-fault-error/"><u>Win11 Troubleshooting: Overcoming Zero Fault Error</u></a></li>
+</ul></div>
+

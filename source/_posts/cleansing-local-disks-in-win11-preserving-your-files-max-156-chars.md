@@ -1,7 +1,7 @@
 ---
 title: "Cleansing Local Disks in Win11: Preserving Your Files (Max 156 Chars)"
-date: 2024-08-16T02:42:51.844Z
-updated: 2024-08-17T02:42:51.844Z
+date: 2024-12-26T16:59:57.452Z
+updated: 2024-12-27T18:09:37.940Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable System Restore
 
@@ -37,15 +45,14 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 3. Click **Create a restore point** to open a System Properties window.
 4. Press the **Configure** button.  
 ![The Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-configure-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the **Disable system protection** option.  
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 6. Select **Apply** to save the system protection settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
@@ -59,24 +66,15 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 1. Open this [Convert video to MP4](https://video.online-convert.com/convert-to-mp4) app.
 2. Then click the **Convert** drop-down menu to select **Video**.  
 ![The video format selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-selection-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Select the format of your current video files.
 4. Click **Choose File** \> **From Device** to select one or more videos to convert.  
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Press **Open** to add the selected videos.
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
  JPG is like the image equivalent of the MP4 format with its lossy compression. Image files with the JPG format are typically smaller than the PNG of BMP alternatives. If your C: drive includes many PNG or BMP images, converting them to JPGs will probably also free up a significant amount of storage space.
@@ -86,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reduce the Recycle Bin’s Size
 
  Windows 11’s Recycle Bin stores deleted files until emptied. You can reduce the maximum amount of space allocated to the Recycle Bin for storing files. This will mean your Recycle Bin will reach max size sooner rather than later, and you’ll need to empty it more often.
@@ -100,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -108,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Save Files to a Cloud Storage Service
 
  Cloud storage enables you to save your user files with online storage providers. OneDrive, Dropbox, and Google Drive are the big three cloud storage providers that offer free storage ranging from two to 15 gigabytes. OneDrive is the cloud storage included with Windows 11\. However, Google Drive offers the most space with 15 gigabytes of free cloud storage.
@@ -115,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
  So, you can potentially free up 15 gigabytes of local storage space by saving user files to Google Drive instead of your PC’s C: drive. You only need to set up a Google Account to get 15 GBs of free cloud storage. Furthermore, [adding Google Drive to File Explorer](https://www.makeuseof.com/windows-google-drive-file-explorer-add/) with the app will enable you to access that cloud storage within Windows 11’s file manager.
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
@@ -132,8 +136,9 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
  You won’t need to clean your C: drive often if you free up more storage space with the methods above. The compression methods alone could free up many gigabytes of drive storage space on your PC.
@@ -142,11 +147,29 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
  This is how you can free up C: drive space on a Windows 11 PC without erasing files.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-weave-webcomic-wonders-with-giphy-for-2024/"><u>[New] Weave Webcomic Wonders with Giphy for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-uncovering-untapped-territories-in-meme-culture/"><u>[Updated] Uncovering Untapped Territories in Meme Culture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>2024 Approved Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-15-inch-asus-notebook-available-for-250-on-walmart-including-all-essential-ports/"><u>Budget-Friendly 15-Inch Asus Notebook Available for $250 on Walmart, Including All Essential Ports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-older-os-practical-steps-beyond-windows-11/"><u>Enhance Older OS: Practical Steps Beyond Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-stuck-loading-screens-successful-strategies-for-fixing-pubgs-launch-difficulties-in-2eb4/"><u>No More Stuck Loading Screens: Successful Strategies for Fixing PUBG's Launch Difficulties in 2Eb4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-w11-desktop-with-taskbar-pins/"><u>Optimizing W11 Desktop with Taskbar Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-non-functional-slack-alerts-on-pcs/"><u>Quick Fixes for Non-Functional Slack Alerts on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-missing-file-thumbnails-in-microsofts-newest-os/"><u>Remedy Missing File Thumbnails in Microsoft's Newest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-discrepanranks-between-prime-audio-and-subtitle-feedback-on-windows-11/"><u>Resolve Discrepanranks Between Prime Audio & Subtitle Feedback on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-blue-screen-of-death-bsod-in-hypervisor-mode-on-windows-11-a-step-by-step-guide/"><u>Solving the Blue Screen of Death (BSoD) in Hypervisor Mode on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-a-seatech-external-usb-burner-for-blu-ray-disc-authoring-a-review/"><u>The Pros and Cons of Using a SeaTech External USB Burner for Blu-Ray Disc Authoring: A Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-virtualbox-and-efail-error-0x80004005/"><u>Troubleshooting Windows Virtualbox and E_FAIL (Error: 0X80004005)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-the-potential-of-closeup-cinematography-for-2024/"><u>Unlocking the Potential of Closeup Cinematography for 2024</u></a></li>
+</ul></div>
+

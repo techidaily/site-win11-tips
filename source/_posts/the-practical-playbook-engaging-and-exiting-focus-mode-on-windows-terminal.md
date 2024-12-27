@@ -1,7 +1,7 @@
 ---
 title: "The Practical Playbook: Engaging & Exiting Focus Mode on Windows Terminal"
-date: 2024-12-18T07:29:55.113Z
-updated: 2024-12-22T04:30:36.280Z
+date: 2024-12-24T23:15:38.863Z
+updated: 2024-12-27T19:06:25.650Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Windows Terminal Settings
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 5. Next, click on the**Save** button to apply the changes.
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Run Command
 
@@ -60,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
@@ -80,13 +80,18 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 2. Select the**Actions** tab in the left pane, then click the**Add new** button.  
 ![Create a Shortcut Key to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-a-shortcut-key-to-enable-focus-mode.jpg)
 3. Next, scroll down and select**Toggle focus mode** from the option list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
 5. Finally, click**Save** to apply the changes and close the Settings window.
 
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use Windows File Explorer
@@ -98,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 wt.exe /focus
 
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
 
@@ -122,22 +123,24 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cut-to-perfection-10-premier-online-video-editors-ranked/"><u>[Updated] 2024 Approved Cut to Perfection 10 Premier Online Video Editors Ranked</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-camcorders-for-deer-stalking-success/"><u>[Updated] In 2024, Best Camcorders for Deer Stalking Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>[Updated] In 2024, Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tackling-live-broadcasts-the-intersection-of-obs-and-zoom-for-2024/"><u>[Updated] Tackling Live Broadcasts The Intersection of OBS and Zoom for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210730939-9781958518373-carry-on/"><u>Carry On | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-error-a00f425d-on-windows-camera-application/"><u>Eradicate Error A00F425D on Windows Camera Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-winstall-for-swift-grouped-app-deployments-on-windows-11/"><u>Harnessing the Power of Winstall for Swift Grouped App Deployments on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-functionality-of-cortana-on-latest-version-windows-11/"><u>How to Restore Functionality of Cortana on Latest Version Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v29-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V29 Unlock Without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-x6-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco X6 Screen | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6 Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-white-screen-on-microsoft-appstore/"><u>Overcoming White Screen on Microsoft Appstore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-silent-systems-voice-finding-sound-solutions/"><u>Restore Silent System's Voice: Finding Sound Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-issue-of-full-disk-utilization-on-windows-11/"><u>Solving the Issue of Full Disk Utilization on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-joy-with-these-best-free-players-win/"><u>Streamline Joy with These Best FREE Players (Win)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-wacatacbmls-deception-in-your-windows-ecosystem/"><u>Unmasking Wacatac.B!ml's Deception in Your Windows Ecosystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-pin-length-in-modern-windows/"><u>Upgrading PIN Length in Modern Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>2024 Approved Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/56gu5lplusd5peg5asx55yo77ya5l255so6ag25bcw6l2v5lu25bcg55so5oi36ywn572u5pah5lu25pcs6lplusq5yiw5paw5py65zmo/"><u>确保无失眨：使用顶尖软件将用户配置文件搬运到新机器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-iphones-capabilities-using-ingenious-voice-command-shortcuts-a-comprehensive-guide-by-techexpertzdnet/"><u>Boost Your iPhone's Capabilities Using Ingenious Voice Command Shortcuts - A Comprehensive Guide by TechExpertZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/clipcartoon-detailed-assessment-and-guide-2024/"><u>ClipCartoon Detailed Assessment & Guide 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-tutorial-apple-maps-on-windows/"><u>Comprehensive Tutorial: Apple Maps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-secrets-of-changing-software-size-with-keys-on-win11/"><u>Discovering the Secrets of Changing Software Size With Keys on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-puzzling-sound-outages-in-windows-11-easy-fixes-and-strategies/"><u>Eliminating Puzzling Sound Outages in Windows 11: Easy Fixes and Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-100-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-13-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 13 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-conquer-the-0x80004005-failure-in-virtualbox-windows/"><u>How to Conquer the 0X80004005 Failure in VirtualBox Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-antimalware-software-eating-my-systems-ram/"><u>Is Antimalware Software Eating My System's RAM?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-latest-in-360-cameras/"><u>Navigating the Latest in 360 Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-replace-missing-msvcr120dll-in-windows-os/"><u>Quick Guide to Replace Missing msvcr120.dll in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unavailable-experience-error-in-roblox-for-windows-users/"><u>Resolving Unavailable Experience Error in Roblox for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-cloud-connectivity-woes/"><u>Tackling Steam Cloud Connectivity Woes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-to-dvd-ripping-into-iso-files-ranking-the-best-methods/"><u>The Ultimate Guide to DVD Ripping Into ISO Files : Ranking the Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-quick-help-in-windows-11-os/"><u>Triggering Quick Help in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-steer-clear-of-chatbots-for-windows-11-passwords/"><u>Why Steer Clear of Chatbots for Windows 11 Passwords</u></a></li>
 </ul></div>
 

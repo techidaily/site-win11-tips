@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Past: 7 Windows 11 Features From Yesteryears"
-date: 2024-08-16T02:41:33.847Z
-updated: 2024-08-17T02:41:33.847Z
+date: 2024-12-24T21:14:31.964Z
+updated: 2024-12-27T20:03:21.681Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  Here are some ancient Windows features you can still find and use in Windows 11\. Some have been hanging around, unchanged, since the late 80s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Command Prompt
 
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
@@ -30,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. The Run Dialog
 
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -46,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
@@ -62,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  The Control Panel has been a part of the OS since Windows 1.0\. But it was in Windows XP that it became close to how it remains today, with better navigation and section icons. It began to be depreciated more than 10 years ago in Windows 8\. This depreciation accelerated in Windows 10 with the introduction of the modern Settings app. Maybe Windows 12 will finally have a single location for all user settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disk Clean-up
 
 ![The Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-cleanup.jpg)
@@ -80,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 ## 6\. The Character Map
 
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
 
@@ -91,13 +91,15 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
  The fact that the Character Map has never been particularly easy or intuitive to use adds further confusion. If it is no longer needed, get rid of it. If it's still used, improve it. It doesn't strike us as challenging to update, but perhaps it's just at the bottom of Microsoft's to-do list.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. File Explorer
 
 ![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
@@ -108,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-efficiently-remove-discord-server-from-pc-and-mobile-for-2024/"><u>[New] Efficiently Remove Discord Server From PC & Mobile for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-lessons-with-ease-top-screen-recorders/"><u>[Updated] 2024 Approved Capturing Lessons with Ease Top Screen Recorders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-learn-to-post-multimedia-video-edition-on-twitter/"><u>[Updated] Learn to Post Multimedia Video Edition on Twitter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[Updated] Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-master-the-art-of-video-cuts-essential-tools-for-mac-users/"><u>2024 Approved Master the Art of Video Cuts Essential Tools for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-drive-selection-your-key-to-effortless-gaming/"><u>Decoding Drive Selection: Your Key to Effortless Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-leading-av1-video-transcoders-for-converting-av1-to-mp4-hevc-formats-and-beyond/"><u>Discover the Leading AV1 Video Transcoders for Converting AV1 to MP4, HEVC Formats and Beyond</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-your-ideal-device-a-comparison-of-iphones-and-android-phones/"><u>Finding Your Ideal Device: A Comparison of iPhones and Android Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-numeric-keys-status-into-win11s-systray/"><u>Integrating Numeric Keys Status Into Win11's SysTray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tools-proficiently-using-powershell-for-archive-operations/"><u>Pro Tools: Proficiently Using PowerShell for Archive Operations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/remote-work-perfection-unveiled-an-in-depth-look-at-the-lightest-most-efficient-laptops-on-the-market-s-picks/"><u>Remote Work Perfection Unveiled: An In-Depth Look at the Lightest, Most Efficient Laptops on the Market 'S Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-tech-hacks-how-to-perform-screen-reflection-on-an-lg-display/"><u>Seamless Tech Hacks: How to Perform Screen Reflection on an LG Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-darkened-widows-remote-connection/"><u>Strategies to Combat Darkened Widows Remote Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-changing-windows-11-preferences/"><u>Streamlining System Operations: Changing Windows 11 Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-windows-subsystem-after-upgrade/"><u>Troubleshooting Tips for Windows Subsystem After Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-control-touchscreen-responsiveness-on-windows-pcs/"><u>Unlock the Potential: Control Touchscreen Responsiveness on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winterize-your-windows-11-with-7-tips/"><u>Winterize Your Windows 11 with 7 Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Windows: Stop Autolock Functionality"
-date: 2024-12-14T17:28:23.950Z
-updated: 2024-12-22T01:09:22.103Z
+date: 2024-12-22T16:40:48.221Z
+updated: 2024-12-27T17:29:06.037Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Windows 10 Automatically Locking Itself?
 
  Windows automatically locks itself for one simple reason: to protect your privacy.
@@ -48,7 +44,7 @@ You can stop Windows from automatically locking itself by:
 Now that we know how to do it, let's dive into the steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disabling Windows Sign-In
@@ -61,11 +57,11 @@ Now that we know how to do it, let's dive into the steps.
 
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
- Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
 
 ### Disabling Sleep Mode and Screen Saver
 
@@ -75,6 +71,10 @@ Now that we know how to do it, let's dive into the steps.
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
 
 * Hit the Windows key again, type “screen saver”, and click**Turn screen saver on or off** to open**Screen Saver Settings** .
@@ -83,7 +83,11 @@ Now that we know how to do it, let's dive into the steps.
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
@@ -101,10 +105,6 @@ So, edit Windows Registry only when nothing else works.
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
 
 Finally, restart your computer to see if a lock screen appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Windows Hello to Make Windows’ Auto-Locking Bearable
 
@@ -127,20 +127,18 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>[New] Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aunching-winning-steps-for-an-epic-youtube-gaming-channel/"><u>[New] Launching Winning Steps for an Epic YouTube Gaming Channel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>[Updated] In 2024, Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-drone-cinematography-guide/"><u>2024 Approved Drone Cinematography Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-managing-stress-a-comprehensive-guide/"><u>ChatGPT as a Tool for Managing Stress: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-to-address-server-stumbled-issues-on-windows-store/"><u>Essential Tips to Address Server Stumbled Issues on Windows Store</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/583609--i-am-indigo/"><u>I Am Indigo | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0x800700e1-windows-errors/"><u>Overcoming 0X800700E1 Windows Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overriding-no-notify-settings-on-windows-11-cameras/"><u>Overriding No-Notify Settings on Windows 11 Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-process-for-adding-msibundle-files-to-devices-via-store/"><u>Simplified Process for Adding MsiBundle Files to Devices via Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-operators-top-nine-fixes-for-rigid-windows-video-performance/"><u>Smooth Operators: Top Nine Fixes for Rigid Windows Video Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ins-and-outs-of-configuring-services-on-win11-boots-up/"><u>The Ins and Outs of Configuring Services on Win11 Boots Up</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-and-configure-with-ease-control-panel-steps/"><u>Unlock & Configure with Ease: Control Panel Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-2-ways-to-fade-audio-in-ableton/"><u>[Updated] 2024 Approved 2 Ways to Fade Audio in Ableton</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[Updated] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-youtube-rich-list-pinnacle/"><u>[Updated] In 2024, Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>Efficient Techniques Accelerating or Decelerating Instagram Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-effective-multiple-views-in-windows/"><u>Enabling Effective Multiple Views in WIndows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-your-pc-is-prepared-a-guide-to-assessing-compatibility-with-new-graphics-cards/"><u>Ensuring Your PC Is Prepared: A Guide to Assessing Compatibility with New Graphics Cards</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-making-everyday-moments-memorable-on-youtube/"><u>In 2024, Making Everyday Moments Memorable on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-policy-settings-with-three-perspectives/"><u>Mastering Windows Policy Settings with Three Perspectives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolve-microsoft-office-error-0x80041015/"><u>Quick Guide to Resolve Microsoft Office Error 0X80041015</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scaling-down-windows-memory-spikes-from-edge-webview2/"><u>Scaling Down Windows Memory Spikes From Edge WebView2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-bypass-windows-you-dont-have-permission-message/"><u>Strategies to Bypass Windows You Don't Have Permission Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-video-conversion-turning-mkv-into-mp4-in-windows/"><u>Swift Video Conversion: Turning MKV Into MP4 in Windows</u></a></li>
 </ul></div>
 

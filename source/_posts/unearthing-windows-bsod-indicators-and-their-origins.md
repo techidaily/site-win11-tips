@@ -1,7 +1,7 @@
 ---
 title: Unearthing Windows BSOD Indicators & Their Origins
-date: 2024-08-16T02:41:53.309Z
-updated: 2024-08-17T02:41:53.309Z
+date: 2024-12-22T21:47:31.637Z
+updated: 2024-12-27T22:49:50.271Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 
  You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Find and Read the BSOD Log Files in the Event Viewer
 
  The Event Viewer is a tool developed by Microsoft for users to view system and program-related events in Windows. These events can include system errors, warnings, informational messages, and more. In other words, every issue you encounter (whether a minor glitch or a major crash) will be logged in the Event Viewer for later investigation and sharing with Microsoft.
@@ -37,32 +34,30 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 
 1. Right-click on the Windows icon in the taskbar and choose **Event Viewer** from the context menu.  
 ![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
-![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
 3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
 4. Now, move to the Event Level section and choose **Error**.  
 ![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
 
 1. Click **OK** to proceed.
 2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
 ![Create a filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/name-event-viewer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once the view is created, you will be presented with a list of errors that occurred during the time frame you selected earlier. You can sort this information further in the Date and time section.  
 ![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, locate the BSOD using details like the date and time again.
 5. Once you find the targeted log, click on it.
 6. Check both the General and Details tabs to get information about this error.
@@ -70,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
  Once you find the error code associated with the crash and the cause, you can look for solutions online, or head over to our guide that discusses [how to fix blue screen errors in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) if it's a bsod.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Find and Read the BSOD Log Files in the Registry Editor
 
  In case using the Event Viewer does not work for you for some reason, you can use another Windows utility to locate and study the BSOD log files—the Registry Editor.
@@ -91,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 7. Name this value as **DisplayParameters** and double-click on it.
 8. Under Value data, type 1 and click **OK**.  
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 9. Once done, restart your PC.
 
  Upon reboot, you should be able to view the log files without any problems.
@@ -110,17 +103,28 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 2. In the following window, choose **System and Security** \> **Security and Maintenance**.  
 ![Security and maintenance settings in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/security-maintenance.jpg)
 3. Click on **Maintenance** and then select **View reliability history**.  
-![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
 
  It is also a good idea to copy this information and send it to Microsoft for review if you cannot find a solution online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Learn How to Read Your BSOD Log Files and Resolve Your Crashes
 
@@ -130,11 +134,33 @@ thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f4
 
  In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[New] Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quick-guide-to-recording-presentations-using-webcam/"><u>[Updated] 2024 Approved Quick Guide to Recording Presentations Using Webcam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-zip-to-srt-converting-zip-extracts-to-subtitle-files/"><u>[Updated] In 2024, Zip to SRT Converting ZIP Extracts to Subtitle Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>2024 Approved Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smallscreenvid-recorder-critique/"><u>2024 Approved SmallScreenVid Recorder Critique</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boost-your-internet-reach-with-the-user-friendly-ac1200-wifi-expander-tp-link-re3eview/"><u>Boost Your Internet Reach with the User-Friendly AC1200 WiFi Expander, TP-Link RE3eview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-your-winterral-favourite/"><u>Design Your WinTerral Favourite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-win-11-mobility-center-effortlessly/"><u>Disable Win 11 Mobility Center Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-with-top-windows-to-dos/"><u>Enhancing Productivity with Top Windows To-Dos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-the-innovative-features-of-anthropics-latest-offerings-complimentary-ios-app-and-premier-corporate-plan-launched-get-insights-from-zdnet/"><u>Explore the Innovative Features of Anthropic's Latest Offerings: Complimentary iOS App and Premier Corporate Plan Launched – Get Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-picku-the-best-photo-editor-for-android-our-in-depth-review-for-2024/"><u>Is PickU The Best Photo Editor for Android? Our In-Depth Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-critical-application-hiccups-on-pc/"><u>Mitigating Critical Application Hiccups on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-directx-download-update-seamlessly/"><u>Navigating DirectX: Download, Update Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-access-via-win11-external-drives/"><u>Optimizing File Access via Win11 External Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-spec-limits-on-windows-game-capturing/"><u>Overcoming Spec Limits on Windows Game Capturing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resizing-photos-made-simple-the-top-6-tricks-for-windows-11-users/"><u>Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sm-bus-controller-installation-package-available-for-various-windows-versions-including-11-10-8-and-7/"><u>SM Bus Controller Installation Package - Available for Various Windows Versions Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-scheduling-merging-to-do-with-ifttt-services/"><u>Smart Scheduling: Merging To-Do with IFTTT Services</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-20-must-have-photo-slideshow-applications-windows-mac-and-online-options/"><u>Top 20 Must-Have Photo Slideshow Applications : Windows, Mac & Online Options</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Resolving Mute Audio Issue for Screen Recordings
-date: 2024-12-16T23:56:58.585Z
-updated: 2024-12-22T01:05:19.139Z
+date: 2024-12-21T23:20:07.418Z
+updated: 2024-12-27T19:44:42.285Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  Right-click on the **PowerPoint** shortcut and select **Run as administrator**. After that, try to create a screen recording and see if PowerPoint records the audio this time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Allow Desktop Apps to Use Your Microphone
 
  Another reason why PowerPoint might fail to record audio is if you have denied desktop apps permission to access your microphone. Here's how you can change that.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 2. Head to **Privacy & security > App permissions > Microphone**.
 3. Enable the toggle next to **Let desktop apps access your microphone**.  
 ![Allow Desktop Apps to Access Microphone on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-desktop-apps-to-access-microphone-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you complete the above steps, all your desktop apps, including PowerPoint, should be able to use your microphone.
 
@@ -61,15 +61,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Under the **Input** tab, select your preferred audio device.  
 ![Select Default Microphone in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-default-microphone-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Is your microphone not showing up in the Settings app? Apply the necessary [fixes to get Windows to detect your microphone](https://www.makeuseof.com/windows-not-detecting-microphone/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Hardware Graphics Acceleration in PowerPoint
 
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 7. Click **OK** to apply the changes.  
 ![Disable Hardware Acceleration in PowerPoint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-hardware-acceleration-in-powerpoint.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart PowerPoint after this for changes to take effect.
 
 ## 5\. Run the Windows Recording Audio Troubleshooter
@@ -99,11 +95,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Click the **Run** button next to **Recording Audio**.  
 ![Recording Audio Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/recording-audio-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Allow the troubleshooter to find and fix any issues, and then check if PowerPoint can record the audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Services
 
@@ -122,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  Using the Services app isn't the only way to manage services on Windows. You can also use Task Manager, Command Prompt and PowerShell to [start, stop or restart services on Windows](https://www.makeuseof.com/how-to-start-stop-service-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Start PowerPoint in Safe Mode
@@ -148,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Update PowerPoint on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-powerpoint-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Microsoft Office to update PowerPoint, and the issue should not occur after that.
@@ -165,37 +161,20 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the problem persists even after this, you can run the Office repair tool again to perform an **Online Repair**. Note that this process may take a little longer to complete, as the tool will attempt a more thorough repair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get PowerPoint to Record Your Audio Again on Windows
 
  It can be frustrating when PowerPoint stops recording audio on your Windows computer. In any case, one of the above tips should help fix the underlying issue for good.
 
  If you are annoyed by a similar issue, here are some troubleshooting tips that will help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tranquil-repos-no-pressure-pc-games/"><u>[New] 2024 Approved Tranquil Repos No-Pressure PC Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleash-your-creative-potential-with-picart-clear-skies/"><u>[Updated] In 2024, Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10plus-preferred-no-pay-webm-player-options/"><u>10+ Preferred No-Pay WebM Player Options</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-2023-friendly-strategies-for-obtaining-status-video-files/"><u>2024 Approved 2023-Friendly Strategies for Obtaining Status Video Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-deadly-failure-error-0x8007045d-on-win-os/"><u>Disabling Deadly Failure - Error 0X8007045D on Win OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-and-overcoming-windows-audiotrack-error-code-9999/"><u>Dissecting and Overcoming Windows Audiotrack Error Code 9999</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/diverse-forms-of-remote-controlled-flyers/"><u>Diverse Forms of Remote-Controlled Flyers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-nord-3-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209982833-9781071536711-meditazione-guida-per-principianti-passo-dopo-passo-alla-consapevolezza-e-ad-una-connessione/"><u>Meditazione: Guida Per Principianti Passo Dopo Passo Alla Consapevolezza E Ad Una Connessione | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-windows-0x0000011b-crash-problem/"><u>Mending the Windows 0X0000011B Crash Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/most-effective-dvd-to-mp4-transformation-tools-of-2erwindows-os-windows-10-and-11-edition-2024/"><u>Most Effective DVD to MP4 Transformation Tools of 2erWindows OS: Windows 10 and 11 Edition, 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-file-sharing-windows-best-5-choices/"><u>Navigating File Sharing: Windows' Best 5 Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restart-tactics-for-fixing-microsoft-store-errors/"><u>Restart Tactics for Fixing Microsoft Store Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-a-non-reversible-trash-bin-for-files-a-windows-11-guide/"><u>Setting up a Non-Reversible Trash Bin for Files: A Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-the-complexities-of-error-code-0x800736cc/"><u>Simplifying the Complexities of Error Code 0X800736CC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-enhancements-for-network-performance/"><u>Taskbar Enhancements for Network Performance</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/standing-the-role-of-dimensions-in-youtubes-viewer-engagement-for-2024/"><u>Understanding the Role of Dimensions in YOUTUBE's Viewer Engagement for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -204,3 +183,20 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-behind-the-scenes-iphone-video-loops-unveiled-for-2024/"><u>[New] Behind the Scenes IPhone Video Loops Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-pro-to-m1-max-assessing-the-leap-in-apples-chip-design/"><u>[New] M1 Pro to M1 Max Assessing the Leap in Apple's Chip Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-low-cost-video-conferencing-software-options/"><u>[Updated] 2024 Approved Optimal Low-Cost Video Conferencing Software Options</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-androidmac-method-for-saving-snaps-for-2024/"><u>[Updated] Android/Mac Method for Saving Snaps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-a-windows-trash-bin-for-irreversible-file-disposal-11/"><u>Configuring a Windows Trash Bin for Irreversible File Disposal (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failing-copy-functionality-in-windows-11/"><u>Correcting Failing Copy Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-mp3-conversion-producing-high-quality-audio-cds-via-imgburn-on-pc/"><u>Easy Mp3 Conversion: Producing High-Quality Audio CDs via ImgBurn on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12plus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12+ 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-gt-5-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme GT 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-specific-app-failures-in-windows-os/"><u>Overcoming Device-Specific App Failures in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/permanent-file-disposal-guide-for-windows-11-desk-bin/"><u>Permanent File Disposal Guide for Windows 11 Desk Bin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unpredictability-of-creative-writing-outside-algorithms/"><u>The Unpredictability of Creative Writing Outside Algorithms</u></a></li>
+</ul></div>
+

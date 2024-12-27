@@ -1,7 +1,7 @@
 ---
 title: Reversing Windows 11'S Default Search Bar to Icon Format
-date: 2024-12-15T16:02:19.060Z
-updated: 2024-12-22T05:41:32.797Z
+date: 2024-12-24T16:02:01.537Z
+updated: 2024-12-27T22:45:30.428Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happened to the Windows 11 Taskbar Search Icon?
 
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're keeping Windows 11 updated, you would have had your taskbar search icon change over to a larger bar-shaped icon.
 
@@ -44,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  Thankfully, there's a catch-all solution to many of these design changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restoring Features with ViVeTool
 
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore the Windows 11 Search Bar Icon
@@ -76,7 +76,7 @@ Next, input the following code into the terminal window:
  Then, all you have to do is restart. Your search icon should return to its original style.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features Change, Even if You Don’t Want Them To
@@ -100,16 +100,19 @@ Next, input the following code into the terminal window:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xpert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] 2024 Approved Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/10-most-popular-mp3-recorder-for-windows-and-mac-for-2024/"><u>10 Most Popular MP3 Recorder for Windows and Mac for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-taskbar-icon-banners/"><u>How to Reinstate Taskbar Icon Banners</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-nvidia-cp-access-denied-in-ws1110/"><u>Overcoming Nvidia CP Access Denied in WS11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-razer-devices-with-synapse-in-windows-11/"><u>Reconnecting Lost Razer Devices with Synapse in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-brains-behind-chatgpt-finding-out-who-owns-this-ai-platform/"><u>The Brains Behind ChatGPT – Finding Out Who Owns This AI Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-the-missing-user32dll-file-quickly/"><u>Troubleshoot and Repair the Missing 'User32.dll' File Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-steam-access-post-captcha-error/"><u>Unlock Steam Access Post-CAPTCHA Error</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-potential-elevating-content-impact-for-2024/"><u>[New] Unlocking Instagram's Potential Elevating Content Impact for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[Updated] 2024 Approved Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-entering-the-world-of-content-creation-sign-up-tutorial-for-2024/"><u>[Updated] Entering the World of Content Creation Sign Up Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-marketplace-error-0x80131500/"><u>Correcting Windows Marketplace Error 0X80131500</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-openai-essential-information-and-facts/"><u>Decoding OpenAI: Essential Information and Facts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-gopro-video-editing-a-step-by-step-guide-for-2024/"><u>Effortless GoPro Video Editing A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-defaults-for-win11-terminal/"><u>Guide to Restoring Defaults for Win11 Terminal</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-civi-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Civi 3 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-maximizing-health-outreach-via-fb-advertising/"><u>In 2024, Maximizing Health Outreach via FB Advertising</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-pro-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 Pro 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-restricted-permissions-setup-for-windows-10-users/"><u>Navigate to Restricted Permissions Setup for Windows 10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-active-errors-with-ccleaner-on-windows-1011/"><u>Resolving Active Errors with CCleaner on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-switch-activatingdeactivating-bing-ai-windowly-search/"><u>Swift Switch: Activating/Deactivating Bing AI Windowly Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tricks-for-net-revival-on-your-os-max-156/"><u>Top Tricks for .NET Revival on Your OS (Max 156)</u></a></li>
 </ul></div>
 

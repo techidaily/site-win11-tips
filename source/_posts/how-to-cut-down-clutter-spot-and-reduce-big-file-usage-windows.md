@@ -1,7 +1,7 @@
 ---
 title: "How to Cut Down Clutter: Spot and Reduce Big File Usage Windows"
-date: 2024-08-16T02:36:54.311Z
-updated: 2024-08-17T02:36:54.311Z
+date: 2024-12-26T17:50:24.657Z
+updated: 2024-12-27T19:35:07.237Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
  Having found that, let's look at how to find the data type that occupies the most space.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Identify the Data Type Occupying the Most Space on Your Crowded Drive
 
  Applications and games, system and temporary files, garbage on the desktop, and other data do not take up the same amount of disk space. While some consume hardly any space, others occupy a considerable amount.
@@ -45,15 +42,13 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 4. In this section, you can see what type of data occupies the most space on your currently crowded and other drives.
 5. Click on**Show more categories** to view other categories that occupy the most real estate.  
 ![Opening the Show More Categories Option in the Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-opening-the-show-more-categories-option-in-the-storage-tab-of-windows-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Free Up Your Windows Storage Drive
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
@@ -68,18 +63,20 @@ Follow these steps to remove extra apps and features:
 4. Then click on**Apps and Features** .
 5. Select**Size (Large to small)** from the dropdown menu next to**Sort by** .  
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 6. Determine which apps are redundant and taking up the most disk space.
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Manage System and Reserved Files Storage
 
@@ -87,15 +84,16 @@ Follow these steps to remove extra apps and features:
 
 ![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
 
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
 
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 3\. Manage Temporary Files Storage
 
  Temporary files usually consume the most space on your drives after system files and installed applications. As their name implies, they are temporary files that only speed up Windows processes. Does that mean you can safely delete them? Yes, but you'll need to be careful. Here are some tips for clearing temporary files wisely:
@@ -111,20 +109,21 @@ Follow these steps to remove extra apps and features:
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Avoid Cluttering Up Your Precious Disk Space
 
  Having insufficient disk space and not knowing what's causing it can be a horrible experience. Hopefully, using the tips in this article, you will be able to identify what apps and files are draining your disk storage the most.
 
  If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +132,21 @@ Follow these steps to remove extra apps and features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ps5-storage-revamped-topping-10-external-units/"><u>[New] 2024 Approved PS5 Storage Revamped Topping 10 External Units</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uick-fixes-to-enhance-your-youtube-reach-for-2024/"><u>[New] Quick-Fixes to Enhance Your YouTube Reach for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-cpu-stewardship-managing-the-power-of-vanguards-sleep-service/"><u>Efficient CPU Stewardship: Managing the Power of Vanguard's Sleep Service</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-game-sound-experiences-top-headset-reviews/"><u>Elite Game Sound Experiences: Top Headset Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-showdown-comparing-chatgpt-and-microsofts-bing-chat/"><u>Generative AI Showdown: Comparing ChatGPT and Microsoft's Bing Chat</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy F34 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vsdc-video-editor-mac-alternatives-free-and-paid-options/"><u>New 2024 Approved VSDC Video Editor Mac Alternatives Free and Paid Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-access-to-blacklisted-windows-program/"><u>Reinstating Access to Blacklisted Windows Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprerant-guide-to-picture-scaling-in-windows-11/"><u>The Compreran't Guide to Picture Scaling in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-v30-by-fonelab-android-recover-messages/"><u>Undelete lost messages from V30</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-studio-display-a-complete-overview-of-specs-functionalities-and-essential-insights/"><u>Unveiling the Apple Studio Display - A Complete Overview of Specs, Functionalities, and Essential Insights</u></a></li>
+</ul></div>
 

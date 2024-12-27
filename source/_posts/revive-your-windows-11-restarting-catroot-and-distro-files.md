@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2024-12-20T01:51:03.435Z
-updated: 2024-12-21T22:09:05.160Z
+date: 2024-12-23T19:21:59.896Z
+updated: 2024-12-27T19:05:11.807Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -60,14 +56,15 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net start bits  
 
 net start wuauserv  
@@ -87,12 +84,17 @@ net start msiserver`
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
@@ -100,7 +102,11 @@ net start msiserver`
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -121,33 +127,11 @@ net start msiserver`
 10. Click the **Reset catroo2 Folder** option.
 11. Exit FixWin and reboot your PC after selecting those options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
  It’s important to resolve update issues when they arise for the sake of keeping Windows updated. Resetting the catroo2 and SoftwareDistribution folders is one of the most effective troubleshooting methods for fixing Windows update errors.
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay/"><u>[New] In 2024, Capturing the Heart of Sims Innovative Techniques for Recording Realistic Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-output-amplification-for-disconnected-bluetooth-devices/"><u>Enhancing Output Amplification for Disconnected Bluetooth Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-fusion-stylish-appeal-with-clear-music-from-teac-pd-301/"><u>Explore the Fusion: Stylish Appeal with Clear Music From Teac PD-301</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-application-pair-conflict-with-system-tweaks/"><u>Fixing 'Application Pair Conflict' With System Tweaks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-travel-tech-how-to-reverse-ios-video/"><u>In 2024, Time Travel Tech How to Reverse iOS Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-insider-release-privacy-parameters/"><u>Managing Insider Release Privacy Parameters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-microsoft-store-error-error-x800704cf/"><u>Strategies to Overcome Microsoft Store Error (Error X800704CF)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-mechanics-behind-windows-operating-security/"><u>The Mechanics Behind Windows Operating Security</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-resolving-issues-with-google-maps-functionality/"><u>Troubleshooting Tips: Resolving Issues with Google Maps Functionality</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-list-best-livestream-shopping-apps-of/"><u>Updated 2024 Approved Top List Best Livestream Shopping Apps Of</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-tweaks-create-a-unique-digital-space/"><u>Windows 11 Tweaks: Create a Unique Digital Space</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,3 +140,19 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-broadcasting-hidden-voices-on-instagram-live/"><u>[Updated] Broadcasting Hidden Voices on Instagram Live</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenmaster-review-the-latest-in-tech-capture/"><u>[Updated] ScreenMaster Review The Latest in Tech Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tuning-online-discussions-with-advanced-zooming-skills/"><u>2024 Approved Fine-Tuning Online Discussions with Advanced Zooming Skills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-to-resolve-battlefield-5-startup-issues-guide/"><u>Easy Troubleshooting Steps to Resolve Battlefield 5 Startup Issues - Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-windows-notification-experience/"><u>Enhancing Your Window's Notification Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-your-save-config-in-pubg-windows-edition/"><u>Reclaiming Your Save Config in PUBG (Windows Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-webcam-issue-in-win11-eliminating-error-a00f4289/"><u>Reverse Webcam Issue in Win11: Eliminating Error A00F4289</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-smart-mastering-roku-connection-in-accommodations-and-academic-settings/"><u>Travel Smart: Mastering Roku Connection in Accommodations and Academic Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-commands-with-sudo-on-windows/"><u>Unlocking Power Commands with Sudo on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-creative-solutions-to-software-access/"><u>Windows Wizardry: Creative Solutions to Software Access</u></a></li>
+</ul></div>
+

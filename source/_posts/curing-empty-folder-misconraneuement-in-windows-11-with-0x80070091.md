@@ -1,7 +1,7 @@
 ---
 title: Curing Empty Folder Misconraneuement in Windows 11 with #0X80070091
-date: 2024-12-19T08:10:07.744Z
-updated: 2024-12-21T20:32:10.301Z
+date: 2024-12-22T18:19:30.795Z
+updated: 2024-12-27T23:15:26.778Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try Erasing the Folder With the Command Prompt
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart Windows File Explorer
@@ -56,11 +52,23 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for Errors With a Disk Scan
 
@@ -83,25 +91,17 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Replace owner on subcontainers and objects** to select that setting.
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 4. Press**Scan now** to start the antivirus scanning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
@@ -144,14 +144,19 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-20mb-video-seconds-breakdown/"><u>[New] 20MB Video - Seconds Breakdown</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audible-mac-visual-record-functionality/"><u>[New] In 2024, Audible Mac Visual Record Functionality</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tailor-made-tunes-for-chrome-companions/"><u>[Updated] 2024 Approved Tailor-Made Tunes for Chrome Companions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-to-skyroran-windows-11-search-speed/"><u>Essential Techniques To Skyroran Windows 11 Search Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-cool-features-top-5-cmd-tricks-revealed/"><u>Explore Cool Features: Top 5 Cmd Tricks Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meta-unveils-top-tier-512gb-oculus-quest-3-offer-for-october-the-ultimate-prime-day-virtual-reality-steal/"><u>Meta Unveils Top-Tier 512GB Oculus Quest 3 Offer for October - The Ultimate Prime Day Virtual Reality Steal!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unrecognized-token-reference-issue-in-windows/"><u>Steps to Fix Unrecognized Token Reference Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-run-as-administrator-misfunctioning/"><u>Tips to Rectify 'Run as Administrator' Misfunctioning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-iphone-and-android-apps-to-add-stickers-on-your-photos/"><u>Top 10 iPhone and Android Apps to Add Stickers on Your Photos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-steps-for-adobe-presenter-recordings/"><u>[New] In 2024, Essential Steps for Adobe Presenter Recordings</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-top-substitutes-to-pandora-enhanced-options-for-online-radio-listeners/"><u>1. Top Substitutes to Pandora: Enhanced Options for Online Radio Listeners</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unveiled-content-tweeting-high-definition-for-everyone/"><u>2024 Approved Unveiled Content Tweeting High Definition for Everyone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-legacy-lift-updating-old-games-location-in-windows-11/"><u>Digital Legacy Lift: Updating Old Games' Location in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-forcefully-remove-printers-from-windows-11-pro/"><u>How to Forcefully Remove Printers From Windows 11 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/invest-in-ig-success-the-top-6-secure-money-methods-for-2024/"><u>Invest in IG Success The Top 6 Secure Money Methods for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/mastering-the-r6-mistake-resolving-problem-code-3-0x00010am0b/"><u>Mastering the R6 Mistake - Resolving Problem Code 3-0X00010am0b</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-no-permission-error-in-windows-oses/"><u>Overcoming the No Permission Error in Windows OSes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-samsung-galaxy-s24plus-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Samsung Galaxy S24+.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-wsl-register-failure-with-error-code-0x80370102/"><u>Resolving WSL Register Failure with Error Code 0X80370102</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-overlays-easy-steps-on-windows-pc/"><u>Stop GeForce Overlays: Easy Steps on Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-big-reason-to-choose-apples-iphone-16-pro-instead-of-the-max-model-this-year-exclusive-findings/"><u>The Big Reason to Choose Apple's iPhone 16 Pro Instead of the Max Model This Year - Exclusive Findings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-chatgpts-potential-with-easy-api-tutorials/"><u>Unlocking ChatGPT's Potential with Easy API Tutorials</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/wie-man-den-speicherplatz-effektiv-verwaltet-um-backups-unter-windows-10-zu-optimieren/"><u>Wie Man Den Speicherplatz Effektiv Verwaltet, Um Backups Unter Windows 10 Zu Optimieren</u></a></li>
 </ul></div>
 

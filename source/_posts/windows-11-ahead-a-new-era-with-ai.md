@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Ahead: A New Era with AI"
-date: 2024-12-15T01:03:30.568Z
-updated: 2024-12-22T06:23:02.044Z
+date: 2024-12-21T22:49:52.566Z
+updated: 2024-12-27T17:51:47.667Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI-powered PCs will become more capable as NPUs reduce strain on the CPU and GPU.
@@ -43,17 +39,9 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  It's possible that the way Windows 11 uses AI will change as the technology evolves. Right now, Microsoft is introducing AI-powered PCs, integrated Windows Copilot, AI software, and even adaptive accessories.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI-Powered PCs
 
 ![Microsoft Copilot key on the Tecno Megabook T16 Pro](https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe58471df92be6395b51c092b0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -64,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
  Microsoft Paint recently incorporated[AI features like Paint Cocreator](https://www.makeuseof.com/paint-cocreator-ai-images-windows-11/) and[AI background removal](https://www.makeuseof.com/windows-photos-generative-erase/) , while AI in Snipping Tool allows you to quickly copy or redact text from screenshots. Even Clipchamp is incorporating AI, as the new auto-assembly feature provides immediate editing suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adaptive Accessories and 3D-printed Attachments
@@ -77,23 +65,31 @@ Microsoft
 
  These accessories are already game-changing for people with disabilities who need custom solutions. But they're also helpful for anyone who wants to augment their PC setup. Currently, you can purchase designs pre-made by Microsoft through vendors like Shapeways — but[3D AI generators](https://www.makeuseof.com/chatgpt-how-to-use-for-3d-printing/) are becoming increasingly capable of providing their own solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Integrated Copilot for Microsoft 365
 
 ![a user prepares to click on a prompt from microsoft copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-user-prepares-to-click-on-a-prompt-from-microsoft-copilot.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows Copilot is meant to enhance productivity and creativity through convenience — and soon, you're likely to see the AI tool integrated into Microsoft 365 products. Currently, you can quickly[access Windows Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) at any time by clicking on it in the application's toolbar.
 
  Fantastic integration is what makes Copilot truly stand out, however. You can summarize long email threads or draft emails with Copilot in Outlook or quickly generate meeting notes with Copilot for Teams. In the future, we're likely to see more Copilot integrations as the product expands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows AI Studio
 
  Developers will also be able to take advantage of Windows AI, thanks to the cutting-edge technology packaged in Windows AI Studio. This application simplifies the process of deploying Small Language Models (SLMs) for use in their own applications.
 
  Essentially, Windows AI Studio will provide an aggregated catalog of tools from Azure AI Studio and other sources, making it simpler for you to find and fine-tune the right SLM. With all of that heavy lifting out of the way, you'll have more time to focus on the heart of your project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do Current and Older PCs Support Windows AI?
 
@@ -102,6 +98,10 @@ Microsoft
  Considering that Windows 10 still holds a majority of the market share and that its share increased as recently as May 2024, it's easy to wonder whether we'll get Windows 10 AI. It looks like older PCs will support Windows AI — integrated Copilot in Windows 10 is available on some devices, and Microsoft is planning on a phased launch for Copilot in Windows 10 in the future.
 
  Older devices will certainly have access to non-OS AI integrations, too. You might already see Copilot integrated into many of your Microsoft Office apps, and you can also[access AI tools through the web](https://www.makeuseof.com/best-ai-web-apps/) . Considering that Windows 10 still has an enormous market share, it's likely that most new AI features for Microsoft software will be supported, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Windows 11 With AI Be Worth Using?
 
@@ -122,20 +122,17 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-through-facebook-gif-downloads-across-platforms/"><u>[New] Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-10-premium-text-tricks-for-videos/"><u>[Updated] 2024 Approved 10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-from-ground-to-greatness-photos-on-a-stretch-for-2024/"><u>[Updated] From Ground to Greatness Photos on a Stretch for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-intrinsic-storytelling-principles/"><u>2024 Approved Intrinsic Storytelling Principles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-file-structures-of-exe-to-msi-installer-files/"><u>Comparing File Structures of Exe to Msi Installer Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-opengl-crashes-a-focused-look-at-code-3-in-os-11/"><u>Fixing OpenGL Crashes: A Focused Look at Code #3 in OS 11</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-x50-gt-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor X50 GT 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-optimal-websites-to-increase-youtube-views/"><u>In 2024, Optimal Websites to Increase YouTube Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-the-maze-of-style-the-path-to-customized-windows-outlook/"><u>Navigate the Maze of Style: The Path to Customized Windows Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-cannot-connect-problems-for-win-users/"><u>Overcoming Cannot Connect Problems for Win Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-and-optimize-detailed-guide-to-dns-setup-in-windows-11/"><u>Secure & Optimize: Detailed Guide to DNS Setup in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-counteract-failed-pages-in-windows-store/"><u>Tactics to Counteract Failed Pages in Windows Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-to-trim-how-to-set-up-auto-delete-for-your-files/"><u>Time to Trim: How to Set Up Auto-Delete for Your Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-mobile-vpn-services-thoroughly-tested-by-experts-techradar/"><u>Top-Ranking Mobile VPN Services - Thoroughly Tested by Experts | TechRadar</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>[New] The Monetization Matrix How Maker Gains From Shorter Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>[New] Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-adding-videos-to-written-work-a-budget-friendly-way/"><u>[Updated] Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-photo-editor-showdown-can-pickup-claim-victory-for-2024/"><u>[Updated] Android's Photo Editor Showdown Can PickUp Claim Victory for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-places-to-step-into-new-realities/"><u>[Updated] Ideal Places to Step Into New Realities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-add-music-to-instagram-story/"><u>2024 Approved How to Add Music to Instagram Story?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/einfach-erklarte-methoden-erstellt-und-wiederverwendet-sie-systemabbilder-mit-windows-10/"><u>Einfach Erklärte Methoden: Erstellt Und Wiederverwendet Sie Systemabbilder Mit Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-extract-folder-info-on-pc/"><u>Essential Tips to Extract Folder Info on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-vmware-freeze-ups-and-bsods-on-windows-11/"><u>How to Stop VMware Freeze-Ups and BSODs on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-access-issues-with-roblox-on-windows-systems/"><u>Rectifying Access Issues with Roblox on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-discord-sluggishness-with-windows-tweaks/"><u>Tackling Discord Sluggishness with Windows Tweaks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/why-does-my-computer-run-so-slowly-expert-tips-by-yl-software/"><u>Why Does My Computer Run So Slowly? Expert Tips by YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Word Edits with Snipping Tool
-date: 2024-12-17T17:24:17.542Z
-updated: 2024-12-22T05:48:11.765Z
+date: 2024-12-20T16:35:50.571Z
+updated: 2024-12-27T20:29:36.798Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the Text Actions Feature in the Snipping Tool?
 
  At the time of writing, the current version of Snipping Tool lets you capture and annotate screenshots. You can even [screen record using the Snipping tool](https://www.makeuseof.com/how-to-screen-record-with-windows-11-snipping-tool/).
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  However, the latest build of Microsoft Insider Dev and Canary channel featured an updated version of the Snipping Tool, including the "Text Action" feature. This brings OCR support for screenshots, meaning you can scan your captured images for text.
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
@@ -51,19 +51,19 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Paste all the copied text in the Notepad and save it for later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
@@ -85,32 +85,17 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
- So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-navigating-the-market-of-dronescopic-stabilizers/"><u>[New] Navigating the Market of Dronescopic Stabilizers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-breathe-life-into-stills-slow-video-on-iphone/"><u>[Updated] Breathe Life Into Stills Slow Video on iPhone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app/"><u>[Updated] In 2024, Overcoming Stalled Transmission of Videos Tips for Successful Sharing in Messenger App</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-asus-vivobook-s-15-a-modern-tech-marvel/"><u>Exploring the ASUS Vivobook S 15: A Modern Tech Marvel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-the-right-mic-a-guide-for-multifaceted-yt-channels-for-2024/"><u>Finding the Right Mic A Guide for Multifaceted YT Channels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-share-function-failures-in-ge/"><u>Resolving Share Function Failures in GE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/senior-solutions-enhancing-older-windows-pc-usage/"><u>Senior Solutions: Enhancing Older Windows PC Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-ai-5-techniques-for-writing-effective-chatgpt-prompts-for-quality-answers/"><u>Unlocking the Potential of AI: 5 Techniques for Writing Effective ChatGPT Prompts for Quality Answers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-stalled-image-loads-in-safari-on-iphone-solve-it-with-our-9-techniques/"><u>Unstuck From Stalled Image Loads in Safari on iPhone: Solve It With Our 9 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-tick-tock-recovery-5-essential-methods-for-time-services/"><u>Windows Tick-Tock Recovery: 5 Essential Methods for Time Services</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +104,23 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-evolution-of-youtube-shorts-popularity-metrics/"><u>[New] 2024 Approved The Evolution of YouTube Shorts Popularity Metrics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finalizing-your-video-with-a-bold-statement/"><u>[Updated] Finalizing Your Video with a Bold Statement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-and-compelling-social-media-presentations-through-subtitle-sharing/"><u>2024 Approved Secure and Compelling Social Media Presentations Through Subtitle Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-essential-ways-to-ascertain-chatgpts-uptime/"><u>5 Essential Ways to Ascertain ChatGPT’s Uptime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-screenscape-diverse-wallpapers-for-windows-11/"><u>Customizing Your Screenscape: Diverse Wallpapers for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-windows-11s-app-startup-error-code-0xc000003e/"><u>Deciphering and Solving Windows 11'S App Startup Error: Code 0XC000003E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-unblock-your-windows-pin/"><u>Easy Steps to Unblock Your Windows PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-continuous-edge-key-presses/"><u>Eradicating Continuous Edge Key Presses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guided-steps-altering-administrative-profile-in-windows-11/"><u>Guided Steps: Altering Administrative Profile in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y56-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y56 5G Device SIM</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>In 2024, Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-scripts-for-audio-performances/"><u>In 2024, Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-pcs-primary-command-line-editor/"><u>Perfect Your PC's Primary Command Line Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-pcs-proclaim-their-superiority-to-mac-users-9/"><u>Why PCs Proclaim Their Superiority to Mac Users (#9)</u></a></li>
+</ul></div>
+

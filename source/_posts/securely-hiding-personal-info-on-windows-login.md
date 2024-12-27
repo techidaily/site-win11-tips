@@ -1,7 +1,7 @@
 ---
 title: Securely Hiding Personal Info on Windows Login
-date: 2024-08-16T02:42:35.779Z
-updated: 2024-08-17T02:42:35.779Z
+date: 2024-12-25T22:00:00.023Z
+updated: 2024-12-27T19:43:25.336Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 
  You can accomplish this using the Settings app, Group Policy Editor, or Registry Editor. In this post, we've covered all these methods in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Hide Email Address From Windows Login Screen Using the Settings App
 
  The Windows Settings app provides a quick way to hide account information from the login screen. So, if you are in a rush, use the following steps to remove user email addresses from the Windows login screen.
@@ -30,8 +34,13 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
 
  The Group Policy Editor (or gpedit.msc) is a handy Windows tool for configuring advanced system settings. You can also this tool to hide your email address from the Windows login screen.
@@ -45,17 +54,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 5. In the properties window, click the drop-down menu to select the**Do not display user information** option.
 6. Click**Apply** followed by**OK** .  
 ![Hide Email From Windows Login Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-group-policy-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
 
  If the above two methods don’t work for some reason, you can make changes to the Windows registry files to hide your email address from the login screen. For that, you’ll need to use the Registry Editor on Windows.
@@ -72,28 +74,26 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 6. Rename the DWORD to**BlockUserFromShowingAccountDetailsOnSignin** .
 7. Double-click on the newly created DWORD and enter**1** in the**Value data** field. Then, click**OK** .  
 ![Hide Email From Windows Login Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Exit the Registry Editor and restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
 
  As we just saw, hiding your personal information from the Windows login screen barely takes a couple of minutes, regardless of the method you employ.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +102,26 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-visual-virtuosos-guide-choosing-the-best-6-4k-cameras/"><u>[New] 2024 Approved Visual Virtuosos Guide Choosing the Best 6 4K Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-from-raw-footage-to-final-cut-youtube-edition/"><u>[New] In 2024, From Raw Footage to Final Cut YouTube Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-zoom-mastering-screen-sharing-basics/"><u>[New] Zoom Mastering Screen-Sharing Basics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>[Updated] Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-error-code-0x800f0831-in-windows-os/"><u>Conquering Error Code 0X800F0831 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11s-package-control-using-wingetui/"><u>Enhancing Windows 11'S Package Control Using WingetUI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanding-your-workspace-connect-a-second-thunderbolt-monitor-with-ease-on-the-new-m1-mac-mini-tips-and-tricks-for-enhanced-productivity-zdnet/"><u>Expanding Your Workspace: Connect a Second Thunderbolt Monitor with Ease on the New M1 Mac Mini - Tips & Tricks for Enhanced Productivity (ZDNET)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-enhancing-gpo-settings-access-win11-edition/"><u>Expert Tips for Enhancing GPO Settings Access, Win11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-lsassexe-not-found-error-on-pc/"><u>How to Correct 'lsass.exe' Not Found Error on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-asmr-for-restful-slumber/"><u>Mastering ASMR for Restful Slumber</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-onedrive-without-an-online-connection/"><u>Navigate Your OneDrive Without an Online Connection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-nuances-of-business-e-mails-with-gpt/"><u>Navigating the Nuances of Business E-Mails with GPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disconnected-world-in-pokemon-go/"><u>Overcoming Disconnected World in Pokémon GO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-taskbar-disruption/"><u>Overcoming Windows 11 Taskbar Disruption</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-screen-glitches-in-windows-systems-essential-guidance-by-yl-software-experts/"><u>Resolving Screen Glitches in Windows Systems: Essential Guidance by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-ms-store-glitches-on-win-1111-platforms/"><u>Solutions for MS Store Glitches on Win 11/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-find-and-restore-lost-pin-in-win-11-update-fallout/"><u>Steps to Find and Restore Lost PIN in Win 11 Update Fallout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-search-power-tips-to-troubleshoot-windows-11s-search-issues/"><u>Winning Back Your Search Power: Tips to Troubleshoot Windows 11'S Search Issues</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/yl-software-insights-effective-solutions-for-handling-system-crashes-and-lock-ups/"><u>YL Software Insights: Effective Solutions for Handling System Crashes and Lock-Ups</u></a></li>
+</ul></div>
 

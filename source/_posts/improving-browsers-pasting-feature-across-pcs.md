@@ -1,7 +1,7 @@
 ---
 title: Improving Browsers' Pasting Feature Across PCs
-date: 2024-08-16T02:40:07.373Z
-updated: 2024-08-17T02:40:07.373Z
+date: 2024-12-20T19:54:56.925Z
+updated: 2024-12-27T19:13:47.378Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  If none of the above basic checks help, it's time to move on to the other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check How Widespread the Issue Is
 
  Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ## 3\. Check for Problems With Your Keyboard
 
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -64,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your Security Settings
 
 ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
@@ -79,13 +77,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
 
  Turning off the mini menu that appears when selecting text in Microsoft Edge resolved the copy-paste issue for some users. This feature reportedly blocks copy-pasting. So, if you are experiencing the problem in Microsoft Edge, follow these steps to turn it off:
@@ -95,17 +94,7 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Navigate to the **Appearance** tab on the left.
 4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 8\. Check for Browser Interference
 
  If you fail to get copy-paste to work again, ensure that the browser interference is not causing this issue. You can rule out this possibility by applying these fixes:
@@ -114,9 +103,6 @@ No advertising on the website.
 * [Update your web browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to the latest version.
 * [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Use Alternative Methods to Copy and Paste Text
 
  If every other option fails, and you still can't copy-paste text normally, copy and paste text in your browser using the context menu. Though it isn't a quick way to copy and paste text, it is reasonably reliable and does the job most of the time.
@@ -125,7 +111,15 @@ No advertising on the website.
 
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy-Paste Your Text Again Effortlessly
 
@@ -137,11 +131,26 @@ No advertising on the website.
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-revealing-historys-best-anime-openers/"><u>[Updated] 2024 Approved Revealing History's Best Anime Openers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-the-complex-world-of-video-text-implementation-vimeo/"><u>[Updated] Navigating the Complex World of Video Text Implementation (Vimeo)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>2024 Approved Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-downloads-decoded-iphone-and-android-edition/"><u>2024 Approved IGTV Downloads Decoded IPhone & Android Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>Boost Your Drive Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-strikingly-simple-cmd-tricks-to-learn-now/"><u>Five Strikingly Simple Cmd Tricks to Learn Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-safekeep-stories-the-unlimited-save-service/"><u>In 2024, Safekeep Stories The Unlimited Save Service</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-transforming-channels-via-youtube-music-upload/"><u>In 2024, Transforming Channels via Youtube Music Upload</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-tiworkerexe-cpu-overuse-on-pcs/"><u>Reducing TiWorker.exe CPU Overuse on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spark-joy-with-holiday-window-designs/"><u>Spark Joy with Holiday Window Designs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ultimate-tutorial-setting-up-your-pc-for-pro-level-live-recording-sessions/"><u>Ultimate Tutorial: Setting Up Your PC for Pro-Level Live Recording Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-concealed-icon-menu-of-win11/"><u>Unlocking the Concealed Icon Menu of Win11</u></a></li>
+</ul></div>
+

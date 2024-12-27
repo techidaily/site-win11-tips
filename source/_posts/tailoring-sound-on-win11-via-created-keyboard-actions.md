@@ -1,7 +1,7 @@
 ---
 title: Tailoring Sound on Win11 via Created Keyboard Actions
-date: 2024-12-20T19:43:30.724Z
-updated: 2024-12-22T06:33:55.372Z
+date: 2024-12-23T16:58:18.305Z
+updated: 2024-12-27T16:12:57.944Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Download and Extract NirCmd
 
@@ -51,6 +55,11 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 4. Click **Shortcut** on the submenu.  
 ![The Shortcut context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-option.png)
 5. Press the **Ctrl + V** keyboard shortcut to paste the copied NirCmd path into the location box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then press **Space** key once after the NirCmd path, and enter **mutesysvolume 2** in the location box as shown directly below. The location box should then include: **“NirCmd folder path\\nircmd.exe” mutesysvolume 2**.  
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
@@ -63,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 3. Press **M** to set up a **Ctrl + Alt + M** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
@@ -85,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
@@ -103,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
@@ -123,19 +128,11 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Hotkeys tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeys-tab.jpg)
 5. Select the **Volume** **up** checkbox and repeat the previous step to set a hotkey for raising the volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Then select **Toggle Mute** and repeat step nine to set a keyboard shortcut for muting the volume.
 2. Now open a program to assign the hotkeys to. A web browser or media player from which you can play music and videos would be ideal.
 3. Click the **Mixer** tab to view a list of open apps.  
 ![The Mixer tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-mixer-tab.jpg)
 4. Press the **Select** button beside the software to which you want to assign the custom hotkeys.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click the **Lock** checkbox to ensure the volume control hotkeys always remain assigned to the selected software.
 
@@ -143,33 +140,23 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![A YouTube video in the Opera browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-youtube-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also create new volume control hotkeys from scratch with Volume Control. To do so, select the **Advanced Hotkeys** checkbox on the **Settings** tab. Then you’ll see a **Create New Hotkey** button on the **Hotkeys** tab you can press to set up new keyboard shortcuts. You can select options on an **Action** drop-down menu with advanced hotkeys enabled.
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
 
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elite-applications-facilitating-video-discussions/"><u>[New] In 2024, Elite Applications Facilitating Video Discussions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>[New] In 2024, Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streaming-success-youtube-broadcasts-of-google-meet/"><u>[Updated] Streaming Success YouTube Broadcasts of Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-resource-occupancy-challenges-in-windows-11/"><u>Easing Resource Occupancy Challenges in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-win10s-sound-flaw-error-xc00d36b4/"><u>Eliminating Win10's Sound Flaw: Error Xc00d36b4</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-issues-imovies-automatic-dimension-adjustments/"><u>In 2024, Cutting Edge Issues IMovie’s Automatic Dimension Adjustments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-optimal-8-video-tools-to-boost-live-viewership/"><u>In 2024, Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-task-manager-ui-incorporating-cli-for-command-execution/"><u>Mastering Task Manager UI: Incorporating CLI for Command Execution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-windows-practices-for-audio-recordings/"><u>Proven Windows Practices for Audio Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-superior-search-with-perplexity-ai/"><u>Unlock Superior Search with Perplexity AI</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +165,25 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-determining-the-perfect-orientation-for-fb-videos/"><u>[New] Determining the Perfect Orientation for FB Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-join-the-party-your-guide-to-active-tiktok-streaming/"><u>[New] Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>[Updated] 2024 Approved Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-step-into-hd-color-on-windows-watch-edit-relish-videos/"><u>[Updated] In 2024, Step Into HD Color on Windows Watch, Edit, Relish Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-asus-rog-phone-7-ultimate-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Asus ROG Phone 7 Ultimate Device SIM</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-endorsed-ae-text-tools/"><u>In 2024, Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-windows-mail-overcoming-hurdle-x-error-0x80072746/"><u>Master Windows Mail: Overcoming Hurdle X, Error 0X80072746</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-key-recovery-finding-your-windows-1011-authenticity/"><u>Mastery in Key Recovery: Finding Your Windows 10/11 Authenticity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-malware-a-protocol-for-neutralizing-wacatacbml-on-windows/"><u>Mastery of Malware: A Protocol for Neutralizing Wacatac.B!ml On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-settings-for-users-implementing-local-groups-policies-in-windows-11-and-11/"><u>Personalized Settings for Users: Implementing Local Groups Policies in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-absence-of-backspace-action-on-windows-devices/"><u>Rectifying the Absence of Backspace Action on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-charge-of-pcs-core-management-interface/"><u>Taking Charge of PC's Core Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-full-capabilities-elevating-windows-11s-task-manager-to-admin-power/"><u>Unleash the Full Capabilities: Elevating Windows 11'S Task Manager to Admin Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-blue-screen-addressing-interruptexception/"><u>Win11 Blue Screen: Addressing INTERRUPT_EXCEPTION</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platinum-windows-1032dvd/"><u>WinX DVD Ripper Platinum - 高速优化版: Windows 10下32倍提速的数字DVD转换解锁</u></a></li>
+</ul></div>
+

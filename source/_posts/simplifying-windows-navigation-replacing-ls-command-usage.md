@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Windows Navigation: Replacing LS Command Usage"
-date: 2024-08-16T02:37:03.218Z
-updated: 2024-08-17T02:37:03.218Z
+date: 2024-12-20T17:42:51.665Z
+updated: 2024-12-27T18:53:16.295Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 
  There are many commands that are supported on the Linux terminal that does not exist on Windows 10 and 11\. Luckily the “ls” command in Windows is supported on the Command Prompt. Read on as we explore how to use the "ls" command in Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “ls” Command in Windows?
 
  The “ls” command (that's LS, not IS) is one of the first terminal commands that veterans teach [Linux beginners](https://www.makeuseof.com/tag/linux-beginners-guide/). It allows users to list files and directories from the Command Line Interface. You can think of it as a File Explorer, but without the user-friendly icons and navigation buttons.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
 
  Windows is an entirely different ecosystem when compared to Linux. As a result, many Linux CLI commands are not supported by the Windows Command Prompt tool.
@@ -38,12 +43,9 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
  However, you can use the “ls” command in Windows using the equivalent **dir** command in Command Prompt.
 
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -53,8 +55,9 @@ No advertising on the website.
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use "ls" Command in Windows PowerShell
 
  While the "ls" command does not work on the Windows Command Prompt, it does work within [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/). Windows PowerShell is a very powerful utility, and even allows you to carry out complex file management tasks such as creating, removing, and copying files and folders straight through the terminal.
@@ -62,8 +65,9 @@ No advertising on the website.
  The **Get-ChildItem** cmdlet script of PowerShell allows users to easily list file directories using any of the aliases such as **ls**, **dir**, and even **gci**.
 
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -73,9 +77,6 @@ No advertising on the website.
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## A Handy Tool for Both Linux and Windows Users
 
  If you love using Linux, you'll likely find that Microsoft's own command prompt is a bit weaker in comparison. Fortunately, the "ls" command is also on Windows; it just uses a different name within Command Prompt. If you're using PowerShell you can use any of the alias commands to get the required file directories.
@@ -84,11 +85,25 @@ No advertising on the website.
 
  There are many commands that are supported on the Linux terminal that does not exist on Windows 10 and 11\. Luckily the “ls” command in Windows is supported on the Command Prompt. Read on as we explore how to use the "ls" command in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[Updated] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-leading-10-open-source-video-communication-solutions-businesseducation-focus/"><u>[Updated] In 2024, Leading 10 Open Source Video Communication Solutions Business/Education Focus</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-social-media-synergy-linking-instagram-with-tiktok/"><u>[Updated] Social Media Synergy Linking Instagram with TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>2024 Approved Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/6-schritt-fur-schritt-anleitungen-zum-ubertragen-von-bildern-auf-ihr-neues-apple-iphone/"><u>6 Schritt-Für-Schritt-Anleitungen Zum Übertragen Von Bildern Auf Ihr Neues Apple iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-for-windows-107-sound-problems-crackling-audio-solved/"><u>Comprehensive Fix for Windows 10/7 Sound Problems: Crackling Audio Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-cannot-connect-issue-on-windows/"><u>Correcting Cannot Connect Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-disk-management-pathways-for-windows-1011-users/"><u>Exploring Disk Management Pathways for Windows 10/11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interactive-guide-to-comic-viewing-in-win11/"><u>Interactive Guide to Comic Viewing in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-unresponsive-netflix-application-on-pc/"><u>Remedying Unresponsive Netflix Application on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unresponsive-right-clicks-in-windows-11/"><u>Resolving the Issue of Unresponsive Right Clicks in Windows 11</u></a></li>
+</ul></div>
+

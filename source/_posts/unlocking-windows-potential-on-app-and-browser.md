@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows' Potential on App & Browser
-date: 2024-08-16T02:37:10.678Z
-updated: 2024-08-17T02:37:10.678Z
+date: 2024-12-26T16:37:02.347Z
+updated: 2024-12-27T16:10:26.555Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  The tool is part of Windows Security, the in-built Windows antivirus program. It offers three distinct sections that work in tandem to protect you from malicious apps and websites: Smart App Control, Reputation-based protection, and Exploit protection—each with a different but critical part to play. To enable and get the most out of the App and browser control, then, you will need to tweak the settings of individual sections. So let's cover all of them one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Smart App Control
 
 [Smart App Control](https://www.makeuseof.com/windows-11-smart-app-control-explain/) protects you from arbitrary security breaches by blocking out all untrustworthy or malicious apps. This is a vital function, as third-party malicious apps often show you a host of dallying ads, make your device excessively slow, and come with additional baggage that can make your Windows experience overall subpar.
@@ -41,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 * Your optional diagnostic data—the feature that shares details about your PC, its settings, and additional capabilities—is turned off. To turn it on, you will have to select Send optional diagnostic data when you reinstall your Windows.
 
 ![smart app control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/smart-app-control.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Moreover, if the Smart App Control feature is turned off, you must do a clean Windows reinstall to turn it on again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reputation-Based Protection
 
@@ -58,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
@@ -68,12 +70,13 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  When you have the Check apps and files button toggled on, the Microsoft Defender SmartScreen will protect your important files and apps on the web.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Phishing Protection
 
@@ -94,22 +97,21 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  Turning on this filter allows you to block out all the lower-tier apps that won't work as productively as required, or perhaps even your app.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### SmartScreen for Microsoft Store apps
 
  As the name suggests, when you have SmartScreen for Microsoft Store apps turned on, the SmartScreen will filter out any malicious content accessed by Microsoft Store apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Exploit Protection
 
  Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As[Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
 
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
@@ -120,14 +122,11 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Other parts of Windows Security, like Family options or Virus & threat protection, are just as crucial as App & browser control. So make sure you don’t neglect other features, and try to learn about them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +135,18 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-monetize-smart-a-creative-approach-to-earning-with-vimeo/"><u>[New] Monetize Smart A Creative Approach to Earning with Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-beginners-guide-to-advanced-techniques-in-gopro-studio-for-2024/"><u>[Updated] A Beginner's Guide to Advanced Techniques in GoPro Studio for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensively-understanding-recmeisters-screen-recording-strengths/"><u>[Updated] Comprehensively Understanding Recmeister's Screen Recording Strengths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-windows-11-service-management/"><u>Essential Techniques for Windows 11 Service Management</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-universe-a-comprehensive-guide/"><u>Exploring Tom's Tech Universe: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-inaccessible-wifi-on-windows-11-tips-and-tricks/"><u>Fixing Inaccessible WiFi on Windows 11 - Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-toolbar-in-microsoft-pc-manager-on-windows-11/"><u>How to Use the Toolbar in Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-connection-with-microsofts-phone-link/"><u>Mastering Device Connection with Microsoft's 'Phone Link'</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-text-to-video-for-2024/"><u>New What Is AI Text to Video for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-rndis-driver-upgrade-process-on-windows-devices-your-definitive-download-source/"><u>Seamless RNDIS Driver Upgrade Process on Windows Devices – Your Definitive Download Source</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-improving-visibility-of-windows-1011s-search-results/"><u>Strategies for Improving Visibility of Windows 10/11'S Search Results</u></a></li>
+</ul></div>
 

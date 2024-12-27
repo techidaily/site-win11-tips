@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsigned Windows Update Files Errors
-date: 2024-12-16T16:09:15.625Z
-updated: 2024-12-22T04:37:16.865Z
+date: 2024-12-20T19:58:26.428Z
+updated: 2024-12-27T18:13:08.547Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Utilize the Windows Update Troubleshooter
 
@@ -55,11 +59,16 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 5. Set the **Startup type** setting to the **Automatic** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Save the settings by pressing the **Apply** and **OK** buttons.
 8. Double-click the **Background Intelligent Transfer Service** to view its settings.
 9. Select a **Manual** startup option.
@@ -68,19 +77,11 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset Components for Windows Updates
 
  Resetting components for Windows updates will completely refresh the catroot2 and SoftwareDistribution folders, which store update data. This troubleshooting method also reregisters all DLL files for important update services. Applying such a potential resolution can fix corrupted components causing error 0x800b0109\.
 
  To apply this possible error 0x800b0109 resolution, check out our article on [resetting Windows update components](https://www.makeuseof.com/reset-windows-update-components/). That guide includes a command-line and batch file method. Creating and running a batch file is the quicker and more straightforward way to reset Windows update components.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Deactivate Third-Party Security Software
 
@@ -89,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Erase the Windows Update Key
 
@@ -106,13 +111,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
@@ -137,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Windows Updated Again
 
  There isn’t a surefire way to fix error 0x800b0109 since there are varied possible reasons for that Windows 11/10 issue occurring. However, it’s likely at least one of the eight potential resolutions in this guide will fix that update issue on your PC.
@@ -149,21 +150,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>2024 Approved Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-find-x7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Find X7 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004961248-arise-adventure-gone-wrong-expert-solutions-for-stable-playtime/"><u>Arise Adventure Gone Wrong? Expert Solutions for Stable Playtime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-commands-in-context-menus-for-modern-oses/"><u>Concealing Commands in Context Menus for Modern OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-exe-versus-msi-file-types/"><u>Deciphering EXE Versus MSI File Types</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-yuva-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Yuva 2 Activity | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-chrome-profile-correction-for-pc-users/"><u>Mastering Chrome Profile Correction for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-sluggish-wi-fi-links-in-windows-11-with-these-8-fixes/"><u>Overcome Sluggish Wi-Fi Links in Windows 11 with These 8 Fixes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-resolution-clearing-up-loot-crash-in-apex/"><u>Rapid Resolution: Clearing Up Loot Crash in Apex</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place-for-2024/"><u>Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/zoom-into-adventure-five-gameplay-advantages-for-minecrafters/"><u>Zoom Into Adventure Five Gameplay Advantages for Minecrafters</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +157,27 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-no-trace-snapcaptures-discreet-photo-taking-techniques/"><u>[New] No Trace SnapCaptures Discreet Photo-Taking Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-audience-expansion-with-immersive-360-videos-on-social-media/"><u>2024 Approved Audience Expansion with Immersive 360 Videos on Social Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-power-losses-how-to-schedule-auto-shutdown-on-win11-pcs/"><u>Cutting Power Losses: How to Schedule Auto-Shutdown on Win11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-defenders-0x80004004-error/"><u>Decoding and Solving Defender's 0X80004004 Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-best-of-gopro-cameras-side-by-side/"><u>Exploring the Best of GoPro Cameras Side by Side</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-up-to-speed-with-quick-copy-paste-in-powertoys/"><u>Get Up to Speed With Quick Copy-Paste in PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-d3dx939dll-missing-error-on-windows-11/"><u>How to Fix the D3DX9_39.dll Missing Error on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p55plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P55+</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-videography-101-crafting-attractive-haul-and-try-on-vids/"><u>In 2024, Videography 101 Crafting Attractive Haul & Try-On Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-file-picking-toggle-windows-11-checkboxes/"><u>Optimized File Picking: Toggle Windows 11 Checkboxes</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/rapid-site-crawling-with-ultrafast-achieve-google-indexation-in-just-6-simple-steps-using-massmail/"><u>Rapid Site Crawling with UltraFast: Achieve Google Indexation in Just 6 Simple Steps Using Massmail!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-dxgidll-absence-on-win11-steps-guide/"><u>Resolving Dxgi.dll Absence on Win11 - Steps Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-keeping-calculator-as-windowtop-focus/"><u>Steps for Keeping Calculator as Windowtop Focus</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210811623-9798890300997-the-divine-volumes-of-power/"><u>The Divine Volumes of Power | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-windows-group-policy-interpretation-3-ways/"><u>The Essential Guide to Windows Group Policy Interpretation (3 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-disabling-gpu-aided-process-ordering-in-widno/"><u>The Guide to Disabling GPU-Aided Process Ordering in WIDNO</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ale-of-two-platforms-youtube-and-dailymention/"><u>The Tale of Two Platforms YouTube and DailyMention</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+</ul></div>
+

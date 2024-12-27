@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Settings in Win11
-date: 2024-12-18T17:21:12.633Z
-updated: 2024-12-21T17:47:12.297Z
+date: 2024-12-21T23:04:09.351Z
+updated: 2024-12-27T21:05:04.695Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 * A corruption issue within the system is causing the problem. The best way to rule out such problems is by running the Power troubleshooter built into Windows.
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
 
@@ -52,12 +60,16 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -74,7 +86,7 @@ Here is how you can run the troubleshooter:
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
@@ -94,10 +106,6 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -109,17 +117,9 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -150,18 +150,18 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>[New] In 2024, Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>[New] SEO Power Play Strategies To Amplify Your Podcast's Impact</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-step-by-step-guide-to-perfectly-pair-videos-and-stories/"><u>[Updated] Step-by-Step Guide to Perfectly Pair Videos and Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/a-comprehensive-list-of-best-skype-recorder-models-for-2024/"><u>A Comprehensive List of Best Skype Recorder Models for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-the-dilemma-of-empty-spaces-for-thumbnails-on-win-11/"><u>Combat the Dilemma of Empty Spaces for Thumbnails on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-voice-assistance-on-win11/"><u>Correcting Malfunctioning Voice Assistance on Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-failed-to-connect-via-anticheat-error-on-escape-from-tarkov/"><u>Fixing the 'Failed to Connect via Anticheat' Error on Escape From Tarkov</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-files-from-d-drive-on-explorer-nav-bar/"><u>Launching Files From D: Drive on Explorer Nav Bar</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-custom-karaoke-with-pcdjs-karaoki-feature-build-your-own-playlist/"><u>Mastering the Art of Custom Karaoke with PCDJ's Karaoki Feature - Build Your Own Playlist!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/overcoming-scanning-challenges-enhance-image-clarity-using-yl-software-techniques/"><u>Overcoming Scanning Challenges: Enhance Image Clarity Using YL Software Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-geforce-x0001-failure-in-w10w11/"><u>Steps to Overcome GeForce X0001 Failure in W10/W11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-scam-detection-or-investment-gain/"><u>TruthCoin: Scam Detection or Investment Gain?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-integrating-vimeo-to-instagram-posts/"><u>[New] Integrating Vimeo to Instagram Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-addressing-issue-non-appearing-facebook-video-previews/"><u>[Updated] Addressing Issue Non-Appearing Facebook Video Previews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>2024 Approved Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-listeners-respectfully-for-increased-sign-ups-for-2024/"><u>Engaging Listeners Respectfully for Increased Sign-Ups for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion-for-2024/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fully-active-discord-microphone/"><u>Fully Active Discord Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-pre-windows-11-machine/"><u>How to Jumpstart Your Pre-Windows 11 Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-g2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo G2?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/secret-spotters-where-to-find-your-snappiest-ringtone-for-2024/"><u>Secret Spotters Where to Find Your Snappiest Ringtone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-steadying-your-pcs-cpu-with-windows-rm/"><u>The Ultimate Guide: Steadying Your PC's CPU with Window's RM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-benefit-of-bi-weekly-windows-data-save/"><u>The Unseen Benefit of Bi-Weekly Windows Data Save</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzipping-files-proficiently-using-powershell-commands/"><u>Unzipping Files Proficiently Using PowerShell Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-powered-up-customize-cmd-shortcuts-using-nircmd/"><u>Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd</u></a></li>
 </ul></div>
 

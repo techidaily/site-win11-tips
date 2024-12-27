@@ -1,7 +1,7 @@
 ---
 title: Mending Absent Items From File Explorer List
-date: 2024-08-16T02:40:54.223Z
-updated: 2024-08-17T02:40:54.223Z
+date: 2024-12-21T18:35:52.398Z
+updated: 2024-12-27T17:00:29.058Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -41,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  Close File Explorer and press**Ctrl + Shift + Delete** to bring up Task Manager. There, right-click**Windows Explorer** and select**End Task** to stop any related processes from running in the background.
 
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove File Explorer Cache
 
@@ -60,11 +65,12 @@ Follow these steps to clear File Explorer cache files:
 5. Click**Apply > OK** .
 
 ![Clear File Explorer cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clear-explorer-cache-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the System File Checker
 
@@ -73,13 +79,11 @@ Follow these steps to clear File Explorer cache files:
  In the Start menu search bar, search for**command prompt** and select**Run as administrator** . Type**sfc/ scannow** and press**Enter** to run the command.
 
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall Windows Updates
 
  There’s a chance File Explorer’s tabs are still missing even after updating to Windows 11 22H2 because of an update malfunction. In this case, reinstalling the update should fix the problem.
@@ -91,29 +95,24 @@ Follow these steps to clear File Explorer cache files:
 5. Reinstall the update as we’ve shown above.
 
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Get Your File Explorer Tabs Back on Windows 11
 
  The File Explorer tabs were long overdue, so there’s no reason to wait for even more before you can use them. Hopefully, one of the methods above helped you fix the problem, and you can easily browse through multiple folders.
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,21 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ey-points-in-youtube-monetization-overhaul-for-2024/"><u>[New] Key Points in YouTube Monetization Overhaul for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-perfecting-pitched-lines-writing-natural-conversations/"><u>[Updated] 2024 Approved Perfecting Pitched Lines Writing Natural Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-erratic-power-estimate-display-in-windows-11-os/"><u>Correcting the Erratic Power Estimate Display in Windows 11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-issue-when-mfc4dll-is-absent-or-cannot-be-located/"><u>How to Resolve the Issue When Mfc4^_dll Is Absent or Cannot Be Located</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-your-gaming-experience-with-faster-yuzu/"><u>Ignite Your Gaming Experience with Faster Yuzu</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instant-podcast-live-simple-strategies/"><u>In 2024, Instant Podcast Live Simple Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-artists-journey-becoming-a-hue-heavyweight/"><u>In 2024, The Artist's Journey Becoming a Hue Heavyweight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mouse-keys-unite-wake-up-sleeping-devices-post-sleep/"><u>Mouse, Keys Unite! Wake Up Sleeping Devices Post-Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prolific-powerhouses-in-win-11-best-productivity-widgets-list/"><u>Prolific Powerhouses in Win 11: Best Productivity Widgets List</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317443-9781401949969-resilience-from-the-heart/"><u>Resilience from the Heart | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-dead-grammarly-feature-with-simple-steps/"><u>Reviving a Dead Grammarly Feature with Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-unhindered-play-fixing-intermittent-ps4-connection-in-windows/"><u>The Key to Unhindered Play: Fixing Intermittent PS4 Connection in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-truth-a-deep-dive-into-phev-technology-and-features/"><u>Unveiling the Truth: A Deep Dive Into PHEV Technology and Features</u></a></li>
+</ul></div>
 

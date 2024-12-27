@@ -1,7 +1,7 @@
 ---
 title: "Redefining Assistance: Four New Options Post-Cortana"
-date: 2024-08-16T02:38:17.960Z
-updated: 2024-08-17T02:38:17.960Z
+date: 2024-12-25T18:23:54.732Z
+updated: 2024-12-27T21:15:39.532Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
  Microsoft has been getting ready to slash Cortana for a couple of years as it already [discontinued Cortana for Android and iOS devices](https://www.makeuseof.com/microsoft-silences-cortana-android-ios/) back in 2021\. The decision also reflects on Windows 11, where Cortana isn’t enabled by default.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Cortana Gone for Good?
 
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  But if you're already looking for a Microsoft-owned replacement, check out the options below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Voice Access
 
  Microsoft has developed Voice Access so every Windows user, including people with mobility disabilities, to control their computer using their voice.
@@ -48,12 +46,13 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  So, if you’re still using Windows 10, you’ll have to upgrade to Windows 11 to access the feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Microsoft Bing With AI-Powered Search
 
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of Cortana’s best features is that you can easily search the web. Now, Microsoft takes it to the next level by adding AI to its browser. The new AI-powered Bing can answer complex questions by accessing reliable sources across the web.
 
@@ -69,11 +68,16 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  You can have an AI-powered conversation and ask Copilot to change your keyboard layout, turn off Bluetooth, increase the screen brightness, and so on. This way, you can focus on your work instead of going through the Settings menu for every minor system tweak.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft 365 Copilot
 
 ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
@@ -83,22 +87,18 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
  If you want to learn more, check out our guide on [what Microsoft 365 can do](https://www.makeuseof.com/what-is-microsoft-365-copilot/) to simplify your work.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About Third-Party Alternatives to Cortana?
 
  These are just the tools developed by Microsoft that you can use to replace Cortana once it’s no longer supported. While they have some new and exciting features, Voice Access and Windows Copilot are available only for Windows 11, which is not great news for Windows 10 users.
 
  If you’re not willing to update to Windows 11 but still need a replacement, you can check our guide on the [best alternatives to Cortana on Windows 10](https://www.makeuseof.com/best-alternatives-cortana-windows-10/).
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Replace Cortana With AI on Windows
 
  While you might be sad to see Cortana go, Microsoft isn’t leaving you empty-handed and has developed plenty of tools to replace the virtual assistant. But this is only one example of how Microsoft is using AI to revolutionize Windows software.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +106,25 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-curated-top-picks-top-6-mac-video-capture-tools/"><u>[New] 2024 Approved Curated Top Picks Top 6 Mac Video Capture Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-planning-to-performance-tips-for-wirecast-and-facebook-livestreaming/"><u>[New] From Planning to Performance Tips for Wirecast & Facebook Livestreaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-science-spheres-finest-15-youtube-picks-for-2024/"><u>[Updated] Science Sphere's Finest 15 YouTube Picks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/find-9-pathways-to-manage-windows-11-sounds-effectively/"><u>Find 9 Pathways to Manage Windows 11 Sounds Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-active-microphone-input-for-live-recording-obs-and-windows-11/"><u>How to Enable Active Microphone Input for Live Recording, OBS & Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-most-reliable-platforms-to-gather-video-intro-templates/"><u>In 2024, Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-printer-removal-guide-for-windows-users/"><u>Instant Printer Removal Guide for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-network-use-efficient-methods-to-track-personal-data-usage/"><u>Navigating Network Use: Efficient Methods to Track Personal Data Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-confirming-disk-type-hdd-or-nvme/"><u>Quick Tips for Confirming Disk Type – HDD or NVMe?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-silent-speaker-problems-on-windows-pcs/"><u>Remedying Silent Speaker Problems on Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-transition-steps-to-obtain-windows-11/"><u>Seamless Transition Steps to Obtain Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-win-10s-cc-glitches-and-errors/"><u>Swift Solutions to Win 10'S CC Glitches & Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-sound-on-win11-via-created-keyboard-actions/"><u>Tailoring Sound on Win11 via Created Keyboard Actions</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-happens-to-your-data-if-facebook-ever-dies/"><u>What Happens to Your Data if Facebook Ever Dies?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-wonderland-the-art-of-dossiers-design/"><u>Win11 Wonderland: The Art of Dossiers Design</u></a></li>
+</ul></div>
+

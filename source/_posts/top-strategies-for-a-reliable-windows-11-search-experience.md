@@ -1,7 +1,7 @@
 ---
 title: Top Strategies for a Reliable Window's 11 Search Experience
-date: 2024-12-14T18:55:48.053Z
-updated: 2024-12-21T22:01:54.133Z
+date: 2024-12-23T22:35:10.979Z
+updated: 2024-12-27T23:06:58.059Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  If you're having issues typing in the search bar, there are a whole slew of things you can try to fix this specific problem. Fortunately, we have a guide on [fixing Windows Search when it doesn't let you type](https://www.makeuseof.com/windows-11-search-bar-cant-type/), so check that out for more details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check If the Windows Search Bar Is Enabled
 
  While the Search bar comes enabled by default on your Windows 11, it's possible to disable it manually. If you share your PC with other people or if you have tinkered with the settings in the past, it's likely that the search bar might have been disabled. If you're not sure, we suggest you first verify if that's indeed the case.
@@ -42,15 +46,7 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 ![enable windows search from settings on windows 11 to get it working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-search-bar-not-working-enabled.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that the search bar doesn't appear as a bar on Windows 11 like it does on Windows 10\. It appears as a button with a search icon next to the Windows button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  Once you've ended the task, click on the search button in the Windows 11 taskbar (the magnifying glass). Hopefully, it should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Restart the Windows Search Service
@@ -97,14 +93,10 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 ![restarting the windows search bar service by clicking stop button and then start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/restart-windows-search-bar-service.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try using the search bar now and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Rebuild the Windows Search Index
@@ -123,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 ![navigating to the searching windows option in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/searching-windows-settings-app.png)
 
 ![rebuilding the search index by clicking on the rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/rebuild-index-windows-search.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -149,10 +137,6 @@ Close
 
 ##
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Reset Cortana
 
  According to [Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search), you might be able to fix the Windows search not working issue by resetting Cortana if you use Windows 10 version 1809 or earlier.
@@ -171,6 +155,10 @@ Close
 
 ![error in powershell regarding running scripts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/running-scripts-disabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When PowerShell opens, you'll probably see an error that says running scripts is disabled on this system. If you do, execute the following command:
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
@@ -184,6 +172,10 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  Press **Y** and then **Enter** to continue. Exit the PowerShell window and try using Windows search now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reset Windows Search Service by CMD
 
@@ -199,7 +191,15 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 ![executing the cmd commands to restart the search service on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you've reset the service, go ahead and check if the search bar is working normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Reset Windows
 
@@ -209,11 +209,11 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 ![clicking on the reset pc button to start the process of resetting windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/reset-windows.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll now be asked if you want to remove all files or keep them. If you want your Windows in mint condition, select the **Remove everything** option. Otherwise, select the **Keep my files** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did You Fix the Windows Search Not Working Issue?
 
@@ -223,25 +223,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  When the Windows search bar doesn't work as it should, it can be a result of several things. But before you troubleshoot the Windows 11 search bar not working fiasco, let's see if it's enabled in your Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[New] Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>[Updated] In 2024, Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-pathway-to-personalizing-your-game-voice-free-in-free-fire/"><u>2024 Approved The Beginner's Pathway to Personalizing Your Game Voice, FREE in Free Fire</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-complete-scan-of-lg-360-modern-updates-review/"><u>2024 Approved The Complete Scan of LG 360 Modern Updates Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-the-family-shield-top-5-strategies-to-patch-up-issues/"><u>Fix the Family Shield: Top 5 Strategies to Patch Up Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-package-unopened-problem-on-ws11-10-oses/"><u>How to Fix the 'Package Unopened' Problem on WS11, 10 OSes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-3-key-approaches-to-document-dynamic-gaming-moments/"><u>In 2024, 3 Key Approaches to Document Dynamic Gaming Moments</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>In 2024, Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/large-storage-at-a-cost-mp60s-speed-story/"><u>Large Storage at a Cost - MP60's Speed Story</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-network-ghosting-on-pc/"><u>Overcoming Network Ghosting on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rally-rapidly-tackling-mouse-sluggishness-in-sw/"><u>Rally Rapidly: Tackling Mouse Sluggishness in SW</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-the-geforce-experience-scanning-woes-on-your-win/"><u>Solve the GeForce Experience Scanning Woes on Your Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-package-unopenable-error-a-step-by-step-guide/"><u>Solving Windows' Package Unopenable Error: A Step-by-Step Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -249,3 +230,25 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-webcasts-on-demand-a-straightforward-recording-technique/"><u>[Updated] In 2024, Webcasts On Demand A Straightforward Recording Technique</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/windowsdll/"><u>如何找回Windows电脑中消失的DLL文件—解决方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-ultra-2-review-tailor-made-for-me-and-a-100-off-celebration-on-labor-day/"><u>Apple Watch Ultra 2 Review: Tailor-Made for Me and a $100 Off Celebration on Labor Day</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-taskbar-a-step-by-step-guide-to-windows-11-tablets/"><u>Configuring the Taskbar: A Step-by-Step Guide to Windows 11 Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-name-error-for-your-pc/"><u>Correcting 'Invalid Name' Error for Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-perplexing-errorinvalidargument-in-wsl/"><u>Demystifying the Perplexing ERROR_INVALID_ARGUMENT in WSL</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-connections-superior-choices-for-high-speed-gaming/"><u>Elite Connections: Superior Choices for High-Speed Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-t2-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo T2 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-elite-comprehensive-oculus-review-guide/"><u>In 2024, Unveiling the Elite Comprehensive Oculus Review Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographic-purity-and-proficiency-in-chromatic-control-for-2024/"><u>Photographic Purity and Proficiency in Chromatic Control for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventative-measures-against-self-starting-ms-store/"><u>Preventative Measures Against Self-Starting MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-random-printer-behavior-on-pc/"><u>Preventing Random Printer Behavior on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-writing-files-errors/"><u>Resolving Windows 11: Writing Files Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-repairing-file-systems-in-win11/"><u>Strategies for Repairing File Systems in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-mystery-of-a-non-functional-youtube/"><u>Troubleshooting Tips: Solving the Mystery of a Non-Functional YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unite-seconds-across-windows-systems/"><u>Unite Seconds Across Windows Systems</u></a></li>
+</ul></div>
+

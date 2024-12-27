@@ -1,7 +1,7 @@
 ---
 title: Regain Control Over Windows Update Functions
-date: 2024-08-16T02:37:51.965Z
-updated: 2024-08-17T02:37:51.965Z
+date: 2024-12-22T21:41:57.149Z
+updated: 2024-12-27T20:39:02.834Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -92,22 +97,9 @@ net start cryptsvc`
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
  Another way to reset Windows Update components is to [create and run a batch file in Windows](https://www.makeuseof.com/tag/write-simple-batch-bat-file/). Here are the steps to make one:
@@ -170,36 +162,32 @@ net start appidsvc
 net start cryptsvc`
 4. Click the **File** menu at the top, then **Save as**.  
 ![Save a Notepad File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 5. Enter **Reset Windows Components.bat** in the name field and specify your preferred location for saving the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Save as type** drop-down menu to select **All files**, then click on **Save**.
 7. Locate the saved batch file on your PC. Right-click on it and select **Run as administrator** from the context menu.
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
 ![Reset Windows Update Components Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +195,25 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-terminate-discord-access-dual-devices/"><u>[New] In 2024, Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/horts-visibility-enhanced-issue-resolved/"><u>[New] Shorts Visibility Enhanced – Issue Resolved</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransform-your-youtube-profile-incorinaste-gamers-templates/"><u>[New] Transform Your YouTube Profile Incorinaste Gamers' Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-impact-with-effective-backlink-strategies-for-2024/"><u>[Updated] Elevate Your Online Impact with Effective Backlink Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-real-time-tracking-for-insta-unfollower-score/"><u>2024 Approved Real-Time Tracking for Insta Unfollower Score</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-viral-vibes-top-10-playlists-for-up-and-coming-video-shorts/"><u>2024 Approved Viral Vibes Top 10 Playlists for Up-and-Coming Video Shorts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessment-of-kooteks-multipurpose-laptop-chiller-pad/"><u>Assessment of Kootek's Multipurpose Laptop Chiller Pad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-comeback-classics-via-dosbox-x/"><u>Cutting Edge Comeback: Classics via DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-eradicating-the-mysterious-windows-c0000022/"><u>Deciphering and Eradicating the Mysterious Windows C0000022</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pin-security-windows-11-pin-length-enhancement/"><u>Maximizing PIN Security: Windows 11 Pin Length Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-user-folder-name-settings-in-windows-11-os/"><u>Modify User Folder Name Settings in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigational-tools-for-locating-program-storage-on-pc/"><u>Navigational Tools for Locating Program Storage on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-issues-with-disrupted-discord-game-tracking/"><u>Resolving Windows Issues with Disrupted Discord Game Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-windows-11s-default-search-bar-to-icon-format/"><u>Reversing Windows 11'S Default Search Bar to Icon Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unselectable-text-in-windows-pdfs-quick-solutions/"><u>Troubleshooting: Unselectable Text in Windows PDFs - Quick Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-windows-speed-up-overcoming-slow-net-issues/"><u>Zoom Windows Speed Up: Overcoming Slow Net Issues</u></a></li>
+</ul></div>
+

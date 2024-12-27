@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Camera Issue: Saving Images/Videos Problems"
-date: 2024-08-16T02:38:51.455Z
-updated: 2024-08-17T02:38:51.455Z
+date: 2024-12-20T21:30:16.166Z
+updated: 2024-12-27T16:07:03.579Z
 tags:
   - windows10
   - windows11
@@ -30,11 +30,19 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 4. Turn the toggle on for **Camera access**. You can now close the Settings app and check if the problem is resolved.  
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While you are at it, you can also re-add your saved location for storing data and see if that makes a difference.
 
 1. Open the Settings app and navigate to **System** \> **Storage** \> **Where new content is saved**.
 2. Expand the dropdown for "New videos and photos will save to:" and pick another location. For instance, if you have a USB device, pick that.  
 ![Pick a different location to save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-a-different-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is an alternate way of changing the location:
 
@@ -44,7 +52,16 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 4. In the following dialog, click on the **Add** button.  
 ![Change where the camera will save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/change-location-for-camera.jpg)
 5. Now, add your new preferred location and choose **Set Default Save Location**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update the Camera Drivers
 
@@ -57,16 +74,14 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 3. In the following window, expand the Cameras section and right-click on your camera driver.
 4. Choose **Update driver** \> **Search automatically for drivers**.  
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. The utility will now start scanning for an updated version of your driver in the system. If it finds any, follow the on-screen instructions to install it. If it does not, you can click on **Search for updated drivers on Windows Update** to see if an update is available.
 
  You can also head over to your manufacturer’s website, download an updated version from there, and then install it manually.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair the Camera App
 
  The camera app itself can be dealing with an inconsistency or a corruption error which might be preventing it from saving photos and videos. To check if this is the case in your situation, you can make use of the repair option for the camera available in the Windows Settings app.
@@ -85,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 4. Choose **Advanced options** from the context menu.
 5. In the Reset section, click on the **Repair** button.  
 ![Repair Camera app from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Camera.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Wait for the process to complete. This may take a while, depending upon the complexity of the underlying problems.
 
  Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check Your Antivirus and Firewall Settings
 
  Are you using a third-party security program on your Windows device? If so, there is a good chance that the security program is interfering with the operation of the Camera app, preventing it from saving the data.
@@ -103,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  It is, however, important to note that disabling these programs can make your computer vulnerable to risks, so we recommend turning them back on immediately once you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. Reset or Reinstall the Camera App
 
  Finally, if the steps listed above have not worked, you can try resetting or reinstalling the camera app as the last resort.
@@ -121,14 +126,9 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  Once the command executes, launch Microsoft Store and install the Camera app again.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capture and Save Your Moments Again on Windows
 
  A malfunctioning Camera app that can't save your photos or videos can be a real inconvenience, but it is not impossible to fix. Hopefully, the methods above will help you restore your Camera app's functionality and continue capturing life's moments with confidence. To prevent this issue from occurring in the future, it is best to keep your camera drivers up-to-date at all times.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +136,25 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-step-by-step-manual-for-estimating-youtube-ad-revenue-and-views/"><u>[Updated] In 2024, Step-by-Step Manual for Estimating YouTube Ad Revenue & Views</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-memorable-youtube-names/"><u>2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726221855721-cr2tiff-movavi/"><u>線上將CR2數位相機拍立方體編碼成TIFF - 利用Movavi轉換器進行無限制自由使用</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-active-printer-service-errors-in-windows/"><u>Fixing Non-Active Printer Service Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-all-user-permissions-to-default-in-windows-11/"><u>How to Reset All User Permissions to Default in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-copypaste-action-reliability-in-windows-11/"><u>Improving Copy/Paste Action Reliability in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-assessment-the-versatile-samsung-gear-s3-frontier-an-extensive-feature-set-on-your-wrist/"><u>In-Depth Analysis & Assessment: The Versatile Samsung Gear S3 Frontier - An Extensive Feature Set on Your Wrist</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978083865-overcoming-logitech-f71nt-migrate-to-windows-111087-heres-your-fix/"><u>Overcoming Logitech F71n't Migrate to Windows 11/10/8/7? Here's Your Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-winscomrssvc-error-in-windows-startup-procedures/"><u>Resolving WinscomrsSvc Error in Windows Startup Procedures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-best-free-driver-updaters-for-windows/"><u>The 5 Best Free Driver Updaters for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-severe-js-failure-issues-within-discord-specifically-for-win-oses/"><u>Tips to Resolve Severe JS Failure Issues Within Discord, Specifically for Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-hypervisor-blue-screen-in-windows/"><u>Troubleshoot Hypervisor Blue Screen in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unresponsive-gamepad-on-windows/"><u>Troubleshooting Unresponsive Gamepad on Windows</u></a></li>
+</ul></div>
+

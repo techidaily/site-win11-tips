@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dysfunctional Resource Monitor on Windows 11
-date: 2024-12-20T08:57:10.015Z
-updated: 2024-12-22T01:23:39.435Z
+date: 2024-12-23T19:37:44.676Z
+updated: 2024-12-27T22:28:32.834Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
 So, let's move on to the solution and fix this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
@@ -48,7 +48,7 @@ So, let's move on to the solution and fix this problem.
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the DPI Settings
@@ -78,10 +78,6 @@ To do this, follow these steps:
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
 
@@ -97,7 +93,7 @@ sfc /scannow
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
@@ -112,10 +108,6 @@ sfc /scannow
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
@@ -132,10 +124,6 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -147,13 +135,27 @@ In such a case, you need to perform a clean boot as instructed below:
 3. Check the**Selective startup** box on the General tab.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -174,24 +176,22 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-learn-to-flip-videos-a-guide-for-instagram-users/"><u>[New] In 2024, Learn to Flip Videos A Guide for Instagram Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ignite-your-design-prowess-top-14-text-animation-snapshots-for-2024/"><u>[Updated] Ignite Your Design Prowess Top 14 Text Animation Snapshots for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-guide-to-start-product-review-channel/"><u>[Updated] In 2024, Easy Guide to Start Product Review Channel</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-easy-guide-initiating-a-call-or-chat-on-snapchat/"><u>[Updated] In 2024, The Easy Guide Initiating a Call or Chat on Snapchat</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/creative-sound-blaster-zxr-analysis-the-2013-high-end-audio-pioneer/"><u>Creative Sound Blaster ZXR Analysis - The 2013 High-End Audio Pioneer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decode-the-steady-freeze-top-9-fixes-for-windows-update-stall/"><u>Decode the Steady Freeze: Top 9 Fixes for Windows Update Stall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-expertise-crafting-convenient-directories/"><u>Effortless Expertise: Crafting Convenient Directories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-to-troubleshoot-cant-get-mail-on-windows-11-mail/"><u>Essential Tips to Troubleshoot Can't Get Mail on Windows 11 Mail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-upgrade-error-0xc004f050-in-windows/"><u>Fixing Upgrade Error 0XC004F050 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-driver-cant-load-on-this-device-on-windows-11/"><u>How to Fix “A Driver Can’t Load on This Device” On Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nokia C110 Phone without PIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-in-mitigating-chrome-profiles-malfunctions/"><u>Masterclass in Mitigating Chrome Profiles Malfunctions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stick-extras-on-w11-taskbar-quick-guide/"><u>Stick Extras on W11 Taskbar Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-of-ai-pcs-and-their-distinct-features/"><u>The Essence of AI PCs and Their Distinct Features</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava without backup.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-sales-for-july-2024-secure-your-iphone-apple-watch-and-ipad-at-jaw-dropping-prices-zdnet-insider-tips/"><u>Unbeatable Apple Sales for July 2024: Secure Your iPhone, Apple Watch, and iPad at Jaw-Dropping Prices | ZDNET Insider Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unclickers-manual-for-win11-users-facing-issues/"><u>Unclicker's Manual for Win11 Users Facing Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-amd-catalyst-control-center-is-down/"><u>What to Do When Your AMD Catalyst Control Center Is Down</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-discovering-the-secret-to-instagram-voice-change/"><u>[New] 2024 Approved Discovering the Secret to Instagram Voice Change</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition-for-2024/"><u>[New] Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-quick-tips-eradicate-online-ads-from-your-feed/"><u>[Updated] 2024 Approved Quick Tips Eradicate Online Ads From Your Feed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform-for-2024/"><u>[Updated] A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing-for-2024/"><u>A Year In Review How VivaCut Is Shaping the Future of Video Editing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-cloud-and-disk-based-windows-reinstallation-vary/"><u>How Do Cloud and Disk-Based Windows Reinstallation Vary?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-live-large-the-top-5-mac-streaming-applications/"><u>In 2024, Live, Large The Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-11s-zero-error-hurdle/"><u>Mastery over Windows 11'S Zero-Error Hurdle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-in-gta-5-a-comprehensive-guide/"><u>Overcoming Launch Issues in GTA 5 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-screen-placement-in-windows-1011/"><u>Shifting Screen Placement in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilize-your-windows-pointer-instantly-quick-solution/"><u>Stabilize Your Windows Pointer Instantly! Quick Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-blurring-iphone-pics-at-zero-cost/"><u>The Ultimate Guide to Blurring iPhone Pics at Zero Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tidying-up-faulty-recycle-bins-with-windows-11/"><u>Tidying Up Faulty Recycle Bins with WIndows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-by-adding-fav-photos/"><u>Transform Windows' Email/Calendar by Adding Fav Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-windows-0x80070003-file-updater-error/"><u>Troubleshooting: Overcoming Windows' 0X80070003 File Updater Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-your-devices-defense-extend-pin-code-on-win11/"><u>Upgrading Your Device's Defense: Extend Pin Code on Win11</u></a></li>
 </ul></div>
 

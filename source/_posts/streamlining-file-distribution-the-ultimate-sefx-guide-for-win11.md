@@ -1,7 +1,7 @@
 ---
 title: "Streamlining File Distribution: The Ultimate SEFx Guide for Win11"
-date: 2024-08-16T02:40:48.683Z
-updated: 2024-08-17T02:40:48.683Z
+date: 2024-12-22T19:37:54.836Z
+updated: 2024-12-27T21:06:31.844Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,27 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 5. Select the**Extract files only** option and**Next** .  
 ![The Extract files only option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-files-only.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Enter the title**SFX archive** for the package title and click**Next** .
 2. A confirmation prompt for extracting is an optional extra, but it’s a good idea to add one. To do so, select "Prompt user with" and input a confirmation message like "Do you wish to extract archive?"  
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
 3. Click**Next** and select the**Do not display license** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
 ![The Add file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-package-option.jpg)
 5. Click**Next** to proceed to a Show window step. Select the**Default** (recommended) option there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then select**Next** again to go to the finish message step. As it’s not especially important to have a finishing message, select the**No message** radio button.
 
 Now we can get started using IExpress Wizard:
@@ -49,13 +63,19 @@ Now we can get started using IExpress Wizard:
 2. Input**SFX archive** in the**File name** box to match the one entered at step six and click**Save** .  
 ![The Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/save-as-window.jpg)
 3. Press**Next** to reach the options for saving a SED. Click the**Don’t Save** option there.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-self-extracting-archive-option.jpg)
 4. Click**Next** twice more to create the archive.
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Testing the SFX Archive Made With IExpress
 
  Now try extracting the files from your new self-extracting archive. Open the folder you selected to save the archive in. Then double-click the SFX archive.exe archive package.
@@ -63,16 +83,9 @@ Now we can get started using IExpress Wizard:
  A confirmation message will pop up if you set one up as instructed for step seven. Click**Yes** and then press the**Browse** button to select a folder to extract the files. Select**OK** to extract the files in the archive to the chosen folder. Then go to whatever folder you extracted the archive’s files in to open them from them.
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Set Up an SFX Archive With 7-ZIP
 
  7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
@@ -95,25 +108,15 @@ Testing the SFX File With 7-ZIP
  Check out the new self-extracting archive in whatever folder you saved it in. Double-clicking the archive will bring up a 7-Zip self-extracting archive window. Click the button for the**Extract to** box to select a folder. Then click**Extract** to access the archive’s files in the selected folder.
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Share Your Files Within Self-Extracting SFX Archives
 
  It’s easy to set up self-extracting SFX archives with both IExpress and 7-Zip. Creating such archives will enable you to attach more files to emails because they reduce the overall attachment data sizes. Furthermore, recipients of such archives won’t need any extraction software installed to open them up.
@@ -126,8 +129,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-iphones-best-5-podcast-audio-platforms/"><u>[New] 2024 Approved IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] 2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-greatest-7-web-based-recording-tools-2023/"><u>[New] Greatest 7 Web-Based Recording Tools 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-shrinking-icon-size-on-win-11-systems/"><u>Combat Shrinking Icon Size on Win 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-windows-11-security-error-messages-quickly/"><u>Disarming Windows 11 Security Error Messages Quickly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficient-techniques-unveiled-mastering-screen-recordings-with-showmore-for-2024/"><u>Efficient Techniques Unveiled Mastering Screen Recordings with ShowMore for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flawless-file-alignment-for-the-modern-user/"><u>Flawless File Alignment for the Modern User</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-11-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 11 Pro Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-solving-windows-error-0x8007000f/"><u>Quick Guide to Solving Windows Error 0X8007000F</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-camtasia-essentials-how-to-adjust-video-playback-speed-for-2024/"><u>Updated Camtasia Essentials How to Adjust Video Playback Speed for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Brightness on Windows' Volume Controls
-date: 2024-08-16T02:43:10.274Z
-updated: 2024-08-17T02:43:10.274Z
+date: 2024-12-25T20:46:20.816Z
+updated: 2024-12-27T22:33:46.937Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
  Now that you know all the possible culprits behind the issue, let's check out all the solutions that can help fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Convert the Partition to an NTFS File System
 
  Windows only supports certain [file systems](https://www.makeuseof.com/tag/from-fat-to-ntfs-to-zfs-file-systems-demystified-makeuseof-explains/) for partitions. If the partition you want to extend is formatted in a file system incompatible with Windows, you will not be able to extend it.
@@ -44,19 +41,9 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 1. Right-click on the partition and select **Format**.
 2. Choose **NTFS** from the File system drop-down menu. Then, click **OK**.  
 ![File system option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-system-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 2\. Delete a Partition and Create Unallocated Space
 
  The "extend volume" option will gray out if there is no unallocated space next to the partition you want to extend. To create unallocated space, you will have to delete a partition that is next to the partition you want to extend.
@@ -64,8 +51,9 @@ No advertising on the website.
  If the partition is a normal volume, you can simply right-click on it and select **Delete Volume**. However, if the partition contains data, make sure to back it up before deleting it.
 
 ![Delete Volume option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-volume-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the partition is a recovery partition, you cannot delete it using Disk Management. You'll have to delete it using the Command Prompt. Here are the steps to do it:
@@ -75,18 +63,29 @@ No advertising on the website.
 3. Type **list disk** and press **Enter**. This command will display all the available disks.  
 ![list disk command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command-2.jpg)
 4. Select the disk that you want to extend. For example, if you want to extend disk 0, type **select disk 0** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
 
@@ -95,15 +94,14 @@ No advertising on the website.
  Once the wizard completes, you will see the partition size has been increased.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extend Your Windows Partitions Without Any Further Issues
 
  If you run out of space on a drive, you can use the unallocated space to increase storage. However, you will not be able to do so if the extend volume option is grayed out in the Disk Management tool. Fortunately, you can quickly troubleshoot this issue using the solutions above.
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +109,24 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/igital-splendor-on-youtube-the-hue-harmonization-way/"><u>[New] Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>[New] In 2024, Finding Your Ideal Display UltraWide vs UHD 4K Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/evolutionize-your-video-content-with-free-intro-designers/"><u>[New] Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ealthiest-webcast-wonders-for-2024/"><u>[New] Wealthiest Webcast Wonders for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-cutting-edge-strategies-for-voice-documentation/"><u>[Updated] In 2024, Cutting-Edge Strategies for Voice Documentation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-startup-strategies-for-making-money-on-periscope/"><u>2024 Approved Startup Strategies for Making Money on Periscope</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-efficient-uninstall-links-for-win-1011/"><u>Creating Efficient Uninstall Links for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-updates-prompts/"><u>Eliminate Windows Updates Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-file-explorer-tabs-in-windows-11/"><u>How to Disable File Explorer Tabs In Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-expand-windows-volume-no-deletion-necessary/"><u>How to Expand Windows Volume, No Deletion Necessary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-system-insights-through-resource-tracking-tiles/"><u>Improve System Insights Through Resource Tracking Tiles</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/integrating-obs-streams-with-the-worlds-largest-social-network-fb/"><u>Integrating OBS Streams with the World's Largest Social Network, FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-11-sign-in-hurdles/"><u>Navigating Through Windows 11 Sign-In Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-access-denied-on-nvidia-control-panel/"><u>Solutions for Access Denied on Nvidia Control Panel</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-screen-mirroring-issues-windows-11-fixes/"><u>Troubleshooting Microsoft Screen Mirroring Issues: Windows 11 Fixes</u></a></li>
+</ul></div>
+

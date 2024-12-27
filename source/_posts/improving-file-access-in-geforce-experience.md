@@ -1,7 +1,7 @@
 ---
 title: Improving File Access in GeForce Experience
-date: 2024-08-16T02:42:44.334Z
-updated: 2024-08-17T02:42:44.334Z
+date: 2024-12-22T21:03:57.095Z
+updated: 2024-12-27T18:30:16.204Z
 tags:
   - windows10
   - windows11
@@ -29,9 +29,19 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 2. Set the **NVIDIA Share.exe** file in that folder to always run as administrator. Our guide on [always running programs as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) includes instructions for setting elevated rights.  
 ![Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator.jpg)
 3. Then activate Task Manager (press **Ctrl** \+ **Shift** \+ **Esc**) and go to the **Processes** tab in that tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select an NVIDIA background task and click **End task**.  
 ![NVIDIA background processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-background-processes.jpg)
 5. Repeat step four for all NVIDIA background processes shown in Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go back to the NVIDIA GeForce Experience folder, right-click **NVIDIA Share.exe**, and select **Run as administrator**.  
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-as-administrator-option.jpg)
 7. Then select to restart (do not shut down) Windows 11/10\.
@@ -43,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 `C:/Program Files/NVIDIA Corporation/NVIDIA GeForce Experience`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Download Media Feature Pack for Windows N Versions
 
  The “Unable to open share” error also occurs when the Windows Media Feature Pack is not installed on users’ PCs. That pack isn’t pre-installed on Windows 11/10 N editions. The GeForce Experience overlay needs that feature. If your PC has a Windows N edition platform, download and install the Media Feature Pack as follows:
@@ -53,19 +64,21 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 2. Then click on the **Apps** tab.
 3. Click **Optional features** to bring up an installed features list.  
 ![The Optional features navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/optional-features-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Press the **View features** button.  
 ![The View features button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/view-features-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Input **Media Feature Pack** in the search box to find it.  
 ![The Add an optional feature box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/optional-features-search-box.jpg)
 6. Select the **Next** \> **Install** options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The steps for installing the same pack are a little different in Windows 10’s settings app. Click **Apps** \> **Optional features** \> **Add a feature** in Windows 10 Settings. Then input the search phrase to find and install the Media Feature Pack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Some Basic Windows Troubleshooting Tips
 
@@ -79,31 +92,19 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Reinstall GeForce Experience
 
  Reinstalling GeForce Experience is another user-confirmed resolution for the “Unable to share” error. You can remove GeForce Experience via the Control Panel, as outlined in this article about[uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Restart your PC after uninstalling.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/programs-and-features-applet.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To reinstall, open this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/) page; click on the **Download Now** button, and install GeForce Experience again using the executable.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Share Your Gaming Moments in GeForce Experience
 
  GeForce Experience isn’t the same when the “Unable to open share” error effectively disables one of its best features. The potential resolutions above will likely fix the “Unable open share” error, which will restore GeForce Experience’s overlay feature. Then you can capture and share all your best gaming moments again.
 
  The “unable to open share” error means the GeForce Experience overlay doesn’t work when users try to activate it. GeForce Experience users can’t capture and share gaming moments without that overlay. Here is how you can fix the “unable to open share” error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +112,27 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-masterful-mac-capturing-techniques-explored-for-2024/"><u>[New] Masterful Mac Capturing Techniques Explored for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-movavis-latest-video-edition-a-comprehensive-review/"><u>[New] Movavi’s Latest Video Edition A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-dare-to-differentiate-using-square-videos-for-social-media-standout/"><u>[Updated] In 2024, Dare to Differentiate Using Square Videos for Social Media Standout</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selection-childrens-drone-choices/"><u>2024 Approved Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/accessing-google-meet-via-device/"><u>Accessing Google Meet via Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-app-starter-issue-code-0xc000003e/"><u>Eliminating Windows 10/11 App Starter Issue: Code 0XC000003E</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-k70e-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi K70E Without PUK Codes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-8k-showcase-cameras-at-the-forefront/"><u>In 2024, Ultimate 8K Showcase Cameras at the Forefront</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-video-potential-the-art-of-youtube-live-360-streaming/"><u>In 2024, Unlocking Video Potential The Art of YouTube Live 360 Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fn-key-onoff-guide-for-windows-users/"><u>Mastering Fn Key: On/Off Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-powershell-scripts-to-unblock-files/"><u>Navigating Through PowerShell Scripts to Unblock Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-pc-name-not-valid-issue-on-windows/"><u>Overcoming the PC Name Not Valid Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-silenced-voice-recognition-your-win11-guide/"><u>Reviving the Silenced Voice Recognition: Your Win11 Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-reality-top-vr-peripherals-for-2024/"><u>Revolutionizing Reality Top VR Peripherals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-savvy-strategies-testing-audiovisual-gear-before-meetings/"><u>Tech-Savvy Strategies: Testing Audio/Visual Gear Before Meetings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-syncing-in-ms-to-do-app/"><u>Troubleshooting Non-Syncing in MS To-Do App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-your-toolbar-6-solutions-for-stuck-context-menus/"><u>Unfreeze Your Toolbar: 6 Solutions for Stuck Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-adjustment-guide-dealing-with-windows-overscan/"><u>Window Adjustment Guide: Dealing with Windows Overscan</u></a></li>
+</ul></div>
+

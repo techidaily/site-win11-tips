@@ -1,7 +1,7 @@
 ---
 title: "Enhance Command Line Experience: Make Terminal First"
-date: 2024-08-16T02:39:26.118Z
-updated: 2024-08-17T02:39:26.118Z
+date: 2024-12-20T19:13:39.946Z
+updated: 2024-12-27T17:10:47.866Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Use Windows Terminal Instead of Command Prompt or Windows PowerShell?
 
  There are multiple reasons why you should prefer Windows Terminal over Command Prompt or Windows PowerShell. Let’s check out all of them one by one:
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Now that we know all its advantages, let’s check out how to make Windows Terminal your default terminal app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Settings
 
  The quickest way to make Windows Terminal your default app to make command-line operations is through the Windows Settings app. Here are the steps to do that:
@@ -44,15 +45,17 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![For developers option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/for-developers-option.jpg)
 3. Click the **drop-down icon** next to the **Terminal** option and choose **Windows Terminal** from the menu that appears.  
 ![Windows Terminal option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-terminal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s about it. Now, whenever you try to open a command-line program, it will be launched through the Windows Terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Terminal Settings
 
  Another quick way to configure your default terminal app is through the Windows Terminal settings. Here’s how:
@@ -60,12 +63,18 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 1. Press the **Win** key to open the **Start Menu**, type **Terminal** in the search bar, and press Enter.
 2. Click the **drop-down icon** next to the **plus icon** and choose **Settings** from the context menu.  
 ![Settings option in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose **Startup** from the left sidebar, click the **drop-down icon** next to the **Default** **terminal** **application**, and choose **Windows** **Terminal** from the menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
 4. Click the **Save** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Windows Terminal as Your Default Terminal App by Editing the Command Prompt Properties
 
@@ -76,25 +85,16 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 1. Open the **Start Menu**, type **Command** **Prompt** in the search bar, and choose **Run as administrator** from the right pane.
 2. Right-click on the **Command** **Prompt** title bar and choose **Properties**.  
 ![Properties option in Comman Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Switch to the **Terminal tab**.
 4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
 ![Default Terminal Application drop-down menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-terminal-application-drop-down-menu.jpg)
 5. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Start Using the Windows Terminal as Your Default
 
  While Command Prompt and Windows PowerShell are useful, there are various reasons to opt for Windows Terminal. Whether you're a developer working with multiple operating systems and environments or simply seeking a more user-friendly command line tool, Windows Terminal should be your default terminal application. You can easily set it as your default terminal app using the above-mentioned methods.
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +102,20 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-mind-maze-spectacle-exclusive-trivia-channel-line-up-for-2024/"><u>[New] Mind Maze Spectacle Exclusive Trivia Channel Line-Up for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-whats-catching-eyes-the-leading-8-video-sensations-for-2024/"><u>[New] What's Catching Eyes? The Leading 8 Video Sensations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-puzzles-unlocked-discovering-best-escape-halls/"><u>[Updated] Elite Puzzles Unlocked Discovering Best Escape Halls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-inc-winxdvd-company-overview-and-introduction/"><u>Digiarty Software, Inc. (WinXDVD) | Company Overview and Introduction</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-realme-narzo-60x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme Narzo 60x 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-navigation-top-7-windows-based-browsers-with-low-ram/"><u>Efficient Window Navigation: Top 7 Windows-Based Browsers with Low RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-windows-breaking-point-failure/"><u>How to Address the Windows Breaking Point Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-11-safety-filters-easily/"><u>How to Adjust Windows 11 Safety Filters Easily</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-steps-for-google-play-on-win11/"><u>Installation Steps for Google Play on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-application-guard-for-printers-in-edge/"><u>Setting Up Application Guard for Printers in Edge</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideographers-toolkit-for-easy-downloads/"><u>Top Videographers' Toolkit for Easy Downloads</u></a></li>
+</ul></div>
+

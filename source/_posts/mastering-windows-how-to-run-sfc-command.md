@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: How to Run SFC Command"
-date: 2024-12-19T03:18:39.445Z
-updated: 2024-12-21T17:26:20.352Z
+date: 2024-12-25T17:47:10.271Z
+updated: 2024-12-27T17:17:34.566Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run a System File Checker Scan on Windows
 
  To use the SFC, you need to run a single command in Command Prompt. Here’s how:
@@ -53,10 +49,14 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the SFC Log File On Windows
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -108,12 +104,16 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
@@ -143,18 +143,20 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-survey-life-through-the-spinning-sphere-of-samsung/"><u>[New] 2024 Approved Comprehensive Survey Life Through the Spinning Sphere of Samsung</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
-<li><a href="https://win-info.techidaily.com/5ywo6z2i5a2457pluss6lev57ea5zyw77ya5aac5l2v6lplusf6ycf5zyo6kii566x5qmf5lit5omplus5yiw5qqu5qgi77yf/"><u>全面學習路線圖：如何迅速在計算機中找到檔案？</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-13t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi 13T via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-resolving-audacitys-windows-audio-glitch/"><u>Diagnosing and Resolving Audacity's Windows Audio Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-media-quality-with-minimal-lag-in-vlc/"><u>Elevating Media Quality with Minimal Lag in VLC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-metas-portal-to-vr-how-to-establish-an-oculus-questquest-2-identity/"><u>Navigating Meta's Portal to VR: How To Establish An Oculus Quest/Quest 2 Identity</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-connected-status-to-siblings-print-device/"><u>Restoring Connected Status to Sibling's Print Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-sound-in-windows-10-a-comprehensive-guide/"><u>Restoring Sound in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-user-profile-service-breakdown-in-windows-11-login-process/"><u>Step-by-Step Tutorial: Overcoming 'User Profile Service' Breakdown in Windows 11 Login Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-solve-invalid-profile-on-windows-pc/"><u>Steps to Solve 'Invalid Profile' On Windows PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-desired-additions-for-visionos-anticipated-updates-from-apple-in-the-latest-wwdc-highlights-insights/"><u>Top 10 Desired Additions for VisionOS: Anticipated Updates From Apple in the Latest WWDC Highlights Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-path-to-prominence-secure-1000-ig-alliesmonth-for-2024/"><u>[Updated] The Path to Prominence Secure 1,000 IG Allies/Month for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-inadept-pc-specifications-for-games/"><u>Correcting Inadept PC Specifications for Games</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disabled-outlook-notification-settings-in-windows/"><u>Fixing Disabled Outlook Notification Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-security-benefits-of-powershells-execution-policies/"><u>Harness the Security Benefits of PowerShell's Execution Policies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>In 2024, Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/jubilant-join-and-leave-steps/"><u>Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-to-a-spotlighted-mouse-cursor/"><u>Revealing the Secrets to a Spotlighted Mouse Cursor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-winstore-failure-error-0x800704cf/"><u>Reversing WinStore Failure: Error 0X800704CF</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/snapping-back-up-a-comprehensive-guide-to-restoring-your-lost-snapchats-on-windows-iphone-and-android-systems/"><u>Snapping Back Up: A Comprehensive Guide to Restoring Your Lost Snapchats on Windows, iPhone & Android Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-methods-to-address-steam-logins-delay-rust-and-windows-focus/"><u>Strategic Methods to Address Steam Logins Delay: Rust & Windows Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-reactivate-taskbar-icons/"><u>Tactics to Reactivate Taskbar Icons</u></a></li>
+<li><a href="https://media-tips.techidaily.com/turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pros-finest-10-iconic-films/"><u>Updated In 2024, Final Cut Pros Finest 10 Iconic Films</u></a></li>
 </ul></div>
 

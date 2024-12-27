@@ -1,7 +1,7 @@
 ---
 title: Resolving Exception Breakpoint Reached on Windows System
-date: 2024-12-20T06:48:00.674Z
-updated: 2024-12-21T18:03:10.053Z
+date: 2024-12-22T17:14:09.705Z
+updated: 2024-12-27T19:10:18.801Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -37,6 +41,10 @@ To disable startup apps on Windows:
 4. Click the**Status** column to sort the table with the enabled apps at the top.
 5. Select all the apps one by one and click**Disabled** .  
 ![disable startup apps windows 11 new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/disable-startup-apps-windows-11-new.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
@@ -61,10 +69,6 @@ Follow these steps to run the DISM and System File Checker tools:
 `sfc /scannow`
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
@@ -102,24 +106,25 @@ To run the CHKDSK tool:
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
-7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
-8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
+8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
@@ -137,10 +142,6 @@ To uninstall an application on Windows:
 4. Type the name of your app in the search bar.  
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
@@ -166,18 +167,19 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leading-minds-in-online-creation/"><u>[New] Leading Minds in Online Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploiting-slow-motion-magic-in-phantom/"><u>[Updated] Exploiting Slow-Motion Magic in Phantom</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-steps-for-converting-veg-files-into-mp4-using-sony-vegas-pro/"><u>Easy Steps for Converting VEG Files Into MP4 Using Sony Vegas Pro</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/effortlessly-transferring-instagram-clips-from-mobile-to-desktop-using-5kplayer-methods/"><u>Effortlessly Transferring Instagram Clips From Mobile to Desktop Using #5Kplayer Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-purpose-of-x-marked-folders-in-windows/"><u>Exploring: The Purpose of X-Marked Folders in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-auto-start-and-update-searches-by-discord/"><u>Guide to Disabling Auto-Start & Update Searches by Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-software-shortcuts-to-windows-11s-desktop-context-menu/"><u>How to Add Software Shortcuts to Windows 11’S Desktop Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-nvidia-settings-are-unavailable-window/"><u>Overcoming Error: Nvidia Settings Are Unavailable Window</u></a></li>
-<li><a href="https://facebook.techidaily.com/shifting-social-identity-new-name-same-network-on-fb/"><u>Shifting Social Identity: New Name, Same Network on FB</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-dealing-with-persistent-fuser-applications-failures-in-windows/"><u>Solved! Dealing with Persistent 'Fuser' Applications Failures in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-unrequested-search-menu-opens-in-win11/"><u>Stopping Unrequested Search Menu Opens in Win11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-23-amazing-last-minute-labor-day-sale-on-laptops-get-them-before-theyre-gone/"><u>Top 23 Amazing Last-Minute Labor Day Sale on Laptops: Get Them Before They're Gone!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-artistic-potential-through-windows-generate-delete/"><u>Unleashing Artistic Potential Through Windows' Generate Delete</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-decreasing-obs-stream-quality/"><u>[New] 2024 Approved Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[New] 2024 Approved Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-turn-your-videos-backwards-on-phone/"><u>[New] 2024 Approved Turn Your Videos Backwards on Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>[Updated] Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
+<li><a href="https://win-community.techidaily.com/creation-dune-cle-usb-bootable-made-easy-les-applications-gratuites-and-performantes-a-privilegier-en-2023/"><u>Création D'une Clé USB Bootable Made Easy: Les Applications Gratuites & Performantes À Privilégier en 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-limited-edition-feature/"><u>Decoding Windows 11’S Limited Edition Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-scoring-a-deal-cut-costs-by-200-on-your-next-gopro-hero-n-camera-purchase/"><u>Expert Tips for Scoring a Deal: Cut Costs by $200 on Your Next GoPro Hero N Camera Purchase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-integrated-graphics-on-windows-and-when-you-should/"><u>How to Disable Integrated Graphics on Windows (and When You Should)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intrusive-invaders-out-4-routines-for-eradicating-users-from-win11/"><u>Intrusive Invaders Out!: 4 Routines for Eradicating Users From Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-audio-driver-issues-in-win10/"><u>Resolving Audio Driver Issues in Win10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scam-redefined-new-meta-signature-era/"><u>Scam Redefined: New Meta Signature Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/signing-out-unknown-windows-accounts-with-ease-on-win-11/"><u>Signing Out Unknown Windows Accounts with Ease on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-snipping-tool-activation-via-print-screen-key-in-windows-11/"><u>Stop Snipping Tool Activation via Print Screen Key in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-9-steps-for-successful-icloud-syncing/"><u>Troubleshoot Your iPhone: 9 Steps for Successful iCloud Syncing</u></a></li>
 </ul></div>
 

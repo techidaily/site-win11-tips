@@ -1,7 +1,7 @@
 ---
 title: "Windows Shield: Adopt These 7 Secure Protocols"
-date: 2024-12-15T04:21:24.944Z
-updated: 2024-12-22T00:16:31.317Z
+date: 2024-12-21T23:00:02.230Z
+updated: 2024-12-27T19:50:46.951Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  So, after you have set up 2FA, even if someone manages to figure out your password, they will also need the contact code that's received to your email or phone after you enter the password. Naturally, this makes unauthorized access to your Windows account extremely difficult.
 
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable Windows Security
 
@@ -71,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
@@ -81,25 +77,29 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
 
  These regular updates are crucial to protect yourself from ever-evolving malware and hacks in the 21st century. So, make sure you have enabled automatic updates on your Windows, or at least [manually get your Windows updates regularly](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Keep Aware of Social Engineering Tactics
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
@@ -119,23 +119,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>[Updated] Master iPhone Cinematography Top 8 Tips for Professional Video Shooting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-professional-techniques-editing-and-saving-movies-in-win-11/"><u>[Updated] Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/coping-with-unsuccessful-disco-updates-on-windows-systems/"><u>Coping with Unsuccessful Disco Updates on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dial-back-the-clicking-speed-disabling-acceleration-on-windows-11/"><u>Dial Back the Clicking Speed: Disabling Acceleration on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-spotify-automatic-startup/"><u>Guide to Turn Off Spotify Automatic Startup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/macx-video-converter-pro-2021-authentic-license-key-and-serial-number/"><u>MacX Video Converter Pro 2021: Authentic License Key & Serial Number</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-excellence-in-audio-manipulation-ios-devices-top-selection/"><u>New 2024 Approved Excellence in Audio Manipulation IOS Devices Top Selection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-kickstart-windows-operator-downloads/"><u>Quick Remedies to Kickstart Windows Operator Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-steam-backup-mishaps-on-windows-10/"><u>Remedying Steam Backup Mishaps on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-clearing-darkened-windows-remote-pc/"><u>Techniques for Clearing Darkened Windows Remote PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uncover-the-leaders-1-6-in-global-short-video-clips-for-2024/"><u>Uncover the Leaders #1-#6 in Global Short Video Clips for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +126,24 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/tructuring-complex-topics-in-youtube-content-a-chapter-by-chapter-approach-for-2024/"><u>[New] Structuring Complex Topics in YouTube Content A Chapter by Chapter Approach for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-professional-filmmaking-skills-within-xp/"><u>[New] Unlock Professional Filmmaking Skills Within XP</u></a></li>
+<li><a href="https://win-online.techidaily.com/m4bwma-movavi-audio-converter/"><u>免費線上M4B至WMA音頻格式自動轉換工具 - Movavi Audio Converter</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g13-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G13 Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-your-iphone-running-slow-uncover-effective-methods-to-accelerate-its-functionality/"><u>Is Your iPhone Running Slow? Uncover Effective Methods to Accelerate Its Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-fade-inout-processes-in-audacity/"><u>Navigating Fade-In/Out Processes in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-windows-future-with-ai-tech-trends/"><u>Pioneering Windows' Future with AI Tech Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tools-for-windows-users-mastering-command-line-shortcuts/"><u>Pro Tools for Windows Users: Mastering Command-Line Shortcuts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quickly-resolve-your-iphone-and-ipad-widget-issues-with-these-10-tips/"><u>Quickly Resolve Your iPhone and iPad Widget Issues with These 10 Tips!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscover-your-preferred-applications-from-the-ms-store/"><u>Rediscover Your Preferred Applications From the MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-the-lack-of-rockalldlldll-in-windows/"><u>Remedy for the Lack of Rockalldll.dll in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-wrong-backup-settings-in-windows/"><u>Resolving WinError: Wrong Backup Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-configure-intel-ethernet-drivers/"><u>Simplified Steps to Configure Intel Ethernet Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-tasks-cleaning-out-your-computers-windows-os/"><u>Top 8 Tasks: Cleaning Out Your Computer's Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-faster-boot-times-windows-11-guide/"><u>Unleashing Faster Boot Times: Windows 11 Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cartoonize-your-photos-instantly-for-2024/"><u>Updated Cartoonize Your Photos Instantly for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2024-12-19T04:19:00.166Z
-updated: 2024-12-22T07:23:27.386Z
+date: 2024-12-23T21:22:29.563Z
+updated: 2024-12-27T18:54:53.850Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Utilize the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter could be a useful tool for fixing the “Looks like you’re stranded” error. This is how you can utilize the Windows Store App troubleshooter:
@@ -47,12 +43,17 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 4. Click **Run** for the Windows Store Apps troubleshooter.  
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters-in-settings.jpg)
 5. Then apply potential resolutions proposed within the troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall Your Xbox App
@@ -62,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
@@ -75,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Select the Xbox App’s Reset Option
 
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -94,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
@@ -103,21 +104,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/est-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[New] Best of Breed Top-Rated Youtuber's Streaming Arsenal</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[Updated] 2024 Approved Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-insiders-guide-to-premium-camera-lenses-in-4k-for-2024/"><u>[Updated] The Insider's Guide to Premium Camera Lenses in 4K for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-pick-websites-showcasing-hd-sky-shots/"><u>Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-rectifying-code-0x0000004e-on-pcs/"><u>Expert Tips: Rectifying Code 0X0000004E on PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-high-power-consumption-of-winwms-graphics-engine/"><u>Reducing High Power Consumption of WinWM's Graphics Engine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-android-as-webcams-on-windows-11-pcs/"><u>The Ultimate Guide to Android as Webcams on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-potential-the-power-of-microsofts-copilot-key-on-windows-11/"><u>Unleashing Potential: The Power of Microsoft's Copilot Key on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +111,23 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-live-stream-providers-with-10-top-insights/"><u>[New] Navigating Live Stream Providers with 10 Top Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-affordable-no-frills-screen-recorders-for-2024/"><u>[Updated] Top 5 Affordable, No-Frills Screen Recorders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-increasing-clarity-with-enhanced-youtube-videos/"><u>2024 Approved Increasing Clarity with Enhanced YouTube Videos</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-site-performance-enhancing-user-experience-with-personalization/"><u>Cookiebot-Enhanced Site Performance: Enhancing User Experience with Personalization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-repair-time-in-windows-setting-up-custom-hotkeys/"><u>Cutting Down Repair Time in Windows: Setting Up Custom Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-influence-of-runtime-broker-on-pcs/"><u>Demystifying the Influence of Runtime Broker on PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevating-zoom-image-resolution-practical-ideas/"><u>Elevating Zoom Image Resolution Practical Ideas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-windows-11-the-fix-for-license-near-expiry/"><u>Handling Windows 11: The Fix for 'License Near Expiry'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oneplus-nord-3-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of OnePlus Nord 3 5G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>In 2024, Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-directories-in-explorer/"><u>Reinstating Absent Directories in Explorer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-liquid-warning-issue-tips-for-a-usb-c-connection-without-trouble/"><u>Solve Your iPhone's Liquid Warning Issue: Tips for a USB-C Connection without Trouble</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317732-9781401928681-the-little-book-of-big-promises/"><u>The Little Book of Big Promises | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-progress-in-windows-update-issues/"><u>Unblocking Progress in Windows Update Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-copilot-key-and-its-impact-on-windows-11-pcs/"><u>Unraveling the Mystery of Copilot Key and Its Impact on Windows 11 PCs</u></a></li>
+</ul></div>
+

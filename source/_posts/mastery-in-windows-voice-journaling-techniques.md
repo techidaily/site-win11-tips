@@ -1,7 +1,7 @@
 ---
 title: Mastery in Windows Voice Journaling Techniques
-date: 2024-08-16T02:37:53.018Z
-updated: 2024-08-17T02:37:53.018Z
+date: 2024-12-20T16:52:04.845Z
+updated: 2024-12-27T16:56:56.099Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,26 @@ Here is how you can use it to record your calls:
 ![Press the Record button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-record.jpg)
 5. Alternatively, press the Ctrl + R keys on the keyboard to start the recording.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click**Yes** in the User Account Control prompt to grant the app permission to access your sound device.
 2. Press the**Pause** button or press the Alt + P keys together to pause the recording.
 3. To stop the recording, press the**Stop** button or press the Esc, Enter, or Space keys on your keyboard.
 4. Once the recording has stopped, you can share it by pressing the**Share** icon in the top right corner of the window.  
 ![Share the recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-share.jpg)
 5. To access more options, click on the three dots in the top right corner. You can choose to rename and delete the recording or access the settings menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Advanced menu of the recorder app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your recording is now ready to be used.
 
@@ -55,10 +68,19 @@ Follow these steps to proceed:
 ![View the disabled devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-show-disabled-devices.jpg)
 5. You should now see Stereo Mix in the dialog. Right-click on it and choose**Enable** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once done, right-click on the sound icon in your taskbar.
 2. Choose**Sound settings** \>**More sound settings** .  
 ![Access the sound settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-sound-settings.jpg)
 3. Head over to the**Recording** tab and click on your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose your microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-microphone.jpg)
 4. Go to the**Listen** tab and checkmark the box associated with**Listen to Device** .  
 ![Enable the listening device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-listen-to-this-device.jpg)
@@ -66,9 +88,6 @@ Follow these steps to proceed:
 
  Once this is done, you can use the recorder app of Windows to successfully record the calls. You can also[set up a voice recorder shortcut on your keyboard](https://www.makeuseof.com/windows-11-voice-recorder-keyboard-shortcuts/) to access this feature even quicker.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Use a Third-Party App
 
  If the built-in Windows app does not do the trick for you, then you can also try using a third-party application to record calls.
@@ -79,35 +98,25 @@ Here is how you can use it:
 
 1. Head over to the[official download page for Audacity](https://www.audacityteam.org/) and click on the**Download** button.  
 ![Download Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-download.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Once the file is downloaded, click on it to launch it.
 3. Follow the on-screen instructions to install the app.
 4. Once the app is installed, open it.
 5. Expand the dropdown for**Audio Setup** and choose your preferred device.  
 ![Click on the Audio Setup button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-audio-setup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 6. To start recording, click on the red**Record button** in the top pane. You can also use the Shift + R keyboard shortcut.  
-![Press the Record button to start recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-record.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Press the Record button to start recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-record.jpg)
 7. To pause, click on the**Pause button** or press P on your keyboard.  
 ![Pause button in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-pause.jpg)
 8. Finally, once you are done recording, click on the**Stop button** in the toolbar to end the recording. You can use the**Share** option in the toolbar to transport the file.  
 ![Stop the recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-stop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This app comes with a variety of advanced options to customize your recordings, which you can make use of as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Record Important Calls on Windows, Easily
 
  The benefit of call recordings can't be overstated, whether you're attending an important work call and don't want to forget important points, or if you're chatting with a shady person whom you fear will blackmail you later on.
@@ -120,8 +129,6 @@ Here is how you can use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +136,18 @@ Here is how you can use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elevate-your-social-media-hd-1080p-live-videos/"><u>[New] 2024 Approved Elevate Your Social Media HD (1080P) Live Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-of-ms-error-lookup-in-w11/"><u>A Comprehensive Walkthrough of MS Error Lookup in W11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-old-laptops-back-from-the-dead-with-dsl-comprehensive-how-to/"><u>Bring Old Laptops Back From the Dead with DSL: Comprehensive How-To</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-converting-aparat-videos-into-multiple-formats-mp4-avi-mov-for-offline-viewing/"><u>Guide: Converting Aparat Videos Into Multiple Formats (MP4, AVI, MOV) for Offline Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-fidelity-mobile-sound-selector/"><u>High Fidelity Mobile Sound Selector</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-soften-edges-and-focus-a-pcmobile-guide-for-2024/"><u>Learn to Soften Edges & Focus A PC/Mobile Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-calling-a-breeze-utilizing-the-intel-unison-app-on-w11-devices/"><u>Make Calling a Breeze: Utilizing the Intel Unison App on W11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sound-levels-windows-11s-volume-mixer-guide/"><u>Mastering Sound Levels: Windows 11'S Volume Mixer Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-past-disabled-script-constraints-in-windows-ps/"><u>Pushing Past Disabled Script Constraints in Windows PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-methods-to-use-both-network-types-on-a-single-windows-device/"><u>Step-by-Step Methods to Use Both Network Types on a Single Windows Device</u></a></li>
+</ul></div>
 

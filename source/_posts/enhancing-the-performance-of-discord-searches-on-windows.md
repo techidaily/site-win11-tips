@@ -1,7 +1,7 @@
 ---
 title: Enhancing the Performance of Discord Searches on Windows
-date: 2024-08-16T02:37:21.362Z
-updated: 2024-08-17T02:37:21.362Z
+date: 2024-12-24T20:29:54.883Z
+updated: 2024-12-27T19:31:51.892Z
 tags:
   - windows10
   - windows11
@@ -45,15 +45,25 @@ Here's how you can check and fix your internet-related issues:
 2. Select**Command Prompt (Admin)** from the list of options. You can also click the**Terminal (Admin)** option.  
 ![Windows Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-power-user-menu.jpg)
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
-![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that this method will restore your network settings to their default values. There's nothing to worry about, as it will not do any harm to your internet connection.
 
  Besides, you should also[fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update the Discord Windows Client
 
@@ -66,23 +76,6 @@ Here's how you can check and fix your internet-related issues:
 * Open your Discord app and press**Ctrl + R** . This will force the Windows client to search for any latest updates.
 * Alternatively, you can click the**Show hidden icons** toggle on the taskbar. Find the**Discord** icon and right-click on it. Select**Check for Updates** option from the mini context-menu.  
 ![Discord Icon On Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-icon-on-taskbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
 
 ## 3\. Disable Your VPN or Proxy
@@ -96,15 +89,13 @@ Key features:
 1. Press**Win + I** on your keyboard to launch the Windows settings app.
 2. Navigate to**Network & Internet > VPN** settings.  
 ![Network And Internet Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/network-and-internet-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Under**VPN connections** , click the**Disconnect** button next to your connected VPN.  
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
@@ -120,10 +111,11 @@ Below are the steps you need to perform to disable the Streamer Mode:
 2. Navigate to the**Streamer Mode** option from the left-hand sidebar.
 3. Toggle the**Enable Streamer Mode** switch to off. The on/off switch will then turn to gray color.  
 ![Discord Streamer Mode Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-streamer-mode-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear Discord's AppData Cache Folder
 
@@ -139,11 +131,12 @@ Here's how you can clear Discord's cache files on Windows:
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Discord Windows Client
 
  If the above solutions don't work, try reinstalling the Discord app. This will remove all the corrupted files and cookies data, which may have been causing the search problem.
@@ -153,20 +146,18 @@ Here's how you can clear Discord's cache files on Windows:
 1. First, uninstall Discord properly using one of the[ways to remove Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 2. Go to the[Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
 ![Discord Downloads Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-downloads-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Double-click the downloaded file to launch the Discord installer setup.
 4. Log in to your Discord account and try searching messages now via the search bar.
 
  Hopefully, this should help you quickly resolve any issues with Discord's search functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Some Miscellaneous Fixes to Try
 
  If you've tried everything and still can't get Discord's search function to work, try the following miscellaneous fixes once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Your Discord Plugins
 
@@ -178,23 +169,17 @@ Here's how you can clear Discord's cache files on Windows:
 
  Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Discord’s Search Functionality in No Time on Windows
 
  The search feature is undoubtedly handy for finding any message on big servers. You can apply different filters or search messages from a specific user. But, when Discord search stops working, it can waste your day scrolling for the message.
 
  Hopefully, the mentioned troubleshooting measures should help you get the search option back in no time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -203,4 +188,26 @@ Here's how you can clear Discord's cache files on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gelatogags-humor-graphics-online/"><u>[New] GelatoGags Humor Graphics Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-exploring-virtual-landscapes-with-android-vr360-for-2024/"><u>[Updated] Exploring Virtual Landscapes with Android (VR/360) for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastery-in-making-single-stream-live-events-stand-out-for-2024/"><u>[Updated] Mastery in Making Single-Stream LIVE Events Stand Out for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>[Updated] Professional Voice Capture on Mac Compiling The Best 5 Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-google-pixel-7a-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Google Pixel 7a</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/custom-desktop-organization-stick-gmail-on-windows-edge/"><u>Custom Desktop Organization: Stick Gmail on Windows Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-graphics-performance-with-more-vram/"><u>Elevating Graphics Performance with More VRAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/everything-you-need-to-know-about-windows-screen-savers/"><u>Everything You Need to Know About Windows Screen Savers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-and-redo-app-registrations-windows-11/"><u>How to Unblock and Redo App Registrations (Windows 11)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>In 2024, Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-gaming-sessions-without-microsofts-intervention/"><u>In 2024, Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-window-management-utilizing-end-task-option-windows-11/"><u>Mastering the Art of Window Management: Utilizing End Task Option (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-tips-for-edge-view2-process/"><u>Reducing Resource Consumption: Tips for Edge View2 Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-windows-configuration-dashboard/"><u>Reviving the Windows Configuration Dashboard</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-g54-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola G54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-quick-fixes-keyboard-shortcuts-for-win-11-issues/"><u>Unlocking Quick Fixes: Keyboard Shortcuts for Win 11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-disk-varieties-via-windows-tools/"><u>Unveiling Disk Varieties via Windows Tools</u></a></li>
+</ul></div>
 

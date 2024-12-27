@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Confirming Disk Type – HDD or NVMe?
-date: 2024-12-18T06:16:47.327Z
-updated: 2024-12-22T07:02:27.487Z
+date: 2024-12-25T21:26:59.508Z
+updated: 2024-12-27T22:01:48.475Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-the-moment-masterful-techniques-for-excellent-edits/"><u>[Updated] Capturing the Moment Masterful Techniques for Excellent Edits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-org-managed-configuration-issues-in-windows-11-os/"><u>Correcting Org-Managed Configuration Issues in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cure-the-default-path-failure-on-windows-devices/"><u>Cure the Default Path Failure on Windows Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721378648420-digital-distrust-spotting-impostor-chatgpt-sites-for-security/"><u>Digital Distrust: Spotting Impostor ChatGPT Sites for Security</u></a></li>
-<li><a href="https://win-best.techidaily.com/easy-audio-conversion-tutorial-change-your-wav-recordings-into-mp3-with-audacity/"><u>Easy Audio Conversion Tutorial: Change Your WAV Recordings Into MP3 with Audacity</u></a></li>
-<li><a href="https://win-forum.techidaily.com/enhanced-microsoft-excel-online-experience-latest-upgrades-unveiled/"><u>Enhanced Microsoft Excel Online Experience - Latest Upgrades Unveiled</u></a></li>
-<li><a href="https://solve-news.techidaily.com/fast-track-tips-crafting-compelling-shorts-for-your-ig-audience/"><u>Fast-Track Tips: Crafting Compelling Shorts for Your IG Audience</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-fix-out-of-memory-error-on-your-scanner-expert-tips-from-yl-computing/"><u>How to Fix 'Out of Memory' Error on Your Scanner: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>In 2024, Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/live-video-breakthrough-perfect-screen-share-tactics-for-fb/"><u>Live Video Breakthrough Perfect Screen-Share Tactics for Fb</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-reconnect-lost-razer-devices-via-windows-synapse/"><u>Methods to Reconnect Lost Razer Devices via WIndows' Synapse</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-a34-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy A34 5G, is it possible?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x80070522-clients-access-rights-enhancement/"><u>Tackling Windows Error 0X80070522: Client's Access Rights Enhancement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-frame-ratio-classifications/"><u>[New] In 2024, FB Video Frame Ratio Classifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-step-by-step-process-for-converting-your-mp3-collection-into-widespread-high-quality-audio-cds-via-imgburn-windows/"><u>Easy Step-by-Step Process for Converting Your Mp3 Collection Into Widespread, High-Quality Audio Cds via ImgBurn (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-older-software-works-on-contemporary-windows-10/"><u>Ensuring Older Software Works on Contemporary Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975398646-free-install-of-killer-e250-controller-for-superfast-internet-speeds/"><u>Free Install of Killer E250ˈ Controller for Superfast Internet Speeds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-silence-to-speech-giving-prompts-auditory-answers/"><u>From Silence to Speech: Giving Prompts Auditory Answers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-15-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 15 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>In 2024, Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keep-data-safe-halt-ai-web-scraping-bots/"><u>Keep Data Safe: Halt AI Web-Scraping Bots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-previous-windows-sleepshutdown-configs/"><u>Regaining Previous Windows Sleep/Shutdown Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-convert-esd-to-iso-in-windows-environment/"><u>The Ultimate Guide to Convert ESD to ISO in Windows Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unbeatable-labor-day-offer-get-the-new-2022-ipad-pro-at-an-extra-700-discount-find-out-how/"><u>Unbeatable Labor Day Offer: Get the New 2022 iPad Pro at an Extra $700 Discount - Find Out How !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-gaming-potential-combatting-directdraw-faults-on-windows-11/"><u>Unlocking Gaming Potential: Combatting DirectDraw Faults on Windows 11</u></a></li>
 </ul></div>
 

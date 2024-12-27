@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2024-12-15T19:50:14.847Z
-updated: 2024-12-21T16:26:41.794Z
+date: 2024-12-20T21:04:28.121Z
+updated: 2024-12-27T21:13:21.277Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding the Problem Behind Error Code 0x80004004
 
  The Microsoft Defender error code 0x80004004 occurs when there is an issue with the tool’s functionality, such as when launching the app, trying to update it, or during a scan. When this error occurs, it can cause the following problems:
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 * **Corrupted or missing system files** \- the critical system files required for the Microsoft Defender can at times become corrupt or go missing, causing different issues within the system, including the one under discussion.
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
 
@@ -80,38 +72,46 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -132,22 +132,19 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-the-world-of-instagram-streams-with-ease-through-obs/"><u>[New] In 2024, Navigating the World of Instagram Streams with Ease Through OBS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-of-excellence-in-xbox-gameplay-screenshots-for-2024/"><u>[New] Secrets of Excellence in Xbox Gameplay Screenshots for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-social-spectacle-snatcher-for-2024/"><u>[New] Social Spectacle Snatcher for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-best-15-action-cam-footage-editors/"><u>2024 Approved Best 15 Action Cam Footage Editors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-content-compromise-rapid-deletion-dilemma/"><u>2024 Approved Content Compromise Rapid Deletion Dilemma</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/6kpluse6yep5a6l5luj5pah5pmv5lml5rk75aplus55lit5zu95yplusk5luj5ps5rk75yplusr5bgv5b2x5zon/"><u>评量宋代文景之治对中国古代政治发展影响</u></a></li>
-<li><a href="https://common-error.techidaily.com/flipping-the-script-wow-unleashes-immersive-3d-experience/"><u>Flipping the Script: WoW Unleashes Immersive 3D Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hidden-pc-folders-exposed-in-windows-11/"><u>Hidden Pc Folders Exposed in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-airpods-to-windows/"><u>How to Effortlessly Connect Your AirPods to Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-x6-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco X6? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-mindset-adopt-the-compact-file-explorer/"><u>Minimalist Mindset: Adopt the Compact File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-comic-reading-a-guide-to-win11-mastery/"><u>Optimizing Comic Reading: A Guide to Win11 Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinvigorating-old-bios-color-schemes/"><u>Reinvigorating Old BIOS Color Schemes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalizing-vintage-movies-madvr-guide-for-windows/"><u>Revitalizing Vintage Movies: MadVR Guide for Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-assess-the-strength-of-your-home-internet-connection-through-wi-fi-signals/"><u>Step-by-Step Tutorial: How To Assess the Strength of Your Home Internet Connection Through Wi-Fi Signals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correctly-identify-games-in-discord-for-windows-users/"><u>Steps to Correctly Identify Games in Discord for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-run-cmd-with-administrator-rights/"><u>Strategies to Run CMD with Administrator Rights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-strategies-to-locate-your-clandestine-snaps/"><u>[New] In 2024, Strategies to Locate Your Clandestine Snaps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/evealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>[New] Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-securing-snapchat-footage-essential-mobile-tips/"><u>[New] Securing Snapchat Footage Essential Mobile Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcapture-stop-and-save-screenshot-command-for-2024/"><u>[Updated] QuickCapture Stop & Save Screenshot Command for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/destinys-call-to-arms-mesmerizing-imagery-and-background-art-for-the-enigmpress-of-sorcery-your-ultimate-collection-from-yl-software/"><u>Destiny's Call to Arms: Mesmerizing Imagery and Background Art for the Enigmpress of Sorcery - Your Ultimate Collection From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800f0831-fast-fix-with-automated-windows-update-solutions/"><u>Error Code 0X800F0831? Fast Fix with Automated Windows Update Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evolution-in-travel-meet-the-flexible-tripod-12/"><u>Evolution in Travel - Meet the Flexible Tripod 12</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-the-right-nvidia-drivers-for-your-windows-system-windows-1078/"><u>Find and Download the Right NVIDIA Drivers for Your Windows System (Windows 10/7/8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-video-file-conversion-from-mkv-to-mp4-on-windows/"><u>Seamless Video File Conversion From MKV to MP4 on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210661767-9781956108033-soul-warrior/"><u>Soul Warrior | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-the-windows-activation-error-0x803f700f/"><u>Strategies for Overcoming the Windows Activation Error 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-accessing-iis-manager-for-web-servers/"><u>Swiftly Accessing IIS Manager for Web Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-lengthening-windows-10-shutdown-with-open-applications/"><u>Tactics for Lengthening Windows 10 Shutdown with Open Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unobstructed-memory-management-7-ways-to-restore-in-win11/"><u>Unobstructed Memory Management: 7 Ways to Restore in Win11</u></a></li>
 </ul></div>
 

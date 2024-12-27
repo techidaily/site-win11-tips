@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2024-12-15T06:43:07.867Z
-updated: 2024-12-21T19:10:54.488Z
+date: 2024-12-20T18:20:08.656Z
+updated: 2024-12-27T17:55:09.853Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are Widgets on Windows 11?
 
  In Windows 11, we were treated to a dedicated Widgets panel displaying multiple cards, each featuring real-time data to reflect your interests. Thanks to the handy widget board, you can easily [personalize cards or widgets](https://www.makeuseof.com/windows-11-how-to-use-widgets/) according to what you want to see.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
@@ -86,29 +86,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-pixiz-techniques-to-fuse-images-and-movement-seamlessly-for-2024/"><u>[New] Pixiz Techniques to Fuse Images and Movement Seamlessly for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-mememix-download-now/"><u>[New] Ultimate Mememix Download Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-game-14-must-see-vids-for-youtube-gaming-success/"><u>Elevate Your Game 14 Must-See Vids for YouTube Gaming Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-net-speeds-for-battlenet-games-on-windows/"><u>Enhancing Net Speeds for Battle.net Games on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-large-print-capabilities-of-elegoos-premium-3d-modeling-device/"><u>Exploring Large Print Capabilities of Elegoo's Premium 3D Modeling Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-exit-strategy-for-unforeseen-account-termination/"><u>Facebook Exit Strategy for Unforeseen Account Termination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-windows-laptop-slowdown-post-external-monitor-connection/"><u>Fix Window's Laptop Slowdown Post-External Monitor Connection</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-8-to-16gb-unveiling-windows-new-standard-ram/"><u>From 8 to 16GB: Unveiling Windows' New Standard RAM</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-xs-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone XS Max From Your Apple ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fatal-wow-error-fixes-in-win11-environment/"><u>Mastering Fatal WoW Error Fixes in Win11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-msixbundle-and-app-extensions-step-by-step-guide/"><u>Mastering MSixBundle & App Extensions: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-reset-account-lockout-limit-after-failed-login-attempts-in-windows-1011/"><u>Modifying Reset Account Lockout Limit After Failed Login Attempts in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-steps-for-rectifying-directdraw-issues-in-windows-1011/"><u>Simplified Steps for Rectifying DirectDraw Issues in Windows 10/11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-seamless-and-swift-update-for-intel-nuc-drivers-revealed/"><u>Step by Step: Seamless & Swift Update for Intel NUC Drivers Revealed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-downloading-and-refreshing-canon-pixma-mg6320-inkjet-printer-software/"><u>Step-by-Step Guide for Downloading & Refreshing Canon Pixma MG6320 Inkjet Printer Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-disabling-delight-quick-methods-to-eliminate-access-in-win11/"><u>The Disabling Delight: Quick Methods to Eliminate Access in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-black-windows-backgrounds-into-hues/"><u>Transform Your Black Windows Backgrounds Into Hues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-shot-upgrade-no-money-needed/"><u>Ultimate Shot Upgrade - No Money Needed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +93,25 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveil-windows-xp-professional-for-video-production/"><u>[New] 2024 Approved Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219763765-mp3-movavi/"><u>完璧にMP3をカットする - Movavi ユーザーマニュアル</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-vision-pros-brilliance-revealed-a-deep-dive-into-its-ten-surprising-features-insights-by-zdnet/"><u>Apple Vision Pro's Brilliance Revealed: A Deep Dive Into Its Ten Surprising Features | Insights by ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-razr-40-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Razr 40 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-how-to-fix-frequent-game-crashes/"><u>Chivalry II Troubleshooting: How to Fix Frequent Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-make-excel-readable-in-windows-notepad/"><u>Hacks: Make Excel Readable in Windows Notepad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ideal-chatgpt-questions-for-authentic-character-building/"><u>Ideal ChatGPT Questions for Authentic Character Building</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-trailer-building-software-for-the-web/"><u>In 2024, Best Trailer Building Software for the Web</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-your-pcs-heart-generating-and-examining-system-insights/"><u>Inside Your PC's Heart: Generating & Examining System Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-to-windows-11s-time-stamped-repository/"><u>Key to Windows 11'S Time-Stamped Repository</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-your-digital-conversations-win-style/"><u>Liberate Your Digital Conversations, WIN-Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-inadvertent-windows-store-activation/"><u>Remedy for Inadvertent Windows Store Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-for-enabling-windows-assistants-using-vivetool/"><u>Step-by-Step for Enabling Windows Assistants Using ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prolong-windows-11-shutdown-during-active-tasks/"><u>Strategies to Prolong Windows 11 Shutdown During Active Tasks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-tools-for-capturing-moments-with-harmony/"><u>Superior Tools for Capturing Moments with Harmony</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-wacom-intuos-graphics-tablet-fast-and-simple-setup-process/"><u>Update Your Wacom Intuos Graphics Tablet - Fast & Simple Setup Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-moment-update-paves-the-way-for-next-level-experience/"><u>Windows 11: Moment Update Paves the Way for Next-Level Experience</u></a></li>
+</ul></div>
+

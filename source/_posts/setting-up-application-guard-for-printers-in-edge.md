@@ -1,7 +1,7 @@
 ---
 title: Setting Up Application Guard for Printers in Edge
-date: 2024-12-15T21:14:31.627Z
-updated: 2024-12-21T21:38:07.763Z
+date: 2024-12-24T17:37:22.054Z
+updated: 2024-12-27T22:26:04.539Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable Printing via Windows Settings
 
  To enable printing in Application Guard for Edge, follow the steps below:
@@ -36,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 5. Scroll down to Isolated browsing, then click the**Change Applications Guard settings** link.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Under Application Guard settings, turn on the toggle for**Print files** .  
 ![Allow Printing From Application Gurard For Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-printing-from-application-gurard-for-microsoft-edge.jpg)
 7. If UAC prompts appear on the screen, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the above instructions, you must restart your computer to make the changes take effect. Now you can print files from isolated browsing in Edge.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  If you ever need to disable this feature, simply follow the same steps and toggle off Print files. This will disable printing in Application Guard for Edge on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Printing via Registry Editor
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Set Value data**1** and click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have completed the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now the Application Guard for Edge Supports Printing
@@ -97,18 +97,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-audio-speed-the-fastest-app-list/"><u>[Updated] Mobile Audio Speed The Fastest App List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/10-must-visit-destinations-in-the-digital-world-for-renters/"><u>10 Must-Visit Destinations in the Digital World for Renters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-youtube-experience-with-chrome-tweaks/"><u>Enhance Your YouTube Experience with Chrome Tweaks</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-xcover-6-pro-tactical-edition-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy XCover 6 Pro Tactical Edition Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721415794912-go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-huawei-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Huawei Phones with/without a PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-google-docs-transcription-functionality/"><u>In 2024, Mastering Google Docs Transcription Functionality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-approaches-for-efficient-gif-design/"><u>In 2024, Streamlined Approaches for Efficient GIF Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cursor-customization-in-windows-os/"><u>Mastering Cursor Customization in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obscured-wireless-connections-windows/"><u>Overcoming Obscured Wireless Connections Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ct-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-snipping-tool-edits/"><u>The Ultimate Guide to Windows 11 Snipping Tool Edits</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-pc-video-editing-made-easy-a-review-of-vn-video-editor-for-2024/"><u>Updated PC Video Editing Made Easy A Review of VN Video Editor for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-noble-tunes-archiver-android-edition/"><u>[New] Noble Tunes Archiver, Android Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-fb-slideshows/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating FB Slideshows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cheerful-account-creation-handbook/"><u>2024 Approved Cheerful Account Creation Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-desktop-cleanliness-with-self-deleting-files-in-windows-os/"><u>Enhance Desktop Cleanliness with Self-Deleting Files in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-mac-fun-with-top-console-emulators/"><u>Enhancing Mac Fun with Top Console Emulators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-for-emotional-intelligence-and-support/"><u>Harnessing AI for Emotional Intelligence and Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-command-not-available-in-windows/"><u>Immediate Fixes for Command Not Available in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-gionee-f3-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Gionee F3 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-desktop-connection-on-w11/"><u>Streamlining Desktop Connection on W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011s-vanishing-windows-how-to-bring-them-back-quickly/"><u>Win10/11's Vanishing Windows: How to Bring Them Back Quickly</u></a></li>
 </ul></div>
 

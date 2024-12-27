@@ -1,7 +1,7 @@
 ---
 title: Solutions for Excel Display in Windows Notepad
-date: 2024-08-16T02:40:08.400Z
-updated: 2024-08-17T02:40:08.400Z
+date: 2024-12-21T16:15:28.703Z
+updated: 2024-12-27T18:20:24.084Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,18 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
 
 ![Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-with-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to ensure that all files of a particular format open in Excel automatically, you can use the "Open with" option to set a default program as well. Simply right-click on the file, select **Open with** \> **Choose another app**. From there, select **Excel** and check the "Always use this app to open files" option.
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Default Settings for File Types
 
  When you double-click on a file in Windows, the system knows which application to use to open it. By default, Excel files are configured to be opened with Excel. In some cases where these configurations have been changed, these files might open in Notepad instead.
@@ -47,22 +52,16 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
 2. Choose **Apps** from the left pane and then click on **Default apps**.
 3. In the following window, type the extension name of the targeted file under "Set a default for a file type or link type".  
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check the File Extension Type
 
  The system might also be opening the file in Notepad because the file extension type is not supported by Excel.
@@ -76,6 +75,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Expand the **View** option in the top pane and choose **Show** \> **File name extensions**. You can now check if the file extension type is compatible with Excel.  
 ![Show file extensions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-name-extensions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also [use the Command Prompt to check the file extension type](https://www.makeuseof.com/windows-11-see-file-extensions/). If the file extension type is not correct, you can rename the file to fix the problem. Here is how:
 
 1. Right-click on the file and choose **Rename**.
@@ -88,8 +91,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use an Excel Repair Tool (if Applicable)
 
  In case you are unable to open files with Excel and are presented with an error whenever you attempt to do so, the file might be corrupted or damaged.
@@ -104,9 +108,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open and Use Excel Files Properly on Windows
 
  It is not uncommon for users to encounter issues while trying to use Excel but fortunately, most of these problems are easy to fix. Hopefully, the solutions we have listed above will help you access the targeted files with Excel in no time.
@@ -115,11 +116,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-google-meet-customization-filter-and-effect-techniques/"><u>[New] 2024 Approved Mastering Google Meet Customization Filter & Effect Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-in-class-premium-screenshots-and-recorders/"><u>[New] Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-transition-your-facebook-vids-into-stellar-hd/"><u>[New] How to Transition Your Facebook Vids Into Stellar HD</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-proven-tactics-for-saving-lol-events/"><u>[Updated] 2024 Approved Proven Tactics for Saving LOL Events</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-spotlight-strategies-brightening-your-visual-narrative/"><u>[Updated] Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategies-to-triple-your-earnings-on-youtube-shorts/"><u>[Updated] Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-investigating-alternatives-to-popular-video-broadcaster/"><u>2024 Approved Investigating Alternatives to Popular Video Broadcaster</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-hiccups-addressing-content-warning-in-voice-chats/"><u>Fixing Voice Communication Hiccups: Addressing 'Content Warning' In Voice Chats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lava-yuva-2-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lava Yuva 2 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-cloud-connectivity-with-7-essential-fixes/"><u>Master the Art of Cloud Connectivity with 7 Essential Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-windows-updater-error-0x80246007-issue-in-1011/"><u>Rectifying Windows Updater Error 0X80246007 Issue in 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-windows-exception-breaking-point-problems/"><u>Strategies to Resolve Windows Exception Breaking Point Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-webcam-from-endless-blackness/"><u>Unblocking Webcam From Endless Blackness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-quick-guide-to-restart-folders/"><u>Windows 11: Quick Guide to Restart Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-modern-standby-an-in-depth-examination/"><u>Windows Modern Standby: An In-Depth Examination</u></a></li>
+</ul></div>
+

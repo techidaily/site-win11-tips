@@ -1,7 +1,7 @@
 ---
 title: How to Disable Auto-Play of Spotify in Windows
-date: 2024-12-17T22:58:55.589Z
-updated: 2024-12-21T21:31:11.960Z
+date: 2024-12-23T21:21:26.874Z
+updated: 2024-12-27T17:44:34.181Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 5. Click the drop-down menu to the right of **Open Spotify automatically after you log into the computer** and select**No** . If you want Spotify to run during startup but not launch full screen, select**Minimized** instead.  
 ![Spotify Startup Behavior on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-startup-behavior-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 ![Disable Spotify as a Startup App Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  Aside from managing startup apps, Task Manager is also useful for monitoring system resources, force-closing frozen apps, and doing other tasks. To know more, check our guide on the[best Windows Task Manager tips and tricks](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stop Spotify From Opening Automatically via the Windows Settings App
@@ -76,11 +76,11 @@ To stop Spotify from opening at startup via the Settings app:
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
@@ -104,24 +104,14 @@ To stop Spotify from opening at startup via the Settings app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-live-stream-360-videos-on-facebook/"><u>[New] 2024 Approved How to Live Stream 360 Videos on Facebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-bringing-history-forward-digitizing-old-photographs-into-video-for-2024/"><u>[New] Bringing History Forward Digitizing Old Photographs Into Video for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-facetime-made-simple-for-android-users/"><u>[New] FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>[Updated] Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>[Updated] In 2024, Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-picscanner-tricks-uncomplicated-approaches-to-image-anonymity/"><u>[Updated] PicScanner Tricks Uncomplicated Approaches to Image Anonymity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-variations-in-windows-movie-maker-clones/"><u>[Updated] Variations in Windows Movie Maker Clones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-full-usage-threshold-in-chatgpt/"><u>Dealing with Full Usage Threshold in ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fastening-your-purchase-speed-for-ms-store-products/"><u>Fastening Your Purchase Speed for MS Store Products</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-windows-search-settings-in-windows-11/"><u>How to Reset the Windows Search Settings in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 Pro+ 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-most-popular-task-organizers-on-windows/"><u>Navigating the Most Popular Task Organizers on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-gameplay-issues-eliminating-life-is-strange-true-colors-freezing-problems/"><u>Solve Your Gameplay Issues: Eliminating 'Life Is Strange: True Colors' Freezing Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-no-click-space-in-win11/"><u>Strategies for Dealing with No-Click Space in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-unresponsive-spotify-win11-errors/"><u>Strategies to Recover From Unresponsive Spotify Win11 Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-inter-device-unity-android-plus-windows-guide/"><u>The Path to Inter-Device Unity: Android + Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-outlook-integration-fix-non-sync-issue/"><u>Unlock Windows Outlook Integration: Fix Non-Sync Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-efficient-methods-to-resolve-common-anydesk-errors-in-os/"><u>Unlocking Efficient Methods to Resolve Common AnyDesk Errors in OS</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-m14-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy M14 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-audio-wizardry-in-action-techniques-for-professional-video-sound-recording/"><u>[Updated] 2024 Approved Audio Wizardry in Action Techniques for Professional Video Sound-Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enlightening-your-iphone-images-through-effective-hdr-methods-for-2024/"><u>[Updated] Enlightening Your iPhone Images Through Effective HDR Methods for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-captivating-youtube-closures-expert-guides-included/"><u>2024 Approved Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-p55plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel P55+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-error-0x0000004e-in-win11/"><u>Mastering Fix for Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-windows-memory-impact-from-edges-view2/"><u>Minimizing Windows Memory Impact From Edge's View2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-nookles-lol-initial-load-woes/"><u>Navigating Nookles' (LOL) Initial Load Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-issue-busted-fixing-error-0x00000709-in-windows/"><u>Print Issue Busted: Fixing Error 0X00000709 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicker-quarantine-four-easy-ways-to-cut-off-a-user-on-win11/"><u>Quicker Quarantine: Four Easy Ways to Cut Off a User on Win11</u></a></li>
 </ul></div>
 

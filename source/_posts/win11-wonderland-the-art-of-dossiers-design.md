@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2024-12-19T01:49:30.303Z
-updated: 2024-12-21T17:17:43.211Z
+date: 2024-12-21T19:58:37.991Z
+updated: 2024-12-27T21:23:30.815Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -52,11 +52,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -66,6 +66,10 @@ To create a new folder using File Explorer's menu:
  Simply head to the location where you want to create the folder and press**Ctrl + Shift + N** together on your keyboard. Once the folder is created, you can rename it to anything you want.
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
@@ -85,15 +89,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,20 +115,22 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streaming-showdown-twitchs-challenge-to-youtube/"><u>[Updated] In 2024, Streaming Showdown Twitch's Challenge to YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essentials-of-hosting-a-zoom-event-via-android/"><u>[Updated] In 2024, The Essentials of Hosting a Zoom Event via Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-clear-choice-between-projectors-and-televisions-for-4k-quality/"><u>[Updated] The Clear Choice Between Projectors and Televisions for 4K Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-windows-cloud-installation-with-standalone-reinstalls/"><u>Comparing Windows Cloud Installation with Standalone Reinstalls</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-common-ground-in-minecraft-bedrock-java-interoperability-via-geysermc/"><u>Finding Common Ground in Minecraft: Bedrock-Java Interoperability via GeyserMC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-remove-image-background-in-photopea-for-2024/"><u>How to Remove Image Background In Photopea for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-to-ditch-intels-integrated-video-hardware/"><u>Learn to Ditch Intel's Integrated Video Hardware</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-flv-video-editor-for-windows-8-a-comprehensive-review-for-2024/"><u>New FLV Video Editor for Windows 8 A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-expiring-licenses-warning-in-win1011/"><u>Steps to Overcome Expiring Licenses Warning in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-optimizing-file-deletion-dialogs-in-windows/"><u>Strategies for Optimizing File Deletion Dialogs in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-future-of-interoperability-windows-now-on-apple-devices-unveiled/"><u>The Future of Interoperability: Windows Now on Apple Devices Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-unveiled-newest-gpt-capabilities-you-cant-miss/"><u>The Future, Unveiled: Newest GPT Capabilities You Can't Miss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-making-windows-sound-service-reboot-auto/"><u>Tips & Tricks: Making Windows Sound Service Reboot Auto</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-windows-wont-play-the-audio-test-tone/"><u>What to Do if Windows Won't Play the Audio Test Tone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expertly-evaluating-webcam-technology-for-professionals/"><u>2024 Approved Expertly Evaluating WebCam Technology for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>2024 Approved From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-luts-revolutionize-your-photo-editing-experience/"><u>2024 Approved How LUTs Revolutionize Your Photo Editing Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-logitech-g510-controller-up-and-running-win-7-to-10-supported-driver-downloads/"><u>Get Your Logitech G510 Controller Up and Running - Win 7 to 10 Supported Driver Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solve-non-detected-proxy-settings-on-windows-os/"><u>Guide to Solve Non-Detected Proxy Settings on Windows OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-professional-photo-coloring/"><u>In 2024, The Ultimate Guide to Professional Photo Coloring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-mouse-gestures-into-your-web-surfing-routine-edge-edition/"><u>Integrating Mouse Gestures Into Your Web Surfing Routine - Edge Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-systemsettingsexe-breakdown-in-win11/"><u>Overcoming SystemSettings.exe Breakdown in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808208828-pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-11-clipchamp-setup-hurdles-effectively/"><u>Resolve Windows 11 ClipChamp Setup Hurdles Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc0000001/"><u>Resolving Windows Error: Code 0xC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-operational-functions-for-diagnostic-tools-in-winos/"><u>Streamlining Operational Functions for Diagnostic Tools in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-making-the-most-of-old-pc-on-win10/"><u>Tips for Making The Most of Old PC on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-folders-how-to-revert-to-editable-mode/"><u>Unlocking Your Folders: How to Revert to Editable Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-success-with-savvy-backlinking-for-2024/"><u>Unlocking YouTube Success with Savvy Backlinking for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-vectors-the-top-vm-picks-for-windows-11-pcs/"><u>Winning Vectors: The Top VM Picks for Windows 11 PCs</u></a></li>
 </ul></div>
 

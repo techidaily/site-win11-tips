@@ -1,7 +1,7 @@
 ---
 title: Override Standard User Restrictions Now
-date: 2024-08-16T02:39:49.143Z
-updated: 2024-08-17T02:39:49.143Z
+date: 2024-12-20T22:02:43.478Z
+updated: 2024-12-27T20:51:39.393Z
 tags:
   - windows10
   - windows11
@@ -36,14 +36,12 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
  Once done, close the Command Prompt and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
 
@@ -66,29 +64,9 @@ net user administrator /active:yes
 4. Choose **Properties** from the context menu.
 5. Uncheck the **Account is disabled** option and click **OK**.  
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 3\. Make the Changes in Safe Mode
 
  It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
@@ -98,20 +76,22 @@ Key features:
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
  In this case, you can try to temporarily disable your security program and see if that helps you switch to an administrator account. You can do this by right-clicking on your antivirus icon in the taskbar and choosing the **Shields Control** \> **Disable until the computer is restarted** option.
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create a New Administrator Account
 
@@ -131,9 +111,18 @@ Key features:
 7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 8. Expand the Account type dropdown and choose **Administrator** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Administrative Access to Your Windows System
 
@@ -141,11 +130,31 @@ Key features:
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights/"><u>[New] 2024 Approved Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-3-premium-phones-excelling-in-quality-video-capture/"><u>[Updated] In 2024, Top 3 Premium Phones Excelling in Quality Video Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>[Updated] Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-power-of-focused-image-blurring/"><u>2024 Approved Exploring the Power of Focused Image Blurring</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-of-breed-premium-4k-camera-mounts-for-pros/"><u>Best of Breed Premium 4K Camera Mounts for Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-win11-dns-server-settings-quick-guide/"><u>Configuring Win11 DNS Server Settings Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-method-to-rectify-error-0x800700c6-in-apps/"><u>Detailed Method to Rectify 'Error 0X800700C6' In Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-windows-arp-cache-mechanism-and-deletion/"><u>Dissecting Windows ARP Cache Mechanism and Deletion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-discord-not-acknowledging-video-game-audio-issues-resolved/"><u>How To Fix Discord Not Acknowledging Video Game Audio Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-amazon-prime-video-unresponsive-problems-easily/"><u>How To Resolve 'Amazon Prime Video Unresponsive' Problems Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpo-searches-in-modern-windows-os/"><u>Mastering GPO Searches in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011s-0x80246007-problem/"><u>Overcoming the Windows 10/11'S 0X80246007 Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-signature-problem-for-windows-updates/"><u>Resolving Signature Problem for Windows Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448710927-trouble-with-iphone-cloud-syncing-discover-9-solutions/"><u>Trouble with iPhone Cloud Syncing? Discover 9 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-7-efficient-study-strategies-on-a-windows-pc/"><u>Unleash Potential: 7 Efficient Study Strategies on a Windows PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-how-to-format-hard-drive-on-a-mac/"><u>Video - How to Format Hard Drive on a Mac?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-guide-to-opening-system32-directory/"><u>Win11's Guide to Opening System32 Directory</u></a></li>
+</ul></div>
+

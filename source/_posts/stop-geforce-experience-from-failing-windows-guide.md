@@ -1,7 +1,7 @@
 ---
 title: "Stop GeForce Experience From Failing: Windows Guide"
-date: 2024-08-16T02:42:50.769Z
-updated: 2024-08-17T02:42:50.769Z
+date: 2024-12-24T19:03:51.461Z
+updated: 2024-12-27T18:16:08.967Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,9 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  Regardless of the reason, this issue deprives you of squeezing the full potential of your graphics card! Thus, we recommend you try out the below-mentioned fixes immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Add the Game or App Manually
 
  The program relies on a[database of NVIDIA GeForce Experience-supported games](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) for scanning. GeForce Experience can only optimize the games that are officially supported.
@@ -43,9 +43,6 @@ Follow these steps to add a game or app for optimization manually:
 2. Click**GAMES & APPS > ADD** to open the Windows File Explorer.
 3. Select the folder where you've installed the game or app and click**Select Folder** .  
 ![Game Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-folder-location.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**SCAN NOW** to let GeForce Experience add your selected game to its dashboard.
 
  This is a simple and quick way to add your games to GeForce Experience manually. If this method doesn't work for you, consider the advanced solutions below.
@@ -65,14 +62,15 @@ Follow these steps to add a game or app for optimization manually:
 ![NVIDIA Display Container Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-display-container-service.jpg)
 5. Do the same process, i.e., restart the service with**NVIDIA LocalSystem Container** and**Cryptographic** **Services** .  
 ![Cryptographic Windows Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cryptographic-windows-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 6. Once done, make sure to restart your PC once.
 
  That's it. This will force all the required services to restart and fix runtime errors.
 
  Please note that restarting the Windows services is not the only fix! If you're still struggling to scan your game, move forward to try some advanced troubleshooting measures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run GeForce Experience as an Administrator
 
@@ -81,17 +79,15 @@ Follow these steps to add a game or app for optimization manually:
  Find the**GeForce Experience** shortcut on your desktop and right-click it. Click the**Run as administrator** option from the context menu to launch it as a power user.
 
 ![GeForce Experience Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Note that you've to exercise caution while running programs as an administrator. This could cause security issues if the program is affected by any malware.
 
  We never recommend running all programs in administrator mode! This is to avoid giving administrative privileges to programs that may misuse the permissions and affect your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Repair Missing or Broken Registry Entries
 
  In some cases, missing registry entries can also cause GeForce Experience scanning to fail.
@@ -101,8 +97,9 @@ Follow these steps to add a game or app for optimization manually:
  Now that you have a restore point set up, check out[how to fix broken Windows registry items](https://www.makeuseof.com/fix-broken-registry-items-windows-11/) . Remember to follow the provided guidance carefully and always double-check what you do to avoid any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Delete the NVIDIA AppData Folder
 
  On Windows, there is a folder called AppData that stores your specific data related to applications, such as settings, temporary files, and caches.
@@ -115,10 +112,12 @@ Follow these steps to add a game or app for optimization manually:
 2. Type**%LocalAppData%** on its navigation bar and press**Enter** .  
 ![LocalAppData Explorer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localappdata-explorer-command.jpg)
 3. Search for the**NVIDIA Corporation** folder and delete it. You can select**NVIDIA Corporation** and press**Shift + Del** to delete the folder permanently.  
-![NVIDIA Corporation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-corporation-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![NVIDIA Corporation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-corporation-folder.jpg)
 4. Once you delete the folder, open GeForce Experience and check for scanning issues.
 
  We advise you to be very careful while deleting files from the AppData folder. Deleting the wrong file can lead to other problems that may leave you in trouble.
@@ -136,10 +135,12 @@ Follow these steps to add a game or app for optimization manually:
 3. Double-click the installer file you just downloaded.
 4. On the**NVIDIA Installer** window, click**AGREE AND INSTALL** .  
 ![NVIDIA Installer Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-installer-overview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Follow the on-screen instructions to set up the program on your desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Once the setup is over, you can click the three-dot menu and then**Scan for games & apps** . This will scan your entire Windows system for installed games or apps for optimization.  
 ![GeForce Experience Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-menu.jpg)
 
@@ -151,14 +152,11 @@ Follow these steps to add a game or app for optimization manually:
 
  Hopefully, all the mentioned methods should help you regain the scanning feature in one go. Once you are ready for scanning, you will love its ease-of-optimization capabilities for sure.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +165,24 @@ Follow these steps to add a game or app for optimization manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-joy-of-mobile-podcasts-for-2024/"><u>[New] Discover the Joy of Mobile Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-diy-filmmaking-for-youtube-personalities-for-2024/"><u>[Updated] DIY Filmmaking for YouTube Personalities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-deep-dive-into-youtube-view-counts-and-more/"><u>[Updated] In 2024, A Deep Dive Into YouTube View Counts and More</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-ignoring-ig-suggestions/"><u>[Updated] In 2024, Mastering the Art of Ignoring IG Suggestions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/comprehensive-list-of-vimeo-downloader-utilities-for-2024/"><u>Comprehensive List of Vimeo Downloader Utilities for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-inadequacies-in-windows-installer-rights/"><u>Eradicating Inadequacies in Windows Installer Rights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-auto-play-of-spotify-in-windows/"><u>How to Disable Auto-Play of Spotify in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-internet-connection/"><u>How to Recover Lost Internet Connection?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-monitor-space-eliminate-windows-overscan/"><u>Maximize Your Monitor Space: Eliminate Windows Overscan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-google-drive-sync-failures-a-7-step-guide/"><u>Overcoming Google Drive Sync Failures: A 7-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-elgato-hd60-driver-errors-with-simple-solutions/"><u>Resolving Elgato HD60 Driver Errors with Simple Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-windows-sounds-after-disruption-by-glitches/"><u>Revitalize Windows Sounds After Disruption by Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-save-energy-with-auto-shutdown-features-in-win11/"><u>Securely Save Energy with Auto-Shutdown Features in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-10-error-code-c0000022/"><u>Steps to Correct Windows 10 Error Code C0000022</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-uniting-upskill-utopia/"><u>Ultimate Uniting Upskill Utopia</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/which-is-better-for-developers-ipad-app-store-or-androids-google-play-marketplace-analyzed/"><u>Which Is Better for Developers? IPad App Store or Android's Google Play Marketplace Analyzed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-quick-checklist-before-embracing-the-new-features-of-windows-11-creators-update/"><u>Your Quick Checklist Before Embracing the New Features of Windows 11 Creators Update</u></a></li>
+</ul></div>
 

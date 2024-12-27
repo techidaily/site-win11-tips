@@ -1,7 +1,7 @@
 ---
 title: Unlocking Greyed-Out Pin Deletion Command on PC
-date: 2024-08-16T02:43:24.749Z
-updated: 2024-08-17T02:43:24.749Z
+date: 2024-12-26T18:50:18.973Z
+updated: 2024-12-27T19:54:55.092Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 5. Next, toggle the switch for the option **For improved security, only allow Windows Hello sign-in for Microsoft account on this device (Recommended)** and set it to**Off** .
 6. With the option disabled, you can now remove PIN for Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
 
  Windows 11 lets you change your PIN using the**I forgot my PIN** option. However, you can use the feature to remove your PIN as well. To do this, you need to use your Microsoft account details to verify the user.
@@ -43,29 +47,26 @@ To remove PIN using forgot my PIN:
 2. Next, open the**Accounts** tab and then click on**Sign-in options.**
 3. Expand the**PIN (Windows Hello)** section.  
 ![windows 11 i forgot my pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-i-forgot-my-pin.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 4. Click on**I forgot my PIN** next **to Related links.**
 5. Click**Continue** when the confirmation dialog appears.  
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 6. Next, enter your Microsoft account details to sign in.  
-![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! You have successfully removed the Windows Hello PIN.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
 
  The Passwordless account feature lets you sign in without a password using a PIN, SMS Code, or the authenticator app. You can turn off the Passwordless account feature to fix the greyed-out Remove PIN option.
@@ -80,14 +81,16 @@ That's it! You have successfully removed the Windows Hello PIN.
 1. Click on**Advanced security options** .  
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
@@ -102,20 +105,18 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the Grayed-Out Remove PIN Option
 
  Windows deliberately disables the Remove PIN option as an additional security measure. While we don't recommend disabling it, you can freely do so using the steps above, especially if you prefer to protect your Windows PC solely using alphanumeric passwords.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +125,21 @@ That's it! You have successfully removed the Windows Hello PIN.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[New] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>[New] Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[Updated] Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-top-ranked-no-cost-image-format-switchers-jpg-to-gif/"><u>2024 Approved 10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlocking-social-connections-facetime-tutorials-for-android/"><u>2024 Approved Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-spontaneous-scroll-wonders/"><u>Eliminate Spontaneous Scroll Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-we-couldnt-set-your-default-save-location-error-in-windows-1110/"><u>How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-inaccessible-windows-11-apps/"><u>Navigating Through Inaccessible Windows 11 Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/present-moment-vr-equipment-review/"><u>Present Moment VR Equipment Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/reconhecer-abrecos-e-boas-vindas-em-portugues/"><u>Reconhecer Abreços E Boas-Vindas Em Português</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/secure-and-quality-the-top-5-choice-of-recorders-for-2024/"><u>Secure and Quality - The Top 5 Choice of Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-1011s-error-0x80073d26-in-xbox-app/"><u>Tackling Windows 10/11'S Error 0X80073D26 in Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-11-use-adding-an-enhanced-run-toolkit/"><u>Transform Windows 11 Use: Adding an Enhanced Run Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-image-magic-the-seventh-simple-trick-unveiled/"><u>Windows 11 Image Magic - The Seventh Simple Trick Unveiled</u></a></li>
+</ul></div>
 

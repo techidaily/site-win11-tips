@@ -1,7 +1,7 @@
 ---
 title: Tips for Delaying Windows 10 Restart While Ongonant Applications Are Opened
-date: 2024-12-17T09:39:40.020Z
-updated: 2024-12-22T09:37:17.954Z
+date: 2024-12-24T19:58:02.445Z
+updated: 2024-12-27T22:11:29.804Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Should You Try First?
 
  The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Windows Wait Longer When Logging Off
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1B. How to Change WaitToKillAppTimeout for All Users
@@ -89,7 +89,7 @@ This will apply altered log-off rules to all users on the PC.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
@@ -102,7 +102,7 @@ This will allow you to change the default value for all users.
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
@@ -124,17 +124,20 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-key-online-portals-for-downloading-text-effects/"><u>[New] In 2024, Key Online Portals for Downloading Text Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-desktop-experience-with-easy-widget-implementation-in-win-11/"><u>Enhance Your Desktop Experience with Easy Widget Implementation in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-linking-gmail-and-outlook-on-windows/"><u>Enhancing Productivity: Linking Gmail and Outlook on Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/free-capture-precision-best-apps-for-windows-desktop-recording/"><u>Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-realme-gt-5-240w-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme GT 5 (240W) FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-vivo-v30-lite-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo V30 Lite 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-fps-enable-gpu-support-for-call-of-duty-warzone-on-windows-11/"><u>Maximize FPS: Enable GPU Support for Call of Duty: Warzone on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-task-scheduler-and-batches/"><u>Streamlining System Operations: Task Scheduler & Batches</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-images-the-art-of-applying-luts-in-pro/"><u>Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-and-untangling-solving-windows-11s-webcam-error-a00f4289/"><u>Unmasking and Untangling: Solving Windows 11'S Webcam Error A00F4289</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-moment-update-a-symphony-of-new-functions/"><u>Unraveling Windows 11’S Moment Update - A Symphony of New Functions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-gopro-quik-and-its-pc-counterparts-for-2024/"><u>Updated The Ultimate Guide to GoPro Quik and Its PC Counterparts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-guides-to-mobile-screen-recording/"><u>[New] 2024 Approved Expert Guides to Mobile Screen Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ttract-more-viewers-boosting-your-youtube-following-for-2024/"><u>[New] Attract More Viewers Boosting Your YouTube Following for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-breaks-and-takes-from-snowspeedcross-games/"><u>[New] In 2024, Best Breaks & Takes From Snowspeedcross Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-capture-ranking-the-prime-6-4k-dslr-models/"><u>[Updated] In 2024, Cutting-Edge Capture Ranking the Prime 6 4K DSLR Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apples-ios-a-treasure-trove-of-vr-game-hits/"><u>Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels/"><u>In 2024, Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-zooming-on-social-media-platform-snapchat-for-2024/"><u>Mastering the Art of Zooming on Social Media Platform, Snapchat for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-network-caches-focus-on-arp/"><u>Mastery Over Windows Network Caches: Focus on ARP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-quickly-and-efficiently-revise-group-policy-settings/"><u>Methods to Quickly and Efficiently Revise Group Policy Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nextv-networks-worldwide-streaming-with-your-locals/"><u>NexTV Networks Worldwide Streaming With Your Locals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-in-use-error-precision-in-local-device-identification/"><u>Overcome In-Use Error: Precision in Local Device Identification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-for-disrupted-google-nearby-share-on-desktop/"><u>Quick Fix Guide for Disrupted Google Nearby Share on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-sound-installation-adding-dolby-atmos-in-windows-1111/"><u>Streamlining Sound Installation: Adding Dolby Atmos in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-purpose-and-creation-process-of-windows-batch-files/"><u>What Is the Purpose and Creation Process of Windows Batch Files?</u></a></li>
 </ul></div>
 

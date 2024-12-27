@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows License Expiry Warning in Windows 10/11
-date: 2024-12-20T18:06:56.011Z
-updated: 2024-12-21T16:00:08.819Z
+date: 2024-12-20T17:45:23.124Z
+updated: 2024-12-27T22:24:37.604Z
 tags:
   - windows10
   - windows11
@@ -35,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 * **Corrupt Activation Token files:** The **Tokens.dat** file contains the activation information for your Windows installation. If this file becomes inaccessible for some reason, you may encounter the “Your Windows license will expire soon” error on Windows.  
 ![Your Windows License Will Expire Soon Error on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/your-windows-license-will-expire-soon-error-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you are aware of the common causes of this error, let's now focus on the potential solutions to resolve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apply Some Preliminary Fixes
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 3. Click the **Troubleshooter** button.  
 ![Running the Windows Activation Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/running-the-windows-activation-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the troubleshooter to do its thing, and then check if it resolves the error.
 
 ## 3\. Find Your Product Key and Activate Windows
@@ -79,15 +71,16 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 3. Note down the **OEM key** in the **Home** tab.  
 ![ShowKeyPlus App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/showkeyplus-app-on-windows.jpg)
 4. Press **Win + I** to open the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **System** tab, click on **Activation**.
 6. Click the **Change** button next to **Change product key**.
 7. Enter the **OEM key** noted earlier and click **Next**.
 8. Click the **Activate** button to confirm.  
 ![Update Product Key on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-product-key-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Activate Windows Using Command Prompt
 
@@ -99,11 +92,11 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 4. Type **slmgr /ato** in the console and press Enter.  
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Rebuild the Tokens.dat File
 
@@ -122,6 +115,10 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  Restart your computer after running the above commands and then check if you still get the “Your Windows license will expire soon” error on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reset the Licensing Status
 
  In case your Windows license is not genuine, there's a workaround to dismiss the “Your Windows license will expire soon” message. This workaround involves resetting the activation period and [hiding the Activate Windows watermark](https://www.makeuseof.com/tag/remove-activate-windows-10-watermark/) via Command Prompt. Here are the steps you can follow.
@@ -133,6 +130,10 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
 
  Since Microsoft limits access to various personalization and security features on systems with inactivated Windows licenses, it’s vital to troubleshoot errors like the “Your Windows license will expire soon”. One of the above fixes should help you resolve the error message on your Windows computer. However, if nothing works, you can consider reaching out to Microsoft tech support as a last resort.
@@ -141,25 +142,6 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  In the following sections, we will discuss the common causes behind this error and provide potential solutions to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-high-definition-capture-top-applications-for-2024/"><u>[New] High-Definition Capture Top Applications for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-art-of-playlist-portability-service-to-service-swap/"><u>[New] The Art of Playlist Portability Service to Service Swap</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-15-action-camera-picks-beyond-your-gopro-needs/"><u>[New] Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[Updated] In 2024, Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-a70-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/compatible-drivers-enhancing-your-gaming-experience-with-an-updated-amd-radeon-hd-7870-on-windows-11/"><u>Compatible Drivers: Enhancing Your Gaming Experience with an Updated AMD Radeon HD 7870 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-image-handling-top-6-methods-for-resizing-in-win-11/"><u>Elevate Your Image Handling: Top 6 Methods for Resizing in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/employing-windows-tools-for-top-linux-performance/"><u>Employing Windows Tools for Top Linux Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-power-down-magic-for-w10w11-on-standby/"><u>Harnessing Power-Down Magic for W10/W11 on Standby</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-gionee-f3-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Gionee F3 Pro Face Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personal-touches-changing-windows-screenshot-settings/"><u>Personal Touches: Changing Windows Screenshot Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powertoys-the-ultimate-guide-to-international-in-depth-mouse-control/"><u>PowerToys: The Ultimate Guide to International, In-Depth Mouse Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-windows-operatic-install-with-easy-fixes/"><u>Revive Your Windows Operatic Install with Easy Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-v29e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V29e? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-printer-activation-problems-with-error-code-30/"><u>Troubleshooting and Fixing Printer Activation Problems with Error Code -30</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +149,19 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-peak-traffic-times-for-stellar-video-performance/"><u>[New] 2024 Approved Peak Traffic Times for Stellar Video Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grasping-c-span-a-legal-grey-area-explored/"><u>[Updated] Grasping C-Span A Legal Grey Area Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-convert-your-mp3-collection-into-windows-audio-cds-via-imgburn/"><u>Efficiently Convert Your MP3 Collection Into Windows' Audio CDs via ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-interruptexception-blue-screen-in-w10w11-pcs/"><u>Fixing INTERRUPT_EXCEPTION Blue Screen in W10/W11 PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-read-only-settings-on-your-windows-device/"><u>Overhauling Read-Only Settings on Your Windows Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-software-removal-11-methods-for-windows-users-127-chars/"><u>Simplifying Software Removal: 11 Methods for Windows Users (127 Chars)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktoks-anime-revolution-innovative-ideas-countdown/"><u>TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+</ul></div>
+

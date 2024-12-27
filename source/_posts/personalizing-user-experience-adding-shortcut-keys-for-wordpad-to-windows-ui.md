@@ -1,7 +1,7 @@
 ---
 title: "Personalizing User Experience: Adding Shortcut Keys for Wordpad to Windows UI"
-date: 2024-08-16T02:38:41.817Z
-updated: 2024-08-17T02:38:41.817Z
+date: 2024-12-20T20:12:55.858Z
+updated: 2024-12-27T20:55:26.828Z
 tags:
   - windows10
   - windows11
@@ -40,18 +40,28 @@ You can add a basic WordPad shortcut to the context menu like this:
 4. Input**command** for the subkey’s title.  
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
 7. Click**OK** to save the value, and exit the Registry Editor.  
 ![An Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
 
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
 
  The basic WordPad shortcut launches the app, but you’ll need to open documents from its**File** tab manually. Instead, you can add a second context menu option for opening files with WordPad. That right-click option will provide a shortcut for opening documents in WordPad directly from File Explorer. This is how to add an**Open with WordPad** option to the context menu:
@@ -65,21 +75,16 @@ You can add a basic WordPad shortcut to the context menu like this:
 6. Right-click**Open with Wordpad** and select**New** \>**Key** to add a subkey.
 7. Type**command** in the text box for the subkey.  
 ![The Open with WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-with-wordpad-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Double-click the**(Default)** string for the new command subkey you just added.
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Erase the WordPad Context Menu Shortcuts
 
  If you ever change your mind about having WordPad context menu options, you can remove them by deleting their keys. To do so, you’ll need to open the following key locations in the Registry Editor:
@@ -90,19 +95,11 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
  Then right-click the**Open with WordPad** or**WordPad** key to select a**Delete** option. A dialogue box will open requesting confirmation to erase. Select**Yes** if you’re sure about deleting the key.
 
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make the Most of Your WordPad Context Menu Shortcuts
 
  So, why add Notepad to Windows 11’s context menu when you set up WordPad shortcuts on it instead? Such shortcuts will give you direct access to a somewhat overlooked and underrated advanced text editor that can handle documents with images in them. You can utilize WordPad as a lightweight document viewer for looking at and even editing ODT, DOCX, TXT, and RTF files.
@@ -113,8 +110,6 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +117,24 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/udio-alchemy-free-perfectly-crafted-dj-template-videos-for-2024/"><u>[New] Audio Alchemy Free, Perfectly Crafted DJ Template Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-g310-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia G310 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dampen-disruptive-desktop-scroll-dynamics/"><u>Dampen Disruptive Desktop Scroll Dynamics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-files-alert-solutions-for-windows-11-users/"><u>Dealing with Busy Files Alert: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-quick-boot-mode-to-accelerate-pc-launches-on-windows-11/"><u>Enabling Quick Boot Mode to Accelerate PC Launches on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-timers-swiftly-fix-scheduler-errors/"><u>Enhance Timers: Swiftly Fix Scheduler Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/eveo-bluetooth-adapter-software-free-download/"><u>EVEO Bluetooth Adapter Software - Free Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-logitech-mouse-driver-update-on-win-7/"><u>Hassle-Free Logitech Mouse Driver Update on Win 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30i</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-the-vac-rejected-issue-in-gaming/"><u>How to Sidestep the “VAC Rejected” Issue in Gaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone XR Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-launching-at-optimal-times-a-podcast-guide/"><u>In 2024, Launching at Optimal Times A Podcast Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-docker-in-wsl-2-on-windows-platforms/"><u>Mastering Docker in WSL 2 on Windows Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-overcome-latency-and-improve-battlefield-5-performance/"><u>Step-by-Step Solutions: Overcome Latency and Improve Battlefield 5 Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-windows-11s-0x800f0922-error/"><u>Strategies to Rectify Windows 11'S 0X800F0922 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-lunar-client-not-starting-errors/"><u>Techniques for Resolving Lunar Client Not Starting Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woe-no-more-30-arrow-key-fixes/"><u>Windows Woe No More: 30 Arrow Key Fixes</u></a></li>
+</ul></div>
 

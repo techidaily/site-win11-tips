@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Tasks with Notetaking Techniques for W11/W10
-date: 2024-08-16T02:38:09.446Z
-updated: 2024-08-17T02:38:09.446Z
+date: 2024-12-24T17:31:58.809Z
+updated: 2024-12-27T20:28:03.748Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![The text box for adding notes with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-note-window.jpg)
 5. Select**OK** in the Notes window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that note will remain stuck to the window until you delete it. If you close and reopen an app window, press the**Win** +**Shift** +**N** hotkey to view its note.
 
 ![A sticky note added with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-stick-a-note-note.jpg)
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -77,9 +77,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Press**Install** to proceed with Notezilla's installation.  
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Finish** with the Launch Notezilla checkbox selected.
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
@@ -87,17 +84,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Press**Alt** +**Space** to bring up the note's menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**OK** to stick the note to the selected window.
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
@@ -108,18 +109,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -130,8 +133,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +140,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-content-extractor-the-best-of-the-rest-for-2024/"><u>[New] Instagram Content Extractor The Best of the Rest for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-slow-motions-camera-edition-for-2024/"><u>[Updated] Leading Slow-Motions Camera Edition for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-approach-to-finding-youtube-collaborators/"><u>2024 Approved Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 13 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-settings-fast-entry-pathways-on-windows/"><u>Control Settings: Fast Entry Pathways on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-navigation-top-7-windows-based-browsers-with-low-ram/"><u>Efficient Window Navigation: Top 7 Windows-Based Browsers with Low RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-folder-context-menus-on-windows-1011/"><u>Enhancing Folder Context Menus on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-web-safety-windows-11-controls-overview/"><u>Enhancing Web Safety: Windows 11 Controls Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-windows-widgets-to-monitor-your-hardware-usage/"><u>How to Get Windows Widgets to Monitor Your Hardware Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-upload-srt-files-to-social-media-100-working-methods/"><u>How to Upload SRT Files to Social Media (100% Working Methods)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-backward-text-display-errors-on-pcs/"><u>Preventing Backward Text Display Errors on PCs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-und-betriebsbeginn-von-hyper-v/"><u>Schritt-Für-Schritt Anleitung Zum Einrichten Und Betriebsbeginn Von Hyper-V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-flipping-display-layouts/"><u>Techniques for Flipping Display Layouts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-motorola-moto-g23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Motorola Moto G23 Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Utilizing GitHub Desktop Efficiently on Windows 11 Pro
-date: 2024-08-16T02:39:28.248Z
-updated: 2024-08-17T02:39:28.248Z
+date: 2024-12-22T22:12:13.951Z
+updated: 2024-12-27T21:47:35.813Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 ![Computer on a table showing code in a text editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/computer-with-code.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve set up GitHub Desktop with a repository, you can also create issues and pull requests. You can even review pull requests your team makes directly within GitHub Desktop.
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
@@ -57,27 +61,26 @@ To add an existing GitHub account to GitHub Desktop:
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
 4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How to Use GitHub Desktop Like a Pro
 
  Now that you’ve configured GitHub Desktop on your Windows PC, you can use it in your daily workflow.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Clone a Repository Using GitHub Desktop on Windows
 
  GitHub Desktop lets you quickly clone a GitHub repository without using the command line. You can clone a project if you’ve been added as a collaborator or if it’s available as a public repo. If you haven’t already cloned a project repository, you can do so as follows:
 
 1. Launch GitHub Desktop and click on the**Current repository** button from the left pane.  
 ![clone repo using Github Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clone-repo-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click on the**Add** dropdown and then select**Clone repository** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To clone a repo associated with your signed-in account, select**GitHub.com** or**GitHub Enterprise** based on your account type.
 4. Scroll to find the repo you want to clone and update the saved location if needed.
 5. Once you’re ready, select**Clone** to begin cloning the project.
@@ -85,8 +88,9 @@ To add an existing GitHub account to GitHub Desktop:
 The project should then be accessible within the saved directory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Create a Branch in GitHub Desktop
 
  Branches are essential in the git workflow and allow you to work on a copy of the main codebase. It ensures experimental and unreliable code does not affect the production version of the codebase. Developers can freely play around in their isolated branch and push code once it’s tested.
@@ -111,21 +115,20 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### How to Push Code Using GitHub Desktop on Windows
 
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
  GitHub Desktop is a phenomenal app that completely changes how developers use git for version control. Git is especially useful when working with teams and open-source projects.
@@ -136,8 +139,6 @@ To create a branch in GitHub desktop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,20 @@ To create a branch in GitHub desktop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-laptop-dvd-playback-hacks-top-free-tools/"><u>[New] Laptop DVD Playback Hacks Top Free Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-cd-manipulation-with-wmp/"><u>2024 Approved Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/busting-the-code-fix-your-realtek-wireless-card-drivers-for-windows-11107-operating-systems/"><u>Busting the Code: Fix Your Realtek Wireless Card Drivers for Windows 11/10/7 Operating Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-ways-to-power-up-your-smartphone-when-you-lose-the-charger/"><u>Innovative Ways to Power Up Your Smartphone When You Lose the Charger</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-inaccessible-windows-11-apps/"><u>Navigating Through Inaccessible Windows 11 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-your-pc-beyond-basics-top-10-replacement-software/"><u>Reimagine Your PC Beyond Basics: Top 10 Replacement Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-unseen-second-screen-in-windows-11/"><u>Solve Unseen Second Screen in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-1011s-error-0x80073d26-in-xbox-app/"><u>Tackling Windows 10/11'S Error 0X80073D26 in Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-11-use-adding-an-enhanced-run-toolkit/"><u>Transform Windows 11 Use: Adding an Enhanced Run Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reviving-silent-slack-alerts-in-windows-11/"><u>Troubleshooting: Reviving Silent Slack Alerts in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+</ul></div>
 

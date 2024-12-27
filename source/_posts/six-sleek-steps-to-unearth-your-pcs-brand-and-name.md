@@ -1,7 +1,7 @@
 ---
 title: Six Sleek Steps to Unearth Your PC’s Brand and Name
-date: 2024-12-17T20:18:31.762Z
-updated: 2024-12-21T21:59:07.727Z
+date: 2024-12-24T16:22:16.756Z
+updated: 2024-12-27T16:12:40.112Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
  The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using the System Information App
@@ -44,12 +44,12 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 ![Typing System Information in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-information.jpg)
 3. Choose**System Summary** from the left sidebar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the DirectX Diagnostic Tool
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Using the Command-Line Tools
@@ -83,19 +83,23 @@ You'll see the model name on the console screen.
 
 ![Command to Check System name in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case you want to check your computer serial number, execute the following command in the PowerShell window.
 
 `Get-CimInstance -ClassName Win32_bios`
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Using the Manufacturer's Assistant App
 
 ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
@@ -114,19 +118,15 @@ You'll see the model name on the console screen.
 ![Restart now button next to Advanced startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-now-button.jpg)
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
 ![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
 7. You can check your computer name in the System Information section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get to Know Your Computer's Model on Windows
 
@@ -147,24 +147,24 @@ You'll see the model name on the console screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-a-faster-live-streaming-on-periscope/"><u>[New] How to Get a Faster Live Streaming on Periscope</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-hearthsongs-the-quintessential-playlist-for-engagement-for-2024/"><u>[Updated] Hearthsongs The Quintessential Playlist for Engagement for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-couldnt-be-written-error-on-windows/"><u>Combatting Couldn’t Be Written Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correct-troubleshoot-and-repair-shortcuts-win-11-style/"><u>Correct: Troubleshoot and Repair Shortcuts, Win 11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-complexities-of-windows-iscsi-initiator/"><u>Decoding the Complexities of Windows iSCSI Initiator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-camera-error-0xa00f425d/"><u>Eradicating Window's Camera Error: 0XA00F425D</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-past-intel-hardware-requirement-shortfalls/"><u>Guiding Users Past Intel Hardware Requirement Shortfalls</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-microsoft-store-app-in-windows-11/"><u>How to Unblock the Microsoft Store App in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-pro-editor-in-seconds-canvas-essential-secrets/"><u>In 2024, Become a Pro Editor in Seconds Canva's Essential Secrets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco M6 5G Phone Without Password?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-moves-in-sw-quick-fixed-for-windows-mouse-lag-woes/"><u>Master Moves in SW: Quick Fixed for Windows Mouse Lag Woes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-on-an-xbox-one-a-comprehensive-tutorial/"><u>Mastering the Art of Screenshots on an Xbox One - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preserving-calculators-zenith-in-windows-settings/"><u>Preserving Calculator's Zenith in Windows Settings</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professionelle-systemumstellung-software-wenn-sie-von-einer-festplatte-oder-ssd-zu-einem-anderen-migrieren/"><u>Professionelle Systemumstellung Software: Wenn Sie Von Einer Festplatte Oder SSD Zu Einem Anderen Migrieren</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-motorola-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Motorola has been deleted.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-disabling-windows-11-alerts/"><u>Speed Up Disabling Windows 11 Alerts</u></a></li>
-<li><a href="https://win-news.techidaily.com/upgrade-your-voice-discover-the-latest-karaoke-hits-on-karaoke-cloud-pro-for-december-sign-up-and-unleash-your-star-power/"><u>Upgrade Your Voice: Discover the Latest Karaoke Hits on Karaoke Cloud Pro for December – Sign Up & Unleash Your Star Power!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/windows-10-users-guide-saving-mov-files-flawlessly-for-2024/"><u>Windows 10 Users' Guide Saving .mov Files Flawlessly for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-smartphone-and-tablet-companion-best-gba-simulators/"><u>[New] In 2024, Smartphone & Tablet Companion Best GBA Simulators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-budget-friendly-mmorpg-experiences/"><u>[New] Top 10 Budget-Friendly MMORPG Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unraveling-the-mystery-of-online-video-sharing/"><u>[Updated] 2024 Approved Unraveling the Mystery of Online Video Sharing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-become-a-lunapic-wizard-top-editorial-techniques/"><u>[Updated] Become a LunaPic Wizard Top Editorial Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-visual-appeal-adding-borders-in-social-media-vids/"><u>2024 Approved Enhance Visual Appeal Adding Borders in Social Media Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-error-code-windows-parsing-breakdown/"><u>Dissecting Error Code: Windows' Parsing Breakdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-transfer-your-dvds-to-ipods-with-the-macx-dvd-ripper-top-pick-for-seamless-media-conversion-on-mac-computers/"><u>Effortlessly Transfer Your DVDs to iPods with the MacX DVD Ripper – Top Pick for Seamless Media Conversion on Mac Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enjoy-gameplay-without-extra-cables-setup-ps3-controller-on-windows/"><u>Enjoy Gameplay Without Extra Cables: Setup PS3 Controller on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/feed-your-health-goals-find-the-best-6-apps-for-meticulous-meal-monitoring-and-calorie-count/"><u>Feed Your Health Goals: Find the Best 6 Apps for Meticulous Meal Monitoring & Calorie Count</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-notice-someone-trespassing-pcemail-space/"><u>How to Notice Someone Trespassing PC/Email Space?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-m54-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy M54 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-privacy-stop-windows-11-snooping/"><u>Secure Privacy: Stop Windows 11 Snooping</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shield-your-windows-data-with-regular-saving-schedule/"><u>Shield Your Windows Data with Regular Saving Schedule</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-unsigned-updates-issue/"><u>Techniques to Overcome Unsigned Updates Issue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>The Easy-to-Learn Art of Earning Wealth Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shadowy-side-of-microsoft-artistry/"><u>The Shadowy Side of Microsoft Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-fixes-for-mysterious-disk-space-loss-in-windows/"><u>Top Fixes for Mysterious Disk Space Loss in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-gesture-failures-in-windows/"><u>Understanding and Correcting Gesture Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-scrub-windows-safety-log-files-easy-methods/"><u>Ways to Scrub Windows' Safety Log Files: Easy Methods</u></a></li>
 </ul></div>
 

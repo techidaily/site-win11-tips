@@ -1,7 +1,7 @@
 ---
 title: Resolve Discrepanranks Between Prime Audio & Subtitle Feedback on Windows 11
-date: 2024-12-15T17:16:46.682Z
-updated: 2024-12-21T18:49:57.313Z
+date: 2024-12-26T20:21:11.700Z
+updated: 2024-12-27T16:15:46.369Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Perform Some Basic Fixes
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -74,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
@@ -84,14 +88,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
@@ -113,22 +113,22 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-pro-level-motion-capture-cameras-with-satellite-position-tracking/"><u>[New] 2024 Approved Pro-Level Motion Capture Cameras with Satellite Position Tracking</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-premier-video-editing-apps-for-the-gopro-community/"><u>[New] In 2024, Premier Video Editing Apps for the GoPro Community</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-hardware-guides-by-tom-top-tier-equipment-evaluations-and-comparisons/"><u>Comprehensive Hardware Guides by Tom: Top-Tier Equipment Evaluations & Comparisons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-active-directory-print-failures-on-windows-11-os/"><u>Fixing Active Directory Print Failures on Windows 11 OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-a15-4g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy A15 4G to Protect Your Individual Information</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-itel-p40plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Itel P40+ Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone XS Max</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/next-level-tech-showdown-samsung-galaxy-s24-ultra-vs-s23-ultra-which-one-takes-the-crown/"><u>Next-Level Tech Showdown: Samsung Galaxy S24 Ultra Vs. S23 Ultra – Which One Takes the Crown?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-task-scheduler-fails-in-windows/"><u>Overcome Task Scheduler Fails in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-edit-mode-configure-ms-word-to-open-email-attachments-in-reading-layout/"><u>Prevent Edit Mode: Configure MS Word To Open Email Attachments In Reading Layout</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-unknown-not-initialized-error-in-windows-os/"><u>Solving 'Unknown Not Initialized' Error in Windows OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-k11-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo K11 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-virtual-machines-refining-your-windows-11-experience/"><u>Top Virtual Machines Refining Your Windows 11 Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-the-error-of-msvcrtdll-file-not-found/"><u>Troubleshooting Guide: Fixing the Error of Msvcrt.dll File Not Found</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-windows-steam-link-issues-effectively/"><u>Unblocking Windows Steam Link Issues Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-to-fixing-non-working-win-plus-printer/"><u>Unlocking The Secrets to Fixing Non-Working Win + Printer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-gems-of-windows-11-mouse-settings/"><u>Unveiling the Hidden Gems of Windows 11 Mouse Settings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>[New] Comprehensive Insights Mastering Lenovo Screenshot Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficient-mac-video-resizing-to-fixed-ratio/"><u>[Updated] Efficient Mac Video Resizing to Fixed Ratio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-free-easy-and-fun-top-15-ways-to-watch-nba-online/"><u>2024 Approved Free, Easy & Fun Top 15 Ways to Watch NBA Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>2024 Approved The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-trifecta-guide-for-extracting-youtube-subtitled-content-for-2024/"><u>A Trifecta Guide for Extracting YouTube Subtitled Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correction-of-errors-in-windows-file-history-settings/"><u>Correction of Errors in Windows File History Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-ripen-access-rights-on-windows-files/"><u>Effortlessly Ripen Access Rights on Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guided-navigation-changing-settings-on-windows-systems/"><u>Guided Navigation: Changing Settings on Windows Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro Max to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-printer-control-in-modern-windows-os/"><u>Mastering Printer Control in Modern Windows OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-a20-analysis-remains-an-excellent-affordable-phone/"><u>Samsung Galaxy A20 Analysis: Remains an Excellent Affordable Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-windows-autoupdate-plus-amd-gpu-driver-change/"><u>Securing Windows: Autoupdate + AMD GPU Driver Change</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/strategies-to-leverage-youtubes-cc-licensing/"><u>Strategies to Leverage YouTube's CC Licensing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-approach-to-ram-tuning-w11/"><u>Streamlined Approach to RAM Tuning W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-competitors-to-procreate-on-your-windows-device/"><u>Top 5 Competitors to Procreate on Your Windows Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smooth-csgo-gameplay-performance/"><u>Troubleshooting Techniques for Smooth CS:GO Gameplay Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-configuration-three-easy-steps-for-users/"><u>Win11 Configuration: Three Easy Steps for Users</u></a></li>
 </ul></div>
 

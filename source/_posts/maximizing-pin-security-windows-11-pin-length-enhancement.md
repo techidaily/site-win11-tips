@@ -1,7 +1,7 @@
 ---
 title: "Maximizing PIN Security: Windows 11 Pin Length Enhancement"
-date: 2024-12-18T01:18:33.196Z
-updated: 2024-12-21T20:20:01.694Z
+date: 2024-12-24T20:34:31.791Z
+updated: 2024-12-27T16:14:08.003Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select the **Decimal** option.
@@ -57,13 +53,14 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type **MaximumPINLength** into the DWORD’s text box.  
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
@@ -86,21 +83,26 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -111,25 +113,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-charting-a-successful-course-in-youtube-keywords-for-2024/"><u>[Updated] Charting a Successful Course in YouTube Keywords for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-creating-a-space-for-feedback-talking-with-your-viewers/"><u>[Updated] Creating a Space for Feedback Talking with Your Viewers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-strategies-to-record-and-archive-gotomeetings/"><u>[Updated] Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-heard-words-spoken-ideas-no-price/"><u>2024 Approved Heard Words, Spoken Ideas – No Price</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/file-time-manipulation-5-windows-applications-at-your-fingertips/"><u>File Time Manipulation: 5 Windows Applications at Your Fingertips</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-not-detecting-hdmi-tv-issue/"><u>Fix Windows 11 Not Detecting HDMI TV Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G23</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-autolock-a-step-by-step-guide/"><u>Overcoming AutoLock: A Step by Step Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/simplified-storytelling-methodology-for-2024/"><u>Simplified Storytelling Methodology for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-salvaging-your-wet-ios-gadget-using-diy-fixes/"><u>Step-by-Step Solution: Salvaging Your Wet iOS Gadget Using DIY Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tablet-tools-best-notes-companions-in-win/"><u>Top Tablet Tools: Best Notes' Companions in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-isolated-audio-pathways-on-windows/"><u>Unraveling Isolated Audio Pathways on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-windows-companion-vivetool-method/"><u>Utilizing Windows Companion: ViveTool Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-does-wasd-do-and-its-effects/"><u>What Does WASD Do and Its Effects?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,3 +120,21 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-securely-archiving-your-google-voice-talks/"><u>[New] 2024 Approved Securely Archiving Your Google Voice Talks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dissecting-splitcams-superiority-as-a-recorder/"><u>[Updated] In 2024, Dissecting SplitCam’s Superiority as a Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-melodic-mute-mode-operating-system-steps/"><u>[Updated] Melodic Mute Mode Operating System Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-boot-your-pc-with-intel-network-hardware/"><u>Easy Pathway to Boot Your PC with Intel Network Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-broken-internet-links-an-in-depth-examination-of-solutions-for-win-pc-network-issues/"><u>Fix Broken Internet Links: An In-Depth Examination of Solutions for Win PC Network Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-ready-for-vbox-checking-windows-pre-conditions/"><u>Get Ready for VBox - Checking Windows Pre-Conditions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-maintaining-a-fixed-win-printer/"><u>Guidelines for Maintaining a Fixed Win Printer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 15?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-securely-logging-live-radio-over-the-web-an-instructional-guide/"><u>In 2024, Securely Logging Live Radio Over the Web An Instructional Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-synchronizing-sticky-notes-on-w11/"><u>Troubleshooting Non-Synchronizing Sticky Notes on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/walkthrough-to-elevate-user-role-in-windows-os/"><u>Walkthrough to Elevate User Role in Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-demystified-what-you-need-to-know/"><u>Xbox Game Pass Demystified: What You Need to Know</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Efficient Team Tools Without the Burden
-date: 2024-08-16T02:42:59.301Z
-updated: 2024-08-17T02:42:59.301Z
+date: 2024-12-24T16:14:03.366Z
+updated: 2024-12-27T16:00:02.098Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  While the new version of Teams is only available as a public preview and for commercial users for now, here’s what you can expect when the app is finally available for you to upgrade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New in the Microsoft Teams Desktop App?
 
 ![new teams Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-teams-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Teams app for the desktop comes with a minor design overhaul. It features a new color scheme and some modifications to the UI, making it easier to navigate. The header features a toggle switch to seamlessly switch between the Classic and new Teams interface.
 
@@ -31,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Features That Boost Collaboration and Productivity in Teams
 
  Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
@@ -44,13 +53,15 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -69,32 +80,17 @@ To set the Update policy and enable public preview:
 
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Teams is Now More Efficient and Faster
 
  The new Teams app has just enough visual changes to look like part of Windows 11\. The performance improvements result from new architecture that employs React, Fluent UI, and WebView 2 to improve the speed with decreased memory usage.
 
  Currently, the new Teams app is only available as a public preview to Windows 11 users. Other platforms, including Mac, VDI, Web, Education, and Government Clouds, will likely see the new app later this year.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +99,19 @@ To set the Update policy and enable public preview:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-rights-in-instagram-songs/"><u>[Updated] 2024 Approved Navigating Rights in Instagram Songs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinematic-clarity-hub-query-responses/"><u>2024 Approved Cinematic Clarity Hub Query Responses</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-nailing-the-perfect-shot-a-guide-to-instagram-videos/"><u>2024 Approved Nailing the Perfect Shot A Guide to Instagram Videos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-process-intelligence-how-a-financial-services-company-uncovered-6-million-in-hidden-savings/"><u>ABBYY Process Intelligence: How a Financial Services Company Uncovered $6 Million in Hidden Savings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/celebrity-fleeting-frame-study/"><u>Celebrity Fleeting Frame Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-update-failure-fixing-error-0x80242016/"><u>Conquer Update Failure: Fixing Error 0X80242016</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f34-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F34 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-failure-windows-error-0x80242016-fixes/"><u>Overcome Failure: Windows Error 0X80242016 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-your-computers-windows-services-manager-with-these-tips/"><u>Rehabilitating Your Computer's Windows Services Manager with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/six-sleek-steps-to-unearth-your-pcs-brand-and-name/"><u>Six Sleek Steps to Unearth Your PC’s Brand and Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-unwanted-yellow-shade-in-pc-monitors/"><u>Strategies for Removing Unwanted Yellow Shade in PC Monitors</u></a></li>
+</ul></div>
 

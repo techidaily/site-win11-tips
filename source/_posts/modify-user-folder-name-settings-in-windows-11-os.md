@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2024-12-16T17:17:17.782Z
-updated: 2024-12-21T20:02:20.438Z
+date: 2024-12-26T17:39:50.358Z
+updated: 2024-12-27T20:37:19.625Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 11 creates a default user profile folder based on the first five characters of your account name, but you can change it using a registry hack.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But First, Some Potential Issues That May Arise From These Steps
@@ -58,15 +62,11 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 5. Click **OK** to save the changes.
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
@@ -111,15 +115,16 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 4. In the right pane, right-click on **ProfileImagePath** value and select **Modify**.  
 ![Modify profile image path in the registry editor.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/modify-profile-image-path-registry-editor.png)
 5. Enter a name you want for the profile folder and click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Click away and then click **Continue** to save the changes.
 
@@ -127,34 +132,9 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Next, log out from your current account and sign in to the user account with the new user folder name. Open File Explorer and navigate to **C:\\Users\\**, and you should be able to use the previous profile with the new pathname.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Renaming the Default User Profile Folder in Windows 11, Made Easy
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-laugh-ledger-cutting-edge-generators-for-jokes/"><u>[New] 2024 Approved Laugh Ledger Cutting-Edge Generators for Jokes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zero-cost-window-recording-techniques-3-methods/"><u>[New] 2024 Approved Zero-Cost Window Recording Techniques 3 Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption-for-2024/"><u>[Updated] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/adjust-twitter-video-excerpt/"><u>Adjust Twitter Video Excerpt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-auto-hdr-a-quick-reference/"><u>Decoding Windows 11'S Auto HDR: A Quick Reference</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-as-a-video-game-geek-for-2024/"><u>Earning as a Video Game Geek for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-default-path-mistakes/"><u>Eliminating Windows 10/11 'Default Path' Mistakes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-insights-using-apple-maps-in-windows-os/"><u>Expert Insights: Using Apple Maps in Windows OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-premier-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Premier 5GFRP Lock</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-lg-monitor-in-depth-analysis-and-user-feedback/"><u>In 2024, LG Monitor In-Depth Analysis and User Feedback</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-usb-drives-into-file-system-navigation/"><u>Integrating USB Drives Into File System Navigation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-hidden-settings-with-ease/"><u>Navigating Windows 11 Hidden Settings with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-communication-chatgpt-now-available-on-android/"><u>Revolutionize Communication: ChatGPT Now Available on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secretive-windows-personality-vault-guide-to-accessing-internal-evaluator/"><u>Secretive Windows Personality Vault: Guide to Accessing Internal Evaluator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-file-explorer-launch/"><u>Streamlining Your File Explorer Launch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tricks-for-immediate-fix-of-windows-black-screen-blues/"><u>Top Tricks for Immediate Fix of Windows Black-Screen Blues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/turnout-android-video-streams-counterclockwise/"><u>Turnout Android Video Streams Counterclockwise</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +143,21 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-premier-parchment-creators/"><u>[Updated] In 2024, Premier Parchment Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-videos-a-beginners-tutorial/"><u>[Updated] Mastering Twitter Videos A Beginner's Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-compression-larger-youtube-videos-for-2024/"><u>Avoiding Compression Larger YouTube Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/breaking-news-on-samsung-z-fold-4-specs-released-alongside-price-and-date/"><u>Breaking News on Samsung Z Fold 4: Specs Released Alongside Price and Date</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-steam-access-error-on-windows-11/"><u>Clearing Up Steam Access Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-winmedia-tool-error-0x90017/"><u>Deciphering WinMedia Tool Error: 0X90017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-pc-info-retrieval-with-everythingapp/"><u>Fast PC Info Retrieval with EverythingApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-to-tackle-windows-loading-library-error-87paramerr/"><u>Guidance to Tackle Windows Loading Library Error 87:ParamErr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-loaderror-87-on-windows-libraries-misalignment/"><u>Handling LoadError 87 on Windows Libraries Misalignment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-imagery-capture-insight/"><u>In 2024, Premier Imagery Capture Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-your-steam-game-victories/"><u>Refreshing Your Steam Game Victories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-the-driver-overrun-stack-buffer-failure/"><u>Step-by-Step Guide: Correcting the DRIVER OVERRUN STACK BUFFER Failure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-excellence-started-with-quality-cameras-and-lenses/"><u>Video Excellence Started with Quality Cameras and Lenses</u></a></li>
+</ul></div>
+

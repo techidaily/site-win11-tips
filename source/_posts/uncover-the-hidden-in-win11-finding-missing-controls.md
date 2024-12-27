@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Hidden in Win11: Finding Missing Controls"
-date: 2024-12-15T22:14:48.363Z
-updated: 2024-12-21T19:32:42.746Z
+date: 2024-12-23T18:24:49.990Z
+updated: 2024-12-27T22:26:30.347Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Control Panel Is Likely Going Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -65,27 +65,6 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  While you may not be able to count on the Control Panel the way you could in older Windows versions, the good news is that the new Settings app does a good job filling in. It may take some getting used to, but [all the functionality is there](https://www.makeuseof.com/windows-11-enhanced-settings-app-guide/).
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-comparative-study-single-vs-multi-camera-tech-today/"><u>[New] Comparative Study Single Vs. Multi-Camera Tech Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-jungle-beat-parrots/"><u>[New] Jungle Beat Parrots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-hands-free-technological-advances/"><u>2024 Approved Navigating Through Hands-Free Technological Advances</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discard-tech-the-top-11-software-deletion-paths-in-windows-11-117-chars/"><u>Discard Tech: The Top 11 Software Deletion Paths in Windows 11 (117 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-the-faulty-escape-functionality-in-your-windows-environment/"><u>Fix the Faulty Escape Functionality in Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-msstore-failure-error-0x00000000-in-win-1011/"><u>Guide to Rectify MsStore Failure, Error 0X00000000 in Win 10/11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-extensive-review-capturing-every-angle-with-gear-360/"><u>In 2024, Extensive Review Capturing Every Angle with Gear 360</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>In 2024, Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-x8b-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor X8b Easily?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/making-every-sound-count-mac-audio-mastery-in-audacity-for-2024/"><u>Making Every Sound Count Mac Audio Mastery in Audacity for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premiere-pro-a-launchpad-for-youtube-videos-for-2024/"><u>Premiere Pro A Launchpad for YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-network-related-error-on-ges-interface/"><u>Resolving Network-Related Error on GE's Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-perfect-nvidia-drivers-for-your-needs/"><u>Selecting Perfect Nvidia Drivers for Your Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-secured-windows-downloads/"><u>The Definitive Guide to Secured Windows Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmatched-efficiency-the-best-of-wins-optimization-aids/"><u>Unmatched Efficiency: The Best of Win's Optimization Aids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whys-my-screen-mute-fixing-microphone-issues-on-microsoft-powered-google-meet/"><u>Why's My Screen Mute? Fixing Microphone Issues on Microsoft-Powered Google Meet</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -93,3 +72,27 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-windows-11s-core-enhancements/"><u>[New] In 2024, Unveiling Windows 11'S Core Enhancements</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pixelprobe-criticism-engine/"><u>[Updated] 2024 Approved PixelProbe Criticism Engine</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions-for-2024/"><u>[Updated] Securing Every Moment Tips for Reliable Capture of Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728476203259-windows/"><u>故障したWindows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-symbiotic-space-between-android-and-windows-11-desktops/"><u>Crafting a Symbiotic Space Between Android and Windows 11 Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cryptic-control-center-elusive-power-button-on-desktop/"><u>Cryptic Control Center: Elusive Power Button on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-password-request-on-windows-11-login-screen/"><u>Disabling 'Password Request' On Windows 11 Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-pc-ready-for-win-11-essential-usb-setup-strategies/"><u>Get Your PC Ready for Win 11: Essential USB Setup Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-8-81/"><u>How to Manually Update Drivers in Windows 8, 8.1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-missing-d3dx939-dll-win11-edition/"><u>How to Rectify Missing D3DX9_39 DLL, Win11 Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30-vip-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus with a Mask On</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-with-tom-a-deep-dive-into-electronics-and-hardware/"><u>Mastering Tech with Tom - A Deep Dive Into Electronics and Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-firewall-and-network-settings-visibility/"><u>Navigating Windows Firewall & Network Settings Visibility</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pickup-vs-competitors-an-incisive-review-of-androids-top-editor-for-2024/"><u>PickUp Vs. Competitors An Incisive Review of Android's Top Editor for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-win11s-hypervisorbsod-a-compreran-guide/"><u>Quick Fixes for Win11's HYPERVISOR_BSOD: A Compreran Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-70-lite-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 70 Lite 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-sticky-notes-access-made-simple/"><u>Windows 11 Sticky Notes Access Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wintech-recovering-lost-command-logs/"><u>WinTech: Recovering Lost Command Logs</u></a></li>
+</ul></div>
+

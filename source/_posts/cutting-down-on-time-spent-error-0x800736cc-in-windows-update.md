@@ -1,7 +1,7 @@
 ---
 title: "Cutting Down on Time Spent: Error 0X800736CC in Windows Update"
-date: 2024-08-16T02:39:27.186Z
-updated: 2024-08-17T02:39:27.186Z
+date: 2024-12-26T16:42:48.896Z
+updated: 2024-12-27T22:05:45.467Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,9 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the Windows Update Troubleshooter
 
  If restarting the PC doesn't work, you can use the Windows Update Troubleshooter. This built-in utility solves minor problems that prevent Windows from updating correctly.
@@ -40,11 +40,12 @@ The ultimate burning program for all your needs!</a>
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clear the Windows Update Cache
 
@@ -59,21 +60,23 @@ The ultimate burning program for all your needs!</a>
 `C:\Windows\SoftwareDistribution`
 5. In the SoftwareDistribution folder, delete all files and folders. This is just temporary data, so removing it won't affect your computer.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable your Antivirus Temporarily
 
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
 
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
 
@@ -145,17 +148,15 @@ net start cryptsvc`
 6. In the Save As window, select **All files** from the drop-down menu.
 7. Type **ResetWindowsUpdate.bat** as the file name and save it to your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Now, you have the batch script on your desktop. Right-click on it and select **Run as administrator**.
 9. When the UAC pops up, click **Yes** to grant elevated privileges.
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try Generic Windows Update Fixes
 
  Besides the methods listed above, you can also try some generic Windows Update fixes. These methods usually work if a temporary issue or corrupted system files cause the error.
@@ -170,11 +171,24 @@ net start cryptsvc`
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-cash-on-the-snapchat-grid-for-2024/"><u>[Updated] Unlocking Cash on the Snapchat Grid for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>2024 Approved Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-desktopmobile-adjust-youtube-video-pace/"><u>2024 Approved Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-spontaneous-scroll-wonders/"><u>Eliminate Spontaneous Scroll Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-we-couldnt-set-your-default-save-location-error-in-windows-1110/"><u>How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphone-scanning-app-convert-documents-and-images-with-ocr-technology/"><u>IPhone Scanning App - Convert Documents & Images with OCR Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-30005-create-failure-with-code-32/"><u>Overcoming Windows Error 30005: Create Failure with Code 32</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-camon-20-premier-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-destiny-2-on-pc-no-longer-faces-the-infamous-crash-bug/"><u>Solution Found: Destiny 2 on PC No Longer Faces the Infamous Crash Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-image-magic-the-seventh-simple-trick-unveiled/"><u>Windows 11 Image Magic - The Seventh Simple Trick Unveiled</u></a></li>
+</ul></div>
+

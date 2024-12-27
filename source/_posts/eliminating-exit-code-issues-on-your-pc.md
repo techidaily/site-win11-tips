@@ -1,7 +1,7 @@
 ---
 title: Eliminating Exit Code Issues on Your PC
-date: 2024-12-16T04:36:06.827Z
-updated: 2024-12-22T07:39:16.158Z
+date: 2024-12-26T21:17:45.143Z
+updated: 2024-12-27T16:07:51.963Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Delete or Disable Outdated Mods
 
  The "exit code: 1" error can occur due to outdated mods. To resolve the error, check the Minecraft mods folder and delete it. Removing mods can break your worlds. So make sure to create a backup before attempting to remove any mods. Here’s how to do it.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 3. Next, open the**.minecraft** folder.  
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
@@ -67,7 +59,7 @@ To repair Minecraft Launcher:
  Similarly, you can also repair your Minecraft game. Open Minecraft’s**Advanced Options** and perform a repair in the**Settings** app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Modify the Minecraft Launcher File Path
@@ -103,23 +95,32 @@ To change the Java executable for Minecraft:
 ![minecraft launcher latest release edit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-launcher-latest-release-edit-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click**More Options** to view additional options.
 2. Click**Browse** to add a**Java Executable** .  
 ![java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-executable-browse-minecraft-launcher-windows.jpg)
 3. Navigate to your Java installation. By default, the JRE file path is:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Program Files (x86)\Java\jre1.8.0_361\bin`
 4. Select the**Java.exe** file and click**Open** .  
 ![select JRE java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-jre-java-executable-browse-minecraft-launcher-windows.jpg)
 5. Click**Save** to apply the changes and relaunch Minecraft Launcher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Minecraft Without Deleting Saves
 
@@ -135,7 +136,7 @@ To backup Minecraft saves and uninstall the game:
 4. Right-click on the saves folder and select**Copy (Ctrl +C)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Paste the**saves** folder outside the**.minecraft** folder.  
@@ -153,7 +154,7 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update the Graphics Drivers
@@ -196,16 +197,17 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/canva-and-gpt-tools-for-batch-design-excellence/"><u>Canva & GPT: Tools for Batch Design Excellence</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exposing-bingchatgpts-fake-coins-tips-for-detecting-and-steering-clear-of-online-crypto-scams/"><u>Exposing BingChatGPT's Fake Coins: Tips for Detecting and Steering Clear of Online Crypto Scams</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-pova-6-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Pova 6 Pro 5G Device SIM</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ios-champions-best-ps2-emulation-programs/"><u>IOS Champions Best PS2 Emulation Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-unnecessary-ntoskrnlexe-load/"><u>Mitigating Unnecessary Ntoskrnl.exe Load</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenation-guide-making-dormant-windows-scripts-active-again/"><u>Rejuvenation Guide: Making Dormant Windows Scripts Active Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-tiworkerexe-cpu-consumption-for-better-system-health/"><u>Taming TiWorker.exe CPU Consumption for Better System Health</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-maximizing-your-medical-ads-on-fb/"><u>The Ultimate Guide to Maximizing Your Medical Ads on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-process-of-replacing-aged-window-cards/"><u>Unleash Potential: The Process of Replacing Aged Window Cards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-geforce-error-how-to-correct-failed-scans/"><u>Windows GeForce Error: How to Correct Failed Scans</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>[New] 2024 Approved Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-secrets-of-selecting-the-best-nba-live-feed/"><u>[New] Secrets of Selecting the Best NBA Live Feed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] 2024 Approved Religious Ringtones for Daily Devotion and Driving</u></a></li>
+<li><a href="https://facebook.techidaily.com/connectivitys-perks-uncovering-the-benefits-of-social-media/"><u>Connectivity's Perks: Uncovering the Benefits of Social Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-admin-controlled-errors-in-windows-11-configuration/"><u>Correcting Admin Controlled Errors in Windows 11 Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-devhome-the-essential-guide-to-win11/"><u>Discovering DevHome: The Essential Guide to Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-unsupported-boots-with-these-5-secure-fixes-for-windows/"><u>Overcome Unsupported Boots with These 5 Secure Fixes for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-tech-timetable-avoiding-unscheduled-surprises-with-windows-11-settings/"><u>Tailoring Your Tech Timetable: Avoiding Unscheduled Surprises with Windows 11 Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-budget-choice-for-tech-savvy-users-unveiling-iphone-cups-the-most-amazing-features-including-all-day-power-your-must-see-review-on-zdnet/"><u>The Ultimate Budget Choice for Tech Savvy Users: Unveiling iPhone Cups the Most Amazing Features, Including All-Day Power - Your Must-See Review on ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-potential-efficient-storage-space-in-windows-11/"><u>Unlock Potential: Efficient Storage Space in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-office-365-problem-30015-26-on-devices/"><u>Unveiling the Mystery of Office 365 Problem 30015-26 on Devices</u></a></li>
 </ul></div>
 

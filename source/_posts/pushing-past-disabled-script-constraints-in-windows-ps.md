@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2024-12-20T05:40:50.317Z
-updated: 2024-12-22T05:25:19.904Z
+date: 2024-12-25T20:00:16.589Z
+updated: 2024-12-27T22:35:32.857Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run PowerShell in Administrator Mode
 
  Are you currently running PowerShell without proper administrative rights? If so, then perhaps that’s where the issue lies.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Is the Execution Policy, and How Does It Work?
 
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -93,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 `Get-ExecutionPolicy -List`
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This should show you how the execution policies are configured for different users and systems.
 
@@ -126,9 +118,17 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  When you finish, close PowerShell and then restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 3. Double-click on the **Turn on Script Execution** option.
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
@@ -167,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
@@ -182,10 +186,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Run Your PowerShell Scripts Without Any Restrictions
 
  It can be quite frustrating when you suddenly can’t execute certain commands on Windows PowerShell. But if you come across the “scripts is disabled” error, the solutions we’ve covered should help.
@@ -196,25 +196,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Let’s dive in!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimizing-control-switch-pro-for-steam-gaming/"><u>[New] 2024 Approved Optimizing Control Switch Pro for Steam Gaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>[New] Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-full-potential-of-youtubes-adsense-features-for-2024/"><u>[Updated] Unlocking the Full Potential of YouTube's AdSense Features for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-visual-voyage-exploring-pexels-for-perfect-shots/"><u>A Visual Voyage Exploring Pexels for Perfect Shots</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/fix-microsoft-edges-quick-access-issues-in-windows-10-simple-solutions/"><u>Fix Microsoft Edge's Quick Access Issues in Windows 10 - Simple Solutions</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ifind-data-rescue-step-by-step-guide-to-fixing-a-damaged-sd-card/"><u>IFind Data Rescue: Step-by-Step Guide to Fixing a Damaged SD Card</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtube-income-101-from-ideas-to-earnings-in-action/"><u>In 2024, YouTube Income 101 From Ideas to Earnings in Action</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-running-high-privilege-powershell-on-w11-pcs/"><u>Mastering the Art of Running High-Privilege PowerShell on W11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-system-reboot-unearthing-windows-best-eight-methods/"><u>Quick System Reboot: Unearthing Windows' Best Eight Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-non-appearing-logins-in-win1011-systems/"><u>Remedy for Non-Appearing Logins in Win10/11 Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secure-your-screen-captures-online/"><u>Secure Your Screen Captures Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/space-saver-techniques-using-chdman-to-minimize-game-iso-size/"><u>Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-windows-11-resetting-missing-pin-after-update/"><u>Unlock Your Windows 11: Resetting Missing PIN After Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-to-splendor-the-complete-guide-to-altering-themes-in-win11/"><u>Upgrade to Splendor: The Complete Guide to Altering Themes in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wizardry-tackling-system-controls/"><u>Windows Wizardry: Tackling System Controls</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -222,3 +203,23 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finding-icons-a-targeted-approach-to-instas-powerful-voices/"><u>[New] In 2024, Finding Icons A Targeted Approach to Insta's Powerful Voices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-gaming-liquids-best-of-breed-lists-for-2024/"><u>[New] Premier Gaming Liquids Best of Breed Lists for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>[New] Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>2024 Approved Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-exception-breakpoint-reached-message-on-pcs/"><u>Correcting Exception Breakpoint Reached Message on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-system-settings-with-a-glance/"><u>Navigate Through System Settings with a Glance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-server-related-errors-in-microsoft-store-windows-1111-edition/"><u>Overcoming Server-Related Errors in Microsoft Store, Windows 11/11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-efficiency-for-windows-fixer-utilities/"><u>Reestablishing Efficiency for Windows Fixer Utilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ess-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-simple-reverting-windows-11-user-privileges/"><u>Steps to Simple: Reverting Windows 11 User Privileges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimmed-tamed-files-adopt-compact-display-in-windows-11/"><u>Trimmed, Tamed Files: Adopt Compact Display in Windows 11</u></a></li>
+<li><a href="https://win-tips.techidaily.com/troubleshooting-hard-drive-read-errors-with-yl-software-your-guide-by-yl-computing-experts/"><u>Troubleshooting Hard Drive Read Errors with YL Software - Your Guide by YL Computing Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-proxy-settings-path/"><u>Unveiling Windows 11'S Proxy Settings Path</u></a></li>
+</ul></div>
+

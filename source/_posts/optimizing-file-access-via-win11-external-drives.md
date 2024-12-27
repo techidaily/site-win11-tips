@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2024-12-17T02:37:04.714Z
-updated: 2024-12-21T16:39:07.908Z
+date: 2024-12-22T22:15:42.709Z
+updated: 2024-12-27T16:32:15.414Z
 tags:
   - windows10
   - windows11
@@ -40,8 +40,17 @@ Follow the sets below to enable network discovery on Windows:
 3. Next, click on the**Advanced sharing settings** option under**More Settings** .  
 ![Windows Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-network-settings.jpg)
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
@@ -50,10 +59,6 @@ Follow the sets below to enable network discovery on Windows:
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -70,6 +75,10 @@ Here's what you need to do to use File Explorer for mapping:
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
@@ -88,18 +97,10 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -115,7 +116,15 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
 
@@ -128,15 +137,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -159,19 +160,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-impeccable-crossfades-with-premiere-pro-for-2024/"><u>[New] Crafting Impeccable Crossfades with Premiere Pro for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] In 2024, Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[Updated] In 2024, Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-security-guard-offline-warning/"><u>Counteracting Security Guard Offline Warning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-terminal-background-image/"><u>How to Change the Windows Terminal Background Image</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-empty-directory-phantom-solution-to-code-0x80070091/"><u>Navigating Through Windows' Empty Directory Phantom - Solution to Code 0X80070091</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-screen-jitter-on-windows-7/"><u>Overcoming Screen Jitter on Windows 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-7a-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 7a Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-data-consistency-in-two-windows-with-advanced-synchronization-using-aoemi/"><u>Simplify Data Consistency in Two Windows with Advanced Synchronization Using AOEMi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/status-bt-classic-insight-budget-friendly-with-room-for-improvement/"><u>Status BT Classic Insight: Budget-Friendly with Room for Improvement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-absent-cameras-not-shown-in-dm/"><u>Troubleshoot Absent Cameras Not Shown In DM</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/usb-movie-watching-101-enjoying-local-content-on-amazons-firestick-devices/"><u>USB Movie Watching 101: Enjoying Local Content on Amazon's Firestick Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-2024-guide-to-the-leading-cloud-storage-champions/"><u>Your 2024 Guide to the Leading Cloud Storage Champions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-5-hd-cameras-to-enhance-your-twitch-experience/"><u>[New] Leading 5 HD Cameras to Enhance Your Twitch Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-an-all-inclusive-examination-of-inshots-video-edits/"><u>[Updated] An All-Inclusive Examination of InShot's Video Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-basic-gamers-guide-to-outstanding-video-editing-software/"><u>[Updated] In 2024, Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222251707-wmvaac-movavi/"><u>免費移動網站 WMV到AAC 格式 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://fox-info.techidaily.com/engineering-engrossing-movie-excerpts-for-2024/"><u>Engineering Engrossing Movie Excerpts for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/essential-guide-safeguarding-your-mbr-on-windows-operating-systems-like-windows-10-8-and-7/"><u>Essential Guide: Safeguarding Your MBR on Windows Operating Systems Like Windows 10, 8 and 7</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-emoji-15-on-windows-11-effortlessly/"><u>Leveraging Emoji 15 on Windows 11 Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-non-functional-usb-ports-on-your-pc/"><u>Repairing Non-Functional USB Ports on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-text-editor-experience-7-troubleshooting-tips-for-windows/"><u>Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-app-removal-from-windows-11-os/"><u>The Art of App Removal From Windows 11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867866396-upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed!</u></a></li>
 </ul></div>
 

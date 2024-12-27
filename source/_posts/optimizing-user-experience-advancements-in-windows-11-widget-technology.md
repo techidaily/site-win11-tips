@@ -1,7 +1,7 @@
 ---
 title: "Optimizing User Experience: Advancements in Windows 11 Widget Technology"
-date: 2024-12-17T17:08:23.341Z
-updated: 2024-12-21T21:07:58.597Z
+date: 2024-12-21T20:46:24.719Z
+updated: 2024-12-27T22:40:10.658Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ![Screenshot showing Widgets panel openning on Mouse hover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-hover.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Widgets experience is enabled by default in Windows 11\. To open it, you can hover your mouse over the Widgets icon. A mouse hover is arguably the simplest method of displaying the Widgets panel. However, it can be inconvenient at times.
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows 11 can provide you with news headlines of what is happening around the world through the Widgets panel. You can also customize the Widgets board in such a way that it will only show news on topics that interest you.
 
  However, not everyone wants to be a news junkie. And even if you are someone who keeps a close eye on what's happening around the world, you may not always want the panel to fill with news content. Either way, Microsoft should add the ability to turn off the news article section. If it is not possible to permanently turn off the news section, there needs to be a way to disable it for a few minutes.
@@ -65,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
 
  However, Windows 11 Widgets panel is still missing useful first-party widgets like Sticky Notes and Calculator (here are the[steps for keeping Sticky Notes always on top on Windows 10 and 11](https://www.makeuseof.com/sticky-notes-always-on-top-windows/) ). Microsoft can't force third-party developers to bring their widgets to Windows 11, but it can play its part in making the panel more "widget-rich."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Bring the Ability to Pin Widgets to the Desktop and Lockscreen
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Allow Users to Change the Default Browser for Widgets
 
  You might want to read the full story when you come across an interesting news headline in the Widgets panel. And the link to that story should ideally open on your default internet browser. However, the Widgets capability in Windows 11 doesn't allow that. It will keep opening links on Microsoft Edge even after you set any other browser as default.
@@ -96,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  To offer greater flexibility, Microsoft should allow users to change the default browser for Widgets. Here is our guide on[changing the default browser on Windows 11](https://www.makeuseof.com/windows-11-change-default-browser/) if you are unfamiliar with the steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Fixing Bugs And Improving Reliability
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  The Widgets experience in Windows 11 won't be satisfactory if it is buggy and unreliable. All the efforts Microsoft puts into making Widgets more customizable and feature-rich will go in vain if the company does not address bugs promptly. The software giant must address bugs in Widgets as early as possible besides continuing its work towards adding new features, thus ensuring a more reliable experience.
 
  Meanwhile, you can quickly[fix Windows 11 Widgets when they stop working](https://www.makeuseof.com/windows-11-widgets-not-working/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Microsoft Improve the Widgets Experience in Windows 11?
 
@@ -128,19 +128,18 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-leading-apps-top-10-choices-for-seamless-vimeo-file-extraction-for-2024/"><u>[New] Leading Apps Top 10 Choices for Seamless Vimeo File Extraction for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streaming-smarts-engaging-viewers-on-multiple-networks/"><u>[Updated] Streaming Smarts Engaging Viewers on Multiple Networks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac/"><u>[Updated] Unlock Your Creative Potential with the Premier Free Software Lineup on Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-motorola-moto-g04-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Moto G04 Phone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-steps-downloading-transcripts-from-youtube-videos-with-simple-tools/"><u>Easy Steps: Downloading Transcripts From YouTube Videos with Simple Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-steganography-concealing-zip-files-in-images-on-win1011/"><u>Mastering Steganography: Concealing ZIP Files in Images on WIN10/11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/peloton-vs-myx-comparing-bike-sturdiness-for-heavier-cyclists-find-out-which-supports-more/"><u>Peloton vs Myx: Comparing Bike Sturdiness for Heavier Cyclists – Find Out Which Supports More!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/shadowless-shots-overcoming-challenges-with-light-techniques-for-2024/"><u>Shadowless Shots Overcoming Challenges with Light Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-windows-dism-failure-error-0x800f082f/"><u>Sidestep Windows' DISM Failure Error: 0X800F082F</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-vmboot-troubles-top-remedies-for-windows-11-vmware/"><u>Stop VMboot Troubles: Top Remedies for Windows 11-VMware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/suggestions-to-open-excel-files-correctly-in-notepad/"><u>Suggestions to Open Excel Files Correctly in Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-heic-files-into-compatible-jpeg-on-pcs/"><u>Transform HEIC Files Into Compatible JPEG on PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-diablo-4-pc-performance-smoother-gameplay-consistent-item-drops/"><u>Troubleshooting Diablo 4 PC Performance: Smoother Gameplay, Consistent Item Drops</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-action-needed-prompt-for-wi-fi-in-windows/"><u>How to Fix the Action Needed Prompt for Wi-Fi in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/resolution-rapide-comment-repartir-de-lattelee-avec-google-chrome-sur-windows-10/"><u>Résolution Rapide : Comment Repartir De L'Attelée Avec Google Chrome Sur Windows 10?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverie-of-retro-play-classic-pc-through-dosbox-x/"><u>Reverie of Retro Play: Classic PC Through DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-failed-utorrent-setup-for-windows-users/"><u>Strategies to Overcome Failed uTorrent Setup for Windows Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-stunning-iphone-launchers-that-enhance-your-phones-aesthetics/"><u>Top 10 Stunning iPhone Launchers That Enhance Your Phone's Aesthetics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-15-free-audio-resources-for-youtube-clips-makers-for-2024/"><u>Top 15 FREE Audio Resources for YouTube Clips Makers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-xc0000142-in-win11win10/"><u>Troubleshooting Error XC0000142 in Win11/Win10</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1726027361613-windows-10/"><u>Windows 10ビデオ明るさ設定 - シンプルガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-boot-options-unveiled-a-comprehensive-manual/"><u>Windows Boot Options Unveiled: A Comprehensive Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowsstore-accessibility-guide-a-comprehensive-overview/"><u>WindowsStore Accessibility Guide: A Comprehensive Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/44gk6jam44kb44gu44kk44ok44ob44oz44gn6zplusz5aow6yyy6zplusz5qmf6io944gm44gc44kl44oe44o844or/"><u>お薦めのイヤホンで音声録音機能があるツール</u></a></li>
 </ul></div>
 

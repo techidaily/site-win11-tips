@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot a Non-Operational Printer on Windows 11
-date: 2024-08-16T02:39:57.746Z
-updated: 2024-08-17T02:39:57.746Z
+date: 2024-12-22T19:15:18.468Z
+updated: 2024-12-27T18:37:14.494Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  If none of the aforementioned basic checks and fixes resolves the issue, you can start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Printer Troubleshooter
 
  Start investigating the problem by running the Printer troubleshooter. It's a built-in utility in Windows that helps users diagnose issues with their printers and provides suggestions for fixing them.
@@ -46,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  To run the troubleshooter, open **Settings > System > Troubleshoot > Other troubleshooters** . Here, you will find the**Printer** troubleshooter among the list of Windows troubleshooters. Click on the**Run** button next to it to activate it.
 
 ![list of Windows troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/list-of-windows-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
 
@@ -61,7 +59,16 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 3. Right-click on**Microsoft Print to PDF** and select**Update driver** .  
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
 
@@ -71,18 +78,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 4. Go to the[DriverPack database](https://driverpack.io/en/catalog) .
 5. Paste the copied value in the search box, download a suitable driver and then install it.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restart the Print Spooler Service
 
  If updating the printer drivers does not fix the problem, you should check whether the print spooler service is running. The printer spooler service handles your operating system's interactions with the printer. If this service is turned off, or its files get corrupted, your device may not even detect the printer.
@@ -100,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 7. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Recheck Your Default Printer
 
  Often, improper printer and scanner setup is the leading cause of printing issues. The most common reason why you face printer issues is that you didn’t choose your PDF printer as your default printing device or that you configured it to the incorrect port. It can simply be solved by:
@@ -110,16 +106,17 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 2. Click**View devices and printers** under**Hardware and Sound** .
 3. Under the**Printers** panel, right-click on your PDF printer and select**Set as default.**  
 ![devices and printers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/devices-and-printers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 4. Then, head over to**Properties > Ports** .
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable the Windows Defender Firewall
@@ -128,9 +125,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 6\. Check for New Windows Updates
 
  Windows releases updates periodically to fix existing bugs within the operating system. If you keep the updates paused or don't let them install on time, you're likely to run into unforeseen issues. To ensure that's not the case, see if there is a new update available. If there is, you should install it immediately.
@@ -141,6 +135,10 @@ Here's how you can check that:
 2. Head over to**Windows Update**
 3. Click on**Check for Updates** .  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
 
@@ -165,9 +163,6 @@ To go back to a restore point:
 3. Type**"Recovery"** in the Control Panel’s search box, and go to the Recovery settings.
 4. Select**O** **pen System Restore** .  
 ![advanced recovery tools in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/advanced-recovery-tools1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. The System Restore dialogue box will launch open. Click on**Next** to proceed forward.
 6. Select the restore point to restore your computer back to when your printer was functioning without a hitch.
 7. Again, click on**Next** and then**Finish** to confirm your restore point.
@@ -175,9 +170,6 @@ To go back to a restore point:
 
  Your PC will restart while it resets your Windows 11 to its last restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Printer’s Fixed and Running—What’s Next?
 
  Whether the printer’s malfunctioning due to troubles with your operating system or general hardware issues, it can be a frustrating experience. But hopefully, now that your printer is up and running smoothly again with the aid of these fixes mentioned above. Feel free to delve into how you can make the most of your home and office printers.
@@ -188,8 +180,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +187,24 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparing-the-leading-tunefab-screen-recorders/"><u>[Updated] In 2024, Comparing the Leading Tunefab Screen Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-happiness-in-highlights-iosandroids-top-35-edits/"><u>[Updated] In 2024, Happiness in Highlights IOS/Android's Top 35 Edits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Xiaomi ?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorial-for-adding-people-to-your-photographs/"><u>Comprehensive Tutorial for Adding People to Your Photographs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dampen-disruptive-desktop-scroll-dynamics/"><u>Dampen Disruptive Desktop Scroll Dynamics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-files-alert-solutions-for-windows-11-users/"><u>Dealing with Busy Files Alert: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-timers-swiftly-fix-scheduler-errors/"><u>Enhance Timers: Swiftly Fix Scheduler Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11s-package-control-using-wingetui/"><u>Enhancing Windows 11'S Package Control Using WingetUI</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-install-guide-adding-portable-menu-items-on-w11/"><u>Quick Install Guide: Adding Portable Menu Items on W11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reasons-to-avoid-installing-the-official-chatgpt-mobile-application/"><u>Reasons to Avoid Installing the Official ChatGPT Mobile Application</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/solving-common-issues-expert-tips-on-fixing-your-cddvd-player-insights-by-yl-computing/"><u>Solving Common Issues: Expert Tips on Fixing Your CD/DVD Player - Insights by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-converting-your-video-from-hvc1-format-to-mp4/"><u>Step-by-Step Guide: Converting Your Video From HVC1 Format to MP4</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-file-download-capabilities-within-google-chrome-windows/"><u>Tips for Restoring File Download Capabilities Within Google Chrome, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-high-cpu-use-by-windows-extender/"><u>Unraveling High CPU Use by Windows Extender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-search-power-tips-to-troubleshoot-windows-11s-search-issues/"><u>Winning Back Your Search Power: Tips to Troubleshoot Windows 11'S Search Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secrets of Mouse Controls on Win11
-date: 2024-12-19T04:24:50.442Z
-updated: 2024-12-22T05:27:06.013Z
+date: 2024-12-22T21:36:15.383Z
+updated: 2024-12-27T21:39:00.913Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,14 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using the Control Panel
 
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 4. The Mouse Properties window will launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Settings App
@@ -63,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Scroll down and click on the **Mouse** option.  
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
- You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
 
 ## 4\. Using the Run Dialog Box
 
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
@@ -92,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
@@ -100,6 +112,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. Click on the **Run new task** button. Type **control mouse** in the text box and click on the **OK** button.  
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Close the Task Manager.
 
 ## 7\. Using Command Prompt
@@ -112,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Mouse Properties will open in a new window.
 4. Type **exit** and press Enter to close the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Using PowerShell
 
  You can use the **start-process** cmdlet in PowerShell to launch an app or Windows tools. You don’t need to run [PowerShell with administrator privileges](https://www.makeuseof.com/windows-11-powershell-administrator/) for this method. Repeat the following steps:
@@ -124,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. Type the following command in the PowerShell window and press the Enter key: **start-process control mouse**  
 ![Open Mouse Properties Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-powershell.jpg)
 3. Mouse Properties tool will open in a new window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
 
@@ -153,14 +162,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Gain Absolute Control Over Your Mouse on Windows
 
  Mouse Properties is an applet, so you cannot pin it to the Taskbar or Start menu. But, you can launch it using the Run dialog box or Terminal or you can create a desktop shortcut. For the fastest access to the tool, map a shortcut key combination.
@@ -169,29 +170,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-software-guide-to-gamers-broadcast-for-2024/"><u>[New] Ultimate Software Guide to Gamers' Broadcast for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-amd-rx-6800-xt-drivers-on-windows-operating-systems-win11-win10-win8-win7/"><u>Complete Guide to Installing AMD RX 6800 XT Drivers on Windows Operating Systems: Win11, Win10, Win8, Win7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-delve-into-computer-diagnostics-with-commands/"><u>Easily Delve Into Computer Diagnostics with Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-error-0xc0000142-on-win11win10/"><u>Eliminating Error 0XC0000142 on WIN11/WIN10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-stable-mouse-movement-on-win-1011/"><u>Enabling Stable Mouse Movement on Win 10/11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/exclusive-mcb-logo-designs-and-templates-for-2024/"><u>Exclusive MCB Logo Designs and Templates for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>In 2024, Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inhibit-application-start-tracking-feature-on-windows/"><u>Inhibit Application Start-Tracking Feature on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maxs-most-popular-content-what-we-love-and-why-you-should-too/"><u>Max's Most Popular Content - What We Love and Why You Should, Too!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-disable-microsofts-default-keyboard/"><u>Methods to Disable Microsoft's Default Keyboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-power-management-setting-up-full-charge-notification-in-windows-11/"><u>Proactive Power Management: Setting Up Full Charge Notification in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-try-connecting-bluetooth-problems-with-ease-in-win-11/"><u>Tackling 'Try Connecting' Bluetooth Problems with Ease in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-unresponsive-read-aloud-feature-in-word-2019plus/"><u>Tips for Troubleshooting Unresponsive Read Aloud Feature in Word 2019+</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleashing-the-powerhouse-an-in-depth-analysis-of-the-xbox-one-x-dominance-in-todays-market/"><u>Unleashing the Powerhouse: An In-Depth Analysis of the Xbox One X Dominance in Today's Market</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unseen-elements-in-instagram-stories-for-the-curious-viewer-for-2024/"><u>Unseen Elements in Instagram Stories For the Curious Viewer for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ushering-bliss-in-unboxing-7-strategies/"><u>Ushering Bliss in Unboxing 7 Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-meets-chrome-integration-details/"><u>Windows 11 Meets Chrome: Integration Details</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -199,3 +177,23 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/arness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[New] Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-instant-recorder-performance/"><u>2024 Approved Top Picks for Instant Recorder Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-the-art-of-running-ping-on-pcs/"><u>Expert Insights Into the Art of Running Ping on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-capture-failures-on-low-end-pc-systems/"><u>Fixing Capture Failures on Low-End PC Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hd-4k-winzip-mac/"><u>HD 또는 4K으로 영화 시청 경험 향상: WinZip 및 Mac에서의 단계별 지침</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-aesthetics-with-autocolor-settings-on-your-windows-devices/"><u>Improve Aesthetics with AutoColor Settings on Your Windows Devices</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-6-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 6 Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-control-revoking-advanced-users-on-windows-11/"><u>Reclaiming Control: Revoking Advanced Users on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-freezing-and-dark-screen-with-steam/"><u>Steps to Resolve Freezing & Dark Screen with Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-fix-your-samurai-warriors-5-gameplay-woes/"><u>Troubleshooting PC Crashes: Fix Your Samurai Warriors 5 Gameplay Woes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-android-tablets-unveiled/"><u>Ultimate Guide: Leading Android Tablets Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android-for-2024/"><u>Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/understanding-googles-ar-sticker-innovation-for-2024/"><u>Understanding Google's AR Sticker Innovation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-macos-chromeos-browsers-with-the-lightest-footprint/"><u>Windows, macOS, ChromeOS: Browsers with the Lightest Footprint</u></a></li>
+</ul></div>
+

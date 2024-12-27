@@ -1,7 +1,7 @@
 ---
 title: "Rotate Like a Pro: 6 Easy Steps for Windows Photos"
-date: 2024-08-16T02:42:47.572Z
-updated: 2024-08-17T02:42:47.572Z
+date: 2024-12-23T17:59:48.830Z
+updated: 2024-12-27T19:51:53.564Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 ![The rotation context menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-context-menu-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 2\. How to Rotate Images With the Photos App
 
  Photos is Windows 11’s default image viewer app that includes some editing options. Among them is a basic **Rotate** option for 90-degree rightward rotation. You can rotate images with that option as follows:
@@ -48,11 +45,19 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 ![The basic rotation option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-option.jpg)
 4. Press the **Save as copy** button. Or you can click that button’s small arrow to select a **Save** option that overwrites the file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can select alternative clockwise or anticlockwise rotation options. To do so, press the **Edit image** button beside the **Rotate** option in Photos. Then click the **Rotate image 90 degrees clockwise** or **Rotate image 90 degrees anticlockwise** options.
 
 ![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
 
  Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Rotate Images With Paint
 
@@ -65,6 +70,11 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 5. Click the **Rotate** button to view a small menu with three options.  
 ![Paint's Rotate options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paint-s-rotate-options.jpg)
 6. Select the **Rotate right 90°** or alternative left and 180° options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Press **Ctrl** \+ **S** to save over the original file.
 
  You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
@@ -78,20 +88,18 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 3. Click Google’s **Images** tab.
 4. Right-click a picture thumbnail and select **Edit image**.  
 ![The Edit image option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-image-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
 6. Click **Save** to download the rotated image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. How to Rotate Images With Online Image Tool
 
  You can rotate images without installing software with the Online Image Tool web app. Unlike Edge’s image editor, that tool enables you to upload pictures on your PC for rotation. Plus, you can upload more than one file at a time to rotate multiple images in batches. This is how you can rotate photos with the Online Image Tool in a Windows browser:
@@ -104,40 +112,38 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 ![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click **Save All** to download the rotated images.
 
  Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Rotate Images With IrfanView
 
  IrfanView is a nifty image viewer app for Windows platforms that’s freely available. That app includes a custom rotation feature for rotating images at angles other than 90 or 180 degrees. You can install IrfanView and rotate images with that app like this:
 
 1. Open this [IrfanView webpage](https://www.irfanview.com/64bit.htm) and download the app.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open IrfanView by double-clicking its desktop shortcut.
 4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
 5. Click on the **Image** menu.  
 ![The Rotate Left option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 6. Select the **Rotate Left** or **Rotate Right** option for the standard 90-degree rotation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
 
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rotate Images for a Better Orientation in Windows 11
@@ -146,11 +152,33 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
  You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhanced-collection-of-dialogue-queries-to-boost-listener-interest/"><u>[New] 2024 Approved Enhanced Collection of Dialogue Queries to Boost Listener Interest</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>[New] Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-creative-mc-survival-habitat-concepts/"><u>[New] In 2024, Creative MC Survival Habitat Concepts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-resuscitating-dormant-connections-with-your-obs-cam/"><u>[New] In 2024, Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[New] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-video-quality-in-zoom-conferences-on-win11/"><u>[Updated] Maximizing Video Quality in Zoom Conferences on Win11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-razer-driver-updates-for-windows-users-across-multiple-versions/"><u>Get the Newest Razer Driver Updates for Windows Users Across Multiple Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-local-account-security-questions-on-windows-11/"><u>How to Disable Local Account Security Questions on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-a-unique-identity-in-the-flood-of-live-streams/"><u>In 2024, Creating a Unique Identity in the Flood of Live Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-numlock-and-scroll-bar-icons-into-systray-win11/"><u>Incorporating NumLock and Scroll Bar Icons Into SysTray Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-cloud-connectivity-with-7-essential-fixes/"><u>Master the Art of Cloud Connectivity with 7 Essential Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-integrating-android-phones-as-pc-webcams/"><u>Maximizing Windows 11: Integrating Android Phones as PC Webcams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-disappearing-msodll-step-by-step-guide/"><u>Solving the Mystery of Disappearing mso.dll: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-fix-guide-for-common-windows-resolutions/"><u>The Essential Fix Guide for Common Windows Resolutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-webcam-from-endless-blackness/"><u>Unblocking Webcam From Endless Blackness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-clumped-up-app-symbols-on-os-ui/"><u>Unifying Clumped-Up App Symbols on OS UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-potentials-effective-change-strategies/"><u>Unlock Windows 11 Potentials: Effective Change Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-modern-standby-an-in-depth-examination/"><u>Windows Modern Standby: An In-Depth Examination</u></a></li>
+</ul></div>
+

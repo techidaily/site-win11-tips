@@ -1,7 +1,7 @@
 ---
 title: Demystifying Windows Executable & Linker Format (PE)
-date: 2024-08-16T02:43:01.492Z
-updated: 2024-08-17T02:43:01.492Z
+date: 2024-12-22T17:59:45.002Z
+updated: 2024-12-27T21:02:22.819Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ![laptop with code on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before exploring the Windows Portable Executable format, it's important to clear up the basics. Let's take a step back and learn about the underlying concept of Windows PE—COFF.
 
  When you compile the source code to a program, the compiler generates an object file (.obj). This object file contains instructions for the computer in binary format.
@@ -37,14 +41,12 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  Linux also has its own iteration of the COFF; it's called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the**file command** on Linux with the filename as the first argument.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Structure of a Windows Portable Executable
 
 ![Windows portable executable structure diagram](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Portable Executable file format consists of several components, each with a specific purpose. These components include:
 
@@ -56,41 +58,36 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let's learn exactly what each component does.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### DOS Header
 
  The first part of a PE file is called the DOS Header. A small amount of executable code is stored in the DOS header which can also be run on a DOS machine.
 
  This code is also called the MS-DOS stub and is used to throw an error message on systems that don't support the PE file.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### PE Header
 
  The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Section Headers
 
  Sections are implemented to organize the many components of an executable such as code, data, and resources like text strings, images, etc. The section headers include information regarding the size and location of each section, as well as any associated flags.
 
  The flags associated with each section header can indicate various attributes of the section, such as whether it is executable, writable, or readable. These flags help the operating system to properly load and manage the contents of each section during program execution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Sections
 
  The sections themselves comprise the executable's real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Now You Know All About the Windows Portable Executable File Format
 
@@ -98,14 +95,11 @@ No advertising on the website.
 
  Besides gaining an in-depth understanding of the platform your app will run on, by following a few standard good coding practices, you'll be able to maximize the quality of the application irrespective of the platform it's run on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +108,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-content-expert-tips-on-facebook-video-playbacks-for-2024/"><u>[New] Elevate Your Content Expert Tips on Facebook Video Playbacks for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>[New] In 2024, Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-content-strategy-after-the-facebook-revamp/"><u>[New] Mastering Content Strategy After the Facebook Revamp</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-revolutionize-your-virtual-dialogue-the-google-meet-guide/"><u>[Updated] 2024 Approved Revolutionize Your Virtual Dialogue The Google Meet Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-multi-user-android-calls-the-top-8-tools/"><u>[Updated] Multi-User Android Calls The Top 8 Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-8-superior-windows-video-call-apps-ranked/"><u>2024 Approved 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-drivers-for-steelseries-arctis-5-download-and-installation-tips/"><u>Compatible Drivers for SteelSeries Arctis 5 - Download & Installation Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-os-failure-windows-error-0xc0000001/"><u>Conquering OS Failure - Windows Error 0xC0000001</u></a></li>
+<li><a href="https://win-forum.techidaily.com/dual-monitor-workbook-management-in-microsoft-excel-2013/"><u>Dual Monitor Workbook Management in Microsoft Excel 2013</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-navigating-disks-on-modern-windows-oses/"><u>Expert Tips for Navigating Disks on Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-copy-and-paste-functionality-within-edges-secure-mode-for-w11-os/"><u>How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-woes-30-windows-tricks-to-try/"><u>Key Woes? 30 Windows Tricks to Try</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/making-magic-transforming-ordinary-posts-into-social-sensations/"><u>Making Magic Transforming Ordinary Posts Into Social Sensations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-way-through-the-lost-at-sea-error-in-windows-11/"><u>Making Way Through the Lost at Sea Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-how-to-run-sfc-command/"><u>Mastering Windows: How to Run SFC Command</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigate-the-language-of-germany-a-guide-to-25-idioms/"><u>Navigate the Language of Germany - A Guide to 25 Idioms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-null-audio-output-error/"><u>Quick Guide to Fix Null Audio Output Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-gaming-resolving-the-e84-error-in-steam/"><u>Seamless Gaming: Resolving the E84 Error in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-checklist-for-fixing-win11-wifi-woes/"><u>The Complete Checklist for Fixing Win11 Wifi Woes</u></a></li>
+</ul></div>
 

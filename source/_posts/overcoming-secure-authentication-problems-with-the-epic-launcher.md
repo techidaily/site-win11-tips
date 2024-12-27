@@ -1,7 +1,7 @@
 ---
 title: Overcoming Secure Authentication Problems with the Epic Launcher
-date: 2024-08-16T02:44:01.812Z
-updated: 2024-08-17T02:44:01.812Z
+date: 2024-12-26T21:40:40.794Z
+updated: 2024-12-27T18:52:23.574Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,14 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
  As such, if Epic Games Launcher fails to send the security code, then try the below fixes to troubleshoot the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Login Credentials
 
  Oftentimes, users enter incorrect login credentials and start wondering why they haven't received the security code in their inbox. Thus, make sure you are entering the correct username and password and that your caps lock key is not on. You may also reset your password if unsure if it is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
 ![Internet Speed as per Fast.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Fast.jpg)
@@ -38,9 +39,9 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 ## 3\. Is the Epic Games Server Down?
 
 ![Server status page of Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/server-status-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Epic Games Launcher might fail to send the security code if its server is under maintenance or facing downtime. To confirm if that's what is causing the issue, visit[Epic Games Launcher server status website](https://status.epicgames.com/) . Alternatively, you check[Epic Games Launcher Twitter handle](https://twitter.com/EpicGames) to know about any ongoing server issues.
@@ -57,23 +58,29 @@ So, disable any active VPN and check if it fixes the issue.
 
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another reason behind the issue can be your PC's unreliable DNS server. The solution here is to switch to Google public DNS.
 
  You can change your DNS server settings in the Control Panel. Check out our guide on[changing the DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) for detailed instructions. You'll have to enter**8.8.8.8** in preferred and**8.8.4.4** in the alternate DNS box to change to the Google Public DNS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Update Your Network Drivers
 
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's important to download the latest network driver update on your computer. Latest updates not only introduce new firmware but also eliminate any temporary bug that might be causing the issue at hand.
 
  To update network drivers, check our guide on[updating drives in Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) . After the update process is complete, restart your computer and check for the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Epic Games Launcher
 
@@ -85,27 +92,18 @@ So, disable any active VPN and check if it fixes the issue.
 2. Click your**profile icon** in the top right corner and choose**Settings** from the context menu.
 3. Click the**Restart and Update** button.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Keep Your Epic Games Launcher Account Secure
 
  One main reason behind Epic Games Launcher's popularity is its strong security feature. Every time you want to log in to your account, you must enter the security code sent to your registered email address.
 
  However, for various reasons, Epic Games launchers might fail to send the security code. Fortunately, it's a very common issue and can easily be cured using the above fixes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +112,18 @@ So, disable any active VPN and check if it fixes the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-rhythm-revelations-mastering-music-for-visual-storytelling-for-2024/"><u>[New] Rhythm Revelations Mastering Music for Visual Storytelling for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[New] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-nvidia-quadro-rtx-4000-graphics-card-driver-latest-version/"><u>Download & Install NVIDIA Quadro RTX 4000 Graphics Card Driver Latest Version</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-at-snipeits-stalling-fast-fixes-to-jumpstart-it/"><u>Halt at SnipeIt's Stalling? Fast Fixes to Jumpstart It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-taskbar-clock-show-desktop-dates-a-step-by-step-guide/"><u>Hide Taskbar Clock, Show Desktop Dates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-manual-on-morphvox-sound-alteration/"><u>In 2024, Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-disconnection-quick-fix-for-xbox-win11-app/"><u>Navigating Through Disconnection: Quick Fix for Xbox Win11 App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-through-frozen-windows-update-woes/"><u>The Pathway Through Frozen Windows Update Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-bluetooth-troubleshooting-music-only-lacking-volumecontrols/"><u>Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows 10 Store Errors: A Quick Guide"
-date: 2024-08-16T02:39:24.952Z
-updated: 2024-08-17T02:39:24.952Z
+date: 2024-12-25T21:47:00.115Z
+updated: 2024-12-27T21:21:25.923Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
  Sometimes, the Microsoft Store will explicitly state that the app won't work on your PC. However, there are ways to fix this without upgrading your PC. Check out [how to fix "this app will not work on your device"](https://www.makeuseof.com/how-to-fix-this-app-will-not-work-on-your-device-error-in-windows/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Download the App From Its Website
 
  If you don’t have the time to figure out what’s wrong with Microsoft Store, there’s a quick workaround for you to try. Check if you can download the app through the developer's website.
@@ -47,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![Run the Microsoft Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/store-troubleshooter-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will now search for any problems regarding the Microsoft Store and suggest solutions for you to try.
 
 ## 4\. Update the Microsoft Store
@@ -56,29 +57,19 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  Launch the Store and click **Library**. Then, you can look for the Microsoft Store in the list and update it individually. But to make things easier and prevent future issues with other apps, click the **Get updates** button.
 
 ![Update Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-microsoft-store-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This way, you install any pending updates for the apps installed through Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run an SFC and DISM Scan
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
  If Microsoft Store still can't install an app after updating it, you might be dealing with corrupted system files. In this case, you should launch Command Prompt with administrative rights and run an SFC and DISM scan.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn On Necessary Features
 
  Depending on the app’s functionality, it might need a certain feature enabled on your computer. For example, the Virtualization Manager app requires the Virtual Machine Platform feature to be enabled.
@@ -86,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  You can check the app description to find out if it needs a specific feature, so it runs properly. Then, head to Settings and [enable Windows 11 optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Restart the Application Identity Service
 
  Windows has a built-in service that checks an app's identity when running it. If there’s something wrong with the Application Identity service, you might run into Windows's inability to run a certain app. In this case, you should restart the Application Identity services.
@@ -96,14 +88,19 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![Restart the Application Identity service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-identity-service-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Close Windows Services, reboot your computer and try to run the problematic app again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset the Microsoft Store
 
  Microsoft Store might display this error if it accumulated too much cache or if it somehow got corrupted. In this case, [you should reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). Then, relaunch the app and check if the error is now gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Microsoft Store Apps Working
 
@@ -115,11 +112,33 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
  Other than getting new hardware, you can solve this issue by going through the below solutions.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-delving-into-the-heart-of-apples-m1-processor/"><u>[Updated] 2024 Approved Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blending-techniques-for-seamless-picture-merging/"><u>[Updated] Blending Techniques for Seamless Picture Merging</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts-for-2024/"><u>[Updated] The Blueprint for Successful Biographies Top Tips & Techniques From Experts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-your-own-visual-story-iphones-top-10-image-design-techniques/"><u>2024 Approved Craft Your Own Visual Story IPhone's Top 10 Image Design Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickus-impact-on-mobile-photography-a-comparative-study/"><u>2024 Approved PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-smart-8-pro-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Smart 8 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-settings-fast-entry-pathways-on-windows/"><u>Control Settings: Fast Entry Pathways on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ecoflows-innovative-portable-charger-sustain-your-electronics-for-an-entire-month-check-out-zdnets-review/"><u>EcoFlow's Innovative Portable Charger - Sustain Your Electronics for an Entire Month! Check Out ZDNET's Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-folder-context-menus-on-windows-1011/"><u>Enhancing Folder Context Menus on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-web-safety-windows-11-controls-overview/"><u>Enhancing Web Safety: Windows 11 Controls Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-windows-widgets-to-monitor-your-hardware-usage/"><u>How to Get Windows Widgets to Monitor Your Hardware Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-backward-text-display-errors-on-pcs/"><u>Preventing Backward Text Display Errors on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-windows-11s-access-to-5g-wi-fi/"><u>Streamlining Your Windows 11'S Access to 5G Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-flipping-display-layouts/"><u>Techniques for Flipping Display Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-for-a-reliable-windows-11-search-experience/"><u>Top Strategies for a Reliable Window's 11 Search Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-stuck-downloads-fixing-win11-issues-2/"><u>Unfreezing Stuck Downloads: Fixing WIN11 Issues (2)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x50iplus-by-drfone-android/"><u>Universal Unlock Pattern for Honor X50i+</u></a></li>
+</ul></div>
+

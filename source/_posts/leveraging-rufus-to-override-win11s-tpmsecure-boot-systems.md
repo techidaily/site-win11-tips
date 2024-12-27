@@ -1,7 +1,7 @@
 ---
 title: Leveraging Rufus to Override Win11's TPM/Secure Boot Systems
-date: 2024-12-20T02:48:46.365Z
-updated: 2024-12-22T02:54:29.732Z
+date: 2024-12-20T21:48:54.519Z
+updated: 2024-12-27T20:15:35.817Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  Apart from these two tweaks, Rufus can also speed up the installation process by avoiding the setup pages for tracking, [disabling BitLocker encryption](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/), and settings the same language and region options as the computer you are using to create a bootable USB drive. So, you can prepare a Windows 11 bootable drive that takes less time to install and set up on a new system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create a Bootable USB Drive Which Bypasses Windows 11 Requirements Using Rufus
 
  Firstly, you need to [download the latest version of Rufus](https://rufus.ie/). It is available on Microsoft Store, GitHub and even has an official website where they post the details about new and upcoming releases. We suggest you download the portable version of Rufus to avoid the installation process altogether. You will also need the latest version of the Windows 11 ISO image file. Visit the official Microsoft webpage and [download the ISO file](https://www.microsoft.com/en-in/software-download/windows11) from there.
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Create a Bootable USB Drive Using Rufus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-3.jpg)
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install the Modified Windows 11 on Your System
 
  Repeat the following steps to install Windows 11 while bypassing its system requirements:
@@ -69,11 +69,16 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 4. Click on the **I don’t have the product key** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Install the Modified Windows 11 on Your System 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-2.jpg)
 5. Select the version of Windows 11 you want to install (Home, Pro, Enterprise, or Education) and click on **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
 
 1. Accept the EULA and click on the **Next** button. Then, click on the **Custom** option.
@@ -82,19 +87,19 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Install the Modified Windows 11 on Your System 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-4.jpg)
 4. Your system will restart a few times and then boot to the Windows 11 setup page. Disconnect your system from the internet otherwise, it will attempt to check and download updates which can take a long time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Enter your **Name** and select **three security questions** and their answers as well. Click on **Next**.  
 ![Install the Modified Windows 11 on Your System 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-5.jpg)
 6. Windows will prepare your system for the first boot. After a short while you will boot to the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
 
@@ -106,38 +111,11 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  However, you will need to set up a new PIN if you plan to inherit the same username and region options as your main Windows computer. Otherwise, you won’t be able to log in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A Frictionless Windows 11 Installation With Rufus
 
  Rufus can help you create a custom Windows 11 bootable drive that bypasses all the unnecessary requirements and setup pages. It is much better than using a tweaked ISO file with questionable security. Plus you don’t have to pay a dime because Rufus is completely open-source.
 
  There are even tweaked ISO files of Windows 11 available which bypasses both requirements before installation. However, Rufus has a better solution. It can help you prepare a Windows installation media while bypassing these requirements and adding more tweaks. Want to know more? Let’s begin.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-virtual-tournament-gear-showcase-series/"><u>[New] 2024 Approved Virtual Tournament Gear Showcase Series</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-behind-the-curtain-how-youtube-tallys-its-views/"><u>[Updated] Behind the Curtain How YouTube Tally's Its Views</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-funny-frenzy-discovering-the-top-tweets-for-laughter-for-2024/"><u>[Updated] Funny Frenzy Discovering the Top Tweets for Laughter for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-racing-revelry-junior-edition/"><u>[Updated] Racing Revelry Junior Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/closedchatgptqueries-anticipated-resumption/"><u>ClosedChatGPTQueries: Anticipated Resumption</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-earning-potential-revenue-from-youtube-advertisements-for-2024/"><u>Exploring Earning Potential Revenue From YouTube Advertisements for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-text-to-talk-how-to-start-windows-11-verbal/"><u>From Text to Talk: How to Start Windows 11 Verbal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-chrome-download-failures-on-windows/"><u>Guidelines for Fixing Chrome Download Failures on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-your-device-usage-options-in-windows-11/"><u>How to Change Your Device Usage Options in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-search-tool-in-windows-11-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 11 & 11 Not Displaying Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-user-access-changes-for-typical-windows-users/"><u>Implementing User Access Changes for Typical Windows Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-experts-method-for-timestamping-your-youtube-videos/"><u>In 2024, The Expert's Method for Timestamping Your YouTube Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-11-more-reliable-and-robust/"><u>Making Windows 11 More Reliable and Robust</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-unknown-device-alerts-on-win-oses/"><u>Remedying Unknown Device Alerts on Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-sound-devices-error-on-audacity-windows-11/"><u>Resolving Sound Devices Error on Audacity (Windows 11)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-into-success-mastering-tagging-for-engaging-content-for-2024/"><u>Step Into Success Mastering Tagging for Engaging Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-most-vital-shortcuts-to-accelerate-your-3d-workflow/"><u>The Most Vital Shortcuts to Accelerate Your 3D Workflow</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-tackle-non-responsive-file-explorer-problems-in-windows-10/"><u>Troubleshoot and Tackle Non-Responsive File Explorer Problems in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/watch-tv-shows-and-movies-for-free-stream-with-crackle/"><u>Watch TV Shows & Movies For Free - Stream with Crackle</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +124,18 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free/"><u>[Updated] The Easiest Way to Convert Your YouTube Videos Into Texts for FREE</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-clock-techniques-to-decrease-delay-and-improve-reaction-time-in-pcs-bless-unleashed/"><u>Beating the Clock: Techniques to Decrease Delay and Improve Reaction Time in PC's Bless Unleashed</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/bypassing-ebook-drm-restrictions-for-book-page-8-a-comprehensive-guide/"><u>Bypassing Ebook DRM Restrictions for Book Page 8 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-device-not-reachable-in-windows-with-step-by-step-approach/"><u>Fixing Device Not Reachable in Windows with Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-virtualbox-efail-0x80004005-error-on-windows/"><u>How to Fix VirtualBox E_FAIL (0X80004005) Error on Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-wevideo-the-fast-and-easy-way-to-create-amazing-videos/"><u>New WeVideo The Fast and Easy Way to Create Amazing Videos</u></a></li>
+<li><a href="https://techidaily.com/remove-v30-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove V30 unlock screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-1011-installer-package-issues-quickly/"><u>Resolving Windows 10/11 Installer Package Issues Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-reset-file-explorer-in-win1011/"><u>Swift Steps to Reset File Explorer in WIN10/11</u></a></li>
+</ul></div>
+

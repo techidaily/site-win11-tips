@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2024-12-21T06:52:40.026Z
-updated: 2024-12-22T09:57:35.840Z
+date: 2024-12-26T19:14:34.444Z
+updated: 2024-12-27T18:28:58.836Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * Be sure to consider any unsaved work before logging off a user.
 
  Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Sign Out Other Users Using the Task Manager
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -78,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Log Off Other Users Using Process Explorer
 
  Process Explorer is part of [Windows Sysinternal Tools, a suite of system administration utilities](http://www.makeuseof.com/windows-sysinternals-guide/) from Microsoft. Though the freeware is popular among developers and system admins, anyone can use Process Explorer to use some of its advanced features.
@@ -90,49 +98,21 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
 
  When you log off other users, any unsaved work in their accounts is lost. So do consider that before you apply the above methods. Logging off from a Windows account in a multi-user PC is a good habit because it reduces the chance of data loss and frees up the computer's resources for others. Always request others to sign off when their work is finished.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-optimal-transfer-methods-iphone-camera-roll-to-snapchat-journey/"><u>[New] 2024 Approved Optimal Transfer Methods IPhone Camera Roll to Snapchat Journey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-cutting-edge-editing-advanced-strategies-for-using-the-background-erase-feature/"><u>[New] Cutting Edge Editing Advanced Strategies for Using the Background Erase Feature</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-2023-social-media-video-exploration/"><u>[New] In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-mac-studio-with-state-of-the-art-screen-and-voice-logging-for-2024/"><u>[New] Top Mac Studio with State-of-the-Art Screen and Voice Logging for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated-for-2024/"><u>[New] Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ideal-timing-aids-the-best-clock-apps-for-your-big-day-for-2024/"><u>[Updated] Ideal Timing Aids The Best Clock Apps For Your Big Day for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatching-opengl-problem-code-3-on-nvidia-windows/"><u>Dispatching OpenGL Problem Code 3 on Nvidia, Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-transition-powertoys-in-your-win11-pc/"><u>Effortless Transition: PowerToys in Your Win11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-share-error-messages-with-nvidias-gui/"><u>Eliminating Share Error Messages with NVIDIA’s GUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-flaky-snipshot-commands-on-pc/"><u>Enabling Flaky Snipshot Commands on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-ignoring-invalid-security-notices-from-chrome-browser/"><u>Guide: Ignoring Invalid Security Notices From Chrome Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-supercharge-system-controls-running-task-manager-admin-wise-on-win11/"><u>How to Supercharge System Controls: Running Task Manager Admin-Wise on Win11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/prolific-photography-and-video-app-selection-iphone-vs-android-for-2024/"><u>Prolific Photography & Video App Selection IPhone vs Android for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quick-reference-guide-to-mastering-mobizens-screen-recording-tech-for-2024/"><u>Quick Reference Guide to Mastering Mobizen's Screen Recording Tech for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisit-the-classics-enhancing-games-with-retroarchs-shaders/"><u>Revisit the Classics: Enhancing Games with RetroArch’s Shaders</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-compilation-of-costless-peak-quality-audio-apps-for-ios-and-android/"><u>Updated 2024 Approved The Ultimate Compilation of Costless, Peak-Quality Audio Apps for iOS and Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +121,27 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips/"><u>[New] 2024 Approved Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-building-a-brand-on-fb-covers-that-speak-volumes/"><u>[New] In 2024, Building a Brand on FB Covers that Speak Volumes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>[New] The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide-for-2024/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality-for-2024/"><u>[Updated] Mastering iPhone's Voice Memo Functionality for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-your-day-with-these-best-6-windows-11-to-do-applications/"><u>Conquer Your Day with These Best 6 Windows 11 To-Do Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-internal-pc-keys-in-the-microsoft-ecosystem/"><u>Disabling Internal PC Keys in the Microsoft Ecosystem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-corsair-k70-mouse-drivers-and-software/"><u>Download and Installation Guide: Corsair K70 Mouse Drivers & Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/easy-file-relocation-techniques-for-windows-users-by-yl-software-move-between-external-and-internal-drives-without-hitches/"><u>Easy File Relocation Techniques for Windows Users by YL Software: Move Between External and Internal Drives Without Hitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-network-analysis-win-ipandmac-via-powershell/"><u>Enhancing Network Analysis: Win IP&MAC via PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-functionality-repair-intel-unison-in-win11/"><u>Ensuring Functionality: Repair Intel Unison in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leverage-powertoys-for-swift-typing-in-windows/"><u>Leverage PowerToys for Swift Typing in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-policy-bypass-during-windows-installation-issues/"><u>Mastering Policy Bypass During Windows Installation Issues</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-se-2022-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone SE (2022) with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-icon-position-restoration/"><u>Techniques for Icon Position Restoration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-windows-way-to-enjoy-classic-quests-in-ultra-hd-via-scummvm/"><u>The Best Windows Way to Enjoy Classic Quests in Ultra-HD via ScummVM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trigger-quick-support-functionality-windows-11-guide/"><u>Trigger Quick Support Functionality: Windows 11 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey-for-2024/"><u>Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey for 2024</u></a></li>
+</ul></div>
+

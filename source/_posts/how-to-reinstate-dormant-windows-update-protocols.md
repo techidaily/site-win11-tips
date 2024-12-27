@@ -1,7 +1,7 @@
 ---
 title: How To Reinstate Dormant Windows Update Protocols
-date: 2024-08-16T02:38:24.342Z
-updated: 2024-08-17T02:38:24.342Z
+date: 2024-12-20T22:34:46.910Z
+updated: 2024-12-27T16:17:44.542Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ To run the Windows Update troubleshooter:
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Scans
 
  Corrupt system files can also cause some Windows services or default apps to disappear from your computer. The System File Checker and Deployment Image Servicing Management are two command-line tools that can help you detect and restore any damaged system files on Windows. Here's how to run them:
@@ -52,9 +53,6 @@ To run the Windows Update troubleshooter:
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 3\. Scan for Malware
 
  If the Windows Update service is still missing, you might be dealing with a virus or malware infection. To check for this possibility, you'll have to run a full system scan using the built-in Windows Security app. Here are the steps for the same.
@@ -65,8 +63,9 @@ To run the Windows Update troubleshooter:
 4. On the next screen, select the**Full scan** option.
 5. Click the**Scan now** button.  
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
@@ -86,9 +85,6 @@ To run the Windows Update troubleshooter:
 5. Within the**Services** key, locate the**wuauserv** key. If you can’t find it, skip to step number 9.
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Right-click the**wuauserv** again and select**Delete** .
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
@@ -172,6 +168,10 @@ To run the Windows Update troubleshooter:
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Factory Reset Windows
 
  Lastly, if none of the above solutions work, you can consider resetting Windows to its default settings. This will revert your computer to factory settings and remove any third-party software packages.
@@ -184,8 +184,9 @@ To reset your Windows computer:
 4. In the "Reset this PC" wizard, select**Keep my files** if you want to retain your personal files. Otherwise, select**Remove everything** .
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
@@ -193,8 +194,9 @@ To reset your Windows computer:
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restoring the Missing Windows Update Service
 
  It is vital to keep your Windows computer updated to the most recent version. However, you might have trouble doing so if the Windows Update service vanishes from your computer. Hopefully, one or more fixes in this guide have helped restore the missing Windows Update service, and you are able to install updates as before.
@@ -205,8 +207,6 @@ To reset your Windows computer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +214,24 @@ To reset your Windows computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-fb-live-recorder-for-2024/"><u>[New] 2023 FB Live Recorder for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-copyright-and-sharing-guide/"><u>[New] In 2024, Instagram's Copyright & Sharing Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-podcast-style-unboxing/"><u>[New] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-android-projector-applications-top-8-picks-for-seamless-wireless-connection/"><u>Best Android Projector Applications: Top 8 Picks for Seamless Wireless Connection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/breaking-down-the-free-fcp-puzzle-for-2024/"><u>Breaking Down The Free FCP Puzzle for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-superfluous-windows-services/"><u>Curbing Superfluous Windows Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-windows-11-password-vault-top-11-hacks/"><u>Decoding the Windows 11 Password Vault: Top 11 Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-deciphering-windows-11-error-messages/"><u>Effective Strategies for Deciphering Windows 11 Error Messages</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-service-error-on-windows-11/"><u>How to Fix the Steam Service Error on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-s18-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo S18 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fan-treasure-unveil-best-price-deals-on-essential-windows-11-6b/"><u>Keys Fan Treasure: Unveil Best Price Deals on Essential Windows 11, $6_B)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kid-friendly-nickelodeon-series-debuts-at-us-kids-choice-awards/"><u>Kid-Friendly Nickelodeon Series Debuts at US Kids' Choice Awards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-failed-cloud-operations-onedrive/"><u>Navigating Through Failed Cloud Operations (OneDrive)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-user-experience-advancements-in-windows-11-widget-technology/"><u>Optimizing User Experience: Advancements in Windows 11 Widget Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-restored-ethernet-connection-in-win-os/"><u>Steps for Restored Ethernet Connection in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-optimize-transcoding-performance-on-windows-via-tdarr/"><u>Supercharge Your PC - Optimize Transcoding Performance on Windows via Tdarr</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Re-Boot Your Windows 11 to Fix AnyDesk
-date: 2024-08-16T02:41:07.515Z
-updated: 2024-08-17T02:41:07.515Z
+date: 2024-12-21T16:47:57.511Z
+updated: 2024-12-27T16:57:04.224Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  AnyDesk is a popular remote desktop application that lets users connect and use computers remotely. However, users can't utilize that app when it doesn't work. Many users have reported on the community forums that they need to fix the AnyDesk app not launching in Windows.
 
  So, if the AnyDesk app is slow or not launching at all in Windows 11, try implementing these potential fixes to kick-start it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why AnyDesk Is Not Working in Windows 11
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
 ![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like any other online service, AnyDesk can experience server outages anytime. When the servers are down, you won't be able to use or open the app at all.
 
  You can check the AnyDesk server status by visiting its[AnyDesk status website](https://status.anydesk.com/) . There, check the network status of your continent.
@@ -60,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 4. Choose**System and Security.**
 5. Select the**Allow an app through Windows Firewall** option under**Windows Defender Firewall** section.  
 ![Allow an app through Firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-firewall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the**Change settings** button.
 7. In the**Allowed apps and features** list, search for the**AskDesk** app.
 8. Check the**Private** and**Public** checkboxes for the AnyDesk app.  
@@ -71,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  That's it. Now restart your computer and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change the System Date and Time
 
  If the host computer or guest device shows an incorrect date and time, it can cause connection issues and stop AnyDesk from working correctly. The solution, in this case, is to synchronize both devices using an internet time saver.
@@ -84,17 +86,20 @@ Here are the steps you need to follow:
 2. Choose the**Time** **& language** option from the left sidebar.
 3. Under the**Related links section,** choose the**Additional clocks** option.  
 ![Additional Clocks option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-clocks.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the**Date and Time** window that crops up, switch to the**Internet Time** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Change settings** button.
 6. Check the**Synchronize with an Internet time server** box, and then click the**Update now** button.  
 ![Update now option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-now-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try Networking Command Prompt Commands
 
@@ -127,11 +132,12 @@ To perform a clean boot, follow the below steps:
 1. In the Run dialog box, type**msconfig** and press**Enter** .
 2. The System Configuration window will appear. Switch to the**Services** tab and then click on the**Hide all Microsoft services** checkbox.  
 ![Hide all Microsoft Services option in Clean Boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hide-all-microsoft-services.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3. Click the**Disable all** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then, switch to the**Startup** tab and select the**Open Task** **Manager** option.
 5. The Task Manager will appear with the Startup program section. Find and right-click on all the startup applications and choose**Disable.**
 6. Click the**OK** button in the System Configuration window. Restart your computer and launch the AnyDesk app to check if the problem continues.
@@ -147,29 +153,24 @@ You can update the AnyDesk app by following the below instructions:
 3. Select**Security** from the left sidebar.
 4. Check the**Enable Auto-Update - Main Channel** option under the**Update** section.  
 ![Enable Auto Update option in AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-auto-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  AnyDesk will now automatically download any available update on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Remote Work With AnyDesk
 
  Nothing worse than facing an interruption in work due to the malfunctioning of an app. Fortunately, if the AnyDesk app is not working on your Windows PC, you now know what's causing the problem and how to fix it.
 
  Meanwhile, you might be interested to know how use AnyDesk to connect remotely to a Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +179,21 @@ You can update the AnyDesk app by following the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-fast-track-choosing-best-pc-game-speed-extensions-for-2024/"><u>[Updated] Fast Track Choosing Best PC Game Speed Extensions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-soundscape-of-influence-altering-voice-on-stories-and-reels/"><u>[Updated] In 2024, The Soundscape of Influence Altering Voice on Stories & Reels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-innovative-uses-of-chatgpt-in-excel-workflows/"><u>Boost Your Productivity: Innovative Uses of ChatGPT in Excel Workflows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-method-to-rectify-error-0x800700c6-in-apps/"><u>Detailed Method to Rectify 'Error 0X800700C6' In Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-free-darkroom-program-lightzone-compatible-with-pc-and-mac/"><u>Discover the Ultimate Free Darkroom Program - LightZone Compatible with PC & Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-windows-arp-cache-mechanism-and-deletion/"><u>Dissecting Windows ARP Cache Mechanism and Deletion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-find-and-update-your-toshiba-devices-drivers-on-a-pc-or-laptop/"><u>How to Easily Find & Update Your Toshiba Device's Drivers on a PC or Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpo-searches-in-modern-windows-os/"><u>Mastering GPO Searches in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011s-0x80246007-problem/"><u>Overcoming the Windows 10/11'S 0X80246007 Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-signature-problem-for-windows-updates/"><u>Resolving Signature Problem for Windows Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smart-pricing-a-comprehensive-cloud-storage-analysis/"><u>Smart Pricing A Comprehensive Cloud Storage Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/webmmkv/"><u>WebM動画をMKVフォーマットに簡単な手順でリニアコンバージョン</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-guide-to-opening-system32-directory/"><u>Win11's Guide to Opening System32 Directory</u></a></li>
+</ul></div>
 

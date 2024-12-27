@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows 11 GPO Control
-date: 2024-12-19T20:04:13.951Z
-updated: 2024-12-21T23:44:20.762Z
+date: 2024-12-20T19:22:28.901Z
+updated: 2024-12-27T16:34:27.645Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,15 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Type **edit group policy** or **gpedit** in the search box and select the first result that appears.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you receive [the "Windows cannot find gpedit.msc" error](https://www.makeuseof.com/fix-cannot-find-gpeditmsc-error-in-windows/), you may be using the Home edition of Windows 11\. In that case, you must use a workaround or upgrade to Windows 11 Pro to access the Local Group Policy Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Open Local Group Policy Editor via the Run Command
 
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Type **gpedit.msc** in File Explorer’s address bar and press **Enter** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Open Local Group Policy Editor From the Control Panel
 
  With Windows 11, Microsoft moved many classic Control Panel applets to the Settings app. However, the Control Panel is still available on Windows 11\. Here's how to use the Control Panel to open the Local Group Policy Editor on Windows 11\.
@@ -68,11 +80,7 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 ![Open Group Policy Editor via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Open Local Group Policy Editor From the Settings App
@@ -81,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 1. Open the **Start menu,** thenclick the **gear icon**, or use the **Win + I** keyboard shortcut to open the Settings app.
 2. Type **edit group policy** in the search box and select the first result that appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Open Local Group Policy Editor Using Windows Copilot
 
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 ![Open Local Group Policy Editor Using Windows Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-local-group-policy-editor-using-windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Open Local Group Policy Editor From the System32 Folder
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Navigate to the following folder: **C: > Windows > System32**.
 3. Locate and double-click the **gpedit.msc** file to launch the Local Group Policy Editor.  
 ![Open Group Policy Editor Using System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-system32-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Open Local Group Policy Editor Using Task Manager
 
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 ![Open Group Policy Editor Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Open Local Group Policy Editor Using Command Prompt or PowerShell
@@ -147,35 +147,19 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 4. Type **Local Group Policy Editor** inside the name box and hit **Finish**.  
 ![Create a Desktop Shortcut for Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-a-desktop-shortcut-for-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now double-click the Group Policy Editor desktop shortcut to open it quickly.
 
  If you want to open the Local Group Policy Editor even faster, why not [assign a keyboard shortcut to this important Windows program](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/)?
 
  Alternatively, pin the newly created Local Group Policy Editor shortcut to the taskbar. You can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) for speedy access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Access the Local Group Policy Editor With Ease
 
  Whether you use the Windows Search menu, the Run command, or a desktop shortcut, accessing the Local Group Policy Editor in Windows 11 is easy. Once you have opened it, you can review and modify the established policies as needed.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-secure-practices-for-storing-video-conversations/"><u>[New] Secure Practices for Storing Video Conversations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zoom-setup-for-virtual-gatherings/"><u>[Updated] Navigating Zoom Setup for Virtual Gatherings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-premium-online-platforms-for-video-intro-creation/"><u>[Updated] Premium Online Platforms for Video Intro Creation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-the-way-in-high-res-display-technology/"><u>2024 Approved Leading the Way in High-Res Display Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y17s without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-and-irreversible-file-removal-creating-a-customizable-desktop-bin-windows-11/"><u>Effortless and Irreversible File Removal: Creating a Customizable Desktop Bin (Windows 11)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-13-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi 13 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-operation-failed-on-win-1011-systems/"><u>Preventing 'Operation Failed' On Win 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-directx-download-errors-on-pcs/"><u>Rectifying DirectX Download Errors on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-onedrive-for-microsoft-live-users/"><u>Setting Up OneDrive for Microsoft Live Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-1200mbps-netgear-powerline-adapter-a-look-at-how-form-impacts-function/"><u>Unpacking the 1200Mbps Netgear Powerline Adapter: A Look at How Form Impacts Function</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-defender-log-cleanse-a-practical-approach-for-users/"><u>Win 11'S Defender Log Cleanse: A Practical Approach for Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -184,3 +168,27 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>[Updated] How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-youtubes-aspect-ratio-landscape-a-complete-tutorial/"><u>[Updated] In 2024, Navigating YouTube's Aspect Ratio Landscape A Complete Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-personal-growth-chronicles-for-youtube-audience/"><u>[Updated] Personal Growth Chronicles for YouTube Audience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-premium-webcams-for-professional-sound-recording/"><u>2024 Approved Premium Webcams for Professional Sound Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-photographers-top-10-best-4k-cameras/"><u>2024 Approved Professional Photographers' Top 10 Best 4K Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-wintvrecorder-effortless-free-live-tv-saving-software/"><u>2024 Approved WinTVRecorder Effortless, FREE Live TV Saving Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/civilization-conquerors-unite-overcoming-the-sid-meiers-civ-vi-crashing-challenge/"><u>Civilization Conquerors Unite: Overcoming the Sid Meier's Civ VI Crashing Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-text-showcase-in-windows-11-resourceerror/"><u>Correcting Text Showcase in Windows 11 ResourceError</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-fixes-to-restore-dotnet-health-max-156/"><u>Essential Windows Fixes to Restore DotNet Health (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-access-simpler-tasks-creating-windows-shortcuts-uwp/"><u>Faster Access, Simpler Tasks: Creating Windows Shortcuts (UWP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-code-microsoft-store-x80131500/"><u>Fixing Error Code: Microsoft Store, X80131500</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-corrections-for-playstation-network-error-on-windows/"><u>Immediate Corrections for PlayStation Network Error on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903603684-inside-the-ring-of-apple-mystery-estimated-costs-release-plans-technical-details-and-emerging-rumors-decoded/"><u>Inside the Ring of Apple Mystery: Estimated Costs, Release Plans, Technical Details & Emerging Rumors Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-wi-fi-connectivity-snags-filling-action-voids-in-windows/"><u>Rectifying Wi-Fi Connectivity Snags: Filling Action Voids in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seizing-opportunities-how-copilot-key-elevates-your-windows-11-pc/"><u>Seizing Opportunities: How Copilot Key Elevates Your Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-terminals-treasure-chest-unveil-five-hidden-gems/"><u>The Terminal's Treasure Chest: Unveil Five Hidden Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-curing-file-write-inaccessibility/"><u>Win 10/11: Curing File Write Inaccessibility</u></a></li>
+</ul></div>
+

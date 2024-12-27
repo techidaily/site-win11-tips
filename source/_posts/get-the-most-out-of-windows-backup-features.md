@@ -1,7 +1,7 @@
 ---
 title: Get the Most Out of Windows Backup Features
-date: 2024-08-16T02:44:03.817Z
-updated: 2024-08-17T02:44:03.817Z
+date: 2024-12-24T22:36:25.451Z
+updated: 2024-12-27T20:13:52.192Z
 tags:
   - windows10
   - windows11
@@ -48,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable and Use Archive Support in Windows 11
 
  At the time of writing, the archive support feature is only available in Windows Insider build 23493 of the Dev channel.
@@ -62,43 +59,46 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  After installing the latest Insider build, we downloaded three archive files (.rar, .7z., and .tar) and removed any archive manager program from the PC. Now, File Explorer reads these archive formats like ZIP format. You can double-click on the archive file to open it in a new window. From there, you can either drag and drop the contents to another location on your PC.
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Handle Other Archive Formats on Windows
 
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +106,24 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-doppelganger-deliberation-building-caricatured-characters-for-2024/"><u>[New] Digital Doppelganger Deliberation Building Caricatured Characters for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-convert-your-instagram-followers-into-earnings-for-2024/"><u>[New] How to Convert Your Instagram Followers Into Earnings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-text-clarity-in-high-quality-obs-output-for-2024/"><u>[Updated] Enhancing Text Clarity in High Quality OBS Output for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-o365-sync-errors-windows-11/"><u>Deciphering and Remedying O365 Sync Errors (Windows 11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-tp-link-ub400-wireless-usb-adapter-drivers/"><u>Download and Update TP-Link UB400 Wireless USB Adapter Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-razer-device-ignorance-in-windows-1011/"><u>Guidelines for Fixing Razer Device Ignorance in Windows 10/11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-navigate-through-windows-admin-restrictions-errors/"><u>How to Navigate Through Windows' Admin Restrictions Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-file-handling-toggle-the-checkbox-on-win11-files/"><u>Masterful File Handling: Toggle the Checkbox on Win11 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-adding-wordpad-keyboard-triggers-in-windows-11s-ui/"><u>Maximizing Efficiency: Adding WordPad Keyboard Triggers in Windows 11'S UI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-power-of-multitasking-mastering-ffpm-for-2024/"><u>The Power of Multitasking Mastering FFPM for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-discords-black-screen-glitch-while-engaging-in-video-conferencing-now-resolved/"><u>Troubleshooting Discord's Black Screen Glitch While Engaging in Video Conferencing - Now Resolved!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-resolving-the-dilemma-of-spotify-closing-unexpectedly-during-iphone-screen-timeout/"><u>Understanding and Resolving the Dilemma of Spotify Closing Unexpectedly During iPhone Screen Timeout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-yourphoneexe-on-latest-windows-os/"><u>Understanding YourPhoneExe on Latest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-update-error-code-0x80246007/"><u>Unraveling the Mystery of Update Error Code: 0X80246007</u></a></li>
+</ul></div>
+

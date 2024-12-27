@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Windows Shortcuts for UWP Apps
-date: 2024-12-17T22:49:52.663Z
-updated: 2024-12-21T20:37:45.872Z
+date: 2024-12-21T22:13:24.820Z
+updated: 2024-12-27T17:44:35.406Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Drag and Drop UWP Apps From the Start Menu Onto the Desktop
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
  A simple way to create shortcuts for UWP apps is to drag and drop them from the Start menu onto the desktop. To do that, open the Start menu and click**All apps** . Then click a UWP app on the menu, hold the left mouse button, and drag its icon onto the desktop. Release the left mouse button when you see a**Link** box to add the desktop shortcut.
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
@@ -47,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -65,6 +65,11 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Input the URI for the UWP app in the location text box. For example, you would need to enter the**ms-clock:** URI there to create a desktop shortcut for Alarms & Clocks.  
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click**Next** to proceed to the final step of the wizard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
@@ -97,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
- Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
@@ -112,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
 
@@ -136,24 +137,14 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-captureclub-bout/"><u>[Updated] 2024 Approved CaptureClub Bout</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-review-of-lg-bp350-for-home-theaters/"><u>[Updated] Ultimate Review of LG BP350 for Home Theaters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-in-unboxing-7-strategies/"><u>2024 Approved Ushering Bliss in Unboxing 7 Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerate-with-these-key-windows-10-tricks/"><u>Accelerate with These Key Windows 10 Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-audio-clarity-a-step-by-step-guide-to-enhancing-sound-on-windows-10/"><u>Boosting Audio Clarity: A Step-by-Step Guide to Enhancing Sound on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-10-product-keys-for-optimal-pricing/"><u>Deciphering Windows 10 Product Keys for Optimal Pricing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>In 2024, The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/latest-laptop-innovations-at-ifa-2023/"><u>Latest Laptop Innovations at IFA 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/locating-saved-screen-images-on-windows/"><u>Locating Saved Screen Images on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-secure-boot-settings-for-enhanced-virtual-machine-security/"><u>Managing Secure Boot Settings for Enhanced Virtual Machine Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-path-to-pair-older-software-with-new-windows-11/"><u>Navigating the Path to Pair Older Software with New Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-ways-to-translate-tiktok-videos/"><u>New In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-system-security-through-cli-proficiency/"><u>Optimizing System Security Through CLI Proficiency</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/restoring-the-sounds-of-desolation-tackling-fallout-4s-no-sound-dilemma-on-pc-machines/"><u>Restoring the Sounds of Desolation: Tackling Fallout 4’S No-Sound Dilemma on PC Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repair-tips-for-a-broken-fingerprint-reader-on-lenovo-devices/"><u>Step-by-Step Repair Tips for a Broken Fingerprint Reader on Lenovo Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/techniques-for-transforming-facespace-lives-into-tv-content/"><u>Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-defender-deletion-blueprint-for-windows-1011-users/"><u>The Defender Deletion Blueprint for Windows 10/11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblock-powerpoint-saving-blocks-6-effective-tactics-for-win11/"><u>Unblock PowerPoint Saving Blocks: 6 Effective Tactics for WIN11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-qr-code-scanner-techniques/"><u>Unveiling Window's QR Code Scanner Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-411-on-navigating-youtube-shorts/"><u>[New] 2024 Approved The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-what-makes-a-youtube-short-go-viral/"><u>[Updated] What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-youtube-channel-names-for-vloggers-100-new/"><u>50+ Youtube Channel Names for Vloggers [100% New]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/empowering-video-content-with-advanced-aiseesoft-tech-for-2024/"><u>Empowering Video Content with Advanced Aiseesoft Tech for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-awesome-valorant-thumbnails-for-youtube-content/"><u>In 2024, Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-reducing-overheat-of-cloud-storage-on-windows-pcs/"><u>Techniques for Reducing Overheat of Cloud Storage on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-enablingdisabling-windows-key-filters/"><u>Tips for Enabling/Disabling Windows' Key Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-31-on-windows-a-step-by-point-approach/"><u>Unraveling Error Code 31 on Windows: A Step-By Point Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-techniques-intelligent-recording-of-games-with-intel/"><u>Winning Techniques: Intelligent Recording of Games with Intel</u></a></li>
 </ul></div>
 

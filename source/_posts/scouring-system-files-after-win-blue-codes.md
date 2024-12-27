@@ -1,7 +1,7 @@
 ---
 title: Scouring System Files After Win-Blue Codes
-date: 2024-12-21T02:56:20.466Z
-updated: 2024-12-22T00:01:33.714Z
+date: 2024-12-24T22:32:36.168Z
+updated: 2024-12-27T22:38:30.599Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where Are the BSOD Log Files Located in Windows?
 
  You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
@@ -44,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 1. Right-click on the Windows icon in the taskbar and choose **Event Viewer** from the context menu.  
 ![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
 3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
@@ -52,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click **OK** to proceed.
 2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
 ![Create a filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/name-event-viewer.jpg)
@@ -59,18 +64,10 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
 4. Next, locate the BSOD using details like the date and time again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Once you find the targeted log, click on it.
 6. Check both the General and Details tabs to get information about this error.
 
  Once you find the error code associated with the crash and the cause, you can look for solutions online, or head over to our guide that discusses [how to fix blue screen errors in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) if it's a bsod.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Find and Read the BSOD Log Files in the Registry Editor
 
@@ -93,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
 9. Once done, restart your PC.
 
- Upon reboot, you should be able to view the log files without any problems.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Upon reboot, you should be able to view the log files without any problems.
 
 ### 3\. Find and Read the BSOD Log Files in the Control Panel
 
@@ -113,21 +110,26 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 3. Click on **Maintenance** and then select **View reliability history**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
 
  It is also a good idea to copy this information and send it to Microsoft for review if you cannot find a solution online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Learn How to Read Your BSOD Log Files and Resolve Your Crashes
 
@@ -137,29 +139,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
  In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-5-best-snipping-tool-for-chromebook/"><u>[New] In 2024, 5 Best Snipping Tool For Chromebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-zoom-video-details-step-by-step-methods/"><u>[New] Maximizing Zoom Video Details Step-by-Step Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pinnacle-tools-for-audio-infused-photography/"><u>[Updated] 2024 Approved Pinnacle Tools for Audio Infused Photography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-understanding-and-utilizing-adobes-storage-plus-insights-into-alternate-vaulting-services/"><u>[Updated] 2024 Approved Understanding and Utilizing Adobe's Storage, Plus Insights Into Alternate Vaulting Services</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>2024 Approved Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sony-s6500-blu-ray-reader-an-updated-analysis/"><u>2024 Approved Sony S6500 Blu-Ray Reader An Updated Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converting-wav-in-webm-files-for-free-with-a-professional-online-tool-and-step-by-step-guide/"><u>Converting Wav in Webm Files for Free with a Professional Online Tool & Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolving-application-run-time-problems-on-windows/"><u>Guide to Resolving Application Run-Time Problems on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-marvel-thrive-with-win11-tiny/"><u>Minimalist Marvel: Thrive with Win11 Tiny</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinforce-win11-notepad-with-expert-partner/"><u>Reinforce Win11 Notepad with Expert Partner</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-display-of-startups-in-task-manager/"><u>Securing Display of Startups in Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snipstream-disrupted-rekindle-its-seamless-flow-now/"><u>SnipStream Disrupted? Rekindle Its Seamless Flow Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-opengl-driver-failure-in-windows-11/"><u>Steps to Rectify OpenGL Driver Failure in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-speedy-cursors-deactivate-accel-on-windows-11/"><u>Stop Speedy Cursors: Deactivate Accel on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-cleaning-up-wifi-networks-in-win-11/"><u>Techniques for Cleaning Up Wifi Networks in Win 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-samsung-galaxy-s23plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Samsung Galaxy S23+.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computing-tech-with-toms-hardware-expertise/"><u>Unraveling the World of Computing Tech with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-causes-a-warning-red-x-on-files/"><u>What Causes a Warning Red X on Files?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +146,21 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-activities-for-the-modern-podcaster/"><u>2024 Approved Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-easier-iphone-how-apples-latest-phone-outshines-its-ancestors-in-maintenance/"><u>Discover the Easier iPhone 지절리 수리: How Apple's Latest Phone Outshines Its Ancestors in Maintenance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges.</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guia-sencilla-para-rescatar-tu-correspondencia-de-outlook-365-con-una-resena-de-backup/"><u>Guía Sencilla Para Rescatar Tu Correspondencia De Outlook 365 Con Una Reseña De Backup</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco X6 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-invalid-windows-update-files-errors/"><u>Mitigating Invalid Windows Update Files Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-spatial-audio-thx-failures/"><u>Solving Windows Spatial Audio THX Failures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-failures-overcoming-0x80072af9/"><u>Tackling Windows Failures: Overcoming 0X80072AF9</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-the-reins-controlling-windows-control-center/"><u>Taking the Reins: Controlling Windows Control Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-essential-software-for-windowsandroid-users/"><u>Top 8 Essential Software for Windows/Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-error-0xfffffddd-print-fixes/"><u>Unraveling the Mystery of Error 0xFFFFFDDD: Print Fixes</u></a></li>
+</ul></div>
+

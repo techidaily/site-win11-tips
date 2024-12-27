@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2024-12-17T21:17:05.184Z
-updated: 2024-12-22T09:45:47.815Z
+date: 2024-12-22T20:52:52.637Z
+updated: 2024-12-27T22:56:49.109Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
  One of the easiest methods of finding the install location of a program is through the**Start** menu. Here’s what you need to do:
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 2. Right-click on the program icon, and click on**Open file location** .
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
@@ -51,11 +51,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -67,8 +63,17 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -84,11 +89,7 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -112,16 +113,20 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-master-the-art-of-recording-lol-discover-3-essential-tips-for-2024/"><u>[New] Master the Art of Recording LOL - Discover 3 Essential Tips for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-telegram-web-setup-for-novices-for-2024/"><u>[Updated] Step-by-Step Telegram Web Setup for Novices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-reviewing-sj7s-4k-action-cam-capturing-life-to-perfection/"><u>2024 Approved Reviewing SJ7’s 4K Action Cam - Capturing Life to Perfection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/dissecting-the-dynamics-of-aurora-high-quality-outputs-for-2024/"><u>Dissecting the Dynamics of Aurora High-Quality Outputs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-frozen-task-manager-in-windows-operations/"><u>Fixing Frozen Task Manager in Windows Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-method-forcefully-erase-windows-11-printers/"><u>Instant Method: Forcefully Erase Windows 11 Printers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/maximizing-impact-with-strategic-fb-giveaway-announcements/"><u>Maximizing Impact with Strategic FB Giveaway Announcements</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/secure-re-entry-resuming-fb-usage-post-hack/"><u>Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simply-streamlined-steps-for-new-windows-11-dossiers/"><u>Simply Streamlined Steps for New Windows 11 Dossiers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-shadows-rejecting-impostor-software-from-windows-store/"><u>Unveiling Shadows: Rejecting Impostor Software From Windows Store</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/virtual-reality-breakthrough-apps-for-smartphones-for-2024/"><u>Virtual Reality Breakthrough Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-visuals-and-audio-top-5-video-creators-guide/"><u>[New] Mastering Visuals and Audio Top 5 Video Creators' Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>[New] Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-soundless-video/"><u>[Updated] 2024 Approved Advanced Strategies for Soundless Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-chrome-setup-in-windows-11/"><u>Comprehensive Guide to Chrome Setup in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-g34-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto G34 5G Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-zte-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on ZTE Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-launching-techniques-for-modern-applications-in-windows/"><u>Innovative Launching Techniques for Modern Applications in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-ps-to-find-ip-and-mac-on-windows-devices/"><u>Leveraging PS to Find IP and MAC on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-zip-in-windows-11-with-these-tips/"><u>Master ZIP in Windows 11 With These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-token-reference-error-in-modern-oses/"><u>Overcoming the Token Reference Error in Modern OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stick-to-your-pc-screen-8-innovative-non-writing-tools/"><u>Stick to Your PC Screen: 8 Innovative, Non-Writing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-graphics-issues-a-windows-10-and-11-fix-it/"><u>Troubleshooting Graphics Issues: A Windows 10 & 11 Fix-It</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-virtual-vigilance-securing-your-cyber-space-while-connecting-online/"><u>Updated In 2024, Virtual Vigilance Securing Your Cyber Space While Connecting Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Windows 11 Defense: Adding Customizable Filter Options to Context Menu"
-date: 2024-08-16T02:38:01.490Z
-updated: 2024-08-17T02:38:01.490Z
+date: 2024-12-21T18:14:56.127Z
+updated: 2024-12-27T18:40:25.865Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
  It would be better if users could select a context menu option for blocking programs’ connectivity. Such a shortcut would enable us to set up outbound firewall rules more quickly. You can add firewall context menu options for both blocking and restoring apps’ internet access with OneClickFirewall and (Right Click) Allow, Block or Remove.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Firewall Block Options With OneClickFirewall
 
  OneClickFirewall is a freely available software that adds a couple of firewall context menu options. One is a**Block Internet Access** option that establishes a rule blocking the right-clicked program. The other option removes the rule when selected. This is how you can add those firewall block options to the context menu with OneClickFirewall.
@@ -33,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -41,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
  Right-click a program’s EXE file you’ve set up an outbound rule for and select**Show more options** \>**Restore Internet Access** . Then the previously blocked software will be allowed through the firewall again.
@@ -48,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
  If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Firewall Block Options With the Right Click App
 
  The Right Click app (full name (Right Click) Allow, Block or Remove - Windows Firewall) is an alternative to OneClickFirewall that adds similar context menu options for blocking and allowing programs through the firewall. However, this software also adds an option for removing software from the firewall. You can add firewall block options to the context menu with Right Click like this:
@@ -61,25 +75,20 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 5. Open the extracted directory for Right Click.
 6. Double-click**Right\_Click\_Options.exe** to bring up a**Right Click Menu Options** window.  
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
 
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apply Firewall Blocks to Software via the Context Menu
 
  The convenience of a context menu firewall option for blocking apps’ internet connectivity cannot be understated. That option will save you from going through all the manual steps required to create rules that apply firewall blocks to software packages.
@@ -92,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +108,21 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-blueprint-for-youtube-income-generation/"><u>[New] 2024 Approved The Blueprint for YouTube Income Generation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-selecting-your-perfect-monitor-and-recorder-duo/"><u>[Updated] In 2024, Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-interpreting-the-significance-of-a-blue-image-on-fb-chat/"><u>[Updated] Interpreting the Significance of a Blue Image on FB Chat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chortlecove-app-where-laughter-thrives-online-for-2024/"><u>ChortleCove App - Where Laughter Thrives Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-win-11-mobility-center-effortlessly/"><u>Disable Win 11 Mobility Center Effortlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevating-speech-synthesis-converting-ssaxml-to-professional-srts-for-2024/"><u>Elevating Speech Synthesis Converting SSA/XML to Professional SRTs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-m4v-to-m4a-audio-files-using-movavi-tool/"><u>Free Online Converter: Convert M4V to M4A Audio Files Using Movavi Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elite-lineup-of-vr-bicycle-experiences/"><u>In 2024, Elite Lineup of VR Bicycle Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-critical-application-hiccups-on-pc/"><u>Mitigating Critical Application Hiccups on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-directx-download-update-seamlessly/"><u>Navigating DirectX: Download, Update Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-spec-limits-on-windows-game-capturing/"><u>Overcoming Spec Limits on Windows Game Capturing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resizing-photos-made-simple-the-top-6-tricks-for-windows-11-users/"><u>Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-scheduling-merging-to-do-with-ifttt-services/"><u>Smart Scheduling: Merging To-Do with IFTTT Services</u></a></li>
+</ul></div>
 

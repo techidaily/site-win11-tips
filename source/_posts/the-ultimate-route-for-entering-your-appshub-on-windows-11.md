@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Route for Entering Your AppsHub on Windows 11
-date: 2024-08-16T02:37:40.217Z
-updated: 2024-08-17T02:37:40.217Z
+date: 2024-12-23T23:01:56.234Z
+updated: 2024-12-27T17:58:41.456Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
 
 ## 2\. How to Open AppsFolder Using File Explorer
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
  The AppsFolder window shows all the programs and apps installed on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. How to Open AppsFolder Using Command Prompt
 
  If you're comfortable with Command Prompt, you can use it to open the AppsFolder. Here's how:
@@ -61,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Type **Command Prompt** and click on the result to open it.
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
@@ -80,25 +89,16 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 1. Right-click on your Desktop and select **New > Shortcut**. This opens the Create Shortcut window.
 2. Type **Explorer Shell:AppsFolder** in the Location box and click **Next**.  
 ![Open AppsFolder Using Desktop Shortcut-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-desktop-shortcut-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Name your shortcut like “Apps Folder” or whatever you want to call it, and click **Finish**.  
-![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
 
  You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open AppsFolder Using a Shortcut Key
 
  To quickly open the AppsFolder, you can use a keyboard shortcut. This method is preferred for those who use shortcuts frequently. Here's how to do it:
@@ -107,22 +107,18 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Right-click on the Shortcut icon and select **Properties**.
 3. Click in the **Shortcut key** field and type a single character key like F, T, or whatever you want.  
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting to the AppsFolder Quickly on Windows
 
  Hopefully, now it's clear how to open the AppsFolder in Windows. It's pretty easy; you only need a few clicks or keyboard shortcuts to access it. So, if you ever need to manage the installed applications on your computer or make changes, open the AppsFolder and get started.
 
  But how do you access and manage the AppsFolder on Windows? Read this guide to find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +126,19 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-5-gaming-earbuds-for-video-creators/"><u>[New] 2024 Approved Essential 5 Gaming Earbuds for Video Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-inverting-media-flow-apple-device-technique/"><u>[Updated] 2024 Approved Inverting Media Flow Apple Device Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 12 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-numeric-keys-status-into-win11s-systray/"><u>Integrating Numeric Keys Status Into Win11's SysTray</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/itop-reviewed-leading-pc-screen-recorders-face-off-for-2024/"><u>ITop Reviewed Leading PC Screen Recorders Face Off for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tools-proficiently-using-powershell-for-archive-operations/"><u>Pro Tools: Proficiently Using PowerShell for Archive Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-changing-windows-11-preferences/"><u>Streamlining System Operations: Changing Windows 11 Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-windows-subsystem-after-upgrade/"><u>Troubleshooting Tips for Windows Subsystem After Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-inner-gamers-with-the-ultimate-sound-system-on-sale-at-best-buy-as-reviewed/"><u>Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vod/"><u>VOD再生キャプチャ技術 - 専用ツールで最適化された動画配信サービスの記録方法</u></a></li>
+</ul></div>
+

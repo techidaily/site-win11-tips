@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failure of Auto-Detection of Windows Proxies
-date: 2024-12-15T20:14:14.541Z
-updated: 2024-12-22T02:51:41.023Z
+date: 2024-12-24T22:57:43.315Z
+updated: 2024-12-27T20:10:51.571Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reboot Your Computer and Router
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  Choose**Network Adapter** from the list and walk through the troubleshooter. As seasoned Windows users know, these troubleshooters don't always fix your problem, but it's still worth a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Auto-Obtain IP Address and DNS Info
 
  As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to[fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
@@ -87,15 +87,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
 
@@ -108,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -149,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
 ## 10\. Reset Your Network Settings
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
@@ -186,24 +186,24 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-grappling-giants-twitch-triumph-or-hitbox-heroics/"><u>[New] Grappling Giants Twitch Triumph or Hitbox Heroics?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-online-streaming-capture-a-comprehensive-guide/"><u>[Updated] In 2024, Online Streaming Capture A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-symphony-in-softness-playback-reduction-guide-for-2024/"><u>[Updated] Symphony in Softness Playback Reduction Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>2024 Approved The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-haute-definition-webm-vers-mp4-pour-windows-11-et-macos-methodes-and-conseils/"><u>Conversion Haute Définition WebM Vers MP4 Pour Windows 11 Et macOS - Méthodes & Conseils</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/devhome-unveiled-a-new-dawn-for-your-windows-11-experience/"><u>DevHome Unveiled: A New Dawn for Your Windows 11 Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exporting-your-gpt-powered-communication-logs/"><u>Exporting Your GPT-Powered Communication Logs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-excel-at-old-championship-manager-on-windows/"><u>How to Excel at Old Championship Manager on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-news-and-interests-high-memory-and-cpu-usage-on-windows-11-and-11/"><u>How to Fix News and Interests' High Memory and CPU Usage on Windows 11 and 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-disk-space-revamping-altwindirstat-techniques/"><u>Mastering Disk Space: Revamping AltWinDirStat Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-opengl-error-3-in-windows/"><u>Mastering the Resolution of OpenGL Error #3 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mouse-trail-enhancement-for-better-navigation-on-win11/"><u>Mouse Trail Enhancement for Better Navigation on Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-non-recognized-device-hurdles-in-win-78/"><u>Overcoming Non-Recognized Device Hurdles in Win 7/8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-powerful-execution-with-easy-terminal-admin-access/"><u>Prioritize Powerful Execution with Easy Terminal Admin Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pushing-boundaries-windows-11s-features-after-latest-update/"><u>Pushing Boundaries: Windows 11'S Features After Latest Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-files-to-win-os-standards-max-156/"><u>Tailoring Your Files to Win OS Standards (Max 156)</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-ranked-animation-set-for-typography-for-2024/"><u>Top-Ranked Animation Set for Typography for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-monetization-carryminati-ajey-nagar-youtube-income-2023-for-2024/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevate-your-social-media-game-post-tiktoks-on-twitter/"><u>[New] In 2024, Elevate Your Social Media Game Post TikToks on Twitter</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-financial-frontier-of-youtube-creators/"><u>[Updated] Navigating the Financial Frontier of YouTube Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-optimal-screen-recording/"><u>2024 Approved The Ultimate Guide to Optimal Screen Recording</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/comment-synchroniser-automatiquement-vos-fichiers-vers-un-nas-sous-windows/"><u>Comment Synchroniser Automatiquement Vos Fichiers Vers Un NAS Sous Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhomes-role-in-crafting-the-future-of-w11-interface/"><u>DevHome's Role in Crafting the Future of W11 Interface</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-for-windows-10-with-simple-steps/"><u>Download Sound Blaster Z Drivers for Windows 10 with Simple Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-huawei-nova-y91-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Huawei Nova Y91 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-foremost-10-recording-apps-for-social-media-vids/"><u>In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-11-pro-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 11 Pro for Free</u></a></li>
+<li><a href="https://driver-install.techidaily.com/key-steps-to-replace-mouse-software-on-windows-1011/"><u>Key Steps to Replace Mouse Software on WINDOWS 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-software-on-macos-platform/"><u>Leveraging Windows Software on macOS Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-silencing-explore-tab-clamor/"><u>Mastering Windows 11: Silencing Explore Tab Clamor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-insufficient-permissions-in-win-setup-procedures/"><u>Mitigating Insufficient Permissions in Win Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrayer-of-windows-registry-via-command-line/"><u>Navigating the Labyrayer of Windows Registry via Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-disk-space-with-windows-compression/"><u>Optimize Disk Space with Windows Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-enhanced-alerts-full-charge-on-winos/"><u>Strategies for Enhanced Alerts: Full Charge on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-handbook-for-windows-startup-tweaks/"><u>The Ultimate Handbook for Windows Startup Tweaks</u></a></li>
 </ul></div>
 

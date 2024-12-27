@@ -1,7 +1,7 @@
 ---
 title: "Unlocking WordPad: Windows Access Guide"
-date: 2024-12-16T02:21:38.373Z
-updated: 2024-12-22T04:56:21.188Z
+date: 2024-12-24T17:06:58.861Z
+updated: 2024-12-27T18:52:22.925Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ To open WordPad using the search tool, follow these steps:
 
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Open WordPad via File Explorer
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
@@ -52,7 +48,7 @@ To open WordPad using the search tool, follow these steps:
 The WordPad application will open on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open WordPad Using the Run Dialog
@@ -62,6 +58,10 @@ The WordPad application will open on your computer.
 1. Press**Win + R** on your keyboard to open the Run dialog.  
 ![Open WordPad Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Run-Command.jpg)
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The WordPad application will now launch.
 
@@ -77,10 +77,6 @@ The WordPad application will now launch.
 2. On the top bar, click**Run new task** in the "Processes" tab.  
 ![Open WordPad Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Task-Manager.jpg)
 3. When a pop-up window appears, type "wordpad" in its search box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Now click**OK** to launch the WordPad application.
 
@@ -112,7 +108,11 @@ To do this, follow these steps:
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open WordPad Via Start Menu
@@ -141,13 +141,13 @@ To open WordPad using the Start menu, follow these steps:
 4. If Windows asks for your confirmation, click**Yes** to create it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Pin WordPad to the Start menu or Taskbar
@@ -159,7 +159,7 @@ To open WordPad using the Start menu, follow these steps:
 ![Pin WordPad to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-WordPad-to-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
@@ -183,18 +183,24 @@ To open WordPad using the Start menu, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-significant-top-5-flexible-video-recorders-list/"><u>[New] In 2024, Significant Top 5 Flexible Video Recorders List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-converters-top-8-list-seamless-sub-and-srt-format-switching-for-2024/"><u>[Updated] Converters' Top 8 List Seamless Sub and SRT Format Switching for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>2024 Approved Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-jest-jar-your-best-free-meme-source/"><u>2024 Approved Jest Jar Your Best Free Meme Source</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-invisible-display-problems/"><u>Clearing Up Invisible Display Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directx-a-comprehensive-update-and-download-handbook-for-pcs/"><u>DirectX: A Comprehensive Update and Download Handbook for PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-windows-automation-tackling-scheduler-snags/"><u>Enhance Windows Automation: Tackling Scheduler Snags</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-f5-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on F5 5G</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-stability-prevent-guardians-of-the-galaxy-from-collapsing-on-your-pc-with-our-tricks/"><u>Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-cellphone-assessment-an-ideal-beginners-device/"><u>Nokia 3.1 Cellphone Assessment: An Ideal Beginner's Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-colors-in-the-windows-store-ui/"><u>Restoring Colors in the Windows Store UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-overcoming-winerror-0xc004f050/"><u>Steps for Overcoming WinError 0XC004F050</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/the-ultimate-guide-to-free-mov-file-editors-maximizing-your-editing-potential/"><u>The Ultimate Guide to FREE MOV File Editors : Maximizing Your Editing Potential</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-pioneering-platform-presence-innovative-square-video-methods/"><u>[New] In 2024, Pioneering Platform Presence Innovative Square Video Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-preserving-your-nintendo-switch-experiences-a-guide/"><u>[New] Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>[Updated] In 2024, Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-essentials-for-dominating-instagram-stories/"><u>[Updated] In 2024, The Essentials for Dominating Instagram Stories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-powerful-cpus-for-a-supreme-gaming-experience/"><u>Discover the Most Powerful CPUs for a Supreme Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-free-slide-show-techniques-for-windows-11s-immediate-use/"><u>Explore Free Slide Show Techniques for Windows 11'S Immediate Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-and-resolve-cc-errors-in-the-latest-os/"><u>How to Bypass & Resolve CC Errors in the Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-regain-connection-with-malwarebytes-service-windows/"><u>How to Regain Connection with Malwarebytes' Service (Windows)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50s-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50S Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>In 2024, The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-showdown-iphone-1er-vs-iphone-14-pro-max-deciding-on-your-best-bet-expert-review-zdnet-reviews/"><u>IPhone Showdown: IPhone 1Er vs iPhone 14 Pro Max – Deciding on Your Best Bet [Expert Review] | ZDNET Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-asking-too-many-hands-in-windows/"><u>Navigating Through Asking Too Many Hands in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-guide-resolving-the-non-responsive-search-feature-in-windows-11/"><u>Quick Fix Guide: Resolving the Non-Responsive Search Feature in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/replicate-your-pcs-essential-data-directly/"><u>Replicate Your PC's Essential Data Directly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-merit-of-minimalist-design-in-windows-11s-widgets/"><u>The Merit of Minimalist Design in Windows 11'S Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automating-audio-to-writing-on-windows/"><u>The Ultimate Guide to Automating Audio to Writing on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-from-quick-access-use-onedrive-for-file-explorer-opening/"><u>Transition From Quick Access: Use OneDrive for File Explorer Opening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-installation-in-discord-for-windows-11/"><u>Troubleshooting 'Failed Installation' In Discord for Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition-for-2024/"><u>Unseen Wealth The Underground Auction of Elusive Artifacts, 2023 Edition for 2024</u></a></li>
 </ul></div>
 

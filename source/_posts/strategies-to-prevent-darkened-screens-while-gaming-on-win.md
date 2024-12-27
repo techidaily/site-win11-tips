@@ -1,7 +1,7 @@
 ---
 title: Strategies to Prevent Darkened Screens While Gaming on WIN
-date: 2024-08-16T02:42:33.654Z
-updated: 2024-08-17T02:42:33.654Z
+date: 2024-12-25T16:19:17.681Z
+updated: 2024-12-27T22:21:20.485Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  If none of the above fixes help resolve the problem on a PC, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform Preliminary Checks
 
  Start the troubleshooting process by applying the fixes listed below:
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check for Game-Specific Issues
 
  Does the black screen issue only occur when playing a particular game, and other games seem to work just fine? If so, ensure the game files aren't corrupted and the in-game settings are configured correctly. Repair the game files, update the game, lower the in-game resolution, and change other graphics settings to rule out game-specific issues.
@@ -54,13 +59,14 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Does the screen turning black issue only occur when playing resource-intensive games? If that's the case, one of your device's hardware components, especially the CPU or GPU, could be under high strain. To test this hypothesis, minimize the game right after launch, open Task Manager, and monitor CPU, GPU, and RAM resource consumption.
 
 ![Sort Processes by the CPU Resource Consumption in CPU Column of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-sort-processes-by-the-cpu-resource-consumption-in-cpu-column-of-windows-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the components' resource usage remains within normal limits, they are not under extreme stress. However, if you see the screen go black right when one of the components's usage spikes to 100 percent, the increase in stress is likely the cause.
 
  For such a situation, refer to our guides on [how to fix high CPU](https://www.makeuseof.com/tag/fix-high-cpu-usage-windows/), [GPU](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/), and [RAM resource usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) and apply the relevant solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Monitor the Temperature of the System Components
 
@@ -69,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Download any [temperature monitoring app](https://www.makeuseof.com/tag/3-laptop-computer-temperature-monitor-apps-save-hard-drive/) and monitor the components' temperature while playing the game. There is nothing to worry about if the component's temperature stays below 60 degrees Celsius during gameplay. However, if this number is higher than 70 or 80 and the screen goes black when the temperature goes up, high heat output could be the cause.
 
  If overheating is the cause of the problem, follow the tips in our guide on [fixing an overheated Windows 11 computer](https://www.makeuseof.com/overheating-windows-11-computer/). If temperatures are within a normal range, proceed to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off the App Readiness Service
 
@@ -81,17 +91,11 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 3. From the dropdown menu next to **Startup type**, select **Disabled**.
 4. Hit **OK** after clicking **Apply**.  
 ![Disable App Readiness Service in the Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-disable-app-readiness-service-in-the-windows-services-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  If the issue ceases to occur after the service is disabled, it could be the culprit. While keeping the service disabled is one way to avoid facing this issue again, disabling the service permanently can have unforeseen consequences.
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off the Link State Power Management Setting
 
  Link State Power Management enables users to save power and prolong battery life. In some cases, enabling this setting can limit your device's power consumption, causing your screen to go black when you least expect it. To make sure that power saving is not the problem, follow the below steps:
@@ -99,15 +103,13 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 1. Type **"Edit power plan"** in Windows Search to open the power plan settings.
 2. Click on **Change advanced power settings**.  
 ![Go to Change Advanced Power Settings in Windows Power Plan Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-go-to-change-advanced-power-settings-in-windows-power-plan-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Expand the **PCI Express** and L**ink State Power Manageme**nt categories.
 4. Select **Off** from the dropdown menus next to **On battery** and **Plugged in**.
 5. Then, click **Apply** and hit **OK**.  
 ![Turn Off the On Battery and Plugged In Modes in Link State Power Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-turn-off-the-on-battery-and-plugged-in-modes-in-link-state-power-management-settings.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Let a Black Screen Ruin Your Winning Streak
@@ -118,11 +120,26 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-17-best-apps-to-remove-image-background/"><u>[New] 17 Best Apps to Remove Image Background</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-accelerate-your-gaming-experience-with-top-extensions-for-2024/"><u>[New] Accelerate Your Gaming Experience with Top Extensions for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-best-practices-for-transmitting-media-in-discord-for-2024/"><u>[New] Unveiling the Best Practices for Transmitting Media in Discord for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-error-notice-at-idedevice/"><u>Controller Error Notice at Idedevice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X100 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-release-nvidia-geforce-rtx-2070-graphics-drivers-compatible-with-windows-1087/"><u>New Release: NVIDIA GeForce RTX 2070 Graphics Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-error-0x0000004e-in-win11/"><u>Overcoming the Challenge of Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/panel-perusal-are-windows-11-interactive-features-essential/"><u>Panel Perusal: Are Windows 11 Interactive Features Essential?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-gesture-recognition-in-microsofts-os/"><u>Realigning Gesture Recognition in Microsoft's OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-webcam-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your Webcam Drivers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-windows-11-taskbar-functionality/"><u>Steps to Recover Windows 11 Taskbar Functionality</u></a></li>
+</ul></div>
+

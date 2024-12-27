@@ -1,7 +1,7 @@
 ---
 title: Navigating to Public IP on Win 10/11 via CLI
-date: 2024-12-14T23:17:35.696Z
-updated: 2024-12-21T16:35:50.621Z
+date: 2024-12-23T20:38:04.260Z
+updated: 2024-12-27T21:36:40.024Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Your Private IP Address on Windows
 
 ![command prompt ipconfig private ip address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-ipconfig-private-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows offers multiple ways to view your network information, including the IP address. For instance, you can easily [check your IP address from the Settings app](https://www.makeuseof.com/tag/find-ip-address-windows-10/). You can also use the Network and Sharing Center in Control Panel or dig a little bit in the Task Manager’s Performance tab to access your system’s network details.
 
@@ -49,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  If you need to share the output for troubleshooting purposes, you can export the output to a text file. In Command Prompt, run **ipconfig > NetworkInfo.txt** to save the output to a **NetworkInfo.text** file. By default, it is saved to the **C:\\Users\\Username** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get Your Public IP Address on Windows
 
 ![Command Prompt running Curl command showing Public IP Address on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-public-ip-address-curl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unlike the private IP address, the **ipconfig** command cannot retrieve the public IP address of your ISP. Instead, you’ll need to [use the curl command-line utility to make HTTP requests](https://www.makeuseof.com/curl-how-make-http-requests/) using a third-party service, like ifconfig.me, to obtain IP address mapping information.
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  If you check your public IPv6 address again after a few hours or days—depending on the router's configuration—you may notice a different IPv6 address. Due to privacy concerns, your router dynamically assigns and changes the IPv6 address for all connected devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Online Tools to Get Your Public IP Address
 
 ![whatismyip online public ip address tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatismyip-online-public-ip-address-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you prefer a more intuitive experience, you can use online web services that can provide information on your network configuration. These services can also detect the ISP location and other information, including the user agent.
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 * **Use a search engine**: If you don’t want to remember another website to do basic stuff, try your search engine. Type “What’s my IP” in Google or Bing search to get your public IPv4/IPv6 address quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Many Ways to Check Your Public IP Address on Windows
@@ -103,23 +103,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  While checking your private IP address is easy, knowing your public IP address can be necessary for many tasks, including remote access, server hosting, network troubleshooting, and geolocation services. Here we show you a few ways to retrieve your public IPv4/IPv6 information on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-loom-reel-detailed-guide-to-screen-capture/"><u>[New] 2024 Approved The Loom Reel Detailed Guide to Screen Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-apple-writes-a-new-chapter-m1-pro-vs-m1-max-analysis/"><u>[New] Apple' Writes a New Chapter M1 Pro Vs. M1 Max Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sculpting-soundscapes-the-fading-trick/"><u>[New] Sculpting Soundscapes The Fading Trick</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-digital-detective-finding-and-watching-yt-archives/"><u>[Updated] In 2024, Digital Detective Finding and Watching YT Archives</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-file-management-best-practices-for-saving-and-organizing/"><u>New Final Cut Pro File Management Best Practices for Saving and Organizing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-protocols-setting-up-intel-network-adapters-in-windows-10/"><u>Precision Protocols: Setting Up Intel Network Adapters in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prospects-in-file-transfer-top-5-apps-on-windows/"><u>Prospects in File Transfer: Top 5 Apps on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-winget-step-by-step-for-w11-users/"><u>Reviving Winget: Step-by-Step for W11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-eradicating-windows-unresponsive-task-error/"><u>Strategies for Eradicating Windows 'Unresponsive Task Error'</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamline-your-gameplay-win10-screen-record-tech-for-2024/"><u>Streamline Your Gameplay Win10 Screen Record Tech for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-a-world-of-style-for-windows-users-in-outlook-calendars/"><u>Unlock a World of Style for Windows Users in Outlook Calendars</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-v30-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme V30? Here is How | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -127,3 +110,23 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[New] Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleashing-the-power-of-obs-macos-install-and-usage-tips/"><u>[New] In 2024, Unleashing the Power of OBS MacOS Install & Usage Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovation-hub-for-youtube-gurus/"><u>[Updated] 2024 Approved Innovation Hub for YouTube Gurus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[Updated] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-must-have-essentials-for-a-starry-drive-with-your-sj4000-for-2024/"><u>[Updated] Must-Have Essentials for a Starry Drive with Your SJ4000 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-windows-11-updates-examined/"><u>[Updated] Windows 11 Updates Examined</u></a></li>
+<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-new-interfaces-in-windows-11-post-update-edition/"><u>Discovering New Interfaces in Windows 11 Post-Update Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-structure-and-significance-of-windows-batch-files/"><u>Dissecting the Structure & Significance of Windows Batch Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-into-server-management-using-iis-manager/"><u>Dive Deep Into Server Management Using IIS Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-accessing-and-using-winnettoolbox/"><u>Essential Tips: Accessing and Using WinNetToolbox</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/et-guides-leading-food-vloggers-online-for-2024/"><u>Gourmet Guides Leading Food Vloggers Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-syncing-wsl-with-windows-11/"><u>Mastering the Art of Syncing WSL With Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-seven-water-resilient-camera-brands/"><u>Pioneering Seven Water-Resilient Camera Brands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win-password-update/"><u>Step-by-Step Guide to Win Password Update</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Enable Active Microphone Input for Live Recording, OBS & Windows 11
-date: 2024-12-17T18:37:01.042Z
-updated: 2024-12-22T08:54:04.233Z
+date: 2024-12-23T18:55:11.217Z
+updated: 2024-12-27T17:42:18.794Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Unmute OBS Studio in the Settings App
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
@@ -57,17 +53,18 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 4. Under the**Apps section,** unmute OBS Studio if muted and adjust the slider accordingly.  
 ![Unmute OBS Studio in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unmute-obs-studio.jpg)
 5. Also, click the drop-down icon next to OBS Studio, then choose the correct input device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart OBS Studio and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use the Correct Recording Device
 
@@ -79,10 +76,6 @@ Restart OBS Studio and check if the problem persists.
 4. Right-click on the correct recording device and choose the**Set as Default Device** option from the context menu.  
 ![Set as default option in Sound properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-as-default-option.jpg)
 5. Click**Apply** and then**OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
 
@@ -96,10 +89,6 @@ Restart OBS Studio and check if the problem persists.
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
 
@@ -116,7 +105,11 @@ Restart OBS Studio and check if the problem persists.
 6. Choose**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 . Adjust the Audio Mixer Settings
@@ -127,16 +120,27 @@ Restart OBS Studio and check if the problem persists.
 2. Under the**Audio Mixer** section, adjust the**Mic/Aux** slider to**\-2.1dB.**  
 ![Adjusting dB in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-db.jpg)
 3. Click the three dots next to Mic/Aux and choose**Properties.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the drop-down icon next to**Device,** select your default recording device and click**OK.**  
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
-![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
-6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
-![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
+6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -152,13 +156,13 @@ You can do that by following the below steps:
 
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall OBS Studio
 
  Are you still facing the issue? If yes, then there's something wrong with the OBS Studio installation file that's causing the problem. The only solution, in this case, is to reinstall the OBS Studio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Recording Again on OBS Studio for Windows
 
@@ -181,24 +185,18 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-cards-for-ultra-hd-content-creation-for-2024/"><u>[New] Ideal Cards for Ultra-HD Content Creation for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-guide-to-livecasting-google-meet-on-youtube/"><u>[Updated] 2024 Approved Guide to Livecasting Google Meet on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-utilize-obs-studio-android-solutions-effective-ways-for-2024/"><u>[Updated] How to Utilize OBS Studio Android Solutions [Effective Ways] for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mirthful-modifications-ranked-smartphone-and-pc-photo-apps/"><u>[Updated] In 2024, Mirthful Modifications Ranked Smartphone & PC Photo Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-optimize-playback-settings-in-snapchat-applications/"><u>2024 Approved How To Optimize Playback Settings in Snapchat Applications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-uncomplicated-methods-for-archiving-vimeo-content/"><u>2024 Approved Uncomplicated Methods for Archiving Vimeo Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-high-speed-hd-video-players-of-the-year-top-picks-for-windows-11-and-mac-systems/"><u>Best High-Speed HD Video Players of the Year: Top Picks for Windows 11 and Mac Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-windows-hello-fingerprint-sign-in-process/"><u>Configuring Windows Hello Fingerprint Sign-In Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevated-privileges-starting-your-powershell-session-right/"><u>Elevated Privileges: Starting Your PowerShell Session Right</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-text-customization-using-win-11s-snip-tool/"><u>In-Depth Text Customization Using Win 11'S Snip Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-it-possible-to-move-your-windows-os-upgrade-from-an-aging-laptop-or-desktop-to-a-newer-device/"><u>Is It Possible to Move Your Windows OS Upgrade From an Aging Laptop or Desktop to a Newer Device?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masked-management-eliminate-start-menus-power-icon/"><u>Masked Management: Eliminate Start Menu's Power Icon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-your-microsoft-store-credentials/"><u>Regain Your Microsoft Store Credentials</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-windows-update-failure-at-error-0xca00a009/"><u>Remedy for Windows Update Failure at Error 0xCA00A009</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-android-apk-installation-on-windows-11/"><u>Streamlining Android APK Installation on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-windows-resolution-problems/"><u>The Ultimate Guide to Rectifying Windows Resolution Problems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-wireless-sound-experience-sonys-review/"><u>Ultimate Wireless Sound Experience - Sony's Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-key-disparities-between-in-store-and-distant-windows-installs/"><u>Understanding Key Disparities Between In-Store & Distant Windows Installs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-credentials-made-simple-the-ultimate-list-of-11-access-methods/"><u>Win11 Credentials Made Simple: The Ultimate List of 11 Access Methods</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comprendre-la-recuperation-des-donnees-laissez-vous-tomber-le-formatage-dune-carte-sd-detruit-il-vos-informations/"><u>Comprendre La Récupération Des Données: Laissez-Vous Tomber Le Formatage D'une Carte SD, Détruit-Il Vos Informations ?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlight-summaries/"><u>Developing Dynamic Instagram Highlight Summaries</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/discovering-new-ways-innovative-software-replacing-camtasia-for-screen-capture-and-recording/"><u>Discovering New Ways: Innovative Software Replacing Camtasia for Screen Capture & Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-downloading-and-installing-windows-11-arm-iso-version/"><u>Easy Steps for Downloading & Installing Windows 11 ARM ISO Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-a2-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Redmi A2 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-and-mouse-waking-windows-11-from-sleep/"><u>Keyboard & Mouse: Waking Windows 11 From Sleep</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ize-screen-tv-playback-for-youtube-clips/"><u>Maximize Screen TV Playback for YouTube Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-breakthrough-swift-smart-team-tools/"><u>Microsoft's Breakthrough: Swift, Smart Team Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-settle-into-mobile-with-one-click-apk-installations-on-w11/"><u>Swiftly Settle Into Mobile with One Click APK Installations on W11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-htc-u23-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track HTC U23 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-the-missing-ac1st16dll-error-message/"><u>Troubleshooting Steps for the Missing Ac1st16.dll Error Message</u></a></li>
 </ul></div>
 

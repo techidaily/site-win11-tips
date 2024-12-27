@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2024-12-15T21:25:03.768Z
-updated: 2024-12-21T16:22:28.370Z
+date: 2024-12-24T21:16:15.582Z
+updated: 2024-12-27T22:44:55.947Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before you try the detailed solutions, you might want to check out a couple of quick fixes first.
 
@@ -44,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
@@ -72,10 +64,6 @@ In this instance, here’s how you can resolve the problem:
 
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Configure the Night Light Settings
 
  In some cases, the issue might be caused by the way you've configured the night light settings.
@@ -90,10 +78,6 @@ To get rid of the problem, follow these steps:
 4. Turn off the**Night light** button on the right-hand side.
 
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, follow these steps if you want to tweak some additional night light settings:
 
@@ -115,6 +99,10 @@ Let’s first check out how you can update the display drivers:
 3. Right-click your PC’s display adapter and select**Update driver** .
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, select**Search automatically for updated driver software** and then follow the on-screen instructions.
 
@@ -145,6 +133,10 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
 1. Press**Win + R** to open the Run command dialog box.
@@ -155,7 +147,7 @@ Let’s first check out how you can update the display drivers:
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
@@ -174,7 +166,7 @@ Here are the steps you need to follow:
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
@@ -193,6 +185,14 @@ Here are the steps you need to follow:
 4. Click**Next** , click**Finish** , and then wait for the process to complete.
 
 ![Using a Restore Point on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Using-a-Restore-Point-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Say Goodbye to Strange Windows Desktop Colors
 
@@ -215,15 +215,16 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-favorite-frames-socials-1-8-vids/"><u>[Updated] 2024 Approved Favorite Frames Social's #1-#8 Vids</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-nighttime-novelties-with-vocalists-recommended-guide/"><u>[Updated] 2024 Approved Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-insight-dji-paper-bird-goggles-functionality/"><u>[Updated] In 2024, Insight DJI Paper Bird Goggles Functionality</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-initiate-your-journey-into-asmr-filming-essential-insights-revealed-for-2024/"><u>[Updated] Initiate Your Journey Into ASMR Filming – Essential Insights Revealed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dormant-mouse-annoyed-user-recover-wi-fi-mice-in-windows/"><u>Dormant Mouse, Annoyed User: Recover Wi-Fi Mice in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-muting-the-youtube-video-peek-mechanism/"><u>In 2024, Muting the YouTube Video Peek Mechanism</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-computer-operation-key-strategies-with-wintools-techniques/"><u>Master Computer Operation: Key Strategies with Wintools Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-digital-media-conversions-with-digiarty-your-trusted-software-for-dvd-and-video-editing-and-transferring/"><u>Seamless Digital Media Conversions with Digiarty - Your Trusted Software for DVD & Video Editing and Transferring</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-configuring-dns-on-modern-windows-11/"><u>The Ultimate Guide: Configuring DNS on Modern Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-strategies-overcoming-fall-guys-connection-errors/"><u>Win Strategies: Overcoming Fall Guys Connection Errors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-overcoming-obstacles-with-youtube-short-strategies/"><u>[New] Overcoming Obstacles with YouTube Short Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-swiftly-stow-facebook-broadcasts-for-smartphonedesktop-users/"><u>[New] Swiftly Stow Facebook Broadcasts for Smartphone/Desktop Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-hunt-for-premium-costless-lut-files-for-2024/"><u>[New] The Ultimate Hunt for Premium, Costless LUT Files for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unleash-your-potential-navigating-the-world-of-switch-pro-in-steam/"><u>[Updated] 2024 Approved Unleash Your Potential Navigating the World of Switch Pro in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-power-updates-with-win-10-and-11-tips/"><u>Elevate Your Power Updates with Win 10 & 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-non-responsive-esc-key-on-your-pc/"><u>How to Fix a Non-Responsive Esc Key on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-printer-admin-console-a-quick-guide/"><u>Navigating Windows Printer Admin Console: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-disk-errors-a-microsoft-method/"><u>Reverse Disk Errors: A Microsoft Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-switching-on-hyper-v-in-win11/"><u>Step-by-Step: Switching On Hyper-V in Win11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sizzling-sequel-an-in-depth-overcooked-2-culinary-critique/"><u>The Sizzling Sequel: An In-Depth Overcooked! 2 Culinary Critique</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-exporting-your-chatgpt-sessions-with-handy-apps/"><u>The Ultimate Guide to Exporting Your ChatGPT Sessions with Handy Apps</u></a></li>
 </ul></div>
 

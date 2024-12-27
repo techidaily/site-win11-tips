@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Gamepad on Windows
-date: 2024-12-17T17:08:51.796Z
-updated: 2024-12-21T22:51:49.836Z
+date: 2024-12-22T22:10:06.628Z
+updated: 2024-12-27T19:56:02.216Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if Windows Recognizes Your Controller
 
  The first thing you need to do is check if Windows recognizes your controller. For that, you will need to [open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/). Here's how to do that.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
  If your controller does not show up in the Game Controllers window or the status does not say **OK**, you may be experiencing a connection problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following that, your controller should appear in the Device Manager window and work as expected.
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 4. Tick the checkbox that reads **Apply repairs automatically** and click **Next**.  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -81,11 +85,11 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 3. Click the **Run** button next to **Bluetooth**.  
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After running the above troubleshooter, try using your controller again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Controller's Driver
 
@@ -97,21 +101,17 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 4. Select the **Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Your Controller’s Firmware
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
@@ -123,23 +123,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-gratis-design-elements-for-youtube-channel/"><u>[Updated] Gratis Design Elements for YouTube Channel</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-youtube-makeup-craft-color-correction-essentials/"><u>[Updated] In 2024, The YouTube Makeup Craft Color Correction Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-5-slow-mo-video-recording/"><u>[Updated] Innovative 5 Slow Mo Video Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-list-of-macs-best-screen-recorders-ranked/"><u>[Updated] The Ultimate List of Mac's Best Screen Recorders Ranked</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C:</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-innovation-discover-the-latest-in-apples-iphone-lineup/"><u>Experience Innovation - Discover the Latest in Apple's iPhone Lineup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-best-practices-for-combining-android-with-w11/"><u>Exploring the Best Practices for Combining Android with W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-ensure-seamless-steam-data-writing/"><u>How To Ensure Seamless Steam Data Writing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-k11x-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo K11x Phone When You Forget the Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-depth-analysis-and-critique-of-pitakas-magez-advanced-car-mount-for-phones-is-it-overcomplicated/"><u>In-Depth Analysis & Critique of Pitaka's MagEZ Advanced Car Mount for Phones - Is It Overcomplicated?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-troubled-network-discoverability-in-windows/"><u>Taming Troubled Network Discoverability in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-rationale-behind-wasd-configuration-in-windows/"><u>The Rationale Behind WASD Configuration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wi-fi-signal-loss-deciphering-ambiguous-actions-in-windows/"><u>Troubleshooting Wi-Fi Signal Loss: Deciphering Ambiguous Actions in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +130,27 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-flawless-screen-capture-s-assassins-creed-odyssey-for-2024/"><u>[New] Flawless Screen Capture 'S Assassin's Creed Odyssey for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effortlessly-record-audio-on-your-mac-using-audacity/"><u>[Updated] Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unbeatable-video-popularity-tracker-in-youtube-arena-for-2024/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992283854-anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 14 Plus How to Bypass?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dont-fall-into-these-traps-as-a-first-time-windows-11-user/"><u>Don't Fall Into These Traps as a First-Time Windows 11 User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-chromeedge-bar-hide-on-maxed-windows/"><u>Eliminating Chrome/Edge Bar Hide on Maxed Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-source-file-unreadable-error-on-windows/"><u>Eliminating Source File Unreadable Error on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211123388-9781958997444-growing-in-sonship/"><u>Growing in Sonship | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-nokia-c12-plus-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Nokia C12 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x50iplus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X50i+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-11-efficiency-with-shortcuts-and-nircmd/"><u>Master Your Windows 11 Efficiency with Shortcuts & NirCmd</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrents-unresponsive-behavior-in-windows/"><u>Overcoming uTorrent's Unresponsive Behavior in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-access-challenges/"><u>Overcoming Windows 11 Access Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-infinix-smart-7-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 7 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-a-pristine-windows-11-launch/"><u>The Ultimate Path to a Pristine Windows 11 Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-modifying-win11-smartscan-settings/"><u>Tips for Modifying Win11 SmartScan Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-pagefilesys-in-windows-os/"><u>Unveiling the Mystery of Pagefile.sys in Windows OS</u></a></li>
+</ul></div>
+

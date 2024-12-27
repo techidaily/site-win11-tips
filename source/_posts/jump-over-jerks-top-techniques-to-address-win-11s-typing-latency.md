@@ -1,7 +1,7 @@
 ---
 title: "Jump Over Jerks: Top Techniques to Address Win 11'S Typing Latency"
-date: 2024-08-16T02:40:53.150Z
-updated: 2024-08-17T02:40:53.150Z
+date: 2024-12-21T16:58:14.162Z
+updated: 2024-12-27T19:37:36.711Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Keyboard Properties
 
  Changing a few keyboard properties may help resolve the input lag. Here is all that you need to do:
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 ![changing keyboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-settings.jpg)
 3. Shorten the **Repeat delay** and increase the **Repeat rate** to eliminate the input lag. This may require some experimentation before you find the sweet spot, but there's a convenient test box built right into the Keyboard properties window to help you find the right balance.
 4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update or Reinstall the Keyboard Driver
 
@@ -43,10 +51,18 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 5. Otherwise, you can choose **Search for updated drivers on Windows Update** and install the updated version if available.  
 ![Searching for updated drivers using Windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/search-for-updated-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can download the latest available version of the driver manually from the manufacturer's website. Then, follow these steps:
 
 1. Repeat steps 1-3 from above and choose **Browse my computer for drivers**.
 2. Locate and select the updated version you just downloaded and install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Filter Keys
 
@@ -57,16 +73,14 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 3. Click on **Keyboard** and look for **Use Filter Keys**.
 4. Under this head, you will find a toggle button. If it's enabled, disable it and close the Settings app.  
 ![Turning off the Use Filter Keys button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turning-off-the-use-filter-keys-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're running Windows 11, you'll find the option to disable Filter Keys in **Settings > Accessibility > Keyboard > Filter Keys**.
 
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, try typing something into your text editor and see if it still lags.
 
@@ -84,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Use the DISM Command Line Tool
 
  DISM is an administrator-level command-line tool that you can use to repair your system's Windows image. This tool can help address your keyboard input lag when it's being caused by an error rooted deeper into your Windows image that the system file checker can't repair.
@@ -99,9 +110,6 @@ DISM /Online /Cleanup-Image /CheckHealth
 DISM /Online /Cleanup-Image /RestoreHealth`
 
 ![RestoreHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/dism-online-restore-health.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
@@ -109,23 +117,18 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Replace the Batteries
 
  Start by ruling out the possibility of the lag being caused by a drained battery. To do this, replace the battery or recharge your keyboard to full. If this doesn't fix the problem, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Check the Connection
 
  Start by trying to re-sync your keyboard with the USB receiver. If that doesn't help, insert the USB receiver into a different USB port on your computer if the current port lacks enough power. Try placing the keyboard closer to the USB receiver if possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Remove Interference From Wireless Devices
 
  If you've placed other Wi-Fi devices such as a router or a cell phone near the computer, move it away and see if that eliminates the input lag.
@@ -141,8 +144,9 @@ DISM /Online /Cleanup-Image /RestoreHealth`
  Alternatively, you can use one of the several [virtual keyboard apps](https://www.makeuseof.com/windows-best-virtual-keyboards/) available out there. If you don't like the idea of virtual keyboards, you can use speech-to-text software to type without having the user your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Back to Buttery-Smooth Typing on Windows
 
  Keyboard input lag can be a real annoyance. Hopefully, one of these solutions worked for you, and you're now back to blazing-fast typing as usual. If you want to type even faster, consider creating a custom keyboard layout.
@@ -151,11 +155,30 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exploring-the-leading-screen-recording-software-for-educators/"><u>[New] 2024 Approved Exploring the Leading Screen Recording Software for Educators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ractical-steps-for-disabling-youtube-channels-on-devices-for-2024/"><u>[New] Practical Steps for Disabling YouTube Channels on Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-affordable-pc-display-recorder-apps/"><u>[Updated] 2024 Approved Affordable PC Display Recorder Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[Updated] In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-fix-a-flapping-control-key-on-win11/"><u>Effective Strategies to Fix a Flapping Control Key on Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571526-9780595864294-everything-you-need-to-know-about-your-astrology-sign/"><u>Everything You Need to Know About Your Astrology Sign | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-150-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia 150 (2023) Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-oppo-k11-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Oppo K11 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-internet-havens-tune-downloads-directory/"><u>In 2024, Premium Internet Havens Tune Downloads Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-dark-mode-guide-for-calculator-application/"><u>Instant Dark Mode: Guide for Calculator Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-pc-top-methods-for-assessing-lan-router-pace/"><u>Maximize PC: Top Methods for Assessing LAN Router Pace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-sounds-and-banners-in-windows/"><u>Stop Chrome Sounds & Banners in Windows</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find X6 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-stop-autolock-functionality/"><u>Unlock Windows: Stop Autolock Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-group-policies-in-windows-11/"><u>Unveiling the Power of Group Policies in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-best-picks-for-webp-image-display/"><u>Windows' Best Picks for WebP Image Display</u></a></li>
+</ul></div>
+

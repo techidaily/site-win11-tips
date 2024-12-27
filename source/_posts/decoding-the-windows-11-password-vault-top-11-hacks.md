@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Windows 11 Password Vault: Top 11 Hacks"
-date: 2024-12-15T18:27:55.247Z
-updated: 2024-12-22T01:44:57.427Z
+date: 2024-12-21T22:49:26.462Z
+updated: 2024-12-27T19:37:41.587Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using Start Menu
 
  The Start menu is the most-visited section by Windows users. To access Credential Manager using the Start menu, repeat the following steps:
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 3. The Credential Manager utility will launch on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using Windows Search
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. Type Credential Manager and click on the first relevant search result to open the tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using the Run Command Box
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. Type**control /name Microsoft.CredentialManager** in the text input box and press the**Enter** key.  
 ![Open Credentials Manager Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-run-command-box.jpg)
 3. Credential Manager will open in a separate control panel window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Using the File Explorer
 
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 ![Open Credentials Manager Using the CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-cmd.jpg)
 4. Credentials Manager will launch on your system. Close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Using Control Panel
 
  Control Panel is the central hub for many system utilities and also contains Credential Manager. If you prefer the GUI method to open any Windows utility, you can use Control Panel. Repeat the following steps:
@@ -100,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 3. Lastly, click on the**Credential Manager** option to launch the tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Using a Desktop Shortcut
@@ -118,6 +114,11 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 3. In the Create Shortcut window, paste the following text in the Location box:**control.exe /name Microsoft.CredentialManager**  
 ![Open Credentials Manager Using a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-desktop-shortcut.jpg)
 4. Click on the**Next** button. Name the shortcut**Credential Manager** and click on the**Finish** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, double-click on the shortcut to open Credential Manager.
 
 ## 8\. Using the Settings App
@@ -128,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. Navigate to the top-left corner and click on the**Find a setting** option.  
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Using a PowerShell Command
 
@@ -153,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 6. The PowerShell window will launch and close automatically. Credential Manager will launch on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Using the Task Manager
@@ -164,10 +169,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. In the Task Manager window, click on the**Run new task** button.  
 ![Open Credentials Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-task-manager.jpg)
 3. Type**control.exe keymgr.dll** in the Create new task window and click on the**OK** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Credential Manager will open in a new window. Exit the Task Manager window.
 
@@ -190,22 +191,22 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-adepts-compendium-of-fullscreen-insights-in-premiere-pro/"><u>[New] In 2024, Adept's Compendium of Fullscreen Insights in Premiere Pro</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-engaging-youtube-end-credits/"><u>[New] In 2024, Crafting Engaging YouTube End Credits</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-combining-zoom-and-fb-live/"><u>[New] The Ultimate Guide to Combining ZOOM & FB Live</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>[Updated] A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-iphone-night-scene-mastery-guide/"><u>[Updated] IPhone Night Scene Mastery Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-action-hunting-cameras-of-2023/"><u>2024 Approved Best Action Hunting Cameras of 2023</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-your-tiktok-cinematic-vision/"><u>2024 Approved Elevate Your TikTok Cinematic Vision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-messages-on-windows-11-disks/"><u>Dealing with Busy Messages on Windows 11 Disks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-windows-key-locations-for-software-installs/"><u>Discovering Windows: Key Locations for Software Installs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-windows-11s-system-monitor-with-cli-tab/"><u>Enhance Windows 11'S System Monitor With CLI Tab</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-giants-of-nlp-six-leading-large-language-ai-models-unveiled/"><u>Exploring the Giants of NLP: Six Leading Large Language AI Models Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-dxgierrordevicehunk-in-win1011/"><u>How to Resolve DXGI_ERROR_DEVICE_HUNK in Win10/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-onedrive-sync-with-windows-live-id/"><u>Mastering OneDrive Sync with Windows Live ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-save-issues-on-your-system/"><u>Overcoming Steam Save Issues on Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-1011s-dxgi-disconnection-issues/"><u>Resolving Windows 10/11'S DXGI Disconnection Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-accelerated-guide-to-microsoft-project-keys/"><u>The Accelerated Guide to Microsoft Project Keys</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/igital-decibels-the-leading-youtube-voices/"><u>[New] Digital Decibels The Leading YouTube Voices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-integration-for-twitter-content/"><u>[New] WhatsApp Video Integration for Twitter Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-technique-to-capture-fb-videos-flawlessly-on-both-systems/"><u>[Updated] 2024 Approved Technique to Capture FB Videos Flawlessly on Both Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-performance-top-windows-11-strategies/"><u>2024 Approved Unlocking Performance Top Windows 11 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-personalized-screensavers-for-win11/"><u>Creating Personalized Screensavers for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-digital-space-transforming-desktops-with-spotlight-photos/"><u>Elevate Your Digital Space: Transforming Desktops With Spotlight Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-efficiently-employing-system-restore-in-windows-operations/"><u>Expert Advice for Efficiently Employing System Restore in Windows Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disguise-or-reveal-the-clock-widget/"><u>How to Disguise or Reveal the Clock Widget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-download-igtv-videos-on-iphone-and-android-5-ways/"><u>How to Download IGTV Videos on iPhone & Android [5 Ways]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-fix-diskpart-cannot-create-primary-partition-error-a-step-by-step-guide/"><u>How to Fix 'DiskPart Cannot Create Primary Partition' Error – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-budget-without-compromising-quality-exclusive-150-off-deal-for-ultimate-gaming-speakers-on-amazon-zdnet-reviews/"><u>Slash Your Budget Without Compromising Quality: Exclusive $150 Off Deal for Ultimate Gaming Speakers on Amazon | ZDNET Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-access-control-a-walkthrough-for-standard-windows-users/"><u>Streamlining Access Control: A Walkthrough for Standard Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ower-of-youtubes-creative-commons-for-videographers/"><u>The Power of YouTube's Creative Commons for Videographers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-shared-content-at-a-glance/"><u>Unlocking Windows Shared Content at a Glance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unresponsive-windows-escape-button-heres-how-to-resolve-it/"><u>Unresponsive Windows Escape Button? Here's How to Resolve It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-task-view-button-in-win-11-interface/"><u>Unseen Task View Button in Win 11 Interface</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
 

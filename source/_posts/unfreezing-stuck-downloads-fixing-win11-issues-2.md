@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing Stuck Downloads: Fixing WIN11 Issues (2)"
-date: 2024-12-15T16:49:59.611Z
-updated: 2024-12-22T03:14:00.645Z
+date: 2024-12-25T22:51:51.357Z
+updated: 2024-12-27T18:00:47.324Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
@@ -42,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select a Different Download Location in Your Browser
 
@@ -58,11 +62,7 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
@@ -78,13 +78,13 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -94,6 +94,11 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 2. Click **Scan options** on the View & threat protection tab.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
@@ -106,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
  Windows Defender Firewall is a security utility that monitors inbound and outbound network traffic on your PC. This tool can affect file downloads when set to block connections. So, try [turning off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to see if that makes a difference.
@@ -117,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -144,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download Files Again on Your Windows PC
 
  Those potential resolutions will address most of the possible causes for your Windows browsers not downloading files when there’s nothing wrong with your internet connection. Go through all those troubleshooting methods to find one that fixes files not downloading on your PC.
@@ -152,27 +153,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-affordable-high-performance-gaming-keyboards-listed/"><u>[New] 2024 Approved Affordable High-Performance Gaming Keyboards Listed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exclusive-webcast-winners/"><u>[New] 2024 Approved Exclusive Webcast Winners</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photomod-editor-skills-review/"><u>[New] PhotoMod Editor Skills Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-pivot-to-popularity-mastering-video-flip-on-social/"><u>[Updated] Pivot to Popularity Mastering Video Flip on Social</u></a></li>
-<li><a href="https://discover-best.techidaily.com/abbyy-globalidp-entwicklungen-und-erkenntnisse-in-der-jahresanalyse/"><u>ABBYY GlobalIDP: Entwicklungen Und Erkenntnisse in Der Jahresanalyse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-video-lag-upgrading-vlc-on-pc/"><u>Cutting Down Video Lag: Upgrading VLC on PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cyber-health-solutions-for-modern-medicine-for-2024/"><u>Cyber-Health Solutions for Modern Medicine for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enablingdisabling-secure-boot-and-tpm-in-virtualbox-for-enhanced-security/"><u>Enabling/Disabling Secure Boot and TPM in VirtualBox for Enhanced Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-auditory-setup-crafting-win11-written-hotkeys/"><u>Mastering Auditory Setup: Crafting Win11' Written Hotkeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-console-user-management/"><u>Mastering Windows Console User Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-peak-cpu-load-from-wmi-worker/"><u>Mitigating Peak CPU Load From WMI Worker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-privilege-needed-redirects-on-windows-machines/"><u>Navigating 'Privilege Needed' Redirects on Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-key-steps-for-controlling-settings-in-windows/"><u>Quick Key Steps for Controlling Settings in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-interface-snags-a-step-by-step-approach-for-chatgpt-plugin-services/"><u>Resolving Interface Snags: A Step-by-Step Approach for ChatGPT Plugin Services</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/sicurezza-efficiente-sincronizza-con-facilita-le-tue-email-di-outlook-su-ununita-usb/"><u>Sicurezza Efficiente: Sincronizza Con Facilità Le Tue Email Di Outlook Su Un'unità USB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-insufficient-usb-controls-windows-issue/"><u>Solving Insufficient USB Controls Windows Issue</u></a></li>
-<li><a href="https://win-help.techidaily.com/understanding-the-distinctive-features-of-crypto-vs-traditional-fiat-money-insights-from-yl-computing/"><u>Understanding the Distinctive Features of Crypto Vs. Traditional Fiat Money: Insights From YL Computing</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +160,22 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>[New] In 2024, Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-updated-earnings-policies-for-streamers/"><u>[New] In 2024, Navigating Updated Earnings Policies for Streamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastery-in-making-sense-top-6-persuasive-video-types/"><u>[New] Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>[Updated] Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-pc-name-is-invalid-error-on-windows-11/"><u>How to Fix the “PC Name Is Invalid” Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-installation-blocks-essential-fixes-to-speed-verification/"><u>Overcome Installation Blocks: Essential Fixes to Speed Verification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-dropout-dxgi-guide-to-fix/"><u>Overcoming Device Dropout: DXGI Guide to Fix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-recovery-recover-lost-data-from-realme-c55-by-fonelab-android-recover-data/"><u>Realme Data Recovery – recover lost data from Realme C55</u></a></li>
+<li><a href="https://fox-that.techidaily.com/renal-function-plays-a-crucial-role-in-the-excretion-of-beta-blockers-requiring-dose-adjustments-in-patients-with-impaired-kidney-function/"><u>Renal Function Plays a Crucial Role in the Excretion of Beta Blockers, Requiring Dose Adjustments in Patients with Impaired Kidney Function.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-implementing-a-non-reversible-bin-for-files-on-windows-11-and-11/"><u>The Ultimate Guide to Implementing a Non-Reversible Bin for Files on Windows 11 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undo-achievements-on-steam-procedure-explained/"><u>Undo Achievements on Steam – Procedure Explained</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cloud-based-vertical-video-editing-software-top-picks-2023/"><u>Updated 2024 Approved Cloud-Based Vertical Video Editing Software Top Picks 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-os-1011-how-to-correct-non-registered-photo-packages/"><u>Win OS 10/11 – How to Correct Non-Registered Photo Packages</u></a></li>
+</ul></div>
+

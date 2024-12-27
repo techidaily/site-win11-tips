@@ -1,7 +1,7 @@
 ---
 title: Mastering Digital Drawing - Embrace 4 Essential Updates to Paint
-date: 2024-08-16T02:43:39.071Z
-updated: 2024-08-17T02:43:39.071Z
+date: 2024-12-20T20:47:32.307Z
+updated: 2024-12-27T18:50:57.365Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,29 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Paint Gets a Design Overhaul
 
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
 
@@ -44,30 +50,21 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Enhanced Zoom Controls and Accessibility
 
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
@@ -75,13 +72,15 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Classic Paint App Is Here to Stay
 
  Microsoft’s continued support to make the classic Paint app match the Windows 11 design language means the app will continue to be a part of the Windows operating system. With the new improvements, MS Paint will remain a good option for basic editing, including quickly drafting user guides, annotating screen captures, or even converting images to different formats.
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,3 +88,22 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigate-the-world-of-tags-for-superior-content-performance/"><u>[New] In 2024, Navigate the World of Tags for Superior Content Performance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixeled-play-logbook-for-2024/"><u>[New] Pixeled Play Logbook for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplified-instalment-downloading-and-using-vrecord/"><u>[Updated] 2024 Approved Simplified Instalment Downloading & Using VRecord</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>[Updated] Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-film-equipment-review-top-picks-2024/"><u>[Updated] High-Quality Film Equipment Review Top Picks, 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-location-issues-discover-11-effective-ways-to-appear-on-find-my-again/"><u>AirPod Location Issues? Discover 11 Effective Ways to Appear on Find My Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-spot-files-windows-11s-minimalist-approach/"><u>Efficiently Spot Files: Windows 11'S Minimalist Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone XR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-asks-for-old-pass-issue-on-win11/"><u>Resetting “Windows Asks for Old Pass” Issue on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-crash-code-0x80072efd/"><u>Resolving Microsoft Store Crash Code 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-11-restarting-catroot-and-distro-files/"><u>Revive Your Windows 11: Restarting Catroot & Distro Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-eradicate-network-logon-issues/"><u>Solutions to Eradicate Network Logon Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-integrating-submenus-into-win-11/"><u>Step-by-Step Tutorial: Integrating Submenus Into Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207753082-xbox-one-controller-not-working-heres-how-you-can-establish-a-successful-connection/"><u>Xbox One Controller Not Working? Here's How You Can Establish a Successful Connection</u></a></li>
+</ul></div>
+
