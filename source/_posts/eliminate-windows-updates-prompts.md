@@ -1,7 +1,7 @@
 ---
 title: Eliminate Windows Updates Prompts
-date: 2024-12-21T17:50:14.438Z
-updated: 2024-12-27T19:40:18.008Z
+date: 2024-12-31T16:48:06.530Z
+updated: 2025-01-05T20:26:41.450Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Windows Update Notifications via the Settings App
@@ -40,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 5. Disable the toggle for**Get me up to date** so that Windows does not display a restart warning when an update is ready for installation.  
 ![Disable Windows Update Notifications Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Windows should not bother you with update notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Windows Update Notifications Using Group Policy Editor
@@ -64,7 +60,15 @@ To disable Windows update notifications using Group Policy Editor:
 6. Click**Apply** followed by**OK** .  
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Windows Update Notifications With Registry Editor
 
@@ -85,14 +89,10 @@ To disable Windows update notifications using Registry Editor:
 9. Click**OK** .  
 ![Disable Windows Update Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
@@ -116,19 +116,15 @@ To disable Windows update notifications using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-guide-to-the-best-headsets-and-goggles-in-metaverse/"><u>[New] In 2024, A Guide to the Best Headsets and Goggles in Metaverse</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-apowersoft-masterclass-top-pc-screen-recorder-analysis/"><u>[New] In 2024, Apowersoft Masterclass Top PC Screen Recorder Analysis</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-digital-text-generator-for-videos/"><u>[Updated] 2024 Approved Digital Text Generator for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] 2024 Approved Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-countdown-in-forward-the-counterintuitive-playlist-method-for-2024/"><u>[Updated] Countdown in Forward The Counterintuitive Playlist Method for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-4-methods-to-record-gameplay-on-xbox-one/"><u>[Updated] In 2024, 4 Methods to Record Gameplay on Xbox One</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-your-developer-skills-github-desktop-on-win-11/"><u>Empower Your Developer Skills: Github Desktop on Win 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-itel-p40plus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Itel P40+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-gaining-ground-on-the-groundswell-of-online-viewers/"><u>In 2024, Gaining Ground on the Groundswell of Online Viewers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ip-and-mac-extraction-in-windows-with-powershell/"><u>Mastering IP & MAC Extraction in Windows with PowerShell</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-tactics-fixing-blank-login-on-windows-11/"><u>Precision Tactics: Fixing Blank Login on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-enterprises-pioneering-the-future-of-the-metaverse-insights-from-zdnet/"><u>Top Enterprises Pioneering the Future of the Metaverse: Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-wi-fi-issues-in-windows-11-a-pocket-guide-with-8-solutions/"><u>Troubleshoot Wi-Fi Issues in Windows 11: A Pocket Guide with 8 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-print-management-with-windows-11s-tools-max-56-chars/"><u>Winning at Print Management with Windows 11'S Tools (Max 56 Chars)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mystery-of-missing-movies-a6400s-quandary/"><u>[Updated] 2024 Approved Mystery of Missing Movies A6400's Quandary</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-stepwise-pathway-to-becoming-a-streaming-maestro-on-discord/"><u>[Updated] The Stepwise Pathway to Becoming a Streaming Maestro on Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-could-not-be-registered-error-a-windows-photos-guide/"><u>Addressing 'Could Not Be Registered' Error: A Windows Photos Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cambia-mpeg-a-formato-wma-sin-costo-con-el-convertidor-de-archivos-multimedia-on-line-gratuito-de-movavi/"><u>Cambia MPEG a Formato WMA Sin Costo Con El Convertidor De Archivos Multimedia On-Line Gratuito De Movavi</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-device-functionality-in-win11-sleep-mode/"><u>How to Revive Device Functionality in Win11 Sleep Mode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-unsetting-personalized-search-on-windows-11-os/"><u>Methods for Unsetting Personalized Search on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-zip-file-errors-a-win-11-remedy-plan/"><u>Overcoming Zip File Errors: A Win 11 Remedy Plan</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/y-save-your-streaming-stash-with-these-free-tools-for-2024/"><u>Safely Save Your Streaming Stash with These Free Tools for 2024</u></a></li>
 </ul></div>
 

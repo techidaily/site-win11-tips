@@ -1,7 +1,7 @@
 ---
 title: Combat Shrinking Icon Size on Win 11 Systems
-date: 2024-12-23T18:24:12.844Z
-updated: 2024-12-27T23:06:54.392Z
+date: 2025-01-02T08:49:01.686Z
+updated: 2025-01-06T02:57:28.002Z
 tags:
   - windows10
   - windows11
@@ -23,25 +23,25 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are My Icons Shrinking on Windows 11?
 
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restore Icon Size by Deleting Icon Cache
 
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Icons From Shrinking
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
@@ -89,18 +89,19 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-experts-choice-aspertronics-for-phones/"><u>[New] In 2024, Expert's Choice Aspertronics For Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/devhome-unlocked-delving-into-windows-11s-potential/"><u>DevHome Unlocked: Delving Into Windows 11'S Potential</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enlightening-the-entanglement-of-skyrims-xsb-errors/"><u>Enlightening the Entanglement of Skyrim's XSB Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/viewership-virtuously-expert-guide-to-implementing-youtubes-featured-listings/"><u>Gain Viewership Virtuously Expert Guide to Implementing YouTube's Featured Listings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Sony Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-video-editors-top-8-linux-picks/"><u>In 2024, Ultimate Video Editors Top 8 Linux Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mouse-troubles-resurrecting-sleeping-winos/"><u>Mouse Troubles: Resurrecting Sleeping WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-for-peak-performance/"><u>Optimizing Windows 11 for Peak Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-remedy-mcuicnt-execution-missing-windows-issue/"><u>Steps to Remedy McUICnt Execution Missing Windows Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-how-to-successfully-add-and-configure-hardnox-ultra-build-for-enhanced-kodi-streaming/"><u>Ultimate Tutorial: How to Successfully Add and Configure Hardnox Ultra Build for Enhanced Kodi Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-age-estimation-tips-and-tricks/"><u>Windows Age Estimation Tips and Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-diy-video-setups-perfect-self-portraits-for-youtubers-for-2024/"><u>[Updated] DIY Video Setups Perfect Self-Portraits for YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>2024 Approved A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>2024 Approved Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-creative-writing-face-off-which-bot-outperformed-others-on-an-equal-footing-prompt/"><u>AI Creative Writing Face-Off: Which Bot Outperformed Others on an Equal Footing Prompt?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploiting-windows-11s-error-diagnostic-solutions/"><u>Exploiting Windows 11'S Error Diagnostic Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-analytics-and-personalization/"><u>Harnessing the Power of Cookiebot for Advanced Analytics and Personalization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-10-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 10 & 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-apples-enhanced-logic-pro-innovative-ai-band-collaborators-for-ipads-and-macs-the-latest-update-unveiled-on-zdnet/"><u>Introducing Apple’s Enhanced Logic Pro: Innovative AI Band Collaborators for iPads & Macs - The Latest Update Unveiled on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-yourphoneexe-malware-insights-on-windows-87/"><u>Is YourPhone.exe Malware? Insights on Windows 8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-reactivating-ms-store-apps-in-windows-11/"><u>Regaining Access: Reactivating MS Store Apps in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence-for-2024/"><u>The Ideal Companion 15 Tripods and Mounts for GoPro Excellence for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-fast-video-trimming-in-windows-11-apps/"><u>Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installation Steps for Google Play on Win11
-date: 2024-12-24T20:06:00.849Z
-updated: 2024-12-27T18:44:27.038Z
+date: 2025-01-01T04:11:15.790Z
+updated: 2025-01-05T16:05:51.926Z
 tags:
   - windows10
   - windows11
@@ -39,12 +39,16 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
  Note that this process requires installing third-party modified files and packages and involves potential risks. Before proceeding,[create a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) or[recovery drive](http://www.makeuseof.com/create-recovery-drive-system-repair-disc-windows-10/) . These recovery options can help you undo the changes or repair the system if something goes wrong.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall Android Subsystem for Android
 
 ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
@@ -57,9 +61,17 @@ To uninstall WSA:
 4. Locate and click on**Windows Subsystem for Android** under**App list** .
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Enable Developer Mode in Windows 11
 
 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -69,10 +81,6 @@ To enable Developer Mode:
 2. Open the**Privacy and Security** tab in the left pane.
 3. In the right pane, click on**For Developers.**
 4. Toggle the switch for**Developer Mode** and set it to**On** . Click**Yes** to confirm the action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3: Enable Virtual Machine to Run Android Apps
 
@@ -90,7 +98,7 @@ To configure the Virtual Machine:
 If successful, you will see an update status message during restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Setup and Install Windows Subsystem for Linux and Linux Distro on Windows 11
@@ -104,15 +112,15 @@ To install WSL and a Linux distro on Windows 11:
 ![windows subsystem for linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-linus-1.jpg)
 3. Next, search for a Linux distro. We’ll use Ubuntu. So, search for**Ubuntu** and install the distro. If you have a Linux distro installed, you can skip to the next step  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Ubuntu distro windows 11 install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ubuntu-distro-windows-11-install-1.jpg)
 4. Once installed, press the**Win** key and type**Ubuntu** . Right-click on**Ubuntu** and select**Run as administrator** .
 5. In the Ubuntu terminal, you’ll need to create a user with a password for the Linux system. So, create a username and password. Leave the Ubuntu terminal open.
 
  Now you’ll see a Linux\\Ubuntu folder in File Explorer’s left pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 5: Setup Magisk and Windows Subsystem for Android
 
@@ -124,6 +132,11 @@ To install WSL and a Linux distro on Windows 11:
 3. Copy the**GitHub URL** under the**HTTPS** tab.  
 ![download install magiskonWSA github command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/download-install-magiskonwsa-github-command-prompt.jpg)
 4. Open the Ubuntu terminal and type the following command followed by the GitHub URL:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `git clone https://github.com/LSPosed/MagiskOnWSALocal.git`
 5. Press**Enter** to close the GitHub repository to the Linux user account on your computer.  
 ![run script magiskonwsa local install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-script-magiskonwsa-local-install.jpg)
@@ -140,12 +153,13 @@ cd scripts`
 1. Next, in the**Into to MagiskOnWSA** dialog, select**OK** .  
 ![intro to magiskonWSA](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/intro-to-magiskonwsa.jpg)
 2. Next, select**X64 X86\_64** for**Build Arch** .  
-![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
-3. Next, for**WSA release** type, select**Retail Stable Channel** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
+3. Next, for**WSA release** type, select**Retail Stable Channel** .  
 
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
@@ -153,10 +167,6 @@ cd scripts`
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
 ![which GApps you want to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/which-gapps-you-want-to-install.jpg)
 6. Select**OpenGApps** in the**Which GApps do you want to install** dialog.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Next, in the**Do you want to keep Amazon Appstore** dialog, select**Yes** or**No** , depending on your requirement.
 8. Select**No** in the**Do you want to compress the output** dialog.
@@ -184,19 +194,11 @@ or
 5. Next, go to your installation drive**C:\\** and create a new folder named**WSA** .  
 ![WSA folder Windows C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-folder-windows-c-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Paste the copied files into the**WSA** folder.
 2. Close**File Explorer** .
 3. Press the**Win** key and type**cmd** . Right-click on**Command Prompt** and select**Run as administrator** .  
 ![install Windows subsystem for Android windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-windows-subsystem-for-android-windows-11.jpg)
 4. In the Command Prompt window, type the following command to change the directory to the WSA folder:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `cd C:\WSA`
 5. Next, run the following command to execute the following command to install the WSA package:  
@@ -209,7 +211,7 @@ To enable Developer mode on Windows Subsystem for Android:
 ![Windows subsystem for android enable developer mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-android-enable-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press the**Win** key, type**Windows Subsystem for Android** , and open the app from the search results.
@@ -242,20 +244,21 @@ To enable Developer mode on Windows Subsystem for Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photography-rookies-digest-prime-cams/"><u>[Updated] In 2024, Photography Rookies Digest Prime Cams</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>[Updated] In 2024, The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-digest-exploring-google-podcast-apps-essence/"><u>2024 Approved Complete Digest Exploring Google Podcast App's Essence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>2024 Approved The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-fusing-inboxes-linking-your-gmail-with-outlook-on-windows/"><u>Efficiently Fusing Inboxes: Linking Your Gmail with Outlook on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-productivity-7-premium-note-taking-solutions-for-ipad-owners/"><u>Enhance Your Productivity: 7 Premium Note-Taking Solutions for iPad Owners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-management-windows-11-guide/"><u>Enhancing File Management: Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-driver-tools-for-performance-the-ultimate-5-guide/"><u>Essential Driver Tools for Performance: The Ultimate 5 Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/huawei-p20-pro-analysis-outstanding-photography-capabilities-in-an-excellent-device/"><u>Huawei P20 Pro Analysis: Outstanding Photography Capabilities in an Excellent Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-11-proplus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 11 Pro+ Phone Pattern Lock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lecture-de-dvd-sur-la-console-xbox-one-resoudre-lerreur-xbox-ne-lit-pas-les-dvd/"><u>Lecture De DVD Sur La Console Xbox One - Résoudre L'erreur 'Xbox Ne Lit Pas Les DVD'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/limiting-removable-storage-on-windows-without-compromise/"><u>Limiting Removable Storage on Windows Without Compromise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-connection-issues-windows-fix-guide/"><u>Overcoming uTorrent Connection Issues: Windows Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powertoys-made-simple-text-pasting-tips/"><u>PowerToys Made Simple: Text Pasting Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocked-connection-top-6-tactics-to-solve-non-functional-network-hardware-in-pcs/"><u>Unblocked Connection: Top 6 Tactics to Solve Non-Functional Network Hardware in PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-switch-to-shine-with-premium-capture-cards-for-2024/"><u>[New] Switch to Shine with Premium Capture Cards for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>[New] Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-perfection-on-the-switch-console/"><u>[Updated] Capture Perfection on the Switch Console</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-ensuring-your-tweets-meet-aspect-ratio-norms-for-2024/"><u>[Updated] Ensuring Your Tweets Meet Aspect Ratio Norms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-manual-for-registry-editing-with-command-prompt/"><u>Comprehensive Manual for Registry Editing with Command Prompt</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-usb-to-hdmi-driver-for-enhanced-display-connectivity/"><u>Download Updated USB-to-HDMI Driver for Enhanced Display Connectivity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-update-evga-driver-software-on-windows-systems/"><u>Easy Steps to Update EVGA Driver Software on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-arena-rivalry-high-end-vs-low-cost-setup/"><u>Gaming Arena Rivalry: High-End vs Low-Cost Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-lut-applications-in-ae/"><u>In 2024, Mastering LUT Applications in AE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propelty-keystrokes-on-windows-1011-decrease-lag-quickly/"><u>Propelty Keystrokes on Windows 10/11: Decrease Lag Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-turn-off-the-mobile-interface-win-11/"><u>Quick Fix: Turn Off the Mobile Interface (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reach-top-ssd-efficiency-in-windows-utilize-ssdfresh/"><u>Reach Top SSD Efficiency in Windows, Utilize SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-error-code-0x80070570-for-corrupted-items/"><u>Steps to Resolve Windows Error Code 0X80070570 for Corrupted Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-constant-edge-activity-in-windows-11/"><u>Understanding Constant Edge Activity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-laptop-or-desktops-past/"><u>Unraveling Windows Laptop or Desktop's Past</u></a></li>
 </ul></div>
 

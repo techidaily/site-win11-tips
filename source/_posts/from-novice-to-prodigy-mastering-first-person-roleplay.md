@@ -1,7 +1,7 @@
 ---
 title: "From Novice to Prodigy: Mastering First-Person Roleplay"
-date: 2024-12-22T16:46:26.744Z
-updated: 2024-12-27T18:34:35.516Z
+date: 2025-01-02T18:59:44.267Z
+updated: 2025-01-05T20:19:15.708Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  While Blizzard's announcement of the partnership via a [2019 Blizzard.net post](https://news.blizzard.com/en-us/diablo3/22887361/diablo-now-available-on-gog-com) didn't state why Blizzard won't be selling one of its most popular games ever, it presumably is to ensure that the game gets the attention it deserves, especially considering just how full Blizzard's plate is with the rest of the Diablo franchise, World of Warcraft, and Overwatch 2\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Play the Original Diablo
 
  At the time of writing, there are two main ways you can play the original Diablo on a PC. You can either download the official copy from GOG, or you can take a chance on an open-source port of the game which does come with its own caveats.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ![Screenshot of the original Diablo game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/og-diablo-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [GOG](https://www.gog.com/en/game/diablo)
@@ -55,7 +59,7 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
  Do keep in mind that this is a DRM-free version of the game that's compatible with Windows 10 and 11 out of the box. You don't need to install GOG Galaxy to play the game either, although that does make managing GOG-sourced game installations easier. Additionally, while Diablo: Hellfire isn't exactly a Blizzard product, considering its popularity, it's included in the purchase as a free add-on as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Play Diablo Using an Open-Source Diablo Port
@@ -74,10 +78,6 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Both options give you the chance to experience a legendary title in a day and age where the hardware that it was designed for has far been obsolete. However, we also have a [list of action RPG games you can play instead of Diablo](https://www.makeuseof.com/best-action-rpg-games-to-play-instead-of-diablo/), just in case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Original Diablo Playable on Modern Consoles?
 
  Unfortunately, the original Diablo is yet to make its console debut. However, Blizzard has been known to release older games on newer generation consoles from time to time, a prominent example being Diablo 2: Resurrected.
@@ -85,13 +85,13 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So even though the original Diablo isn't available to play on your Xbox Series X|S or PS5, there's a possibility (albeit a small one) that Blizzard might end up launching a digital re-release for consoles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Old Games Can Be Quite the Experience
@@ -110,22 +110,20 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mindful-moments-easy-engrossing-phone-games/"><u>[New] 2024 Approved Mindful Moments Easy, Engrossing Phone Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-affinity-photo-expertise-review-guide-for-2024/"><u>[New] Affinity Photo Expertise Review Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/reating-captivating-thumbnails-for-youtube-for-2024/"><u>[New] Creating Captivating Thumbnails for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-keywords-for-peak-performance/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Keywords for Peak Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-security-updates/"><u>Decoding Windows Security Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-system-settings-error-in-win11/"><u>Guidelines for Fixing System Settings Error in Win11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-x50iplus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor X50i+ Fingerprint Lock</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>In 2024, How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pairing-techniques-for-airpods-on-windows-os/"><u>Pairing Techniques for AirPods on Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-error-0x80131500-in-the-store/"><u>Reversing Error 0X80131500 in the Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-access-to-windows-11-printer-tools-max-52-chars/"><u>Simplifying Access to Windows 11 Printer Tools (Max 52 Chars)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/spyro-reignited-trilogy-review/"><u>Spyro Reignited Trilogy Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-frequent-anydesk-windows-issues/"><u>Steps to Fix Frequent AnyDesk Windows Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-outlooks-improvements-top-9-advantages-on-pc/"><u>Unveiling Outlook's Improvements: Top 9 Advantages on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-an-esd-file-how-to-convert-it-to-an-iso-file-on-windows/"><u>What Is an ESD File? How to Convert It to an ISO File on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/15-secrets-to-discovering-window-settings/"><u>15 Secrets to Discovering Window Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-access-royalty-free-clip-art-tips/"><u>2024 Approved Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accelerating-performance-incorporating-high-speed-m2-upgrades-into-your-raspberry-pi-4-for-enhanced-functionality/"><u>Accelerating Performance: Incorporating High-Speed M.2 Upgrades Into Your Raspberry Pi 4 for Enhanced Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-hacks-bypassing-windows-account-verification/"><u>Advanced Hacks: Bypassing Windows Account Verification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-space-available-for-windows-11-pin-listings/"><u>Boosting Space Available for Windows 11 Pin Listings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-list-of-apple-watches-upgradable-to-watchos-11-and-exclusions-explained-tech-insights/"><u>Comprehensive List of Apple Watches Upgradable to WatchOS 11 & Exclusions Explained - Tech Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elite-15-4k-video-capture-gadgets-for-2024/"><u>Elite 15 4K Video Capture Gadgets for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-audio-transformation-complete-morphvox-techniques/"><u>In 2024, Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-fix-of-xbox-error-code-0x800700e9/"><u>Mastering the Fix of Xbox Error Code: 0X800700E9</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-persistent-freezing-and-crashing-in-ghostwire-tokyo-on-pc/"><u>Resolved: Fixes for Persistent Freezing and Crashing in Ghostwire: Tokyo on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-problems-active-status-of-your-win11-license/"><u>Solving Problems: Active Status of Your Win11 License</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-operation-failed-0x0000011b-errors/"><u>Troubleshooting Operation Failed: 0X0000011B Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-language-processing-vs-learning-techniques/"><u>Unpacking Language Processing vs Learning Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

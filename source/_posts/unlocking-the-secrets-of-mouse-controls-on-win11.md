@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secrets of Mouse Controls on Win11
-date: 2024-12-22T21:36:15.383Z
-updated: 2024-12-27T21:39:00.913Z
+date: 2024-12-31T11:10:37.055Z
+updated: 2025-01-05T18:54:47.804Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,7 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu.jpg)
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Using the Control Panel
 
@@ -55,7 +47,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 4. The Mouse Properties window will launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Settings App
@@ -68,10 +64,14 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
@@ -96,14 +96,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
@@ -113,11 +105,11 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Close the Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using Command Prompt
 
@@ -137,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. Type the following command in the PowerShell window and press the Enter key: **start-process control mouse**  
 ![Open Mouse Properties Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-powershell.jpg)
 3. Mouse Properties tool will open in a new window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
 
@@ -162,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gain Absolute Control Over Your Mouse on Windows
 
  Mouse Properties is an applet, so you cannot pin it to the Taskbar or Start menu. But, you can launch it using the Run dialog box or Terminal or you can create a desktop shortcut. For the fastest access to the tool, map a shortcut key combination.
@@ -180,20 +180,24 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/arness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[New] Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-instant-recorder-performance/"><u>2024 Approved Top Picks for Instant Recorder Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-insights-into-the-art-of-running-ping-on-pcs/"><u>Expert Insights Into the Art of Running Ping on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-capture-failures-on-low-end-pc-systems/"><u>Fixing Capture Failures on Low-End PC Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hd-4k-winzip-mac/"><u>HD 또는 4K으로 영화 시청 경험 향상: WinZip 및 Mac에서의 단계별 지침</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-aesthetics-with-autocolor-settings-on-your-windows-devices/"><u>Improve Aesthetics with AutoColor Settings on Your Windows Devices</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-6-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 6 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-control-revoking-advanced-users-on-windows-11/"><u>Reclaiming Control: Revoking Advanced Users on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-freezing-and-dark-screen-with-steam/"><u>Steps to Resolve Freezing & Dark Screen with Steam</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-fix-your-samurai-warriors-5-gameplay-woes/"><u>Troubleshooting PC Crashes: Fix Your Samurai Warriors 5 Gameplay Woes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-leading-android-tablets-unveiled/"><u>Ultimate Guide: Leading Android Tablets Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android-for-2024/"><u>Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/understanding-googles-ar-sticker-innovation-for-2024/"><u>Understanding Google's AR Sticker Innovation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-macos-chromeos-browsers-with-the-lightest-footprint/"><u>Windows, macOS, ChromeOS: Browsers with the Lightest Footprint</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-advanced-techniques-for-crafting-dynamic-video-edits-for-2024/"><u>[New] Advanced Techniques for Crafting Dynamic Video Edits for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-authenticating-a-step-by-step-for-youtube-users/"><u>[New] Authenticating A Step-by-Step for Youtube Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-create-engaging-facebook-covers/"><u>[New] In 2024, Create Engaging Facebook Covers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-microsofts-innovation-on-display-the-hololens-revolution/"><u>[New] Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube/"><u>[Updated] Live-Stream Titans Duel Comparative Exploration of Twitch & YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dive-into-ios-downloads-an-experts-guide-to-podcast-acquisition/"><u>2024 Approved Dive Into iOS Downloads An Expert's Guide to Podcast Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-network-access-on-windows-10-and-11-through-telnet/"><u>Boosting Network Access on Windows 10 & 11 Through Telnet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-insufficient-access-block-during-uninstalls/"><u>Bypassing Windows' Insufficient Access Block During Uninstalls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparison-of-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparison of ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-design-mastering-windows-11s-theme-customization/"><u>Dive Into Design: Mastering Windows 11'S Theme Customization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-uefa-euro-2021-match-highlights-and-gameplay-videos-free-hd-quality-on-youtube/"><u>Get UEFA Euro 2021 Match Highlights & Gameplay Videos Free - HD Quality on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-mspm-errors-windows-based-fixes-required/"><u>Halt MSPM Errors, Windows-Based Fixes Required</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 6 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-language-shifts-hotkey-techniques-for-multilingual-translation-in-windows-11/"><u>Master Language Shifts: Hotkey Techniques for Multilingual Translation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-switch-off-microsofts-assistant/"><u>Techniques to Switch Off Microsoft's Assistant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes for the Absence of msvcr120.dll in Windows Applications
-date: 2024-12-20T21:05:28.892Z
-updated: 2024-12-27T20:16:00.843Z
+date: 2024-12-31T02:08:20.799Z
+updated: 2025-01-06T11:01:46.600Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Repair the Microsoft Visual C++ Redistributable
 
  The msvcr120.dll file is a component of the Microsoft Visual C++ 2013 Redistributable package. If there are any issues with this package, it may lead to the msvcr120.dll missing error on Windows. You can try repairing the Microsoft Visual C++ 2013 Redistributable package on your PC to see if that fixes the error. Here are the steps for the same.
@@ -43,11 +39,7 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 ![Repair the Microsoft Visual C++ Redistributable on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-the-microsoft-visual-c-redistributable-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall Microsoft Visual C++ Redistributable
@@ -59,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 3. Tick the **vcredist\_x64.exe** and **vcredist\_x86.exe** checkboxes and click **Next**.  
 ![Download the Microsoft Visual C++ Redistributable.png](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-the-microsoft-visual-c-redistributable-png.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-click the downloaded setup file and follow the on-screen prompts to finish the installation process. After that, check if the error occurs again.
 
  If you are using 64-bit Windows, you can install both vcredist\_x64.exe and vcredist\_x86.exe. However, if you have a 32-bit version of Windows, you should only install vcredist\_x86.exe. You can [tell if the Windows version you are using is 32-bit or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) by checking the system information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Copy the Msvcr120.dll From Another Computer
@@ -77,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 
 ![MSVCR120 in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msvcr120-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update or Reinstall the Problematic Program
 
  If you encounter the msvcr120.dll missing error only when launching a specific app or program, it is likely that the program is unable to access the DLL file. You can try updating the problematic program to its most recent version to see if that helps.
 
  If the error persists even after that, you can consider removing the program completely and installing it again. We have a detailed guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). You can follow any one of the methods outlined there to uninstall the problematic program. Make sure you [eradicate leftovers from the uninstalled program](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) before reinstalling it on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Re-Register the Msvcr120.dll File
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 `regsvr32 /u MSVCR120.dll`
 4. Paste the following command and press **Enter** to re-register the msvcr120.dll file.  
 `regsvr32 MSVCR120.dll`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes to Resolve the Msvcr120.dll Missing Error
 
@@ -128,19 +128,18 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-6-cool-minecraft-house-ideas/"><u>[New] Top 6 Cool Minecraft House Ideas</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-directface-vidcutter-utility/"><u>[Updated] In 2024, DirectFace VidCutter Utility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-eliminate-disk-read-problems-in-windows/"><u>Guide to Eliminate Disk Read Problems in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-asmrists-can-help-your-evening-routine/"><u>How ASMRists Can Help Your Evening Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-required-privilege-not-held-error-in-windows-1110/"><u>How To Correct the Required Privilege Not Held Error in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tweak-your-amd-radeon-settings-for-the-best-gaming-performance-in-windows/"><u>How to Tweak Your AMD Radeon Settings for the Best Gaming Performance in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-strategies-to-stop-windows-10-photos-crashes/"><u>In 2024, Master Strategies to Stop Windows 10 Photos Crashes</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-visual-planning-learn-the-art-of-creating-an-effective-storyboard-in-just-7-simple-steps/"><u>Mastering Visual Planning: Learn the Art of Creating an Effective Storyboard in Just 7 Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-memory-leaks-in-device-to-device-communication-windows/"><u>Minimizing Memory Leaks in Device-to-Device Communication Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-starting-your-sound-journey-right-2023s-top-6-affordable-daw-tools-for-beginners/"><u>New Starting Your Sound Journey Right 2023S Top 6 Affordable DAW Tools for Beginners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-tips-for-iphone-burst-photo-sequences/"><u>Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://fox-links.techidaily.com/reverse-video-techniques-for-android-devices-for-2024/"><u>Reverse Video Techniques for Android Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-experts-approach-to-nullify-secure-questions-in-win-11/"><u>The Expert's Approach to Nullify Secure Questions in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-mastery-in-windows-11-calendar-app/"><u>Tips for Mastery in Windows 11 Calendar App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-into-the-virtual-epoch-analyzing-present-state-and-ahead/"><u>[New] 2024 Approved Into the Virtual Epoch Analyzing Present State and Ahead</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigate-through-prime-virtual-bike-selections/"><u>[Updated] Navigate Through Prime Virtual Bike Selections</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>2024 Approved Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-mac-compatible-dvd-players-top-picks-and-reviews/"><u>Best Mac Compatible DVD Players: Top Picks & Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-erratic-power-estimate-display-in-windows-11-os/"><u>Correcting the Erratic Power Estimate Display in Windows 11 OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-keyboard-fixes-a-step-by-step-reset-procedure/"><u>Mastering Keyboard Fixes: A Step-by-Step Reset Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mouse-keys-unite-wake-up-sleeping-devices-post-sleep/"><u>Mouse, Keys Unite! Wake Up Sleeping Devices Post-Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-your-pc-writes-via-steam/"><u>Restoring Functionality to Your PC' Writes via Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-unhindered-play-fixing-intermittent-ps4-connection-in-windows/"><u>The Key to Unhindered Play: Fixing Intermittent PS4 Connection in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-winerror-exit-code-resolution/"><u>Troubleshooting Windows: WinError Exit Code Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-deskanywhere-combat-and-fix-common-problems/"><u>Win11 DeskAnywhere: Combat and Fix Common Problems</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728474598560-windows-881/"><u>Windows 8/8.1における簡単なフォーマットと新しいレコピー検証の手順</u></a></li>
 </ul></div>
 

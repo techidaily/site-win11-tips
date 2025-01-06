@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Navigating Disks on Modern Windows OSes
-date: 2024-12-25T20:40:10.355Z
-updated: 2024-12-27T17:22:55.556Z
+date: 2025-01-03T18:29:32.939Z
+updated: 2025-01-05T21:33:29.290Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Windows Disk Management?](#what-is-windows-disk-management)
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Windows Disk Management?
 
  Disk Management is a built-in system utility that lets you perform advanced storage-related tasks like creating or formatting a hard disk partition, resizing a partition by extending or shrinking the volume, and initializing the volume.
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  When you physically connect a new internal drive to your PC, Windows sees it as a blank disk with no allocated space. Therefore, it doesn't show up in the File Explorer. You can use Disk Management to create a partition and thus make your new drive usable in the operating system.
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  Here, we'll focus on the command you need to enter to open the Disk Management utility. To open the Run command window, press **Windows + R**. Now, type **diskmgmt.msc**, and hit the **Enter** key to launch Disk Management.
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -124,17 +124,19 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smart-list-essential-6-fb-lite-videos-for-you/"><u>[New] In 2024, Smart List Essential 6 FB Lite Videos for You</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pixelated-past-x-era-selfies-with-iphone-x/"><u>[New] Pixelated Past X-Era Selfies with iPhone X</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-best-10-volume-magnifiers-for-windowsmacos-for-2024/"><u>[Updated] Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-engagement-with-these-10-premier-youtube-seo-instruments-for-2024/"><u>[Updated] Elevate Engagement with These 10 Premier YouTube SEO Instruments for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-video-editing-essentials-building-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Video Editing Essentials Building YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-ancient-code-to-modern-design-7-timeless-traits-in-windows-11/"><u>From Ancient Code to Modern Design: 7 Timeless Traits in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-recovery-post-lifes-peak-for-windows-users/"><u>Mastering Recovery Post-Life's Peak: For Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a24-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A24 Black and White | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-gaming-odyssey-of-yesteryear-using-dosbox-x/"><u>The Gaming Odyssey of Yesteryear: Using DOSBox-X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-troubled-games-decipher-vac-failed-steam-alert/"><u>Unlocking Troubled Games: Decipher VAC Failed Steam Alert</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-codes-zeroing-out-the-0x800f0831-blight/"><u>WinError Codes: Zeroing Out the 0X800F0831 Blight</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exploring-the-legal-aspects-of-youtube-content-capture-for-2024/"><u>[Updated] Exploring the Legal Aspects of YouTube Content Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-detailed-protocols-for-filming-films-across-multiplatform-systems/"><u>[Updated] In 2024, Detailed Protocols for Filming Films Across Multiplatform Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-complete-guide-to-sharing-subtitle-files-socially/"><u>[Updated] In 2024, The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728462137208-usb/"><u>解決策集：USB 開設時の「フォーマット必要」メッセージを克服する方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connect-your-devices-effortlessly-wp-and-galaxy-tech-harmony/"><u>Connect Your Devices Effortlessly - WP & Galaxy Tech Harmony</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-g34-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto G34 5G Phone Screen?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-watermark-warriors-10-best-tools-unveiled/"><u>In 2024, Watermark Warriors 10 Best Tools Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-your-pc-beyond-basics-top-10-replacement-software/"><u>Reimagine Your PC Beyond Basics: Top 10 Replacement Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-unseen-second-screen-in-windows-11/"><u>Solve Unseen Second Screen in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-1011s-error-0x80073d26-in-xbox-app/"><u>Tackling Windows 10/11'S Error 0X80073D26 in Xbox App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-11-use-adding-an-enhanced-run-toolkit/"><u>Transform Windows 11 Use: Adding an Enhanced Run Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reviving-silent-slack-alerts-in-windows-11/"><u>Troubleshooting: Reviving Silent Slack Alerts in Windows 11</u></a></li>
 </ul></div>
 

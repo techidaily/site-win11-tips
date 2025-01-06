@@ -1,7 +1,7 @@
 ---
 title: "How to Amplify Safety: Extending Pin Length on Win11 Devices"
-date: 2024-08-08T11:12:53.894Z
-updated: 2024-08-09T11:12:53.894Z
+date: 2025-01-04T00:03:10.109Z
+updated: 2025-01-05T23:10:39.696Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Extend the PIN Length by Editing the Registry
 
  Windows 11/10 Home doesn’t have any built-in setting for extending the minimum PIN length. So, many users will have to extend PIN length by creating a new PINComplexity registry key. Then you can set a new minimum PIN length value within that key. You can extend the Windows Hello PIN length by editing the registry as follows:
@@ -32,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Enter this path inside Registry Editor’s address bar and press **Return**:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\`
 4. If the Microsoft key doesn’t have a PassportForWork subkey, you’ll need to set one up. To do so, right-click on the Microsoft key and select **New** \> **Key**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
@@ -42,19 +40,30 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
 4. Enter **MinimumPINLength** in the DWORD text box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type **MaximumPINLength** into the DWORD’s text box.  
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
@@ -62,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -80,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 2. Click on Run’s **OK** button to [access Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
 3. Double-click on **Computer Configuration** in the left sidebar.
 4. Next, double-click **Administrative Templates** to extend it.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
@@ -92,6 +92,11 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
@@ -103,11 +108,33 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>[New] 2024 Approved No Budget, Big Fun YouTube Vids as Tweets' GIFs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-professional-slideshow-creation-made-easy-and-free/"><u>[New] 2024 Approved Professional Slideshow Creation Made Easy & Free</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-zoom-tools-for-clear-session-capture/"><u>[New] In 2024, Best Zoom Tools for Clear Session Capture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-audiophiles-guide-to-speed-adjustment-apps/"><u>[Updated] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-can-you-store-high-quality-videos-in-128gb-in-2024/"><u>[Updated] Can You Store High-Quality Videos in 128Gb, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-deeper-dive-into-video-enhancement-techniques-for-pcmobile/"><u>A Deeper Dive Into Video Enhancement Techniques for PC/Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-central-mastering-the-art-of-turning-off-windows-user-accounts/"><u>Control Central: Mastering the Art of Turning Off Windows User Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-1011-app-failure-zeroxc000003e/"><u>Deciphering Windows 10/11 App Failure: ZeroXC000003e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-nova-y91-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Huawei Nova Y91 support AVCHD video?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-parental-guidelines-in-windows-11-os/"><u>Establishing Parental Guidelines in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-cloud-directly-from-windows-accessible-storage-solutions/"><u>Harnessing the Cloud Directly From Windows: Accessible Storage Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-and-seek-with-win11-archiving-in-photos/"><u>Hide-and-Seek with Win11: Archiving in Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-to-wows-critical-fatal-error/"><u>Mastering the Resolution to WoW’s Critical Fatal Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-text-snippet-copy-with-windows-keys/"><u>Optimizing Text Snippet Copy with Windows Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-remedying-0x80072af9-complications/"><u>Quick Guide: Remedying 0X80072AF9 Complications</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/swiftly-producing-high-quality-thumbnails-for-valorant-screenshots/"><u>Swiftly Producing High-Quality Thumbnails for Valorant Screenshots</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-vip-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-try-now-error-in-windows-devices-bluetooth/"><u>Unraveling Try Now Error in Windows Devices' Bluetooth</u></a></li>
+</ul></div>
+

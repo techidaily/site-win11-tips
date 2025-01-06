@@ -1,7 +1,7 @@
 ---
 title: "Fixing Unidentified Hardware Errors: Win 11/10 Tips"
-date: 2024-08-08T11:10:27.983Z
-updated: 2024-08-09T11:10:27.983Z
+date: 2025-01-01T18:35:06.990Z
+updated: 2025-01-06T06:22:25.076Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 1\. Run the System Image and File Repair Commands
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
@@ -31,14 +28,8 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  Our article about [repairing corrupted files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions for running both SFC and DISM scans.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Clean Boot Your Windows PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window-1.jpg)
 
  Clean-booting Windows is one of the more widely confirmed solutions for the “Unknown Hard Error.” Applying this resolution will disable non-essential third-party startup apps and services. This can prevent software conflicts that could be causing the “Unknown Hard Error” on your PC from occurring.
@@ -48,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  If the error doesn’t reoccur again, you’re onto something. You can keep the current boot configuration or try to identify what was causing the issue for the sake of re-enabling startup items. To identify the culprit, you’ll need to gradually re-enable one startup item every time you restart (or shut down) Windows until the issue returns.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run a Check Disk Repair Scan
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
@@ -59,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  Our guide to [running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) includes instructions for utilizing that tool either way.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Remove Any Recent Windows Updates
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/install-updates.jpg)
@@ -70,11 +63,16 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  Try removing the latest installed patch update, as covered in this article about [how to manually uninstall Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Roll Back Your PC to a Previous Windows Restore Point
 
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The System Restore tool undoes system changes by restoring Windows to an image backup (restore point). It's a valuable troubleshooting tool for fixing the “Unknown Hard Error” if you have it enabled and there are restoration points available.
 
@@ -86,13 +84,14 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An issue with your user account could be the reason for the “Unknown Hard Error” arising on your PC. If you can’t fix that issue, you may as well go around it by creating and utilizing a new user account.
 
  You can also copy user file data from your old account into the new one. So, try [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) as a resolution to see if that resolves the “Unknown Hard Error.”
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset Windows
 
  Resetting Windows 10 or 11 is the last thing to try when everything else fails to fix the “Unknown Hard Error.” A factory reset restores Windows to its default state, as it was when you first bought it.
@@ -109,11 +108,24 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-youtube-output-rapid-video-rendering-and-transfer-for-2024/"><u>[Updated] Boost Your YouTube Output - Rapid Video Rendering and Transfer for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-dynamic-speaker-analysis-episode-8/"><u>2024 Approved Dynamic Speaker Analysis - Episode 8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 11 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-download-strategies-for-windows-newbies/"><u>Direct Download Strategies for Windows Newbies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compose-chuckling-content-for-giphy-audience/"><u>In 2024, Compose Chuckling Content for Giphy Audience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/model-e-post-war-development-of-model-c-with-extended-thumb-safety-lever-that-operated-like-a-crossbow-release-and-new-grip-design-without-rubber-coating/"><u>Model E - Post War Development of Model C with Extended Thumb Safety Lever that Operated Like a Crossbow Release and New Grip Design without Rubber Coating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-the-blue-screen-in-win11-with-these-top-tricks/"><u>Sidestep the Blue Screen in Win11 with These Top Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-handbook-permanently-turn-off-defender-on-win-11/"><u>The Insider's Handbook: Permanently Turn Off Defender on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-ps-opening-problems-on-windows-11/"><u>Troubleshooting PS Opening Problems on Windows 11</u></a></li>
+</ul></div>
+

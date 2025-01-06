@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools: Proficiently Using PowerShell for Archive Operations"
-date: 2024-12-22T23:00:30.644Z
-updated: 2024-12-27T22:42:01.573Z
+date: 2025-01-02T02:27:04.412Z
+updated: 2025-01-05T23:34:05.747Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Zip Files Using Command Prompt
 
  You can zip files through Command Prompt using the tar command. It's a command line tool that helps you to extract files and create archives. However, this command only works in Windows 10 or later.
@@ -45,7 +49,7 @@ Here's how to zip files using Command Prompt:
 6. To zip a single file, execute the following command. Again, replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored, '**FileExt** ' with your file's extension, and '**FileName** ' with the name of the file you want to zip.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `tar -a -c -f Compressed.zip FileName.FileExt`  
@@ -62,10 +66,6 @@ Here's how to zip files using Windows PowerShell:
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
 
 `Compress-Archive -LiteralPath 'file destination\file name', 'file destination 1\file name 2 -DestinationPath 'target location\destination name'  
@@ -74,7 +74,7 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -90,7 +90,7 @@ Here's how to zip files using Windows PowerShell:
 You've successfully unzipped the file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Windows PowerShell
@@ -103,7 +103,7 @@ You've successfully unzipped the file.
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
@@ -127,16 +127,15 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-viral-power-couple-tiktok-and-twitter-trends/"><u>[New] 2024 Approved The Viral Power Couple TikTok & Twitter Trends</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-8-cost-free-android-video-recording-software/"><u>[New] 2024 Approved Top 8 Cost-Free Android Video Recording Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-shutters-symphony-top-techniques-for-exquisite-images/"><u>[Updated] The Shutter's Symphony Top Techniques for Exquisite Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-the-watchful-eye-of-windows-11/"><u>Eradicate the Watchful Eye of Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-new-beta-a-comprehensive-tutorial-on-turning-on-browsing-and-plugins/"><u>Exploring ChatGPT’s New Beta: A Comprehensive Tutorial on Turning On Browsing & Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-windows-woes-7-ways-to-regain-optional-features/"><u>Fix Windows Woes: 7 Ways to Regain Optional Features</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96327014-9781507209974-hex-your-ex/"><u>Hex Your Ex | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y200-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y200</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-windows-from-booting-directly-to-bios/"><u>Preventing Windows From Booting Directly to BIOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-play-tackling-intermittent-ps4-remote-control-loss/"><u>Seamless Play: Tackling Intermittent PS4 Remote Control Loss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-solve-steam-disk-readwrite-woes/"><u>Winning Strategies to Solve Steam Disk Read/Write Woes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-twitter-live-sound-solving-partially-muted-audio-issues/"><u>[New] Twitter Live Sound Solving Partially Muted Audio Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-the-future-revolutionary-tools-for-3d-modelers/"><u>[Updated] Crafting the Future Revolutionary Tools for 3D Modelers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ninja-level-strategies-for-instagram-video-magic-for-2024/"><u>[Updated] Ninja-Level Strategies for Instagram Video Magic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-your-online-identity-with-customized-youtube-urls/"><u>Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-o365-sync-errors-windows-11/"><u>Deciphering and Remedying O365 Sync Errors (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-razer-device-ignorance-in-windows-1011/"><u>Guidelines for Fixing Razer Device Ignorance in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-cash-growth-forecasts-at-no-cost/"><u>In 2024, YouTube Cash Growth Forecasts at No Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-adding-wordpad-keyboard-triggers-in-windows-11s-ui/"><u>Maximizing Efficiency: Adding WordPad Keyboard Triggers in Windows 11'S UI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-yourphoneexe-on-latest-windows-os/"><u>Understanding YourPhoneExe on Latest Windows OS</u></a></li>
 </ul></div>
 

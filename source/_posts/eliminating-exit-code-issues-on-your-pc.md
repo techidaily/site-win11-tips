@@ -1,7 +1,7 @@
 ---
 title: Eliminating Exit Code Issues on Your PC
-date: 2024-12-26T21:17:45.143Z
-updated: 2024-12-27T16:07:51.963Z
+date: 2025-01-05T09:36:37.171Z
+updated: 2025-01-06T09:25:05.721Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
  Once all the mods are removed, close File Explorer and relaunch Minecraft to see if the error is resolved. On the flip side, you may find some Minecraft levels (worlds) broken upon launch. You may also want to re-download mods to make further modifications.
@@ -59,12 +63,16 @@ To repair Minecraft Launcher:
  Similarly, you can also repair your Minecraft game. Open Minecraft’s**Advanced Options** and perform a repair in the**Settings** app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Modify the Minecraft Launcher File Path
 
 ![modify minecraft launcher file path working directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-minecraft-launcher-file-path-working-directory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Issues with the Minecraft Launcher file path can cause the "exit code: 1" on Windows. If your user name has a special character, the Minecraft Launcher file path may not respond to a user account with a special character.
 
@@ -94,32 +102,20 @@ To change the Java executable for Minecraft:
 5. Select**Edit** from the menu.  
 ![minecraft launcher latest release edit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-launcher-latest-release-edit-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click**More Options** to view additional options.
 2. Click**Browse** to add a**Java Executable** .  
 ![java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-executable-browse-minecraft-launcher-windows.jpg)
 3. Navigate to your Java installation. By default, the JRE file path is:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Program Files (x86)\Java\jre1.8.0_361\bin`
 4. Select the**Java.exe** file and click**Open** .  
 ![select JRE java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-jre-java-executable-browse-minecraft-launcher-windows.jpg)
 5. Click**Save** to apply the changes and relaunch Minecraft Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Minecraft Without Deleting Saves
@@ -136,7 +132,7 @@ To backup Minecraft saves and uninstall the game:
 4. Right-click on the saves folder and select**Copy (Ctrl +C)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Paste the**saves** folder outside the**.minecraft** folder.  
@@ -154,7 +150,7 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update the Graphics Drivers
@@ -166,6 +162,10 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 ### Reinstall Java
 
 ![java runtime environment install windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtine-environment-install-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "exit code: 1" error often hints at invalid Java runtime configuration issues. You can reinstall Java to fix configuration issues fixed in the latest release.
 
@@ -197,17 +197,15 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>[New] 2024 Approved Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-secrets-of-selecting-the-best-nba-live-feed/"><u>[New] Secrets of Selecting the Best NBA Live Feed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] 2024 Approved Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://facebook.techidaily.com/connectivitys-perks-uncovering-the-benefits-of-social-media/"><u>Connectivity's Perks: Uncovering the Benefits of Social Media</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-admin-controlled-errors-in-windows-11-configuration/"><u>Correcting Admin Controlled Errors in Windows 11 Configuration</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-devhome-the-essential-guide-to-win11/"><u>Discovering DevHome: The Essential Guide to Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-unsupported-boots-with-these-5-secure-fixes-for-windows/"><u>Overcome Unsupported Boots with These 5 Secure Fixes for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-tech-timetable-avoiding-unscheduled-surprises-with-windows-11-settings/"><u>Tailoring Your Tech Timetable: Avoiding Unscheduled Surprises with Windows 11 Settings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-budget-choice-for-tech-savvy-users-unveiling-iphone-cups-the-most-amazing-features-including-all-day-power-your-must-see-review-on-zdnet/"><u>The Ultimate Budget Choice for Tech Savvy Users: Unveiling iPhone Cups the Most Amazing Features, Including All-Day Power - Your Must-See Review on ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-efficient-storage-space-in-windows-11/"><u>Unlock Potential: Efficient Storage Space in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-office-365-problem-30015-26-on-devices/"><u>Unveiling the Mystery of Office 365 Problem 30015-26 on Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-step-by-step-process-for-screening-web-tv-episodes/"><u>[New] 2024 Approved The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-accessing-and-downloading-podcasts-via-apple-device/"><u>[New] Step-by-Step Accessing & Downloading Podcasts via Apple Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-n3-flip-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo Find N3 Flip Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-k70e-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi K70E</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-nord-ce-3-lite-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus Nord CE 3 Lite 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-preview-screens-for-files-troubleshoot-on-win-11/"><u>Reinstate Preview Screens for Files – Troubleshoot on Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-missing-oleaut32dll-a-step-by-step-guide/"><u>Resolving 'Missing oleAut32.dll': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-chatting-experience-with-10-fixes/"><u>Revitalize Your Chatting Experience with 10 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-off-how-to-turn-down-windows-11/"><u>Stealth Mode Off: How to Turn Down Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-library-no-sync-error-solution/"><u>Tackling Steam Library: No Sync Error Solution</u></a></li>
 </ul></div>
 

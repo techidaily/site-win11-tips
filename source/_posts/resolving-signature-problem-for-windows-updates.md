@@ -1,7 +1,7 @@
 ---
 title: Resolving Signature Problem for Windows Updates
-date: 2024-12-15T09:38:55.719Z
-updated: 2024-12-21T16:05:30.656Z
+date: 2024-12-30T00:57:16.595Z
+updated: 2025-01-06T00:40:29.955Z
 tags:
   - windows10
   - windows11
@@ -34,11 +34,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run Deployment Imaging and System File Scans
@@ -52,7 +48,11 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Windows Update and BITS Services Are Enabled
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 5. Set the **Startup type** setting to the **Automatic** option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Save the settings by pressing the **Apply** and **OK** buttons.
 8. Double-click the **Background Intelligent Transfer Service** to view its settings.
@@ -107,13 +103,18 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 4. Right-click the WindowsUpdate registry key to select **Delete**.  
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-option-1.jpg)
 5. Click **Yes** when prompted for confirmation to delete the key.  
-![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
-
- Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
 
@@ -128,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 4. Note down the KB code for your recently failed Windows update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
@@ -149,27 +150,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-decoding-the-dos-and-donts-in-posting-content-on-facebook-for-2024/"><u>[New] Decoding the Do’s and Don’ts in Posting Content on Facebook for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-harness-the-power-of-gopro-for-captivating-time-lapse-videos-for-2024/"><u>[New] Harness the Power of GoPro for Captivating Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>2024 Approved Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>2024 Approved Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-13-pro-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-google-share-and-windows-share-for-local-networks/"><u>Comparing Google Share & Windows Share for Local Networks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-shortcuts-to-enhance-efficiency/"><u>Essential Windows Shortcuts to Enhance Efficiency</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-s18-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo S18 to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G34 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Pro Max Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opening-windows-11s-component-services-with-ease/"><u>Opening Windows 11'S Component Services with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-pc-ailments-with-these-13-revival-strategies/"><u>Overcoming PC Ailments with These 13 Revival Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-an-epic-steal-save-big-on-hp-victus-15-at-515-with-exclusive-best-buy-prime-day-bargain-insights/"><u>Score an Epic Steal: Save Big on HP Victus 15 at $515 With Exclusive Best Buy Prime Day Bargain - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reestablish-lock-screen-timer-in-windows/"><u>Steps to Reestablish Lock Screen Timer in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-advanced-windows-file-browsing-without-ls/"><u>Unlocking Advanced Windows File Browsing Without LS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgraded-run-options-in-windows-adding-powerful-script-execution-capability/"><u>Upgraded Run Options in Windows: Adding Powerful Script Execution Capability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-update-conundrum-solving-error-0x30017/"><u>Win11's Update Conundrum: Solving Error 0X30017</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +157,25 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>[New] In 2024, Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-apple-podcasts-transferring/"><u>[New] The Essential Guide to Apple Podcasts Transferring</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-fb-video-conversion-to-professional-quality-mp3s-for-2024/"><u>[Updated] Navigating FB Video Conversion to Professional-Quality MP3s for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-adjustments-nine-fixes-to-smooth-out-windows-11-gaming/"><u>Accelerated Adjustments: Nine Fixes to Smooth Out Windows 11 Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-your-desktop-background-effortlessly-with-win11/"><u>Alter Your Desktop Background Effortlessly with Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-comic-relief-in-the-metaverse-meme-basics-unveiled/"><u>Crafting Comic Relief in the Metaverse – Meme Basics Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-conquering-system-calls-failure-in-windows-11/"><u>Expert Tips for Conquering System Calls Failure in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/heaviest-aerial-transporters-top-10-drones-reviewed/"><u>Heaviest Aerial Transporters Top 10 Drones Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-issue-when-football-manager-2023-stays-at-loading-game-screen/"><u>How to Fix the Issue When Football Manager 2023 Stays at 'Loading Game' Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-hot-40-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Hot 40 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-your-windows-overcome-geforce-experience-failures/"><u>Mend Your Windows: Overcome GeForce Experience Failures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/re-latency-choose-av1-for-youtube-playback-for-2024/"><u>No More Latency Choose AV1 for YouTube Playback for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-reach-word-definitions-on-your-system/"><u>Rapidly Reach Word Definitions on Your System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartpacking-for-the-modern-wanderer/"><u>Smartpacking for the Modern Wanderer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-detectable-windows-commands/"><u>Strategies for Fixing Non-Detectable Windows Commands</u></a></li>
+</ul></div>
+

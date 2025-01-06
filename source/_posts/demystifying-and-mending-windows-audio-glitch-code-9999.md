@@ -1,7 +1,7 @@
 ---
 title: "Demystifying and Mending Windows Audio Glitch: Code 9999"
-date: 2024-08-16T02:35:00.546Z
-updated: 2024-08-17T02:35:00.546Z
+date: 2024-12-31T07:48:18.372Z
+updated: 2025-01-06T02:52:07.548Z
 tags:
   - windows10
   - windows11
@@ -44,19 +44,10 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 3. Select any messaging software listed under**Apps** and click**End task** .
 4. Then go through the**Background processes** section to see if there are any messaging apps there. Right-click messaging app processes there and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then open Audacity and try recording something again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Microphone Access for Audacity
 
  Error 9999 often occurs because Audacity is denied microphone access. Enabling microphone access for Windows apps is among the most widely acknowledged error 9999 resolutions to work. This is how you can enable apps to access your microphone in Windows 11/10:
@@ -66,11 +57,21 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
-![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
 
@@ -80,25 +81,28 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 2. Then double-click the**Audio inputs and outputs** category to view sound devices.
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 4. Click the confirmation dialog’s**Uninstall** option.  
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
  Audacity users have confirmed disabling Host Intrusion Protection in Kaspersky antivirus (security) software fixes error 9999\. Host Intrusion Protection is a feature that regulates apps’ activities in Windows 11/10\. That component is enabled by default in Kaspersky security software.
 
  Do you have Kaspersky security software installed on your PC? If so, look for and disable a**Host Intrusion Protection** setting in that software. This[Kaspersky online help page](https://support.kaspersky.com/KESWin/11.5.0/en-US/128217.htm) tells you how to disable that feature in Endpoint Security for Windows. Or move Audacity to a Trusted app group in that software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Antivirus Shields
 
@@ -111,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
@@ -135,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +147,17 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>[New] 2024 Approved Time-Saving Techniques From Complicated SRT to Simplified TXT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-tips-for-selecting-the-right-editor-filmora-and-democracy-creator-guide/"><u>[Updated] In 2024, Expert Tips for Selecting the Right Editor Filmora and Democracy Creator Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>[Updated] Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-funny-picture-tinker/"><u>[Updated] Premier Funny Picture Tinker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-server-slips-fixing-microsoft-store-issues/"><u>Eradicating Windows Server Slips: Fixing Microsoft Store Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mov-video-merger-top-5-recommendations-for-2024/"><u>Free MOV Video Merger Top 5 Recommendations for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-10t-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 10T 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-operational-capability-fixing-ccleaner-on-windows-os/"><u>Regaining Operational Capability: Fixing CCleaner on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-dark-scheme-in-calc-app/"><u>Unveiling the Secrets of Dark Scheme in Calc App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgraded-notification-methods-full-charge-alerts/"><u>Upgraded Notification Methods: FULL CHARGE Alerts</u></a></li>
+</ul></div>
 

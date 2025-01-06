@@ -1,7 +1,7 @@
 ---
 title: "Prolific Powerhouses in Win 11: Best Productivity Widgets List"
-date: 2024-12-22T20:30:51.677Z
-updated: 2024-12-27T17:16:42.037Z
+date: 2025-01-02T08:34:29.558Z
+updated: 2025-01-05T21:52:36.930Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Widgets in Windows 11
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
@@ -39,17 +35,21 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. To Do
 
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
@@ -77,12 +77,16 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Phone Link widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-link-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Phone Link is one of Microsoft’s newer features, allowing you to connect your Android or iOS device to your PC. Using the tool, you can view mobile notifications and updates directly from your Windows machine.
 
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Tips
@@ -97,23 +101,19 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
  The widget monitors your total memory usage, so you can identify which apps are slowing your PC down. Memory usage is displayed both in GB and as a percentage. If your memory usage is consistently high, check out our tips to [free up RAM and reduce RAM usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/).
 
 **Download**: [Memory Check](https://apps.microsoft.com/detail/9PKWVP7N1QS9) ($1.99)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Memodown
 
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
 
@@ -137,22 +137,22 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/chromecast-vs-roku-face-off-which-device-wins-the-streaming-war/"><u>Chromecast Vs. Roku Face-Off: Which Device Wins the Streaming War?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-windows-admin-blacklist/"><u>Circumventing Windows Admin Blacklist</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-the-challenge-of-microsoft-powerpoint-prints-on-windows/"><u>Conquering the Challenge of Microsoft PowerPoint Prints on Windows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp/"><u>Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-modify-registry-editor-access-in-win11/"><u>Easily Modify Registry Editor Access in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essentials-on-using-microsofts-phone-link-a-guide/"><u>Essentials on Using Microsoft's 'Phone Link': A Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-12-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi 12 Phone Screen?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/integrate-soundtracks-with-ppt-visuals-for-2024/"><u>Integrate Soundtracks with PPT Visuals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-audio-subtitle-coordination-with-prime-and-windows-11/"><u>Master Audio-Subtitle Coordination with Prime & Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-challenges-in-activating-dormant-windows-extras/"><u>Overcome Challenges in Activating Dormant Windows Extras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolve-windows-stores-error-0x80073d26/"><u>Quick Guide to Resolve Windows Store's Error 0X80073D26</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unspecified-error-0x80004005-on-your-device-effortlessly/"><u>Resolving the Unspecified Error (0X80004005) on Your Device Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-file-operations-with-task-scheduler-controls/"><u>Seamless File Operations with Task Scheduler Controls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/securely-delete-all-information-on-your-windows-pc-a-cost-free-guide-to-protecting-your-privacy/"><u>Securely Delete All Information on Your Windows PC: A Cost-Free Guide to Protecting Your Privacy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/t-mobile-metro-unrestricted-network-access-and-global-roaming-guidelines/"><u>T-Mobile Metro Unrestricted Network Access & Global Roaming Guidelines</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728497602614-wbadminwindows-server-2012/"><u>WBAdminツールでWindows Server 2012の安全なデータ保護と回復手順</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-hexa-drone-elite-collection-the-finest-ten-for-2024/"><u>[New] Hexa-Drone Elite Collection - The Finest Ten for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-make-your-favorite-tiktok-sound-a-phones-custom-ringtone/"><u>[New] In 2024, Make Your Favorite TikTok Sound a Phone's Custom Ringtone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-bandicam-reference-unpacking-2023-features/"><u>[New] In 2024, The Ultimate Bandicam Reference – Unpacking 2023 Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] In 2024, From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726027700300-windows-10dvdmp3/"><u>「Windows 10」を使用して、DVDファイルからMP3オーディオにする方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-views-prime-seo-equipment-for-videos-for-2024/"><u>Elevate Views Prime SEO Equipment for Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-game-learning-windows-shorthand/"><u>Elevate Your Computer Game: Learning Windows Shorthand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-spotlight-picture-whenever-you-want/"><u>How to Change the Windows Spotlight Picture Whenever You Want</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g42-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia G42 5G Bootloader Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-the-pulse-of-internet-stability-at-work/"><u>Keeping the Pulse of Internet Stability at Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-transparent-taskbars-on-win11/"><u>Mastering the Art of Transparent Taskbars on Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-skies-a-guide-to-using-syma-x8c/"><u>Mastering the Skies A Guide to Using Syma X8C</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-with-top-3d-painting-shortcuts/"><u>Streamline Your Workflow with Top 3D Painting Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-with-ease-a-guide-for-surface-computer-owners/"><u>Update with Ease: A Guide for Surface Computer Owners</u></a></li>
 </ul></div>
 

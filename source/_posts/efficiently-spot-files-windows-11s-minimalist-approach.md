@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Spot Files: Windows 11'S Minimalist Approach"
-date: 2024-12-20T18:53:03.006Z
-updated: 2024-12-27T21:14:56.594Z
+date: 2025-01-01T18:14:32.094Z
+updated: 2025-01-06T08:30:31.445Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
@@ -57,26 +57,26 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -112,14 +112,19 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-swapping-video-direction-in-snapchat/"><u>[New] 2024 Approved Tips for Swapping Video Direction in Snapchat</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>[Updated] 2024 Approved Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-social-media-posts-from-phone-to-instagram-for-2024/"><u>[Updated] Seamless Social Media Posts From Phone to Instagram for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhance-and-clean-up-youtube-footage-borderless-tutorial-for-2024/"><u>Enhance and Clean Up YouTube Footage Borderless Tutorial for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-freshness-in-group-policies-for-secure-windows-networks/"><u>Ensuring Freshness in Group Policies for Secure Windows Networks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-command-prompt-popping-up-by-itself-on-windows/"><u>How to Fix Command Prompt Popping Up by Itself on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-set-a-custom-inactivity-lock-time-on-windows/"><u>How to Set a Custom Inactivity Lock Time on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-tpm-problems-on-windows-11-masterly/"><u>Navigating TPM Problems on Windows 11 Masterly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-bandicam-demystified-a-clearer-understanding-of-2023-functionality-for-2024/"><u>[New] Bandicam Demystified A Clearer Understanding of 2023 Functionality for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-leveraging-imovie-content-on-the-vimeo-network/"><u>[Updated] In 2024, Leveraging iMovie Content on the Vimeo Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directives-for-managing-setup-service-state-in-windows/"><u>Directives for Managing Setup Service State in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-ai-visualization-toolset-for-2024/"><u>Expert AI Visualization Toolset for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/expert-tips-the-top-three-solutions-for-enjoying-mkv-content-on-your-mac-compatible-with-big-sur-and-earlier/"><u>Expert Tips: The Top Three Solutions for Enjoying MKV Content on Your Mac (Compatible with Big Sur & Earlier)</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-and-spotify-collaborate-on-innovative-boombox-venture/"><u>Facebook & Spotify Collaborate on Innovative Boombox Venture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-non-functional-function-keys-for-brightness/"><u>Fixing Windows 11'S Non-Functional Function Keys for Brightness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/game-like-never-before-on-the-latest-asus-woled-monitor-27-ultra-smooth-no-flickering-with-adaptive-sync-technology/"><u>Game Like Never Before on the Latest Asus WOLED Monitor - 27 Ultra Smooth, No Flickering with Adaptive Sync Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-affected-device-access-post-error-code-22/"><u>How to Reset Affected Device Access Post-Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-calendar-app-on-windows-11/"><u>How to Use the Calendar App on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-make-a-photo-video-with-pixiz/"><u>In 2024, How to Make a Photo Video with Pixiz ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-instant-uninstalling-via-windows-shortcuts/"><u>The Guide to Instant Uninstalling via Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-vs-phone-link-for-windows-phone-users-explored/"><u>Unison Vs. Phone Link for Windows Phone Users Explored</u></a></li>
 </ul></div>
 

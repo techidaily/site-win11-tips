@@ -1,7 +1,7 @@
 ---
 title: Techniques to Avoid Keyboard Triggers without Intent
-date: 2024-08-16T02:36:42.718Z
-updated: 2024-08-17T02:36:42.718Z
+date: 2025-01-01T09:16:02.235Z
+updated: 2025-01-05T22:06:26.705Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
  To disable the Sticky and Filter Keys:
@@ -54,14 +58,12 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 4. Next, click the **Run** button for the **Keyboard** option.
 5. As the troubleshooter dialog opens, follow the on-screen instructions and apply any recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Keyboard Drivers
 
 ![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A corrupt driver may cause the keyboard to malfunction. To fix the issue, you can uninstall the driver from Device Manager. Upon restart, Windows will automatically detect the connected keyboard and install the necessary drivers.
@@ -75,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 5. After the restart, Windows will automatically reinstall the necessary driver for the keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reconfigure or Disable the Windows Ink Workspace Service
 
  If you use a pen-based or touch device, check if Windows Ink Workspace is enabled. By default, the letter I is a shortcut assigned to open the Windows Ink Workspace app. If so, you may want to disable the app to prevent Windows from accidentally triggering and opening the app when you press the keyboard keys.
@@ -92,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 ![disable activation shortcut windows ink workspace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-activatgion-shortcut-windows-ink-workspace.jpg)
 3. Close the **Settings** dialog and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Quit and Disable Auto Startup for Windows Ink Workspace
 
  If you'd prefer that Windows Ink Workspace didn't start up by itself:
@@ -107,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 5. Select **Ink Workspace** and select **Disable**.
 6. Close Task Manager and check if you can type on your keyboard without triggering the app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Disable Windows Ink Workspace
 
  If the issue persists, you can completely disable Windows Ink Workspace using the Registry Editor. This process involves making modifications to the Windows Registry. We recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [take a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the steps below.
@@ -127,18 +124,21 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 1. Rename the key as **WindowsInkWorkspace**.
 2. Next, right-click on the **WindowsInkWorkspace** key and select **New > DWORD (32-bit) Value**.  
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Rename the new values as **AllowWindowsInkWorkspace**.
 4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
 5. Type **0** in the **Value data** field and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Close the Registry Editor and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Troubleshooting Steps You Can Try
 
  If none of the above worked, here are a few quickfire solutions to try:
@@ -150,8 +150,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 * **Perform a system restore** – If the error occurred after installing an update and you can’t uninstall it, you can [use a system restore to undo the update or recent changes made by you](https://www.makeuseof.com/use-system-restore-windows/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Keyboard to Type Again on Windows
 
  It is easy to assume your keyboard to be malfunctioning when it starts acting up and activates shortcuts or open applications instead of typing letters. However, in most instances, it is due to accidentally activating the shortcut function or a hotkey software working in the background.
@@ -160,11 +161,30 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Fortunately, fixing this problem is easy. Here we show you what to do when your keyboard opens random applications and shortcuts when pressing any key.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>[New] In 2024, The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-revolutionize-your-posts-best-igtv-edits-unveiled-for-2024/"><u>[New] Revolutionize Your Posts Best IGTV Edits Unveiled for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>2024 Approved Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-0x0000004e-on-windows-11-pc/"><u>Disabling Error 0X0000004E on Windows 11 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-logitech-speaker-drivers-for-windows-operating-system-v11v7v8/"><u>Get the Newest Logitech Speaker Drivers for Windows Operating System: V11/V7/V8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>In 2024, Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-on-free-android-16-expected-launch-cost-estimates-specifications-and-latest-speculations/"><u>Insights on Free Android 16: Expected Launch, Cost Estimates, Specifications, and Latest Speculations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-cursor-alteration-in-microsoft-systems/"><u>Navigating Through Cursor Alteration in Microsoft Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-volume-settings-quickly/"><u>Navigating Windows 11 Volume Settings Quickly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-curtailing-random-terminal-triggering/"><u>Strategies for Curtailing Random Terminal Triggering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-workflow-icon-insertion-into-win11s-context-menu/"><u>Streamlining Workflow: Icon Insertion Into Win11's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-for-overcoming-windowss-fatal-pink-screen/"><u>Unlocking Solutions for Overcoming WINDOWS's Fatal Pink Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-woes-recover-your-ga47-copilot/"><u>Windows 11 Woes: Recover Your GA47 Copilot</u></a></li>
+</ul></div>
+

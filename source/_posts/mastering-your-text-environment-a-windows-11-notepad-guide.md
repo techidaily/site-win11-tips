@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Text Environment: A Windows 11 Notepad Guide"
-date: 2024-08-16T02:33:12.808Z
-updated: 2024-08-17T02:33:12.808Z
+date: 2024-12-30T08:43:06.835Z
+updated: 2025-01-05T16:50:15.635Z
 tags:
   - windows10
   - windows11
@@ -28,38 +28,38 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 2. Tap on the**Settings** gear wheel icon on the top right.  
 ![Windows 11 Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows11-notepad.jpg)
 3. In the**Settings** page, tap on**the App theme** to expand the setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You'll see the**Light** ,**Dark** , or**Use system setting** options to set as the Notepad**App theme** . Choose and select the one you like.  
 ![App Theme Settings in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notepad-app-theme-settings-1.jpg)
 5. If you choose the**Use system setting** , the theme you have set for Windows will reflect in the Notepad. You'll see the theme's colors across the various areas of the Notepad.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad With Colors of a System Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-theme-in-notepad.jpg)  
  So you can enjoy the colors of a Windows 11 theme or even a favorite movie theme you download while you work on the Notepad. Also, if the system theme you have chosen is in Dark Mode, you can change the Notepad theme to Light mode while enjoying the system theme colors.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Choose Your Preferred Font for Notepad
 
  You can access the Notepad Font settings from the Edit menu or the Settings page.
 
 1. In**Notepad,** click the**Edit** button and choose**Font** from the menu. You directly get to the**Font** settings. Or click on the**Settings** icon on the top right. In the**Settings** page, click**Font** to expand the font settings.  
 ![Use Edit Menu or Settings Icon for Font Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-edit-or-settings-icons.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Select a font by clicking on**Family** . The available fonts will appear in a dropdown list. Choose any font you prefer, like**Candara** , as in the screenshot below. At the bottom of the page, the font of the sentence:**The sound of the ocean waves calms my soul.** will change to your chosen font—you can preview a font before selecting it.  
 ![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Then select the font**Style** , whether light, dark, or italicized, and set the font**Size** .
 
 Once set, enjoy using Notepad with your preferred font.
@@ -67,25 +67,18 @@ Once set, enjoy using Notepad with your preferred font.
  If you ever have problems opening Notepad, check out[how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy the Windows 11 Notepad With New Themes
 
  If you like using Notepad for its simplicity and uncluttered appeal, the experience of its new settings and themes will undoubtedly make your experience even better. Try it out and enjoy.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +87,18 @@ Once set, enjoy using Notepad with your preferred font.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tagging-and-title-strategies-for-youtube-success-stories/"><u>[New] In 2024, Tagging and Title Strategies for YouTube Success Stories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-achieving-high-res-on-twitter-vids-for-2024/"><u>[Updated] Achieving High-Res on Twitter Vids for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-troubleshooting-resolving-mac-and-windows-issues-with-non-playable-dvds/"><u>1. Troubleshooting: Resolving Mac and Windows Issues with Non-Playable DVDs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-panoramic-capture-models/"><u>2024 Approved Top 5 Panoramic Capture Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-configuring-dns-on-windows-11/"><u>Cutting-Edge Techniques for Configuring DNS on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-nightshade-can-shield-your-creations-from-machine-learning-infringement/"><u>How Nightshade Can Shield Your Creations From Machine Learning Infringement</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c02-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-issues-swiftly-with-expert-insights/"><u>Resolve Windows Issues Swiftly with Expert Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/savvy-buyers-unlocking-cost-effective-windows-10-deals/"><u>Savvy Buyers: Unlocking Cost-Effective Windows 10 Deals</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/schnelle-und-praktische-anleitung-zur-reparatur-ihrer-fh-dateien-ein-umfassender-leitfaden/"><u>Schnelle Und Praktische Anleitung Zur Reparatur Ihrer FH-Dateien: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-unlock-word-meanings-in-win11/"><u>Swift Steps to Unlock Word Meanings in Win11</u></a></li>
+</ul></div>
 

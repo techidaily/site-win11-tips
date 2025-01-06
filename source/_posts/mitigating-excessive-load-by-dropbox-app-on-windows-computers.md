@@ -1,7 +1,7 @@
 ---
 title: Mitigating Excessive Load by Dropbox App on Windows Computers
-date: 2024-08-08T11:10:33.699Z
-updated: 2024-08-09T11:10:33.699Z
+date: 2024-12-31T10:11:44.161Z
+updated: 2025-01-05T23:53:20.991Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
  Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use Dropbox's Selective Sync Feature
 
  If Dropbox is asked to synchronize a large number of files simultaneously, it can consume a high amount of your CPU's resources. To fix this problem, you can use the Dropbox Selective Sync feature.
@@ -35,36 +36,18 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 2. Click your profile icon in the top right corner and choose **Preferences** from the menu that crops up.  
 ![Preferences option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/preferences.jpg)
 3. Switch to the **Sync** tab and click the **Select** **folder** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Select folder option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder.jpg)
 4. Uncheck all folders you want to remove from your computer and move them to your Dropbox account.
 5. Click the **Update** button.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-option.jpg)
 
  Now, open the Task Manager (see how to [launch Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/)) and check the CPU consumption of Dropbox.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 2\. Temporarily Disable Any Active Security Program
 
  The security app on your PC ensures the safety of your computer against both online and offline threats. However, there are instances where a security program can make changes to the Dropbox folder, which, in turn, causes Dropbox to consider these tweaks as edits.
@@ -77,6 +60,10 @@ Key features:
 
 ![End Task option in Task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Oftentimes, similar applications, like Google Drive or OneDrive, can interfere with Dropbox, leading to excessive CPU resource consumption. You can fix this by [closing all conflicting applications in the background on Windows](https://www.makeuseof.com/windows-11-disable-background-apps/).
 
  Afterward, check if there is a decrease in CPU usage by Dropbox.
@@ -85,27 +72,27 @@ Key features:
 
  In order to use the syncing feature of Dropbox, your computer must have a file system that supports extended attributes. If this feature is absent, Dropbox will persistently encounter sync failures, resulting in increased CPU usage. To resolve this issue, relocate your Dropbox folder to a hard drive [formatted with the NTFS file system](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Reinstall Dropbox
 
 ![Dropbox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are still facing the problem, it is likely related to an issue with the Dropbox installation files. In such cases, the best solution is to reinstall Dropbox.
 
  To do that, first [uninstall the application](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) and then restart your computer. Next, visit the [official Dropbox website](https://www.dropbox.com/desktop) and download the installer. Once downloaded, install Dropbox on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Dropbox's High CPU Usage on Windows
 
  It’s common for programs to consume a lot of resources, and Dropbox is no different. Whenever Dropbox consumes high CPU resources, you will notice freezing issues on your computer. It can also cause syncing failure between devices. Fortunately, you can quickly fix Dropbox's high CPU usage issue using the above solutions.
 
  Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +100,23 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[New] In 2024, Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[Updated] 2024 Approved Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-commanding-delivery-analysis-update-v8/"><u>[Updated] 2024 Approved Commanding Delivery Analysis Update V8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-metadata-the-power-of-accurate-video-tags-for-2024/"><u>[Updated] Mastering Metadata The Power of Accurate Video Tags for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-through-photos-app-issues-in-windows-11/"><u>2024 Approved Navigating Through Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288941404-dvd/"><u>無料ダウンロードキット：DVDコンテンツを携帯デバイスに保存する方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-the-newest-titans-apple-iphone-15-pro-versus-pro-max/"><u>Comparing the Newest Titans: Apple iPhone 15 Pro versus Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-spec-failure-marker-windows-11/"><u>Eliminate Spec Failure Marker Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-yuva-2-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-and-customize-your-touch-panels-start-position/"><u>How to Reset and Customize Your Touch Panel's Start Position</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-90-gt-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor 90 GT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-uac-screenshots-on-pc/"><u>Mastering UAC Screenshots on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-indicators-that-make-windows-10-the-smart-choice-over-win11/"><u>Seven Indicators That Make Windows 10 the Smart Choice over Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-game-capture-failures-due-to-low-pc-specs/"><u>Solving Game Capture Failures Due to Low PC Specs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-simplified-six-ways-to-boost-into-windows-11s-safe-mode/"><u>Troubleshooting Simplified: Six Ways to Boost Into Windows 11'S Safe Mode</u></a></li>
+</ul></div>
+

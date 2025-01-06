@@ -1,7 +1,7 @@
 ---
 title: Tactics to Conceal/Reveal Windows Security Zones
-date: 2024-08-16T02:34:27.618Z
-updated: 2024-08-17T02:34:27.618Z
+date: 2025-01-02T03:55:38.480Z
+updated: 2025-01-06T01:48:56.961Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  In this article, we'll see how you can hide or show the Firewall & Network protection settings area in Windows Security.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why It's Important to Hide the Firewall & Network Area in Windows Security
 
 [Windows Security](https://www.makeuseof.com/windows-11-quick-security-guide/) is your one-stop security center to protect your personal data and network settings. It is divided into different security sections for better and faster security management.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  Therefore, keeping this area hidden is important, especially if you share your computer with someone else. You must be signed in as an administrator if you want to hide the Firewall & Network area, so check out[how to enable or disable the built-in administrator account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) on Windows if you need to turn it on.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Hide or Show Firewall & Network Area in Windows Security Using the Local Group Policy Editor
 
  The Local Group Policy Editor is a utility using which you can manage parts of Windows, enforce specific policies, and automate repetitive tasks like mapping printers. This utility is reserved for the Professional, Enterprise, and Education editions of Windows. Thus, if you are using the Home edition, check out our guide on how to[access the group policy editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
@@ -43,37 +48,38 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `Computer Configuration > Administrative Templates > Windows Components > Windows Security > Firewall and network protection`
 4. Double-click the**Hide the Firewall and network protection area** to open its edit window.  
 ![Hide the Firewall and network protection area in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-the-firewall-and-network-protection-area.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Select the**Enabled** option.  
-![Enabled Option in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enabled-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enabled Option in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enabled-option.jpg)
 6. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
 
  If you want to unhide the Firewall & Network area, open the Local Group Policy Editor again and repeat the above steps. At the very end, select the**Disabled** option and then save the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Your Network Settings Safe and Secure
 
  It's very important to hide the Firewall & Network protection area if you don't want others to view or change the important settings of your computer. You disable this area using the Local Group Policy Editor, as mentioned above.
 
  Meanwhile, you might be interested to know different ways to open the Windows Security app.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -82,4 +88,23 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-stream-start-small-see-big-on-youtube/"><u>[New] 2024 Approved Earning Stream Start Small, See Big on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-image-illumination-incor-writings-on-visual-canvases-online-for-2024/"><u>[New] Image Illumination Incor Writings on Visual Canvases Online for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-improve-aesthetics-techniques-for-instagram-video-borders/"><u>[New] Improve Aesthetics Techniques for Instagram Video Borders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-filmmaking-foundations-understanding-screenplays/"><u>[New] In 2024, Filmmaking Foundations Understanding Screenplays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-the-invalid-captcha-obstacle-in-steam/"><u>Defeating the 'Invalid CAPTCHA' Obstacle in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-x50-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor X50 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-error-no-qt-platform-engine-available-for-startup/"><u>Handling Error: No Qt Platform Engine Available for Startup</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-g2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo G2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-key-strategies-for-adding-timestamps-in-youtube-content/"><u>In 2024, Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-upcoming-playstation-5s-release-timing-cost-analysis-news-highlights-and-hardware-features/"><u>Inside the Upcoming PlayStation 5S: Release Timing, Cost Analysis, News Highlights, and Hardware Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-extra-wires-just-joy-link-ps3-to-your-pc/"><u>No Extra Wires, Just Joy: Link PS3 to Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-your-customized-powertoys-setup/"><u>Syncing Your Customized PowerToys Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-flawed-windows-email-rule-configurations/"><u>Troubleshooting Flawed Windows Email Rule Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-login-woes-a-comprehensive-solution/"><u>Windows 11 Login Woes: A Comprehensive Solution</u></a></li>
+</ul></div>
 

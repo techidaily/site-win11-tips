@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blocked Logins in Windows
-date: 2024-12-24T16:54:40.518Z
-updated: 2024-12-27T22:54:14.820Z
+date: 2024-12-29T20:09:59.965Z
+updated: 2025-01-06T00:14:24.089Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -65,6 +61,11 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 2. Next, click the **Reset password** option.  
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
@@ -79,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  Once you can sign in, follow these steps to check your account status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
@@ -112,6 +113,11 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
 'takeown /f C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC /r /d y'  
@@ -149,7 +155,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
@@ -168,15 +174,11 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -201,24 +203,14 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xploring-the-depths-of-asmr-content/"><u>[New] Exploring the Depths of ASMR Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-all-about-dji-inspire-2-today/"><u>[New] Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-transformation-of-windows-10-landscape/"><u>[Updated] 2024 Approved The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-detailed-look-at-artificial-intelligence-prompting-careers-prosperity-and-growth/"><u>A Detailed Look at Artificial Intelligence Prompting Careers: Prosperity & Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-boot-ready-windows-11-usb-best-practices-in-three-ways/"><u>Crafting a Boot-Ready Windows 11 USB: Best Practices in Three Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-pause-window-solutions-for-slow-gpsvc/"><u>Dissecting the Pause Window: Solutions for Slow GPSVC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-workspace-switch-to-smart-windows-layouts/"><u>Enhance Your Workspace: Switch to Smart Windows Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-managing-windows-fn-key/"><u>Expert Strategies for Managing Windows' Fn Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-display-driver-error-on-windows-11-systems/"><u>Fixing 'Display Driver Error' On Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-back-lost-file-images-in-windows-11/"><u>How to Get Back Lost File Images in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-12-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus 12 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-uncover-all-that-you-need-to-know-about-netflix-services/"><u>Inside Scoop: Uncover All That You Need To Know About Netflix Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-scaling-hurdles-on-windows-devices/"><u>Navigating High-DPI Scaling Hurdles on Windows Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722902817028-postpartum-care-following-a-uterine-rupture-is-critical-to-monitor-for-complications-such-as-hemorrhage-infection-or-impact-on-future-fertility/"><u>Postpartum Care Following a Uterine Rupture Is Critical to Monitor for Complications Such as Hemorrhage, Infection, or Impact on Future Fertility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-windows-11s-unresponsive-display-brightness-controls/"><u>Repairing Windows 11'S Unresponsive Display Brightness Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-system-maintenance-with-terminal-commands/"><u>Secure System Maintenance with Terminal Commands</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/swf-3gp-online/"><u>SWF 및 3GP 파일 무료 원격 전환 - Online 쉘</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-excels-true-potential-with-these-3-ai-innovations/"><u>Unlocking Excel's True Potential with These 3 AI Innovations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-audio-designers-for-iphone-ringtones/"><u>[New] Leading Audio Designers for iPhone Ringtones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-7-stardew-valley-enhancements-for-ultimate-farming-bliss-for-2024/"><u>[New] Top 7 Stardew Valley Enhancements for Ultimate Farming Bliss for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>[Updated] Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-regain-onedrive-entry-points-in-windows/"><u>Effortlessly Regain OneDrive Entry Points in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-facebook-profile-with-these-11-superior-tools-for-2024/"><u>Elevate Your Facebook Profile with These 11 Superior Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-self-closure-in-windows-os/"><u>Eliminating Self-Closure in Windows OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-designing-effective-lower-thirds-in-final-cut-pro-x-for-2024/"><u>New Designing Effective Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-to-win-11-with-confident-system-setup/"><u>Transitioning to Win 11 with Confident System Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-winexe-creation-from-batch-scripts/"><u>Unveiling WinEXE Creation From Batch Scripts</u></a></li>
 </ul></div>
 

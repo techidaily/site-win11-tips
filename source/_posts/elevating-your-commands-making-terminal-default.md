@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Commands: Making Terminal Default"
-date: 2024-08-08T11:13:27.855Z
-updated: 2024-08-09T11:13:27.855Z
+date: 2024-12-30T19:47:33.394Z
+updated: 2025-01-06T00:02:15.251Z
 tags:
   - windows10
   - windows11
@@ -33,23 +33,28 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
  Now that we know all its advantages, let’s check out how to make Windows Terminal your default terminal app.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Settings
 
  The quickest way to make Windows Terminal your default app to make command-line operations is through the Windows Settings app. Here are the steps to do that:
 
 1. Press the **Win + I** hotkey to launch the **Settings** **app**.
 2. Choose **System** from the left sidebar and choose the **For developers** option in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![For developers option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/for-developers-option.jpg)
 3. Click the **drop-down icon** next to the **Terminal** option and choose **Windows Terminal** from the menu that appears.  
 ![Windows Terminal option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that’s about it. Now, whenever you try to open a command-line program, it will be launched through the Windows Terminal app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Terminal Settings
 
@@ -57,17 +62,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Press the **Win** key to open the **Start Menu**, type **Terminal** in the search bar, and press Enter.
 2. Click the **drop-down icon** next to the **plus icon** and choose **Settings** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings option in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option-1.jpg)
 3. Choose **Startup** from the left sidebar, click the **drop-down icon** next to the **Default** **terminal** **application**, and choose **Windows** **Terminal** from the menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
 4. Click the **Save** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Set Windows Terminal as Your Default Terminal App by Editing the Command Prompt Properties
 
  The Command Prompt properties window lets you configure various Command Prompt features. Within this window, you can personalize the layout, colors, font, and more.
@@ -76,15 +80,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Open the **Start Menu**, type **Command** **Prompt** in the search bar, and choose **Run as administrator** from the right pane.
 2. Right-click on the **Command** **Prompt** title bar and choose **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Properties option in Comman Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option-1.jpg)
 3. Switch to the **Terminal tab**.
-4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
 ![Default Terminal Application drop-down menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-terminal-application-drop-down-menu.jpg)
 5. Click **OK** to save the changes.
 
@@ -94,11 +97,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/aunchpad-gear-your-youtube-channels-first-steps-for-2024/"><u>[New] Launchpad Gear Your YouTube Channel's First Steps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-free-live-streaming-software-and-app-for-all-platforms-2023-list/"><u>[Updated] In 2024, Best Free Live Streaming Software and App for All Platforms [2023 List]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyys-advanced-telemetry-pioneering-smart-strategies-in-the-digital-era-of-medical-care/"><u>Abbyy's Advanced Telemetry: Pioneering Smart Strategies in the Digital Era of Medical Care</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-click-no-open-folders/"><u>Eliminating Windows 10/11 Click No-Open Folders</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/facebooklinkedinxingyoutube/"><u>FacebookLinkedInxingYouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-steps-to-overhaul-firewall-settings-on-windows/"><u>Five Steps to Overhaul Firewall Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eliminate-frustrating-windows-bsod-instances/"><u>How to Eliminate Frustrating Windows BSOD Instances</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-markedly-improves-on-user-repairability-apple-reveals-comparisons-with-previous-models-zdnet/"><u>IPhone 16 Markedly Improves on User Repairability, Apple Reveals Comparisons with Previous Models - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-the-top-10-essential-store-titles/"><u>Mastering Microsoft: The Top 10 Essential Store Titles</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/msipc/"><u>MSIノートPCリセット手順ベストテン - 効率よく初期化</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-1011-directdraw-fails-a-compreenas-guide/"><u>Navigating Windows 10/11 DirectDraw Fails: A Compreenas Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728474096323-pc/"><u>PCやスマホ用: セキュリティを保ちながらデータの自動バックアップ方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-and-validating-windows-11-with-activation-methods/"><u>Securing and Validating Windows 11 with Activation Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-guide-to-amazons-latest-fire-hd-8-tab-is-it-a-smart-buy-for-beginners/"><u>The Complete Guide to Amazon's Latest Fire HD 8 Tab - Is It a Smart Buy for Beginners?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zombie-army-s-game-crashes-for-pc-players/"><u>Troubleshooting Zombie Army S Game Crashes for PC Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-productivity-with-these-key-win-11-widgets/"><u>Unleash the Power of Productivity with These Key Win 11 Widgets</u></a></li>
+</ul></div>
+

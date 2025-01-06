@@ -1,7 +1,7 @@
 ---
 title: Solutions for a Nonresponsive Discord Overlay Window on Windows
-date: 2024-08-16T02:33:15.052Z
-updated: 2024-08-17T02:33:15.052Z
+date: 2025-01-03T22:17:29.837Z
+updated: 2025-01-05T22:57:53.006Z
 tags:
   - windows10
   - windows11
@@ -34,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  If none of the above checks fixes the problem, proceed to the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check for Incorrect Discord Settings
 
  For Discord overlay to work correctly, you must ensure three things: the overlay feature is enabled in Discord, the game you're playing is added to Discord's registered games list, and the overlay setting for that game is not disabled. Therefore, ensure the basic overlay setup isn't misconfigured before going through the rest of the fixes.
@@ -45,15 +46,27 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 1. Launch Discord.
 2. Click on the **gear icon (User Settings)** in the bottom left corner.  
 ![Go to Discord User Settings at the Bottom Left Corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-go-to-discord-user-settings-at-the-bottom-left-corner.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. Click on **Game Overlay** under **Activity Settings**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Ensure that the toggle next to **Enable in-game overlay** is turned on. If it is off, turn it back on.  
 ![Turn On the Toggle Next to Enable in-game Overlay Option in Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-turn-on-the-toggle-next-to-enable-in-game-overlay-option-in-discord-s-game-overlay-settings.jpg)
 5. After that, navigate to the **Registered Games** tab and see whether the game you're playing is listed under **Added Games**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Ensure the Game is Listed in the Added Games Section of the Registered Games Tab in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-ensure-the-game-is-listed-in-the-added-games-section-of-the-registered-games-tab-in-discord-settings.jpg)
 6. If the game is already added there, skip this step. If it isn't added, run the game again while Discord is open, and the app will automatically recognize it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If Discord fails to detect the game automatically, click **Add it!**, select the game from the dropdown, and click **Add Game**.  
 ![Click on Add It And Select the Game From the Dropdown Menu in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-click-on-add-game-button-and-select-the-game-from-the-dropdown-menu-in-discord-settings.jpg)
 8. Upon seeing the game in the **Added Games** list, turn on its overlay. You can do that by clicking the **monitor icon** next to the game.  
@@ -61,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  If any of the above settings weren't configured correctly, configuring them properly will resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 3\. Change the Hotkey for Discord Overlay
 
  You need to press a particular hotkey to activate the Discord overlay feature while gaming, which is **CTRL+'** by default. If you are pressing this hotkey and it fails to work, ensure you or someone you share the Discord account with hasn't changed it.
@@ -71,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  To see that, launch Discord, go to **User Settings**, and navigate to **Game Overlay**. Here you can see the assigned hotkey under **Toggle Overlay Lock**.
 
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the hotkey differs from what you pressed earlier, try pressing the correct key combinations. However, if you are pressing the correct hotkey, but it isn't working, you should change it; click on the already set hotkey and press the different combination of keys.
 
@@ -83,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  To change the display settings in Windows 11, open the **Settings** app and navigate to **System** \> **Display**. Then, select the recommended scale next to the **Scale** dropdown.
 
 ![Select the Recommended Scale Next to the Scale Dropdown in Display Settings of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-select-the-recommended-scale-next-to-the-scale-dropdown-in-display-settings-of-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you're running Windows 10, check out our guide on [how to configure display scaling](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) to select the recommended scale. The recommended scale percentage can vary depending on the screen size and resolution; select the one Windows suggests.
 
@@ -96,13 +107,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  To disable hardware acceleration, launch Discord, open **User Settings**, select **Advanced** under **App Settings**, and toggle **Hardware Acceleration** off.
 
 ![Turn Off the Toggle Next to Hardware Acceleration in Advanced Tab of App Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-turn-off-the-toggle-next-to-hardware-acceleration-in-advanced-tab-of-app-settings-in-discord.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Reset the Overlay Position
 
  If none of the above fixes work, reset the overlay position. This step will ensure that the overlay hasn't been pushed off-screen when you scaled the display.
@@ -118,8 +123,9 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
 5. Then, simply press **CTRL+S** to save the document and close the file.  
 ![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the developer tools have been enabled, follow these steps:
@@ -133,23 +139,19 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 5. Look for the **"OverlayStoreV2"** or **"OverlayStore"** keys. Most likely, you will find only one of these keys.
 6. Right-click the key and select **Delete.**  
 ![Delete the OverlayStore Key by Right-clicking on It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-delete-the-overlaystore-key-by-right-clicking-on-it.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 7. Then, restart Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, the overlay position will be reset, and the overlay will begin working correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Discord Overlay Back on Track
 
  When the Discord overlay fails to show up during gameplay, we are forced to minimize the game to view texts, respond to calls, or do anything else on Discord. We've shown you what causes the feature to stop working and what fixes you can apply to resolve it. If the issue persists for too long, reach out to Discord support.
 
  If you are unable to enable the Discord overlay while playing the game, here are some checks and fixes that may assist you in resolving the issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +159,20 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>[New] 2024 Approved Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digging-into-discarded-dittos-art-exploration-tips-for-2024/"><u>[New] Digging Into Discarded Dittos Art Exploration Tips for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-locking-text-files-behind-strong-passwords/"><u>Comprehensive Tutorial on Locking Text Files Behind Strong Passwords</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/generating-ai-visuals-using-paint-cocreator-windows-edition/"><u>Generating AI Visuals Using Paint Cocreator - Windows Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identify-and-fix-the-reasons-behind-a-disturbingly-louder-than-normal-pc-fan-sound/"><u>Identify and Fix the Reasons Behind a Disturbingly Louder-than-Normal PC Fan Sound</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y36-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y36 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-surface-overcoming-the-plugged-in-not-charging-dilemnma-easily/"><u>Microsoft Surface: Overcoming the 'Plugged in, Not Charging' Dilemnma Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-processor-generations-8-strategies-for-windows-users/"><u>Navigating Processor Generations: 8 Strategies for Windows Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>New In 2024, The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-lost-upgrades-in-windows-11-fix-for-missing-tab/"><u>Revive Lost Upgrades in Windows 11 - Fix for Missing Tab</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-efficiently-removing-steam-dns-information/"><u>Tips for Efficiently Removing Steam DNS Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-tecno-spark-go-2024-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Tecno Spark Go (2024) Phone With/Without IMEI Number</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2024-12-22T22:15:42.709Z
-updated: 2024-12-27T16:32:15.414Z
+date: 2025-01-05T08:45:00.690Z
+updated: 2025-01-06T02:08:13.685Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,11 @@ Follow the sets below to enable network discovery on Windows:
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
@@ -70,15 +66,21 @@ Here's what you need to do to use File Explorer for mapping:
 2. Right-click on**This PC** and select the**Map network drive...** button in the context menu that appears.  
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
-6. Click**Finish** to complete the mapping process.  
-![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click**Finish** to complete the mapping process.  
+![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
@@ -117,14 +119,10 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
 
@@ -136,6 +134,10 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 2. Right-click on**Network** in the left pane and choose**Disconnect network drive** from the context menu.  
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
@@ -160,18 +162,17 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-leading-5-hd-cameras-to-enhance-your-twitch-experience/"><u>[New] Leading 5 HD Cameras to Enhance Your Twitch Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-an-all-inclusive-examination-of-inshots-video-edits/"><u>[Updated] An All-Inclusive Examination of InShot's Video Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-basic-gamers-guide-to-outstanding-video-editing-software/"><u>[Updated] In 2024, Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726222251707-wmvaac-movavi/"><u>免費移動網站 WMV到AAC 格式 - 使用 Movavi 視頻編解碼器</u></a></li>
-<li><a href="https://fox-info.techidaily.com/engineering-engrossing-movie-excerpts-for-2024/"><u>Engineering Engrossing Movie Excerpts for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/essential-guide-safeguarding-your-mbr-on-windows-operating-systems-like-windows-10-8-and-7/"><u>Essential Guide: Safeguarding Your MBR on Windows Operating Systems Like Windows 10, 8 and 7</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-emoji-15-on-windows-11-effortlessly/"><u>Leveraging Emoji 15 on Windows 11 Effortlessly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-non-functional-usb-ports-on-your-pc/"><u>Repairing Non-Functional USB Ports on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-text-editor-experience-7-troubleshooting-tips-for-windows/"><u>Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-app-removal-from-windows-11-os/"><u>The Art of App Removal From Windows 11 OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722867866396-upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-boredom-to-chuckles-generating-funny-memes/"><u>[New] From Boredom to Chuckles Generating Funny Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[New] Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-survey-unique-categories-in-visual-media-equipment/"><u>[Updated] Survey Unique Categories in Visual Media Equipment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>From Script to Screen Mastery Through Vida’ Writers Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-google-pixel-7a-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Google Pixel 7a Without PUK Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 12+ 5G?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>New Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-to-combat-windows-1011-error-740/"><u>Swift Strategies to Combat Windows 10/11 Error 740</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Regain Control Over Your Text Editor: Fixing Windows Notepad Open Issues"
-date: 2024-08-16T02:34:59.500Z
-updated: 2024-08-17T02:34:59.500Z
+date: 2024-12-31T01:27:59.915Z
+updated: 2025-01-06T00:29:10.251Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -45,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 6. Type**.txt** in the search box and click the current default app.
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try opening a few text files and see if they open in Notepad.
 
@@ -60,9 +65,6 @@ To repair the Notepad app on Windows:
 4. Click the**three-dot menu icon** next to Notepad and select**Advanced options** .
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
@@ -74,9 +76,6 @@ To repair the Notepad app on Windows:
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -93,11 +92,16 @@ To repair the Notepad app on Windows:
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the SFC and DISM Scans
 
  Corrupted system files could also interfere with system processes and prevent Notepad from opening. The System File Checker (SFC) is a built-in utility that can help you repair system files on Windows. It basically scans your system for damaged system files and replaces them with their cached versions.
@@ -115,9 +119,6 @@ To run the SFC scan on Windows:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the scan is complete, restart your PC and see if you can access Notepad.
 
@@ -138,26 +139,24 @@ To create a new user account on Windows:
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Start Using Notepad Again
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +165,26 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-fresh-start-trio-of-windows-reboot-tactics/"><u>Crafting a Fresh Start: Trio of Windows Reboot Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-ai-communication-transforming-chatgpt-into-a-digital-doppelganger-of-your-writing-style/"><u>Customizing AI Communication: Transforming ChatGPT Into a Digital Doppelganger of Your Writing Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-win11win10-understanding-and-resolving-the-d3d11-glitch/"><u>Easing Into Win11/Win10: Understanding and Resolving the D3D11 Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-disk-space-efficiency-with-auto-delete-on-windows-11/"><u>Enhance Disk Space Efficiency with Auto Delete on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-boltgun-performance-overcoming-pc-delays-in-warhammer-40k/"><u>Enhancing Boltgun Performance: Overcoming PC Delays in Warhammer 40K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-copy-and-paste-in-windows-11/"><u>Enhancing Efficiency of Copy and Paste in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-xiaomi-redmi-12-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Xiaomi Redmi 12</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y27-4g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y27 4G Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-making-your-slides-come-alive-with-youtube-in-ppt/"><u>In 2024, Making Your Slides Come Alive with YouTube in PPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-hashtags-for-six-figure-youtube-growth/"><u>In 2024, Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inventory-a-multitude-of-video-recorders-for-2024/"><u>Inventory A Multitude of Video Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-control-illuminated-areas-on-windows-11/"><u>Learn to Control Illuminated Areas on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>New Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pathways-for-perusing-and-purging-activity-in-windows-11/"><u>Pathways for Perusing & Purging Activity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-startup-routine-launching-sticky-notes-as-first-app-in-windows/"><u>Pro Startup Routine: Launching Sticky Notes as First App in Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/slide-swivel-and-shift-the-instagram-way-to-rotating-images-with-finesse/"><u>Slide, Swivel and Shift The Instagram Way to Rotating Images with Finesse</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-directx-setup-failures/"><u>Troubleshooting DirectX Setup Failures</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-truth-why-did-major-apps-crash/"><u>Unveiling the Truth: Why Did Major Apps Crash?</u></a></li>
+</ul></div>
 

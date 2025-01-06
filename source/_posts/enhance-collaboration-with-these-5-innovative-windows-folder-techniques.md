@@ -1,7 +1,7 @@
 ---
 title: Enhance Collaboration with These 5 Innovative Windows Folder Techniques
-date: 2024-08-08T11:11:45.252Z
-updated: 2024-08-09T11:11:45.252Z
+date: 2025-01-01T19:41:39.501Z
+updated: 2025-01-05T21:28:07.196Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 1\. Create an Invisible Secret Folder
 
  Create a folder faster through this shortcut: press and hold the **Ctrl + Shift** keys together on your keyboard and then press the **N** key. You can then name the folder.
@@ -34,20 +31,15 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![Folder on Desktop With Name Field Invisible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/name-field-of-folder-invisible-1.jpg)
 3. Then make the folder invisible too. **Right-click** the folder and choose **Properties** from the menu.
 4. In **Properties**, select the **Customize** tab. Then under **Folder icons**, select **Change icon**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Select Change Icon In Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-icon-in-customize-tab.jpg)
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Blank Space Selected As Folder Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-blank-space-as-folder-icon.jpg)
 6. Back in the **Customize** tab, you will see no icon under **Folder icon**. Click **Apply** and then **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Folder Icon Not Visible in Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-icon-not-visible.jpg)
 
  You will see that the default yellow folder icon has become invisible. Without selecting it, no one can see it. Only you know it is there.
@@ -59,8 +51,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  And if you want to name it, right-click the folder and select **Rename** to make the name field visible.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rename Multiple Folders Together
 
  You don't need to click each folder name field and type the names to name or rename multiple folders together. Use the following method that works well within a folder with subfolders or in File Explorer:
@@ -72,9 +65,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This way, you can name several folders together—quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -85,9 +75,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -96,8 +83,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Find Hidden Folders You Forgot About
 
  Your PC would have thousands of files and folders. And there may be times when you can't find some folders because you may have hidden them earlier and forgot about them.
@@ -109,8 +97,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
@@ -120,13 +117,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +133,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-mayhem-top-twenty-from-reddit-and-twitter/"><u>[New] Meme Mayhem Top Twenty From Reddit & Twitter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] In 2024, Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[Updated] Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-access-controls-for-standard-windows-users/"><u>Customizing Access Controls for Standard Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-digital-deceit-unmasking-fakes-in-windows-store-apps/"><u>Deciphering Digital Deceit: Unmasking Fakes in Windows Store Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-connectivity-issues-heres-how-to-fix-sound-not-working-from-your-computer-to-tvmonitor/"><u>HDMI Connectivity Issues? Here’s How to Fix Sound Not Working From Your Computer to TV/Monitor</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-tweet-talent-social-medias-10-gems/"><u>In 2024, Top Tweet Talent Social Media’s 10 Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-microsoft-store-fault-code-0x80073cf3-on-win11/"><u>Mending Microsoft Store Fault Code 0X80073cf3 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/patch-up-the-net-framework-on-windows-efficiently-max-156/"><u>Patch Up the .NET Framework on Windows Efficiently (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pivotal-points-a-roadmap-for-system-refreshment/"><u>Pivotal Points: A Roadmap for System Refreshment</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170557511-prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-rectify-device-not-found-in-virtualbox/"><u>Stepwise Approach to Rectify 'Device Not Found' In VirtualBox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-cost-no-problem-top-10-free-game-download-sites-for-pc-and-android-users/"><u>Updated In 2024, No Cost, No Problem Top 10 Free Game Download Sites for PC and Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-terminal-reboot-return-to-standard/"><u>Win11 Terminal Reboot: Return To Standard</u></a></li>
+</ul></div>
+

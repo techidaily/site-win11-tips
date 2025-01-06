@@ -1,7 +1,7 @@
 ---
 title: "Cutting Edge Comeback: Classics via DOSBox-X"
-date: 2024-12-23T23:13:57.509Z
-updated: 2024-12-27T16:25:40.703Z
+date: 2025-01-02T16:57:56.900Z
+updated: 2025-01-05T21:26:55.336Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  For this article, though, we'll stick to classic DOS games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install DOSBox-X
 
  DOSBox-X is free and available on Windows, Macs, and Linux. In this guide, we'll be using its Windows version.
@@ -43,16 +47,12 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOSBox-X executable in folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-executable-in-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the version you've downloaded, and if you installed or extracted it, you'll either find a shortcut to the DOSBox-X app in the **Windows Start menu**/your **Desktop**, or you'll have to visit its folder with your favorite file manager and double-click **dosbox-x.exe** to launch it.
 
  Keep that in mind, but don't launch the app yet - we first have to do some folder juggling.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Up Your Storage for DOSBox-X
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
 
 ![DOSBox-X Working Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-working-directory.jpg)
@@ -78,22 +82,30 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOSBox-X Creating DriveC Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-creating-drivec-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't close your file manager yet; now is a good time to "prepare" your games. If you have them in compressed archives, extract your games into individual folders within the **C**/**DriveC** folder.
 
 ![DOSBox-X DriveC Game Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-drivec-game-folders.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Setting Up the Directory
@@ -101,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Turn your attention to DOSBox-X's window. Choose its **Configuration tool** from the **Main** menu entry (or press **F11** \+ **C** on your keyboard).
 
 ![DOSBox-X Configuration Editor Menu Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-editor-menu-entry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Instead of manually mounting the folder you created every time you run DOSBox-X, let's have it always available automatically. For that, we'll have to do some classic AutoExec.BAT editing. Thus, choose the last option in the **Configuration Tool**'s panel, **AUTOEXEC.BAT**.
 
@@ -127,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Click **OK** to accept the changes and return to DOSBox-X's **Configuration Tool** panel. Choose **Render** to configure the way DOSBox-X shows graphics.
 
 ![DOSBox-X Configuration Tool Render Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-render-entry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To learn more about all available options, click DOSBox's **Help** button.
 
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOSBox-X Dir Virtual C Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-virtual-c-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Let's say you want to launch the classic shareware version of id's genre-defining Doom that you already have in your storage in a folder with the game's name.
 
  Type **cd doom** to "enter" the game's folder.
@@ -180,12 +180,16 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![DOSBox-X CD Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-cd-doom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **dir \*.bat** to check for any runnable batch files in the folder. You'll see two, **IAFIX.BAT** and **RUN.BAT**.
 
 ![DOSBox-X Dir Bat Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-bat-doom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can probably guess from its name, the second one is what you need to launch the game. So, type **run.bat** and press **Enter**.
 
@@ -198,10 +202,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![DOSBox-X Doom Running in Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-running-in-window.jpg)
 
  If manually juggling games in DOSBox-X seems like a hassle, maybe it would be worth checking out a front-end like Launchbox. We saw in the past how you can [import MS-DOS games into Launchbox](https://www.makeuseof.com/how-to-import-ms-dos-games-launchbox/), and after the front-end's initial setup, playing a game will be as easy as selecting it from its menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## DOS in a Box
 
@@ -221,17 +221,24 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-tv-deactivation-made-easy-for-2024/"><u>[New] Instagram TV Deactivation Made Easy for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>[Updated] Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-leading-6-social-sites-for-enterprise-communication/"><u>2024 Approved Leading 6 Social Sites for Enterprise Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-xr-vision-fix-beats-expensive-apple-equivalent-a-revolutionary-solution-showcased-on-zdnet/"><u>Affordable XR Vision Fix Beats Expensive Apple Equivalent – A Revolutionary Solution Showcased on ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digitizing-creativity-prime-nft-generating-platforms-revealed/"><u>Digitizing Creativity Prime NFT-Generating Platforms Revealed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortlessly-update-lenovo-t42et410t420-drivers-with-our-comprehensive-guide-for-windows-systems/"><u>Effortlessly Update Lenovo T42e/T410/T420 Drivers with Our Comprehensive Guide for Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fresh-windows-features-streamlined-directory-development/"><u>Fresh Windows Features: Streamlined Directory Development</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-access-errors/"><u>How to Resolve C: Windows system32 config systemprofile Desktop Access Errors</u></a></li>
-<li><a href="https://techidaily.com/maximizing-your-privacy-with-the-tor-browser-in-a-windows-11-environment/"><u>Maximizing Your Privacy with the Tor Browser in a Windows 11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-tutorial-for-analyzing-and-managing-windows-drive-space-with-diskusage/"><u>The Ultimate Tutorial for Analyzing and Managing Windows Drive Space with DiskUsage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlook-error-in-windows-environments/"><u>Troubleshooting Outlook Error in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-sticky-feature-universal-device-synergy/"><u>Windows 11'S Sticky Feature: Universal Device Synergy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[Updated] 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-hd-screenshots-for-mac-limit-156-chars/"><u>[Updated] 2024 Approved Essential HD Screenshots for Mac (Limit 156 Chars)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-fundamentals-of-lut-implementation-in-after-effects/"><u>2024 Approved The Fundamentals of LUT Implementation in After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-update-failure-fixing-error-0x80242016/"><u>Conquer Update Failure: Fixing Error 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-image-turns-6-techniques-for-w11-users/"><u>Effortless Image Turns: 6 Techniques for W11 Users</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhancing-visibility-with-cookiebot-technology-smart-seo-solutions/"><u>Enhancing Visibility with Cookiebot Technology - Smart SEO Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-users-with-non-opening-battlenet/"><u>Essential Tips for Windows Users With Non-Opening Battle.net</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ordinary-to-stunning-photo-tile-magic/"><u>In 2024, From Ordinary to Stunning Photo Tile Magic</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>In 2024, Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-comics-in-windows-11-the-essential-tutorial/"><u>Mastering Comics in Windows 11: The Essential Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/questioning-reality-my-odyssey-to-disable-app-guards-limitations/"><u>Questioning Reality: My Odyssey to Disable App Guard's Limitations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-your-computers-windows-services-manager-with-these-tips/"><u>Rehabilitating Your Computer's Windows Services Manager with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/six-sleek-steps-to-unearth-your-pcs-brand-and-name/"><u>Six Sleek Steps to Unearth Your PC’s Brand and Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-unwanted-yellow-shade-in-pc-monitors/"><u>Strategies for Removing Unwanted Yellow Shade in PC Monitors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-razr-40-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Razr 40 Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-windows-11-usability-integrating-an-augmented-run-toolkit/"><u>Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-wii-u-is-a-success/"><u>Why the Wii U Is a Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Sluggish Microsoft Edge on Windows 10/11
-date: 2024-08-16T02:32:56.869Z
-updated: 2024-08-17T02:32:56.869Z
+date: 2024-12-29T16:48:16.848Z
+updated: 2025-01-06T04:25:42.521Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
  Before doing any troubleshooting steps below, make sure that your internet connection works properly. Often, an intermittent connection can slow down your browser. If you’ve established that there are no network-related issues, you can proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 1\. Relaunch Microsoft Edge
 
  When we say relaunch, we don’t just mean close the browser and open it again. Most times, exiting a program doesn’t completely stop it from running. They’re just left running in the background. To ensure that the program is completely closed, you need to stop any processes related to it on your Task Manager. Here’s how:
@@ -35,19 +31,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press and hold **Ctrl** + **Shift** + **Esc** keys to open Task Manager.
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Launch Microsoft Edge and see if it works okay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update Edge
 
@@ -58,6 +50,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open Microsoft Edge and click the **three-dot** menufound on the right side of the screen. From this menu, click **Settings.**
 2. Once you're in Settings, select **About Microsoft Edge** from the left-side navigation. Then, install any available updates. If there’s none, proceed to the next fix.  
 ![Update Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-edge-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Disable the "Preload New Tab Page" Option
 
@@ -77,8 +77,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Change the Tracking Prevention Setting
 
  Microsoft Edge is big on privacy. That’s why it has a built-in feature that prevents companies from collecting your information when browsing. This feature comes in three different settings, and you can choose how you want to be protected.
@@ -107,18 +108,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. On the Settings page, click **Cookies and site permissions**.
 4. Next, click **Manage and delete cookies and site data**.
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Then, press **See all cookies and site data**.
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Check your browser and see if the issue persists.
 
 ### 7\. Disable Browser Extensions
@@ -128,16 +121,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Open the Edge browser and click the **three-dots** menu. Then click **Extensions**.
 2. From the Extensions page, manually disable all the extensions you have installed by switching the button off found on the right side of each extension.
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Flush Edge DNS
 
  To load faster, Microsoft Edge stores and uses data about the websites that you access in its DNS (or Domain Name Server). However, if it stores too much data or it somehow gets corrupted, it will slow down the browser.
@@ -148,16 +143,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Restart your browser and check if this solution improved its performance.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Repair Microsoft Edge
 
  Microsoft has incorporated a repair feature for some of Windows' built-in apps. And, fortunately, Edge is one of them. So, if you had no luck removing the browser cache or disabling the extension, you should [repair Microsoft Edge](https://www.makeuseof.com/windows-11-microsoft-edge-not-working-repair/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Better Browsing With Microsoft Edge
 
  Microsoft Edge has improved significantly since it was first introduced. That’s why more and more users are now using this app as their default browser. Like other browsers, it can sometimes experience issues that can affect your experience. However, don’t be discouraged. There are various fixes to different issues you encounter on Edge.
@@ -166,11 +155,33 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-20-best-anime-opening-songs-of-all-time-for-2024/"><u>[New] 20 Best Anime Opening Songs of All Time for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-close-up-power-in-videoleap-zooming-made-easy/"><u>[New] Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-10-boosters-for-multi-device-use-for-2024/"><u>[Updated] Essential 10 Boosters for Multi-Device Use for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cooling-strategies-for-your-windows-11-laptopdesktop/"><u>Cooling Strategies for Your Windows 11 Laptop/Desktop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-pixma-mx490-printer-drivers-on-windows/"><u>Download & Install Canon PIXMA MX490 Printer Drivers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-file-sharing-top-5-windows-software/"><u>Elevate Your File Sharing: Top 5 Windows Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-pc-knowledge-with-toms-hardware-expertise/"><u>Elevate Your PC Knowledge with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-workstation-game-flying-lotuss-revolutionary-portable-aio-setup-combines-traditional-laptops-and-modern-3d-printing/"><u>Elevate Your Workstation Game: Flying Lotus's Revolutionary Portable AIO Setup Combines Traditional Laptops and Modern 3D Printing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-when-it-keeps-opening-by-itself/"><u>How to Fix the Microsoft Store When It Keeps Opening by Itself</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>In 2024, Unlocking Secure Video Sharing YouTube to Gmail with Google Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initialize-your-system-setting-up-startup-programs-in-win11/"><u>Initialize Your System: Setting Up Startup Programs in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refining-the-look-of-windows-11s-basic-writing-tool/"><u>Refining the Look of Windows 11'S Basic Writing Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrovan-your-windows-11-search-with-these-advanced-techniques/"><u>Skyrovan Your Windows 11 Search with These Advanced Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-file-transfers-on-windows-11-networks-2/"><u>Unleashing File Transfers on Windows 11 Networks (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-rejuvenating-windows-11-diagnostics/"><u>Unleashing Potential: Rejuvenating Windows 11 Diagnostics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-top-7-thrilling-new-capabilities-of-bard-ai-showcased-at-google-io-2023/"><u>Unveiling Top 7 Thrilling New Capabilities of BARD AI Showcased at Google I/O 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-and-nvidia-tackling-gl-error-3-head-on/"><u>Win11 & NVIDIA: Tackling GL Error 3 Head-On</u></a></li>
+</ul></div>
+

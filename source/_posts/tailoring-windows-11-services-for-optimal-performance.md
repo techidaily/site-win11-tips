@@ -1,7 +1,7 @@
 ---
 title: Tailoring Windows 11 Services for Optimal Performance
-date: 2024-12-26T16:50:28.371Z
-updated: 2024-12-27T17:16:17.856Z
+date: 2024-12-30T19:19:00.086Z
+updated: 2025-01-05T21:28:32.826Z
 tags:
   - windows10
   - windows11
@@ -40,19 +40,15 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 ![Windows Services Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-context-menu.jpg)
 3. Find the **Startup type** dropdown menu, and select **Disabled**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Services Startup Type Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-startup-type-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you understand how to disable a service, the main question is, which Windows 11 services are safe to disable?
 
  For that, we've listed all the services below in alphabetical order. Make sure to read about each service before disabling it! If you mistakenly disable a service, you can re-enable it from the same **Properties** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. AllJoyn Router Service
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  If you don't prefer using or connecting smart devices like digital home security solutions, smart lights, or smart TVs with your Windows, there's no reason to keep this service enabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. AssignedAccessManager Service
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  The AssignedAccessManager service helps in setting up the kiosk mode. You may never need the kiosk mode if you don't use a public-facing computer. So, disable it using the steps outlined in the previous section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. BitLocker Drive Encryption Service
@@ -92,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![All Windows Bluetooth Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-bluetooth-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Connected User Experiences and Telemetry
 
  The Connected User Experiences and Telemetry service is responsible for sending your usage and diagnostic data to Microsoft servers. So, if this service is enabled on your computer, Microsoft may easily track the apps you use, the searches you make on the search bar, and more.
 
  Overall, no one enjoys being tracked, especially those who value privacy. Therefore, disable this service now to stop Microsoft from handling your user data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delivery Optimization
 
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  The Delivery Optimization service does precisely what its name suggests: it improves the download speed of Windows updates and Microsoft apps by sharing bandwidth with your nearby devices.
 
  Don't be too excited, as it only works in the case of a local network or deployment setup! If you're not part of any local network, disable the Delivery Optimization service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Diagnostic Services
 
@@ -123,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![All Windows Diagnostic Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-diagnostic-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Geolocation Service
 
  As its name suggests, this service provides location-related data to Windows apps when needed. You can disable your location data if you don't want to share it due to privacy concerns.
@@ -133,15 +137,15 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  The Netlogon service is only for domain networks. It means this service is only helpful in authenticating users within a domain environment. However, if your computer isn't part of such a network (as in the case of personal computers), disabling this service is a better option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Optimize Drives
 
  If you have ever defragmented your hard drive, you may be aware of its scheduled defragmentation feature. Simply put, this service handles routine defragmentation and optimization of your drives.
 
  So, if you like to [defrag your hard drive manually](https://www.makeuseof.com/defrag-hard-disk-drive-windows-11/) or if your system comes equipped with an SSD (which doesn't benefit from defragmentation), you might consider turning it off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Parental Controls
 
@@ -171,9 +175,17 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![All Windows Remote Desktop Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-remote-desktop-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 15\. Sensor Service
 
  The Sensor service manages integration with sensors like GPS and ambient light sensors. If your device doesn't come equipped with such sensors or if you don't use applications that need sensor data, disabling this service is a good decision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 16\. Smart Card services
 
@@ -184,10 +196,6 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 * **Smart Card Removal Policy**
 
 ![All Windows Smart Card Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-smart-card-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 17\. Windows Biometric Service
 
@@ -201,19 +209,11 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Disabling it is entirely safe, so feel free to turn it off from the Services app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 19\. Work Folders
 
  Work Folders are generally used in large organizations where people can store their local work-related files on a centralized server. They can then sync such files between work and personal computers. In short, Work Folders are an alternative to other file-syncing solutions.
 
  So, if your organization doesn't use this feature, the Work Folders service is safe to disable on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 20\. Xbox Services
 
@@ -229,7 +229,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 ![All Windows Xbox Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-xbox-services.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Unwanted Windows 11 Services
@@ -250,17 +250,21 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-synthesizing-a-look-at-magix-creative-suite/"><u>[Updated] Synthesizing a Look at MAGIX Creative Suite</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-imagecraft-tools/"><u>2024 Approved ImageCraft Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-reimagined-sony-bdp-s6700-experience/"><u>2024 Approved The Reimagined Sony BDP-S6700 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-breakdown-of-words-automatic-reading-mode/"><u>Correcting Breakdown of Word's Automatic Reading Mode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-tackle-and-fix-ralink-rt3290-driver-problems-in-windows-11-8-and-7-environments/"><u>Easy Steps to Tackle and Fix Ralink RT3290 Driver Problems in Windows 11, 8 & 7 Environments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/exploring-and-locating-videos-on-facebook-platform/"><u>Exploring and Locating Videos on Facebook Platform</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-productivity-with-windows-file-order-max-156/"><u>Maximize Your Productivity with Window's File Order (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-discord-latency-for-smooth-playback/"><u>Optimizing Windows Discord Latency for Smooth Playback</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-virtualboxs-usb-connectivity-issues-with-ease-for-windows-users/"><u>Overcoming VirtualBox's USB Connectivity Issues with Ease for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-screen-positioning-with-a-90-degree-rotation/"><u>Strategic Screen Positioning with a 90-Degree Rotation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcodage-gratuite-du-fichier-mov-vers-format-mp4-en-ligne-movavi/"><u>Transcodage Gratuite Du Fichier MOV Vers Format MP4 en Ligne - Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-quick-sequences-with-gopro-burst/"><u>[New] Mastering Quick Sequences with GoPro Burst</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nderstanding-youtubes-revenue-streams/"><u>[New] Understanding YouTube's Revenue Streams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-listeners-respectfully-for-increased-sign-ups/"><u>[Updated] 2024 Approved Engaging Listeners Respectfully for Increased Sign-Ups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploiting-youtubes-creative-commons-in-media-making/"><u>[Updated] Exploiting YouTube's Creative Commons in Media Making</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-secrets-of-filmo-for-2024/"><u>[Updated] Secrets of Filmo for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-playcapture-pro-your-own-screen-recorder-free/"><u>2024 Approved PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-camon-20-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Camon 20 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-assurance-verify-windows-equipment-before-calling/"><u>Audio Visual Assurance: Verify Windows Equipment Before Calling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-outlook-errors-on-windows/"><u>Expert Tips: Resolving Outlook Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-persistent-microsoft-edge-shortcuts/"><u>Preventing Persistent Microsoft Edge Shortcuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-update-tutorial-for-dell-xps-7590-g7/"><u>Speedy Driver Update Tutorial for Dell XPS 7590 (G7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-best-pc-optimization-tools-on-a-windows-pc/"><u>The 5 Best PC Optimization Tools on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-perils-behind-budget-windows-activation-codes/"><u>The Hidden Perils Behind Budget Windows Activation Codes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-your-gpu-drivers-efficiently-tips-by-yl-software-professionals/"><u>Troubleshooting Your GPU Drivers Efficiently - Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-tackling-steam-disk-errors/"><u>Understanding and Tackling Steam Disk Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/"><u>Workflow Enhancer: Integrating Sticky Notes Into Your Windows Morning Ritual</u></a></li>
 </ul></div>
 

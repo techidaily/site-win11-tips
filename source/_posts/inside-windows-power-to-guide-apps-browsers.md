@@ -1,7 +1,7 @@
 ---
 title: Inside Windows' Power to Guide Apps, Browsers
-date: 2024-08-08T11:11:27.247Z
-updated: 2024-08-09T11:11:27.247Z
+date: 2025-01-04T04:39:54.368Z
+updated: 2025-01-06T03:34:55.752Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  With such essential tasks, it's no wonder that the app & browser control has also found its place in later versions of Windows. So, with the brief introduction out of the way, let's dig deeper into the workings of the App & browser control settings and see how its magic comes about.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is App and Browser Control?
 
  First introduced with the Windows 10 Creator's update in 2017, the**App & browser control** feature has made a long way since then—it's now part of Windows 11 Windows Security as well.
@@ -57,12 +58,13 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
 
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check Apps and Files
 
@@ -85,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  Click on the relevant checkboxes to turn on the settings, and you will be well protected.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Potentially Unwanted App Blocking
 
  Not all apps are created equal. While some programs run well and do what they're designed to do efficiently, others don't deserve to see the light of day after the testing cycle.
@@ -94,15 +97,13 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  Turning on this filter allows you to block out all the lower-tier apps that won't work as productively as required, or perhaps even your app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### SmartScreen for Microsoft Store apps
 
  As the name suggests, when you have SmartScreen for Microsoft Store apps turned on, the SmartScreen will filter out any malicious content accessed by Microsoft Store apps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Exploit Protection
 
  Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As[Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
@@ -112,22 +113,20 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get App and Browser Control on a Windows PC
 
  Introduced back with a Windows 10 update as a part of Windows Security, the App and Browse Control feature has become a critical component of every Windows version since. While Windows Security gives your PC overall cyber safety through various tools working together, the App and Browser control focuses on malicious apps and websites specifically.
 
  Other parts of Windows Security, like Family options or Virus & threat protection, are just as crucial as App & browser control. So make sure you don’t neglect other features, and try to learn about them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +135,18 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-deciding-on-the-ultimate-virtual-gaming-platform/"><u>[New] In 2024, Deciding on the Ultimate Virtual Gaming Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-enabled-mac-video-recorder/"><u>[Updated] In 2024, Audio-Enabled Mac Video Recorder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beginners-guide-to-periscope-live-streaming/"><u>Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digging-deep-into-windows-11-its-inner-workings-revealed/"><u>Digging Deep Into Windows 11: Its Inner Workings Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-an-idle-windows-start-button-problem/"><u>Fixing an Idle Windows Start Button Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-camera-gimbals-top-10-iphone-android-dslr-compilation/"><u>Ideal Camera Gimbals Top 10 IPhone, Android, DSLR Compilation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reorganize-storage-with-onedrive-on-windows-11-platform/"><u>Reorganize Storage with OneDrive on Windows 11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-persistent-pin-failures-in-windows-os/"><u>Strategies to Overcome Persistent PIN Failures in Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211410163-9781837992027-the-az-of-wellbeing/"><u>The A–Z of Wellbeing | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-driver-crisis-for-print-hardware/"><u>Windows Driver Crisis for Print Hardware</u></a></li>
+</ul></div>
 

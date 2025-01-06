@@ -1,7 +1,7 @@
 ---
 title: "Refreshing Your PC: Resetting Windows 11 Applications"
-date: 2024-08-08T11:11:43.373Z
-updated: 2024-08-09T11:11:43.373Z
+date: 2025-01-03T17:47:12.216Z
+updated: 2025-01-05T21:05:32.634Z
 tags:
   - windows10
   - windows11
@@ -21,20 +21,26 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
  So how do you reset an app on Windows? Here’s what you need to know.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 11
 
  To reset an app on Windows 11, start by pressing**Win + I** to bring up the Settings app. Then, navigate to**Apps > Installed apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
@@ -45,44 +51,36 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 10
 
  If you’re using Windows 10, you can reset an app by first opening the Settings app using the**Win + I** shortcut, or using one of the many[ways to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more. From there, navigate to**Apps > Apps & features** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Apps Just Need a Reset Sometimes
 
  If you don’t want the hassle of manually reinstalling an app, you can let Windows do it for you in the Settings app. Since this will be like installing a fresh copy of the app, be sure to reset it only when you’ve tried other ways to save the program.
 
  If you can’t reset an app in Settings, then you have to manually reinstall it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,4 +89,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-audiovid-producers-digital-space/"><u>[New] AudioVid Producers' Digital Space</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-premier-10-vectors-online-stores-for-2024/"><u>[New] Discover the Premier 10 Vectors Online Stores for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-headline-economy-utilizing-slug-lines-smartly-for-2024/"><u>[Updated] Mastering Headline Economy Utilizing Slug Lines Smartly for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-most-effective-wi-fi-extenders-on-the-market-this-year/"><u>Discover the Most Effective Wi-Fi Extenders on the Market This Year!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-7-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 7 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elevate-your-podcasts-with-top-10-ai-name-generators-for-2024/"><u>Elevate Your Podcasts with Top 10 AI Name Generators for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-best-ms-store-picks/"><u>Enhance Your PC: Best MS Store Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-inserting-wordpad-keys-to-the-windows-11-menu-bar/"><u>Enhancing Productivity: Inserting WordPad Keys to the Windows 11 Menu Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-the-password-needed-prompt-in-windows-11/"><u>How to Bypass the ‘Password Needed’ Prompt in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-non-playable-media-error-0xc10100bf/"><u>How to Resolve Non-Playable Media Error 0XC10100BF</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-12-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus 12 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-remote-storage-access-dropbox-and-google-drive-by-drives/"><u>Integrating Remote Storage: Access Dropbox & Google Drive by Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-high-resource-drain-from-unrealcefsubprocess/"><u>Mitigating Windows' High Resource Drain From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x9a-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X9a Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-originality-resetting-personalized-search-on-windows-11/"><u>Winning Back Originality: Resetting Personalized Search on Windows 11</u></a></li>
+</ul></div>
 

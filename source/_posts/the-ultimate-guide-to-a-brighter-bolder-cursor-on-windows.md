@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to a Brighter, Bolder Cursor on Windows
-date: 2024-08-16T02:35:06.918Z
-updated: 2024-08-17T02:35:06.918Z
+date: 2024-12-29T18:17:39.777Z
+updated: 2025-01-06T07:56:12.599Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  So, most users who show their Windows desktop areas to others will recognize the appeal of highlighting their mouse pointers. You can highlight a mouse pointer in different ways with some third-party apps and extensions. This is how to highlight the mouse cursor in Windows 11/10 with PowerToys, Mouse Pointer Highlight, and Cursor Highlight.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Highlight the Cursor by Selecting the Show Location of Pointer Setting
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
@@ -30,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
 ![The Additional mouse settings navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/additional-mouse-settings-option.jpg)
 5. Then click the**Pointer Options** tab in the Mouse Properties window that opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the**Show location of pointer** **when I press the Ctrl key** checkbox.  
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
 7. Click**Apply** in the Mouse Properties window.
@@ -38,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  That feature can come in handy for Windows video tutorials though. Activating the circle animation will draw viewers’ attention to a cursor’s position. You can use it to briefly highlight settings by moving the cursor next to any option that needs selecting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How to Highlight the Cursor With Mouse Pointer Highlight
 
  If you would prefer to add a permanent color highlight to the cursor, check out the Mouse Pointer Highlight app. That freely available adds a transparent color circle to the cursor. This is how you can highlight the cursor with Mouse Pointer Highlight:
@@ -62,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  This app also has a click highlight effect you can enable. When enabled, you’ll see a second circle with a different color briefly appear around the cursor whenever you click the mouse. Select the**Enable** checkbox to turn on that feature.
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
@@ -87,14 +97,11 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
 
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
@@ -103,15 +110,9 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Cursor Highlighter** to view the extension’s options.
 5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click the color palette box to choose a color for the highlight and select save.
 7. Now open a new website page in your browser to see your highlighted cursor.
 
@@ -122,8 +123,9 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
  You can make your cursor shine by highlighting it in Windows 11/10\. The highlighting options in PowerToys and Mouse Pointer Highlight apps will come in handy for numerous presentation and tutorial purposes in Windows 11/10\. Windows' show pointer feature and the Cursor Highlighter extension also provide useful visual cursor indicators, albeit with slightly less functionality.
@@ -134,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,19 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-breathe-life-into-stills-slow-video-on-iphone-for-2024/"><u>[New] Breathe Life Into Stills Slow Video on iPhone for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-premier-pdf-enhancements/"><u>[Updated] Premier PDF Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-perks-for-everyday-users/"><u>Essential Windows 11 Perks for Everyday Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-suppressing-win-11s-on-screen-hub-mode/"><u>Guide to Suppressing Win 11'S On-Screen Hub Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-gpodc-must-haves/"><u>In 2024, Exclusive GPodC Must-Haves</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multimedia-how-to-teach-chatgpt-to-interpret-pdf-documents/"><u>Mastering Multimedia: How to Teach ChatGPT to Interpret PDF Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-games-fix-fullscreen-woes-in-windows/"><u>Maximize Your Games: Fix Fullscreen Woes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-portaudio-misfires-in-audacity-on-win-1111/"><u>Remedying PortAudio Misfires in Audacity on Win 11/11</u></a></li>
+<li><a href="https://ai-video.techidaily.com/top-rated-laptops-and-computers-sales/"><u>Top Rated Laptops & Computers Sales</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-radar-detectors-as-chosen-by-experts-on-zdnet-find-the-ultimate-guide/"><u>Top-Rated Radar Detectors as Chosen by Experts on ZDNet - Find the Ultimate Guide!</u></a></li>
+<li><a href="https://win-great.techidaily.com/universal-media-converter-convert-videos-and-music-in-over-50-formats-including-vhd-mkv-xvid-divx/"><u>Universal Media Converter: Convert Videos & Music in Over 50 Formats Including VHD, MKV, XviD, DivX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-potential-with-simple-hotkey-pairings/"><u>Unlock Windows Potential with Simple Hotkey Pairings</u></a></li>
+</ul></div>
 

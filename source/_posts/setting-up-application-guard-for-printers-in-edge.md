@@ -1,7 +1,7 @@
 ---
 title: Setting Up Application Guard for Printers in Edge
-date: 2024-12-24T17:37:22.054Z
-updated: 2024-12-27T22:26:04.539Z
+date: 2025-01-01T20:38:50.816Z
+updated: 2025-01-06T10:53:55.843Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Printing via Windows Settings
@@ -40,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 5. Scroll down to Isolated browsing, then click the**Change Applications Guard settings** link.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Under Application Guard settings, turn on the toggle for**Print files** .  
 ![Allow Printing From Application Gurard For Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-printing-from-application-gurard-for-microsoft-edge.jpg)
 7. If UAC prompts appear on the screen, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the above instructions, you must restart your computer to make the changes take effect. Now you can print files from isolated browsing in Edge.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  If you ever need to disable this feature, simply follow the same steps and toggle off Print files. This will disable printing in Application Guard for Edge on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Printing via Registry Editor
@@ -68,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![Enable Print from Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-print-from-application-guard-for-edge.jpg)
 5. Set Value data**1** and click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have completed the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now the Application Guard for Edge Supports Printing
@@ -97,16 +97,17 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-noble-tunes-archiver-android-edition/"><u>[New] Noble Tunes Archiver, Android Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-fb-slideshows/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating FB Slideshows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cheerful-account-creation-handbook/"><u>2024 Approved Cheerful Account Creation Handbook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-desktop-cleanliness-with-self-deleting-files-in-windows-os/"><u>Enhance Desktop Cleanliness with Self-Deleting Files in Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-mac-fun-with-top-console-emulators/"><u>Enhancing Mac Fun with Top Console Emulators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ai-for-emotional-intelligence-and-support/"><u>Harnessing AI for Emotional Intelligence and Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-command-not-available-in-windows/"><u>Immediate Fixes for Command Not Available in Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-gionee-f3-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Gionee F3 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-desktop-connection-on-w11/"><u>Streamlining Desktop Connection on W11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011s-vanishing-windows-how-to-bring-them-back-quickly/"><u>Win10/11's Vanishing Windows: How to Bring Them Back Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hand-held-balance-for-sharp-images/"><u>[New] 2024 Approved Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-path-to-professional-gopro-time-lapse-cinematography/"><u>[New] The Path to Professional GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-windows-podcast-software-selections/"><u>[Updated] Ideal Windows Podcast Software Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-on-windows-1011-our-selection-of-the-top-5plus-productivity-boosters/"><u>Excel on Windows 10/11: Our Selection of the Top 5+ Productivity Boosters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-real-time-display-updates-for-win-11-task-tracker/"><u>Improve Real-Time Display Updates for Win 11 Task Tracker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-dji-drone-tiers-basic-package-enhanced-series-proficiency-edition-uhd/"><u>In 2024, DJI Drone Tiers Basic Package, Enhanced Series, Proficiency Edition UHD</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-shaking-up-the-status-quo-unique-naming-tips-for-filmmakers/"><u>In 2024, Shaking Up the Status Quo Unique Naming Tips for Filmmakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-in-2024/"><u>In-Depth Appraisal Does InShot Rule in Video Edits, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-glance-mastering-french-colorful-speech/"><u>Quick Glance: Mastering French Colorful Speech</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reducing-delays-roblox-on-computer/"><u>Reducing Delays: Roblox on Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-streamlining-with-new-folder-placement/"><u>Step-by-Step Guide to Streamlining with New Folder Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-live-service-disruptions-on-pcs/"><u>Troubleshooting Xbox Live Service Disruptions on PCs</u></a></li>
 </ul></div>
 

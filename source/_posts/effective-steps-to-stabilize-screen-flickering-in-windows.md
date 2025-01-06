@@ -1,7 +1,7 @@
 ---
 title: Effective Steps to Stabilize Screen Flickering in Windows
-date: 2024-08-08T11:11:58.617Z
-updated: 2024-08-09T11:11:58.617Z
+date: 2025-01-02T19:45:04.520Z
+updated: 2025-01-05T18:13:44.646Z
 tags:
   - windows10
   - windows11
@@ -21,22 +21,9 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
  The problem often begins when upgrading to Windows 10/11 from a previous version of the operating system, but it can occur at any time. We're going to show you various methods to fix a Windows 10 or Windows 11 flashing screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Perform This Screen Flickering Test First
 
  First, you need to establish what might be causing the flickering screen. To do this,[open Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) by pressing**Ctrl + Shift + Esc** simultaneously.
@@ -49,9 +36,6 @@ Key features:
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -59,6 +43,10 @@ Key features:
  If you have a spare monitor cable, try using it instead. Or buy a replacement online, since it's an inexpensive purchase. Cables can degrade over time, or maybe a pet has had a sneaky chew. Either way, switch the cable and see if it stops the screen flickering.
 
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set the Correct Refresh Rate
 
@@ -68,10 +56,11 @@ Key features:
 
 To adjust your refresh rate:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
@@ -82,14 +71,19 @@ To adjust your refresh rate:
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Remove the Driver
 
  First,[boot Windows in safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/ "How to Boot Into Windows 10 Safe Mode") :
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
@@ -101,6 +95,10 @@ Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
@@ -108,9 +106,6 @@ Next, use Device Manager to uninstall the display driver:
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -129,9 +124,6 @@ Next, use Device Manager to uninstall the display driver:
 
  Follow the steps above to uninstall the driver, then head to the old driver page for either[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. Reseat Your Graphics Card
 
  If the problem isn't with your display driver, it doesn't mean your graphics card isn't to blame. If your graphics card isn't seated correctly in your motherboard, it can cause your monitor display to flicker on and off.
@@ -161,9 +153,6 @@ If this doesn't work, uninstall the program. To do so:
 
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
 
 To create a new account:
@@ -172,23 +161,17 @@ To create a new account:
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Screen Flickers... No More
 
  As with most Windows 10/11 issues, no single fix will work for everyone. Hopefully, one of the steps above has solved your Windows 10 or Windows 11 screen flashing problem.
 
  If it is time for a new monitor, there are plenty of productive and fun things you can do with the old one. Otherwise, take it off for recycling so it can rest in monitor heaven.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -197,4 +180,26 @@ To create a new account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-masterful-approaches-to-live-sports-video-capture/"><u>[New] Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-stop-buffer-tweet-vids-in-chromium-browser/"><u>[Updated] Stop Buffer Tweet Vids in Chromium Browser</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-art-of-timely-and-effective-google-meet-planning/"><u>2024 Approved The Art of Timely and Effective Google Meet Planning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-d3d11-compatible-gpu-error-on-win11win10/"><u>Demystifying the D3D11-Compatible GPU Error on Win11/Win10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-turn-off-handbrakes-automatic-cropping-feature-and-edit-video-borders-yourself/"><u>How to Turn Off Handbrake's Automatic Cropping Feature and Edit Video Borders Yourself</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-online-service-transform-mp4-files-into-m4b-format-at-no-cost/"><u>Movavi's Online Service - Transform MP4 Files Into M4B Format at No Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cpu-excesses-windows-resource-monitors-secrets-revealed/"><u>Navigating CPU Excesses: Windows Resource Monitor's Secrets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-organization-best-windows-photo-arrangers/"><u>Prioritize Organization: Best Windows Photo Arrangers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rejuvenate-a-stalled-discord-overlay-in-windows/"><u>Steps to Rejuvenate a Stalled Discord Overlay in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209877407-9781643676715-student/"><u>Student | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ten-underbara-strategier-for-att-flytta-en-hinter-video-fond-utan-en-gron-fonster/"><u>Ten Underbara Strategier För Att Flytta En Hinter Video-Fond Utan En Grön Fönster</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-utilizing-the-telnet-command-line-tool-on-windows-os/"><u>The Ultimate Tutorial on Utilizing the Telnet Command Line Tool on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-3-fixes-to-regain-access-on-win1011s-dark-screens/"><u>Top 3 Fixes to Regain Access on Win10/11's Dark Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-fixing-your-non-functional-corsair-hs60-microphone/"><u>Troubleshooting Tips: Fixing Your Non-Functional Corsair HS60 Microphone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-ultimate-productivity-with-zendure-superbase-pro-2n-a-comprehensive-review-on-zdnet/"><u>Unleash Ultimate Productivity with Zendure SuperBase Pro 2N: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/why-visual-narratives-from-customers-boost-business-appeal/"><u>Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-wise-stop-rounded-corner-style/"><u>Window Wise: Stop Rounded Corner Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-a-deep-dive-into-gpo-enforcement-per-user/"><u>Windows 10/11: A Deep Dive Into GPO Enforcement Per User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-workshop-decoding-secrets-step-by-step/"><u>Windows Workshop: Decoding Secrets Step by Step</u></a></li>
+</ul></div>
 

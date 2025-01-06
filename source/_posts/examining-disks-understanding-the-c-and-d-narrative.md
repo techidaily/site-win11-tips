@@ -1,7 +1,7 @@
 ---
 title: "Examining Disks: Understanding the C & D Narrative"
-date: 2024-08-08T11:12:21.946Z
-updated: 2024-08-09T11:12:21.946Z
+date: 2024-12-31T04:55:26.868Z
+updated: 2025-01-06T09:30:33.048Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## What Is the Local Drive C?
 
  First, a local disk or [local drive is a hardware storage device](https://www.makeuseof.com/what-is-local-drive/) installed directly within your computer to enable you to store and retrieve data easily. Unlike external storage devices that you have to mount to access data, or cloud storage that requires an internet connection, local drives live inside your computer.
@@ -32,18 +28,27 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
 ![CD, hard drive, flash drive, and floppy disk on a wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/external-storage-devices.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, your Windows computer assigns alphabets to enable you to access these drives. It’ll also assign alphabets to partitions—defined areas with a determined size on a drive. For example, if your computer has a 500GB hard disk drive (HDD) or solid-state drive (SSD), you might have two partitions with 250GB each.
 
  The C: drive is your Windows computer's primary drive or partition. This drive or partition is assigned the first available letter, as [Windows starts naming drives from the letter C instead of A or B](https://www.makeuseof.com/why-local-drives-windows-start-from-c/).
 
  Manufacturers install the operating system and other relevant software on the C: drive. If your computer has a 1TB HDD or SSD with two 500GB partitions, the C: drive is the hard disk partition that serves the above function. Alternatively, if your computer has a 250GB hard drive with one partition, then it'll be your drive (C:).
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Characteristics of the C: Drive
 
@@ -59,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
  Remember that the letter C in itself doesn't mean anything. However, it's typically assigned as an identifier for the local drive containing your Windows OS.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Local Drive D?
 
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
 
@@ -79,9 +85,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Otherwise, your D: drive can be a removable flash drive or memory card—any additional local drive you connect to your computer after the drive (C:). Once the letter D is taken, your Windows computer will assign the letter E (up to Z) to any other local disk you attach to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
 ### Characteristics of the D: Drive
@@ -96,19 +99,12 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
 
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## C: Drive vs. D: Drive: Which Should You Use?
 
  The C drive is the local disk from which your operating system runs. It houses all your computer's default programs, applications, and system files. Meanwhile, the D drive is a secondary hard drive on which you can store data that isn’t vital for your computer’s operations.
@@ -117,11 +113,27 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-diving-deep-into-instagrams-new-features/"><u>[New] In 2024, Diving Deep Into Instagram's New Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-of-showmores-screen-capture-software/"><u>[New] Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-charts-with-a-click-youtube-short-tunes-made-easy/"><u>[Updated] 2024 Approved Crafting Charts with a Click YouTube Short Tunes Made Easy</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-twirl-forge-instruments/"><u>[Updated] In 2024, Twirl Forge Instruments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-youtube-list-mix-a-step-by-step-guide/"><u>2024 Approved Mastering YouTube List Mix A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-images-with-ps-based-hdr-methods/"><u>Elevate Your Images with PS-Based HDR Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-d3dx939dll-in-win11-environment/"><u>How to Restore D3DX9_39.dll in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-recovery-cursor-and-screen-on-dark-wins-moment/"><u>Instant Recovery: Cursor & Screen on Dark Wins Moment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-spotifys-ad-landscape-a-beginners-guide/"><u>Navigating Spotify's Ad Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-unresponsive-windows-batch-operations/"><u>Reviving Unresponsive Windows Batch Operations</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-productivity-getting-comfortable-with-windows-11s-search-bar/"><u>Unlock Productivity: Getting Comfortable with Windows 11'S Search Bar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-your-mac-isnt-playing-sounds-and-how-to-turn-it-back-on/"><u>Why Your Mac Isn't Playing Sounds and How to Turn It Back On</u></a></li>
+</ul></div>
+

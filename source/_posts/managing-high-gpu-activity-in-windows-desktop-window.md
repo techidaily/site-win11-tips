@@ -1,7 +1,7 @@
 ---
 title: Managing High GPU Activity in Windows Desktop Window
-date: 2024-08-08T11:11:39.785Z
-updated: 2024-08-09T11:11:39.785Z
+date: 2025-01-01T06:13:24.344Z
+updated: 2025-01-06T08:56:29.036Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  Windows will not search for any available updates for all the installed components, including the graphics driver. If it finds any, it will automatically download it without much user input.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
  Alternatively, you have the option to directly download the latest update for your graphics driver from the manufacturer's website.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  Upon successfully updating the graphics driver, restart your computer and check if the DWM GPU consumption is back to normal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Hardware-Accelerated GPU Scheduling
 
 ![GPU Scheduling option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpu-scheduling-option.jpg)
@@ -61,10 +61,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
  Enabling GPU scheduling on a weak GPU could result in latency issues and high GPU consumption by various processes, including the Desktop Window Manager. Consequently, you can [disable GPU scheduling](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) if you face graphics-related problems on your PC subsequent to its activation.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Configure the NVIDIA Control Panel Settings
 
  Desktop Windows Manager's high GPU consumption issue also stems from your NVIDIA GPU's incorrect power management settings. To resolve this, you'll need to access the NVIDIA Control Panel and use it to configure your GPU's power consumption. Here’s how to do it:
@@ -74,17 +73,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Choose the **High-performance NVIDIA processor** option from the Preferred graphics process drop-down menu.  
 ![High-performance NVIDIA processor option in NVIDIA control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-nvidia-processor-option.jpg)
 4. Click the drop-down icon next to **Power management mode** and choose **Prefer maximum performance**.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Prefer maximum performance option in NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prefer-maximum-performance-option.jpg)
 5. Click **Apply.**
 
  Next, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 4\. Adjust the Resolution and Scaling Settings
 
  Windows allows you to manually configure your display resolution and scaling settings. But sometimes configuring these settings to more than the recommended value can cause high GPU usage.
@@ -98,6 +96,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  After that, open the Task Manager and check the Desktop Window Manager GPU consumption.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable HDR
 
  HDR, or High Dynamic Range, is a technology that uses your system's GPU to display a wider range of brightness and colors. However, enabling HDR on a weak GPU can do more harm than good.
@@ -106,16 +108,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  To disable HDR in Windows 11, open Settings, select System from the left sidebar, and then select Display from the right pane. Then, disable the toggle switch next to **Use HDR**.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use HDR option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-hdr.jpg)
 
  After that, your display will momentarily go blank. Subsequently, you'll observe a shift in display color, indicating that you've successfully disabled HDR.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Optimize Your Visual Effect Settings
 
  As aforementioned, the Desktop Window Manager oversees the visual aspects of your computer's interface. But, if your computer's visual effects settings are not correctly configured, the Desktop Window Manager might consume a significant amount of GPU resources.
@@ -127,17 +127,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Advanced system settings code in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/advanced-system-settings-code.jpg)
 3. Under the Performance section, click on **Settings**.
 4. Select the **Adjust for best performance** option.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Adjust for best performance option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/adjust-for-best-performance-option.jpg)
 5. Click **Apply** and then **OK** to save the changes.
 
  Now, monitor your computer's GPU consumption. If it remains high, there's a possibility that corruption in important system files is causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 7\. Run an SFC Scan
 
  It’s common for Windows files to become corrupted due to malware attacks or sudden system crashes. Unfortunately, corruption in these system files not only results in data loss but also disrupts the regular functioning of your computer.
@@ -146,12 +140,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  SFC, or System File Checker, is a Windows built-in utility that looks for and repairs current system files. To run an SFC scan, open Command Prompt as an administrator (see how to [launch Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/)), type **sfc /scannow**, and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
  After the scan is complete, restart your computer, and you will see that you’re no longer facing the Desktop Window Manager high GPU consumption issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prevent the Desktop Window Manager From Hogging Your GPU
 
@@ -161,11 +156,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>[Updated] In 2024, The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ai-powered-best-titles-makers-online/"><u>2024 Approved AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-game-line-up-best-7-fps-classics-for-2024/"><u>Elite Game Line-Up Best 7 FPS Classics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-optimal-way-with-windows-11/"><u>Navigating the Optimal Way with Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-social-network-a-deep-dive-into-facebooks-transparency-center/"><u>Navigating the Social Network: A Deep Dive Into Facebook's Transparency Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicker-downloads-for-battlenet-games-win-pcs-now/"><u>Quicker Downloads for Battle.net Games, Win PCs Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steam-library-write-errors-on-windows-11-systems/"><u>Resolving Steam Library Write Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-bluetooth-error-try-connection-failure/"><u>Solving Windows 11'S Bluetooth Error: Try Connection Failure</u></a></li>
+</ul></div>
+

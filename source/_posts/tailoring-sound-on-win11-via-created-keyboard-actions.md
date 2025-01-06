@@ -1,7 +1,7 @@
 ---
 title: Tailoring Sound on Win11 via Created Keyboard Actions
-date: 2024-12-23T16:58:18.305Z
-updated: 2024-12-27T16:12:57.944Z
+date: 2025-01-01T09:06:20.445Z
+updated: 2025-01-06T08:31:41.136Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download and Extract NirCmd
@@ -41,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 4. Click **Extract all** on File Explorer’s command bar.  
 ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-all-button2.png)
 5. Select the **Browse** option to choose an extraction path.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Show extracted files when complete** checkbox to select it.  
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
@@ -56,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Shortcut context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-option.png)
 5. Press the **Ctrl + V** keyboard shortcut to paste the copied NirCmd path into the location box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then press **Space** key once after the NirCmd path, and enter **mutesysvolume 2** in the location box as shown directly below. The location box should then include: **“NirCmd folder path\\nircmd.exe” mutesysvolume 2**.  
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
@@ -73,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
  Don’t delete the Mute desktop shortcut. Deleting that shortcut will also erase the hotkey added to it. So, you’ll need to keep all audio control shortcuts on the desktop for their hotkeys to work.
@@ -81,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up a Hotkey for Maximizing Volume
 
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
@@ -88,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The setsysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/setsysvolcommand.png)
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
 
@@ -108,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
@@ -144,14 +153,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
 
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
@@ -168,22 +169,24 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-determining-the-perfect-orientation-for-fb-videos/"><u>[New] Determining the Perfect Orientation for FB Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-join-the-party-your-guide-to-active-tiktok-streaming/"><u>[New] Join the Party Your Guide to Active TikTok Streaming</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>[Updated] 2024 Approved Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-step-into-hd-color-on-windows-watch-edit-relish-videos/"><u>[Updated] In 2024, Step Into HD Color on Windows Watch, Edit, Relish Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-asus-rog-phone-7-ultimate-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Asus ROG Phone 7 Ultimate Device SIM</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-expert-endorsed-ae-text-tools/"><u>In 2024, Expert-Endorsed AE Text Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-windows-mail-overcoming-hurdle-x-error-0x80072746/"><u>Master Windows Mail: Overcoming Hurdle X, Error 0X80072746</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-key-recovery-finding-your-windows-1011-authenticity/"><u>Mastery in Key Recovery: Finding Your Windows 10/11 Authenticity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-malware-a-protocol-for-neutralizing-wacatacbml-on-windows/"><u>Mastery of Malware: A Protocol for Neutralizing Wacatac.B!ml On Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-settings-for-users-implementing-local-groups-policies-in-windows-11-and-11/"><u>Personalized Settings for Users: Implementing Local Groups Policies in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-absence-of-backspace-action-on-windows-devices/"><u>Rectifying the Absence of Backspace Action on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taking-charge-of-pcs-core-management-interface/"><u>Taking Charge of PC's Core Management Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-full-capabilities-elevating-windows-11s-task-manager-to-admin-power/"><u>Unleash the Full Capabilities: Elevating Windows 11'S Task Manager to Admin Power</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-blue-screen-addressing-interruptexception/"><u>Win11 Blue Screen: Addressing INTERRUPT_EXCEPTION</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platinum-windows-1032dvd/"><u>WinX DVD Ripper Platinum - 高速优化版: Windows 10下32倍提速的数字DVD转换解锁</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-checklist-for-adding-videos-to-tweets/"><u>2024 Approved The Essential Checklist for Adding Videos to Tweets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-denied-here-are-6-ways-to-fix-your-issues/"><u>Apple Pay Denied? Here Are 6 Ways To Fix Your Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-the-webs-most-popular-sites-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on the Web's Most Popular Sites: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-browse-images-using-windows-11-explorer/"><u>Efficiently Browse Images Using Windows 11 Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximize-engagement-with-proper-youtube-video-dimensions/"><u>In 2024, Maximize Engagement with Proper YouTube Video Dimensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/is-av1-video-playback-possible-with-media-server-plex-detailed-tutorial/"><u>Is AV1 Video Playback Possible with Media Server Plex? Detailed Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-computer-organization-auto-delete-in-windows-made-easy/"><u>Master Computer Organization: Auto-Delete in Windows Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-rectifying-image-importer-issues-with-ios-on-windows-11-pcs/"><u>Mastery Guide: Rectifying Image Importer Issues with iOS on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-stickies-across-computers/"><u>Maximizing Windows 11 Stickies Across Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-steps-convert-mkv-files-to-avi-format-using-vlc-player-no-marks-attached/"><u>Quick and Easy Steps: Convert MKV Files to AVI Format Using VLC Player - No Marks Attached</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-pc-bottleneck-analyzers/"><u>Real-Time PC Bottleneck Analyzers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-lost-screen-symbols-in-win-11/"><u>Regain Your Lost Screen Symbols in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-camera-not-detected-error-on-win11/"><u>Remedy for “Camera Not Detected” Error on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-display-embrace-wmfresh-look/"><u>Transform Windows Display: Embrace WMFresh Look</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-the-alarm-eliminating-unwanted-amber-notifications-on-your-android-device/"><u>Turning Off the Alarm: Eliminating Unwanted AMBER Notifications on Your Android Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-enhanced-carplay-top-new-features-revealed-at-wwdc-2024-detailed-insights-from-zdnet/"><u>Unveiling Apple's Enhanced CarPlay: Top New Features Revealed at WWDC 2024 – Detailed Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Overcome Audacity Audio Error (Win10/11)
-date: 2024-08-08T11:11:52.845Z
-updated: 2024-08-09T11:11:52.845Z
+date: 2025-01-04T11:38:17.671Z
+updated: 2025-01-05T19:49:09.133Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  Audacity isn’t much use when you can’t record or play music with the software because of the “error while opening sound device” issue. There are numerous ways you can feasibly resolve that Audacity recording/playback error in Windows. This is how you can fix the “error while opening sound device” issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Desktop Apps to Access Microphone
 
  You can’t record with Audacity if microphone access for that app is disabled. So, the first thing you should check is the microphone access settings in Windows. Check the microphone is enabled for Audacity like this:
@@ -32,13 +33,19 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 3. Select the**Microphone app permission** option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if you find that setting disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to Audacity on the app list below the**Microphone access** option.  
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Sound Devices Are Enabled
 
  The “Error while opening sound device” issue can arise because playback or recording devices are disabled. So, make sure the devices you’re trying to utilize with Audacity are fully enabled and set to default. This is how you can check your sound devices are enabled in Windows:
@@ -49,28 +56,14 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 4. If the**Playback** tab shows a peripheral you’re trying to utilize in Audacity is disabled, right-click that device and select**Enable** .
 5. Click**Recording** to switch to that tab.
 6. Right-click the input recording device you want to utilize and select**Enable** if disabled.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
  The device settings in Audacity need to match up with those you’ve set on the Sound window. So, check those settings match up like this:
@@ -80,18 +73,12 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 3. Select**Preferences** to bring up a settings window.  
 ![The Preferences option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/preferences-tab.jpg)
 4. Next, select the**Devices** tab.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 4\. Change Audacity’s Sample Rate
 
  The “Error While Opening Sound Device” issue can sometimes arise because Audacity’s sample rate doesn’t match that of your recording microphone. Some Audacity users have said they were able to fix this error by adjusting the sampling rate. This is how you can change Audacity’s sample rate.
@@ -116,20 +103,22 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 4. Click the Preferences window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Restart the Windows Audio Endpoint Builder Service
 
  Some Audacity users confirm restarting the Windows Audio Endpoint Builder service fixes this issue. Restarting that service will refresh your PC’s sound controls. This is how you can restart Windows Audio Endpoint Builder:
 
 1. Press**Win + S** to activate Windows Search.
 2. Enter**services** and open the Services app.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update Your PC’s Audio Device Driver
 
@@ -143,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 2. Select**Device Manager** to access that tool’s window.
 3. Click the small arrow beside the**Sound, video and game controller** category.
 4. Right-click High Definition Audio device to select an**Uninstall** context menu option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
 6. Click**Uninstall Device** to confirm the action.  
@@ -153,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
 
  There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back to Recording and Playing Audio in Audacity
 
@@ -164,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +161,17 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-streamlining-your-creative-process-in-gopro-studio/"><u>[New] Streamlining Your Creative Process in GoPro Studio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-knowledge-of-asmr-media/"><u>[Updated] Mastering the Knowledge of ASMR Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-bluetooth-pairing-failures-on-windows-11-os/"><u>Fixing Bluetooth Pairing Failures on Windows 11 OS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-uncovering-whatsapp-written-off-tricks-and-tips/"><u>In 2024, Uncovering WhatsApp' Written Off Tricks and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-navigators-using-c-for-cloud-storage-access/"><u>Mastering Network Navigators: Using C: For Cloud Storage ACCESS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-chatter-re-enable-microsoft-microphone-for-google-meet/"><u>No Chatter? Re-Enable Microsoft Microphone for Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-post-discord-update-issues-for-windows-users/"><u>Tackling Post-Discord Update Issues for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-payday-2-pc-launch-problems/"><u>Troubleshooting Steps for Fixing 'Payday 2' PC Launch Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-correcting-sticky-joysticks-on-xbox-series-sx-controllers/"><u>Ultimate Guide to Correcting Sticky Joysticks on Xbox Series S/X Controllers</u></a></li>
+</ul></div>
 

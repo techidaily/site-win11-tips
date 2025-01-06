@@ -1,7 +1,7 @@
 ---
 title: "Reigning in the Chaos: Five Ways to Tackle No Mail in Windows 11 Mail App"
-date: 2024-08-16T02:35:54.236Z
-updated: 2024-08-17T02:35:54.236Z
+date: 2025-01-04T22:59:58.080Z
+updated: 2025-01-05T19:30:27.647Z
 tags:
   - windows10
   - windows11
@@ -20,46 +20,53 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  Fortunately, fixing the "System error can't get mail" error is a breeze. Simply apply the solutions below to troubleshoot the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Start With Some Quick and Simple Fixes
 
  Before making any significant changes to your computer, try logging out and back into the Mail app. This will eliminate any temporary bugs or glitches that may be causing the error.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Log In and Out of Mail, Then Restart the App
 
  To log out of the Mail app, right-click on your account in the left sidebar and choose**Account settings.** Then, select the**Delete account** **from this device** option and click**Delete** in the following window.
 
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the Date and Time on Windows
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Allow Mail Through the Windows Firewall
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Update Windows
 
  The error can also appear due to an outdated Windows version. So, download any available Windows update to eliminate the problem at hand. To do that, open the**Settings app** (see how to[access Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), choose**Windows Update** from the left sidebar, and then click on the**Check for updates** option in the right pane.
 
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
 
@@ -71,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change the Mail App Privacy Settings
 
  The 'System error can't get mail' error will likely crop up if the Mail and Calendar app doesn't have permission to access your email. To fix the issue, you'll have to enable email access for the Mail and Calendar app. Here's how:
@@ -82,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 2. Click the**Email** navigation option.
 3. Enable the toggle next to**Email access** .  
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
 5. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
@@ -98,9 +99,6 @@ Now, restart your system and check for the issue.
 1. Open Settings and go to**Apps** \>**Installed apps.**
 2. Click the**three dots** next to**Mail and Calendar** app and choose**Advanced options.**  
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the**Repair** button.  
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
@@ -111,27 +109,20 @@ Now, restart your system and check for the issue.
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the Mail App to Access Your Emails Again on Windows
 
  Accessing emails is an essential aspect of our daily communication, and with the Mail app in Windows 11, you can easily do that. However, you might face the 'System error can't get mail' error while using the Mail app.
 
  Encountering this error can be frustrating as it prevents you from accessing your vital emails. Fortunately, the above solutions can help you troubleshoot the issue quickly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +131,20 @@ Now, restart your system and check for the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhance-your-iphone-footage-from-speed-to-extended-muted-visuals/"><u>[Updated] 2024 Approved Enhance Your iPhone Footage From Speed to Extended, Muted Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/backtrack-broadcasts-effortlessly-with-these-20-stream-steps/"><u>Backtrack Broadcasts Effortlessly with These 20 Stream Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-financially-navigate-to-w11-pro-best-offers/"><u>Gain Financially: Navigate to W11 Pro Best Offers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hardware-assisted-virtualization-and-isolation/"><u>Hardware-Assisted Virtualization and Isolation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-15-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 15 Plus/iPad/iPod</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionizing-gift-reveal-innovative-ideas/"><u>In 2024, Revolutionizing Gift Reveal Innovative Ideas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-and-locals-key-distinctions-in-windows-login-systems-exposed/"><u>Microsoft & Locals: Key Distinctions in Windows Login Systems Exposed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peak-psd-layer-magic/"><u>Peak PSD Layer Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-techniques-when-and-how-to-apply-lockmaster/"><u>PowerToys Techniques: When and How to Apply Lockmaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-clearing-frozen-application-alerts/"><u>Solutions for Clearing Frozen Application Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-handling-of-frozen-windows-pin-issues/"><u>Steady Handling of Frozen Windows Pin Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-v29-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo V29 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-with-efficient-multi-tasking-in-windows-11/"><u>Transforming Workflow with Efficient Multi-Tasking in Windows 11</u></a></li>
+</ul></div>
 

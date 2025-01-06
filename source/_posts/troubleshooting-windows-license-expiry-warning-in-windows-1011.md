@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows License Expiry Warning in Windows 10/11
-date: 2024-12-20T17:45:23.124Z
-updated: 2024-12-27T22:24:37.604Z
+date: 2025-01-03T01:51:24.956Z
+updated: 2025-01-06T06:57:45.483Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  Now that you are aware of the common causes of this error, let's now focus on the potential solutions to resolve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apply Some Preliminary Fixes
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
  Wait for the troubleshooter to do its thing, and then check if it resolves the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Find Your Product Key and Activate Windows
 
  Another thing you can do to fix this error is to find your product key using the ShowKeyPlus app and then attempt to activate Windows again. Several users on the forums reported fixing the error with this method. You can also give it a go.
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 3. Note down the **OEM key** in the **Home** tab.  
 ![ShowKeyPlus App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/showkeyplus-app-on-windows.jpg)
 4. Press **Win + I** to open the Settings app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. In the **System** tab, click on **Activation**.
 6. Click the **Change** button next to **Change product key**.
@@ -92,10 +92,14 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 4. Type **slmgr /ato** in the console and press Enter.  
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Rebuild the Tokens.dat File
@@ -115,10 +119,6 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  Restart your computer after running the above commands and then check if you still get the “Your Windows license will expire soon” error on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reset the Licensing Status
 
  In case your Windows license is not genuine, there's a workaround to dismiss the “Your Windows license will expire soon” message. This workaround involves resetting the activation period and [hiding the Activate Windows watermark](https://www.makeuseof.com/tag/remove-activate-windows-10-watermark/) via Command Prompt. Here are the steps you can follow.
@@ -131,7 +131,7 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
@@ -152,16 +152,22 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-peak-traffic-times-for-stellar-video-performance/"><u>[New] 2024 Approved Peak Traffic Times for Stellar Video Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grasping-c-span-a-legal-grey-area-explored/"><u>[Updated] Grasping C-Span A Legal Grey Area Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-convert-your-mp3-collection-into-windows-audio-cds-via-imgburn/"><u>Efficiently Convert Your MP3 Collection Into Windows' Audio CDs via ImgBurn</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-interruptexception-blue-screen-in-w10w11-pcs/"><u>Fixing INTERRUPT_EXCEPTION Blue Screen in W10/W11 PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-read-only-settings-on-your-windows-device/"><u>Overhauling Read-Only Settings on Your Windows Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-software-removal-11-methods-for-windows-users-127-chars/"><u>Simplifying Software Removal: 11 Methods for Windows Users (127 Chars)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktoks-anime-revolution-innovative-ideas-countdown/"><u>TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-pathway-to-exceptional-gopro-adventures/"><u>[New] A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>[New] In 2024, Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-quick-recovery-of-twitch-broadcasts/"><u>[New] In 2024, The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-asmr-series-on-youtube-platform-for-2024/"><u>[Updated] Best ASMR Series on YouTube Platform for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-10-premier-photo-frame-apps/"><u>[Updated] In 2024, 10 Premier Photo Frame Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-live-youtube-streaming-unlocked-beginners-obs-tutorial/"><u>[Updated] Live Youtube Streaming Unlocked Beginner's OBS Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-amongst-windows-n-versions-key-considerations/"><u>Choosing Amongst Windows N Versions: Key Considerations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-setting/"><u>Enabling Windows Terminal's Quake Setting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-reminders-before-overhauling-your-windows/"><u>Essential Reminders Before Overhauling Your Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-10-2-methods/"><u>How to Restore Windows Photo Viewer in Windows 10 (2 Methods)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mystery-of-the-invisible-touchpad-solved-here/"><u>Mystery of the Invisible Touchpad, Solved Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-onedrive-crashes-effortlessly/"><u>Navigate Through Windows OneDrive Crashes Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-data-sorting-adding-text-to-windows-11-folders/"><u>Simplifying Data Sorting: Adding Text to Windows 11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-swashbucklers-overcome-delayed-gameplay-in-sw-bf2/"><u>Swift Swashbucklers: Overcome Delayed Gameplay in SW BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-computing-the-ai-enhanced-windows/"><u>Transforming Computing: The AI-Enhanced Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-preparedness-generate-boot-media-in-three-steps/"><u>Windows 11 Preparedness: Generate Boot Media in Three Steps</u></a></li>
 </ul></div>
 

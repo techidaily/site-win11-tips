@@ -1,7 +1,7 @@
 ---
 title: "Secret Menu Secrets: Win11's Hidden Item Magic"
-date: 2024-12-23T20:16:55.023Z
-updated: 2024-12-27T17:23:07.938Z
+date: 2025-01-02T02:19:29.923Z
+updated: 2025-01-05T23:02:47.330Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Open the extracted hidden\_files\_context\_menu folder.
@@ -50,17 +50,21 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 5. Select **OK** on the second dialog box that appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now bring up the root C: directory in File Explorer to try out the new **Hidden items** context menu option. Right-click anywhere inside that folder to select **Show more options** on Windows 11’s context menu and **Hidden items**. Selecting that option will reveal a few hidden folders in the root directory if that setting isn’t enabled already. Click the same option again to hide the folder and files again.
 
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -108,20 +108,24 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>[Updated] Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-critique-of-madden-nfl-19-brilliant-modules-with-a-touch-of-monotony/"><u>Comprehensive Critique of Madden NFL 19: Brilliant Modules with a Touch of Monotony</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-restore-error-0x80042306/"><u>Decoding and Correcting Windows Restore Error 0X80042306</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defending-windows-11-insider-editions/"><u>Defending Windows 11 Insider Editions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-instagrams-visual-narratives-a-guide-for-prodigies/"><u>In 2024, Mastering Instagram's Visual Narratives A Guide for Prodigies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-narrative-blueprint-a-basic-overview/"><u>In 2024, Narrative Blueprint A Basic Overview</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-15-pro-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 15 Pro Max without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gpu-task-management-on-windows/"><u>Mastering GPU Task Management on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-audio-enhancements-for-switch-gaming/"><u>Optimal Audio Enhancements for Switch Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-read-only-tags-from-windows-documents/"><u>Removing Read-Only Tags From Windows Documents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplicity-in-files-optimize-windows-11-explorer-display/"><u>Simplicity in Files: Optimize Windows 11 Explorer Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sound-quality-assessment-for-your-windows-pc/"><u>Sound Quality Assessment for Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-login-top-5-methods-to-mend-key-conflicts-in-windows-11-systems/"><u>Streamline Your Login: Top 5 Methods to Mend Key Conflicts in Windows 11 Systems</u></a></li>
-<li><a href="https://win-top.techidaily.com/ts-vob-movavi/"><u>무료 온라인 모바일화 가능한 TS VOB 영상 데이터를 자주광성 형식으로 변환: Movavi의 기술</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-drone-applications-at-present-and-in-the-future/"><u>[New] In 2024, Drone Applications at Present and in the Future</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smooth-process-incorporating-igtv-in-stories/"><u>[Updated] 2024 Approved Smooth Process Incorporating IGTV in Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-harnessing-video-magic-channel-creation-wizardry-for-2024/"><u>[Updated] Harnessing Video Magic Channel Creation Wizardry for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-task-managers-welcome-screenscape-in-win11/"><u>Adjusting Task Manager's Welcome Screenscape in Win11</u></a></li>
+<li><a href="https://win-special.techidaily.com/efficiently-duplicate-windows-11-system-on-several-computers-with-these-3-key-steps/"><u>Efficiently Duplicate Windows 11 System on Several Computers with These 3 Key Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-halted-warcraft-update-sequence/"><u>Navigating a Halted Warcraft Update Sequence</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-bamboo-art-pen-and-touch-software-installation-guide/"><u>New Release: Bamboo Art Pen & Touch Software Installation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-exception-breakpoint-obstacle/"><u>Overcoming Windows Exception Breakpoint Obstacle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-data-theft-controlling-removable-storage-on-pcs/"><u>Preventing Data Theft: Controlling Removable Storage on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-xiaomi-redmi-note-13-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 13 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reset-and-reactivate-a-windows-users-guide-for-ms-store/"><u>Reset and Reactivate: A Windows User's Guide for MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-management-with-windows-autodelete-feature/"><u>Simplifying File Management with Windows' AutoDelete Feature</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/the-ultimate-list-of-professional-video-editing-programs-for-windows-users/"><u>The Ultimate List of Professional Video Editing Programs for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-app-start-issue-qt-plugin-not-available/"><u>Troubleshooting App Start Issue: Qt Plugin Not Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-off-windows-11s-news-feed-a-step-by-step-guide/"><u>Turning Off Windows 11'S News Feed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-your-samsung-remote-to-your-television/"><u>Ultimate Guide: Connecting Your Samsung Remote to Your Television</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wasd-isolation-necessity-or-concern/"><u>Understanding WASD Isolation: Necessity or Concern?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-adopting-sudo-can-transform-your-windows-experience/"><u>Why Adopting Sudo Can Transform Your Windows Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uninterrupted Playtime: Preventing League of Legends Offline on PC"
-date: 2024-08-16T02:33:36.906Z
-updated: 2024-08-17T02:33:36.906Z
+date: 2025-01-05T09:22:54.677Z
+updated: 2025-01-06T07:36:14.163Z
 tags:
   - windows10
   - windows11
@@ -48,15 +48,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If other users have reported a similar problem, rest assured that your connectivity issues stem from Riot's servers, and not from your PC. All you have to do is wait for the problem to be resolved automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Rule Out Internet Issues
 
  If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
@@ -64,9 +58,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
 ![Flushing DNS Cache in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/2-Flushing-DNS-Cache-in-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the internet isn't connected or is unstable, follow these steps:
@@ -79,18 +73,23 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 Proceed to the next step if the above checks and fixes do not help.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Connect to a Different Network
 
 ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
  If you do not experience the same issue on a different network, the problem lies with your primary internet connection. It could be a hardware issue with your router, a restriction from your ISP, or something else. You should have your ISP representative inspect your internet to rule out all of this.
 
  However, if the problem persists after changing the internet, the OS must be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Whitelist the League of Legends on Windows Defender
 
@@ -113,10 +112,11 @@ Proceed to the next step if the above checks and fixes do not help.
 3. From the left sidebar, select the**General** tab.
 4. Then click on the**Initiate Full Repair** button.  
 ![Running a Full Repair of League of Legends Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/running-a-full-repair-of-league-of-legends-client.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Afterward, follow the on-screen instructions to fix your files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Report the Problem to Riot Games
 
@@ -125,20 +125,18 @@ Proceed to the next step if the above checks and fixes do not help.
  If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the League of Legends Disconnecting Issue
 
  Disconnecting from your game when you are about to defeat your friends can be extremely frustrating. Hopefully, the fixes in this article will help you fix this annoying problem and establish a stable connection to Riot servers. If nothing works, reinstall the game.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +145,21 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-finding-your-audio-foothold-podcasts-or-youtube-to-lean-on/"><u>[New] In 2024, Finding Your Audio Foothold Podcasts or YouTube to Lean On?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-your-world-transformed-youtubes-immersive-vr-collection/"><u>[Updated] 2024 Approved Your World Transformed Youtube's Immersive VR Collection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synthetic-worlds-the-future-of-gaming-with-vr/"><u>[Updated] Synthetic Worlds The Future of Gaming with VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-window-interface-elevate-your-workspace/"><u>Customize Window Interface: Elevate Your Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800700e9-error-a-step-by-step-approach/"><u>Eliminating the 0X800700E9 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-page-not-loaded-issue-in-windows-store/"><u>Fixing 'Page Not Loaded' Issue in Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-mouse-gestures-in-microsoft-edge-for-windows-11/"><u>How to Enable Mouse Gestures in Microsoft Edge for Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-edge-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Edge 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-sound-to-text-conversion-technology/"><u>In 2024, Elite Sound to Text Conversion Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-holiday-discounts-with-these-5-google-shopping-hacks-insights-by-zdnet/"><u>Maximize Your Holiday Discounts with These 5 Google Shopping Hacks | Insights by ZDNet</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/naver/"><u>NAVER動画の記録とダウンロード手順 - ナレッジがあなたの右に!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-techniques-for-freeing-up-disk-space-in-win11-without-file-deletion-max-156-chars/"><u>Revolutionary Techniques for Freeing Up Disk Space in Win11 Without File Deletion (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-stalled-files-transfers-in-windows-11-environment/"><u>Unfreezing Stalled Files Transfers in Windows 11 Environment</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-11-fehlerbehebung-fur-nicht-funktionierenden-versionsverlauf-der-dateiverwaltung/"><u>Windows 11: Fehlerbehebung Für Nicht Funktionierenden Versionsverlauf Der Dateiverwaltung</u></a></li>
+</ul></div>
 

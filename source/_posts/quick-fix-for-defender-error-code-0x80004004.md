@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2024-12-20T21:04:28.121Z
-updated: 2024-12-27T21:13:21.277Z
+date: 2025-01-01T18:35:32.644Z
+updated: 2025-01-06T02:57:14.493Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding the Problem Behind Error Code 0x80004004
 
@@ -56,6 +60,11 @@ Here is how you can do that:
 4. Choose**Properties** from the context menu.  
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
@@ -71,24 +80,20 @@ Here is how you can do that:
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Install the Update Manually
@@ -99,10 +104,6 @@ Here is how you can do that:
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
@@ -110,7 +111,7 @@ Here is how you can do that:
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
@@ -132,19 +133,19 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-strategies-to-locate-your-clandestine-snaps/"><u>[New] In 2024, Strategies to Locate Your Clandestine Snaps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/evealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>[New] Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-securing-snapchat-footage-essential-mobile-tips/"><u>[New] Securing Snapchat Footage Essential Mobile Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcapture-stop-and-save-screenshot-command-for-2024/"><u>[Updated] QuickCapture Stop & Save Screenshot Command for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/destinys-call-to-arms-mesmerizing-imagery-and-background-art-for-the-enigmpress-of-sorcery-your-ultimate-collection-from-yl-software/"><u>Destiny's Call to Arms: Mesmerizing Imagery and Background Art for the Enigmpress of Sorcery - Your Ultimate Collection From YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x800f0831-fast-fix-with-automated-windows-update-solutions/"><u>Error Code 0X800F0831? Fast Fix with Automated Windows Update Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evolution-in-travel-meet-the-flexible-tripod-12/"><u>Evolution in Travel - Meet the Flexible Tripod 12</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-download-the-right-nvidia-drivers-for-your-windows-system-windows-1078/"><u>Find and Download the Right NVIDIA Drivers for Your Windows System (Windows 10/7/8)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-video-file-conversion-from-mkv-to-mp4-on-windows/"><u>Seamless Video File Conversion From MKV to MP4 on Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210661767-9781956108033-soul-warrior/"><u>Soul Warrior | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-the-windows-activation-error-0x803f700f/"><u>Strategies for Overcoming the Windows Activation Error 0X803F700f</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-accessing-iis-manager-for-web-servers/"><u>Swiftly Accessing IIS Manager for Web Servers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-for-lengthening-windows-10-shutdown-with-open-applications/"><u>Tactics for Lengthening Windows 10 Shutdown with Open Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unobstructed-memory-management-7-ways-to-restore-in-win11/"><u>Unobstructed Memory Management: 7 Ways to Restore in Win11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-techniques-from-recording-room-to-facebook-lives/"><u>[Updated] In 2024, Unveiling Techniques From Recording Room to Facebook Lives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-online-photo-grid-creators-for-enhanced-clarity/"><u>2024 Approved Top Online Photo Grid Creators for Enhanced Clarity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/banishing-vibration-effects-in-uav-videos-for-2024/"><u>Banishing Vibration Effects in UAV Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-offline-windows-update-plan/"><u>Crafting an Offline Windows Update Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-performance-new-tech-in-microsoft-teams/"><u>Enhancing Performance: New Tech in Microsoft Teams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-gaming-fluidity-top-6-fixes-for-eliminating-stutters-and-drops-in-elden-ring/"><u>Improve Gaming Fluidity: Top 6 Fixes for Eliminating Stutters and Drops in Elden Ring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-activating-controlled-folder-access-in-windows-11/"><u>Mastering Privacy: Activating Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-lost-connectivity-winos-strategies/"><u>Rebooting Lost Connectivity: WinOS Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-render-vintage-videos-with-windows-madvr/"><u>Revamp and Render Vintage Videos with Windows MadVR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-alert-stay-up-the-top-5-ways-to-monitor-win11-uptime/"><u>Stay Alert, Stay Up: The Top 5 Ways to Monitor Win11 Uptime</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-updating-your-sound-card-drivers-with-yl-computings-solutions/"><u>Step-by-Step Guide: Updating Your Sound Card Drivers with YL Computing's Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unmasking-youtubes-covert-video-collections-for-2024/"><u>Unmasking YouTube’s Covert Video Collections for 2024</u></a></li>
 </ul></div>
 

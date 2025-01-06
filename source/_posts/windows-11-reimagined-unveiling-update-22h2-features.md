@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Reimagined: Unveiling Update #22H2 Features"
-date: 2024-08-08T11:11:16.763Z
-updated: 2024-08-09T11:11:16.763Z
+date: 2025-01-04T01:37:45.663Z
+updated: 2025-01-05T17:11:28.252Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Moment is the internal codename Microsoft uses internally to deliver new features and improvements to Windows 11, version 22H2\. Windows 11's next feature update will come via Moment 2, which is rumored to arrive next month. And we are putting together a list of what you might expect from it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. A Tablet-Optimized Taskbar
 
  Microsoft will introduce a tablet-optimized taskbar thanks to a long-standing demand from Windows tablet users. Windows 11-powered tablets will get two taskbar modes: "**Collapsed** " and "**Expanded** ." The taskbar in the "Expanded" state features bigger icons, making it touch-friendly and best suited for tablet computers.
@@ -34,17 +31,26 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
  The "Collapsed" state will be as minimal as possible. It will hide all the icons and show only essential ones, like the battery indicator. Swiping up and down on the bottom of your device will switch between two taskbar states. This functionality will be limited to tablets and convertibles only.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. A Floating Taskbar Similar to the macOS Dock
 
  Microsoft accidentally showed a floating taskbar in Windows 11 during a presentation at the Ignite event last year. A floating taskbar looks very similar to the macOS dock, except that the former features a less-rounded design.
 
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
 
  Since Microsoft has not yet introduced the macOS dock-inspired taskbar to Windows 11 Insider builds, the question of whether it will be possible to move the taskbar to several positions remains unanswered. Either way, the floating taskbar appears to be going through internal testing at this moment. Once ready, Microsoft could release it for Windows 11 Insiders and eventually for the general public via Moment updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Tabbed Interface in Notepad
 
@@ -56,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ## 4\. Animated Icons in the Settings App
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![animated icons in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/animated-icons-in-settings-app.jpg)
 
  Image credit:[Microsoft](https://learn.microsoft.com/en-in/windows/apps/design/signature-experiences/motion#delightful-unexpected-moments-of-joy-with-purpose)
@@ -67,31 +70,23 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Every animation will have a unique visual effect that's true to the nature of the icons. For example, the icon for the**Windows Update** setting will spin around whenever you click on it, whereas the icon for**Network & internet** will fill itself up upon clicking. Microsoft is currently A/B testing the animated Settings icon with select Windows 11 Insiders.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Built-in Screen Recording
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Snipping tool with screen recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snipping-tool-with-screen-recording.jpg)
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
  The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 6\. New Dark Mode Toggle
 
  A dark mode toggle in Windows 11 Quick Setting panel was recently spotted in Insider builds. The new dark mode toggle will allow you to turn on or off dark mode whenever you like without opening the Settings app, which is very similar to how you can turn on or off dark mode quickly from the notification panel of your Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dark Mode toggle in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dark-mode-toggle-in-windows-11.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit: Zac Bowden/[Twitter](https://twitter.com/zacbowden/status/1592528453903200257)
 
@@ -101,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Windows 11 Task Manager search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-task-manager-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Task Manager in Windows 11 shows you information on applications and processes on your computer. It is also where you can get a good idea about your PC's current state. However, finding one particular process or application that may need your attention when you run into trouble is quite a task.
 
  An improved Task Manager that Microsoft is currently testing with Insiders has a new search bar to help look up the exact process or application within seconds. In the new Task Manager search bar, you can search with a name, publisher, or process identification number (PID). Microsoft may introduce the new search bar to the upcoming Moment 2 or 3 updates, set to release this year.
@@ -109,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  The capabilities above have a high chance of getting into the list of features that Microsoft will introduce in Moment 2\. But we can not rule out the possibility of some features not making it to the final release. Therefore, they may be split across Moment 3 and subsequent updates.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +121,20 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeting-and-tumbling-sharing-videos-seamlessly/"><u>[New] 2024 Approved Tweeting & Tumbling Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>[New] Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-comparing-leading-cam-tech-with-mymanycam/"><u>2024 Approved Comparing Leading Cam Tech with MyManyCam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-win32keygen-threat-signs-impact-and-defensive-actions/"><u>Dissecting Win32/Keygen Threat: Signs, Impact, and Defensive Actions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-navigate-into-your-folder-of-windows-11-appseasily/"><u>How To Navigate Into Your Folder of Windows 11 AppsEasily</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-error-code-0xc00000f/"><u>Navigating Through the Maze of Windows Error Code 0Xc00000f</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reignite-drive-the-ultimate-inspiration-list/"><u>Reignite Drive The Ultimate Inspiration List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-device-hang-code-0x887a0006/"><u>Steps to Resolve Windows Device Hang: Code 0X887A0006</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-steps-to-tranquility-for-pcs/"><u>The Essential Steps to Tranquility for PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/"><u>Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-secure-and-swift-gpo-management-pathways-win11-style/"><u>Unveil Secure and Swift GPO Management Pathways, Win11 Style</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-tech-the-best-cameras-of-future-2024/"><u>Visionary Tech The Best Cameras of Future 2024</u></a></li>
+</ul></div>
 

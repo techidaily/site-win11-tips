@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2024-12-20T18:56:40.199Z
-updated: 2024-12-27T17:22:50.651Z
+date: 2025-01-03T08:52:15.329Z
+updated: 2025-01-05T21:53:29.342Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Enable Copy and Paste via Windows Settings
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
@@ -42,15 +38,23 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -70,17 +74,13 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click twice on the newly created DWORD key to open a pop-up window.
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
@@ -112,16 +112,20 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-ps2-emulation-software-for-ios-users/"><u>[Updated] In 2024, Ideal PS2 Emulation Software for IOS Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sketch-humorous-images-with-adobe/"><u>2024 Approved Sketch Humorous Images with Adobe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/complete-deletion-of-wsl-in-windows-11-environment/"><u>Complete Deletion of WSL in Windows 11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-reactivate-stalled-wsreset-on-pcs/"><u>Essential Steps to Reactivate Stalled WSReset on PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-gaping-security-risk-in-apples-updated-anti-theft-technology-and-how-to-patch-it-up-cyberguardian-news/"><u>Exploring the Gaping Security Risk in Apple's Updated Anti-Theft Technology & How to Patch It Up | CyberGuardian News</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tune-your-devices-touch-sensitivity-in-windows-11/"><u>How to Tune Your Device's Touch Sensitivity in Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/introducing-the-latest-addition-to-fxmagnetic-the-revolutionary-rsi-trader-for-mt4-pros/"><u>Introducing the Latest Addition to FXmagnetic: The Revolutionary RSI Trader for MT4 Pros</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/losungen-zur-einstellung-automatischer-loschvorgange-und-wiederherstellung-wichtiger-dll-dateien/"><u>Lösungen Zur Einstellung Automatischer Löschvorgänge Und Wiederherstellung Wichtiger DLL-Dateien</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-system-performance-with-fewer-processes/"><u>Optimizing System Performance with Fewer Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-to-utilizing-devs-space-in-win11/"><u>The Essential Blueprint to Utilizing Devs Space in Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] 2024 Approved Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-decoding-ios-digital-screen-snatcher-secrets/"><u>[New] Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>[New] Expert's Choice Gimbals Top-Ranked For 4K Cameras</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-civi-3-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Civi 3 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-windows-11-security-error-messages-quickly/"><u>Disarming Windows 11 Security Error Messages Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-opposite-worlds-to-one-android-pc-harmony-plan/"><u>From Opposite Worlds to One: Android-PC Harmony Plan</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording-for-2024/"><u>From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-recycle-bin-error-in-win1011/"><u>How to Eradicate Recycle Bin Error in WIN10/11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/periscope-insights-how-to-access-and-create-user-account/"><u>Periscope Insights How to Access and Create User Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-stalled-wsreset-utility-in-windows-systems/"><u>Reigniting Stalled WSReset Utility in Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882811-9781088186596-source-and-interpretation-of-dreams-with-fasting-prayer-for-fulfilment-of-good-dreams/"><u>Source And Interpretation Of Dreams With Fasting & Prayer For Fulfilment Of Good Dreams | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-multiple-instances-problem-in-windows/"><u>Tackling 'Multiple Instances' Problem in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-trustworthy-win-friendly-downloads/"><u>The Ultimate List of Trustworthy Win-Friendly Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-19-affordable-audio-extractors-to-get-youtube-music-on-your-device-for-2024/"><u>Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-character-mapping-windows-11-guide/"><u>Unlocking Character Mapping: Windows 11 Guide</u></a></li>
 </ul></div>
 

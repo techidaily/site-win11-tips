@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Complexity: Access to Windows Printer Administration Console"
-date: 2024-08-16T02:36:51.149Z
-updated: 2024-08-17T02:36:51.149Z
+date: 2025-01-03T19:35:24.960Z
+updated: 2025-01-06T08:35:20.788Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
 ![An illustration of a question and an idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-a-question-and-an-idea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This Print Management tool is an app that lets you monitor print queues and manage all your print jobs. It even sends you notifications when your print jobs get interrupted.
 
  The best part is that this app can help you manage print jobs for your remote devices. Let’s explore how you can use this tool:
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
 ![The Print Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-print-management-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can check everything about your print jobs in the “Queue Status” and “Jobs In Queue” sections in the middle pane.
 
  If you want to check out specific printers, click the **Printers Not Ready** or **Printers With Jobs** folders on the left.
@@ -43,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
  You’ve already discovered how to access the Print Management app using the Run command dialog box. So, let’s check out the various other ways to access this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Access the Print Management Tool Using the Start Menu Search Bar
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -67,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 ![Accessing the Print Management Tool Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Access the Print Management Tool Using the Control Panel
 
  In most cases, you’d usually use the Control Panel to [troubleshoot various issues on your Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/). But besides that, you can also use this tool to access various apps
@@ -81,13 +91,15 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 4. Double-click on the **Print Management** app to open it.
 
 ![Accessing the Print Management Tool Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Access the Print Management Tool Using the File Explorer Address Bar
 
  The File Explorer address bar usually displays your folder paths. Interestingly, you can also use the address bar to access most of the apps on your PC.
@@ -98,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 2. Type **printmanagement.msc** in the File Explorer address bar and press **Enter**.
 
 ![Accessing the Print Management Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-file-explorer-address-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access the Print Management Tool Using the Task Manager
 
@@ -110,22 +126,7 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 3. Type **printmanagement.msc** in the search box and then press **OK**.
 
 ![Accessing the Print Management Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-task-manager.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Access the Print Management Tool via the System32 Directory
 
  Can’t access the Print Management tool using the methods we’ve covered? Try opening this tool from the Windows System32 folder.
@@ -140,16 +141,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 6. Locate and double-click on the **printmanagement** file.
 
 ![Accessing the Print Management Tool Via the System32 Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-via-the-system32-directory.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Access the Print Management Tool Using the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell usually help when it comes to troubleshooting system issues. In fact, you can also use these tools to configure some PC settings.
 
@@ -171,12 +166,13 @@ printmanagement.msc
 
 printmanagement.msc
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Access the Print Management Tool Using a Desktop Shortcut
 
 ![A lady using a Windows device while sitting outside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-device-while-sitting-outside.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows [desktop shortcuts](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) make it easy for you to access the apps on your device. So, let’s check out how you can create a desktop shortcut for the Print Management tool:
 
@@ -196,14 +192,11 @@ printmanagement.msc
 
  And if you can't connect to a printer on your Windows device, there are some solutions you can check out. For example, you could tweak a few settings in the Local Group Policy Editor.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,4 +205,17 @@ printmanagement.msc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-ultimate-websites-for-stunning-hdr-skies/"><u>[New] 10 Ultimate Websites for Stunning HDR Skies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-expansion-at-wallet-friendly-costs/"><u>[Updated] 2024 Approved Channel Expansion at Wallet-Friendly Costs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-image-conversion-wizardry-turning-jpgpng-into-pdf/"><u>[Updated] IPhone Image Conversion Wizardry Turning JPG/PNG Into PDF</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-hulu-error-code-rununk13/"><u>How to Fix Hulu Error Code RUNUNK13</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-share-without-boundaries-with-instasavers/"><u>In 2024, Share Without Boundaries with InstaSavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixed-app-installations-oculus-on-ws11ws10/"><u>Mastering the Art of Fixed App Installations: Oculus on WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speech-to-text-made-effortless-learn-from-whisper-expertise/"><u>Speech to Text Made Effortless: Learn From Whisper Expertise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/steps-to-establish-a-viable-youtube-sponsor-relationship-for-2024/"><u>Steps to Establish a Viable YouTube Sponsor Relationship for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-altering-win-11s-keyboard-settings/"><u>Understanding and Altering Win 11'S Keyboard Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-time-capsule-7-historical-windows-aspects-in-11/"><u>Unveiling the Time Capsule: 7 Historical Windows Aspects in 11</u></a></li>
+</ul></div>
 

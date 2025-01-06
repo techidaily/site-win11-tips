@@ -1,7 +1,7 @@
 ---
 title: "Effortless Linguistic Transitions: Mastering Windows Hotkey Combinations"
-date: 2024-08-08T11:13:14.466Z
-updated: 2024-08-09T11:13:14.466Z
+date: 2024-12-30T07:43:41.330Z
+updated: 2025-01-06T09:32:50.341Z
 tags:
   - windows10
   - windows11
@@ -33,29 +33,28 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
  You can view the main QTranslate translation window by selecting text and pressing the**Ctrl** key twice. That window displays the selected foreign text alongside the translated content. There you can change the translation by choosing a different language on the drop-down menu and clicking**Translate** . Click the**Listen** **to text** (headphone) buttons to play an audio text-to-speech translation.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
@@ -65,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -82,15 +85,13 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
@@ -104,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Translate Text With Handy Hotkeys in Windows
 
  QTranslate’s and DeepL’s hotkeys enable you to quickly and easily translate in Windows 11 and 10\. You can press those convenient keyboard shortcuts to translate text in websites and documents across all Windows software whenever needed. The hotkey functionality those software packages provide makes them preferable alternatives to the Google and Microsoft translation tools.
@@ -116,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +125,26 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[Updated] Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creative-content-concepts-for-vlogs/"><u>[Updated] In 2024, Creative Content Concepts for Vlogs</u></a></li>
+<li><a href="https://article-files.techidaily.com/choice-collection-high-quality-virtual-reality-titles-for-cardboard-for-2024/"><u>Choice Collection High-Quality Virtual Reality Titles for Cardboard for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directx-simplified-download-update-without-hassle/"><u>DirectX Simplified: Download, Update Without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-sudden-windows-11-security-alerts/"><u>Eliminate Sudden Windows 11 Security Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-protection-deactivating-win11-firewall/"><u>Eliminating Protection: Deactivating Win11 Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-awareness-meditative-practices-for-brain-and-heart-health/"><u>Enhancing Awareness: Meditative Practices for Brain and Heart Health</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-facebooks-hidden-activity-knowledge-is-power-for-2024/"><u>Examining Facebook’s Hidden Activity Knowledge Is Power for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-file-history-options-on-windows-devices/"><u>Fixing Erroneous File History Options on Windows Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>In 2024, 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v30-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V30 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone with Broken Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-user-specific-policy-implementation-in-windows-11/"><u>Navigating User-Specific Policy Implementation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-protocols-decoding-windows-eightest-ways/"><u>Reboot Protocols: Decoding Windows' Eightest Ways</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-startups-secret-weapon-kit-must-have-items-that-set-you-apart-for-2024/"><u>The Startup's Secret Weapon Kit Must-Have Items That Set You Apart for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-refine-winos-icon-distance-with-ease/"><u>Title: Refine WinOS Icon Distance with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-secrets-of-fixing-onedrive-server-issues/"><u>Unraveling the Secrets of Fixing OneDrive Server Issues</u></a></li>
+</ul></div>
 

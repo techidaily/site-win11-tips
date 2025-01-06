@@ -1,7 +1,7 @@
 ---
 title: Improving Windows 11 Taskbar Stability
-date: 2024-08-08T11:13:10.688Z
-updated: 2024-08-09T11:13:10.688Z
+date: 2025-01-03T21:06:27.774Z
+updated: 2025-01-05T19:06:32.386Z
 tags:
   - windows10
   - windows11
@@ -20,24 +20,8 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
  To quickly fix the stuck or unresponsive taskbar, open Task Manager and end the Windows Explorer service. However, the taskbar can also stop working due to a bad Window update, corrupt system files, and issues with system services. Depending on the issue, you'll need to try multiple solutions to fix the Windows 11 taskbar when it stops working or loading.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Windows File Explorer
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![restart windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-file-explorer.jpg)
 
  Windows Explorer is responsible for how you interact with the Windows 11 user interface. Restarting the service will reboot the GUI process and fix any temporary glitches causing the taskbar to stop working.
@@ -62,6 +46,11 @@ To reinstall and register all Windows apps:
 2. Right-click on**Windows PowerShell** and select**Run as administrator.**  
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell-1.jpg)
 3. In the PowerShell window, type the following command and press**Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 4. Windows will now try to reinstall and re-register all the built-in Windows apps. You’ll see an error message in red indicating the app already exists and cannot be reinstalled. Ignore the message and wait for the process to complete till you see the following line:  
 `PS C:\Users\Administrator>`
@@ -74,14 +63,16 @@ To reinstall and register all Windows apps:
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Close Conflicting System Services
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
 
@@ -99,9 +90,6 @@ To restart system services in Task Manager:
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
  Another nifty trick to fix the taskbar not working issue is to make the Start menu use XAML and resolve issues that may cause the menu to stop working.
@@ -130,6 +118,10 @@ To make the Start menu use XAML:
 
  If the taskbar is not loading due to system file corruption,[run the DISM utility to repair the Windows image](https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/) . Next,[run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix issues with protected system files. Both processes can take a while to complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Perform a System Restore
 
  You can use a recent system restore point to restore your PC to an earlier point where the taskbar works. Restore point helps you recover Windows OS when a driver, feature, or application update breaks the system.
@@ -138,45 +130,42 @@ To make the Start menu use XAML:
 
 1. Press**Win + R** to open the**Run** dialog.
 2. Type**rstrui.exe** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the most recent one but created before the date of the taskbar issue and click**Next** . If you want to view which programs will be affected, click on**Scan for affected programs.**
 7. Read the description and click on**Finish** to confirm your restore point.
 
  Your system may restart a few times when system restore is in progress. Leave the system idle and wait for the process to complete. When the system restarts, you’ll see a success message. If not, try again with the same or another restore point if available.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Create a New User Account
 
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Easy Fixes to Restore the Windows 11 Taskbar
 
  The Windows 11 taskbar is a vital cog in the operating system and makes it easy to navigate a complicated piece of software for both advanced and standard users. Fortunately, you can restart Windows Explorer in Task Manager to fix most issues with the taskbar.
 
  If the issue persists, check and uninstall bad Windows updates, restart system services, reinstall Windows built-in apps, and perform a restore using restore points.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +174,16 @@ To make the Start menu use XAML:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/explore-winning-webp-image-viewers-4plus/"><u>Explore Winning WebP Image Viewers: #4+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erratic-0xf0831-errors-on-windows-11-devices/"><u>Fixing Erratic 0xF0831 Errors on Windows 11 Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>In 2024, Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>In 2024, Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powertoys-guide-to-effective-file-locking-techniques/"><u>PowerToys Guide to Effective File Locking Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577615074-save-big-on-mondlys-ultimate-offering/"><u>Save Big on Mondly's Ultimate Offering</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v30-lite-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V30 Lite 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-back-lost-5ghz-connection-in-windows-11-expert-advice-available/"><u>Win Back Lost 5GHz Connection in Windows 11: Expert Advice Available</u></a></li>
+</ul></div>
 

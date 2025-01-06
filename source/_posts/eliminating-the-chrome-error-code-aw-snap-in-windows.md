@@ -1,7 +1,7 @@
 ---
 title: Eliminating the Chrome Error Code “Aw, Snap!” In Windows
-date: 2024-12-25T22:26:41.692Z
-updated: 2024-12-27T21:40:10.319Z
+date: 2024-12-29T21:32:38.760Z
+updated: 2025-01-05T20:54:13.892Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Rule Out Issues With Your Internet Connection
 
  A weak or inconsistent internet connection can prevent Google Chrome from loading pages, resulting in the “Aw Snap!” page crash error. Hence, it's important to make sure that your internet connection is working properly. A quick way to test your internet connection on Windows is to open an app that uses the internet, such as the Microsoft Store, and see if it loads fine.
@@ -68,11 +64,11 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 3. Use the toggles to disable all your extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Hardware Acceleration
 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 5. Click the **Relaunch** button to apply the changes and restart Chrome.  
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -98,14 +98,10 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After creating a new profile, try loading a few websites and see if you get any errors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset Google Chrome
 
@@ -121,10 +117,14 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Browse With Google Chrome Again on Windows
 
@@ -142,21 +142,17 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-premium-performance-in-a-package-that-pleases-your-pocket/"><u>[New] 2024 Approved Premium Performance in a Package That Pleases Your Pocket</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[New] In 2024, Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-enhance-your-footage-reducing-size-for-instagram-on-a-mac/"><u>[Updated] In 2024, Enhance Your Footage Reducing Size for Instagram on a Mac</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-poco-x6-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-free-sites-to-watch-any-game-online-2024-edition/"><u>Best FREE Sites to Watch Any Game Online - 2024 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-steams-failed-file-synchronization-on-pc/"><u>Correcting Steam's Failed File Synchronization on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-hardware-not-recognized-issue-on-windows/"><u>Fixing 'Hardware Not Recognized' Issue on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-sony-xperia-10-v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Sony Xperia 10 V to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-xcover-7-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy XCover 7 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-standard-performance-mode/"><u>Navigating to Windows' Standard Performance Mode</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v27e-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V27e to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/separate-windows-11-taskbar-items/"><u>Separate Windows 11 Taskbar Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-the-shift-installing-apps-on-your-newest-windows-11-laptop/"><u>Simplifying the Shift: Installing Apps on Your Newest Windows 11 Laptop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-storage-recognizing-excessive-disk-use-windows-style/"><u>Streamline Storage: Recognizing Excessive Disk Use Windows Style</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-4-ipad-pro-units-worth-skipping-in-current-market-conditions-expert-analysis-by-zdnet/"><u>The Ultimate List of 4 iPad Pro Units Worth Skipping in Current Market Conditions - Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unique-methods-to-fire-up-your-pcs-software-tools/"><u>Unique Methods to Fire Up Your PC's Software Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-leveraging-videos-to-skyrocket-your-fb-audience/"><u>[New] 2024 Approved Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-integrating-zoom-seamlessly-with-tiktok-live-streams/"><u>[New] Integrating Zoom Seamlessly with TikTok Live Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-connect-airpods-to-windows-machines/"><u>Effortlessly Connect AirPods to Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-zte-nubia-flip-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on ZTE Nubia Flip 5G online without jailbreak</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-x9b-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor X9b Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>In 2024, Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latency-free-leap-essential-tips-for-clean-video-windows-streams/"><u>Latency-Free Leap: Essential Tips for Clean Video Windows Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-hidden-time-display-on-windows-bar/"><u>Setting Up Hidden Time Display on Window's Bar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-overcoming-xbox-acc-driver-issues-in-widows-1087/"><u>Step-by-Step Guide: Overcoming Xbox ACC Driver Issues in Widows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
 

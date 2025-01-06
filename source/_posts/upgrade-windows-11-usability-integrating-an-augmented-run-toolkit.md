@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit"
-date: 2024-12-23T22:04:26.169Z
-updated: 2024-12-27T21:46:00.390Z
+date: 2025-01-04T06:34:45.641Z
+updated: 2025-01-06T01:57:54.927Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
@@ -78,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
- The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
@@ -106,11 +110,7 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
@@ -134,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -168,16 +168,19 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-streaming-showdown-twitchs-challenge-to-youtube-for-2024/"><u>[New] Streaming Showdown Twitch's Challenge to YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-11-budget-friendly-title-generators-for-yt-for-2024/"><u>[Updated] Explore 11 Budget-Friendly Title Generators for YT for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-budget-asmr-mic-stellar-sound-value/"><u>Best Budget ASMR Mic Stellar Sound Value</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-pc-searches-using-everythingapp/"><u>Fast-Track PC Searches Using EverythingApp</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y100-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y100 5G?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-user-experience-managing-wins-in-win-11/"><u>Maximize User Experience: Managing Wins in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-pc-superuser-status-achievable/"><u>Reclaim Your PC: Superuser Status Achievable</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-w10w11s-err0r-x7e1-issue/"><u>Tackling W10/W11's Err0r: X7E1 Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-insight-into-their-functional-divergence/"><u>Terminal Vs. PowerShell: Insight Into Their Functional Divergence</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210858937-9780316353656-the-book-of-ancestors/"><u>The Book of Ancestors | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ext-gen-film-viewers-guide-youtubes-top-choices/"><u>[New] Next-Gen Film Viewers' Guide YouTube's Top Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-online-vendors-for-artisanal-wrapping-solutions/"><u>[New] Premium Online Vendors for Artisanal Wrapping Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-deep-dive-into-video-platform-profit-margins-dailymovement-vs-youtube/"><u>[Updated] A Deep-Dive Into Video Platform Profit Margins DailyMovement vs YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-remote-conferences-with-5-elite-recorders/"><u>[Updated] In 2024, Mastering Remote Conferences with 5 Elite Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-the-path-to-popularity-secrets-of-successful-tiktok-unboxers/"><u>[Updated] In 2024, Navigating the Path to Popularity Secrets of Successful TikTok Unboxers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-roblox-error-262-with-ease/"><u>Conquering Roblox Error 262 with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-google-chrome-profile-crashes-on-windows/"><u>Fixing Google Chrome Profile Crashes on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-f5-pro-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco F5 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unattached-audio-puzzle-resolution-guide/"><u>In 2024, Unattached Audio Puzzle Resolution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-policy-maze-an-exploration-of-windows-settings-3-ways/"><u>Navigating the Policy Maze: An Exploration of Windows Settings (3 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-and-photoshop-harmony/"><u>Realigning Windows and Photoshop Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-mend-network-issues-on-windows-11/"><u>Steps to Mend Network Issues on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-users-rejoice-microsoft-edge-crashes-now-resolved/"><u>Windows 11 Users Rejoice: Microsoft Edge Crashes Now Resolved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-struggles-with-icloud-effective-troubleshooting-steps/"><u>Windows Struggles with iCloud - Effective Troubleshooting Steps</u></a></li>
 </ul></div>
 

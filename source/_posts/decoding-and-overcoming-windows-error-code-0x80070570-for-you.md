@@ -1,7 +1,7 @@
 ---
 title: Decoding and Overcoming Windows Error Code 0X80070570 for You
-date: 2024-08-16T02:33:05.288Z
-updated: 2024-08-17T02:33:05.288Z
+date: 2025-01-01T16:18:11.893Z
+updated: 2025-01-06T05:50:26.753Z
 tags:
   - windows10
   - windows11
@@ -20,36 +20,42 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
  Consequently, you can’t delete or copy files on drives affected by error 0x80070570\. It is an error code that predates Windows 8, but many users still encounter this issue on the latest Windows desktop platforms. As such, here is how you can fix error 0x80070570 on Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair System Files With an SFC Scan
 
  Some users have confirmed repairing system files resolved error 0x80070570 on their PCs. System File Checker is a command-line tool with which you can check for and repair corrupted system files that might be causing file operation issues. Check out our guide to [utilizing System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) for details about how to run an SFC scan within the Command Prompt.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the Check Disk Tool
 
  Drive file system issues often cause error 0x80070570\. The most widely confirmed solution for that error is to run a CHKDSK scan of the drive you can’t delete files on or transfer files to. The CHKDSK tool can repair file system errors on the drive it’s scanning.
 
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Our [guide to running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) tells you how to initiate a Check Disk scan. You’ll need to run the Check Disk scan for the drive that includes the files you can’t delete or copy to. If that’s an external drive, you’ll need to connect the storage device to the PC and specify its letter within the command. For example, a CHKDSK command for scanning an external E: drive would be:
 
 `chkdsk /r E:`
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Try Moving Files to a Different Location
 
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Real-Time Antivirus Shields
 
  Another possible factor for error 0x80070570 occurring is your PC’s antivirus shield is hindering the file operation. That could happen if your antivirus software wrongly flags files you’re trying to transfer between drives as suspicious. So, try temporarily disabling your antivirus shield before performing the required file operation.
@@ -61,13 +67,11 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
  Users with third-party antivirus utilities will need to turn off their antivirus shields via the apps’ system tray context menus. Right-click the antivirus app’s icon in the system tray and select a disable or turn off shield protection setting.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Perform a Startup Repair
 
  This resolution is recommended if error 0x80070570 occurs when trying to delete files on the C: hard drive or transfer them there. Startup Repair is primarily a utility for fixing Windows startup issues. However, that tool can remedy corrupted system files and C: drive issues. This is how you can utilize Startup Repair:
@@ -87,17 +91,11 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
  You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Perform the Required File Operations Again on Windows
 
  The potential error 0x80070570 solutions covered here have worked for many Windows 11/10 users. Repairing drive errors with the CHKDSK tool usually does the trick. You could also utilize a third-party utility like Hard Disk Sentinel and HDDScan to check for and repair drive issues. With error 0x80070570 fixed, you can copy or delete files as required again.
 
  Consequently, you can’t delete or copy files on drives affected by error 0x80070570\. It is an error code that predates Windows 8, but many users still encounter this issue on the latest Windows desktop platforms. As such, here is how you can fix error 0x80070570 on Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +103,27 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-complete-blueprint-to-tally-your-youtube-growth-and-income/"><u>[New] The Complete Blueprint to Tally Your YouTube Growth and Income</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-tags-to-amplify-your-youtube-gaming-channel/"><u>[Updated] Essential Tags to Amplify Your YouTube Gaming Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>[Updated] The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>2024 Approved Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-never-turns-off-on-windows-11-fix/"><u>Bluetooth Never Turns Off on Windows 11 [Fix]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-silence-effective-fixes-for-world-of-warcrafts-sound-problems/"><u>Breaking the Silence: Effective Fixes for World of Warcraft's Sound Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-on-selecting-your-ideal-apple-notebook/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide on Selecting Your Ideal Apple Notebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-way-activatedeactivate-energy-saving-feature/"><u>Effortless Way: Activate/Deactivate Energy-Saving Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-dark-themes-in-ms-paint/"><u>Embracing Dark Themes in MS Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-and-using-the-revamped-widget-picker-toolset/"><u>Enabling and Using the Revamped Widget Picker Toolset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enlarge-pins-display-area-in-win-11/"><u>How to Enlarge Pins Display Area in Win 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/invisible-stories-unveiled-a-complete-snapguide/"><u>Invisible Stories Unveiled A Complete Snapguide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-event-log-repair/"><u>Mastering Windows Event Log Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/project-prowess-with-powerful-key-combinations/"><u>Project Prowess with Powerful Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-to-reset-failed-windows-discord-updates/"><u>Quick Tips to Reset Failed Windows Discord Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-login-simplified-top-5-fixes-for-key-conflicts-on-windows-11-networks/"><u>Secure Login Simplified: Top 5 Fixes for Key Conflicts on Windows 11 Networks</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-indicator-static-widgets-on-pc-monitor/"><u>Speed Indicator: Static Widgets on PC Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/websites-on-hold-seven-steps-to-resuscitate-them-in-windows/"><u>Websites On Hold? Seven Steps to Resuscitate Them in Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Window Warriors, Fixed Wobbling Arrows Await
-date: 2024-08-08T11:12:57.662Z
-updated: 2024-08-09T11:12:57.662Z
+date: 2025-01-03T01:08:34.713Z
+updated: 2025-01-05T18:44:33.754Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,15 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
  In this guide, we'll show you how to troubleshoot and fix the keyboard arrow keys not working on a Windows machine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Run the Hardware and Devices Troubleshooter
 
  If restarting your computer doesn’t fix the arrow keys not working, you can try running the Hardware and Devices troubleshooter. This tool is designed to detect and fix common hardware problems with your computer, including keyboard issues.
@@ -47,6 +44,10 @@ msdt.exe -id DeviceDiagnostic
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Keyboard Troubleshooter
 
  If the arrow keys still don’t work, you can run the “Keyboard Troubleshooter”. This tool is similar to the “Hardware and Devices” troubleshooter, but it focuses on keyboard issues. To run it, follow these steps:
@@ -55,6 +56,10 @@ msdt.exe -id DeviceDiagnostic
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
 
@@ -65,8 +70,9 @@ msdt.exe -id DeviceDiagnostic
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update the Keyboard Driver
 
  Another possible cause of the arrow keys not working problem is outdated or corrupted drivers. To make sure that this isn’t causing the issue, you should update the keyboard drivers. Here's how to do it.
@@ -75,14 +81,8 @@ msdt.exe -id DeviceDiagnostic
 2. Type**devmgmt.msc** in the dialog box and press Enter to open Device Manager.
 3. In the Device Manager window, expand the**Keyboards** category.
 4. Right-click the keyboard entry and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -95,20 +95,18 @@ To reinstall the keyboard driver, follow these steps:
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Arrows on the Keyboard Are Now Working
 
  Have you got a problem with your keyboard arrows? It's likely due to outdated or corrupted keyboard drivers in your operating system. You might also have problems with hardware issues like a defective or faulty keyboard. Read this guide, it will help you fix the error and get your arrow keys working again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +115,22 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-mi-11-the-ultimate-mobile-camera-to-record-your-lifes-moments/"><u>[New] Mi 11 The Ultimate Mobile Camera to Record Your Life's Moments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y02t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y02T to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-elevated-windows-auditory-effects/"><u>Disable Elevated Windows Auditory Effects</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-15-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 15 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-tracker-tools-for-effective-computing-in-windows/"><u>Key Tracker Tools for Effective Computing in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-turn-off-games-for-you-recommendations-on-windows-11/"><u>Learn To Turn Off Games for You Recommendations on Windows 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-device-power-options-expert-tips-from-yls-latest-software-insights/"><u>Mastering Device Power Options: Expert Tips From YL's Latest Software Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-chromes-upload-challenges-effective-solutions-for-windows/"><u>Navigate Chrome’s Upload Challenges: Effective Solutions for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-default-batterypower-setup-on-ws-11/"><u>Reactivating Default Battery/Power Setup on WS 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reimagine-your-screen-mastery-of-win11-backdrops-for-2024/"><u>Reimagine Your Screen Mastery of Win11 Backdrops for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/shaping-digital-dialogues-survey-on-social-media-feed-influence/"><u>Shaping Digital Dialogues: Survey on Social Media Feed Influence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-entry-point-not-found-a-windows-guide/"><u>Solving Entry Point Not Found: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-innovatively-designing-your-lock-pattern/"><u>Unlocking Windows Innovatively: Designing Your Lock Pattern</u></a></li>
+</ul></div>
 

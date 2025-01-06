@@ -1,7 +1,7 @@
 ---
 title: Streamlining File Installation with Microsoft's Windows CAB Format
-date: 2024-08-16T02:36:32.041Z
-updated: 2024-08-17T02:36:32.041Z
+date: 2024-12-30T10:27:48.485Z
+updated: 2025-01-06T04:02:12.511Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -42,10 +43,12 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 1. Navigate to the CAB file location on your computer.
 2. Right-click the CAB file, and choose **Copy as path**.  
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
@@ -59,15 +62,13 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 `Add-WindowsPackage -Online -PackagePath "CAB location"  
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  That's it. PowerShell will install the content of the CAB file on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Driver Updates From a CAB File
 
  If you have downloaded a driver update, which is a CAB file, you can install it using the following instructions:
@@ -76,24 +77,27 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. Press **Ctrl + A** to select all the files, right-click, and choose **Extract**.  
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
@@ -101,11 +105,30 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/aunchpad-to-success-the-youtube-entrepreneurs-guide/"><u>[New] Launchpad to Success The YouTube Entrepreneur's Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-8-best-fbx-game-recorder-alternatives/"><u>[Updated] 2024 Approved Top 8 Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unifying-your-musical-journey-converting-spotify-plays-into-youtube-music-lists/"><u>[Updated] Unifying Your Musical Journey Converting Spotify Plays Into YouTube Music Lists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/amplify-your-tiktok-content-with-current-trends-for-2024/"><u>Amplify Your TikTok Content with Current Trends for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-a-hassle-free-transfer-of-your-torrent-clients-data/"><u>Executing a Hassle-Free Transfer of Your Torrent Client's Data</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-the-nuances-in-physical-gesture-detection/"><u>Exploring the Nuances in Physical Gesture Detection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-poco-c50-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Poco C50 online without jailbreak</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-embrace-sound-narratives-on-ipadiphone-downloading-apple-podcasts/"><u>In 2024, Embrace Sound Narratives on iPad/iPhone Downloading Apple Podcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/libera-conversione-di-file-mxf-a-formato-mov-online-usare-il-servizio-gratuito-di-movavi/"><u>Libera Conversione Di File MXF a Formato MOV Online - Usare Il Servizio Gratuito Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-failure-reestablishing-java-virtual-machine/"><u>Overcoming Failure: Reestablishing Java Virtual Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-the-click-to-action-ratio-stop-accelerated-movement/"><u>Perfecting the Click-to-Action Ratio: Stop Accelerated Movement</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problemlos-umgangen-10-effektive-methoden-zur-reparatur-ihrer-nicht-funktionierenden-seagate-wechselplatte/"><u>Problemlos Umgangen: 10 Effektive Methoden Zur Reparatur Ihrer Nicht Funktionierenden Seagate-Wechselplatte</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-overcoming-windows-c0000022-issue/"><u>Quick Guide to Overcoming Windows C0000022 Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realign-your-windows-view-top-screen-fixes-unveiled/"><u>Realign Your Window's View: Top Screen Fixes Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-software-setup-windows-11s-compatibility-aid/"><u>Seamless Software Setup: Windows 11’S Compatibility Aid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-save-location-messages-in-windows/"><u>Steps to Fix Save Location Messages in Windows</u></a></li>
+</ul></div>
+

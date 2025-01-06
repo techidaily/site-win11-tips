@@ -1,7 +1,7 @@
 ---
 title: Conquering Hyper-V Installation in Windows 11 Home Systems
-date: 2024-08-08T11:12:45.338Z
-updated: 2024-08-09T11:12:45.338Z
+date: 2025-01-01T01:50:41.706Z
+updated: 2025-01-05T19:11:14.755Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Hardware Virtualization in Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop-1.jpg)
 
  Hyper-V is a bare-metal hypervisor and requires [Hardware Virtualization enabled in BIOS to work](https://www.makeuseof.com/what-is-virtualization-and-what-is-it-for/). Most modern systems support Hardware Virtualization, and you can enable it in BIOS.
@@ -41,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 6. Next, press **F10** to save the changes and exit **BIOS**.
 7. Your PC will restart with the Hardware Virtualization enabled. Now you can continue to install Hyper-V on your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Hyper-V on Windows 11 Home
 
  The next step is to create and run a batch script to install the required files to enable Hyper-V in Windows 11 Home.
@@ -52,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  1\. Open a new Notepad file. To do this, press **Win + R**, type notepad, and click **OK.**
 
 ![hyper v install windows 11 home script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/hyper-v-install-windows-11-home-script.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. In the Notepad file, copy and paste the following script:
 
@@ -72,9 +81,6 @@ pause`
 
  6\. Click the **Save** button to save the file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![run hyperv bat script administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-hyperv-bat-script-administrator.png)
 
  7\. Next, right-click on the **hyperv.bat** file and select **Run as administrator**. Click **Yes** if prompted by User Account Control.
@@ -83,9 +89,6 @@ pause`
 
  9.Once completed, you will see the Operation completed successfully message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
@@ -97,18 +100,20 @@ pause`
  Here's how you can quickly add Hyper-V to Windows 11 using Command Prompt:
 
 1. Press the **Win** key and type **cmd**. Then right-click on **Command Prompt** and select **Run as administrator.**  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 2. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
@@ -127,9 +132,6 @@ pause`
 
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -138,11 +140,28 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-detailed-look-at-successful-valheim-sowing/"><u>[New] In 2024, A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-timepieces-for-your-dream-wedding-on-smartphones-for-2024/"><u>[New] Premium Timepieces for Your Dream Wedding on Smartphones for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-secret-to-stylish-borders-in-instagram-visuals-for-2024/"><u>[New] The Secret to Stylish Borders in Instagram Visuals for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[Updated] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>2024 Approved Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>2024 Approved Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/democratizing-discussions-sharing-your-gpt-conversations/"><u>Democratizing Discussions: Sharing Your GPT Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-call-recording-a-step-by-step-guide/"><u>Mastering Windows Call Recording: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-and-personalizing-fn-keys-for-wins-pcs/"><u>Optimizing and Personalizing FN Keys for Wins PCs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-disk-read-issues-step-by-step-guide-yl-tech-solutions/"><u>Resolving Disk Read Issues: Step-by-Step Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-systems-5-key-approaches-to-fix-windows-defender-hiccup/"><u>Safeguarding Systems: 5 Key Approaches to Fix Windows Defender Hiccup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-windows-converter-options-roundup/"><u>Seamless Windows Converter Options Roundup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-error-code-0x00000001-in-xbox-game-pass/"><u>Solutions to Overcome Error Code 0X00000001 in Xbox Game Pass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensible-guide-to-winning-at-ps1-in-windows-duckstation-way/"><u>The Comprehensible Guide to Winning at PS1 in Windows - Duckstation Way</u></a></li>
+</ul></div>
+

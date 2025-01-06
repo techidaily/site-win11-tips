@@ -1,7 +1,7 @@
 ---
 title: How Extended Support Changes the Game for Windows 11 Computers
-date: 2024-08-16T02:35:28.866Z
-updated: 2024-08-17T02:35:28.866Z
+date: 2025-01-05T10:47:12.989Z
+updated: 2025-01-05T20:04:17.025Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ## How Extended Support Changes the Game for Windows 11 Computers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft has extended support for Windows 11 version 22H2, providing extra time for optional updates.
@@ -24,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's Happening to Windows 11 22H2's End of Support Date?
 
  As reported by [XDA Developers](https://www.xda-developers.com/windows-11-22h2-optional-update-deadline/), Microsoft announced a change to its end-of-support date for Windows 11 version 22H2\. Note that this will not affect your machine if you've updated it recently; 22H2 was released in September 2022, and some people have deliberately prevented Windows 11 from updating so they can stay on version 22H2\.
@@ -42,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  According to Microsoft, this change occurred due to user feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Defining an "Optional Update" in Windows
 
  Windows updates aren't all equal; there's a system that differentiates them depending on how important they are. This deadline extension will allow people to receive non-critical updates on Windows 11 version 22H2 until the new date, and security updates will continue for even longer.
@@ -51,13 +53,15 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does This Mean for Windows 11 22H2 Users?
 
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
@@ -71,8 +75,9 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Upgrade to the Current Version of Windows 11?
 
  It's best not to take this extension as a sign to simply continue using Windows 11 22H2\. Even business-level versions of Windows 11 will still meet the end-of-life date eventually; once that arrives, you're essentially on the operating system's last legs until the security patches go away. As such, now would be a fantastic time to get your copy of Windows 11 up to date so you can continue receiving security and feature updates.
@@ -83,11 +88,31 @@ Zarif Ali / MakeUseOf
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you-for-2024/"><u>[New] Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free2x-webcam-recorder-software-review-for-2024/"><u>[Updated] Free2X Webcam Recorder Software Review for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-bite-sized-script-producer/"><u>[Updated] In 2024, Bite-Sized Script Producer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elevate-your-video-call-experience-with-the-best-live-recording-gadgets/"><u>[Updated] In 2024, Elevate Your Video Call Experience with The Best Live Recording Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pixicapture-studio-winos-series/"><u>[Updated] In 2024, PixiCapture Studio WinOS Series</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>2024 Approved Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gigabyte-b650-aorus-elite-ax-ice-motherboard-assessment-high-costs-meet-high-end-features/"><u>Comprehensive Gigabyte B650 Aorus Elite AX Ice Motherboard Assessment: High Costs Meet High-End Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths-for-2024/"><u>Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-microsofts-nearby-sharing-app-performance/"><u>Enhancing Microsoft's Nearby Sharing App Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-viewing-and-cleansing-windows-10-activities/"><u>Expert Tips for Viewing & Cleansing Windows 10 Activities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertly-select-files-engage-checkboxes-in-win11-ui/"><u>Expertly Select Files: Engage Checkboxes in Win11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-adjustments-allow-chrome-on-windows-pc/"><u>Mastering Firewall Adjustments: Allow Chrome on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-apple-windows-calendaring-coordination/"><u>Perfecting Apple-Windows Calendaring Coordination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-your-nvidia-driver-choice-games-vs-studio/"><u>Perfecting Your Nvidia Driver Choice - Games vs Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-and-improve-task-management-on-windows-11-with-widgets/"><u>Simplify and Improve Task Management on Windows 11 with Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-microsoft-works-installer-on-windows-11/"><u>The Ultimate Guide to Microsoft Works Installer on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/wmv-gif/"><u>WMV動画から簡単なガイド: GIFフォーマットへ完全移行する方法。</u></a></li>
+</ul></div>
+

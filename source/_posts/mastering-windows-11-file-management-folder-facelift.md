@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 File Management: Folder Facelift"
-date: 2024-08-08T11:13:15.440Z
-updated: 2024-08-09T11:13:15.440Z
+date: 2025-01-02T00:56:23.412Z
+updated: 2025-01-05T16:31:16.657Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
  Whether you prefer the simplicity of using the context menu or the speed of a keyboard shortcut, there are several ways to create new folders in Windows 11\. This post will discuss four easy methods for creating new folders in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Create a New Folder Using the Context Menu
 
  The easiest and most well-known way to create a new folder on Windows is through the context menu. You can use this method to create folders nearly anywhere in Windows. Here are the steps you can follow:
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 2. Right-click anywhere on an empty space to open the context menu.
 3. Select**New > Folder** .
 4. Type in a suitable name for your folder and then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 ## 2\. Create a New Folder Using File Explorer
@@ -49,18 +47,20 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
 
  Simply head to the location where you want to create the folder and press**Ctrl + Shift + N** together on your keyboard. Once the folder is created, you can rename it to anything you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
@@ -77,29 +77,29 @@ To create a new folder using File Explorer's menu:
 `cd Directory`
 5. Next, type**mkdir** followed by the name of the folder you wish to create and press**Enter** . For instance, if you were to create a folder named**Work** , you'd type the following command:  
 `mkdir Work`  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +108,20 @@ To create a new folder using File Explorer's menu:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-reducing-shake-in-mobile-videos/"><u>[New] Guidelines for Reducing Shake in Mobile Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams/"><u>[Updated] 2024 Approved Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>[Updated] In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-zoomers-guide-to-instagram-story-clarity/"><u>2024 Approved The Zoomer’s Guide to Instagram Story Clarity</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v29-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V29 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-of-troubled-times-shockwave-flash-stability-restored-in-chrome-browser/"><u>End of Troubled Times: Shockwave Flash Stability Restored in Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-the-this-pc-sentinel-feature-in-win11/"><u>How to Disable the This PC Sentinel Feature in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y55s 5G (2023)?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-epic-launcher-lockdown-on-windows-11/"><u>Overcoming Epic Launcher Lockdown on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-muted-slack-on-windows-11-a-step-by-point-guide/"><u>Reactivate Muted Slack on Windows 11: A Step-By Point Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-engineering-an-installed-application-on-windows/"><u>Reverse Engineering an Installed Application on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-infinite-c-drive-space-depletion-in-windows-os/"><u>Solutions to Infinite C: Drive Space Depletion in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-activating-triple-column-widget-display/"><u>Windows 11: Activating Triple Column Widget Display</u></a></li>
+</ul></div>
 

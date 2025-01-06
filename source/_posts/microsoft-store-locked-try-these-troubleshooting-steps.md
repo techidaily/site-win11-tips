@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Locked? Try These Troubleshooting Steps
-date: 2024-12-23T16:26:17.860Z
-updated: 2024-12-27T21:58:33.280Z
+date: 2024-12-29T21:04:38.244Z
+updated: 2025-01-06T02:20:59.358Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
 
@@ -50,6 +54,10 @@ To run the Windows Store apps troubleshooter, use these steps:
 
  You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn[different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair or Reset the Microsoft Store App
 
  Windows 10 and 11 have a built-in app repair feature that can help resolve minor app issues. You can use this feature to fix sign-in problems with the Microsoft Store app.
@@ -63,16 +71,12 @@ To repair the Microsoft Store app on Windows:
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A checkmark should appear next to the Repair button once the process is complete.
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Correct Date and Time on Your PC
 
@@ -83,14 +87,6 @@ To repair the Microsoft Store app on Windows:
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -112,23 +108,27 @@ To configure the Microsoft Store Install Service on Windows:
 
 ![Someone typing on a laptop sitting on a coffee table. The laptop is connecting to a VPN.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-connecting-to-a-vpn.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Install Windows Updates
 
@@ -157,16 +157,18 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-best-photo-and-video-display-apps-for-iphone-series-78/"><u>[New] Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-soundtrack-for-ig-story-posts-unveiled/"><u>[New] The Ultimate Soundtrack for IG Story Posts Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-strategies-for-logging-overwatch-skirmishes/"><u>[Updated] Innovative Strategies for Logging Overwatch Skirmishes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-proving-ground-discovering-the-top-10-reel-making-apps/"><u>2024 Approved Proving Ground Discovering the Top 10 Reel-Making Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/zing-video-success-self-vs-rivals-in-the-youtube-arena/"><u>Analyzing Video Success Self Vs. Rivals in the YouTube Arena</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-windows-cab-file-installation-steps/"><u>Comprehensive Guide to Windows Cab File Installation Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-online-security-with-trustable-sites-in-windows-11/"><u>Enhance Online Security with Trustable Sites in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fn-key-lock-and-unlock-procedures/"><u>Essential Guide to Fn Key Lock & Unlock Procedures</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-larger-visuals-elevating-your-youtube-footage/"><u>In 2024, Larger Visuals Elevating Your YouTube Footage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-zoom-quick-remedy-for-error-1132/"><u>Mastering Window's Zoom: Quick Remedy for Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-festivity-create-a-christmas-theme/"><u>Windows 11 Festivity: Create a Christmas Theme</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-swift-shots-on-iphone-time-lapse-recording-guide/"><u>[New] 2024 Approved Swift Shots on iPhone Time-Lapse Recording Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tailoring-audience-for-your-youtube-videos/"><u>[New] 2024 Approved Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-access-recovery-mastering-post-hack-facebook-fixes/"><u>[New] Access Recovery Mastering Post-Hack Facebook Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[New] In 2024, Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dji-phantom-3-the-pro-drone-experience-explored/"><u>[Updated] DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-efficient-uninstall-links-for-win-1011/"><u>Creating Efficient Uninstall Links for Win 10/11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/depanner-comment-liberer-une-memoire-tamponnee-sur-votre-lecteur-psp-pour-des-jeux-sans-problemes/"><u>Dépanner : Comment Libérer Une Mémoire Tamponnée Sur Votre Lecteur PSP Pour Des Jeux Sans Problèmes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-updates-prompts/"><u>Eliminate Windows Updates Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-system-insights-through-resource-tracking-tiles/"><u>Improve System Insights Through Resource Tracking Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-11-sign-in-hurdles/"><u>Navigating Through Windows 11 Sign-In Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-blocked-logins-in-windows/"><u>Overcoming Blocked Logins in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-handle-intruder-exception-bsod-on-winos/"><u>Quick Guide to Handle Intruder Exception BSOD on WinOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/vibing-with-visuals-merging-music-and-imagery-on-ig/"><u>Vibing with Visuals Merging Music and Imagery on IG</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Updates From Halted by Error 2E
-date: 2024-12-20T21:07:28.395Z
-updated: 2024-12-27T20:54:24.843Z
+date: 2025-01-04T01:54:12.393Z
+updated: 2025-01-05T20:40:53.306Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Windows Update Error 0x8024002e?
 
  If you're dealing with Windows Update error 0x8024002e, there are a variety of potential causes, ranging from corrupted files and incompatible hardware settings to incorrect network configurations. Other possible culprits include outdated drivers and limited storage space.
@@ -36,10 +40,6 @@ Let's now see how to fix this error code on Windows:
 ## 1\. Restart Your Computer
 
  Restarting your computer is an easy way to resolve many Windows Update errors. By restarting, you're resetting the memory of your device and clearing out any pesky bugs that may be causing trouble with error 0x8024002e. Give it a try - after rebooting, check if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart the Windows Update Services
 
@@ -55,6 +55,10 @@ To restart the Windows Update service, follow these steps:
 ![Restart Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-update-service.jpg)
 6. Now click**Apply > OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you have started the Windows Update service, repeat this same process with several other services provided below:
 
 * Background Intelligent Transfer Service.
@@ -64,10 +68,6 @@ To restart the Windows Update service, follow these steps:
 * Windows Installer.
 
  Once you've completed the process, check Windows Update again to see if the error is still occurring.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -89,14 +89,10 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 8. Now close the Registry Editor window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you follow these steps, you should check to see if the 0x8024002e error has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset All Relevant Windows Update Components
 
@@ -164,20 +160,25 @@ net start cryptsvc`
 4. In the**Save as type** field, choose**All Files** .  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 5. Name the file**ResetWindowsUpdate.bat** and save it to your desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now right-click on the batch file and select**Run as administrator** from the context menu.
 7. If UAC window pops up on the screen, click**Yes** to continue.
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Apply Generic Windows Update Fixes
 
  If all else fails, it's time to try some more general fixes. These have had good track records for fixing Windows Update errors, regardless of the error code it gives you.
 
  Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving Windows Update Error 0x8024002e
 
@@ -198,24 +199,18 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-visualcut-content-checker/"><u>[New] In 2024, VisualCut Content Checker</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-film-narratives-reviewed/"><u>[New] Innovative Film Narratives Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-8-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/establishing-new-default-window-pdf-displayer/"><u>Establishing New Default Window PDF Displayer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-swift-navigation-for-iphone-zooming-features/"><u>In 2024, Swift Navigation for iPhone Zooming Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-user-friendly-fax-cover-adjustments/"><u>Mastering Windows 11'S User-Friendly Fax Cover Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-productivity-github-desktop-tips-for-windows-11-users/"><u>Maximize Productivity: GitHub Desktop Tips for Windows 11 Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x/"><u>New In 2024, Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pioneering-advancements-in-linuxs-use-with-android-resources/"><u>Pioneering Advancements in Linux's Use with Android Resources</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/portable-windows-upgrade-blueprint-150-chars/"><u>Portable Windows Upgrade Blueprint (150 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-access-denied-message-from-office-365-outlook-in-desktop-os/"><u>Removing Access Denied Message From Office 365 Outlook in Desktop OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-lightweight-browser-ram-tests-finding-the-optimal-one/"><u>Top 7 Lightweight Browser Ram Tests: Finding The Optimal One</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-platforms-for-free-downloads-of-hilarious-comedy-content/"><u>Top Platforms for Free Downloads of Hilarious Comedy Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-pc-visual-experience-boost-your-gpus-power/"><u>Transforming PC Visual Experience: Boost Your GPU's Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/visionary-recording-devices-top-18-camcorders-best-for-2024/"><u>Visionary Recording Devices - Top 18 Camcorders' Best for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-arm-on-your-system-iso-download-and-install-guide/"><u>Windows 11 ARM on Your System: ISO Download & Install Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-overcoming-unable-to-terminate-errors/"><u>Windows: Overcoming 'Unable to Terminate' Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free/"><u>[New] 2024 Approved Simple Guide Transforming FB Videos Into 720P/1080p MP4 Format (Free)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-garageband-strategies-for-perfect-podcast-editing/"><u>[Updated] GarageBand Strategies for Perfect Podcast Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-capture-services-for-2024/"><u>[Updated] Live-Streaming Capture Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-lsassexe-component-not-found-error-in-windows/"><u>Addressing lsass.exe Component Not Found Error in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-finding-and-installing-the-right-epson-scanner-software/"><u>Easy Guide: Finding and Installing the Right Epson Scanner Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-running-task-manager-as-admin-on-win11/"><u>Elevate Your Computer Experience: Running Task Manager as Admin on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-enter-network-credentials-message-on-windows/"><u>How to Fix a Persistent Enter Network Credentials Message on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instawisdom-100-powerful-caption-examples-for-self-expression/"><u>InstaWisdom 100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimal-adjustment-guide-inactive-gpu-wnvidia/"><u>Minimal Adjustment Guide: Inactive GPU W/NVIDIA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-security-faults-effectively/"><u>Steps to Tackle Windows Security Faults Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/superior-live-streaming-and-conferencing-apps-for-2024/"><u>Superior Live Streaming & Conferencing Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-connectivity-issues-with-geforce-experience-software/"><u>Tackling Connectivity Issues with GeForce Experience Software</u></a></li>
 </ul></div>
 

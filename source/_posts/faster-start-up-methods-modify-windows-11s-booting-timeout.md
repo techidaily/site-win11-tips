@@ -1,7 +1,7 @@
 ---
 title: "Faster Start-Up Methods: Modify Windows 11'S Booting Timeout"
-date: 2024-08-16T02:33:59.776Z
-updated: 2024-08-17T02:33:59.776Z
+date: 2025-01-01T18:38:54.447Z
+updated: 2025-01-05T23:21:10.800Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Boot Menu Timeout Using the Settings App
 
  The quickest way to configure the boot menu timeout is via the Settings app. Here's a step-by-step instructions to do that:
@@ -29,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 3. Choose **System protection**.  
 ![System protection option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection.jpg)
 4. Switch to the **Advanced** tab and click the **Settings** button under the **Startup and Recovery** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the drop-down icon under the **Default operating system** option and choose your default OS.
 6. Check the **Time to display list of operating systems** option and select the timeout value. The value can range from **0** to **999**.  
 ![Time to display list of operating systems option in System Protection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/time-to-display-list-of-operating-systems-option.jpg)
@@ -45,10 +54,11 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 4. Click **Apply.**
 5. Click **Yes** to confirm your changes.  
 ![Yes option in msconfig window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 6. Choose the **Restart** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Boot Menu Timeout Using the Command Prompt
 
@@ -60,15 +70,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 3. Type the following command and press Enter to change the timeout. Make sure to replace **`SECONDS`**with the new timeout.  
 `bcdedit /timeout SECONDS`  
 ![Timeout change command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timout-change-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  That's it! From the next boot, the boot manager will appear for the specified duration of time.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Boot Menu Timeout Using the Boot Options
 
  Another efficient way to configure the boot menu timeout is through the Boot Manager. The Boot Manager, also known as the Boot Loader, is responsible for launching your operating system when you turn on your computer. Not only that, it enables you to select a specific operating system if you are using multiple operating systems on your device.
@@ -78,28 +82,24 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 1. Open the Start Menu, click the **Power icon** and choose **Restart** from the context menu. If this method doesn't work, try any other [ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/).
 2. In the Boot Manager, click on **Change defaults or choose other options**.  
 ![Change defaults or choose other options in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-defaults-or-choose-other-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. Select the **Change the timer** option.  
 ![Change the timer option in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-timer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 4. Choose a time between the given options.  
 ![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Control Your System Boot Menu on Windows
 
  Optimizing the boot menu timeout in Windows is a simple yet effective way to manage your system's startup time. By adjusting the duration for which the boot menu appears, you can ensure that you have adequate time to select your preferred operating system.
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +107,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-detailed-list-of-top-free-cross-platform-mobile-video-chats/"><u>[New] 2024 Approved A Detailed List of Top Free, Cross-Platform Mobile Video Chats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-mic-selection-for-podcasters-the-top-10/"><u>[New] 2024 Approved Essential Mic Selection for Podcasters The Top 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sierras-cloud-essentials-drives-full-access-guide/"><u>[New] 2024 Approved Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-remove-jello-effect-from-an-aerial-video/"><u>[New] How to Remove Jello Effect From an Aerial Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-igniting-interest-how-to-elevate-your-instagram-contents-impact-for-2024/"><u>[Updated] Igniting Interest How to Elevate Your Instagram Content's Impact for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-airwaves-dismissing-error-a00f4289-in-win11-webcam/"><u>Clearing the Airwaves: Dismissing Error A00F4289 in Win11 Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-gaming-on-windows-11-mastering-amd-graphics-driver-updates/"><u>Cutting-Edge Gaming on Windows 11: Mastering AMD Graphics Driver Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-file-clarity-committing-comments-in-windows-11/"><u>Elevating File Clarity: Committing Comments in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-fixes-eliminating-wwe-2k23-hitches-on-windows-11/"><u>Faster Fixes: Eliminating WWE 2K23 Hitches on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-management-via-powertoys-lockmaster/"><u>Optimizing File Management via PowerToys Lockmaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicken-your-load-time-at-ms-store-purchases/"><u>Quicken Your Load Time at MS Store Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-start-the-best-new-pc-toolkit/"><u>Seamless Start: The Best New PC Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-sound-checks-in-powerpoint-presentations/"><u>Techniques for Sound Checks in PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-tech-tips-fees-unveiled-could-paying-up-to-20-monthly-for-exclusive-apple-analysis-become-a-trend-insights/"><u>The Future of Tech Tips Fees Unveiled: Could Paying Up to $20 Monthly for Exclusive Apple Analysis Become a Trend? Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-free-whiteboard-animation-tools-for-windows-and-mac/"><u>Top 10 Free Whiteboard Animation Tools for Windows and Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-quick-methods-for-converting-ts-files-to-mp4-with-superior-quality/"><u>Top 10 Quick Methods for Converting TS Files to MP4 with Superior Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unclutter-your-screen-memory-with-these-methods/"><u>Unclutter Your Screen Memory with These Methods</u></a></li>
+</ul></div>
+

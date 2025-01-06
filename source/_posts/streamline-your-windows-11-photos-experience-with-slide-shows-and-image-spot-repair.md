@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Windows 11 Photos Experience with Slide Shows & Image Spot Repair
-date: 2024-08-16T02:33:48.879Z
-updated: 2024-08-17T02:33:48.879Z
+date: 2025-01-01T01:47:22.910Z
+updated: 2025-01-06T00:39:43.227Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -52,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
@@ -63,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
  If you want to resize the slideshow window, click on the **resize** icon. Now, snap the window to the left or right side. To close the slideshow click on the **Exit Slideshow** button in the top-left corner.
 
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -73,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the Spot Fix Feature in the Photos App
 
  Double-click on any photo in the app to open it in a new window. Now, press **Ctrl + E** or click on the **Edit** icon to switch to the image editing window. Click on the **Retouch** option to open the Spot Fix tool.
@@ -80,15 +83,17 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
  Now, click on the area which you want to remove using the tool. If you want to increase the size of the tool, adjust the **size slider** present on the right side. You may have to use the spot fix on an area (textured or patterns) multiple times to get it right.
 
 ![Spotfix feature in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
@@ -100,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
  Earlier, you could use the **Auto Enhance** feature to improve image quality after downloading an add-on. Now the feature is already included in the new version of the Photos app thus removing the hassle of downloading an add-on.
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
@@ -112,11 +114,25 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-enhance-video-speed-in-minutes-on-tiktok-filming/"><u>[New] In 2024, Enhance Video Speed in Minutes on TikTok Filming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] 2024 Approved Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-format-transformation-youtube-for-mac-ratio-for-2024/"><u>[Updated] Fast Format Transformation YouTube for Mac Ratio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-frozen-trash-bin-problem-in-win11/"><u>Correcting Frozen Trash Bin Problem in Win11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>In 2024, Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a15-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A15 4G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-taskmanager-top-notch-in-windows/"><u>Keeping TaskManager Top-Notch in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-fix-windows-troubleshoot-shortcut-creation/"><u>Mastering Quick Fix: Windows Troubleshoot Shortcut Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reimagining-the-smart-speaker-experience-with-the-4th-gen-amazon-echo-dot/"><u>Reimagining the Smart Speaker Experience with the 4Th Gen Amazon Echo Dot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-with-arrow-keys-post-fixes/"><u>Smooth Sailing with Arrow Keys Post-Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ubisofts-assassins-creed-unity-crashing-problems-heres-how-to-fix-them/"><u>Ubisoft's Assassin's Creed Unity Crashing Problems? Here's How to Fix Them</u></a></li>
+</ul></div>
+

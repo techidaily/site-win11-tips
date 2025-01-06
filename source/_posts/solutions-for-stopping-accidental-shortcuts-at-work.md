@@ -1,7 +1,7 @@
 ---
 title: Solutions for Stopping Accidental Shortcuts at Work
-date: 2024-08-08T11:12:28.676Z
-updated: 2024-08-09T11:12:28.676Z
+date: 2025-01-02T20:13:48.355Z
+updated: 2025-01-06T07:03:01.069Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
 ## 2\. Turn Off Sticky and Filter Keys
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
 ## 3\. Run the Keyboard Troubleshooter (Windows 10 Only)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
 
  Windows 10 and older versions feature a built-in keyboard troubleshooter to fix commonly known problems with the keyboard. However, the newer iteration of Windows 11 has done away with the keyboard troubleshooter, so you are unlikely to benefit from these steps.
@@ -60,12 +54,13 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 4. Next, click the **Run** button for the **Keyboard** option.
 5. As the troubleshooter dialog opens, follow the on-screen instructions and apply any recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Keyboard Drivers
 
 ![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A corrupt driver may cause the keyboard to malfunction. To fix the issue, you can uninstall the driver from Device Manager. Upon restart, Windows will automatically detect the connected keyboard and install the necessary drivers.
 
@@ -77,34 +72,18 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 4. Once uninstalled, restart your computer.
 5. After the restart, Windows will automatically reinstall the necessary driver for the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 5\. Reconfigure or Disable the Windows Ink Workspace Service
 
  If you use a pen-based or touch device, check if Windows Ink Workspace is enabled. By default, the letter I is a shortcut assigned to open the Windows Ink Workspace app. If so, you may want to disable the app to prevent Windows from accidentally triggering and opening the app when you press the keyboard keys.
 
  Windows 10 comes with the Windows Ink Workspace app built-in to it. Windows 11, by default, may enable the app on only touch-enabled devices. If you want to continue to use the app, you can disable the activation shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Disable Ink Workspace Activation Shortcut on Windows 11
 
  To get rid of the shortcut:
 
 1. Right-click the **Windows Ink Workspace** app icon in System Tray and select **Settings**.
 2. Next, toggle the **Enable activation shortcut** switch to disable the activation shortcut.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable activation shortcut windows ink workspace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-activatgion-shortcut-windows-ink-workspace.jpg)
 3. Close the **Settings** dialog and check for any improvements.
 
@@ -121,8 +100,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. Close Task Manager and check if you can type on your keyboard without triggering the app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable Windows Ink Workspace
 
  If the issue persists, you can completely disable Windows Ink Workspace using the Registry Editor. This process involves making modifications to the Windows Registry. We recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [take a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the steps below.
@@ -141,17 +121,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Next, right-click on the **WindowsInkWorkspace** key and select **New > DWORD (32-bit) Value**.  
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 3. Rename the new values as **AllowWindowsInkWorkspace**.
-4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
 5. Type **0** in the **Value data** field and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Close the Registry Editor and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Troubleshooting Steps You Can Try
 
  If none of the above worked, here are a few quickfire solutions to try:
@@ -162,6 +150,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * **Uninstall recent Windows updates** – At times, newer Windows updates can introduce new bugs. If you have recently installed an update, try to [manually remove the latest Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and see if the issue is resolved.
 * **Perform a system restore** – If the error occurred after installing an update and you can’t uninstall it, you can [use a system restore to undo the update or recent changes made by you](https://www.makeuseof.com/use-system-restore-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Your Keyboard to Type Again on Windows
 
  It is easy to assume your keyboard to be malfunctioning when it starts acting up and activates shortcuts or open applications instead of typing letters. However, in most instances, it is due to accidentally activating the shortcut function or a hotkey software working in the background.
@@ -170,11 +162,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Fortunately, fixing this problem is easy. Here we show you what to do when your keyboard opens random applications and shortcuts when pressing any key.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-iphone-savvy-crafting-elegant-time-stretched-videos/"><u>[New] 2024 Approved IPhone Savvy Crafting Elegant Time-Stretched Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-verifying-your-youtube-sign-in-details/"><u>[New] In 2024, Verifying Your YouTube Sign-In Details</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breaking-boundaries-weaving-single-photos-into-masterpieces/"><u>Breaking Boundaries Weaving Single Photos Into Masterpieces</u></a></li>
+<li><a href="https://media-tips.techidaily.com/bypass-the-sync-expert-techniques-for-uploading-movies-to-your-ipod-independently/"><u>Bypass the Sync: Expert Techniques for Uploading Movies to Your iPod Independently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-on-converting-flv-videos-into-avi-with-movavis-advanced-converter-software/"><u>Comprehensive Guide on Converting FLV Videos Into AVI with Movavi's Advanced Converter Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-network-caches-spotlight-on-arp/"><u>Decoding Windows Network Caches: Spotlight on ARP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-overcome-battlenet-freeze-ups-on-win-os/"><u>Efficient Techniques to Overcome Battle.net Freeze-Ups on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-non-operational-windows-programs/"><u>Essential Fixes for Non-Operational Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-failed-screen-projection-across-computers/"><u>How to Fix Failed Screen Projection Across Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-plot-pointers-institute-quintessential-quotient/"><u>In 2024, Plot Pointers Institute - Quintessential Quotient</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-instantaneous-upload-failures-in-your-onedrive-drive/"><u>Quick Fixes for Instantaneous Upload Failures in Your OneDrive Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-wsl-fixing-error-code-4294967295-on-windows/"><u>Remedying WSL: Fixing Error Code 4294967295 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-spotify-application-halt/"><u>Resolving Windows 11 Spotify Application Halt</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsungs-galaxy-s21-ultra-examined-why-it-stands-out-in-the-android-marketplace/"><u>Samsung's Galaxy S21 Ultra Examined: Why It Stands Out in the Android Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-windows-11-eradicating-unwanted-apps/"><u>Speeding Up Windows 11: Eradicating Unwanted Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ai-doesnt-respond-to-unauthorized-tweaks/"><u>Why AI Doesn't Respond to Unauthorized Tweaks</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Tech Life: Top 10 Ways to Access Mouse Properties"
-date: 2024-08-08T11:13:24.988Z
-updated: 2024-08-09T11:13:24.988Z
+date: 2024-12-31T04:04:30.631Z
+updated: 2025-01-06T11:21:35.446Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Using the Start Menu
 
  The Start menu is the heart and soul of Windows OS and in Windows 11 it is more powerful than before. It can perform a deep search of files, pull results from the web, and launch the pinned apps and system tools without opening File Explorer. Repeat the following steps:
@@ -43,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![Open Mouse Properties Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-control-panel.jpg)
 4. The Mouse Properties window will launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using Settings App
 
  Windows 11 Settings app slaps a fresh coat of paint on the bland UI of Windows 10 and contains a dedicated section for Mouse customization. It is part of a larger push to move everything to the Settings app and reduce dependency from the Control Panel. Repeat the following steps:
@@ -60,14 +65,12 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 1. Press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **control /name Microsoft.Mouse** in the text box and press the **Enter** key to launch the Mouse Properties applet.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using File Explorer
 
  You can access the Mouse Properties tool using the **System32** folder in the C drive. Despite being a **.cpl** file, you can launch it directly. Repeat the following steps:
@@ -79,21 +82,24 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
 
 1. Right-click on the **Start** button to open the Power User menu. Click on the **Task Manager** option.
 2. Click on the **Run new task** button. Type **control mouse** in the text box and click on the **OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Close the Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using Command Prompt
 
@@ -101,11 +107,13 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 1. Press **Win + R** to launch the Run dialog box. Type **cmd** in the text box and press the **Enter** key to open the Command Prompt.
 2. Type **control /name Microsoft.Mouse** in the terminal and press the **Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
 3. Mouse Properties will open in a new window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type **exit** and press Enter to close the Command Prompt.
 
 ## 8\. Using PowerShell
@@ -118,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 3. Mouse Properties tool will open in a new window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Using a Desktop Shortcut
 
  A desktop shortcut is a quicker way to adjust mouse settings, especially when there are multiple users on one Windows 11 PC. You can create the shortcut either by visiting the System32 folder or create an empty shortcut and mapping the address of the Mouse Properties tool to it. Here’s how to do it with the latter:
@@ -134,8 +143,9 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 7. You can double-click on the shortcut and adjust mouse settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Using a Keyboard Shortcut
 
  Windows reserves keyboard shortcuts to open apps and settings. But you can create a custom shortcut to open the Mouse Properties window whenever you want. No need to open apps or Control Panel or navigate to the System32 folder. Here’s how:
@@ -144,15 +154,9 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 2. Click on the newly created Mouse Properties shortcut to select it. Press the **Alt + Enter** keys to open its **Properties**.
 3. Locate the **Shortcut key** option. Now, press **Ctrl + Shift +** any key to create a custom keyboard shortcut. We used the “**M**” key, so our final combination becomes **Ctrl + Shift + M**.
 4. Click on the **Apply** button and then click on the **OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gain Absolute Control Over Your Mouse on Windows
 
  Mouse Properties is an applet, so you cannot pin it to the Taskbar or Start menu. But, you can launch it using the Run dialog box or Terminal or you can create a desktop shortcut. For the fastest access to the tool, map a shortcut key combination.
@@ -161,11 +165,29 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-comprehensive-review-top-vehicle-monitoring-devices/"><u>[New] Comprehensive Review TOP Vehicle Monitoring Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[Updated] Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conjoining-content-in-windows-11-with-ease/"><u>Conjoining Content in Windows 11 with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-hacks-for-fixing-windows-11s-unknown-obs-error/"><u>Essential Hacks for Fixing Windows 11'S Unknown OBS Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-exe-files-contrast-with-standard-msi-packages/"><u>How Exe Files Contrast with Standard Msi Packages</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-a-battle-of-wits-bot-versus-bot/"><u>In a Battle of Wits, Bot Versus Bot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/keyboard-malfunctions-heres-how-to-get-it-back-in-working-order/"><u>Keyboard Malfunctions? Here's How to Get It Back in Working Order!</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-productivity-the-leading-task-managers-for-windows-11-and-11/"><u>Streamline Productivity: The Leading Task Managers for Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-for-manipulating-app-dimensions-with-windows-11-keys/"><u>The Essential Guide for Manipulating App Dimensions with Windows 11 Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-your-shopping-experience-0x80072f30-fix-on-windows/"><u>Unblocking Your Shopping Experience: 0X80072F30 Fix on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-temp-folder-error-fix-guide/"><u>Windows 11 Temp Folder Error Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-mastering-the-art-of-tablet-bar-integration/"><u>Windows 11: Mastering the Art of Tablet Bar Integration</u></a></li>
+</ul></div>
+

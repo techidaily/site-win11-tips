@@ -1,7 +1,7 @@
 ---
 title: Speed Up Office Tasks With Powerful Windows Shortcuts
-date: 2024-08-16T02:35:36.433Z
-updated: 2024-08-17T02:35:36.433Z
+date: 2025-01-02T20:04:32.812Z
+updated: 2025-01-05T22:32:15.403Z
 tags:
   - windows10
   - windows11
@@ -47,15 +47,17 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Handy Windows Shortcuts for Common Actions
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -64,17 +66,20 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
@@ -82,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Select Text Easily on Documents
 
  While working on documents, you may need to select text to copy and paste or delete it. Instead of using the cursor to select the text do this:
@@ -92,16 +98,11 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 2. Hold the **Shift** key down. Then use the **right or left arrow keys** and the text will start getting highlighted and selected.
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +110,25 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-to-avoid-obs-framing-errors/"><u>[Updated] Essential Tips to Avoid OBS Framing Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-spectre-3-clash-mirage-4-enters-the-fray/"><u>[Updated] Spectre 3 Clash Mirage 4 Enters the Fray</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-video-landscape-3-pros-of-using-zoom-altering-tools/"><u>2024 Approved Navigate Video Landscape 3 Pros of Using Zoom Altering Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-effortless-sound-reboot-on-system-ignition-process/"><u>Enabling Effortless Sound Reboot on System Ignition Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-intricacies-and-processes-in-windows-11-backup/"><u>Exploring the Intricacies and Processes in Windows 11 Backup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-multiple-same-user-error-in-windows/"><u>How to Resolve Multiple Same-User Error in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-performance-with-essential-tools/"><u>Maximizing PC Performance with Essential Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpeg-mpegmp4avimov/"><u>MPEGファイル変換ガイド: MPEGはMP4、AVI、MOVへの転送手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
+<li><a href="https://discover-community.techidaily.com/resolving-graphics-card-issues-a-comprehensive-guide-yl-computing/"><u>Resolving Graphics Card Issues: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tactics-for-making-youtube-videos-go-viral-for-2024/"><u>Tactics for Making YouTube Videos Go Viral for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/text-files-and-windows-the-secure-path-of-password-storage/"><u>Text Files & Windows: The Secure Path of Password Storage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-11-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme 11 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-desktop-potential-custom-snap-designs-using-powertoys/"><u>Unlock Desktop Potential: Custom Snap Designs Using PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-troubleshooting-how-to-rectify-task-runner-failure-error-0x8007000f/"><u>WinOS Troubleshooting: How To Rectify Task Runner Failure (Error 0X8007000f)</u></a></li>
+</ul></div>
+

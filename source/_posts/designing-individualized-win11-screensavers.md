@@ -1,7 +1,7 @@
 ---
 title: Designing Individualized Win11 Screensavers
-date: 2024-08-16T02:34:15.381Z
-updated: 2024-08-17T02:34:15.381Z
+date: 2025-01-02T09:37:33.234Z
+updated: 2025-01-06T02:51:17.822Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
  Screensavers are no longer necessary since most modern displays are no longer susceptible to screen burn-in. Nevertheless, screensavers are still lovely decorations on your computer monitor when idle; that's why Windows 11 still has this feature, with five default options.
 
  But how do you customize these default screensavers? Check out the steps below and get yourself a screensaver that reflects your personality and character.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
@@ -47,15 +51,16 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
@@ -66,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -74,21 +84,15 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
  Click the**Bubbles** tab to view options for customizing that screensaver. There you can change the number of bubbles the screensaver has by dragging the slider on the**Number** of**Spheres** bar. To change the size of the bubbles, drag the slider on the**Sphere Radius** bar. You can change the force of turbulence (bubble bounce) by dragging the slider on the**Turbulence Force** bar.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
  Select the**Ribbons** tab to customize that screensaver. There you can reduce or increase the number of ribbons by dragging the slider on the**Number of Ribbons** bar. To make the ribbons broader or narrower, drag the**Ribbon Width** bar's slider.
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
@@ -96,23 +100,17 @@ No advertising on the website.
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -123,8 +121,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +128,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bypassing-channels-tweets-on-whatsapp/"><u>[New] 2024 Approved Bypassing Channels Tweets on WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-the-best-10-photo-sticker-boosters-for-iphoneandroid-users-for-2024/"><u>[New] Discover the Best 10 Photo Sticker Boosters for iPhone/Android Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-maximum-potential-screen-recording-on-anymac-for-2024/"><u>[New] Unlocking Maximum Potential Screen Recording on AnyMac for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-and-archiving-itunes-content-effortlessly-for-2024/"><u>[Updated] Capturing and Archiving iTunes Content Effortlessly for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-variances-in-exe-and-standard-msis-designs/"><u>Explaining the Variances in EXE and Standard MSIs' Designs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-voicemail-issues-9-effective-solutions/"><u>Fixing iPhone Voicemail Issues: 9 Effective Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/global-premiere-stellar-releases-revolutionary-software-for-photographic-fixes-and-retouching/"><u>Global Premiere: Stellar Releases Revolutionary Software for Photographic Fixes and Retouching</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo FRP Bypass</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-pro-level-text-animation-on-your-phone-with-these-apps-for-2024/"><u>New Unlock Pro-Level Text Animation on Your Phone with These Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpoint-windows-11-desktop-picture-storage/"><u>Pinpoint Windows 11 Desktop Picture Storage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-disabled-grammarly-functionality-in-windows-10/"><u>Tackling Disabled Grammarly Functionality in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-errors-during-win10win11-remote-access-attempts/"><u>Tackling Errors During Win10/Win11 Remote Access Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-blinking-screens-in-win1011/"><u>Troubleshooting Blinking Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-a-guide-to-5-effective-window-folder-habits/"><u>Unleash Potential: A Guide to 5 Effective Window Folder Habits</u></a></li>
+</ul></div>
 

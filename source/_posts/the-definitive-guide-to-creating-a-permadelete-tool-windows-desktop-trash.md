@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide to Creating a PermaDelete Tool: Windows Desktop Trash"
-date: 2024-12-26T20:02:38.259Z
-updated: 2024-12-27T22:29:54.339Z
+date: 2025-01-03T23:10:26.534Z
+updated: 2025-01-06T07:02:43.490Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
@@ -89,33 +85,38 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
-![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -138,15 +139,17 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-premier-editing-software-for-mobile-app-creation/"><u>[New] In 2024, Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-methods-for-batch-converting-m2ts-files-to-high-quality-mp4-without-losing-data/"><u>Best Methods for Batch Converting M2TS Files to High-Quality MP4 Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-out-the-wait-fasten-upstart-in-your-windows-11-pc/"><u>Cut Out the Wait: Fasten Upstart in Your Windows 11 PC</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/download-wonderfox-v11-the-latest-update-of-your-go-to-pdf-and-image-handling-tool/"><u>Download WonderFox v1.1: The Latest Update of Your Go-To PDF and Image Handling Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-sync-side-by-side-application-settings-on-win10/"><u>How to Sync Side-by-Side Application Settings on Win10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guides-to-3d-type-exploration/"><u>In 2024, Ultimate Guides to 3D Type Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-system-fix-unheard-link-app-notifications/"><u>Mending Windows System: Fix Unheard Link App Notifications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/reviving-the-past-top-5-ps1-emulators-on-pc-for-2024/"><u>Reviving the Past - Top 5 PS1 Emulators on PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocketing-performance-in-windows-11-systems/"><u>Skyrocketing Performance in Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-excellent-vehicle-hire-options-and-mobile-applications-zdnets-review/"><u>Top 5 Excellent Vehicle Hire Options & Mobile Applications - ZDNet's Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-lowering-sounds-strength-progressively-with-lumafusion/"><u>[New] In 2024, Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728468508290-hdd/"><u>「不思議な場所で見つからないファイルを探し出せ!外付けHDDデータ復元ガイド」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-off-your-windows-11-desktop/"><u>Edge Off Your Windows 11 Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-unveiled-the-science-and-companies-leading-its-integration/"><u>Generative AI Unveiled: The Science & Companies Leading Its Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-printer-settings-the-easy-way-in-win11-max-50-chars/"><u>Guide to Printer Settings: The Easy Way in Win11 (Max 50 Chars)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-artificial-intelligence-boosts-academic-study-top-4-methods/"><u>How Artificial Intelligence Boosts Academic Study: Top 4 Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-color-grading-with-gopro-studio/"><u>In 2024, Mastering Color Grading with GoPro Studio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-huawei-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Huawei Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-depth-guide-to-extracting-vimeo-media/"><u>In-Depth Guide to Extracting Vimeo Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-overcome-common-issues-with-discord-setup/"><u>Quick Fixes: Overcome Common Issues with Discord Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-yellow-discoloration-in-windows-laptop-screens/"><u>Resolving Yellow Discoloration in Windows Laptop Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-stalled-google-nearby-share-on-pc/"><u>Unveiling Fixes for Stalled Google Nearby Share on PC</u></a></li>
 </ul></div>
 

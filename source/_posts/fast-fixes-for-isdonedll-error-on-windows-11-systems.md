@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for ISDone.dll Error on Windows 11 Systems
-date: 2024-12-22T18:27:01.306Z
-updated: 2024-12-27T18:24:03.039Z
+date: 2024-12-31T23:54:39.558Z
+updated: 2025-01-06T02:57:18.440Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-context-menu-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Game’s Installer in Compatibility Mode
@@ -47,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 6. Select the**Windows 7** platform option on the drop-down menu. If your game predates that platform, you can also try selecting Vista or XP.  
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**OK** to close the setup properties window.
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
@@ -55,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run System File and Image Scans
 
  System file corruption is another potential cause for the ISDone.dll error in Windows 11/10\. So, we recommend users run a System File Checker scan to address that possible cause. Check out our[guide about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further details about how to apply this solution.
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-sfc-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, you can also run a Deployment Image Servicing Management scan on top. That scan can resolve issues with the system image. You can run that utility in the Command Prompt by executing this command:
 
@@ -77,11 +82,11 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
- For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -95,15 +100,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-Register the Referenced ISDone DLL File
 
@@ -123,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
@@ -131,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
@@ -141,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
 
@@ -161,22 +162,18 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-key-techniques-for-smooth-inshot-pivots/"><u>[New] 2024 Approved Key Techniques for Smooth Inshot Pivots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-sidestep-social-media-sponsored-videos/"><u>[New] Sidestep Social Media Sponsored Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dimensional-doors-top-10-sci-fi-films-that-open-new-worlds/"><u>[Updated] In 2024, Dimensional Doors Top 10 Sci-Fi Films that Open New Worlds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-universal-approach-to-smartphone-mac-and-pc-video-filming-for-2024/"><u>[Updated] Universal Approach to Smartphone, Mac, and PC Video Filming for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-6-hdmi-21-screens-detailed-feature-rundown/"><u>2024 Approved Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-htc-u23-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For HTC U23 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/darkschemetoggleinwindowsnotepadapp/"><u>DarkSchemeToggleInWindowsNotepadApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-resolving-windows-bsod-blues/"><u>Decoding and Resolving Windows BSOD Blues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-for-efficiency-installing-and-using-windows-outlook-preview/"><u>Guide for Efficiency: Installing and Using Windows' Outlook Preview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-dispel-geforce-now-error-xc0f1103f-in-win11/"><u>How to Dispel GeForce Now Error Xc0f1103f in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-enable-the-webcam-on-your-lenovo-notebook-easily/"><u>How to Repair and Enable the Webcam on Your Lenovo Notebook Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-5-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 5 Phone Network-Ready</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0xc00d36b4-sound-problem-in-win11/"><u>Overcoming 0xC00D36B4 Sound Problem in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-your-favorite-windows-extras-in-7-simple-steps/"><u>Regain Your Favorite Windows Extras in 7 Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-your-files-ditching-onedrive-on-windows-11/"><u>Simplifying Your Files: Ditching OneDrive on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-note-13-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi Note 13 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transparency-for-hidden-menu-items-on-windows-11/"><u>Transparency for Hidden Menu Items on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-color-grading-mastery-utilizing-cg-centrals-standardized-looks-for-2024/"><u>[New] Color Grading Mastery Utilizing CG Central's Standardized Looks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-resolving-blackout-errors-on-playback-devices/"><u>[New] Resolving Blackout Errors on Playback Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-a-directive-design-whiz-the-top-7-online-helpful-apps/"><u>Become a Directive Design Whiz: The Top 7 Online Helpful Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-d-drive-folder-alongside-existing-paths/"><u>Displaying D: Drive Folder Alongside Existing Paths</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-protecting-your-pc-against-malware-and-security-risks-expert-tips-from-yl-computing/"><u>Effective Strategies for Protecting Your PC Against Malware & Security Risks: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extended-support-for-windows-11-version-22h2-announced/"><u>Extended Support for Windows 11 Version 22H2 Announced</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-15-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 15 Pro Smoothly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-pin-on-windows-10-and-11-a-step-by-step-guide/"><u>Overcoming Stuck PIN on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ram-unraveling-made-simple-on-windows-pcs/"><u>RAM Unraveling Made Simple on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-system-windows-5-best-optimizers/"><u>Skyrocket Your System: Windows' 5 Best Optimizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-window-11-themes-with-advanced-registry-techniques/"><u>Unlocking Window 11 Themes with Advanced Registry Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-11movmp4/"><u>Windows 11でMOVファイルを簡単にMP4へ自由税制で変換する方法</u></a></li>
 </ul></div>
 

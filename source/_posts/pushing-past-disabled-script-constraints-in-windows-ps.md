@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2024-12-25T20:00:16.589Z
-updated: 2024-12-27T22:35:32.857Z
+date: 2024-12-30T23:50:34.926Z
+updated: 2025-01-05T18:11:19.634Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run PowerShell in Administrator Mode
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  When you finish, close PowerShell and then restart your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
@@ -127,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 3. Double-click on the **Turn on Script Execution** option.
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
@@ -171,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
@@ -206,20 +206,21 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finding-icons-a-targeted-approach-to-instas-powerful-voices/"><u>[New] In 2024, Finding Icons A Targeted Approach to Insta's Powerful Voices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premier-gaming-liquids-best-of-breed-lists-for-2024/"><u>[New] Premier Gaming Liquids Best of Breed Lists for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>[New] Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>2024 Approved Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-exception-breakpoint-reached-message-on-pcs/"><u>Correcting Exception Breakpoint Reached Message on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-system-settings-with-a-glance/"><u>Navigate Through System Settings with a Glance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-server-related-errors-in-microsoft-store-windows-1111-edition/"><u>Overcoming Server-Related Errors in Microsoft Store, Windows 11/11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-efficiency-for-windows-fixer-utilities/"><u>Reestablishing Efficiency for Windows Fixer Utilities</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ess-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-simple-reverting-windows-11-user-privileges/"><u>Steps to Simple: Reverting Windows 11 User Privileges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trimmed-tamed-files-adopt-compact-display-in-windows-11/"><u>Trimmed, Tamed Files: Adopt Compact Display in Windows 11</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-hard-drive-read-errors-with-yl-software-your-guide-by-yl-computing-experts/"><u>Troubleshooting Hard Drive Read Errors with YL Software - Your Guide by YL Computing Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-proxy-settings-path/"><u>Unveiling Windows 11'S Proxy Settings Path</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[New] 2024 Approved A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-on-set-questions-answered-quickly/"><u>[New] In 2024, On-Set Questions Answered Quickly</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/win11-6/"><u>簡化清理：使用Win11快速提升你电脑效能 - 6个专业解决方案</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/360514-9781440628207-answered-prayers/"><u>Answered Prayers | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fostering-efficiency-not-just-fun-in-windows-11/"><u>Fostering Efficiency, Not Just Fun in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m14-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M14 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-voice-chat-not-working-in-valorant-on-windows/"><u>How to Fix Voice Chat Not Working in Valorant on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-temp-files-in-windows-11/"><u>How to Safeguard Your Temp Files in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-essential-insights-for-asmr-aficionados/"><u>In 2024, Essential Insights for ASMR Aficionados</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-uniting-fandoms-top-20-best-anime-songs/"><u>In 2024, Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-galaxys-potential-the-dex-connection-technique/"><u>Leveraging Galaxy's Potential: The DeX Connection Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-now-error-xc0f1103f-in-windows-11/"><u>Overcoming GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-conversion-windows-and-imgburn-a-guide-to-creating-professional-audio-cds/"><u>Streamlining MP3 Conversion: Windows & ImgBurn - A Guide to Creating Professional Audio CDs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-enduring-legacy-of-chinas-cultural-revolution-in-todays-era-insights-from-yl-computing/"><u>The Enduring Legacy of China's Cultural Revolution in Today's Era - Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos-for-2024/"><u>Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719359080464-windows-11-note-saving-strategies-no-software/"><u>Windows 11 Note-Saving Strategies, No Software!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Battery Alerts: Set Up Full Charges in Windows 11"
-date: 2024-08-16T02:33:28.952Z
-updated: 2024-08-17T02:33:28.952Z
+date: 2024-12-31T11:00:59.160Z
+updated: 2025-01-05T16:29:51.502Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
  Windows doesn’t incorporate a high-battery notifier (alert) for informing you when a plugged-in laptop is fully charged or close to it. Such a feature would be useful for users who prefer to leave their laptops unplugged when they can. This is how you can add a full battery charge alert to Windows 11/10 with three apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Full Battery Charge Alert With Battery Notification
 
  Battery Notification is a Microsoft Store app you can utilize in Windows 11/10\. That app enables you to set both high and low-battery alert notifications. The basic app is freely available, but you can upgrade it to one with battery analytics for $4.99\. You can set up a fully charged notifier with Battery Notification as follows:
@@ -32,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 6. Next, select the**Always Allowed** option if prompted to enable the app to run in the background.  
 ![The Always Allowed option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-allowed-option.jpg)
 7. Click the app’s**Home** tab if it’s not selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then turn on the**Full Battery Notification** option if it’s disabled. A high battery alert will now pop up when the battery reaches the level set on the**Notification** bar.  
 ![The Full Battery Notification option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-notification-option.jpg)
 
@@ -45,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
 ![The Battery Notification taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-battery-notification-taskbar-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Full Battery Charge Alert With Battery Notifier
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
@@ -57,9 +70,15 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 6. Next, click the**Battery Notifier** icon in the system to view the app’s panel.  
 ![The Battery Notifier system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/battery-notifier-taskbar-icon.jpg)
 7. Make sure the**Full Battery** notification checkbox is set to**On** .  
-![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
@@ -74,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
 ![The Light theme option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-white-theme.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Full Battery Charge Alert Full Battery & Theft Alarm
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
@@ -87,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 4. Select the**Open** option for Full Battery & Theft Alarm in MS Store.
 5. Turn on the**Charge Alarm** option if it’s off.  
 ![The Charge Alarm option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/charge-alarm-setting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the**Settings** (cog) button at the bottom left of the app.
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
@@ -99,13 +112,7 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
  To change the sound for the notifier, click the**Reminder Ringtone** drop-down menu; select an alternative alarm or call sound there. Click**Play** to see and hear a test notification with the chosen sound.
 
 ![A test notification for Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/test-notification.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How to Enable Notifications for the Battery Apps
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
@@ -119,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Listen Out for Your Full Battery Charge Notifiers in Windows
 
  Battery Notification, Full Battery & Theft Alarm, and Battery Notifier include some good options and features for monitoring battery levels in Windows. You’ll never forget to unplug a fully charged laptop when you’ve added a full battery charge notifier to Windows 11/10 with one of those apps. They’ll help minimize laptop battery degradation by always reminding you when to pull the plug on a fully charged laptop.
@@ -131,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +146,21 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>[New] 2024 Approved Conquering Chaos Muting Tactics for Seamless GMeet Participation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-leading-downloader-software-facebooks-top-choices-5/"><u>[New] In 2024, Leading Downloader Software Facebook's Top Choices #5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[Updated] 2024 Approved Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-prime-audio-pads-for-the-web/"><u>[Updated] 2024 Approved Prime Audio Pads for the Web</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-easily-enable-offline-access-to-youtube-on-iphoneipad-for-2024/"><u>[Updated] Easily Enable Offline Access to YouTube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-innovative-igtv-thumbnail-upgrades-guide/"><u>[Updated] Innovative IGTV Thumbnail Upgrades Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-screen-record-features-in-hp-computers/"><u>[Updated] Unlocking Screen Record Features in HP Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-best-free-windows-tools-for-sound-editing/"><u>Discover the Best FREE Windows Tools for Sound Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-vlc-file-rejection-issue/"><u>Fixing Windows VLC File Rejection Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-huawei-nova-y91-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Huawei Nova Y91 Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ost-essential-5-earbuds-for-gaming-for-2024/"><u>The Most Essential 5 Earbuds for Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-importance-of-windows-process-aggregatorhostexe/"><u>Understanding the Importance of Windows Process AggregatorHost.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-high-dynamic-range-on-windows-11/"><u>Unlock the Full Potential of High Dynamic Range on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-microsoft-family-safety-offer/"><u>What Does Microsoft Family Safety Offer?</u></a></li>
+</ul></div>
 

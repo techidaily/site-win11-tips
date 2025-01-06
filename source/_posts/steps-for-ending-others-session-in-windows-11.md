@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2024-12-26T19:14:34.444Z
-updated: 2024-12-27T18:28:58.836Z
+date: 2025-01-04T00:52:38.685Z
+updated: 2025-01-05T16:42:35.597Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * [Sign Out Other Users Using the Command Prompt](#sign-out-other-users-using-the-command-prompt)
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -73,17 +77,18 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 4. The output will show all the active user sessions on your computer. Make a note of the user account **ID** you want to sign out. In this instance, we have **Tashreef** as **1** and **Guest21** as **3** under the **ID** column.  
 ![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Logoff 3`
 6. Upon successful execution, Windows will sign out the specified user account.  
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
@@ -100,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
@@ -124,24 +125,19 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips/"><u>[New] 2024 Approved Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-building-a-brand-on-fb-covers-that-speak-volumes/"><u>[New] In 2024, Building a Brand on FB Covers that Speak Volumes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>[New] The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide-for-2024/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality-for-2024/"><u>[Updated] Mastering iPhone's Voice Memo Functionality for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-your-day-with-these-best-6-windows-11-to-do-applications/"><u>Conquer Your Day with These Best 6 Windows 11 To-Do Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-internal-pc-keys-in-the-microsoft-ecosystem/"><u>Disabling Internal PC Keys in the Microsoft Ecosystem</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-corsair-k70-mouse-drivers-and-software/"><u>Download and Installation Guide: Corsair K70 Mouse Drivers & Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/easy-file-relocation-techniques-for-windows-users-by-yl-software-move-between-external-and-internal-drives-without-hitches/"><u>Easy File Relocation Techniques for Windows Users by YL Software: Move Between External and Internal Drives Without Hitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-network-analysis-win-ipandmac-via-powershell/"><u>Enhancing Network Analysis: Win IP&MAC via PowerShell</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-functionality-repair-intel-unison-in-win11/"><u>Ensuring Functionality: Repair Intel Unison in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leverage-powertoys-for-swift-typing-in-windows/"><u>Leverage PowerToys for Swift Typing in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-policy-bypass-during-windows-installation-issues/"><u>Mastering Policy Bypass During Windows Installation Issues</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-se-2022-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone SE (2022) with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-icon-position-restoration/"><u>Techniques for Icon Position Restoration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-best-windows-way-to-enjoy-classic-quests-in-ultra-hd-via-scummvm/"><u>The Best Windows Way to Enjoy Classic Quests in Ultra-HD via ScummVM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trigger-quick-support-functionality-windows-11-guide/"><u>Trigger Quick Support Functionality: Windows 11 Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey-for-2024/"><u>Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-future-frontiers-in-metaverse-with-top-8-gear/"><u>[New] Unveiling Future Frontiers in Metaverse with Top 8 Gear</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-windows-11-widgets-enhancement-or-overkill/"><u>Examining Windows 11 Widgets - Enhancement or Overkill?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssing-imovies-capabilities-for-youtube-video-perfection/"><u>Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-130-music-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 130 Music to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>In 2024, From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorporating-time-features-into-youtube-video-formats-for-2024/"><u>Incorporating Time Features Into YouTube Video Formats for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-rufus-to-override-win11s-tpmsecure-boot-systems/"><u>Leveraging Rufus to Override Win11's TPM/Secure Boot Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overwatch-game-review-where-fun-meets-tactical-team-shooting-skill/"><u>Overwatch Game Review: Where Fun Meets Tactical Team Shooting Skill</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revising-wi-fi-connection-protocols-ensuring-full-action-compliance/"><u>Revising Wi-Fi Connection Protocols: Ensuring Full Action Compliance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-conversion-from-word-files-to-pdfs-in-windows-11-pro-systems/"><u>Seamless Conversion From Word Files to PDFs in Windows 11 Pro Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stream-smarter-a-detailed-comparison-between-roku-and-amazons-fire-tv-stick-for-buyers/"><u>Stream Smarter: A Detailed Comparison Between Roku and Amazon's Fire TV Stick for Buyers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-your-win-pc-chatbots-with-freedomgpt/"><u>Unleash Your WIN-PC ChatBots: With FreedomGPT</u></a></li>
 </ul></div>
 

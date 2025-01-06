@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Image Magic - The Seventh Simple Trick Unveiled
-date: 2024-12-26T22:19:31.654Z
-updated: 2024-12-27T21:10:54.180Z
+date: 2025-01-05T09:46:40.426Z
+updated: 2025-01-06T01:20:09.791Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Set Up a Desktop Slideshow
 
  Windows 11 includes a feature that enables you to set up slideshows on its desktop. When enabled, the desktop displays images in a selected folder for a specified time. It’s a relatively basic slideshow feature, but you can still show off all your favorite photos on your PC’s desktop with it. This is how to set up a desktop image slideshow in Windows 11:
@@ -32,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 1. Click anywhere on the desktop with your right mouse button to select**Personalize** .  
 ![The Personilization option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/personalization-option.jpg)
 2. Select **Background** in Settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Double-click**Personalize your background** to expand its settings.
 4. Select the**Slideshow** option within the**Personalize your background** drop-down menu.  
 ![Desktop slideshow settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/personalize-your-background-drop-down-menu.jpg)
@@ -50,21 +59,18 @@ his is how you can set up a screensaver slideshow in Windows 11:
 3. Select the**Photos** option within the drop-down menu shown directly below.  
 ![The Photos screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photos-drop-down-menu.jpg)
 4. Adjust the**Wait** option to configure how long it takes to for the screensaver to appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Settings** button to bring up further options.  
 ![The Photo Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photo-screen-saver-settings.jpg)
 6. Click the**Browse** button for selecting pictures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Choose a folder that includes the photos you want to show in the slideshow, and click**OK** to confirm.
 8. Select an option on the**Slide show** **speed** drop-down menu.
 9. Click the**Save** and**Apply** options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Set Up a Slideshow With the Photos App
 
@@ -82,10 +88,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 6. Click the**Slideshow** button to view your photo presentation.  
 ![The slideshow option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/slideshow-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. How to Set Up a Slideshow With Video Editor
 
  Video Editor is an app that’s like an expansion to Photos. That app enables its users to set up photo video slideshows with different themes and background music. Here are the steps for creating a slideshow clip for your favorite snapshots in Video Editor:
@@ -96,10 +98,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 4. Press the**New video project** button.  
 ![The New video project button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/new-video-project-button.jpg)
 5. Enter a title for your clip, and click the**OK** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click**\+ Add** \>**From this PC** to select some images for the slideshow. Then select**Open** to add them.
 2. Drag image thumbnails from the project library onto the slides at the bottom of the**My Slideshow** tab.  
@@ -113,21 +111,17 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. To add some sound, click the**Background music** option. Then choose an audio scheme, and press the**Done** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the three-dot button at the top right of Video Editor to select**Themes** . Select a theme to set for the slideshow and click**Done** .  
 ![The Themes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/themes-option.jpg)
 7. Press the**Finish video** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select an option on the**Video quality** drop-down menu, and click the**Export** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Set Up a Slideshow With Google Photos
@@ -145,14 +139,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 8. Click the**More options** (three-dot) button to select**Slideshow** .  
 ![The Slideshow option in Google Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/the-slideshow-option.jpg)
 9. Your album slideshow will now play in full-screen mode. Click the left and right arrows to flick through your images.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. How to Set Up a Slideshow With Google Slides
 
@@ -175,14 +161,28 @@ his is how you can set up a screensaver slideshow in Windows 11:
 1. Drag the image’s borders with the cursor to resize it so that it fills the whole slide.  
 ![Image border resizing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/image-border-resize.jpg)
 2. Repeat steps six to nine to add photos to all blank slides within your slideshow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To add a slideshow transition effect, click the**Transition** button. Then choose a transition on the drop-down menu, and select the**Apply to all slides** option.  
 ![The transition effect options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/apply-to-all-slides-option.jpg)
 4. You can also add captions to slides by clicking the**Text box** option. Position your box at the bottom or top of the slide, and enter a photo description in it.  
 ![A text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/text-box.jpg)
 5. Click the**Slideshow** button to view the presentation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
  Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -198,18 +198,22 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![Selected slideshow images in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pictures-in-windows-media-player.jpg)
 8. Hold the**Ctrl** key and select photos to include within the slideshow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Then hold the left mouse button to drag your image selection onto your playlist’s title in the Windows Media Player sidebar.
 10. Release the left mouse button when you see the**Add to** \+ tooltip.
 
 ![Selected slideshow images in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pictures-in-windows-media-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now select your Image Slideshow playlist in Windows Media Player, which will include the photo files you’ve added to it. Click the**Play** button to start the slideshow. Windows Media Player will then display play a basic slideshow that flicks through the images in it at about five-second intervals. If WMP doesn’t automatically show the slideshow, click the**Switch to Now Playing** option.
 
 ![A slideshow image in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-slideshow-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Needs Third-Party Photo Slideshow Software?
 
@@ -230,22 +234,18 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-potential-best-free-safe-followers-enhancing-your-feed-iosandroid/"><u>[New] 2024 Approved Unleash Potential Best Free, Safe Followers Enhancing Your Feed (iOS/Android)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-enhancing-visuals-with-paradox-creation-for-2024/"><u>[New] Enhancing Visuals with Paradox Creation for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-odins-fury-new-wrath-unleashed/"><u>[New] In 2024, Odin's Fury New Wrath Unleashed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-elevating-your-instagram-engagement-through-hashtags/"><u>[New] Step-by-Step Elevating Your Instagram Engagement Through Hashtags</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-errors-office-activation-success-guide/"><u>Disabling Errors: Office Activation Success Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-aussie-vernacular-100plus-essential-terms/"><u>Embrace Aussie Vernacular: 100+ Essential Terms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-restore-accessibility-of-registry-editor/"><u>Guide to Restore Accessibility of Registry Editor</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-system-image-0x80780119-error-on-windows/"><u>How to Fix the System Image 0X80780119 Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intricate-control-of-firewall-areas-on-windows-os/"><u>Intricate Control of Firewall Areas on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/merging-windows-expertise-into-macos-strategy/"><u>Merging Windows Expertise Into macOS Strategy</u></a></li>
-<li><a href="https://win-web.techidaily.com/overcoming-scanner-os-software-conflicts-expert-advice-by-yl-technology-team/"><u>Overcoming Scanner-OS Software Conflicts: Expert Advice by YL Technology Team</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reveal-hidden-setup-windows-11-missing-controls-located/"><u>Reveal Hidden Setup: Windows 11 Missing Controls Located</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/sign-up-saga-crafting-your-digital-persona-facebook/"><u>Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-tips-simplifying-windows-pcs-for-aging-elders/"><u>Tech Tips: Simplifying Windows PCs for Aging Elders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-replacement-apps-for-windows-11-default-tools/"><u>Top 10 Replacement Apps for Windows 11 Default Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[New] In 2024, Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-livestream-lifelines-combatting-common-interruption-issues-on-fb/"><u>[New] Livestream Lifelines Combatting Common Interruption Issues on FB</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-fatal-0xf0831-malfunction/"><u>Bypassing Windows 11'S Fatal 0XF0831 Malfunction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-still-coming-soon-discover-exceptional-open-source-counterparts-now/"><u>ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-cannot-access-source-file-in-win1110/"><u>Dealing with Cannot Access Source File in Win11/10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-your-destiny-2-beyond-light-pc-installation-issues-a-complete-guide/"><u>Fixing Your Destiny 2 Beyond Light PC Installation Issues – A Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-or-fresh-install-windows-7-audio-device-drivers/"><u>How to Update or Fresh Install Windows 7 Audio Device Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-cloud-storage-onedrive-login-on-windows/"><u>Master Your Cloud Storage: OneDrive Login on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-corrupted-file-issue-in-windows-11-os-error-0x80070570/"><u>Mending the Corrupted File Issue in Windows 11 OS (Error 0X80070570)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-netflix-freeze-in-windows-software/"><u>Overcoming Netflix Freeze in Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-installation-privilege-denial-problem/"><u>Solving Windows Installation Privilege Denial Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-explained-and-guide-to-clear-it-out/"><u>Windows ARP Cache Explained & Guide to Clear It Out</u></a></li>
 </ul></div>
 

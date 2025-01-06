@@ -1,7 +1,7 @@
 ---
 title: Guidelines to Rectify Windows Bluetooth Outputs - Music Only
-date: 2024-08-16T02:33:20.370Z
-updated: 2024-08-17T02:33:20.370Z
+date: 2024-12-30T03:45:14.424Z
+updated: 2025-01-06T03:42:09.829Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![Run Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows 10 and 11 feature a built-in troubleshooter to find and fix common Bluetooth issues. It is an automated tool but works differently on Windows 10 and 11\.
 
  To run the Bluetooth troubleshooter:
@@ -33,14 +37,20 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 3. Select the **Other troubleshooters** option.  
 ![bluetooth troubleshooter get help automatic diagnostic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-troubleshooter-get-help-automatic-diagnostic.jpg)
 4. Click **Run** for the **Bluetooth** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. The troubleshooter will scan the system for issues and recommend applicable fixes automatically. Follow the on-screen instructions to apply the fixes.
 6. On the newer iteration of Windows 11, this will open the **Get Help** app seeking your consent to run the troubleshooter. Click **Yes** and then follow the on-screen instructions. You can skip some steps, like checking for Windows updates, by selecting the **No** option.
 
  Let the Get Help app try all available fixes until the issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Bluetooth Services in Device Properties
 
  Your headset or speaker offers distinct services which are enabled by default. However, if disabled, one or more Bluetooth functions can stop working for your audio device. To fix the issue, open the Bluetooth device properties using the Control Panel and review the services.
@@ -49,10 +59,12 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 1. Press **Win + R** to open **Run**.  
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
@@ -80,26 +92,22 @@ Remotely Controllable Device`
 1. Press **Win + R** to open **Run**.
 2. Type **services.msc** and click **OK** to open the Services snap-in.  
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
 `Bluetooth Audio Gateway Service  
 Bluetooth Support Service  
 Bluetooth User Support Service`
 4. If not, right-click on **Bluetooth Audio Gateway Service** and select **Restart**.  
 ![restart bluetooth services services snap in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-bluetooth-services-services-snap-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Once done, check the other two services. If not running, restart the services one by one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Close the Services snap-in and check for any improvements.
 
  If the issue persists, [disable any audio enhancements on Windows](https://www.makeuseof.com/disable-audio-enhancements-windows/). While intended to improve your listening experience, these enhancements can also cause audio issues. Turning off these enhancements can help you resolve the problem with your audio devices.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check Your Bluetooth Device Driver for Issues
 
  An outdated or buggy Bluetooth driver is a common cause of a malfunctioning Bluetooth device on Windows computers. Try to update the driver, perform a roll back or uninstall the driver to see if it resolves the issue.
@@ -127,16 +135,11 @@ Bluetooth User Support Service`
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +147,20 @@ Bluetooth User Support Service`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-create-the-loop-instagrams-boomerang-mastery/"><u>[New] In 2024, Create the Loop Instagram's Boomerang Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unveiling-the-secrets-to-creating-an-enterprise-instagram-profile/"><u>[Updated] In 2024, Unveiling the Secrets to Creating an Enterprise Instagram Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ingenious-ways-to-leverage-chatgpt-for-employment/"><u>5 Ingenious Ways to Leverage ChatGPT for Employment</u></a></li>
+<li><a href="https://games-able.techidaily.com/amazons-spring-deals-secure-a-50-discount-on-the-samsung-odyssey-g7-the-ultimate-gaming-display/"><u>Amazon's Spring Deals: Secure a 50% Discount on the Samsung Odyssey G7 – The Ultimate Gaming Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-game-stutters-with-high-fps-proven-fixes-and-tips-for-gamers-in-202-cuffing-how-to-attain-seamless-gaming-at-optimal-frames-per-second/"><u>Beat Game Stutters with High FPS: Proven Fixes and Tips for Gamers in 202 Cuffing - How to Attain Seamless Gaming at Optimal Frames Per Second</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-mastery-windows-task-scheduler-for-batches/"><u>Command Line Mastery: Windows Task Scheduler for Batches</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fusionslideshow-crafting-video-plus-image-narratives/"><u>In 2024, FusionSlideshow Crafting Video + Image Narratives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ppt-pro-tips-top-6-routes-to-prevent-save-failures-in-windows/"><u>PPT Pro Tips: Top 6 Routes to Prevent Save Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-crash-code-9999-in-win-based-audacity-software/"><u>Steering Clear of Crash Code 9999 in Win-Based Audacity Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-graphics-memory-in-windows-10-and-11/"><u>Supercharge Your PC Graphics Memory in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-pin-related-connectivity-issues-in-windows-1110/"><u>Unlock PIN-Related Connectivity Issues in Windows 11/10</u></a></li>
+</ul></div>
+

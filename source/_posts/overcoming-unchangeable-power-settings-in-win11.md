@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Settings in Win11
-date: 2024-12-21T23:04:09.351Z
-updated: 2024-12-27T21:05:04.695Z
+date: 2025-01-03T05:26:46.988Z
+updated: 2025-01-05T16:54:27.172Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't You Change the Power Mode in Windows 11?
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
@@ -54,22 +54,19 @@ Here is how you can proceed:
 3. In the following window, expand the**View by** category at the top and choose**Large icons** .  
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -85,12 +82,12 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -116,6 +113,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 3. Locate the**Select an active power plan** option in the right pane and double-click on it.  
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
@@ -150,18 +151,21 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-integrating-vimeo-to-instagram-posts/"><u>[New] Integrating Vimeo to Instagram Posts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-addressing-issue-non-appearing-facebook-video-previews/"><u>[Updated] Addressing Issue Non-Appearing Facebook Video Previews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>2024 Approved Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-listeners-respectfully-for-increased-sign-ups-for-2024/"><u>Engaging Listeners Respectfully for Increased Sign-Ups for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion-for-2024/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fully-active-discord-microphone/"><u>Fully Active Discord Microphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-pre-windows-11-machine/"><u>How to Jumpstart Your Pre-Windows 11 Machine</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-g2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo G2?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/secret-spotters-where-to-find-your-snappiest-ringtone-for-2024/"><u>Secret Spotters Where to Find Your Snappiest Ringtone for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-steadying-your-pcs-cpu-with-windows-rm/"><u>The Ultimate Guide: Steadying Your PC's CPU with Window's RM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-unseen-benefit-of-bi-weekly-windows-data-save/"><u>The Unseen Benefit of Bi-Weekly Windows Data Save</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unzipping-files-proficiently-using-powershell-commands/"><u>Unzipping Files Proficiently Using PowerShell Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-powered-up-customize-cmd-shortcuts-using-nircmd/"><u>Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/"><u>[New] 2024 Approved Tips to Incorrante TV with Facebook Live Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harvesting-stills-from-moving-images-on-windows/"><u>[New] Harvesting Stills From Moving Images on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-overcoming-grey-screens-in-gaming-recording/"><u>[Updated] 2024 Approved Overcoming Grey Screens in Gaming Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-static-to-swirling-implementing-motion-blur-in-ai-designs/"><u>[Updated] From Static to Swirling Implementing Motion Blur in AI Designs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-what-makes-youtube-and-dailymention-stand-out-for-2024/"><u>[Updated] What Makes YouTube and DailyMention Stand Out for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4a-mp4-movavi/"><u>網路移動影像轉碼：無成本的 M4A 到 MP4 轉換 - 使用 Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-systray-with-scroll-lock-and-num-indicators/"><u>Amplify Windows 11 SysTray with Scroll Lock and Num Indicators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-virtualboxs-0x80004005-failure-on-win/"><u>Dealing with VirtualBox's 0X80004005 Failure on Win</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-persistent-chatgpt-logs-retention/"><u>Ensuring Persistent ChatGPT Logs Retention</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essays-in-the-digital-age-is-ai-overruling-student-effort/"><u>Essays in the Digital Age: Is AI Overruling Student Effort?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-utilities-for-a-high-performing-windows/"><u>Essential Utilities for a High-Performing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-draw-on-the-desktop-on-windows-11-and-11/"><u>How to Draw on the Desktop on Windows 11 & 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-memes-galore-download-and-share-joy/"><u>In 2024, Memes Galore Download & Share Joy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-disk-designations-c-and-d-varieties/"><u>Navigating Disk Designations: C and D Varieties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-show-startups-on-task-manager/"><u>Restoring Normalcy: Show Startups on Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminals-in-win11-undo-changes-and-start-new/"><u>Terminals in Win11: Undo Changes & Start New</u></a></li>
 </ul></div>
 

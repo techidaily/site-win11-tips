@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Gamepad on Windows
-date: 2024-12-22T22:10:06.628Z
-updated: 2024-12-27T19:56:02.216Z
+date: 2024-12-31T18:02:55.010Z
+updated: 2025-01-05T19:41:51.843Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check if Windows Recognizes Your Controller
 
  The first thing you need to do is check if Windows recognizes your controller. For that, you will need to [open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/). Here's how to do that.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
  If your controller does not show up in the Game Controllers window or the status does not say **OK**, you may be experiencing a connection problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 1. Right-click on the **Start icon** and select **Device Manager** from the list.
 2. Right-click anywhere on an empty spot within the Device Manager window and select **Scan for hardware changes**.  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Following that, your controller should appear in the Device Manager window and work as expected.
 
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
@@ -85,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 3. Click the **Run** button next to **Bluetooth**.  
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
- After running the above troubleshooter, try using your controller again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After running the above troubleshooter, try using your controller again.
 
 ## 5\. Update or Reinstall the Controller's Driver
 
@@ -101,12 +97,16 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 4. Select the **Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Your Controller’s Firmware
@@ -133,24 +133,24 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-flawless-screen-capture-s-assassins-creed-odyssey-for-2024/"><u>[New] Flawless Screen Capture 'S Assassin's Creed Odyssey for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-effortlessly-record-audio-on-your-mac-using-audacity/"><u>[Updated] Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unbeatable-video-popularity-tracker-in-youtube-arena-for-2024/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992283854-anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 14 Plus How to Bypass?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-fall-into-these-traps-as-a-first-time-windows-11-user/"><u>Don't Fall Into These Traps as a First-Time Windows 11 User</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-chromeedge-bar-hide-on-maxed-windows/"><u>Eliminating Chrome/Edge Bar Hide on Maxed Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-source-file-unreadable-error-on-windows/"><u>Eliminating Source File Unreadable Error on Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211123388-9781958997444-growing-in-sonship/"><u>Growing in Sonship | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-nokia-c12-plus-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Nokia C12 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x50iplus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X50i+ Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-windows-11-efficiency-with-shortcuts-and-nircmd/"><u>Master Your Windows 11 Efficiency with Shortcuts & NirCmd</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-utorrents-unresponsive-behavior-in-windows/"><u>Overcoming uTorrent's Unresponsive Behavior in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-access-challenges/"><u>Overcoming Windows 11 Access Challenges</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-infinix-smart-7-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 7 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-a-pristine-windows-11-launch/"><u>The Ultimate Path to a Pristine Windows 11 Launch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-modifying-win11-smartscan-settings/"><u>Tips for Modifying Win11 SmartScan Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mystery-of-pagefilesys-in-windows-os/"><u>Unveiling the Mystery of Pagefile.sys in Windows OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools-for-2024/"><u>[New] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-superior-hashtags-for-your-youtube-content/"><u>[Updated] 2024 Approved Finding Superior Hashtags for Your YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-drone-list-to-maximize-gopro-video-quality-for-2024/"><u>[Updated] Ultimate Drone List to Maximize GoPro Video Quality for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-splashproof-cameras-for-child-filmmakers-in-rainy-days/"><u>Best Splashproof Cameras For Child Filmmakers in Rainy Days</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decode-and-maximize-your-impact-on-instagram-with-these-insights-for-2024/"><u>Decode & Maximize Your Impact on Instagram with These Insights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-office-productivity-with-outlook-preview-windows-11-edition/"><u>Enhance Office Productivity with Outlook Preview, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-clicks-in-windows-11-no-more-how-to-halt-acceleration/"><u>Fast Clicks in Windows 11? No More! How to Halt Acceleration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-domain-based-biometric-settings-in-w11/"><u>Guiding Users Through Domain-Based Biometric Settings in W11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>In 2024, Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficient-screen-capture-devices-for-education/"><u>In 2024, Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>In 2024, From Capture to Share Precision Cropping & Export Tips for Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-touch-typing-features-in-windows/"><u>Navigating Through Touch Typing Features in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-virtual-machines-that-blossom-on-windows-11/"><u>Optimal Virtual Machines That Blossom on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011ayered-connectivity-issues-to-ms-sql/"><u>Overcoming Windows 10/11'Ayered Connectivity Issues to MS SQL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-the-unknown-component-alert-from-windows/"><u>Removing the Unknown Component Alert From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-to-infinite-earnings-with-like-a-dragon-expert-tips-and-tricks-for-gamers-on-pc/"><u>The Pathway to Infinite Earnings with Like A Dragon: Expert Tips and Tricks for Gamers on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quintessence-of-modern-design-tools-microsoft-paints-upgrades/"><u>The Quintessence of Modern Design Tools - Microsoft Paint's Upgrades</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
 </ul></div>
 

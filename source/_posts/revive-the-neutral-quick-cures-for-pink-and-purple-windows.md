@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2024-12-24T21:16:15.582Z
-updated: 2024-12-27T22:44:55.947Z
+date: 2025-01-02T01:00:16.744Z
+updated: 2025-01-06T05:35:19.289Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you try the detailed solutions, you might want to check out a couple of quick fixes first.
 
  For example, are you experiencing this issue on an external display device? If so, then check your cables and ensure that everything is connected properly. Also, ensure that your display cables aren’t damaged.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
@@ -64,6 +68,14 @@ In this instance, here’s how you can resolve the problem:
 
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Configure the Night Light Settings
 
  In some cases, the issue might be caused by the way you've configured the night light settings.
@@ -88,6 +100,14 @@ To get rid of the problem, follow these steps:
 
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update or Reinstall the Windows Display Drivers
 
  In some instances, the “desktop color” issue might be caused by corrupted or incompatible display drivers. Now, an easy way out in this case is to either update or reinstall these drivers.
@@ -99,10 +119,6 @@ Let’s first check out how you can update the display drivers:
 3. Right-click your PC’s display adapter and select**Update driver** .
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the next screen, select**Search automatically for updated driver software** and then follow the on-screen instructions.
 
@@ -133,10 +149,6 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
 1. Press**Win + R** to open the Run command dialog box.
@@ -147,7 +159,7 @@ Let’s first check out how you can update the display drivers:
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
@@ -165,10 +177,6 @@ Here are the steps you need to follow:
 
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Use a System Restore Point
 
  Did you start experiencing the “desktop color” issue recently? If so, then you could tackle the problem by using a system restore point.
@@ -185,14 +193,6 @@ Here are the steps you need to follow:
 4. Click**Next** , click**Finish** , and then wait for the process to complete.
 
 ![Using a Restore Point on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Using-a-Restore-Point-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Say Goodbye to Strange Windows Desktop Colors
 
@@ -215,16 +215,14 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-overcoming-obstacles-with-youtube-short-strategies/"><u>[New] Overcoming Obstacles with YouTube Short Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-swiftly-stow-facebook-broadcasts-for-smartphonedesktop-users/"><u>[New] Swiftly Stow Facebook Broadcasts for Smartphone/Desktop Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-hunt-for-premium-costless-lut-files-for-2024/"><u>[New] The Ultimate Hunt for Premium, Costless LUT Files for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unleash-your-potential-navigating-the-world-of-switch-pro-in-steam/"><u>[Updated] 2024 Approved Unleash Your Potential Navigating the World of Switch Pro in Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-power-updates-with-win-10-and-11-tips/"><u>Elevate Your Power Updates with Win 10 & 11 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-non-responsive-esc-key-on-your-pc/"><u>How to Fix a Non-Responsive Esc Key on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-printer-admin-console-a-quick-guide/"><u>Navigating Windows Printer Admin Console: A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-disk-errors-a-microsoft-method/"><u>Reverse Disk Errors: A Microsoft Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-switching-on-hyper-v-in-win11/"><u>Step-by-Step: Switching On Hyper-V in Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-sizzling-sequel-an-in-depth-overcooked-2-culinary-critique/"><u>The Sizzling Sequel: An In-Depth Overcooked! 2 Culinary Critique</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-exporting-your-chatgpt-sessions-with-handy-apps/"><u>The Ultimate Guide to Exporting Your ChatGPT Sessions with Handy Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-of-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Avoidance of Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-taming-high-cpu-use-in-modern-windows-host/"><u>Deciphering and Taming High CPU Use in Modern Windows Host</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-checks-when-windows-obs-studio-wont-launch/"><u>Essential Checks When Windows' OBS Studio Won't Launch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-smart-8-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Smart 8 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unleash-potential-best-gaming-content-to-elevate-your-channel/"><u>In 2024, Unleash Potential Best Gaming Content to Elevate Your Channel</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resolving-user-not-found-issue-windows-1011/"><u>Steps for Resolving 'User Not Found' Issue: Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a05s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A05s Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

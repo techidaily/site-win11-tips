@@ -1,7 +1,7 @@
 ---
 title: Restoring Default Settings in Your PUBG Gameplay (Win 10/11)
-date: 2024-08-16T02:32:53.644Z
-updated: 2024-08-17T02:32:53.644Z
+date: 2025-01-01T08:00:39.905Z
+updated: 2025-01-05T17:16:16.754Z
 tags:
   - windows10
   - windows11
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
  Some PlayerUnknown’s Battleground players have also said that deselecting the Read-only option for the GameUserSettings.ini file can fix PUBG not saving. You can do that by right-clicking the GameUserSettings file and selecting**Properties** . Deselect (uncheck) the**Read-only** checkbox if it’s selected. Click**Apply > OK** to save the file’s attribute option.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Verify the Integrity of PUBG’s Files
 
  Verifying game files can resolve a wide variety of gaming issues. In this case, PUBG is playable but isn’t working right because it’s not saving settings. Thus, that could be a bug verifying PUBG’s files might resolve.
@@ -49,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
  Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Controlled Folder Access
 
  Controlled folder access blocks ransomware, and other malware, from modifying files in folders. However, that feature can also stop games from saving progress and settings when it restricts their folder access. Make sure that feature isn’t causing issues for PUBG saving settings on your PC by checking and disabling its setting like this:
@@ -59,19 +61,21 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 2. Click the**Virus & threat protection** navigation option within the Home tab.
 3. Scroll down and click the**Manage ransomware protection** navigation option.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manage-ransomware-protection-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If**Controlled folder access** is enabled, click that setting to turn it off.  
-![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus Software
 
@@ -88,18 +92,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Select the**Uninstall** menu option.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
 4. Click**Uninstall** when asked to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Tweak PUBG’s Game Settings Again
 
  Applying those potential resolutions will likely fix PUBG: Battlegrounds not saving settings for most players. However, we can never promise 100 percent guaranteed solutions for everybody.
@@ -112,8 +114,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta-for-2024/"><u>[New] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-learning-leaders-most-influential-edu-tutorials-yt/"><u>[Updated] In 2024, Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-crafting-cosmic-leaps-effects-for-fiction-films/"><u>2024 Approved Crafting Cosmic Leaps Effects for Fiction Films</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-quick-climb-up-the-feed-use-of-likes-and-video-content/"><u>2024 Approved Quick Climb Up the Feed Use of Likes and Video Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/evaluating-second-count-for-a-20mb-visual-file/"><u>Evaluating Second Count for a 20MB Visual File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-functionality-how-to-setup-custom-shortcuts-for-power-button-on-win11/"><u>Fast-Track Functionality: How to Setup Custom Shortcuts for Power Button on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-print-device-instability-in-win-os/"><u>How to Prevent Print Device Instability in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-calculator-darker/"><u>Making Windows Calculator Darker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/posting-videos-on-twitter-step-by-step-for-2024/"><u>Posting Videos on Twitter Step-by-Step for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/privy-to-inner-self-guide-to-activating-windows-secret-personal-character-assessment-tool/"><u>Privy to Inner Self: Guide to Activating Windows' Secret Personal Character Assessment Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pros-of-windows-the-ultimate-choice-for-gamers/"><u>Pros of Windows: The Ultimate Choice for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-troubleshooting-guide-for-non-operative-windows-itunes/"><u>Quick Troubleshooting Guide for Non-Operative Windows iTunes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-process-for-free-youtube-introend-making-for-2024/"><u>Step-by-Step Process for Free YouTube Intro/End Making for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-subtitles-and-sound-a-guide-to-prime-playback-on-windows-11/"><u>Sync Subtitles & Sound: A Guide to Prime Playback on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-excellence-in-playing-ps1-games-on-pc-leveraging-duckstations-insights/"><u>The Ultimate Guide to Excellence in Playing PS1 Games on PC - Leveraging Duckstation’s Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-to-resurrect-which-7-games-could-make-a-comeback/"><u>Time to Resurrect: Which 7 Games Could Make a Comeback?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-top-avchd-video-editing-tools-compared-for-2024/"><u>Updated S Top AVCHD Video Editing Tools Compared for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-windows-process-aggregatorhostexe-usage-and-risks-explored/"><u>What Is Windows Process AggregatorHost.exe? Usage and Risks Explored</u></a></li>
+</ul></div>
 

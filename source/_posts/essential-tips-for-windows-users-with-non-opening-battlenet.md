@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Windows Users With Non-Opening Battle.net
-date: 2024-12-21T17:15:36.733Z
-updated: 2024-12-27T22:58:05.646Z
+date: 2024-12-31T09:12:53.276Z
+updated: 2025-01-06T02:51:51.005Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  In addition, running the software in compatibility mode might help some users fix Battle.net not opening. You can do that by selecting the**Run this program in compatibility mode** option on the same**Compatibility** tab. Choose Windows 8 on the drop-down menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Delete the Battle.net and Blizzard Entertainment Data Folders
 
  Battle.net and Blizzard Entertainment are two cache folders for Blizzard’s game launcher software. The Battle.net software often doesn’t start right when those folders contain corrupted data. Deleting those directories will clear Battle.net’s cache.
@@ -54,19 +50,19 @@ This is how you can erase those folders in Windows 11/10:
 ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Try opening Battle.net again.
 
  This should hopefully clear any cache issues and Battle.net should open correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Secondary Logon Service Is Enabled
@@ -85,6 +81,10 @@ This is how you can erase those folders in Windows 11/10:
 
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off the Windows Defender Firewall
 
  Windows Defender Firewall will block Battle.net from connecting with Blizzard services if that software isn’t permitted through it. To test if that firewall is blocking the Battle.net client, temporarily disable it in the following steps:
@@ -97,7 +97,7 @@ This is how you can erase those folders in Windows 11/10:
 4. Select**OK** to save the new WDF options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try opening Battle.net again with the firewall disabled.
@@ -109,10 +109,6 @@ This is how you can erase those folders in Windows 11/10:
  Some third-party antivirus and firewall software can also block Battle.net from running. Antivirus utilities sometimes wrongly identify legitimate programs to be malware. So, temporarily disable third-party antivirus tools or firewalls before selecting to launch Battle.net if you don’t want to uninstall anything.
 
  You can usually find options for disabling third-party antivirus software on their context menus. So, right-click an antivirus icon in the system tray and look for an option to disable or turn off its shield on the menu that opens. If that works, you’ll know what’s causing the issue. Whitelist Battle.net in your antivirus tool’s exclusion settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable the Proxy Server
 
@@ -126,6 +122,10 @@ This is how you can erase those folders in Windows 11/10:
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
@@ -137,14 +137,10 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After setting a clean boot, restart your PC and try launching Battle.net. Did that potential resolution work? If it did, clean booting likely eliminated a program or service conflicting with Battle.net. Then you can keep the boot configuration as it is or attempt to figure out what software or service caused the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall the Battle.net Software
@@ -154,6 +150,10 @@ This is how you can erase those folders in Windows 11/10:
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
 
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Blizzard Battle.net Games Again
 
@@ -176,24 +176,19 @@ This is how you can erase those folders in Windows 11/10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review/"><u>[Updated] Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-videovisionaries-selecting-superior-4k-screen-options-for-2024/"><u>[Updated] VideoVisionaries Selecting Superior 4K Screen Options for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/own-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile-for-2024/"><u>Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-blaze-2-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Blaze 2 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-techniques-to-soften-sound-in-fl-studio/"><u>Essential Techniques to Soften Sound in FL Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failing-display-connection-on-pcs/"><u>How to Rectify Failing Display Connection on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-windows-non-responsive-performance-chart/"><u>Improving Windows' Non-Responsive Performance Chart</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-current-drone-applications-vs-future-technological-paradigm/"><u>In 2024, Current Drone Applications vs Future Technological Paradigm</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>In 2024, How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-file-thumbnails-in-windows-11-how-to-repair/"><u>Invisible File Thumbnails in Windows 11 – How to Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/migrate-powertoys-configurations-seamlessly/"><u>Migrate PowerToys Configurations Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-installed-devices-message-on-pcs/"><u>Overcoming 'No Installed Devices' Message on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-start-up-barriers-with-csgo-and-w11/"><u>Overcoming Start-Up Barriers with CS:GO and W11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-game-recorder-picks-excluding-the-mainstream-one/"><u>Premier Game Recorder Picks Excluding the Mainstream One</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-obstacles-to-unique-printer-id/"><u>Removing Obstacles to Unique Printer ID</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/step-by-step-tutorial-downloading-4k-and-hd-youtube-videos-without-cost-on-mac-devices/"><u>Step-by-Step Tutorial: Downloading 4K and HD YouTube Videos Without Cost on Mac Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackle-try-connections-fiasco-with-this-guide-for-pcs/"><u>Tackle 'Try Connections' Fiasco with This Guide for PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-icon-management-from-invisible-to-visible/"><u>Windows 11 Icon Management: From Invisible to Visible</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>[New] In 2024, Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-podcasters-guide-to-seamless-streaming-setup/"><u>[Updated] The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-despite-cyberbullying-and-scathing-feedback/"><u>2024 Approved Thriving Despite Cyberbullying and Scathing Feedback</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/cambiar-archivos-de-formato-mpeg-a-aiff-online-sin-coste-guia-de-movavi/"><u>Cambiar Archivos De Formato MPEG a AIFF Online Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-secrets-to-customizing-game-sounds-with-our-step-by-step-process-no-charge/"><u>Discover the Secrets to Customizing Game Sounds with Our Step-by-Step Process (No Charge!)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-restart-distro-and-catroot2-in-ws11-computers/"><u>How to Swiftly Restart Distro & Catroot2 in WS11 Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-hurdles-overcome-download-icloud-to-windows-pc/"><u>Installation Hurdles Overcome: Download iCloud to Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-redesigned-widgets-pickers-for-win11/"><u>Introduction: Redesigned Widgets Pickers for Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-moment-captures-with-expert-photo-frames-online-for-2024/"><u>Masterful Moment Captures with Expert Photo Frames Online for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-settings-for-watching-nba-live-streams/"><u>Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-notification-icons/"><u>Strategies to Recover Notification Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-screen-space-with-these-9-theme-options-on-win11/"><u>Transform Your Screen Space With These 9 Theme Options on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-810-printer-management-proficiency/"><u>Unlocking Windows 8/10 Printer Management Proficiency</u></a></li>
 </ul></div>
 

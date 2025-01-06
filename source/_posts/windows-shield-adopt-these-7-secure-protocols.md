@@ -1,7 +1,7 @@
 ---
 title: "Windows Shield: Adopt These 7 Secure Protocols"
-date: 2024-12-21T23:00:02.230Z
-updated: 2024-12-27T19:50:46.951Z
+date: 2024-12-31T23:30:53.908Z
+updated: 2025-01-06T11:16:19.555Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use a Strong PIN or Password
 
  Passwords are often the first things that spring to mind when you think of security. It's for a good reason.
@@ -40,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  A strong password works like a digital lock, only letting in the people who enter the correct passcode. So if you work on a public network or if your PC is accessed by more than one person, you should have a strong password or PIN in place since yesterday.
 
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
@@ -64,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use BitLocker
 
@@ -77,16 +85,12 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 ## 7\. Keep Aware of Social Engineering Tactics
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
@@ -129,21 +129,24 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/tructuring-complex-topics-in-youtube-content-a-chapter-by-chapter-approach-for-2024/"><u>[New] Structuring Complex Topics in YouTube Content A Chapter by Chapter Approach for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-professional-filmmaking-skills-within-xp/"><u>[New] Unlock Professional Filmmaking Skills Within XP</u></a></li>
-<li><a href="https://win-online.techidaily.com/m4bwma-movavi-audio-converter/"><u>免費線上M4B至WMA音頻格式自動轉換工具 - Movavi Audio Converter</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g13-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G13 Devices</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-your-iphone-running-slow-uncover-effective-methods-to-accelerate-its-functionality/"><u>Is Your iPhone Running Slow? Uncover Effective Methods to Accelerate Its Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-fade-inout-processes-in-audacity/"><u>Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pioneering-windows-future-with-ai-tech-trends/"><u>Pioneering Windows' Future with AI Tech Trends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-tools-for-windows-users-mastering-command-line-shortcuts/"><u>Pro Tools for Windows Users: Mastering Command-Line Shortcuts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quickly-resolve-your-iphone-and-ipad-widget-issues-with-these-10-tips/"><u>Quickly Resolve Your iPhone and iPad Widget Issues with These 10 Tips!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rediscover-your-preferred-applications-from-the-ms-store/"><u>Rediscover Your Preferred Applications From the MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-the-lack-of-rockalldlldll-in-windows/"><u>Remedy for the Lack of Rockalldll.dll in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-winerror-wrong-backup-settings-in-windows/"><u>Resolving WinError: Wrong Backup Settings in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-configure-intel-ethernet-drivers/"><u>Simplified Steps to Configure Intel Ethernet Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-tasks-cleaning-out-your-computers-windows-os/"><u>Top 8 Tasks: Cleaning Out Your Computer's Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-faster-boot-times-windows-11-guide/"><u>Unleashing Faster Boot Times: Windows 11 Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-cartoonize-your-photos-instantly-for-2024/"><u>Updated Cartoonize Your Photos Instantly for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-content-takedown-what-are-your-rights-and-recourse/"><u>[New] 2024 Approved FB Content Takedown What Are Your Rights and Recourse?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>[New] 2024 Approved Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[Updated] 2024 Approved Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/100-tongue-twisting-challenges-for-exceptional-accent/"><u>100 Tongue-Twisting Challenges for Exceptional Accent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-self-initiating-open-of-search-bar-win11-help/"><u>Cease Self-Initiating Open of Search Bar, Win11 Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719364670351-create-a-gratis-local-gptclone-with-gpt4all-for-windows/"><u>Create a Gratis, Local GPTClone with GPT4All for Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-xpatch-puzzle-error-0x80073712/"><u>Decoding Windows XPatch Puzzle: Error 0X80073712</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-track-iphone-user-locations-with-privacy-in-mind/"><u>Discover How to Track iPhone User Locations with Privacy in Mind</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-a-comparative-analysis-of-standard-login-vs-microsoft-account-on-pcs/"><u>Dissecting Distinctions: A Comparative Analysis of Standard Login vs Microsoft Account on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-drive-space-without-spending-a-dime/"><u>Elevate Windows Drive Space Without Spending a Dime</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-dead-hubs-and-usb-connectors-win-pc/"><u>Immediate Solutions for Dead Hubs & USB Connectors Win PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-essential-tweaks-for-enhanced-windows-performance/"><u>Maximizing RAM: Essential Tweaks for Enhanced Windows Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-black-screen-phenomenon-in-webcams/"><u>Overcoming Black Screen Phenomenon in Webcams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-zte-nubia-z60-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your ZTE Nubia Z60 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-ailing-xbox-controllers/"><u>Restoring Functionality to Ailing Xbox Controllers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-how-to-get-a-driver-for-an-xbox-360-gamepad/"><u>Step-by-Step Instructions: How to Get a Driver for an Xbox 360 Gamepad</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-quantum-hdr/"><u>The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headsets-comprehensive-reviews-by-tech-experts-techadvisor/"><u>Top-Ranked Gaming Headsets : Comprehensive Reviews by Tech Experts | TechAdvisor</u></a></li>
 </ul></div>
 

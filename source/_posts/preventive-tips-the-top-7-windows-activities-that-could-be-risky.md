@@ -1,7 +1,7 @@
 ---
 title: "Preventive Tips: The Top 7 Windows Activities That Could Be Risky"
-date: 2024-08-08T11:11:34.898Z
-updated: 2024-08-09T11:11:34.898Z
+date: 2024-12-31T00:54:09.354Z
+updated: 2025-01-05T18:27:18.445Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  Here are some of the most commonly hijacked or duplicated processes, along with where they should be located and how to spot a malicious version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1\. Svchost.exe
 
  The Service Host, or svchost.exe, is a shared-service process. It allows various other Windows services to share processes. This helps to reduce resource usage, making the system more efficient. You will almost certainly see more than one instance of Svchost.exe in Task Manager, but this is normal. If one or more of these files are compromised by malware, you may notice a distinct reduction in performance.
@@ -32,9 +28,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The legitimate Svchost files should be found in**C:\\Windows\\System32** . If you suspect it has been hijacked, check**C:\\Windows\\Temp** . If you see svchost.exe here, it could be a malicious file. Scan the file with your antivirus software, and quarantine it if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 2\. Explorer.exe
 
  Explorer.exe is responsible for the graphical shell. Without it, you would have no Taskbar, Start Menu, File Manager, or even the Desktop. Therefore, it is an essential part of Windows and cannot be disabled.
@@ -42,8 +35,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Several viruses can use the Explorer.exe filename to hide behind, including trojan.w32.ZAPCHAST. The legitimate file will be in**C:\\Windows** . If you find it in**System32** , you should definitely check it with your antivirus software.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Winlogon.exe
 
  The Winlogon.exe process is an essential part of the Windows OS. It handles things like loading the user profile during login and locking the computer when the screensaver runs. Unfortunately, because it handles security elements, Windows Logon and the winlogon.exe process are common targets for threats.
@@ -53,18 +47,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Viruses and malware don't just hide behind Windows processes. Here are some[other ways malware can go undetected and hide on your computer](https://www.makeuseof.com/can-malware-go-undetected-how-viruses-hide-from-you/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Csrss.exe
 
  The Client/Server Run-Time Subsystem, or Csrss.exe, is an essential Windows process. Although it is not as widely used in modern Windows versions, it is still required by the system and cannot be disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The csrss process file in folder location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/csrss-process.jpg)
 
  The Nimda.E virus has been known to mimic the Csrss.exe process, although that is not the only potential threat. The legitimate file should be located in the**System32** or**SysWOW64** folders. Right-click on the Csrss.exe process in Task Manager and choose**Open File Location** . If it is located anywhere else, it is likely to be a malicious file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Lsass.exe
 
@@ -72,23 +68,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Look for the Lsass.exe file in**C:\\Windows\\System32** . This is the only place you should find it. If you see it in another location, such as**C:\\Windows\\system** or**C:\\Program Files** , act with suspicion and scan the file with your antivirus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 6\. Services.exe
 
  The Services.exe process is responsible for starting and stopping various essential Windows services. Like the other Windows processes in this list, viruses and malware target it because it allows them to hide in plain sight.
@@ -102,6 +81,10 @@ Key features:
  The Windows Print Spooler Service, or Spoolsv.exe, is an important part of the printing interface. It runs in the background, waiting to manage things like the print queue when required. The process is not dependent on having a printer connected, so you shouldn't be surprised to see it in Task Manager.
 
 ![The spooler process in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spooler-process.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perhaps because Spoolsv.exe is easily overlooked, a virus can take the name to make itself seem legitimate. The true spools file can be found in**C:\\Windows\\System32** . The fake file will often appear in**C:\\Windows** , or in a user profile folder.
 
@@ -117,18 +100,19 @@ Key features:
 
  The final thing to do is scan suspect files with an up-to-date antivirus scanner. Quarantine and remove any files that are flagged as infected. Fortunately, modern versions of Windows come with Microsoft Defender built-in, so learn[how to scan a single file or folder with Microsoft Defender](https://www.makeuseof.com/microsoft-defender-scan-file-folder/) to check any suspicious files you find.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Windows Processes That Might Be Hiding a Virus
 
  Part of keeping your Windows PC safe from malware and viruses is knowing where they hide. Sometimes a malicious file will behave oddly, using too much CPU and memory. But not always. So spotting a suspicious file in other ways is a useful skill.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +121,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-are-there-restrictions-in-saving-youtube-videos/"><u>[New] In 2024, Are There Restrictions in Saving YouTube Videos?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-storytelling-anime-influencers-on-tiktok/"><u>[New] In 2024, Mastering Storytelling Anime Influencers on TikTok</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transform-storytelling-crafting-ig-questions-for-impact/"><u>[Updated] 2024 Approved Transform Storytelling Crafting IG Questions for Impact</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleash-the-power-of-pause-tips-for-instas-next-viral-slow-motion-reels/"><u>[Updated] In 2024, Unleash the Power of Pause Tips for Insta's Next Viral Slow-Motion Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveil-the-potential-of-zoom-filters-for-excellence/"><u>[Updated] Unveil the Potential of Zoom Filters for Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-process-of-android-windows-file-syncing/"><u>Demystifying the Process of Android-Windows File Syncing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-gpgpu-stress-test-apps-for-windows-devices/"><u>Discover the Top 6 GPGPU Stress Test Apps for Windows Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntling-the-profit-strategy-of-tseries-on-digital-platforms-youtube-for-2024/"><u>Dismantling the Profit Strategy of TSeries on Digital Platforms (YouTube) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unregistered-packages-a-windows-1011-approach/"><u>Fixing Unregistered Packages: A Windows 10/11 Approach</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211438379-9781958997918-ground-in-eternity/"><u>Ground in Eternity | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-5-lite-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 5 Lite Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-click-lock-feature-in-windows-environment/"><u>Optimizing Mouse Click Lock Feature in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-zero-error-problems-during-windows-11-setup/"><u>Prevent Zero-Error Problems During Windows 11 Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-adobe-premiere-from-dropping-dead-in-windows-11-or-10-fixes-and-best-practices/"><u>Stop Adobe Premiere From Dropping Dead in Windows 11 or 10: Fixes and Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-shut-down-the-windows-defender-firewall/"><u>Tips to Shut Down the Windows Defender Firewall</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-hub-significance-crafting-memorable-names/"><u>Video Hub Significance Crafting Memorable Names</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win32keygen-insight-symptoms-threats-and-effective-defense-mechanisms/"><u>Win32/Keygen Insight: Symptoms, Threats & Effective Defense Mechanisms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-terminal-designing-your-own-palette/"><u>Window Terminal: Designing Your Own Palette</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-unleashed-easy-dossier-deployment/"><u>Windows Wizardry Unleashed: Easy Dossier Deployment</u></a></li>
+</ul></div>
 

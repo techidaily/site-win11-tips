@@ -1,7 +1,7 @@
 ---
 title: Minimizing Energy Spike During Intense Gaming on Windows
-date: 2024-08-16T02:35:35.410Z
-updated: 2024-08-17T02:35:35.410Z
+date: 2024-12-30T07:11:33.007Z
+updated: 2025-01-06T05:05:45.830Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
  If none of the above checks help or resolve the problem, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 2\. Check if the Game Is Really Straining the CPU
 
  First, double-check that the game you blame for high CPU usage is really straining it. There is a chance that some other programs running simultaneously with the game might be using more CPU resources than the game itself. So, closing those resource-hungry tasks alone may free up enough resources and lower CPU usage.
@@ -45,17 +42,15 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
  If other tasks seem to occupy a higher percentage of the CPU resources, those processes are more demanding on the CPU than the game. Therefore, close them if they are not essential, and CPU usage will fall dramatically. To terminate any task, right-click on it and hit**End task** .
 
 ![Close Microsoft Edge Process From Windows Task Manager For Consuming the Most CPU Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-microsoft-process-from-windows-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
  If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Force the Game to Process Graphics Using the Dedicated GPU (if Available)
 
  Usually, a dedicated GPU handles graphics-intensive tasks if it's installed on a device. If you have a dedicated GPU installed but still see high CPU usage while playing a game, the game may not be using the GPU to process graphics. Therefore, configure the game to use GPU to fix the issue. Here's how:
@@ -64,29 +59,31 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 2. Click**Browse** and select the game's executable (EXE) file.
 3. Click**Options** and select**High Performance** .  
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Forcing the game to use the dedicated GPU will likely reduce CPU usage. If not, check whether the problem is game-specific.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Ensure That the Problem Isn't Confined to One Game
 
  Check if the CPU usage spikes when you run a specific game or for all graphics-intensive games. If the problem occurs with only one game that isn't resource-intensive, an outdated or corrupt version of the game could be the culprit. To exclude this possibility, update the game and the gaming client if the game runs through it.
 
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Sacrifice Graphics Quality
 
  If the above checks and fixes do not reduce CPU resource consumption, lower the game's graphics settings. This will reduce the game's graphics processing requirements, reducing the load on your CPU. This step will undoubtedly reduce your CPU usage but at the expense of your game's graphics quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Enable Efficiency Mode for the Game
 
  If none of the above fixes resolve the issue, your last resort should be to switch on the efficiency mode for the game. The Windows 11 efficiency mode feature limits CPU resource usage for less important tasks so critical processes can run first. If you turn on efficiency mode for the game, it will be treated as a low-priority process and won't occupy all of your CPU's resources.
@@ -101,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 ![Efficiency Mode Option Grayed Out for Roblox Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/efficiency-mode-option-grayed-out-for-roblox-game.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
 
 ![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
@@ -111,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
  If nothing works, check the CPU usage percentage during idle time. If it remains high even when no processes or games are running on your device, your CPU could be defective. If that's the case, it's time to have your device inspected.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +125,20 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/aptivating-crafting-writing-intriguing-youtube-descriptions-with-templates-for-2024/"><u>[New] Captivating Crafting Writing Intriguing Youtube Descriptions with Templates for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-method-for-recording-youtube-videos-on-any-device/"><u>[Updated] In 2024, The Ultimate Method for Recording YouTube Videos on Any Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-revenue-systems-for-mobile-creators-a-2024-comprehensive-tutorial/"><u>[Updated] Navigating Revenue Systems for Mobile Creators - A 2024 Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-steams-refusal-decode-vac-denial/"><u>Counteracting Steam's Refusal: Decode VAC Denial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-wake-up-call-with-our-top-7-alarm-app-picks/"><u>Find Your Perfect Wake-Up Call with Our Top 7 Alarm App Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-discovering-7-classic-windows-traits-in-11/"><u>Journey Through Time: Discovering 7 Classic Windows Traits in 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reign-over-your-routine-top-6-task-organizers-for-win-11-os/"><u>Reign Over Your Routine - Top 6 Task Organizers For Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-visualize-and-tame-your-disk-space/"><u>The Ultimate Way to Visualize and Tame Your Disk Space</u></a></li>
+<li><a href="https://solve-info.techidaily.com/ultimate-collection-of-sports-car-photo-backgrounds-for-your-desktop-available-on-yl-software-platform/"><u>Ultimate Collection of Sports Car Photo Backgrounds for Your Desktop, Available on YL Software Platform</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-flip-spin-and-rotate-16-best-free-avi-video-rotators-for-all-devices/"><u>Updated Flip, Spin, and Rotate 16 Best Free AVI Video Rotators for All Devices</u></a></li>
+</ul></div>
 

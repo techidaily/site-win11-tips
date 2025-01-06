@@ -1,7 +1,7 @@
 ---
 title: Win11 Edge Removal Made Simple
-date: 2024-08-16T02:34:04.210Z
-updated: 2024-08-17T02:34:04.210Z
+date: 2024-12-30T01:46:20.897Z
+updated: 2025-01-05T21:27:44.832Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,11 @@ Here are the steps you need to follow.
 3. Copy Microsoft Edge's version number from the**About** section.  
 ![Check Microsoft Edge Version Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Microsoft-Edge-Version-Number.jpg)
 4. Press**Win + X** and select**Terminal (Admin)** from the menu that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Yes** when the User Account Control (UAC) prompt shows up.
 6. In the console, run the following commands to navigate to the directory where Microsoft Edge is installed:  
 `cd/  
@@ -45,8 +50,9 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  If you'd like to get more out of this tool, be sure to check out[the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Uninstall Microsoft Edge Using Windows PowerShell
 
  Like Command Prompt, you can also use Windows PowerShell to uninstall Microsoft Edge from your Windows 11 PC. Unlike the previous method, this one does not require you to know Microsoft Edge's version number. Here's how it works.
@@ -56,10 +62,12 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 3. Paste the following command and press**Enter** .  
 `get-appxpackage *edge*`  
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the following command to uninstall Microsoft Edge.  
 `Remove-appxpackage <PackageFullName>`  
  Replace**<PackageFullName>** in the above command with the package name copied earlier.
@@ -76,16 +84,13 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 4. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** again when the confirmation pop-up appears.  
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
 
  Although uninstalling Edge from your computer is easy, it does not prevent newer Windows updates from potentially reinstalling the browser. To get around this, you need to[edit a few registry files](https://www.makeuseof.com/windows-registry-file-guide/) on your PC. For that, use the following steps:
@@ -98,30 +103,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 6. Right-click on the**EdgeUpdate** key and select**New > DWORD (32-bit) Value** . Rename the DWORD to**DoNotUpdateToEdgeWithChromium** .
 7. Double-click on the newly created DWORD and change its value data to**1** . Then, hit**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-in-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows will not reinstall Microsoft Edge with future updates.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Rid of Microsoft Edge
 
  With Windows 11, Microsoft tried everything possible to entice users to switch to Microsoft Edge. Unfortunately, it hasn't worked out very well, as many people still prefer to use alternatives like Google Chrome. If you are one of them, you can get rid of Microsoft Edge using the steps outlined above.
 
  Now that you've uninstalled Microsoft Edge, you might want to make your preferred web browser the default option on Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-teaming-up-for-duet-video-on-tiktok/"><u>[New] 2024 Approved Teaming Up for Duet Video on TikTok</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-5-critical-equipment-items-to-start-your-channel-right/"><u>[New] In 2024, 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-speedy-techniques-for-converting-srt-files-into-text-format-for-2024/"><u>[New] Speedy Techniques for Converting SRT Files Into Text Format for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transform-vimeo-videos-top-techniques-to-trim-and-tailor-online-sequences/"><u>[New] Transform Vimeo Videos Top Techniques to Trim and Tailor Online Sequences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unmatched-mobileweb-image-magnification-toolkit-for-2024/"><u>[Updated] Unmatched Mobile/Web Image Magnification Toolkit for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-utilizing-remaining-space-in-your-ram/"><u>Efficiently Utilizing Remaining Space in Your RAM</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-amd-radeon-driver-update-for-windows-8-systems/"><u>Free AMD Radeon Driver Update for Windows 8 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-optimal-internet-coverage-worth-it-with-a-wi-fi-mesh-setup/"><u>Is Optimal Internet Coverage Worth It with a Wi-Fi Mesh Setup?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-speed-locate-your-gpu-on-windows-11-pc/"><u>Lightning Speed: Locate Your GPU on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-non-operational-win11-licenses-work/"><u>Making Non-Operational Win11 Licenses Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-malfunctioning-mouse-context-menus/"><u>Mastery Over Malfunctioning Mouse Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-failures-in-windows-11/"><u>Overcoming Installation Failures in Windows 11</u></a></li>
+<li><a href="https://discover-community.techidaily.com/speedy-mp4-upload-on-youtube-a-step-by-step-guide-with-no-hiccups/"><u>Speedy MP4 Upload on YouTube: A Step-by-Step Guide with No Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-the-phantom-disk-space-gobblers/"><u>Stopping the Phantom Disk Space Gobblers</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-the-closer-to-ideal-device-for-artists/"><u>Surface Studio 2 Review: The Closer to Ideal Device for Artists?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-fine-tuning-disk-storage-via-ntfs-compression/"><u>The Complete Guide to Fine-Tuning Disk Storage via NTFS Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-device-names-uniqueness-with-5-steps-windows-edition/"><u>Winning Device Names Uniqueness with 5 Steps (Windows Edition)</u></a></li>
+</ul></div>
 

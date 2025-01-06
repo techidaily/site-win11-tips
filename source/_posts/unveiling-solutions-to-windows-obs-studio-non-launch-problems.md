@@ -1,7 +1,7 @@
 ---
 title: Unveiling Solutions to Windows OBS Studio Non-Launch Problems
-date: 2024-08-08T11:13:29.762Z
-updated: 2024-08-09T11:13:29.762Z
+date: 2024-12-30T01:45:07.115Z
+updated: 2025-01-06T08:33:07.157Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run OBS Studio in Compatibility Mode
 
  OBS Studio can sometimes fail to launch because of compatibility issues. Selecting to run OBS Studio in a special compatibility mode, which applies settings from an older Windows OS, is a possible resolution a few users have confirmed to work. So, try running OBS Studio in compatibility mode like this:
@@ -27,23 +31,30 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 1. Right-click an OBS Studio desktop shortcut and select **Properties**. Or right-click the **OBS Studio.exe** (application) file inside its installation folder and select the same context menu option.
 2. Click **Compatibility** in the tab bar.
 3. Select **Run this program in compatibility** **mode** and **Windows 8** on that setting’s drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-this-program-in-compatibility-mode2.jpg)
 4. Click **Apply** to set the selected compatibility option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **OK** to close the compatibility settings.
 6. Then run OSB Studio to see if it starts.
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Set a Power Saving GPU Option for OBS Studio
 
  Selecting a power-saving graphics performance for OBS Studio is a troubleshooting method that’s worked for some users. If your PC has two GPUs, this will mean setting the integrated graphics processor for OBS Studio. Follow the instructions in this [guide to choosing a preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to select the **Power-saving** graphics preference option for OBS Studio.
@@ -56,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  on [how to roll back a driver on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) provides further details for applying this potential resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
@@ -67,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Our [how to update your graphics drives on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) article tells you about the different ways you can apply this potential solution.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
 
 ## 6\. Delete the OBS Studio Configuration Data Folder
@@ -79,26 +84,26 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 1. Right-click **Start** on the Windows taskbar to select the **Run** accessory shortcut on the Power User menu.
 2. Type **%appdata%** into the Run dialog.
 3. Select **OK** to access a Roaming directory within File Explorer.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The OBS Studio data folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-folder.jpg)
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
-![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
+
 ## 7\. Disable Superfluous Background Apps and Services
 
  Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
 
  There are a few ways you can disable background apps, but the best way to do it for fixing OBS Studio is to apply a clean boot. This will disable all third-party apps and services from automatically starting with Windows. To apply this troubleshooting method, check out our [how to perform a clean boot guide](https://www.makeuseof.com/clean-boot-windows-11/). Then restart Windows after setting a clean boot and try running OBS Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
 
@@ -114,16 +119,11 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Recording and Streaming With OBS Studio Again
 
  So, don’t dump OBS Studio too quickly when you can’t open it on your Windows PC. At least try applying the troubleshooting methods for fixing OBS Studio not launching above. They’ll probably kick-start OBS Studio for most users who need to fix that software not opening.
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +131,17 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leading-the-vr-charge-top-10-pc-headsets/"><u>[Updated] In 2024, Leading The VR Charge Top 10 PC Headsets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-virtual-disk-service-crash-on-windows-systems/"><u>Curing Virtual Disk Service Crash on Windows Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-pro-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-no-signature-land-windows-87-techniques/"><u>Navigating the No-Signature Land: Windows 8/7 Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-peace-a-users-guide-to-ignoring-calls-from-private-numbers-on-iphones/"><u>Protect Your Peace: A User's Guide to Ignoring Calls From Private Numbers on iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shield-your-pc-from-invisible-windows-tasks/"><u>Shield Your PC From Invisible Windows Tasks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-steps-for-transferring-windows-server-data-to-amazon-s3-storage/"><u>Simple Steps for Transferring Windows Server Data to Amazon S3 Storage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-top-7-strong-points-of-why-not-to-upgrade-to-win11-just-yet/"><u>Unveiling Top 7 Strong Points of Why Not to Upgrade to Win11 Just Yet</u></a></li>
+<li><a href="https://solve-info.techidaily.com/upgrading-your-system-is-it-feasible-to-enhance-computer-specs-learn-more-at-yl-computing-and-software-solutions/"><u>Upgrading Your System: Is It Feasible to Enhance Computer Specs? Learn More at YL Computing & Software Solutions</u></a></li>
+</ul></div>
+

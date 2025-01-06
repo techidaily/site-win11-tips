@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Code Crash: Tactics to Tackle Script Errors in Windows"
-date: 2024-08-08T11:11:17.713Z
-updated: 2024-08-09T11:11:17.713Z
+date: 2025-01-02T10:08:40.519Z
+updated: 2025-01-05T20:33:34.510Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 4. Click on**Internet Options.**
 5. In the Internet Properties dialog, open the**Advanced** tab.
 6. Scroll down to the**Browsing** section under**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Internet-properties-disable-script-debugging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/interenet-properties-disable-script-debugging.jpg)
 7. Check**Disable script debugging (Other)** . Also, uncheck**Disable script debugging** **(Internet Explorer)** if available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Apply** and**OK** to save the changes.
 9. Relaunch your web browser or the app and check if the error is resolved.
 
@@ -45,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  However, if the issue persists, clear your browser cache to delete the old cache that may be triggering the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Delete Browser Cache
 
  You can delete your browser cache to fix the script error. Useful if the error continues to occur after disabling script debugging. You can[clear browser cache and temporary files on Windows](https://www.makeuseof.com/windows-11-clear-caches/) using the built-in disk cleanup and storage sense feature.
@@ -55,14 +54,16 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  In case the error occurs when using an app, try to[perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update the Problematic App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![microsoft edge update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcirosoft-edge-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, check the affected browser or the app for pending updates. Newer updates bring bug fixes, security updates, and performance improvements.
 
@@ -72,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ## 4\. Disable Third-Party Antivirus Software and Extensions
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![mcafee-webadvisor-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-webadvisor-edge.jpg)
 
  Remove any third-party security extension or antivirus software on your computer to see if that helps resolve the error. For example, a McAfee browser extension seems to trigger this error on the Chrome browser.
@@ -95,25 +93,22 @@ To remove the Chrome extension:
 3. Next, click on**Real-time scan** under**Protect your PC.**  
 ![mcafee my protection real time scanning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-my-protection-real-time-scanning.jpg)
 4. Click the**Turn off** button for**Real-time scanning.**  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mcafee real time scanning off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-real-time-scanning-off.jpg)
 5. In the**Turn off** dialog, click the drop-down for**When you want to resume Real-Time Scanning?** By default, it is set to 15 minutes, which should be sufficient to determine if the antivirus is creating conflict with your browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Turn off** to disable the antivirus.
 
  Close McAfee and relaunch the browser. Try to browse the web app or page and check if the error is resolved. The antivirus should resume real-time scanning once the time lapses.
 
  Note that, in some instances, you may need to uninstall the third-party antivirus program to resolve the error. If the error returns after McAfee real-time scanning resumes, consider switching to an alternative[antivirus app on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Script Error on Windows
 
@@ -125,8 +120,6 @@ To remove the Chrome extension:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +127,24 @@ To remove the Chrome extension:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[New] 2024 Approved The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>[Updated] In 2024, Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-iphone-x-animoji-like-a-pro/"><u>[Updated] Navigating the World of iPhone X Animoji Like a Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pro-vlc-top-10-hidden-player-powers/"><u>[Updated] Pro-VLC Top 10 Hidden Player Powers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picart-skills-erasing-unwanted-image-backdrops/"><u>2024 Approved PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-wows-disabling-crash-code-in-windows-1111/"><u>Combatting WoW's Disabling Crash Code in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dial-down-disruption-quick-fixs-for-esc-key-glitches-in-windows/"><u>Dial Down Disruption: Quick FIXs for Esc Key Glitches in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-network-performance-a-taskbar-update/"><u>Displaying Network Performance: A Taskbar Update</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-periscope-no-cost-entry-and-user-account-setup-steps/"><u>Dive Into Periscope No Cost Entry & User Account Setup Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-operations-error-709/"><u>Fixing Failed Operations: Error 709</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-eliminating-game-interruptions-in-fifa-21-for-pc-users/"><u>Master Guide: Eliminating Game Interruptions in FIFA 21 for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimalist-win11-start-simple-stay-powerful/"><u>Minimalist Win11: Start Simple, Stay Powerful</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenating-non-operational-windows-pen-devices/"><u>Rejuvenating Non-Operational Windows Pen Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speaking-up-resolving-microphone-issues-on-google-meet-windows-edition/"><u>Speaking Up: Resolving Microphone Issues on Google Meet, Windows Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-cumuluspro-standing-mat-for-optimal-support-at-your-desk/"><u>The Ultimate Guide to the CumulusPRO Standing Mat for Optimal Support at Your Desk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-from-the-clouds-offline-onedrive-access-tips/"><u>Unplugging From the Clouds: Offline OneDrive Access Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Updated 2024 Approved Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+</ul></div>
 

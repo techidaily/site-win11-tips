@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the PAudio Knot: Audacity's Windows Remedy Guide"
-date: 2024-12-22T18:46:40.170Z
-updated: 2024-12-27T22:17:41.120Z
+date: 2024-12-31T03:17:39.123Z
+updated: 2025-01-05T16:06:59.034Z
 tags:
   - windows10
   - windows11
@@ -40,14 +40,19 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The Troubleshooting applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-applet.jpg)
 2. Click Playing Audio to launch that troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-list.jpg)
 3. Select the troubleshooter’s**Next** option to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Windows Audio and Endpoint Builder Services
 
@@ -59,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
@@ -84,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
 
@@ -102,11 +99,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
@@ -118,17 +111,23 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 3. Click the arrow beside the**Audio inputs and outputs** category.  
 ![The Audio inputs and outputs category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/audio-inputs-and-outputs.jpg)
 4. Right-click your speaker’s audio device and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update the Realtek Audio Codec Driver
 
@@ -140,13 +139,13 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Audacity
 
@@ -155,6 +154,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
@@ -177,19 +180,24 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-dive-into-windows-new-horizons-the-latest-iteration/"><u>[New] Dive Into Windows' New Horizons The Latest Iteration</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-etsy-listing-image-ratio-advice-for-2024/"><u>[New] Etsy Listing Image Ratio Advice for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-influence-of-immersive-technology-for-2024/"><u>[New] The Influence of Immersive Technology for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-highlighting-the-top-video-creation-apps-iphone-android/"><u>2024 Approved Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-creativity-exploring-new-horizons-for-text-production/"><u>AI and Creativity: Exploring New Horizons for Text Production</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-se-2020-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone SE (2020) online without jailbreak</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionary-date-insertion-methods-for-digital-artifacts/"><u>In 2024, Revolutionary Date Insertion Methods for Digital Artifacts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-camera-shutter-shortcomings/"><u>Navigating Through Windows Camera Shutter Shortcomings</u></a></li>
-<li><a href="https://win-web.techidaily.com/pcdj-evolution-the-journey-from-classic-vj-software-to-the-advanced-dexterity-of-pcdj-dex-2-real-user-stories/"><u>PCDJ Evolution: The Journey From Classic VJ Software to the Advanced Dexterity of PCDJ DEX 2 - Real User Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-file-exchange-protocols-for-windows-10-and-11/"><u>Safeguarding File Exchange: Protocols for Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-monitor-and-modify-removable-storage-use/"><u>Techniques to Monitor and Modify Removable Storage Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-microsofts-ai-hub-at-ms-store/"><u>Unveiling Microsoft's AI Hub at MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-repair-mechanics-contrasting-the-role-of-dism-with-chkdsk-and-scan-disk/"><u>Windows' Repair Mechanics: Contrasting the Role of DISM with Chkdsk & Scan Disk</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-critical-look-at-ustream-plus-alternatives/"><u>[New] 2024 Approved Critical Look at Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-youtube-srt-extracts-a-triad-approach/"><u>2024 Approved Mastering YouTube SRT Extracts A Triad Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-barriers-the-role-of-copilot-key-in-windows-11/"><u>Breaking Down Barriers: The Role of Copilot Key in Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-your-mobile-id-a-step-by-step-guide-to-finding-your-number-on-iphones-and-androids/"><u>Discovering Your Mobile ID: A Step-by-Step Guide to Finding Your Number on iPhones & Androids</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/efficiently-manage-hp-officejet-4630-updates/"><u>Efficiently Manage HP Officejet 4630 Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-multitasking-organizing-your-workspace-with-cascaded-windows-on-windows-10/"><u>Effortless Multitasking: Organizing Your Workspace with Cascaded Windows on Windows 10</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728492272253-hddwindows/"><u>HDDのクリーンアップ：Windowsサーバー上でシンプルな掃除手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-set-up-your-synaptics-touchpad-on-windows-explorer/"><u>How to Correctly Set Up Your Synaptics Touchpad on Windows eXplorer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-desktop-potential-with-new-features-in-win-11-widgets/"><u>Maximize Your Desktop Potential with New Features in Win 11 Widgets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-up-anywhere-thorough-examination-of-maxoaks-high-capacity-battery-185whr-50k-mah-a-travelers-essential-guide/"><u>Power Up Anywhere: Thorough Examination of MaxOak's High Capacity Battery (185W/Hr / 50K mAh) - A Traveler's Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-intel-unison-app-issues-on-win11-pcs/"><u>Resolving Intel Unison App Issues on Win11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-tasks-with-these-windows-11-hacks/"><u>Streamline Tasks with These Windows 11 Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disabled-roblox-game-due-to-user-settings-in-windows/"><u>Troubleshooting Disabled Roblox Game Due to User Settings in WINDOWS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-pdhdll-files-on-your-computer-expert-tips/"><u>Troubleshooting Missing pdh.dll Files on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unexpectedly-installed-rav-trace-back-and-efface-it/"><u>Unexpectedly Installed Rav? Trace Back & Efface It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-professional-recording-on-windows-11/"><u>Unveiling the Secrets to Professional Recording on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-application-space-consumption-guide/"><u>Windows Application Space Consumption Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-key-control-a-step-by-step-approach/"><u>Windows Key Control - A Step-by-Step Approach</u></a></li>
 </ul></div>
 

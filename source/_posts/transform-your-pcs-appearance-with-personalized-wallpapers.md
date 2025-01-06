@@ -1,7 +1,7 @@
 ---
 title: Transform Your PC's Appearance with Personalized Wallpapers
-date: 2024-12-26T16:18:30.961Z
-updated: 2024-12-27T17:45:30.518Z
+date: 2025-01-01T10:50:25.994Z
+updated: 2025-01-06T11:26:48.857Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
  But what if you like a particular Windows Spotlight image? How do you keep it permanently as your desktop wallpaper? First, you need to find where the Windows Spotlight images are saved, then save them in your personal folder. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Access Windows Spotlight Images on Your PC
@@ -68,23 +68,32 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 2. Select **More** and then **Size**.  
 ![Sort Windows Spotlight Image Files By Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sort-spotlight-images-by-size.jpg)
 3. The files will get sorted in ascending order. Change to descending order by clicking on **Size**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You can copy all the files into the Assets folder. However, it will be easier if you select files that are over 300 kb—anything smaller will not be a Spotlight image.
 5. Now right-click the selected files in the **Assets** folder and select the **Copy** option. When copying the files, you might get a warning message that these might be harmful to your computer. It's because these files are from a System folder and have no extension. Click **OK** to continue copying.  
 ![Copy Windows Spotlight Files from Assets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-spotlight-files-from-assets.jpg)
 6. Create a folder on your PC from where you can easily access Windows Spotlight images to use as wallpapers. Name the folder **Windows Spotlight** or whatever you like.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save Assets Files in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-assets-files-in-windows-spotlight-folder.jpg)
 7. Right-click inside the folder you just made and select the **Paste** option or use the shortcut **Ctrl + V** to save the chosen Spotlight images from the **Assets** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Convert Spotlight Images to Picture Files
 
  Windows Spotlight images are now saved on your PC. However, you can't use them or even see what each image file looks like as they do not have any extensions.
 
  So you'll need to give them an image file extension and convert them to JPG image files. You can do that one by one. Add the **.jpg** extension after the long file name. It will get converted to a jpg file. You can then double-click the file to open and view it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Rename Files En-Masse on Windows 11
 
@@ -97,18 +106,18 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 ![Enter Command in PowerShell to Add.jpg Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-to-add-jpg-extension.jpg)
 4. Now check the Windows Spotlight folder. You will see that all the files have been converted to JPG image files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Spotlight Assets Files Converted to JPG Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/assets-files-converted-to-jpg.jpg)
 5. You can now view their thumbnails by clicking **View > Extra Large Icons** or **Large Icons**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Spotlight Folder With Image Thumbnails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-spotlight-image-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Rename Files En-Masse on Windows 10
 
@@ -118,28 +127,20 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 ![Open PowerShell Window Here Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-powershell-window-here-option.jpg)
 2. In PowerShell, type **cmd** and press **enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the following line, type **ren \* \*.jpg** and hit **enter**. This command will convert all the files in the folder to JPG files.  
 ![Convert Files to JPG with Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-in-windows-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you've converted all the files to .jpg, you can view the picture thumbnails in the folder.
 
 ![View Image Thumbnails in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-image-thumbnails-in-windows-spotlight-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With that, the spectacular Windows Spotlight images are ready for you to use as your desktop wallpapers. You'll find HD images in the horizontal 1920 x 1080 dimension that you can just right-click and save as a desktop background on your Windows PC.
 
  Plus, there will be vertical images in 1080 x 1920 dimensions—you can use these as cool wallpapers on your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Awesome Wallpapers Whenever You Want
 
@@ -162,24 +163,20 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-cover-videos-strategies-for-maximum-impact/"><u>[New] FB Cover Videos Strategies for Maximum Impact</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-app-review-with-az-screenshotter-for-2024/"><u>[New] Ultimate App Review with AZ Screenshotter for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-accelerating-or-slowing-down-your-storys-timeline-on-insta/"><u>[Updated] Accelerating or Slowing Down Your Story's Timeline on Insta</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-analyzing-authenticity-point-in-visual-identity-sharing-platforms/"><u>2024 Approved Analyzing Authenticity’ Point in Visual Identity Sharing Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-null-associated-app-errors-windows/"><u>Dealing with Null Associated App Errors (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-null-audio-device-issue-in-win-10/"><u>How To Fix Null Audio Device Issue in Win 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-samsung-ubd-k8500-refreshed-2023-overview/"><u>In 2024, Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-owc-mercury-pro-unmatched-speed-and-efficiency-review/"><u>In-Depth Analysis of the OWC Mercury Pro: Unmatched Speed & Efficiency Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-fatal-error-unraveling-0x800f0831/"><u>Navigating Through Fatal Error: Unraveling 0X800f0831</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-operation-automatic-updates-plus-swap-graphics-card-in-win10/"><u>Smooth Operation: Automatic Updates + Swap Graphics Card in Win10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/synergy-strategies-for-ig-and-tiktok-for-2024/"><u>Synergy Strategies for IG & TikTok for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taking-control-your-w11-microphone-mastery-plan/"><u>Taking Control: Your W11 Microphone Mastery Plan</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-time-management-in-windows-1011/"><u>Taskbar Time Management in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-eradicating-windows-search-icons/"><u>Tips for Eradicating Windows Search Icons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-productivity-one-week-on-an-ergonomic-split-keyboard-and-why-ill-never-go-back-exclusive-report-by-zdnet/"><u>Transforming Productivity: One Week on an Ergonomic Split Keyboard and Why I'll Never Go Back - Exclusive Report by ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-control-over-mouse-dynamics-in-windows/"><u>Unleashing Control Over Mouse Dynamics in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-luminosity-taming-windows-colour-chaos/"><u>Unlocking Luminosity: Taming Windows' Colour Chaos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cross-platform-video-editing-made-easy-a-chromebook-users-guide/"><u>Updated Cross-Platform Video Editing Made Easy A Chromebook Users Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[New] 2024 Approved Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-guide-to-online-video-calls-free-edition-best/"><u>[New] Master Guide to Online Video Calls Free Edition Best</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-artisans-almanac-makeup-tools-and-more-on-youtube/"><u>[Updated] The Artisan's Almanac Makeup, Tools & More on Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-iphones-mp3-fix-6-free-tools-to-convert-youtube-audio/"><u>[Updated] Your iPhone's MP3 Fix 6 Free Tools to Convert YouTube Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-on-windows-11-sound-settings-navigation/"><u>A Quick Walkthrough on Windows 11 Sound Settings Navigation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blocked-paths-in-windows-update/"><u>Clearing Up Blocked Paths in Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-methodology-for-adding-intel-ethernet-support/"><u>Comprehensible Methodology for Adding Intel Ethernet Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-protection-turning-on-controlled-folder-access/"><u>Ensuring Data Protection: Turning on Controlled Folder Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-windows-resource-protection-could-not-start-the-repair-service-sfc-error/"><u>Fixed: Windows Resource Protection Could Not Start the Repair Service - Sfc Error</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-huawei-nova-y91-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Huawei Nova Y91 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mystery-of-continuous-pauses-in-photo-booths/"><u>In 2024, Mystery of Continuous Pauses in Photo Booths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsofts-apppack-and-msibundle-files-to-enhance-productivity/"><u>Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-hardware-new-horizinas-guiding-windows-11-22h2-installation/"><u>Old Hardware, New Horizinas: Guiding Windows 11 22H2 Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-route-to-discovering-prestige-indie-games-on-itchio/"><u>The Ultimate Route to Discovering Prestige Indie Games on itch.io</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-11-8/"><u>Windows 11 専用: 推薦する画面録画ツールトップ8選！</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reverting Windows Errors: Curb Dwarf Fortress Haltings"
-date: 2024-08-16T02:34:45.453Z
-updated: 2024-08-17T02:34:45.453Z
+date: 2025-01-04T16:25:32.182Z
+updated: 2025-01-05T17:31:00.332Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  Let's look at a few different fixes for crashes occurring on the Steam version of Dwarf Fortress.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Dwarf Fortress Crashing?
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
@@ -30,20 +34,16 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
@@ -53,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
@@ -66,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ## 3\. Disable Full Screen Optimizations
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
@@ -78,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
@@ -92,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
@@ -113,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## New Game Version, New Game Crashes
 
  You would think that such an old game would have plenty of fixes for possible crashes. However, this is a new version of Dwarf Fotress, and that introduces new problems.
@@ -129,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +129,24 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-with-pexels-finding-fabulous-images/"><u>[New] Unleashing Creativity with Pexels Finding Fabulous Images</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outubes-forgotten-footage-watching-deleted-content-made-easy/"><u>[New] Youtube's Forgotten Footage Watching Deleted Content Made Easy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-users-guide-to-recording-and-reviewing-educational-talks/"><u>2024 Approved Mac Users' Guide to Recording and Reviewing Educational Talks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-moves-for-earning-through-product-sponsorships-on-youtube/"><u>2024 Approved Strategic Moves for Earning Through Product Sponsorships on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-90-gt-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor 90 GT to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-device-maintenance-upgrading-the-sm-bus-controller-software/"><u>Dell Device Maintenance: Upgrading the SM Bus Controller Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-security-with-new-passwords-in-windows-11/"><u>Enhance Security with New Passwords in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-unique-launcher-tools-for-windows-applications/"><u>Exploring Unique Launcher Tools for Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashes-maintaining-stability-of-windows-epic-launcher/"><u>Fix Crashes: Maintaining Stability of Windows Epic Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-regularity-of-access-control-on-win11/"><u>Guide to Regularity of Access Control on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-missing-time-remaining-indicator-in-windows-11-os/"><u>How to Correct the Missing Time Remaining Indicator in Windows 11 OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/live-speech-recognition-mastery-with-whisper/"><u>Live Speech Recognition Mastery with Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-conversion-of-mobile-to-desktop-android-webcams-in-windows-11/"><u>Seamless Conversion of Mobile to Desktop: Android Webcams in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-bypassing-cannot-end-task-error-in-windows/"><u>Tips for Bypassing 'Cannot End Task Error' In Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unstick-your-arrows-with-ease-and-precision/"><u>Unstick Your Arrows with Ease and Precision</u></a></li>
+</ul></div>
 

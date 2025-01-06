@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2024-12-23T21:22:29.563Z
-updated: 2024-12-27T18:54:53.850Z
+date: 2024-12-29T18:06:04.629Z
+updated: 2025-01-06T07:05:20.463Z
 tags:
   - windows10
   - windows11
@@ -45,16 +45,12 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 5. Then apply potential resolutions proposed within the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your Xbox App
 
@@ -63,18 +59,26 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Xbox App
 
  Updates often include fixes for app bugs reported by users. So, check for and download any available Xbox app updates. Our guide to [updating Windows apps](https://www.makeuseof.com/update-apps-windows-11/) has instructions for downloading app updates via Microsoft Store.
 
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Select the Xbox App’s Reset Option
 
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
 
@@ -114,20 +114,24 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-live-stream-providers-with-10-top-insights/"><u>[New] Navigating Live Stream Providers with 10 Top Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-affordable-no-frills-screen-recorders-for-2024/"><u>[Updated] Top 5 Affordable, No-Frills Screen Recorders for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-increasing-clarity-with-enhanced-youtube-videos/"><u>2024 Approved Increasing Clarity with Enhanced YouTube Videos</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-site-performance-enhancing-user-experience-with-personalization/"><u>Cookiebot-Enhanced Site Performance: Enhancing User Experience with Personalization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-down-repair-time-in-windows-setting-up-custom-hotkeys/"><u>Cutting Down Repair Time in Windows: Setting Up Custom Hotkeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-influence-of-runtime-broker-on-pcs/"><u>Demystifying the Influence of Runtime Broker on PCs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevating-zoom-image-resolution-practical-ideas/"><u>Elevating Zoom Image Resolution Practical Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-11-the-fix-for-license-near-expiry/"><u>Handling Windows 11: The Fix for 'License Near Expiry'</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oneplus-nord-3-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of OnePlus Nord 3 5G with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>In 2024, Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-absent-directories-in-explorer/"><u>Reinstating Absent Directories in Explorer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-liquid-warning-issue-tips-for-a-usb-c-connection-without-trouble/"><u>Solve Your iPhone's Liquid Warning Issue: Tips for a USB-C Connection without Trouble</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317732-9781401928681-the-little-book-of-big-promises/"><u>The Little Book of Big Promises | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-progress-in-windows-update-issues/"><u>Unblocking Progress in Windows Update Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-copilot-key-and-its-impact-on-windows-11-pcs/"><u>Unraveling the Mystery of Copilot Key and Its Impact on Windows 11 PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-practices-for-measuring-igtv-video-effectiveness/"><u>[New] In 2024, Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-top-camera-mastery-films-best-practices-unveiled/"><u>[New] In 2024, Top Camera Mastery Film's Best Practices Unveiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tand-out-with-a-unique-streamer-identity-a-filmora-approach/"><u>[New] Stand Out with a Unique Streamer Identity A Filmora Approach</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-most-liked-twitter-videos/"><u>[Updated] 2024 Approved The Most Liked Twitter Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-traditional-markets-with-virtual-engineering/"><u>2024 Approved Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bios-configuration-reset-methods-effortless-steps-to-reinitializing-system-settings/"><u>BIOS Configuration Reset Methods: Effortless Steps to Reinitializing System Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avorites-best-learning-yt-channels/"><u>Edu-Favorites Best Learning YT Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-fix-a-flapping-control-key-on-win11/"><u>Effective Strategies to Fix a Flapping Control Key on Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-installation-hanging-on-99-a-complete-guide/"><u>Fixing Windows 11 Installation Hanging on 99% - A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gadgets-galore-unpacking-top-tier-laptops-mobile-devices-and-book-collections/"><u>Gadgets Galore: Unpacking Top-Tier Laptops, Mobile Devices, and Book Collections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-your-gaming-experience-with-faster-yuzu/"><u>Ignite Your Gaming Experience with Faster Yuzu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-dark-mode-guide-for-calculator-application/"><u>Instant Dark Mode: Guide for Calculator Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prolific-powerhouses-in-win-11-best-productivity-widgets-list/"><u>Prolific Powerhouses in Win 11: Best Productivity Widgets List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-dead-grammarly-feature-with-simple-steps/"><u>Reviving a Dead Grammarly Feature with Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-sounds-and-banners-in-windows/"><u>Stop Chrome Sounds & Banners in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-stop-autolock-functionality/"><u>Unlock Windows: Stop Autolock Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-group-policies-in-windows-11/"><u>Unveiling the Power of Group Policies in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-best-picks-for-webp-image-display/"><u>Windows' Best Picks for WebP Image Display</u></a></li>
 </ul></div>
 

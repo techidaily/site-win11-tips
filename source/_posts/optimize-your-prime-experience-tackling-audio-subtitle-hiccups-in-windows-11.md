@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Prime Experience: Tackling Audio-Subtitle Hiccups in Windows 11"
-date: 2024-12-25T20:09:49.615Z
-updated: 2024-12-27T18:53:18.611Z
+date: 2025-01-04T07:18:13.259Z
+updated: 2025-01-06T01:03:41.132Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Basic Fixes
 
  While most of the content on Prime Video has subtitles, there are exceptions as well. It's possible that subtitles are unavailable for the movie or show you are streaming. To check for that possibility, play the title, click the**Subtitles and Audio** icon at the top, and check if subtitles are available.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
 
@@ -85,14 +89,10 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -113,16 +113,19 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-quick-start-making-professional-gifs/"><u>[New] Quick Start Making Professional GIFs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-voice-tracker-for-ipad-users/"><u>[New] The Ultimate Voice Tracker for iPad Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-windows-11-wallpaper-transitions/"><u>2024 Approved Perfect Windows 11 Wallpaper Transitions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-traditional-to-ergo-friendly-one-week-on-a-split-keyboard-changed-it-all-gadgetflow/"><u>From Traditional to Ergo-Friendly: One Week on a Split Keyboard Changed It All | GadgetFlow</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-zero-5g-2023-turbo-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Zero 5G 2023 Turbo Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insightful-analysis-of-c-and-d-in-windows/"><u>Insightful Analysis of 'C:' And 'D:' In Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-web-pages-as-standalone-windows-programs/"><u>Launching Web Pages as Standalone Windows Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-pc-manager-setup/"><u>Mastering Windows 11 - PC Manager Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-hidden-potential-of-windows-11s-initial-screen/"><u>Unlock the Hidden Potential of Windows 11’S Initial Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-history-unburdening-a-practical-approach/"><u>Windows Security History Unburdening: A Practical Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-navigating-screen-magnification-in-ms-teams/"><u>[New] In 2024, Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[Updated] In 2024, The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-xbox-live-breakdown-top-four-strategies-to-record-gameplay/"><u>[Updated] Xbox Live Breakdown Top Four Strategies to Record Gameplay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-live-soundscape-websites/"><u>2024 Approved Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-zte-nubia-flip-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On ZTE Nubia Flip 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-error-x0001-on-geforce-for-windows-11/"><u>Clearing Up Error X0001 on GeForce for Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/dynamic-documentary-tripod-explorers-companion/"><u>Dynamic Documentary Tripod: Explorer’s Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x8007045d-in-windows-1011/"><u>Eliminating Error 0X8007045D in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-unseen-camera-issue-in-windows-device-manager/"><u>Fix Unseen Camera Issue in Windows Device Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-novice-to-prodigy-mastering-first-person-roleplay/"><u>From Novice to Prodigy: Mastering First-Person Roleplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-self-opening-issues-in-microsoft-store/"><u>Solving Self-Opening Issues in Microsoft Store</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Open | Dr.fone</u></a></li>
 </ul></div>
 

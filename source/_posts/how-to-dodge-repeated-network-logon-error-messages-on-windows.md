@@ -1,7 +1,7 @@
 ---
 title: How to Dodge Repeated Network Logon Error Messages on Windows
-date: 2024-08-08T11:10:51.475Z
-updated: 2024-08-09T11:10:51.475Z
+date: 2025-01-01T08:27:59.682Z
+updated: 2025-01-06T00:02:31.259Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Modify the Advanced Sharing Settings
 
  An incorrectly set Advanced Sharing setting is one of the most common causes of this error. Ideally, your PC should be allowed to manage homegroup connections. You can also use the Advanced Sharing settings page to disable password-protected sharing, which will allow you to share files without needing to log in.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 1. Locate the network icon on your taskbar and right-click on it.
 2. Choose **Network and Internet settings** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Network and Internet settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/network-and-internet-settings.jpg)
 3. In the following window, select **Network and Sharing Center**.
 4. Choose **Change advanced sharing settings** option in the left pane.
@@ -54,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  If the problem is associated with the credentials, one of these two methods is likely to help you get rid of it for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Manually Add the Credentials of the Target Computer to the Credential Manager
 
  Another way to fix the issue is by manually adding the credentials of the targeted computer in the Credential Manager and seeing if that makes a difference.
@@ -67,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Create a New User Account on Both Devices
 
  There are times when user accounts become corrupt and stop you from performing certain actions. If this has happened, either on your PC or the target computer, it can interrupt the file-sharing process.
@@ -75,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  If the root of your issue was a corrupt user account, this should be enough to fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Restart the Credential Manager Service
 
  The issue might also be with the Credential Manager service itself instead of the targeted computer or the network settings of your device. In this method, we will first enable the Credential Manager service if the service is disabled.
@@ -92,19 +92,22 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 4. Choose **Properties** from the context menu.
 5. If the service is disabled, click on the **Start button** to enable it.
 6. In case it is working already, click on the **Stop button**, wait for a few seconds, and then hit the **Start button**.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. ![Credential Manager properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-properties.jpg)  
  Make sure that the Startup type is set to **Automatic**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Credential Manager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-service.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now try connecting to the targeted computer and see if you can do so without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Make Changes to the Local Security Policy
 
  Several users also managed to fix the problem by modifying the settings of the "Accounts: Limit local account use of blank passwords to console logon only" policy. Here is how you can give it a try too:
@@ -117,18 +120,6 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 ![Make changes to the Local Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-security-policy.jpg)
 5. Restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Try Using Safe Mode With Networking
 
  If the credentials you are entering and all the network configurations on the system are correct, something might have gone wrong on a system level.
@@ -157,11 +148,28 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-cutting-edge-commerce-in-the-metaverse/"><u>[Updated] 2024 Approved Cutting-Edge Commerce in the Metaverse</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>[Updated] In 2024, Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-as-a-writers-tool-the-good-bad-and-ugly-of-leveraging-chatgpt-for-creativity/"><u>AI as a Writer's Tool: The Good, Bad, & Ugly of Leveraging ChatGPT for Creativity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725290661979-dvd/"><u>DVD保護システム回避不能：全作品集対応術＆ワザ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-xbox-glitches-in-windows-with-ease/"><u>Fixing Xbox Glitches in Windows with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlined-zoom-utilization-a-chromebook-perspective/"><u>In 2024, Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instagrams-algorithm-unlocked-optimizing-your-reels/"><u>Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-photo-editor-un-outil-innovant-pour-la-retouche-photographique-facile-et-naturelle/"><u>Movavi Photo Editor - Un Outil Innovant Pour La Retouche Photographique Facile Et Naturelle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outlook-preview-setup-for-windows-1011-users/"><u>Outlook Preview Setup for Windows 10/11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-resource-conflict-error-on-windows-1011-155-chars/"><u>Resolving Resource Conflict Error on Windows 10/11 (155 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resuming-razer-device-connection-support-by-synapse/"><u>Strategies for Resuming Razer Device Connection Support by Synapse</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamlining-video-aesthetics-blur-background-in-microsoft-teams-for-2024/"><u>Streamlining Video Aesthetics Blur Background in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-retrogame-revival-through-retroarchs-shader-capabilities/"><u>The Art of RetroGame Revival Through RetroArch’s Shader Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-warfare-maximize-your-frame-rate/"><u>Winning at Warfare: Maximize Your Frame Rate</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Fixing Google Chrome Profile Crashes on Windows
-date: 2024-12-14T22:46:48.757Z
-updated: 2024-12-22T04:42:50.261Z
+date: 2025-01-01T09:23:38.684Z
+updated: 2025-01-06T02:00:46.329Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
  Now that you know what's causing the issue let's jump into the fixes using which you can quickly troubleshoot the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Google Chrome
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
  To restart, close Google Chrome and then launch Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more details). Switch to the**Processes** tab in the Task Manager, right-click on all the Chrome-related services, and choose**End** **Task** .
 
 Next, launch Google Chrome and check if the problem continues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Delete the Google Chrome Web Data File
 
@@ -70,10 +66,6 @@ Here's how to delete the Web Data file:
 4. In the default folder, locate and right-click on the**Web Data** file.  
 ![Web Data file of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Web-Data-file.jpg)
 5. Choose the**Delete** icon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Next, restart your computer and check for the issue.
 
@@ -99,7 +91,7 @@ Next, restart your computer and check for the issue.
 ![Managing extension window of Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Remove-Extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if you're still seeing the profile error. If not, then it means one of the extensions you disabled was the culprit.
@@ -131,6 +123,10 @@ That's it. Restart Google Chrome and check for the issue.
 
  That's it. Google Chrome will now look for and download any available updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Create a New Profile
 
  If you're still facing the problem, there's probably corruption in the current user profile. As a solution, you'll have to create a new Google Chrome profile. You can do this by following the below steps:
@@ -141,10 +137,14 @@ That's it. Restart Google Chrome and check for the issue.
 3. Click the**Sign in** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Then, enter your credentials and create a new profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Browsing on Google Chrome
 
@@ -167,22 +167,24 @@ That's it. Restart Google Chrome and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-rogue-adventures-10-game-compilation/"><u>[New] In 2024, Leading Rogue Adventures #10 Game Compilation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-pro-tips-top-11-inexpensive-youtube-naming-tools-for-2024/"><u>[Updated] Pro Tips Top 11 Inexpensive YouTube Naming Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-rainmeter-glitches-with-ease/"><u>Fixing Common Window's Rainmeter Glitches with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-distorted-to-dazzling-a-guide-to-win11-display-correction/"><u>From Distorted to Dazzling: A Guide to Win11 Display Correction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-voice-heard-again-fixing-mic-issues-in-counter-strike-global-offensive/"><u>Getting Your Voice Heard Again: Fixing Mic Issues in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-opening-file-for-writing-error-in-windows-10-and-11/"><u>How to Fix the Error Opening File for Writing Error in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-translate-foreign-languages-with-hotkeys-in-windows-11-and-11/"><u>How to Translate Foreign Languages With Hotkeys in Windows 11 & 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/masterful-use-of-luts-in-obs-studio-for-professional-results/"><u>Masterful Use of LUTs in OBS Studio for Professional Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-color-management-in-windows-systems/"><u>Mastering Color Management in Windows Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-online-meetings-tips-for-chromebook-users-for-2024/"><u>Mastering Online Meetings Tips for Chromebook Users for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-game-frequently-encounters-crashes/"><u>Resolved: Why Insurgency: Sandstorm Game Frequently Encounters Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revel-in-the-richness-of-windows-11-key-features-left-unused/"><u>Revel in the Richness of Windows 11: Key Features Left Unused</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-compatibility-list-for-24-laptops/"><u>The Ultimate Windows Compatibility List for '24 Laptops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-mb-error-cant-connect-to-services-in-windows-11/"><u>Troubleshooting MB Error: Can't Connect to Services in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/understanding-gps-tracker-sizes-how-they-impact-usability-and-security-of-your-belongings-for-safer-lifestyle/"><u>Understanding GPS Tracker Sizes: How They Impact Usability & Security of Your Belongings for Safer Lifestyle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-of-ip-rights-in-artificial-intelligence-generated-works/"><u>Unraveling the Mystery of IP Rights in Artificial Intelligence-Generated Works</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-flying-buddies-top-toys-for-children/"><u>[New] Perfect Flying Buddies Top Toys for Children</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-fidelity-viewing-at-home-with-eizos-4k-display-for-2024/"><u>[Updated] High-Fidelity Viewing at Home with EIZO's 4K Display for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-and-document-your-zoom-conferences/"><u>[Updated] In 2024, Secure & Document Your Zoom Conferences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-metaverse-reflections-inspirational-messages/"><u>2024 Approved Immersive Metaverse Reflections Inspirational Messages</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-find-x7-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Find X7 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-yuzu-fps-on-pc-systems/"><u>Enhancing Yuzu FPS on PC Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-nvidia-gl-driver-issue-3-on-win11/"><u>Expert Fixes for NVIDIA GL Driver Issue #3 on Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/global-digital-disconnect-fb-whatsapp-and-instagram-downed/"><u>Global Digital Disconnect: FB, WhatsApp, & Instagram Downed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macmacx-dvd-ripper-pro-v20/"><u>Macユーザー向け最強リッピングツール「Macx DVD Ripper Pro V2.0」アップデート披露</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-machine-expert-advice-from-toms-computer-chronicles/"><u>Master Your Machine: Expert Advice From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practical-guide-to-disregarding-false-security-alarms-in-chrome/"><u>Practical Guide to Disregarding False Security Alarms in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconciling-system-with-a-fresh-net-framework-max-156/"><u>Reconciling System with a Fresh .NET Framework (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-network-error-in-windows-11-systems/"><u>Remedying Steam Network Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-page-load-failure-on-microsoft-store-windows-app/"><u>Resolving 'Page Load Failure' On Microsoft Store Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-windows-11-help-menu-failure/"><u>Steps for Fixing Windows 11 Help Menu Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-c0000005-failure-on-windows-108/"><u>Tackling C0000005 Failure on Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-path-failure-on-pc-operating-systems/"><u>Tackling PATH Failure on PC Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-compatible-windows-and-android-programs/"><u>Top 8 Compatible Windows and Android Programs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-the-secrets-of-building-budget-friendly-youtube-ads-for-2024/"><u>Unlock the Secrets of Building Budget-Friendly YouTube Ads for 2024</u></a></li>
 </ul></div>
 

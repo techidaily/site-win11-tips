@@ -1,7 +1,7 @@
 ---
 title: Overcoming Buffering Issues on Chrome & YouTube
-date: 2024-08-08T11:11:50.924Z
-updated: 2024-08-09T11:11:50.924Z
+date: 2025-01-01T16:21:00.752Z
+updated: 2025-01-06T08:30:52.813Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,12 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 * [Turn off the Chrome extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) you think could be interfering with the browser.
 * Disable your VPN and remove any VPN extensions installed on Chrome.
 * Reset flags in Chrome. To do that, go to **Chrome://flags** and click on **Reset all**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Click on Reset all to Reset the Chrome Flags in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-reset-all-to-reset-the-chrome-flags-in-chrome.jpg)
 * [Update your Windows graphics drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to allow your PC to process graphics more efficiently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the above fixes don't resolve the issue and the lag persists, it's time for some more complex ones.
 
@@ -54,9 +53,6 @@ The powerful video editing program for your Windows PC</a>
 
  Once your RAM is freed up, try playing YouTube videos again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Close Resource-Hogging Chrome Processes
 
  If freeing up your memory doesn't reduce the video lag, look for memory-hogging Chrome processes and temporarily close them. Using Chrome's Task Manager can help you do this.
@@ -67,6 +63,11 @@ The powerful video editing program for your Windows PC</a>
 2. Click the **three vertical dots** in the top-right corner and navigate to **More Tools > Task manager**.  
 ![Open Task Manager in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-task-manager-in-chrome.jpg)
 3. Look at the processes with the most **memory footprint**, such as tabs, extensions, and other processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. End all processes you don't want to continue running or extensions straining your memory the most. To end any process, select it and click **End task**.
 
  Now try to play videos again and see if they lag.
@@ -84,11 +85,12 @@ The powerful video editing program for your Windows PC</a>
 3. Turn the toggle next to **Energy Saver** off and the toggle next to **Memory Saver** on.  
 ![Turn on Memory Saver and Disable Energy Saver in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-memory-saver-and-disable-energy-saver-in-chrome-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if this reduces Chrome's RAM footprint.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reduce the Video Quality
 
  When you watch videos in high quality, it requires a higher amount of memory than when you watch them in low quality. If you habitually watch videos at 1080p or higher quality and it constantly lags, consider dropping the quality to 720p or even lower.
@@ -117,17 +119,15 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click the Windows **Start** button and select **Settings**.
 2. Navigate to **System > Display**.
 3. Go to **Graphics** and click on the **Change default graphics settings** button.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the Change Default Graphics Settings Button in Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-click-on-the-change-default-graphics-settings-button-in-graphics-settings-of-the-windows-settings-app.jpg)
 4. Here, enable **hardware-accelerated GPU scheduling**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now anything that uses your GPU should run better. If you notice things working worse instead, deactivate the setting.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Enable Hardware Acceleration in Chrome
 
  When you've enabled hardware acceleration in Windows, you should do the same in Chrome. To enable hardware acceleration in Chrome, follow the steps below:
@@ -136,15 +136,12 @@ The powerful video editing program for your Windows PC</a>
 2. Click on the **three vertical dots** in the top-right corner and navigate to **Settings**.
 3. Go to the **System** tab on the left sidebar.
 4. Turn on the toggle next to **Use hardware acceleration when available**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Hardware Acceleration in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-hardware-acceleration-in-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Ensure Chrome Is Up-to-Date
 
  Running an outdated version of Chrome can also slow down the browser. Updating the browser fixes existing bugs that make it perform better. Therefore, upgrading a browser to the latest version can also help improve efficiency and reduce lag. To make sure your browser is up-to-date, follow the below steps:
@@ -152,16 +149,14 @@ The powerful video editing program for your Windows PC</a>
 1. Launch Chrome.
 2. Click on **three vertical dots** in the top-right corner.
 3. Navigate to **Help > About Google Chrome**.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on About Google Chrome in Chrome Menu to See Whether Chrome Is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-about-google-chrome-in-chrome-menu-to-see-whether-chrome-is-up-to-date.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Google Chrome will check for updates and, if any are available, download and install them. Then, click on **Relaunch** to give your browser a fresh start. If you see the **"Chrome is up to date"** message, your browser is already up to date.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Ensure the Chrome Browser is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-ensure-the-chrome-browser-is-up-to-date.jpg)
 
 ## Binge Watch YouTube Videos Once Again
@@ -174,11 +169,27 @@ The powerful video editing program for your Windows PC</a>
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/levate-your-vlogs-optimizing-title-description-and-tags/"><u>[New] Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-learn-video-editing-on-vimeo-a-budget-friendly-approach/"><u>[New] In 2024, Learn Video Editing on Vimeo A Budget-Friendly Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-power-of-listening-understanding-your-youtube-audience/"><u>[New] The Power of Listening Understanding Your YouTube Audience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-science-of-captivating-audience-with-mukbang-videos/"><u>[Updated] In 2024, The Science of Captivating Audience with Mukbang Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-and-differentiate-personalizing-your-calendar-in-windows-outlook/"><u>Decorate and Differentiate: Personalizing Your Calendar in Windows Outlook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How to Reset a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-and-surface-pro-face-off-determining-your-ideal-device/"><u>IPad Pro and Surface Pro Face-Off: Determining Your Ideal Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ms-project-unleashing-the-power-of-keys/"><u>MS Project: Unleashing the Power of Keys</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-matters-discover-how-to-watch-all-indiana-jones-movies-in-their-intended-sequence/"><u>Order Matters - Discover How to Watch All Indiana Jones Movies in Their Intended Sequence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-configure-windows-for-fingerspeedtyping/"><u>Steps to Configure Windows for Fingerspeedtyping</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-the-virtualboxs-efail-error-0x80004005-on-win/"><u>Tips to Overcome the VirtualBox's E_FAIL (Error 0X80004005) on Win</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-is-utorrent-unresponsive-explore-7-effective-remedies/"><u>Why Is Utorrent Unresponsive? Explore 7 Effective Remedies</u></a></li>
+</ul></div>
+

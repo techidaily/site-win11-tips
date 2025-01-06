@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing File Thumbnails in Microsoft's Newest OS
-date: 2024-12-21T16:59:56.230Z
-updated: 2024-12-27T18:21:26.998Z
+date: 2025-01-05T10:11:53.950Z
+updated: 2025-01-05T16:16:32.575Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow Thumbnails to Load Properly
 
  Thumbnails don't require a lot of processing power to load. However, if you open a folder with thousands of files, thumbnails may take some time to load. If you open a file from that folder before the thumbnails have rendered correctly, it could affect other files in the folder whose thumbnails have not yet loaded.
@@ -44,11 +40,15 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Go to Folder Options in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-go-to-folder-options-in-windows-file-explorer.jpg)
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change Icon Size and View Style
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
@@ -101,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
  Visual effects help you customize the appearance of your device's display and optimize it to get the best performance. You can also choose to have Windows adjust the visual effects based on your preference.
@@ -111,16 +115,8 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Open Visual Effects Settings From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-adjust-visual-effects-settings-from-windows-search.jpg)
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 * Ensure that the drive where you are experiencing this issue has enough free storage space. Consider[freeing up the storage space](https://www.makeuseof.com/windows-11-free-up-storage-space/) if it's running low.
 * [Change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) for files that don't have thumbnails.
 * Install any pending Windows updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 
@@ -149,22 +149,18 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mapping-instagrams-unfollowers-landscape/"><u>[New] In 2024, Mapping Instagram's Unfollowers Landscape</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-5-inspiring-book-trailers-for-2024/"><u>[New] Top 5 Inspiring Book Trailers for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-the-perfect-windows-11-search-experience/"><u>Crafting the Perfect Windows 11 Search Experience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-nokia-c110-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Nokia C110</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-resolving-dpi-scaling-woes/"><u>Effective Techniques for Resolving DPI Scaling Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-making-most-of-windows-canary-channel/"><u>Essential Insights: Making Most of Windows Canary Channel</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oneplus-11r-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your OnePlus 11R Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G Stylus 5G (2023) Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/integrating-zoom-calls-smoothly-on-xbox-console-for-2024/"><u>Integrating Zoom Calls Smoothly on Xbox Console for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-files-with-auto-move-command-on-win-11/"><u>Simplify Your Files with Auto-Move Command on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-to-unseen-windows-updates/"><u>Step-by-Step Fix to Unseen Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-circumvent-windows-logon-messages/"><u>Tips to Circumvent Windows Logon Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-proc-calls-failure-in-malwarebytes/"><u>Troubleshooting Proc Calls Failure in Malwarebytes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unveiling-the-lg-c9-oled-impeccable-picture-quality-on-a-4k-65-inch-masterpiece-tv-for-aficionados/"><u>Unveiling the LG C9 OLED: Impeccable Picture Quality on a 4K 65-Inch Masterpiece TV for Aficionados</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-customization-aesthetic-choices/"><u>Windows Terminal Customization: Aesthetic Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-5-gif-to-video-converters-online-no-need-to-download-for-2024/"><u>[New] Best 5 GIF to Video Converters Online [No Need to Download] for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easily-manage-picture-in-picture-while-watching-youtube-on-iphone-for-2024/"><u>[Updated] Easily Manage Picture-in-Picture While Watching YouTube on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-omniscope-networking-an-experts-guide-to-selecting-a-media-company/"><u>[Updated] OmniScope Networking An Expert's Guide to Selecting a Media Company</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sionary-beauty-experts-leading-online-trends/"><u>10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://discover-best.techidaily.com/die-dynamik-zwischen-etl-and-elt-schlusselaspekte-fur-moderne-datenerfassung/"><u>Die Dynamik Zwischen ETL & ELT - Schlüsselaspekte Für Moderne Datenerfassung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-store-crash-microsofts-error-0x80073cf3/"><u>Disarming Store Crash: Microsoft's Error 0X80073CF3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-steam-write-errors-on-windows-devices/"><u>Eliminating Steam Write Errors on Windows Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elite-unmanned-aerial-vehicles-up-for-grabs/"><u>Elite Unmanned Aerial Vehicles Up for Grabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-your-license-ends-alert-on-win11-systems/"><u>Navigating the Your License Ends Alert on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/offline-windows-11-installation-made-simple/"><u>Offline Windows 11 Installation Made Simple</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tecniche-top-eccellenti-per-il-compattamento-di-video-mov-con-riduzione-delle-dimensioni/"><u>Tecniche Top Eccellenti per Il Compattamento Di Video MOV Con Riduzione Delle Dimensioni</u></a></li>
 </ul></div>
 

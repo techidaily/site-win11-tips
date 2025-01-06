@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket Your Grades: Essential 8 Windows-Based Study Tips"
-date: 2024-12-24T17:48:59.206Z
-updated: 2024-12-27T21:46:41.617Z
+date: 2025-01-05T05:36:05.895Z
+updated: 2025-01-05T17:28:13.108Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![PARA Styled Folder Structure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/para-styled-folder-structure.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is an overview of how the PARA approach can help organize student materials:
@@ -66,6 +66,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
@@ -77,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
  Depending on your needs, you can customize sessions as short as 5 minutes or as long as multiple hours. You can access this feature from your **Windows Settings > System > Focus section**. Click the **Start focus session** button to start a session for the set amount. If you want to change the default timer, click the **Plus** or **Minus** button to adjust it.
 
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
 
@@ -92,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -108,22 +113,19 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
-![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
-4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
+4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
@@ -133,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
  Two great Windows options are OneNote and Obsidian. Both help create and organize notes easily. OneNote's expandable canvas and sections make note-taking with a stylus easy. Check our [tips to get started with OneNote](https://www.makeuseof.com/tag/use-onenote-school-10-tips-students-teachers/).
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Download Notion and Set It Up
 
@@ -148,11 +146,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Install ChatGPT on Your PC
 
@@ -163,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -182,18 +184,24 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-discover-premiere-pro-essentials-free-and-high-quality-for-2024/"><u>[New] Discover Premiere Pro Essentials Free & High-Quality for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-enhancing-engagement-through-thoughtful-youtube-tags/"><u>[New] Enhancing Engagement Through Thoughtful YouTube Tags</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-smarter-streaming-directly-connecting-obs-with-fb/"><u>[New] In 2024, Smarter Streaming Directly Connecting OBS with FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-secrets-of-dism-for-system-rebuilds/"><u>Decoding the Secrets of DISM for System Rebuilds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-disabled-game-experience-in-roblox-for-windows-users/"><u>Fixing the Disabled Game Experience in Roblox for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-vcruntime140dll-file-missing-issue-a-comprehensive-guide/"><u>Fixing the VCRUNTIME140.dll File Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-boost-your-windows-10-speaker-output-with-easy-fixes/"><u>No Audio? Boost Your Windows 10 Speaker Output with Easy Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-windows-shared-folder-permission-errors/"><u>Overcome Windows Shared Folder Permission Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y100i-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y100i</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016755583-troubleshooting-guide-fixing-windows-10-audio-issues-solved/"><u>Troubleshooting Guide: Fixing Windows 10 Audio Issues - Solved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-customization-in-windows-11-navigating-app-shortcuts/"><u>Unlocking Customization in Windows 11: Navigating App Shortcuts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-4-affordable-and-free-online-calendar-solutions/"><u>Unveiling the Top 4 Affordable and Free Online Calendar Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/when-and-why-should-you-post-on-instagram/"><u>When and Why Should You Post on Instagram?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions-for-2024/"><u>[New] A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-instantaneous-screen-logger-for-chrome-for-2024/"><u>[Updated] Instantaneous Screen Logger for Chrome for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-shine-strategy-top-tools-to-brighten-streams/"><u>2024 Approved Shine Strategy Top Tools to Brighten Streams</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-cli-space-making-windows-terminal-default/"><u>Customizing Your CLI Space: Making Windows Terminal Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-for-fast-tracking-startup-repair-functions/"><u>Guide for Fast-Tracking Startup Repair Functions</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-14-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 14 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-add-missing-basic-imaging-devices-in-windows-11-platform/"><u>How to Add Missing Basic Imaging Devices in Windows 11 Platform</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-terror-in-towns-selecting-the-best-8-zombie-gaming-titles/"><u>In 2024, Terror in Towns Selecting the Best 8 Zombie Gaming Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-apples-upcoming-m3-macbook-pro-release-schedule-price-listing-and-performance-specs-explained/"><u>Inside Look at Apple's Upcoming M3 MacBook Pro – Release Schedule, Price Listing, and Performance Specs Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-windows-11-taskbar-error/"><u>Methods to Rectify Windows 11 Taskbar Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disable-script-execution-4-solutions-for-ps-load-failure/"><u>Overcoming Disable Script Execution: 4 Solutions for PS Load Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reawaken-chrome-on-win11-essential-troubleshooting-steps/"><u>Reawaken Chrome on Win11 – Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steams-captcha-invalid-issue/"><u>Resolving Steam's CAPTCHA Invalid Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-windows-update-hiccup-x712/"><u>Steps to Address Windows Update Hiccup X712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-disable-windows-11-notification-system/"><u>Swiftly Disable Windows 11 Notification System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-messages-fix-for-user-not-valid-windows-1111/"><u>Unraveling Error Messages: Fix for 'User Not Valid' Windows 11/11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210166983-9781640821910-your-name-is-written-on-the-palm-of-my-hands/"><u>Your Name Is Written on the Palm of My Hands | Free Book</u></a></li>
 </ul></div>
 

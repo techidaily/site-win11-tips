@@ -1,7 +1,7 @@
 ---
 title: Effective Method for Converting HEIC to JPEG with Windows 11
-date: 2024-08-16T02:35:14.578Z
-updated: 2024-08-17T02:35:14.578Z
+date: 2025-01-02T02:41:40.901Z
+updated: 2025-01-05T21:44:41.135Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 ![The CopyTrans setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copytrans-setup-window.jpg)
 7. Then select**Next** \>**Install** to add the new HEIC conversion context menu option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that CopyTrans HEIC is installed, it's time to convert your files:
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
  With CopyTrans installed, you can enable HEIC image previews in Windows 11 File Explorer by clicking the**View** command bar button. Select**Show** \>**Preview pane** on the menu. In Windows 10, you can select**Preview Pane** on the**View** tab. Then selecting a HEIC image will show a sidebar preview of it.
 
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
@@ -68,9 +76,6 @@ Now it's time to convert images with FoneTool:
 1. Select the**ToolBox** tab in FoneTool’s window.
 2. Click the**HEIC Converter** button.  
 ![The Toolbox tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/toolbox-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3. Press the**Add Photos** button, select some images, and click**Open** .
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
@@ -84,16 +89,14 @@ Now it's time to convert images with FoneTool:
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
@@ -102,13 +105,20 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then set a value in the**Quality** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
@@ -117,22 +127,11 @@ Now it's time to convert images with FoneTool:
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -143,8 +142,6 @@ Now it's time to convert images with FoneTool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +149,22 @@ Now it's time to convert images with FoneTool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-action-cameras-for-thrill-seekers/"><u>[New] 2024 Approved Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] 2024 Approved A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-expanding-social-footprint-tying-igtv-and-facebook-together-for-2024/"><u>[Updated] Expanding Social Footprint Tying IGTV & Facebook Together for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-videography-tips-optimal-sizes-and-formats/"><u>[Updated] Instagram Videography Tips Optimal Sizes & Formats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secure-mov-file-storage-in-windows-11-for-2024/"><u>[Updated] Secure MOV File Storage in Windows 11 for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-14-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-the-secrets-to-success-in-spotify-ads/"><u>Decoding the Secrets to Success in Spotify Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-windows-high-contrast-feature/"><u>Disabling Windows' High Contrast Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-over-lags-swift-precision-on-star-wars-bf2-windows-pc/"><u>Jump Over Lags: Swift Precision on Star Wars BF2 Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpo-tweaks-for-updated-windows-compliance/"><u>Mastering GPO Tweaks for Updated Windows Compliance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-pc-search-employ-everythingapp/"><u>Maximize PC Search, Employ EverythingApp</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-bcm20702a0-windows-driver-downloads-hassle-free-process/"><u>Quick Setup: BCM20702A0 Windows Driver Downloads | Hassle-Free Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-unseen-wi-fi-networks-on-win11/"><u>Steps to Rectify Unseen Wi-Fi Networks on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tangles-resolved-how-to-reactivate-sleeping-pcs/"><u>Tech Tangles Resolved: How to Reactivate Sleeping PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pros-guide-to-effortless-directx-installation/"><u>The Pro's Guide to Effortless DirectX Installation</u></a></li>
+</ul></div>
 

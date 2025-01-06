@@ -1,7 +1,7 @@
 ---
 title: Reviving Microsoft Word's Speech Functionality on PC
-date: 2024-08-08T11:12:32.494Z
-updated: 2024-08-09T11:12:32.494Z
+date: 2025-01-05T01:48:46.471Z
+updated: 2025-01-06T10:12:25.668Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Microsoft Word
 
  As always, when dealing with a program malfunction, you should restart it. If there’s a temporary glitch, closing and re-launching Microsoft Word might be enough to fix the issue. Once you close Microsoft Word, make sure there’s no background process still running.
@@ -48,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Enable Word's read aloud feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-read-aloud-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check Volume Mixer Settings
 
  There’s a chance you can’t hear Word Read Aloud feature due to incorrect Volume Mixer settings. As you may know, Windows’ Volume Mixer allows you to [set different volume levels for different applications](https://www.makeuseof.com/tag/how-to-change-volume-on-a-per-app-basis-in-windows-10/) or change the output device for each running app.
@@ -64,18 +62,24 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  If there’s nothing wrong with the Volume Mixer settings, move on to the next solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update Microsoft 365
 
  If restarting Microsoft Word wasn’t enough to fix the glitch, you should update Microsoft 365\. If you’re running an outdated version or something went wrong during the latest update installation, you’ll encounter all sorts of issues. Including Word’s inability to read the documents for you.
 
  To update Microsoft 365, open Microsoft Word and go to **File > Account**. There, click **Update options** and select **Update now**. If you can’t update it, check out our guide on how to [fix Microsoft 365 installation errors in Windows](https://www.makeuseof.com/how-to-fix-microsoft-365-office-home-and-student-installation-errors-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![How to update Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft365-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair the Word Doc
 
@@ -91,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  Microsoft Word will now search and automatically fix any detected issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Repair Microsoft 365
 
 [Windows has plenty of built-in repair tools](https://www.makeuseof.com/tag/5-free-tools-fix-problem-windows-10/) to help you when running into a problem. So if Word is still giving you the silent treatment, go through the steps below:
@@ -110,8 +111,9 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  If the Read Aloudfeature is still not working, go through the steps again and select **Online Repair**.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Launch Word in Safe Mode
 
  Sometimes, add-ins might interfere with Word’s functionality and stop Read Aloud from working. To check if you’re dealing with a problematic add-in, launch Word in Safe Mode. Press **Windows key + R** to launch a Run dialog, type **winword / safe** and press **Enter**. Word will now open without any add-ins.
@@ -124,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 4. Uncheck every add-in and click **OK**.
 5. Then, re-enable the add-in one by one to identify which one is causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
 
 ## Get Word Reading Your Docs Aloud
@@ -138,11 +136,30 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-demystifying-the-mechanics-of-youtube-studio/"><u>[New] 2024 Approved Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-podcast-renaming-made-easy-with-these-ai-tools/"><u>[New] 2024 Approved Podcast Renaming Made Easy with These AI Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-beginners-blueprint-for-mobile-youtube-videos/"><u>[New] In 2024, The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>[Updated] In 2024, Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ghostly-replay-instructional-guide/"><u>2024 Approved Ghostly Replay Instructional Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-share-images-from-phone-snapshots-seamlessly/"><u>2024 Approved How To Share Images From Phone Snapshots Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-stranded-issue-improve-xbox-connectivity-on-windows/"><u>Eliminate 'Stranded' Issue: Improve Xbox Connectivity on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-avoid-recurring-edge-keyboard-cues/"><u>How to Avoid Recurring Edge Keyboard Cues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-volume-control-slider-not-working-in-windows-10-and-11/"><u>How to Fix the Volume Control Slider Not Working in Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-itel-a05s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Itel A05s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-windows-memory-footprint-with-microsoft-edge/"><u>Lowering Windows Memory Footprint with Microsoft Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-measures-for-perfect-windows-11-search-results/"><u>Proactive Measures for Perfect Window's 11 Search Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-hidden-panes-6-strategies-for-screen-off-windows/"><u>Reviving Hidden Panes: 6 Strategies for Screen-Off Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-screens-customizing-monitor-wallpapers/"><u>Switching Screens: Customizing Monitor Wallpapers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-eliminating-backgrounds-in-photography-for-2024/"><u>The Art of Eliminating Backgrounds in Photography for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-impactful-journey-with-gopro-hero5/"><u>The Impactful Journey with GoPro Hero5</u></a></li>
+</ul></div>
+

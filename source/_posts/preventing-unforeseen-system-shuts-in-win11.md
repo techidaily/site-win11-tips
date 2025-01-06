@@ -1,7 +1,7 @@
 ---
 title: Preventing Unforeseen System Shuts in Win11
-date: 2024-08-08T11:12:35.359Z
-updated: 2024-08-09T11:12:35.359Z
+date: 2024-12-31T02:05:22.998Z
+updated: 2025-01-05T20:48:41.971Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Update Windows 11
 
  The shutdown box might be a temporary system glitch caused by an outdated Windows version. To update your operating system, press the **Windows key + I** to bring up the Settings menu. There, head to **Windows Update** and click the **Check for updates** button.
@@ -31,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -56,14 +45,16 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 5. In the System Maintenance window, click **Advanced** and check the **Apply repairs automatically** option.
 6. Click **Next** to run the troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
@@ -74,23 +65,15 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  The good news is that you don’t need a third-party antivirus to fix the issue. You could [remove malware using Microsoft Defender’s offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/).
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run an SFC and DISM Scan
 
  The shutdown box might keep opening if some of your system files are corrupted or missing. The easiest way to search and automatically fix them is to [run the SFC and DISM scans](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Start Windows in Safe Mode
 
@@ -99,9 +82,9 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the Windows Shutdown Box Appearing By Itself
 
  Having the shutdown box constantly open by itself can be really annoying as it keeps interrupting your work. Hopefully, one or more of the above fixes helped you fix the issue.
@@ -110,11 +93,24 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-compilation-of-best-video-chatting-applications-mobilepluspc-for-2024/"><u>[Updated] A Compilation of Best Video Chatting Applications (Mobile+PC) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-indexers-control-panel-layout/"><u>Deciphering Indexer's Control Panel Layout</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drone-photography-showdown-dji-fpv-vs-gopro-x/"><u>Drone Photography Showdown DJi FPV Vs GoPro X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-your-own-windows-transcription-app-with-whisper-and-autohotkey/"><u>How to Make Your Own Windows Transcription App With Whisper and AutoHotkey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/industrial-giants-taking-flight-heavy-duty-drones-for-2024/"><u>Industrial Giants Taking Flight Heavy-Duty Drones for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-15-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-office-error-30015-26-on-pcs/"><u>Resolving Microsoft Office Error 30015-26 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-delayed-gpsvc-loop-on-your-machine/"><u>Solving Delayed GPSVC Loop on Your Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-a60s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel A60s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728464092428-usb/"><u>USBメモリ間のデータ複写手順、必見！初心者でも簡単に理解可能</u></a></li>
+</ul></div>
+

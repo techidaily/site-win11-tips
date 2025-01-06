@@ -1,7 +1,7 @@
 ---
 title: "Navigating PS1 Gaming: Duckstation’s Step-by-Step WIN Approach"
-date: 2024-12-21T22:34:57.885Z
-updated: 2024-12-27T19:58:57.379Z
+date: 2025-01-05T05:41:10.212Z
+updated: 2025-01-06T01:32:05.100Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ Duckstation's installation differs depending on the platform:
 2. Locate Duckstation's executable file within that folder. It should be similar to**duckstation-qt-x64-ReleaseLTCG.exe** .
 3. Right-click the file and, while holding down the right mouse button, drag and drop it to your desktop to create a shortcut. This eliminates the need to seek its executable whenever you want to play your favorite PlayStation game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Import Your Games Into Duckstation
 
  When you run the Duckstation executable, you'll see a plain and uninteresting window. And yet, this simple window will soon become your portal to your entire PlayStation library.
@@ -58,11 +54,11 @@ Duckstation's installation differs depending on the platform:
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
 2. Navigate to the**BIOS Directory** and select**Browse** . Point Duckstation to the folder containing your BIOS files.  
 
-![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
 
  After that, you're set and ready to begin gaming. Still, that also implies you have some games.
 
@@ -73,9 +69,17 @@ Duckstation's installation differs depending on the platform:
 2. On the top right, click the "plus" button. Select the folder containing your PlayStation games. In the bottom right corner of the window, click**Scan For New Games** . If you keep your games in folders within folders, answer positively when asked if you want to scan the selected folder recursively.  
 ![Duckstation Scan Recursively For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-scan-recursively-for-games.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Duckstation Set Up for PS1 Games
 
  Let's go over the most important options in Duckstation's**Settings** menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. General
 
@@ -83,13 +87,13 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Pause On Start** : will have games started in "paused" mode until you manually resume them.
 * **Start Fullscreen** : Have your games launch in fullscreen mode, similar to most "normal" Windows games, rather than as a floating window.
 * **Pause On Focus Loss** : will auto-pause a game when Duckstation's window "loses its focus". This way, enemies won't keep shooting at you while you're checking an incoming email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Console
 
@@ -97,14 +101,14 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings Console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-console.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Region** : For games that support multiple regions,**NTSC** usually has a higher framerate, whereas**PAL** has a slightly higher vertical resolution. Leave the setting to**auto-detect** to have Duckstation select the best option for each game.
 * **Execution Mode** :**Recompiler (Fastest)** is the fastest option, as the name implies. However, if a game glitches or the emulator crashes while attempting to run it, try one of the other values listed here.
 * **Enable Clock Speed Control (Overclocking/Underclocking):** If a demanding game runs painfully slowly, you can "overclock" the emulated PlayStation to improve performance.
 * **Async Readahead** ,**Read Speedup** , and**Seek Speedup** : boost the emulated PlayStation CD drive speed to make your games load faster.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Emulation
 
@@ -112,16 +116,12 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings Emulation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-emulation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **Emulation Speed** : Choose the "normal" NTSC/PAL setting with**100%** speed, or a different percentage to slow down or speed up Duckstation. Leave it at 100% for maximum compatibility.
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
 3. **Enable Rewinding** : By borrowing the core mechanic of the Prince of Persia games, "time rewinding," Duckstation can help you "undo" missteps in difficult-to-beat games. This is accomplished by continuously saving the emulator's state as you play, every Xth frame and for Y frames - the values you can tweak for that option. It is up to you to decide how Rewind should work by striking a balance between granularity and RAM requirements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Display
@@ -134,6 +134,10 @@ Duckstation's installation differs depending on the platform:
 2. **Aspect Ratio** : For purists,**Auto (Game Native)** is the best option because it does not introduce distortion. Other options allow you to have a game's graphics "cover" your entire monitor, but this usually results in "stretched" and more pixelated or blurry visuals.
 3. **On-Screen Display** : When troubleshooting a game or optimizing its settings, enable the options here to see how the emulator performs in real-time while running a title.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Enhancements
 
  This is the first set of options for improving the appearance of games.
@@ -145,15 +149,15 @@ Duckstation's installation differs depending on the platform:
 3. If you enable the**Widescreen Hack** option for 3D games where it doesn't introduce glitches, you may also want to enable **Force 4:3 for 24-Bit Displays (disable widescreen for FMVs)** .
 4. **PGXP** : All PGXP-related options can vastly improve a game's visuals by removing the "wobbly geometry" effect that is common in all PlayStation titles. It's worth trying them out, but they can and will break some games. And that's why you should configure them for each game separately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Post-Processing
 
  The second spot where you can improve the visuals of your games, Post-Processing, allows you to use "shaders" to give Duckstation's visual output a more authentic, "retro" look.
 
 ![Duckstation Settings Post Processing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-post-processing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
 
@@ -164,10 +168,6 @@ Duckstation's installation differs depending on the platform:
  Visit one of the two**Controller Ports** beneath to configure its button mappings. Choose your joypad, and if the emulator "doesn't respond" to any button presses, "remap" its buttons to the virtual PlayStation joypad.
 
  If you haven't got a joypad, don't fret: we've already covered[how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting Retro in the Modern Age With Duckstation for Windows
 
@@ -192,20 +192,22 @@ Duckstation's installation differs depending on the platform:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-start-making-movies-8-best-film-cameras-under-300/"><u>[New] Start Making Movies 8 Best Film Cameras Under $300</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>[Updated] 2024 Approved Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-influencers-roadmap-instagram-edition-for-2024/"><u>[Updated] The Influencer's Roadmap Instagram Edition for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-portable-power-solutions-a-must-have-charging-buddy-for-your-macbook-pro-s-expert-pick/"><u>Best Portable Power Solutions: A Must-Have Charging Buddy for Your MacBook Pro 'S Expert Pick</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-win11s-shop-error-code-x800704cf/"><u>Eliminating Win11's Shop Error Code X800704CF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essentials-of-windows-system-updates/"><u>Essentials of Windows' System Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-hard-drive-classification-on-windows/"><u>Guide to Hard Drive Classification on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-disallowed-windows-app/"><u>How to Unblock Disallowed Windows App</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-download-pace-in-utorrent-for-windows-users/"><u>Mastering File Download Pace in uTorrent, for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pcs-unwanted-sleeps-simple-fixes-revealed/"><u>Resolve Your PC's Unwanted Sleeps: Simple Fixes Revealed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sea-raiders-sayings-the-old-norse-language-story/"><u>Sea-Raiders' Sayings: The Old Norse Language Story</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-context-list-less-is-more/"><u>Tailoring Windows 11 Context List: Less Is More</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices/"><u>2024 Approved Easy Steps to Personalize Google Meet on Laptops & Mobile Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-learning-made-easy-utilizing-youtube-for-dynamic-classrooms/"><u>2024 Approved Learning Made Easy Utilizing YouTube for Dynamic Classrooms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-to-life-without-official-windows-xp-7-or-81-support/"><u>Adjusting to Life Without Official Windows XP, 7, or 8.1 Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-visual-settings-for-secure-web-experience-in-windows-11/"><u>Advanced Visual Settings for Secure Web Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-your-computers-storage-here-are-the-best-free-options/"><u>Amplify Your Computer's Storage - Here Are the Best Free Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/complete-guide-to-capture-slow-motion-videos-with-gopro-hero-10-for-2024/"><u>Complete Guide to Capture Slow Motion Videos with GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-linking-devices-a-nearby-share-walkthrough/"><u>Effortlessly Linking Devices: A Nearby Share Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-differences-chkdsk-sfc-and-windows-fixes/"><u>Exploring Differences: CHKDSK, SFC, and Windows' Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-animate-and-make-your-own-effects/"><u>In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximize-earnings-navigating-youtubes-partner-program-updates/"><u>In 2024, Maximize Earnings Navigating YouTube's Partner Program Updates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-apple-techniques-for-high-quality-interviews-on-air/"><u>In 2024, Step-by-Step Apple Techniques for High-Quality Interviews on Air</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-screencastifys-screen-capture-feature/"><u>Navigating Screencastify's Screen Capture Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/superior-windows-solutions-for-multimedia-tasks/"><u>Superior Windows Solutions for Multimedia Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-mp4-video-encoder-of-202n-a-comprehensive-guide/"><u>Top MP4 Video Encoder of 202N: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-high-contrast-setting-in-windows/"><u>Turn Off High Contrast Setting in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-hidden-potential-top-5-unused-chatgpt-functions/"><u>Unlock Hidden Potential: Top 5 Unused ChatGPT Functions</u></a></li>
 </ul></div>
 

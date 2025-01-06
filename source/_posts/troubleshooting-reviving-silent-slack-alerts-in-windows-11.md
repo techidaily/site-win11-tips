@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Reviving Silent Slack Alerts in Windows 11"
-date: 2024-12-20T21:28:11.465Z
-updated: 2024-12-27T19:09:31.391Z
+date: 2025-01-01T22:13:40.139Z
+updated: 2025-01-06T00:44:26.079Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
  Knowing all the possible culprits, let’s check out solutions that will help you troubleshoot this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
 ![Restart button in Shut Down Windows prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button.jpg)
@@ -48,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![Slack server status on it server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/slack-server-status.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like any online [messaging application for desktop](https://www.makeuseof.com/best-all-in-one-messaging-platforms/), Slack's servers can experience occasional downtime. This could stem from maintenance procedures or fixing server-related issues. Various Slack services, including its notification delivery function, might experience disruptions during these situations.
 
  Therefore, if Slack is not sending notifications, make sure to check the [Slack server status page](https://status.slack.com/). If it says there’s an issue, the server team will certainly fix it in due time, and there’s nothing much you can do.
 
  However, if the Slack servers are operational and you still encounter the problem, it's possible that the Windows Focus session feature is involved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Stop Focus Sessions on Windows
 
@@ -69,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 3. Click the **Stop** **focus** **session** button.  
 ![Stop focus session button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-focus-session-button.jpg)
 
- And that’s about it. Check if you now receive notifications on Slack.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ And that’s about it. Check if you now receive notifications on Slack.
 
 ## 4\. Disable Do Not Disturb Mode
 
@@ -92,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 3. Click the **Add** **ap** **ps** button and choose **Slack** from the list of installed apps that crops up.  
 ![Add apps button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-apps-button.jpg)
 
- That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
 
 ## 5\. Allow Slack to Send Notifications
 
@@ -106,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 2. Select **Slack** under the **Notification from apps and other senders** section.
 3. Enable the toggle underneath **Notifications**.  
 ![Notifications toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/notifications-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, Windows will show all the notifications from Slack in its notification center.
 
@@ -120,14 +128,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 2. Choose **Notifications** from the left sidebar and select **Direct messages, mentions &** **keywords**. You can choose **All new messages** if you want to get notified about the messages from all channels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
 
@@ -142,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
  Slack will now clear its cache data and restart automatically. Once it has restarted, check to see if Slack is sending notifications. If not, you may need to reset Slack's data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Slack App's Data
@@ -154,10 +158,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 1. Launch Slack, click the hamburger icon, hover the cursor to **Help > Troubleshooting**, and then click **Reset App Data**.
 2. Click **Yes** on the confirmation prompt.  
 ![Yes option to reset Slack data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, Slack will restart automatically, and you will have to sign in to your workspace again.
 
@@ -179,20 +179,20 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leverage-fb-for-extensive-reach-and-impact/"><u>[New] 2024 Approved Leverage FB for Extensive Reach and Impact</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-audacity-techniques-for-smooth-sound-blending/"><u>[New] Audacity Techniques for Smooth Sound Blending</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-crown-jewel-ios-recorders-for-phones-for-2024/"><u>[Updated] Crown Jewel iOS Recorders for Phones for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-digging-through-youtube-conversations/"><u>2024 Approved Digging Through YouTube Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-for-windows-unlaunched-lunar-client-errors/"><u>Fix Guide for Windows Unlaunched Lunar Client Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-unsuccessful-install-of-microsofts-pc-manager/"><u>Fix Unsuccessful Install of Microsoft's PC Manager</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-funimate-video-downloader-review/"><u>In 2024, Funimate Video Downloader Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-win11-networks-with-effective-dns-setup/"><u>Optimize Win11 Networks with Effective DNS Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-incompatibility-in-overwatch/"><u>Overcoming Graphics Incompatibility in Overwatch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocketing-start-the-ultimate-in-three-windows-steps/"><u>Skyrocketing Start: The Ultimate in Three Windows Steps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-virtual-meetings-in-google-mail-for-2024/"><u>Streamlining Virtual Meetings in Google Mail for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-ultimate-guide-to-efficiently-switching-from-mp4-to-vob-on-pcmac-and-via-the-web/"><u>The Ultimate Guide to Efficiently Switching From MP4 to VOB on PC/Mac and Via the Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-solving-non-sync-problems-in-to-do/"><u>Unraveling and Solving Non-Sync Problems in To Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-resource-utilization-explained/"><u>Windows Resource Utilization Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas-for-2024/"><u>[New] Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-macos-sierra-tools-for-optimized-video-transformation/"><u>[Updated] 2024 Approved Best macOS Sierra Tools for Optimized Video Transformation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-into-song-savvy-youtube-playlist-excellence/"><u>[Updated] 2024 Approved Step Into Song Savvy YouTube Playlist Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-alignments-pairing-sounds-and-visuals/"><u>2024 Approved Aural Alignments Pairing Sounds & Visuals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevated-viewing-larger-youtube-images-for-2024/"><u>Elevated Viewing Larger YouTube Images for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-zero-error-in-windows-sandbox-missing-hypervisor-solution/"><u>Fixing Zero Error in Windows Sandbox - Missing Hypervisor Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-identifying-devices-with-windows-tools/"><u>In-Depth Analysis: Identifying Devices with Windows Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-live-video-distributors-suite/"><u>Optimal Live Video Distributors' Suite</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-13t-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from 13T Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-addressing-windows-update-errors/"><u>Step-by-Step: Addressing Windows Update Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-taskbar-in-windows-11/"><u>Tailoring Your Taskbar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlink-others-login-on-win-11/"><u>Unlink Others' Login on Win 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-affordable-sound-quality-a-look-at-senso-buds/"><u>Unlocking Affordable Sound Quality: A Look at Senso Buds</u></a></li>
 </ul></div>
 

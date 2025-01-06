@@ -1,7 +1,7 @@
 ---
 title: "Mastering Sound Levels: Windows 11'S Volume Mixer Guide"
-date: 2024-12-20T23:05:12.452Z
-updated: 2024-12-27T16:36:52.737Z
+date: 2025-01-03T19:20:44.831Z
+updated: 2025-01-06T05:51:45.743Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Do You Need a Volume Mixer in Action Center?
 
  The present state of volume settings in Windows 11 is quite lackluster. You can only adjust the volume of the system and cycle between multiple audio devices. For opening any other settings, even something as trivial as a volume mixer: you need to dive deep into system sound settings.
@@ -37,14 +33,22 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
 ![Old Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/old-volume-settings-in-action-center.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, Microsoft is slowly identifying such missing features in Windows 11 and is adding an inbuilt solution for it. Recently,[Microsoft began testing an RGB lighting feature](https://www.makeuseof.com/enable-rgb-lighting-controls-windows-11/) that will eliminate the need for third-party customization apps. So, it is pretty clear that Microsoft wants to reduce the reliance on third-party apps for vital system features and tweaks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Volume Mixer in Windows 11's Action Center
 
  To enable the volume mixer in Windows 11, you will need to do the following:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Windows Insider Build and ViVeTool
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  Microsoft recently expanded the Insider program with a new Canary channel, and it makes it difficult to downgrade to another channel. So, you can use UPP Dump to avoid this program and get builds directly.
 
  You will also need to download[ViVeTool from GitHub](https://github.com/thebookisclosed/ViVe/releases) to enable the experimental volume mixer feature. It is a command-line tool that can both activate and deactivate experimental Windows features. However, extract the tool to an easily accessible location in the C drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable Volume Mixer in Windows Using ViVeTool
 
@@ -73,15 +73,16 @@ vivetool /enable /id:42106010
 7. You will see a “**Successfully set feature configuration(s)** ” message. Type the**exit** command and press the enter key to close the command prompt window.  
 ![Enabling New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-new-volume-settings-in-action-center.jpg)
 8. Restart your system to allow the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Log in and press**Win + A** to open Action Center. You will notice a new volume mixer icon next to the volume bar. Click on it to reveal the complete sound settings. Both the Spatial Audio and volume mixer will be present inside.  
 ![New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-volume-settings-in-action-center.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adjust Your Volume Like A Pro on Windows 11
@@ -103,19 +104,18 @@ vivetool /enable /id:42106010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-democracy-dive-top-5-political-gamified-experiences/"><u>[New] Democracy Dive Top 5 Political Gamified Experiences</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-snappy-and-straightforward-win11-screening/"><u>[Updated] 2024 Approved Snappy & Straightforward Win11 Screening</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>[Updated] From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-instantly-display-pics-on-platforms-with-this-guide/"><u>[Updated] Instantly Display Pics on Platforms with This Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-podcast-entrances-eye-catching-scripts/"><u>2024 Approved Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-surround-sound-haven-installing-atmos-on-windows-pc/"><u>Crafting a Surround-Sound Haven: Installing Atmos on Windows PC</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/get-your-photo-stream-syncing-again-top-remedies-for-windows-and-macos-users/"><u>Get Your Photo Stream Syncing Again! Top Remedies for Windows & macOS Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy Z Fold 5 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-window-11-taskbar-icon-separation/"><u>Master Window 11 Taskbar Icon Separation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-10-and-11-edge-browsing/"><u>Optimizing Windows 10 & 11 Edge Browsing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-fixed-mode-settings-in-windows-11/"><u>Overcoming Fixed Mode Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-system-support-assigning-shortcut-keys-to-w11-tools/"><u>Personalized System Support: Assigning Shortcut Keys to W11 Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-5-ways-to-rescue-from-win-rpc-errors/"><u>Swift Solutions: 5 Ways to Rescue From Win RPC Errors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-3-twitter-video-tools-for-easy-uploads/"><u>[New] 2024 Approved Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-converting-images-to-videos/"><u>[New] Best Practices in Converting Images to Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-gif-revolution-free-transformation-of-tweets-to-gifs/"><u>2024 Approved Gif Revolution Free Transformation of Tweets to GIFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-path-to-seamless-update-in-win11/"><u>Clearing Path to Seamless Update in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquered-redscreenofdeath-problem-a-comprehensive-solution-manual/"><u>Conquered REDSCREENOFDEATH Problem: A Comprehensive Solution Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-inadequate-screen-shots-in-windows-snip-and-sketch-app/"><u>Fixes for Inadequate Screen Shots in Windows’ Snip & Sketch App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-11-installation-rejection-issues/"><u>Guiding Through Windows 11 Installation Rejection Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fuse-sounds-with-slides-a-guide-to-mp3-integration/"><u>In 2024, Fuse Sounds with Slides A Guide to MP3 Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-windows-11-clean-enable-the-autodelete-functionality/"><u>Keep Windows 11 Clean: Enable the Autodelete Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-moving-windows-11-folders-with-tabs/"><u>Maximizing Efficiency: Moving Windows 11 Folders with Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrinth-a-guide-to-windows-11s-services/"><u>Navigating the Labyrinth: A Guide to Windows 11'S Services</u></a></li>
+<li><a href="https://facebook.techidaily.com/oculus-pricing-spikes-as-facebook-users-purchase-for-security/"><u>Oculus Pricing Spikes as Facebook Users Purchase for Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-memory-feature-disabled-in-win11/"><u>Troubleshooting Memory Feature Disabled in Win11</u></a></li>
 </ul></div>
 

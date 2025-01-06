@@ -1,7 +1,7 @@
 ---
 title: Ignite Your Gaming Experience with Faster Yuzu
-date: 2024-12-20T22:31:45.097Z
-updated: 2024-12-27T17:37:07.495Z
+date: 2024-12-31T18:56:45.346Z
+updated: 2025-01-05T18:32:20.923Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 5. Choose the **Desktop app** from the **Add an app** dropdown and click the **Browse** button.  
 ![Clicking on the Browse Button after Choosing Desktop App from the Add an App Dropdown Menu Under Graphics Tab in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Clicking-on-the-Browse-Button-after-Choosing-Desktop-App-from-the-Add-an-App-Dropdown-Menu-Under-Graphics-Tab-in-Windows-Settings-App.jpg)
 6. Go to the location where the Yuzu emulator's executable file resides, which is usually as follows:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:/Users/<your username>/AppData/Roaming/Microsoft/Windows/Start Menu/Programs`
 7. Once you select it, you'll see the emulator's executable file appear in your list of installed apps.
 8. Click on the **Yuzu** emulator in the list of installed apps and then click **Options**.  
@@ -54,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 9. Hit **Save** after switching the graphics preference to **High performance**.  
 ![Hitting the Save Button after Switching the Graphics Preferences for Yuzu Emulator to High in the Options Tab of Yuzu Emulator in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Hitting-the-Save-Button-after-Switching-the-Graphics-Preferences-for-Yuzu-Emulator-to-High-in-the-Options-Tab-of-Yuzu-Emulator-in-Windows-Settings-App.jpg)
 
- If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
 
 ## 4\. Reset Your Emulator's Settings to Their Defaults
 
@@ -68,14 +73,19 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 2. Go to the **Emulation** tab and select **Configure**.  
 ![Clicking on the Configure Option in the Dropdown of the Emulation Tab of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Configure-Option-in-the-Dropdown-of-the-Emulation-Tab-of-Yuzu-Emulator-App.jpg)
 3. Navigate to the **General** tab on the left.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the right pane, click **Reset All Settings**.  
 ![Clicking on the Reset All Settings Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-reset-all-settings-option-in-general-settings-of-yuzu-emulator-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have already customized the emulator's settings for your games, you can follow the below tips without resetting the settings. However, if possible, do so before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable VSync
 
@@ -90,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Disabling the VSync Mode in the Yuzu Emulator Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disabling-the-vsync-mode-in-the-yuzu-emulator-settings-on-windows.jpg)
 
  If disabling VSync further disrupts game performance, enable it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Switch Region
 
@@ -119,11 +125,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Increasing the Speed Limit by Clicking on the Limit Speed Percent Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/increasing-the-speed-limit-by-clicking-on-the-limit-speed-percent-option-in-general-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Change the Accuracy Level
@@ -139,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 5. From the **Accuracy Level** dropdown, choose **Normal**.  
 ![Changing the Accuracy Level to Normal in Yuzu Emulator Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/changing-the-accuracy-level-to-normal-in-yuzu-emulator-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Change Graphics API Settings
 
  There are two API settings available in Yuzu; OpenGL and Vulkan. While most games perform exceptionally well with Vulkan selected in the API settings and your dedicated graphics card set as the Device, some perform better with OpenGL. Hence, switch the API to see if it improves performance.
@@ -152,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Switching the API from the Dropdown in Graphics Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/switching-the-api-from-the-dropdown-in-graphics-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Disable Audio
@@ -167,11 +173,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Dragging the Volume Slider to Left after Selecting Null in the Dropdown Menus of Output Engine Input Device and Output Device Options in Audio Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/dragging-the-volume-slider-to-left-after-selecting-null-in-the-dropdown-menus-of-output-engine-input-device-and-output-device-options-in-audio-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Speed Up Yuzu Emulator on Windows
@@ -190,15 +192,18 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-what-is-anime-filter-on-snapchat-how-to-get-it/"><u>[New] 2024 Approved What Is Anime Filter On Snapchat? [How to Get It]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-choices-in-game-livestream-technology/"><u>[New] In 2024, Best Choices in Game Livestream Technology</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-premiere-experts-exceptional-instagram-highlight-craftsmen-for-2024/"><u>[New] Premiere Experts Exceptional Instagram Highlight Craftsmen for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[Updated] The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-edges-security-features-graphics-boost/"><u>Elevating Edges Security Features: Graphics Boost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-concept-to-creation-painting-ai-masterpieces-on-windows-11-paint-cocreator-edition/"><u>From Concept to Creation: Painting AI Masterpieces on Windows 11, Paint Cocreator Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-vivo-y36-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Vivo Y36?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-nord-n30-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Nord N30 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-data-management-on-windows-11/"><u>Mastering Data Management on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-dealing-with-non-terminatable-processes-on-pc/"><u>Tips for Dealing with Non-Terminatable Processes on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-6-free-youtube-endings-for-pros/"><u>[New] 2024 Approved Unlock 6 Free YouTube Endings for Pros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launching-educator-channels-10-key-tips-for-youtube-success/"><u>[Updated] Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-mold-reinventing-yourself-with-a-new-username-in-windows-11/"><u>Breaking the Mold: Reinventing Yourself with a New UserName in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-the-power-button-from-the-start-menu-on-windows-11-and-11/"><u>How to Hide the Power Button From the Start Menu on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-the-forgotten-windows-start-menu/"><u>How to Reactivate the Forgotten Windows Start Menu</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-going-premium-with-chatgpt-plus-worth-it/"><u>Is Going Premium with ChatGPT Plus Worth It ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-the-way-in-qr-decoding-with-your-windows-machine/"><u>Leading the Way in QR Decoding with Your Windows Machine</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/learn-to-fast-forward-faster-in-snapchat-simple-and-quick-for-2024/"><u>Learn to Fast-Forward Faster in Snapchat, Simple & Quick for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-the-power-of-combined-android-and-windows-11-displays/"><u>Leveraging the Power of Combined Android & Windows 11 Displays</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-grophic-strategies-may-include/"><u>Section Grophic Strategies May Include:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-microsoft-store-crash-code-error-0x80072efd/"><u>Swift Fixes for Microsoft Store Crash Code Error 0X80072EFD</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-web-compendium-alarm-rhythms-guidebook/"><u>Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
 </ul></div>
 

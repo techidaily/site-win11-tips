@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows' Erratic Net Behavior: 0X800704B3"
-date: 2024-12-26T19:29:32.806Z
-updated: 2024-12-27T19:49:28.256Z
+date: 2024-12-30T16:28:50.679Z
+updated: 2025-01-05T18:06:18.445Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Network Troubleshooter
@@ -43,12 +43,12 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-11-troubleshoot-other-troubleshooter.jpg)
 4. In the following window, look for the Network troubleshooter and click on the **Run** button for it. The troubleshooter will now start scanning the system for potential errors. If it finds anything, it will notify you.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 5. Once the scan completes, check the results. If the troubleshooter has suggested fixes, click on **Apply this fix**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
@@ -65,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Launch properties of DHCP client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/launch-properties.jpg)
 5. Click on the **Start** button for it if the service was not running already. If it was, click **Stop**, wait for a few seconds, and click **Start** again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Ensure the Startup type is set to **Automatic**.  
 ![Restart the DHCP service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-dhcp-service.jpg)
 7. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform the same steps for these services:
 
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 * WLAN AutoConfig (if using Wi-Fi)
 
  Once all the services are running, close the Services window and check if the problem has been resolved. While you are at it, you can also try to [update your network drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) as in some cases, outdated or corrupt drivers can prevent the system from establishing successful connections, leading to issues like the one at hand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable and Re-enable Network Adapter
 
@@ -100,15 +96,20 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Click on More network adapter options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/more-network-adapter-options.jpg)
 4. You should now see a list of available network adapters. Right-click on the one you are currently using and choose **Disable** from the context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable your adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-adapter.jpg)
 5. Wait for a few before right-clicking on it again and choosing **Enable**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Once done, close the Settings window and try to perform the action that was initially triggering the error.
 
  If the problem was being caused by issues with the adapter, this should fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable SMB 1.0 Protocol
 
@@ -160,18 +161,18 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-video-upgrade-with-enhancer-22-for-2024/"><u>[New] The Ultimate Video Upgrade with Enhancer 2.2 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[Updated] In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services-for-2024/"><u>[Updated] The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-rgb-led-with-windows-11/"><u>Customizing RGB LED with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-reinstating-logildadll/"><u>Fast-Track: Reinstating LogiLDA.dll</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/function-fn-mastery-for-smooth-windows-experience/"><u>Function (Fn) Mastery for Smooth Windows Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-irreversible-deletion-on-desktop-trash-interface/"><u>Implementing Irreversible Deletion on Desktop Trash Interface</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-change-key-windows-11-explore-updates/"><u>Navigating Through Change: Key Windows 11 Explore Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silent-screamer-troubleshoot-and-use-your-microphone-in-google-meet/"><u>Silent Screamer? Troubleshoot and Use Your Microphone in Google Meet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-quick-guide-to-effective-personal-discovery-on-facebook-with-6-handy-hacks/"><u>The Quick Guide to Effective Personal Discovery on Facebook with 6 Handy Hacks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-m6-pro-4g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco M6 Pro 4G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-investing-in-quality-the-path-to-top-tier-fb-video-ads-for-2024/"><u>[New] Investing in Quality The Path to Top-Tier FB Video Ads for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-day-to-day-streams-key-dos-and-donts-for-2024/"><u>[New] Navigating Day-to-Day Streams Key Do's & Don'ts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ios-device-integration-with-android-images/"><u>[Updated] IOS Device Integration with Android Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-live-video-glitches-on-facebook-how-to-remove-mutes-completinasly/"><u>2024 Approved Live Video Glitches on Facebook - How to Remove Mutes Completinasly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-prime-asmr-apps-android-and-ios-guide/"><u>2024 Approved Prime ASMR Apps Android & iOS Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>In 2024, Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
 </ul></div>
 

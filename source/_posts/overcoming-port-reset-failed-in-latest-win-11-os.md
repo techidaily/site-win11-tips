@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Port Reset Failed' In Latest Win 11 OS
-date: 2024-12-26T17:12:18.081Z
-updated: 2024-12-27T16:26:15.990Z
+date: 2025-01-03T08:39:32.232Z
+updated: 2025-01-05T18:32:52.768Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Look for Hardware Changes
 
  The Device Manager comes with a Scan for hardware changes option, which you can use whenever a connected USB device is not responding or throwing an error message. You can use this option by following the below instructions:
@@ -53,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
- That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
@@ -89,10 +93,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Next, restart your computer and check for the problem.
 
 ## 5\. Download the Latest Driver Update
@@ -104,6 +104,10 @@ Next, restart your computer and check for the problem.
 3. Right-click on the problematic device, and choose**Update driver** from the context menu.  
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
@@ -128,11 +132,11 @@ Next, restart your computer and check for the problem.
 5. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
@@ -140,10 +144,6 @@ Next, restart your computer and check for the problem.
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -166,19 +166,21 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-instant-replay-efficient-methods-for-downloading-lives/"><u>[New] 2024 Approved Instant Replay Efficient Methods for Downloading Lives</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-uncovering-the-truth-behind-4-second-youtube-subscriptions/"><u>[Updated] In 2024, Uncovering the Truth Behind 4-Second YouTube Subscriptions</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>2024 Approved Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-immersive-tech-firms/"><u>In 2024, Pioneering Immersive Tech Firms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/library-installation/"><u>Library Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-windows-memory-overcoming-common-roadblocks/"><u>Maximize Windows Memory: Overcoming Common Roadblocks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-world-of-sound-effects-in-youtube-videos-for-2024/"><u>Navigating the World of Sound Effects in YouTube Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-vivo-y36i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y36i? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-access-to-credentials-in-windows-11-a-guide-to-opening-your-vault-fast/"><u>Quick Access to Credentials in Windows 11: A Guide to Opening Your Vault Fast</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/solving-the-mystery-how-to-fix-a-printer-that-only-produces-blank-sheets-tips-from-yl-computing/"><u>Solving the Mystery: How To Fix a Printer That Only Produces Blank Sheets - Tips From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-windows-11-users-guide-to-high-dynamic-range-visuals/"><u>The Complete Windows 11 User's Guide to High Dynamic Range Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-accessing-windows-preferences/"><u>The Ultimate List: Accessing Windows Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-top-tier-classic-gaming-in-hd-clarity-windows-plus-scummvm-techniques/"><u>Tips for Top-Tier Classic Gaming in HD Clarity: Windows + ScummVM Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-brief-history-of-virtual-reality/"><u>[Updated] 2024 Approved A Brief History of Virtual Reality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mistakes-to-sidestep-on-your-first-day-with-windows-11/"><u>Crucial Mistakes to Sidestep on Your First Day with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-a-broken-google-hangouts-mic-easy-troubleshooting-techniques/"><u>Immediate Fixes for a Broken Google Hangouts Mic - Easy Troubleshooting Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-to-windows-shared-drives/"><u>Navigating Android to Windows Shared Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-methods-to-address-windows-activation-failure-code-0x803f700f/"><u>Precise Methods to Address Windows Activation Failure Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-invisible-displays-when-gaming-on-win-os/"><u>Preventing Invisible Displays When Gaming on Win OS</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/recovering-your-files-with-windows-update-kb4n3057-a-step-by-step-guide/"><u>Recovering Your Files with Windows Update KB4n3057: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-instant-addition-problems-with-windows-onedrive-a-compreenhensive-guide/"><u>Resolving Instant Addition Problems with Windows OneDrive - A Compreenhensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethink-your-wellness-strategy-with-chatgpts-expert-guidance-reasons-to-switch-today/"><u>Rethink Your Wellness Strategy with ChatGPT's Expert Guidance – Reasons to Switch Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synchronizing-audio-with-video-on-handbrake-troubleshooting-guide/"><u>Synchronizing Audio with Video on HandBrake - Troubleshooting Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-tips-for-recovering-irrecoverable-iphone-photographs-effectively-and-reliably/"><u>Ultimate Tips for Recovering Irrecoverable iPhone Photographs Effectively and Reliably</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-to-stop-all-future-windows-11-update-installations/"><u>Ultimate Trick to Stop All Future Windows 11 Update Installations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-your-audio-potential-pazeras-free-tool-review/"><u>Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
 </ul></div>
 

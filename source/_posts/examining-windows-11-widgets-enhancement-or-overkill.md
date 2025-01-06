@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2024-12-20T18:20:08.656Z
-updated: 2024-12-27T17:55:09.853Z
+date: 2025-01-01T10:51:29.088Z
+updated: 2025-01-06T02:25:00.097Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Widgets on Windows 11?
 
  In Windows 11, we were treated to a dedicated Widgets panel displaying multiple cards, each featuring real-time data to reflect your interests. Thanks to the handy widget board, you can easily [personalize cards or widgets](https://www.makeuseof.com/windows-11-how-to-use-widgets/) according to what you want to see.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
@@ -96,22 +96,18 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveil-windows-xp-professional-for-video-production/"><u>[New] 2024 Approved Unveil Windows XP Professional for Video Production</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1726219763765-mp3-movavi/"><u>完璧にMP3をカットする - Movavi ユーザーマニュアル</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-vision-pros-brilliance-revealed-a-deep-dive-into-its-ten-surprising-features-insights-by-zdnet/"><u>Apple Vision Pro's Brilliance Revealed: A Deep Dive Into Its Ten Surprising Features | Insights by ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-razr-40-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Razr 40 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-how-to-fix-frequent-game-crashes/"><u>Chivalry II Troubleshooting: How to Fix Frequent Game Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacks-make-excel-readable-in-windows-notepad/"><u>Hacks: Make Excel Readable in Windows Notepad</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ideal-chatgpt-questions-for-authentic-character-building/"><u>Ideal ChatGPT Questions for Authentic Character Building</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-trailer-building-software-for-the-web/"><u>In 2024, Best Trailer Building Software for the Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-your-pcs-heart-generating-and-examining-system-insights/"><u>Inside Your PC's Heart: Generating & Examining System Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-to-windows-11s-time-stamped-repository/"><u>Key to Windows 11'S Time-Stamped Repository</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberate-your-digital-conversations-win-style/"><u>Liberate Your Digital Conversations, WIN-Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-inadvertent-windows-store-activation/"><u>Remedy for Inadvertent Windows Store Activation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-for-enabling-windows-assistants-using-vivetool/"><u>Step-by-Step for Enabling Windows Assistants Using ViveTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-prolong-windows-11-shutdown-during-active-tasks/"><u>Strategies to Prolong Windows 11 Shutdown During Active Tasks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-tools-for-capturing-moments-with-harmony/"><u>Superior Tools for Capturing Moments with Harmony</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-wacom-intuos-graphics-tablet-fast-and-simple-setup-process/"><u>Update Your Wacom Intuos Graphics Tablet - Fast & Simple Setup Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-moment-update-paves-the-way-for-next-level-experience/"><u>Windows 11: Moment Update Paves the Way for Next-Level Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhancing-meeting-clarity-with-ms-teams-focus/"><u>[New] Enhancing Meeting Clarity with MS Teams Focus</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-glide-3-duel-illusionist-4-emerges-for-2024/"><u>[New] Glide 3 Duel Illusionist 4 Emerges for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-charting-your-course-in-the-world-of-youtube-tracking-success-and-monetary-value/"><u>[Updated] Charting Your Course in the World of YouTube Tracking Success & Monetary Value</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/direct-link-method-transferring-images-and-videos-on-ios/"><u>Direct Link Method Transferring Images & Videos on IOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-windows-11-account-settings-center/"><u>Finding Windows 11 Account Settings Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-thrive-in-free-championship-football-simulator/"><u>How to Thrive in Free Championship Football Simulator</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-7-steps-to-mend-obs-server-link-error-in-windows/"><u>Navigating 7 Steps to Mend OBS Server Link Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-on-or-off-windows-digital-protection-filter/"><u>Switching on or Off Windows' Digital Protection Filter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-7-hd-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 7 HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-win-microphone-functionality/"><u>Troubleshoot Win Microphone Functionality</u></a></li>
 </ul></div>
 

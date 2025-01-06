@@ -1,7 +1,7 @@
 ---
 title: Top Memory-Efficient Web Browsers Under 56 Characters
-date: 2024-12-21T21:38:03.500Z
-updated: 2024-12-27T20:23:23.349Z
+date: 2024-12-29T17:48:53.629Z
+updated: 2025-01-05T22:53:26.281Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -60,15 +56,15 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
 
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Browser Consumes the Least RAM and CPU on macOS?
@@ -108,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What About Using Less Popular Browsers?
@@ -118,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
  Browsers such as Brave, DuckDuckGo, and Vivaldi consume a minimum number of resources yet offer nearly the same features as mainstream browsers. Thus, you can use a less popular browser if you find it less resource-intensive.
 
  But how can you test which browser consumes the least resources, aside from those we have already tested?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Test Other Browsers' Resource Consumption Yourself
 
@@ -133,6 +125,14 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 4. Observe how many resources your browser consumes in the monitoring app.  
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the Most Efficient Browser
 
@@ -152,20 +152,24 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/activatingdeactivating-picture-in-picture-feature-for-2024/"><u>Activating/Deactivating Picture-in-Picture Feature for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-clear-explanations-for-beginners/"><u>Demystifying AI: Clear Explanations for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-the-secrets-of-god-mode-in-windows-11/"><u>Discovering the Secrets of God Mode in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dismantling-windows-11-security-features-with-rufus-mastery/"><u>Dismantling Windows 11 Security Features with Rufus Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/fantasy-forays-a-decades-best-games-for-2024/"><u>Fantasy Forays A Decade’s Best Games for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphones-auto-brightness-back-to-normal-with-our-top-er-7-advice/"><u>Get Your iPhone's Auto-Brightness Back to Normal with Our Top Er 7 Advice</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-immerse-yourself-in-a-shared-tiktok-journey/"><u>In 2024, Immerse Yourself in a Shared TikTok Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-steam-content-servers-on-desktop-oses/"><u>Overcoming Unreachable Steam Content Servers on Desktop OSes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210260738-skyrim-stuck-on-loading-forever-heres-how-you-can-break-free/"><u>Skyrim Stuck on Loading Forever? Here’s How You Can Break Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-address-interruptexception-in-windows-os-crash/"><u>Solutions to Address INTERRUPT_EXCEPTION in Windows OS Crash</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-server-stumbled-problem-on-windows-store/"><u>Troubleshooting the Server Stumbled Problem on Windows Store</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-top-five-failsafe-methods-to-stop-your-ipad-from-constant-rebooting/"><u>Ultimate Guide: Top Five Failsafe Methods to Stop Your iPad From Constant Rebooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-mystery-of-your-missing-windows-patch-key/"><u>Uncover the Mystery of Your Missing Windows Patch Key</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-7-hd-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 7 HD Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-assembling-visual-slices-photo-montage-techniques-for-2024/"><u>[New] Assembling Visual Slices Photo Montage Techniques for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>[Updated] 2024 Approved Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-settings-fast-entry-pathways-on-windows/"><u>Control Settings: Fast Entry Pathways on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-navigation-top-7-windows-based-browsers-with-low-ram/"><u>Efficient Window Navigation: Top 7 Windows-Based Browsers with Low RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-web-safety-windows-11-controls-overview/"><u>Enhancing Web Safety: Windows 11 Controls Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-zoom-clarity-in-teams-for-2024/"><u>Expert Tips for Zoom Clarity in Teams for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonizing-chapters-the-secrets-to-seamless-inshot-edits/"><u>Harmonizing Chapters The Secrets to Seamless Inshot Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-windows-breaking-point-failure/"><u>How to Address the Windows Breaking Point Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-11-safety-filters-easily/"><u>How to Adjust Windows 11 Safety Filters Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y17s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y17s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-plain-out-windows-edges/"><u>How to Plain Out Windows Edges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-performance-of-dragon-age-origins-after-fixing-compatibility-with-windows-11/"><u>Improved Performance of Dragon Age: Origins After Fixing Compatibility with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-steps-for-google-play-on-win11/"><u>Installation Steps for Google Play on Win11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality/"><u>New Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-backward-text-display-errors-on-pcs/"><u>Preventing Backward Text Display Errors on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-application-guard-for-printers-in-edge/"><u>Setting Up Application Guard for Printers in Edge</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/start-your-music-journey-with-a-7-day-free-trial-of-party-tyme-karaoke-in-dex3-experience-the-ultimate-dj-subscription/"><u>Start Your Music Journey with a 7-Day Free Trial of Party Tyme Karaoke in DEX3 - Experience the Ultimate DJ Subscription</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-flipping-display-layouts/"><u>Techniques for Flipping Display Layouts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpt-plus-in-mastering-foreign-tongues/"><u>The Role of ChatGPT Plus in Mastering Foreign Tongues</u></a></li>
 </ul></div>
 

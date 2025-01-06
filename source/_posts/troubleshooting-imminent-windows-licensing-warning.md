@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Imminent Windows Licensing Warning
-date: 2024-08-08T11:10:52.391Z
-updated: 2024-08-09T11:10:52.391Z
+date: 2024-12-31T09:21:59.980Z
+updated: 2025-01-05T17:02:05.227Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  In the following sections, we will discuss the common causes behind this error and provide potential solutions to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does the “Your Windows License Will Expire Soon” Error Appear?
 
  The "Your Windows license will expire soon" error message can occur due to several factors, and here are the most prevalent ones:
@@ -31,10 +28,11 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 * **Hardware changes:** Performing hardware changes, such as replacing the motherboard in your system, can also lead to activation errors on Windows.
 * **Connectivity issues:** Your computer might fail to connect to the Key Management Service (KMS) server due to network-related issues, resulting in activation errors.
 * **Corrupt Activation Token files:** The **Tokens.dat** file contains the activation information for your Windows installation. If this file becomes inaccessible for some reason, you may encounter the “Your Windows license will expire soon” error on Windows.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Your Windows License Will Expire Soon Error on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/your-windows-license-will-expire-soon-error-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you are aware of the common causes of this error, let's now focus on the potential solutions to resolve it.
 
@@ -46,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 * **Run the SFC Scan:** It’s possible that Microsoft is having trouble authenticating your Windows license due to corrupt or damaged system files. To repair these files, you can try [running the System File Checker (SFC) scan on your PC](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 * **Scan for Malware:** Another potential factor contributing to Windows activation issues is malware infection. To address this, you can try [scanning your PC for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Microsoft Defender.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the Activation Troubleshooter
 
  Both Windows 10 and 11 offer various troubleshooters for addressing common system issues. In this case, you can take help from the Windows Activation troubleshooter to fix any issues that may have caused the “Your Windows license will expire soon” error on your PC.
@@ -71,13 +66,15 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 3. Note down the **OEM key** in the **Home** tab.  
 ![ShowKeyPlus App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/showkeyplus-app-on-windows.jpg)
 4. Press **Win + I** to open the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **System** tab, click on **Activation**.
 6. Click the **Change** button next to **Change product key**.
 7. Enter the **OEM key** noted earlier and click **Next**.
 8. Click the **Activate** button to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Update Product Key on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-product-key-on-windows.jpg)
 
 ## 4\. Activate Windows Using Command Prompt
@@ -90,11 +87,12 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 4. Type **slmgr /ato** in the console and press Enter.  
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Rebuild the Tokens.dat File
 
  Tokens.dat is a system file related to Windows activation and licensing. If this file somehow gets corrupted, Windows may have trouble verifying the authenticity of your license and trouble you with the “Your Windows license will expire soon” error.
@@ -112,6 +110,10 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  Restart your computer after running the above commands and then check if you still get the “Your Windows license will expire soon” error on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reset the Licensing Status
 
  In case your Windows license is not genuine, there's a workaround to dismiss the “Your Windows license will expire soon” message. This workaround involves resetting the activation period and [hiding the Activate Windows watermark](https://www.makeuseof.com/tag/remove-activate-windows-10-watermark/) via Command Prompt. Here are the steps you can follow.
@@ -119,16 +121,14 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 1. [Open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 2. Type **slmgr /rearm** in the console and press **Enter**.
 3. Restart your PC after running the command.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Reset the Activation Timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-activation-timer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
 
  Since Microsoft limits access to various personalization and security features on systems with inactivated Windows licenses, it’s vital to troubleshoot errors like the “Your Windows license will expire soon”. One of the above fixes should help you resolve the error message on your Windows computer. However, if nothing works, you can consider reaching out to Microsoft tech support as a last resort.
@@ -137,11 +137,31 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  In the following sections, we will discuss the common causes behind this error and provide potential solutions to fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits-for-2024/"><u>[New] Perfecting TikTok Videos Efficient Techniques for Numerical Edits for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-add-music-to-imovie-from-youtube-in-2024/"><u>[Updated] How to Add Music to iMovie From YouTube, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/novice-to-expert-setting-up-a-sports-channel-on-mac-for-2024/"><u>From Novice to Expert Setting up a Sports Channel on Mac for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restart-win11s-dns-service-swiftly/"><u>How to Restart Win11's DNS Service Swiftly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-1018-driver-download/"><u>HP LaserJet 1018 Driver Download</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x7b-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X7b Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-keep-your-windows-clutter-free-naturally/"><u>Learn to Keep Your Windows Clutter-Free Naturally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-store-installation-challenges/"><u>Mastering Windows Store Installation Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-terrain-mastering-classic-diablo/"><u>Navigating the Terrain: Mastering Classic Diablo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-disk-simplify-life-on-windows-pcs/"><u>Optimize Your Disk, Simplify Life on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-viewing-syncing-prime-and-windows-11-for-textual-perfection/"><u>Seamless Viewing: Syncing Prime and Windows 11 for Textual Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-security-with-custom-lock-patterns-on-windows-11/"><u>Steps to Enhance Security with Custom Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-strategy-pairing-airpods-with-windows-pcs/"><u>Stepwise Strategy: Pairing AirPods with Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-voice-tracker-for-ipad-users-for-2024/"><u>The Ultimate Voice Tracker for iPad Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-realme-gt-5-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Realme GT 5.</u></a></li>
+</ul></div>
+

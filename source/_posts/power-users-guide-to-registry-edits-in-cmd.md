@@ -1,7 +1,7 @@
 ---
 title: Power Users' Guide to Registry Edits in CMD
-date: 2024-12-22T21:34:28.222Z
-updated: 2024-12-27T19:58:25.103Z
+date: 2024-12-31T01:49:09.330Z
+updated: 2025-01-06T12:02:45.573Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to View the List of Registry Commands in Command Prompt
 
 ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  Command Prompt will then list the commands, such as **reg add**, **reg delete**, **reg copy**, and **reg save**.
 
 ![the list reg commands in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-list-reg-commands-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to see more information about them, just add the **/?** switch at the end of the command. For, example, if you want to find out what the **reg add** command does, you'd enter the below command:
 
@@ -102,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  After running the above command successfully, the value should disappear from the Registry Editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Copy Registry Entries From One Key to Another
@@ -118,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  Unfortunately, there's no way to copy specific values from one key to another. You'll have to use the Registry Editor for that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Import Registry Entries
@@ -126,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
@@ -138,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -162,12 +158,16 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore Registry Entries
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -193,21 +193,24 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-constructing-an-intriguing-trailer-blueprint/"><u>[New] In 2024, Constructing an Intriguing Trailer Blueprint</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-speech-impact-accessibility-to-free-voice-modification-software/"><u>[New] In 2024, Elevate Speech Impact Accessibility to Free Voice Modification Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-animated-artistry-on-instagram-caption-creativity/"><u>[Updated] Animated Artistry on Instagram Caption Creativity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-combining-youtube-videos-for-seamless-playback/"><u>[Updated] Combining YouTube Videos for Seamless Playback</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-picpartition-testimonials/"><u>[Updated] In 2024, PicPartition Testimonials</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728497469979-and/"><u>新しいマシンへのシステムブートアップ&復元方法 - 簡単ガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-typing-experience-the-win-enter-key-fix/"><u>Enhancing Typing Experience: The Win Enter Key Fix</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-x50iplus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor X50i+ to Another | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-memory-overuse-in-windows-via-edges-webview2/"><u>Minimizing Memory Overuse in Windows via Edge's WebView2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-your-way-through-windows-hellos-fingerprint-frustration/"><u>Resetting Your Way Through Windows Hello's Fingerprint Frustration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-disk-read-failure-in-windows-os/"><u>Resolving 'Disk Read Failure' In Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-iomap64sys-blue-screen-errors-on-windows-os/"><u>Solving IOMap64.sys Blue Screen Errors on Windows OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-smoother-gaming-experience-on-naraka-platform/"><u>Step-by-Step Solutions for Smoother Gaming Experience on Naraka Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-gain-trustee-access-from-trustedinstaller-file-modification-guidance/"><u>Steps to Gain Trustee Access From TrustedInstaller: File Modification Guidance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-maintaining-vscode-on-windows-11/"><u>Strategies for Maintaining VSCode on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-conversion-software-roundup-for-win-users/"><u>Top Conversion Software Roundup for Win Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-seamless-integration-gopro-hacks-for-360-degree-cinematography/"><u>[New] 2024 Approved Seamless Integration GoPro Hacks for 360-Degree Cinematography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch/"><u>[New] 2024 Approved Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-streamline-your-gametime-with-9-platforms/"><u>[New] 2024 Approved Streamline Your Gametime with #9 Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets/"><u>[New] In 2024, A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-unique-methods-for-playing-on-your-ps5-console/"><u>6 Unique Methods for Playing on Your PS5 Console</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-ultra-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Galaxy S23 Ultra support MOV videos ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-classic-psp-gaming-on-ios-devices/"><u>Effortless Classic PSP Gaming on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-fix-zero-error-due-to-missing-hypervisor/"><u>Methods to Fix Zero Error Due to Missing Hypervisor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-ps1-gaming-duckstations-step-by-step-win-approach/"><u>Navigating PS1 Gaming: Duckstation’s Step-by-Step WIN Approach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-video-uploads-on-youtube-a-comprehensive-tutorial-for-2024/"><u>Navigating Video Uploads on YouTube A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-climates-on-windows-11-superior-apps-guide/"><u>Precise Climates on Windows 11: Superior Apps Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-defender-error-code-0x80004004/"><u>Quick FIX for Defender Error Code 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remote-repair-techniques-for-non-responsive-pc-links/"><u>Remote Repair Techniques for Non-Responsive PC Links</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reviving-your-computer-three-effective-methods-for-performing-a-system-recovery-using-windows-1011-backups/"><u>Reviving Your Computer: Three Effective Methods for Performing a System Recovery Using Windows 10/11 Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-hidden-search-bar-dilemma-in-windows-11/"><u>Solving the Hidden Search Bar Dilemma in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timeless-tech-treatment-reviving-oldschool-gaming/"><u>Timeless Tech Treatment: Reviving Oldschool Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-license-expiry-warning-in-windows-1011/"><u>Troubleshooting Windows License Expiry Warning in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-wordpad-windows-access-guide/"><u>Unlocking WordPad: Windows Access Guide</u></a></li>
 </ul></div>
 

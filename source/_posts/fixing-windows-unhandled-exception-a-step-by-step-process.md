@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 'Unhandled Exception': A Step-by-Step Process"
-date: 2024-08-16T02:33:18.257Z
-updated: 2024-08-17T02:33:18.257Z
+date: 2025-01-04T18:28:44.510Z
+updated: 2025-01-05T16:46:57.520Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  So let's explore the fixes you can try to quickly resolve this error and get back to working smoothly again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Install the Latest Windows Updates
 
  You would be aware that Microsoft regularly releases updates for the Windows OS. It's important to[keep your Windows PC updated and running the latest version](https://www.makeuseof.com/windows-update-new-version-releases-reasons/) to continue enjoying a hassle-free computing experience.
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  These updates not only enable you to experience new features but are also essential as they fix bugs and vulnerabilities to keep your Windows experience safe and secure.
 
  To ensure that, check out the ways how you can[install Windows updates on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-updates/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malware Using Microsoft Defender or Your Antivirus
 
@@ -63,12 +64,14 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 2. In the License window that opens, tick the**I have read and accept the license terms** checkbox. Then click**Next** .  
 ![.NET Framework Repair Tool License Terms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-tool-license-terms.jpg)
 3. The tool will start**Detecting issues** and then a window with**Recommended Changes** will open up. Review the recommended changes and click**Next** to apply them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Recommended Changes by .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes.jpg)
 4. Once the changes are made, the**Changes complete** window will appear. Click on**Finish** .  
 ![Changes Complete Window of .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes-complete.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Now, restart your computer.
 
 ## 4\. Enable the .NET Framework
@@ -80,28 +83,30 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 2. In the Windows Features window, you'll see the**.NET Framework 3.5** and**.NET Framework 4.8** **Advanced Services** . If the box next to .NET Framework 3.5 is not filled, click in the checkbox to fill it and then click**OK** .  
 ![Enable. NET Framework 3.5 in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-net-framework-1.jpg)
 3. The next window might alert you that **Windows needs some files from Windows Updates to finish installing some features** . Select the option**Let Windows Update download the files for you** .  
-![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
-![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
+4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use System File Checker on Windows
 
  Since corrupted files can also cause the "unhandled exception has occurred in your application" error, you can try running the System File Checker or SFC scan. You can easily learn how to do that in our guide on[how to run the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
  Be patient as the SFC scan will take a few minutes. If the unhandled exception error was caused by corrupt files, you will see that the SFC would have scanned and fixed it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Clear Your Windows System of the "Unhandled Exception Has Occurred in Your Application" Error
 
  The "Unhandled exception error has occurred in your application" can interrupt the smooth flow of your work on Windows. Using the above methods, you'll be able to fix this error and its annoying pop-ups.
@@ -112,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,21 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-beginners-tutorial-composing-youtube-video-content/"><u>[New] Beginner's Tutorial Composing YouTube Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-maximizing-communication-clarity-with-professional-skype-recordings/"><u>[Updated] 2024 Approved Maximizing Communication Clarity with Professional Skype Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-altering-gender-display-in-digital-photographs-step-by-step-guide-for-2024/"><u>[Updated] Altering Gender Display in Digital Photographs Step by Step Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-epson-wf-2630-printer-drivers-for-windows-7-81-and-10-get-your-printing-started/"><u>Download the Epson WF-2630 Printer Drivers for Windows 7, 8.1 & 10 - Get Your Printing Started!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C:</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-smart-living-space-discover-how-samsungs-new-smartthings-station-transforms-home-connectivity/"><u>Enhancing Your Smart Living Space: Discover How Samsung's New SmartThings Station Transforms Home Connectivity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-wheres-the-community-twitch-and-youtube-side-by-side/"><u>In 2024, Where's the Community? Twitch & YouTube Side by Side</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-adopting-apple-maps-in-windows/"><u>Navigating with Ease: Adopting Apple Maps in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-accountancy-revival-guide/"><u>Orbital Accountancy Revival Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-downloading-and-creating-windows-7-iso-image/"><u>Step-by-Step Guide: Downloading & Creating Windows 7 ISO Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-capability-of-windows-11-with-easy-widget-additions/"><u>Unlock the Full Capability of Windows 11 With Easy Widget Additions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-secrets-to-building-utopian-metropolises-with-cities-skylines-reviewed/"><u>Unlock the Secrets to Building Utopian Metropolises with Cities: Skylines Reviewed!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-seamless-play-easy-drive-selection-in-xbox-app/"><u>Unlocking Seamless Play: Easy Drive Selection in Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tactics-boosting-valorant-download-speed-quickly/"><u>Winning Tactics: Boosting Valorant Download Speed Quickly</u></a></li>
+</ul></div>
 

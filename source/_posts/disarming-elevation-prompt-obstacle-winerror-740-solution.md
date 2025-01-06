@@ -1,7 +1,7 @@
 ---
 title: "Disarming Elevation Prompt Obstacle: WinError 740 Solution"
-date: 2024-12-25T21:22:20.806Z
-updated: 2024-12-27T18:28:07.352Z
+date: 2025-01-05T05:18:12.079Z
+updated: 2025-01-05T19:31:26.868Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Affected Programs With Admin Rights
 
  The error 740 message mentions the need for operation elevation. That’s a hint to try running affected programs with elevated (administrator) rights. Check out this guide on [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to set affected EXE files to run with elevated rights.
@@ -36,11 +32,7 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
@@ -53,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -79,12 +71,12 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -102,6 +94,11 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
@@ -115,6 +112,11 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 3. Click the **Disabled** radio button if this policy is enabled.  
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To close the policy window, select the **OK** option.
 
 ## 7\. Disable Third-Party Antivirus Software Packages
@@ -127,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Migrate to a New Admin User Account
 
  If the “requested operation requires elevation” error persists after trying other resolutions, your user account might be corrupted. Then you might need to create and utilize a new admin account to resolve this issue. You can migrate to that account by copying files from your old user account into the new one.
 
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
@@ -159,21 +161,21 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] In 2024, Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-harness-the-sun-and-bulbs-for-stellar-iphone-photos-for-2024/"><u>[Updated] Harness the Sun and Bulbs for Stellar Iphone Photos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>[Updated] In 2024, Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://article-files.techidaily.com/comprehensive-setup-steps-for-wm6-for-2024/"><u>Comprehensive Setup Steps for WM6 for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-note-30i-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Note 30i FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-docker-performance-within-wsl-2-environment/"><u>Elevating Docker Performance Within WSL 2 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-xc0f1103f-on-geforce-nowwindows-11-duo/"><u>Fixing Error Xc0f1103f on GeForce Now/Windows 11 Duo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-save-uac-prompts-in-windows/"><u>Innovative Ways to Save UAC Prompts in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-merge-windows-embraces-kali-linux/"><u>Masterful Merge: Windows Embraces Kali Linux</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-stuck-lock-screen-timer-in-windows-1011/"><u>Solving Stuck Lock Screen Timer in Windows 10/11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/speed-in-seizing-picture-plus-pitch/"><u>Speed in Seizing Picture + Pitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-window-apps-with-easy-internet-troubleshooting-steps/"><u>Streamline Window Apps with Easy Internet Troubleshooting Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-note-30-vip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Note 30 VIP to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-s23-tactical-edition-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy S23 Tactical Edition to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-benefits-for-studying-german-a-compelling-list/"><u>Top Benefits for Studying German - A Compelling List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-errors-fixing-no-server-in-apex-legends-(156-chars/"><u>Winning Over Errors: Fixing No Server in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/21-edition-synopsis-unraveling-the-future-of-online-betting-with-vegas-pro/"><u>'21 Edition Synopsis – Unraveling the Future of Online Betting with Vegas Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-top-6-innovators-in-digital-art-space/"><u>[New] Masterpiece Makers Top 6 Innovators in Digital Art Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-avoiding-unwanted-accounts-on-insta/"><u>[Updated] 2024 Approved Avoiding Unwanted Accounts on Insta</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ensuring-authenticity-of-your-youtube-account/"><u>Ensuring Authenticity of Your YouTube Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-vm-setups-perfect-with-windows-11-laptopsdesktops/"><u>Essential VM Setups Perfect with Windows 11 Laptops/Desktops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-and-price-points-of-the-winegard-fl5500a-flatwave-antenna-a-comprehensive-review/"><u>Exploring the Features & Price Points of the Winegard FL5500A FlatWave Antenna: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-teams-crashing-on-windows-11-and-10/"><u>How to Fix Microsoft Teams Crashing on Windows 11 and 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/premium-slideshow-tools-for-iphone-series-9-13-xr-ios13/"><u>Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-razr-40-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Razr 40 has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-windows-11-through-individual-touches-and-tweaks/"><u>Revitalizing Windows 11 Through Individual Touches and Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-performance-reducing-ums-load-from-vanguard-on-windows-pcs/"><u>Sharpening Performance: Reducing UMS Load From Vanguard on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolving-undetected-speakers-in-windows-10/"><u>Step-by-Step: Resolving Undetected Speakers in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/track-down-pc-habit-of-storing-window-backgrounds/"><u>Track Down PC’ Habit of Storing Window Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unified-windows-11-taskbar-without-groups/"><u>Unified Windows 11 Taskbar without Groups</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-new-technology-insights-with-toms-hardware-guide/"><u>Unveiling New Technology Insights with Tom's Hardware Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utilization-a-guide-to-data-management/"><u>Windows Utilization: A Guide to Data Management</u></a></li>
 </ul></div>
 

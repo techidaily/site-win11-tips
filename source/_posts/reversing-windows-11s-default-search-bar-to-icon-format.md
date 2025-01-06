@@ -1,7 +1,7 @@
 ---
 title: Reversing Windows 11'S Default Search Bar to Icon Format
-date: 2024-12-24T16:02:01.537Z
-updated: 2024-12-27T22:45:30.428Z
+date: 2025-01-02T06:33:44.150Z
+updated: 2025-01-05T20:36:37.608Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happened to the Windows 11 Taskbar Search Icon?
 
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're keeping Windows 11 updated, you would have had your taskbar search icon change over to a larger bar-shaped icon.
 
@@ -39,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  Thankfully, there's a catch-all solution to many of these design changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restoring Features with ViVeTool
 
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
 
@@ -58,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore the Windows 11 Search Bar Icon
 
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
 
@@ -76,7 +76,7 @@ Next, input the following code into the terminal window:
  Then, all you have to do is restart. Your search icon should return to its original style.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features Change, Even if You Don’t Want Them To
@@ -100,19 +100,22 @@ Next, input the following code into the terminal window:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-potential-elevating-content-impact-for-2024/"><u>[New] Unlocking Instagram's Potential Elevating Content Impact for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[Updated] 2024 Approved Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-entering-the-world-of-content-creation-sign-up-tutorial-for-2024/"><u>[Updated] Entering the World of Content Creation Sign Up Tutorial for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-marketplace-error-0x80131500/"><u>Correcting Windows Marketplace Error 0X80131500</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-openai-essential-information-and-facts/"><u>Decoding OpenAI: Essential Information and Facts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-gopro-video-editing-a-step-by-step-guide-for-2024/"><u>Effortless GoPro Video Editing A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-defaults-for-win11-terminal/"><u>Guide to Restoring Defaults for Win11 Terminal</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-civi-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Civi 3 Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-maximizing-health-outreach-via-fb-advertising/"><u>In 2024, Maximizing Health Outreach via FB Advertising</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-pro-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 Pro 4G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-restricted-permissions-setup-for-windows-10-users/"><u>Navigate to Restricted Permissions Setup for Windows 10 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-active-errors-with-ccleaner-on-windows-1011/"><u>Resolving Active Errors with CCleaner on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-switch-activatingdeactivating-bing-ai-windowly-search/"><u>Swift Switch: Activating/Deactivating Bing AI Windowly Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tricks-for-net-revival-on-your-os-max-156/"><u>Top Tricks for .NET Revival on Your OS (Max 156)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-path-to-professional-windows-10-video-production-for-2024/"><u>[New] The Beginner's Path to Professional Windows 10 Video Production for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-it-right-solutions-to-quiet-the-flicker/"><u>Brighten It Right: Solutions to Quiet the Flicker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubre-como-convertir-tus-videos-vhs-clasicos-al-formato-dvd-moderno-desde-la-comodidad-de-tu-pc/"><u>Descubre Cómo Convertir Tus Vídeos VHS Clásicos Al Formato DVD Moderno Desde La Comodidad De Tu PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-older-os-practical-steps-beyond-windows-11/"><u>Enhance Older OS: Practical Steps Beyond Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-inadequacies-in-windows-installer-rights/"><u>Eradicating Inadequacies in Windows Installer Rights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-accessories-included-with-your-nintendo-switch-purchase/"><u>Essential Accessories Included with Your Nintendo Switch Purchase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-internet-connection/"><u>How to Recover Lost Internet Connection?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-premium-audio-excision-tools-for-windows-media-files-for-2024/"><u>New Premium Audio Excision Tools for Windows Media Files for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-w11-desktop-with-taskbar-pins/"><u>Optimizing W11 Desktop with Taskbar Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-non-functional-slack-alerts-on-pcs/"><u>Quick Fixes for Non-Functional Slack Alerts on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-missing-file-thumbnails-in-microsofts-newest-os/"><u>Remedy Missing File Thumbnails in Microsoft's Newest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-discrepanranks-between-prime-audio-and-subtitle-feedback-on-windows-11/"><u>Resolve Discrepanranks Between Prime Audio & Subtitle Feedback on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-windows-sounds-after-disruption-by-glitches/"><u>Revitalize Windows Sounds After Disruption by Glitches</u></a></li>
+<li><a href="https://facebook.techidaily.com/trendsetters-tactics-push-the-popularity-of-your-fb-clan/"><u>Trendsetters Tactics: Push the Popularity of Your FB Clan</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-must-have-specifications-in-mac-audio-editing-applications/"><u>Updated In 2024, Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
 </ul></div>
 

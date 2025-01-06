@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2024-12-23T19:21:59.896Z
-updated: 2024-12-27T19:05:11.807Z
+date: 2025-01-04T16:18:47.559Z
+updated: 2025-01-06T01:44:31.791Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
@@ -56,13 +60,17 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start bits  
@@ -83,16 +91,12 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
@@ -100,14 +104,6 @@ net start msiserver`
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -125,6 +121,11 @@ net start msiserver`
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit FixWin and reboot your PC after selecting those options.
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -143,16 +144,18 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-broadcasting-hidden-voices-on-instagram-live/"><u>[Updated] Broadcasting Hidden Voices on Instagram Live</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screenmaster-review-the-latest-in-tech-capture/"><u>[Updated] ScreenMaster Review The Latest in Tech Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tuning-online-discussions-with-advanced-zooming-skills/"><u>2024 Approved Fine-Tuning Online Discussions with Advanced Zooming Skills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-to-resolve-battlefield-5-startup-issues-guide/"><u>Easy Troubleshooting Steps to Resolve Battlefield 5 Startup Issues - Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-windows-notification-experience/"><u>Enhancing Your Window's Notification Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-your-save-config-in-pubg-windows-edition/"><u>Reclaiming Your Save Config in PUBG (Windows Edition)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-webcam-issue-in-win11-eliminating-error-a00f4289/"><u>Reverse Webcam Issue in Win11: Eliminating Error A00F4289</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/travel-smart-mastering-roku-connection-in-accommodations-and-academic-settings/"><u>Travel Smart: Mastering Roku Connection in Accommodations and Academic Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-power-commands-with-sudo-on-windows/"><u>Unlocking Power Commands with Sudo on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wizardry-creative-solutions-to-software-access/"><u>Windows Wizardry: Creative Solutions to Software Access</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>[New] From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-complete-how-to-for-mac-obs-plus-streamlabs-integration-for-2024/"><u>[New] The Complete How-To for Mac OBS + Streamlabs Integration for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-troubleshooting-your-video-shorts-invisible-thumbnail/"><u>2024 Approved Troubleshooting Your Video Short's Invisible Thumbnail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciph-written-as-a-dialogue-between-two-characters-user-and-assistant-in-an-online-forum-setting-discussing-the-topic-of-what-is-aggregatorhostexe-on-windo37/"><u>Deciph Written as a Dialogue Between Two Characters (User and Assistant) in an Online Forum Setting Discussing the Topic of What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-record-the-screen-of-the-iphone-7/"><u>How to Record the Screen Of The iPhone 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-picks-9-best-video-calling-apps-for-androidios-business-needs/"><u>Ideal Picks 9 Best Video Calling Apps for Android/iOS Business Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-reinstalling-microsofts-mspm/"><u>Master the Art: Reinstalling Microsoft's MSPM</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-vlogging-nuances-with-confidence-and-clarity/"><u>Navigating Vlogging Nuances with Confidence and Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-x80072f30-in-windows/"><u>Resolving Microsoft Store Error X80072F30 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-personalized-window-pin-creation/"><u>The Ultimate Guide to Personalized Window PIN Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-rechargeable-power-packs-a-look-at-the-leading-options-techradar/"><u>Top-Rated Rechargeable Power Packs: A Look at the Leading Options - TechRadar</u></a></li>
 </ul></div>
 

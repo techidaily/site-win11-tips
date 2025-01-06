@@ -1,7 +1,7 @@
 ---
 title: Trick to Conceal 'After Dim Display' In Power Options
-date: 2024-12-26T22:01:09.323Z
-updated: 2024-12-27T19:52:27.525Z
+date: 2024-12-30T19:17:48.196Z
+updated: 2025-01-06T04:52:04.249Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Show or Hide the “Dim Display After” Option Using PowerShell
 
  First, launch Windows PowerShell. There are many [ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/), but the easiest method is to press **Win + S** to open Windows Search. Then, enter **powershell** in the search box and click on **Windows PowerShell** when it appears in the search results.
 
 ![windows powershell in the windows search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In PowerShell, enter the following command to show the **Dim Display after** option in the Power Options menu:
 
@@ -45,10 +45,6 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
 
  Considering how vital the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is for the smooth operation of Windows, you might want to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you edit it. Afterward, open the Registry Editor by pressing **Win + R**, typing **regedit** in the text box, and clicking **OK**.
@@ -56,7 +52,7 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
@@ -70,17 +66,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
@@ -102,19 +102,20 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-digital-rights-unexpected-content-take-downs/"><u>[New] In 2024, Digital Rights Unexpected Content Take-Downs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-traditional-rogues-vs-modern-roguism/"><u>[New] Traditional Rogues Vs. Modern Roguism</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-optimal-room-decorations-for-livestreams/"><u>[Updated] 2024 Approved Optimal Room Decorations for Livestreams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-revamping-educational-experiences-through-vr/"><u>[Updated] In 2024, Revamping Educational Experiences Through VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-altering-file-types-on-windows/"><u>Decoding the Art of Altering File Types on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directly-connecting-to-clouds-cdropboxgoogledrive-for-work/"><u>Directly Connecting to Clouds: C:/Dropbox/GoogleDrive for Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-x80300024-in-windows-xp-environment/"><u>Fixing Error X80300024 in Windows XP Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-identifying-and-eradicating-vacant-folders-on-pcs/"><u>Guide to Identifying & Eradicating Vacant Folders on PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-motorola-moto-g14-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Motorola Moto G14 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-joining-the-digital-dialogue-facebook-basics/"><u>In 2024, Joining the Digital Dialogue (Facebook Basics)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-privilege-not-held-error-in-windows-code-0x80070522/"><u>Navigating the Privilege Not Held Error in Windows: Code 0X80070522</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-in-clarity-top-ten-windows-11-troubleshooting-steps/"><u>Precision in Clarity: Top Ten Windows 11 Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-dji-phantom-3-pro-drone/"><u>The Ultimate Guide to DJI Phantom 3 Pro Drone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/kyrocket-to-your-youtube-audience-goal-1kplus-for-2024/"><u>[New] Skyrocket to Your YouTube Audience Goal 1K+ for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-emotion-and-context-narration-for-videos/"><u>2024 Approved Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-gionee-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Gionee Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-access-to-your-visual-data-with-windows-11/"><u>Immediate Access to Your Visual Data with Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Phone Screen?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-pixelmaster-record-download-use-and-assessment/"><u>In 2024, PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-winerror-xc004f050/"><u>Mastering Fix for WinError Xc004f050</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-adopting-windows-11/"><u>Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-microsoft-store-fault-error-0x0-in-windows/"><u>Strategies to Resolve Microsoft Store Fault: Error 0X0 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x887a0006-for-gpu-hangs/"><u>Tackling Windows Error 0X887A0006 for GPU Hangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-ignoring-restricted-feature-on-windows-software/"><u>Tips for Ignoring Restricted Feature on Windows Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/total-environmental-immersion-in-media-creation/"><u>Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-issue-insufficient-it-admin-rights/"><u>Troubleshooting Windows Issue: Insufficient IT Admin Rights</u></a></li>
 </ul></div>
 

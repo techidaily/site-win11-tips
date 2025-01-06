@@ -1,7 +1,7 @@
 ---
 title: Unlock Full Potential Despite Photo Error on PC
-date: 2024-12-24T20:09:01.046Z
-updated: 2024-12-27T23:01:58.958Z
+date: 2025-01-03T08:26:09.936Z
+updated: 2025-01-05T23:57:23.661Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the Camera Access Permission Settings
 
  First, check that webcam access permission is set for the Camera app. This is how you can enable apps to access the webcam in Windows:
@@ -39,12 +35,12 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![The Camera navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/camera-navigation-option.jpg)
 4. Toggle on the **Let apps access your camera** (or **Allow apps**) setting.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Let apps access your camera setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/let-apps-access-your-camera.jpg)
 5. Turn on the switch for the **Camera** app setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Windows Camera
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create a New Camera Roll Folder
 
@@ -69,14 +61,10 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
@@ -100,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
 
@@ -114,6 +110,11 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
@@ -140,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 2. Then copy the app’s PackageFullName ID by selecting its text and pressing **Ctrl** \+ **C**. The PackageFullName will be something like Microsoft.WindowsCamera\_2023.2305.4.0\_x64\_\_8wekyb3d8bbwe, but it can vary depending on the app version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Input and execute this command with the PackageFullName included:  
@@ -151,13 +152,13 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will need to replace **PackageFullName** in the command specified above with the actual package name. So, the PowerShell command should look more like this:
 
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Snapping With the Windows Camera App Again
 
@@ -175,24 +176,22 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-effortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube/"><u>[New] 2024 Approved Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>[New] In 2024, Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-data-handling-done-right-fastest-5-ways-to-move-files-onto-your-computer/"><u>2024 Approved Data Handling Done Right Fastest 5 Ways To Move Files Onto Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curbing-high-resource-consumption-by-security-apps/"><u>Curbing High-Resource Consumption by Security Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-windows-11/"><u>Decoding User Dissatisfaction with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-code-0x800f0831/"><u>Decoding Windows Error Code 0X800F0831</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-poco-f5-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco F5 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-folder-comments-in-windows-11s-file-explorer/"><u>How to Add Folder Comments in Windows 11'S File Explorer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-wi-fi-driver-on-windows-11-10-8-7/"><u>How to Reinstall Wi-Fi Driver on Windows 11, 10, 8, 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-non-existent-device-stop-error-on-windows/"><u>How To Resolve Non-Existent Device Stop Error on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-poco-c55-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco C55?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c65-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C65 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/linksys-ae2500-driver-software-instant-download-and-support/"><u>Linksys AE2500 Driver Software: Instant Download and Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimized-toggle-for-bing-chat-on-windows-11-search-bar/"><u>Optimized Toggle for Bing Chat on Windows 11 Search Bar</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211448601-9798991070317-queen-of-the-nile/"><u>Queen of the Nile | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-windows-11-command-prompt-with-reset-tips/"><u>Simplify Windows 11 Command Prompt with Reset Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-non-responsive-ccleaner-on-windows-1011/"><u>Steps to Address Non-Responsive CCleaner on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-in-outdated-devices-with-windows-11-to-go-rufus-tutorial/"><u>Unleash Potential in Outdated Devices with Windows 11, To Go, Rufus Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-timed-success-organizing-video-conferences-via-slackplusfilmora/"><u>[New] 2024 Approved Timed Success Organizing Video Conferences via Slack+Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-greatest-7-web-based-recording-tools-2023/"><u>[Updated] In 2024, Greatest 7 Web-Based Recording Tools 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funnyframefarm-digital-jokes-galore/"><u>2024 Approved FunnyFrameFarm Digital Jokes Galore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-camouflage-burying-archives-in-images-for-win-users/"><u>Digital Camouflage: Burying Archives in Images for WIN Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-mobvoi-ticwatch-pro-4g-an-exceptional-contender-in-seamless-smartwatch-integration/"><u>Expert Insights on Mobvoi Ticwatch Pro 4G: An Exceptional Contender in Seamless Smartwatch Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-active-printer-service-errors-in-windows/"><u>Fixing Non-Active Printer Service Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-all-user-permissions-to-default-in-windows-11/"><u>How to Reset All User Permissions to Default in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-copypaste-action-reliability-in-windows-11/"><u>Improving Copy/Paste Action Reliability in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-brightness-on-android-devices/"><u>In 2024, Boosting Brightness on Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-k11x-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo K11x</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-numlock-and-scroll-bar-icons-into-systray-win11/"><u>Incorporating NumLock and Scroll Bar Icons Into SysTray Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/les-techniques-rapides-pour-modifier-la-vitesse-dune-video-une-selection-de-15-astuces-efficaces/"><u>Les Techniques Rapides Pour Modifier La Vitesse D’une Vidéo: Une Sélection De 15 Astuces Efficaces</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1486843-9781317994534-lesbians-levis-and-lipstick/"><u>Lesbians, Levis, and Lipstick | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 Pro from iCloud</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-severe-js-failure-issues-within-discord-specifically-for-win-oses/"><u>Tips to Resolve Severe JS Failure Issues Within Discord, Specifically for Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-clumped-up-app-symbols-on-os-ui/"><u>Unifying Clumped-Up App Symbols on OS UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-potentials-effective-change-strategies/"><u>Unlock Windows 11 Potentials: Effective Change Strategies</u></a></li>
 </ul></div>
 

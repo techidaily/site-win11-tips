@@ -1,7 +1,7 @@
 ---
 title: "Prioritizing Functionality: The New Approach to Windows 11"
-date: 2024-12-21T09:00:56.134Z
-updated: 2024-12-21T22:00:47.084Z
+date: 2025-01-02T16:39:12.663Z
+updated: 2025-01-05T17:32:25.387Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,12 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  With new Copilot features being released in quick succession, it's clear what Microsoft is prioritizing with Windows 11 and beyond. Apart from the increasingly diverse ways to interact with AI, you might wonder where the meaningful improvements to Windows 11’s performance, functionality, and overall user experience are.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Makes it Clear: Copilot Is the Future of Windows 11
 
 ![Tecno Megabook T16 Pro sitting on display at MWC 2024](https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a2404b925ef4f20286104a39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  It’s clear that Copilot and AI, not gaming, have become central to realizing Windows 11's full potential and Microsoft's broader ambitions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Are the Real Features?
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 ![Copilot key on an Acer laptop](https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb738e8c283227d7e47f57830.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
@@ -75,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Lingering issues like an inconsistent UI, wonky taskbar, sluggish file explorer, and compatibility headaches leave many of us questioning whether it truly serves as an upgrade over Windows 10\. Several users have even claimed that W11 lags behind W10 in responsiveness, particularly on older hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Slow Steps in the Right Direction
 
 ![Windows 11 Start menu open on a Dell XPS 16](https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a4db0cfc4bb799b623cb07e4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jerome Thomas / MakeUseOf
@@ -108,18 +108,17 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-distortion-dialogue-expert-tips-for-text-alteration/"><u>[Updated] In 2024, Distortion Dialogue Expert Tips for Text Alteration</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/crafting-compelling-podcast-imagery-fundamental-tips-for-2024/"><u>Crafting Compelling Podcast Imagery Fundamental Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-updater-error-0x80246007-on-w10w11/"><u>Deciphering and Resolving Updater Error 0X80246007 on W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-recovery-guide-overcoming-pink-or-purple-windows-glitch/"><u>Desktop Recovery Guide: Overcoming Pink or Purple Windows Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hiding-your-drive-in-the-windows-1110-shadows/"><u>Hiding Your Drive in the Windows 11/10 Shadows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-s18-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo S18 Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinpointing-premium-hdr-camera-brands/"><u>In 2024, Pinpointing Premium HDR Camera Brands</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-ranked-photo-restoration-app/"><u>Top-Ranked Photo Restoration App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-business-communication-with-intel-unison-in-windows-11/"><u>Transforming Business Communication with Intel Unison in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-about-chatgpt-windows-apps-authenticity/"><u>Truth About ChatGPT Windows App's Authenticity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/avi-wav/"><u>오피스 공간에서 자원 없이 Avi 파일을 Wav로 전환: 무대화형 방법</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revolutionize-traffic-flows-with-innovative-facebook-video-tactics/"><u>[New] 2024 Approved Revolutionize Traffic Flows with Innovative Facebook Video Tactics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[New] In 2024, Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[Updated] 2024 Approved Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-free-no-invasive-android-video-recorders-for-2024/"><u>[Updated] Best Free, No-Invasive Android Video Recorders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-record-and-share-screencast-tips-from-ezvide-expertise/"><u>[Updated] In 2024, Record and Share Screencast Tips From EZvide Expertise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-immersive-chronicles-a-brief-history/"><u>[Updated] The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-these-generation-mishaps-a-guide-to-smart-ai-usage/"><u>Avoid These Generation Mishaps: A Guide to Smart AI Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-advanced-setup/"><u>Decoding Windows 11'S Advanced Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-error-unresponsive-audio-device-stopped/"><u>Eradicating Windows Error: Unresponsive Audio Device Stopped</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-merge-mpeg-videos-without-cost-top-options/"><u>In 2024, Merge MPEG Videos Without Cost Top Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ms-teams-error-80080300-on-windows-11-a-guide/"><u>Resolving MS Teams Error 80080300 on Windows 11: A Guide</u></a></li>
 </ul></div>
 

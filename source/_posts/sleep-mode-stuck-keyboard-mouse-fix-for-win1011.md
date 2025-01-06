@@ -1,7 +1,7 @@
 ---
 title: "Sleep Mode Stuck: Keyboard, Mouse Fix for Win10/11"
-date: 2024-08-16T02:33:16.151Z
-updated: 2024-08-17T02:33:16.151Z
+date: 2025-01-03T10:35:18.347Z
+updated: 2025-01-05T22:36:03.404Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  Sleep mode is a convenient power option for your computer, as it lets you pick up right where you left off. Normally, you only need to hit a keyboard key or move your mouse to wake your PC from sleep.
 
  But what if these don't work? You can always wake your PC from sleeping with the power button, but using your peripherals is more convenient. Here's what to do when your keyboard and mouse won't wake your Windows 10 or 11 computer from sleep.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Wake Your Computer With a Keyboard or Mouse on Windows
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -50,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Stop Your PC From Shutting Off USB Ports
 
  There's also a chance that your computer reduces power to its USB ports while asleep. In these cases, it won't pick up the signal when you move your mouse or press a key. To troubleshoot this, head back to the Device Manager and expand the**Universal Serial Bus controllers** section.
@@ -63,37 +69,32 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  Now, choose**Change advanced power settings** to open a window with more options. In that window, expand**USB settings** , then**USB selective suspend setting** . Change this dropdown to**Disabled** and hit**OK** .
 
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wake Your Computer From Sleep the Easy Way
 
  Hopefully, you're now able to wake your computer from sleep just by pressing a key or moving your mouse. Problems with this usually come down to USB power management, which you can fix with the above.
 
  Unfortunately, this isn't the only issue you can run into with sleep mode in Windows, either.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +103,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[New] Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-strategies-for-real-time-green-screen-applications/"><u>[Updated] Cutting-Edge Strategies for Real-Time Green Screen Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-mobile-relaxation-renders-idle-games-for-2024/"><u>[Updated] Top 10 Mobile Relaxation Renders (Idle Games) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-ftdibussys-the-reason-behind-windows-memory-compromise/"><u>Delving Into ftdibus.sys: The Reason Behind Windows Memory Compromise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-commands-to-manage-windows-user-profiles/"><u>Essential Commands to Manage Windows User Profiles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-k11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo K11 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/jillian-michaels-fitness-series-universal-access-exercise-with-the-best-at-any-location/"><u>Jillian Michaels Fitness Series: Universal Access - Exercise with the Best at Any Location</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-recovery-techniques-for-both-windows-10-and-11-users/"><u>Key Recovery Techniques for Both Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/naming-new-microsoft-admin-in-windows-11/"><u>Naming New Microsoft Admin in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-the-depth-of-windows-11-the-underutilized/"><u>Probing the Depth of Windows 11 - The Underutilized</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/retrieving-information-on-an-inaccessible-hdd-a-guide-to-5-different-strategies/"><u>Retrieving Information on an Inaccessible HDD: A Guide to 5 Different Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-default-settings-windows-11-search-restoration-guide/"><u>Revive Default Settings: Windows 11 Search Restoration Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210689301-9781952692543-the-mindfulness-bell-91-mindfulness-public-health-2023/"><u>The Mindfulness Bell 91: Mindfulness & Public Health, 2023 | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-videos-en-anecdotas-moviles-con-gif-sin-coste-el-mejor-convertidor-web-free-mov-to-gif/"><u>Transforma Videos en Anécdotas Móviles Con GIF Sin Coste: El Mejor Convertidor Web Free [MOV to GIF]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-replace-missing-msvcrt120dll-in-windows/"><u>Unveiling Steps to Replace Missing msvcrt120.dll in Windows</u></a></li>
+</ul></div>
 

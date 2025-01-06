@@ -1,7 +1,7 @@
 ---
 title: Discover Quick and Efficient Ways to Access Windows 11 Sounds
-date: 2024-08-16T02:35:05.887Z
-updated: 2024-08-17T02:35:05.887Z
+date: 2025-01-03T05:39:41.514Z
+updated: 2025-01-05T19:27:31.113Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Open Sound Settings Using Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Sound Settings Using Run Command
 
  The Run command is another quick method to open Sound Settings. Windows offers a host of shortcut commands helpful in accessing settings and programs quickly. The process is different from the search bar but if you’d like to try this method, follow these steps:
@@ -40,14 +44,11 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 1. Press **Win + R** on your keyboard. This opens the Run command window.
 2. Type **ms-settings:sound** in the dialog box and click **OK** to open Sound Settings.  
 ![Open Sound Settings Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-run-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Sound Settings Through the Taskbar
 
  The taskbar acts as the main launchpad for essential Windows applications. It provides quick access to apps, programs, and settings via the Start menu. If you’d like to open Sound Settings from here, follow these steps:
@@ -71,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
  This opens the Sound Settings window where you can customize and optimize your audio. When done, close the window, and you’re back on track.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Open Sound Settings Using Command Prompt
 
  The Command Prompt is a text-based interface on Windows used to execute MS-DOS commands and programs. It runs specific commands to perform certain tasks faster than traditional GUI methods.
@@ -83,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 2. Type **cmd** in the dialog box and click the **OK** button. The Command Prompt window pops up on the screen.
 3. Input **start ms-settings:sound** on the command line and press Enter.  
 ![Open Sound Settings Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This opens the Sound Settings window on your computer. Make the necessary changes then close it.
 
@@ -96,18 +102,12 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 2. Right-click on the result and select **Run as administrator**.
 3. If the UAC window pops up, click **Yes** to grant permission.  
 ![Open Sound Settings Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-powershell.jpg)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 4. In the PowerShell window, type the following command:  
 `start-process ms-settings:sound`
 5. Now press Enter to execute it.
 
  This opens the Sound Settings window where you can customize your audio settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. How to Open Sound Settings Using System Settings
 
  Windows Settings is a centralized hub for accessing and customizing system settings. To open Sound Settings using this method, follow these steps:
@@ -116,11 +116,12 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 2. From the left sidebar, navigate to the **System** tab.
 3. Click **Sound** on the right side of the window.  
 ![Open Sound Settings Using System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-system-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This opens up the Sound Settings page with options to adjust output, input, and system sounds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Open Sound Settings Using a Desktop Shortcut
 
@@ -133,16 +134,19 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 3. In the Location field, type **ms-settings:sound** and click **Next**.  
 ![Create Desktop Shortcut of Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-desktop-shortcut-of-sound-settings.jpg)
 4. Now name your shortcut, such as **Sound Settings,** and click **Finish**.  
-![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
 
  A new shortcut appears on the desktop. Double-click it to open Sound Settings directly. This is a great way to quickly access this setting instead of using the search bar or other methods.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. How to Open Sound Settings Using a Shortcut Key
 
  Shortcut keys are combinations of keys used to quickly access specific functions. These shortcuts are beneficial if you frequently use the same application or command. Windows comes with several pre-defined shortcut keys, but you can even create your own.
@@ -159,16 +163,11 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  Your shortcut key is now ready to use. Press **Ctrl + Alt** **\+ the keystroke you just assigned** to open Sound Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Quick Access to the Windows Sound Settings
 
  This guide has explained several ways to access Windows Sound Settings. It allows you to customize your sound preferences and control your audio settings conveniently. If you frequently use the settings, then create a desktop shortcut or hotkey for it.
 
  This guide shows you nine different methods to find and open Sound Settings in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -176,3 +175,25 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-demystifying-toolwizs-tools-for-modern-photo-editors/"><u>[New] 2024 Approved Demystifying Toolwiz's Tools for Modern Photo Editors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a15-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A15 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-intensifies-artificial-intelligence-prowess-exploring-functionalities-of-newly-released-models-analysis-by-zdnet/"><u>Apple Intensifies Artificial Intelligence Prowess: Exploring Functionalities of Newly Released Models | Analysis by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-app-guard-graphics-in-windows-11-os/"><u>Enhancing App Guard Graphics in Windows 11 OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-paramountplus-connection-errors-on-an-amazon-firestick-device/"><u>Fixing Paramount+ Connection Errors on an Amazon Firestick Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-novice-to-pro-winning-strategies-for-ps1-games-on-windows-by-duckstation/"><u>From Novice to Pro: Winning Strategies for PS1 Games on Windows by Duckstation</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-embed-google-maps-in-a-windows-environment/"><u>How to Embed Google Maps in a Windows Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-repair-windows-11s-faulty-snip-and-sketch-for-smooth-screen-capture-functionality/"><u>How to Repair Windows 11'S Faulty Snip & Sketch for Smooth Screen Capture Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-soundless-blues-heres-how-to-restore-your-devices-volume/"><u>HP Notebook Soundless Blues? Here’s How to Restore Your Device's Volume!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/meilleure-lecteur-de-photo-compatible-avec-windows-et-macos-telechargez-maintenant/"><u>Meilleure Lecteur De Photo Compatible Avec Windows Et macOS - Téléchargez Maintenant !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-failed-logon-lockout-period-for-win1011/"><u>Modifying Failed Logon Lockout Period for Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-print-conflicts-in-windows-1011/"><u>Resolving Print Conflicts in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-no-errors-resolve-the-0x0-glitch-in-windows-11/"><u>Tackling No Errors: Resolve the 0X0 Glitch in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-photos-best-vignette-editing-apps-for-mobile-for-2024/"><u>Transform Your Photos Best Vignette Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-icon-loss-how-to-regain-them/"><u>Windows 11 Icon Loss - How to Regain Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-revolution-post-cortanas-quadruple-leap/"><u>Windows Aid Revolution: Post-Cortana's Quadruple Leap</u></a></li>
+</ul></div>
+

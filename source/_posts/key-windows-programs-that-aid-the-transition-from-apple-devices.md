@@ -1,7 +1,7 @@
 ---
 title: Key Windows Programs That Aid the Transition From Apple Devices
-date: 2024-08-16T02:33:10.647Z
-updated: 2024-08-17T02:33:10.647Z
+date: 2024-12-31T20:29:54.285Z
+updated: 2025-01-06T02:07:14.529Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 ![Triggering the Shutdown command in the Flow Launcher app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/triggering-the-shutdown-command-in-the-flow-launcher-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows start menu got much more useful in Windows 10 than it had been in previous versions. The bad news was that the start menu took a step backwards in Windows 11, at least for certain workflows.
 
  Flow Launcher takes strong cues from macOS’s Spotlight, as well as aspects of the Windows start menu and other launchers like Alfred. Hit a predefined key combination, and a text window pops up letting you search apps, files, and even the web all from one place.
@@ -33,13 +37,15 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 **Download**: [Flow Launcher](https://www.flowlauncher.com/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  Ditto Clipboard Manager
 
 ![Ditto Clipboard Manager for Windows showing clipboard entries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ditto-clipboard-manager-for-windows-showing-clipboard-entries.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There is a fairly powerful clipboard manager built into Windows 11\. Simply press the **Windows key + V** key combination, and you pull up a history of everything you’ve copied recently. For most people, this works perfectly.
@@ -48,12 +54,13 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 **Download**: [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  AutoText
 
 ![AutoText main window showing the default snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/autotext-main-window-showing-the-default-snippets.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  There are plenty of apps available to expand snippets into larger text fragments or even full-blown paragraphs. If all you need is some minor snippets expanded, the text replacement built into macOS is fairly powerful. This is less true of Windows.
 
@@ -66,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ## 4  f.lux
 
 ![f.lux Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/f-lux-settings-window.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 has built-in [screen tinting features it calls Night Light](https://www.howtogeek.com/796092/how-to-enable-night-light-on-windows-11/) to make your screen easier on your eyes at night. Unfortunately, unlike similar offerings from mobile operating systems and macOS, you can’t do much to customize this feature.
 
@@ -81,14 +85,12 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 **Download**: [f.lux](https://justgetflux.com) (free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  PowerToys Awake
 
 ![Using PowerToys Awake on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-powertoys-awake-on-windows-11.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Windows (and, to be fair, most other operating systems) can be very aggressive about dimming and shutting off the display. If you’re on a laptop and looking to save battery life, this can be handy. Assuming you’re sitting or standing at a desk most of the day, this can quickly get annoying.
 
@@ -104,11 +106,33 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
  I found these few simple tools and utilities made my move incredibly easy. If you’ve already made the move, and you’re looking for more powerful tools, take a look at our roundup of the [best utilities for Windows power users](https://www.makeuseof.com/best-utilities-for-windows/).
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-11-cutting-edge-techniques-for-optimizing-your-fb-videos/"><u>[New] 2024 Approved 11 Cutting-Edge Techniques for Optimizing Your FB Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-essentials-of-earning-on-youtube-latest-changes-for-2024/"><u>[New] The Essentials of Earning on YouTube Latest Changes for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-strategies-for-finding-no-cost-art/"><u>2024 Approved Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-installing-and-updating-apps-via-wpm-in-windows-11/"><u>Comprehensive Guide to Installing and Updating Apps via WPM in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echo-vocal-logging-device-iphone-model-2024/"><u>Echo Vocal Logging Device, iPhone Model 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-your-way-to-direct-pc-links-on-windows-11/"><u>Hacking Your Way to Direct PC Links on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m14-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-your-path-to-optimal-hdr-camera-selection/"><u>In 2024, Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/662420-9781446459362-intuition-and-beyond/"><u>Intuition And Beyond | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-p40plus-video-recovery-recover-deleted-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>Itel P40+ Video Recovery - Recover Deleted Videos from Itel P40+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-z50s-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Z50S Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-obs-studio-startup-blunders-win-edition/"><u>Preventing OBS Studio Startup Blunders (Win Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-intensive-cpu-activity-by-dropbox-in-windows/"><u>Reducing Intensive CPU Activity by Dropbox in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-non-operational-snapshot-creation/"><u>Remedying Non-Operational Snapshot Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-windows-emailcalendar-integrating-fav-photos/"><u>Revamp Windows Email/Calendar - Integrating Fav Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-window-11-help-service-breakdown/"><u>Solutions for the Window 11 Help Service Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-vanish-taskview-button-from-window-11/"><u>Strategies to Vanish TaskView Button From Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-for-reviving-desktop-menus/"><u>Unveiling Techniques for Reviving Desktop Menus</u></a></li>
+</ul></div>
+

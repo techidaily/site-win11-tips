@@ -1,7 +1,7 @@
 ---
 title: "Relocating qBittorrent on Windows: A Comprehensive Instructional Walkthrough"
-date: 2024-08-16T02:35:38.520Z
-updated: 2024-08-17T02:35:38.520Z
+date: 2024-12-31T11:35:17.274Z
+updated: 2025-01-05T23:44:39.749Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setting Up a Plan of Action for Moving qBittorrent
 
  In this article, we'll look at how it's possible to migrate qBittorrent's installation, keeping all the settings we had previously customized and the progress of all torrent files. This will allow us to resume downloading and uploading from where we were before.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  Still, with a new PC maybe you'd also like to keep your software fresh, and try out new things, like another torrent client. Although qBittorrent's at the top spot in our [best torrent clients for Windows](https://www.makeuseof.com/best-torrent-clients-windows/) article, you'll also find some nice alternative options there.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Move Your Torrents
 
  Since we are dealing with migrating qBittorrent's installation from an old PC into a new one, you will need a way to facilitate this data exchange.
@@ -49,18 +54,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![Windows Explorer AppData Local qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-local-qbittorrent-path.jpg)
 2. Return to your user account's folder on the original PC, and this time navigate into the `AppData > Roaming > qBittorrent` path. Do the same as above, and copy all its contents to the equivalent path on your new PC.  
 ![Windows Explorer AppData Roaming qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-roaming-qbittorrent-path.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 3. For the final data transfer, you must move the folder where your torrents were stored from your old PC to the new one. We can't offer specifics for that because their setup depends on your qBittorrent configuration. In our case, we had two separate folders, one for **incoming** torrents and another for those that had **completed** downloading. Both conveniently placed within a "torrents" folder on an external hard disk drive. Unplugging it from the old PC and reconnecting it to the new one was all needed for "transferring our torrents".  
 ![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## The Problem With Moving qBittorrent to a Different Drive Letter
 
  Moving your torrent collection to your new PC should be a breeze if you kept it on an external hard disk like us. Still, you might meet a slight problem: the drive might be assigned a different letter on your new PC, preventing qBittorrent's installation from finding your torrents. qBittorrent will seek them on Drive `D`, while your torrent drive was assigned the letter `H`.
@@ -70,13 +66,18 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  With all your torrent files in the same spot as before, if you run qBittorrent on your new PC, it should detect and start loading them.
 
 ![qBittorrent Loading Torrents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-loading-torrents.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And yet, swapping drive letters may be impossible or lead to other issues. For example, you might have started using your new PC and already actively used another drive with the same letter your torrent drive had on your previous PC. In this case, changing your torrent drive's letter to "fix" qBittorrent could break other software.
 
  Thankfully, there's a solution for that, too, as we'll see next. However, it is more complicated than reassigning a letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update and Double-Check Your Folder Paths
 
@@ -89,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 3. Fully exit qBittorrent and rerun it. This time it should find and start importing your torrents. However, it may fail to detect their progress and general state correctly. To fix that, highlight all your torrent files in qBittorrent's transfers list, right-click on them, and select **Force Recheck**. If your transfer list adds up to a multi-gigabyte sum, and especially if stored on an old and slow HDD, this process can take a while. When it finishes, your migrated qBittorrent installation should be indistinguishable from the original.  
 ![qBittorrent Right Click Menu Force Recheck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-right-click-menu-force-recheck.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And yet again, that might not be enough. qBittorrent also supports **categories**, each of which can have its own path. So, if you used that feature to have your torrents downloaded to different folders, you must also update each category's path.
 
  Unfortunately, each category might point to a different path. There's no way to fix them all with a single move. You will have to right-click on each category and select **Edit Category**. Then, under **Save Path**, click on the button with the folder icon, and point the requester to the correct path on your PC.
@@ -97,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  When you eventually start downloading again, don't seek torrent links at shoddy sites: qBittorrent comes with a built-in search function you can use to find new torrents. Plus, we've covered how you can make it even more useful by [expanding it with more search engines](https://www.makeuseof.com/qBittorrent-add-search-engines/).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## A Seamless Transition for qBittorrent
 
  It might involve taking an external hard disk drive from your old PC and plugging it into your new one, but migrating your qBittorrent installation between computers is not as simple.
@@ -110,11 +112,33 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[New] Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snicker-spinner-picture-editor/"><u>[New] Snicker Spinner Picture Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>[Updated] Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-game-changing-trick-enter-mac-apple-watch-style/"><u>[Updated] Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-effortlessly-connect-vlc-for-networked-video-streaming/"><u>2024 Approved Effortlessly Connect VLC for Networked Video Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-virtual-cache-step-by-step-guide-w11/"><u>Clear Virtual Cache: Step by Step Guide W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-vob-to-mp4-for-free-step-by-step-guide-on-windows-and-mac/"><u>Converting VOB to MP4 for Free: Step-by-Step Guide on Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-secure-hiccups-a-guide/"><u>Correcting Windows Secure Hiccups: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhancing-the-handheld-experience-microsoft-upgrades-windows-for-mobile-devices/"><u>Enhancing the Handheld Experience: Microsoft Upgrades Windows for Mobile Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escalating-valorant-speed-on-slow-windows-systems/"><u>Escalating Valorant Speed on Slow Windows Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sive-resource-hub-downloadable-templates-for-youtubers-for-2024/"><u>Exclusive Resource Hub - Downloadable Templates for YouTubers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-webcam-camera-error-code-0xa00f4289-in-windows-10-and-11/"><u>How to Fix the Webcam Camera Error Code 0xA00F4289 in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-print-settings-an-essential-tool-overview/"><u>Mastering Windows Print Settings: An Essential Tool Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-11-error-code-geforce-x0001/"><u>Mending Windows 11 Error Code: GeForce X0001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-folder-security-on-windows-10-with-group-policies/"><u>Setting Up Folder Security on Windows 10 with Group Policies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-system-failures-due-to-inadequate-intel-graphic-specs/"><u>Troubleshooting System Failures Due to Inadequate Intel Graphic Specs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android-for-2024/"><u>Updated Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Access with Custom Windows Shortcuts (UWP)
-date: 2024-12-23T19:50:44.332Z
-updated: 2024-12-27T16:06:24.091Z
+date: 2025-01-01T22:49:48.967Z
+updated: 2025-01-06T08:49:46.915Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Drag and Drop UWP Apps From the Start Menu Onto the Desktop
 
  A simple way to create shortcuts for UWP apps is to drag and drop them from the Start menu onto the desktop. To do that, open the Start menu and click**All apps** . Then click a UWP app on the menu, hold the left mouse button, and drag its icon onto the desktop. Release the left mouse button when you see a**Link** box to add the desktop shortcut.
@@ -32,11 +36,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
@@ -49,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 4. Right-click a UWP app you want to add to the desktop and select**Create shortcut** .  
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
-![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -64,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 3. Input the URI for the UWP app in the location text box. For example, you would need to enter the**ms-clock:** URI there to create a desktop shortcut for Alarms & Clocks.  
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click**Next** to proceed to the final step of the wizard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
@@ -102,10 +99,14 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
@@ -136,22 +137,21 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-activating-grid-view-in-google-meet-webinars-a-step-by-step-guide/"><u>[New] 2024 Approved Activating Grid View in Google Meet Webinars A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-alternatives-round-up-top-3-contenders/"><u>[New] In 2024, YouTube Alternatives Round-Up Top 3 Contenders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-expertly-record-your-browser-adventures-with-top-5-capturers-for-2024/"><u>[Updated] Expertly Record Your Browser Adventures with Top 5 Capturers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>[Updated] In 2024, Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/inclusive-iptv-broadcast-architecture/"><u>Inclusive IPTV Broadcast Architecture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insiders-guide-to-self-monitoring-windows-vulnerabilities/"><u>Insider's Guide to Self-Monitoring Windows Vulnerabilities</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech-in-2024/"><u>Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-fixing-frozen-grammarly-app/"><u>Overcoming the Hurdle: Fixing Frozen Grammarly App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-eradicating-photo-failed-on-pc/"><u>Quick Guide: Eradicating Photo Failed on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-unaccessible-package-dilemma-in-windows-11-10/"><u>Remedying the 'Unaccessible Package' Dilemma in Windows 11, 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-desktop-top-5-apps-for-dynamic-clock-screensavers-on-windows/"><u>Revolutionize Your Desktop: Top 5 Apps for Dynamic Clock Screensavers on Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweaking-password-policy-altering-reset-value-after-failed-attempts/"><u>Tweaking Password Policy: Altering Reset Value After Failed Attempts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-windows-update-failure-x80190001/"><u>Unblocking Windows Update Failure X80190001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-system-repair-the-essence-of-chkdsk-and-sfc/"><u>Understanding System Repair: The Essence of CHKDSK & SFC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-differences-charge-up-with-insight-on-level-1-level-2-and-level-3-ev-power/"><u>Understanding the Differences: Charge Up with Insight on Level 1, Level 2 & Level 3 EV Power</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-2023s-standout-professional-360cameras/"><u>[New] Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-master-zoom-recording-with-essential-gear/"><u>[Updated] 2024 Approved Master Zoom Recording with Essential Gear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-5-artificial-intelligence-chatbots-that-serve-as-virtual-therapists-for-psychological-support/"><u>Best 5 Artificial Intelligence Chatbots That Serve as Virtual Therapists for Psychological Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-error-code-0x800f0831-in-windows-os/"><u>Conquering Error Code 0X800F0831 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-enhanced-windows-11-configurations/"><u>Discovering Enhanced Windows 11 Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-enhancing-gpo-settings-access-win11-edition/"><u>Expert Tips for Enhancing GPO Settings Access, Win11 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c300-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C300 PC | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-noteworthy-14-dynamic-text-artworks/"><u>In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-onedrive-without-an-online-connection/"><u>Navigate Your OneDrive Without an Online Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-taskbar-disruption/"><u>Overcoming Windows 11 Taskbar Disruption</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-of-xbox-and-laptop-as-dual-monitors/"><u>Seamless Integration of Xbox and Laptop as Dual Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-ms-store-glitches-on-win-1111-platforms/"><u>Solutions for MS Store Glitches on Win 11/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-find-and-restore-lost-pin-in-win-11-update-fallout/"><u>Steps to Find and Restore Lost PIN in Win 11 Update Fallout</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sharpen Performance: The Most Unnecessary Windows Applications"
-date: 2024-08-08T11:10:58.049Z
-updated: 2024-08-09T11:10:58.049Z
+date: 2024-12-31T12:02:36.332Z
+updated: 2025-01-06T08:58:21.688Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,11 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  On Windows 11, click the three-dot button and choose**Uninstall** to remove a program. On Windows 10, just click the entry to show the**Uninstall** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Windows 10 Uninstall Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Windows-10-Uninstall-Store-App.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
 
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. QuickTime
 
  QuickTime is Apple's video player. While it's still a current program on macOS, the company hasn't supported the Windows version since 2016.
@@ -48,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Removing QuickTime shouldn't cause any disruptions, as iTunes doesn't rely on it. If you need a replacement for QuickTime, use[VLC](https://www.videolan.org/vlc/index.html) , which will play pretty much anything.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. CCleaner
 
 ![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
@@ -66,20 +61,26 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
  Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some[ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. uTorrent
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  uTorrent was once considered the gold standard of torrenting software. However, it's had a host of issues over the years that make it untrustworthy now.
 
  Aside from having ads crammed into the interface, uTorrent also includes offers for other software tools, which is annoying. Its worst offense came in 2015, when the app was found to bundle in cryptocurrency mining software without letting users know. This wasted your system resources in the background to make money for the company, which allegedly gave some to charity.
 
  There's no reason to bother with uTorrent. We think[qBittorrent](https://www.qbittorrent.org/) is[the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Adobe Flash Player and Shockwave Player
 
@@ -88,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
  A similar runtime plugin, Adobe Shockwave Player, was discontinued in 2019\. The company no longer offers it for download, and you're extremely unlikely to find a website that needs it.
 
  You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to[enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Java
 
@@ -110,17 +115,15 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
  Have a look in your programs list for toolbars like the Bing Bar, Google Toolbar, Ask Toolbar, Yahoo! Toolbar, or the Babylon Toolbar. If you find any of them, uninstall them. After that, review the installed add-ons or extensions in your browsers. Make sure you recognize and review everything there, as even trustworthy extensions can be sold to shady companies.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Coupon Printer for Windows
 
  The purpose of Coupon Printer for Windows is to provide access to deals from Coupons.com. However, since this software is typically found bundled in with other programs, chances are that you didn't want to install it in the first place.
 
  If you're a diehard Coupons.com user, you can leave this one installed so you can access its discounts. Everyone else should uninstall this program and use another coupon site that doesn't require installing anything.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Manufacturer Bloatware
 
  Unless you're running a premium device like the Surface Pro, or you installed Windows from scratch on a new desktop, chances are your computer came with lots of preinstalled junk from the manufacturer. Laptops from HP, Dell, Toshiba, Lenovo, and more are prone to this issue.
@@ -131,20 +134,18 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Windows 10 and Windows 11 Bloatware
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. WinRAR
 
  While having a file extraction and compression tool around is certainly useful, WinRAR is not the best choice for the job. The app has become a bit of a punchline due to its old-school "shareware" license. You can download a "trial" of WinRAR for free, which asks you to pay after using it for some time. However, the app never locks you out, even if you don't pay, so you can use it indefinitely.
@@ -157,14 +158,11 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  It's a good idea to do regular cleaning on your system to remove old or junky Windows programs. Some might be "zombie apps" that pose a security risk.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +171,24 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-comprehensive-guide-to-obtaining-visual-assets-for-2024/"><u>[New] Comprehensive Guide to Obtaining Visual Assets for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-review-screenflow-full-package-for-mac/"><u>[New] In-Depth Review ScreenFlow Full Package for Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-debut-visual-capturing-analysis-for-2024/"><u>[Updated] Debut Visual Capturing Analysis for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-to-modify-game-characters-vocal-presence-and-identity-in-free-fire-step-by-step-guide-included-free-for-2024/"><u>[Updated] How to Modify Game Characters' Vocal Presence and Identity in Free Fire (Step-by-Step Guide Included, FREE) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transforming-views-uncover-the-best-video-hacks-for-success/"><u>2024 Approved Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-login-attempt-wait-time-for-windows-os/"><u>Customizing Login Attempt Wait Time for Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-typing-flow-hotkeys-for-fast-copy-paste-in-win/"><u>Elevate Typing Flow: Hotkeys for Fast Copy-Paste in WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-stranded-alert-on-xbox-in-windows-a-step-by-step-guide/"><u>Fixing 'Stranded' Alert on Xbox in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-windows-pc-always-booting-into-bios/"><u>How to Fix a Windows PC Always Booting Into BIOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-stale-group-policies-on-windows-machines/"><u>Quick Fixes for Stale Group Policies on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-semaphore-timeout-in-windows-1110/"><u>Quick Guide: Solving Semaphore Timeout in Windows 11/10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/switchs-prime-capture-technology-picks/"><u>Switch's Prime Capture Technology Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-setup-on-steam-deck/"><u>The Ultimate Guide to Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-optimal-display-performance-on-win1011/"><u>Unlock Optimal Display Performance on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-voice-recorders-quick-access-with-shortcuts-guide/"><u>Windows 11 Voice Recorders: Quick Access with Shortcuts Guide</u></a></li>
+</ul></div>
 

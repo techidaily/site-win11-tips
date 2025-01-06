@@ -1,7 +1,7 @@
 ---
 title: The Quick and Easy Route to Your PC's Credential Vault on Win11
-date: 2024-08-16T02:34:18.639Z
-updated: 2024-08-17T02:34:18.639Z
+date: 2025-01-04T06:56:57.156Z
+updated: 2025-01-06T05:15:38.528Z
 tags:
   - windows10
   - windows11
@@ -28,23 +28,18 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 2. Type**Credentials Manager** and click on the**Open** option.
 3. The Credential Manager utility will launch on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Using Windows Search
 
  Alternatively, you can use the new and improved Windows Search tool to find and open Credential Manager on your system. Here’s how to do it:
 
 1. Press**Win + S** to open the Windows Search utility.  
 ![Open Credentials Manager Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 2. Type Credential Manager and click on the first relevant search result to open the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Using the Run Command Box
 
  You can launch Credentials Manager without using your mouse and clicking on options or the context menu using the Run command box. Repeat the following steps:
@@ -54,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 ![Open Credentials Manager Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-run-command-box.jpg)
 3. Credential Manager will open in a separate control panel window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 4\. Using the File Explorer
 
  Credential Manager’s DLL file is located inside the SysWoW64 folder. You can access it using File Explorer and then run it using Control Panel. Ensure that you have administrator privileges to access the SysWOW64 folder before trying this method. Here’s how:
@@ -82,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 4. Credentials Manager will launch on your system. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Using Control Panel
 
  Control Panel is the central hub for many system utilities and also contains Credential Manager. If you prefer the GUI method to open any Windows utility, you can use Control Panel. Repeat the following steps:
@@ -92,6 +85,14 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 2. In the Control Panel window, click on the**User Accounts** option.  
 ![Open Credentials Manager Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-control-panel.jpg)
 3. Lastly, click on the**Credential Manager** option to launch the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using a Desktop Shortcut
 
@@ -103,17 +104,18 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 2. Right-click on the Desktop and select the**New > Shortcut** option from the context menu.
 3. In the Create Shortcut window, paste the following text in the Location box:**control.exe /name Microsoft.CredentialManager**  
 ![Open Credentials Manager Using a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Click on the**Next** button. Name the shortcut**Credential Manager** and click on the**Finish** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, double-click on the shortcut to open Credential Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using the Settings App
 
  Microsoft hasn’t moved all Control Panel options to the Settings app. But it is possible to search and access Credential Manager inside the Settings app. Here’s how to do it:
@@ -123,9 +125,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Using a PowerShell Command
 
  Like the Command Prompt, you can use PowerShell to open Credential Manager with a simple one-line command. Here’s how to do it:
@@ -134,10 +133,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Type**PowerShell** and click on the**Run as administrator** option in the right pane.
 3. Type the following command in the PowerShell window and press the**Enter** key:**start-process control.exe keymgr.dll**  
 ![Open Credentials Manager Using a PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-powershell-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Credential Manager will open. Type the**exit** command in the PowerShell window and press the**Enter** key to close it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Batch File
 
@@ -153,8 +153,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. The PowerShell window will launch and close automatically. Credential Manager will launch on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Using the Task Manager
 
  You can open Credentials Manager by running a new task in Task Manager. Here’s how to do it:
@@ -169,14 +170,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Windows Credential Manager is an excellent utility that automatically saves usernames and login pairs without installing a separate application. Even if you don’t use the feature for saving passwords of your favorite websites, you can still save login information of all the Windows apps which you use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +183,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-confronting-cameras-the-face-id-face-unlock-duel-for-2024/"><u>[New] Confronting Cameras The Face ID-Face Unlock Duel for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-listing-sierras-best-video-maker-apps/"><u>2024 Approved Premier Listing Sierra's Best Video Maker Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-excluding-onedrive-in-windows-explorer/"><u>Cut Down to Size: Excluding OneDrive in Windows Explorer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722979140919-download-and-install-microsoft-surface-pro-4-drivers-on-your-pc-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your PC | Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns/"><u>Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster-for-2024/"><u>From Cut to Connect Advanced Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-camera-unavailable-issue-on-windows-11/"><u>How to Solve Camera Unavailable Issue on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-play-8t-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor Play 8T</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-where-your-onedrive-stands-a-guide-for-windows-10/"><u>Redefining Where Your OneDrive Stands: A Guide for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-decorative-elements-in-windows-search/"><u>Reducing Decorative Elements in Windows Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-true-windows-clock-settings/"><u>Securing True Windows Clock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-your-game-with-these-9-improvements-in-outlook-windows-edition/"><u>Step Up Your Game with These 9 Improvements in Outlook, Windows Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-update-renders-wincom-safe/"><u>System Update Renders WinCOM Safe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rejuvenating-defective-batch-files-on-windows/"><u>Tips for Rejuvenating Defective Batch Files on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-enhanced-vehicles-the-ultimate-5-budget-driver-software/"><u>Win-Enhanced Vehicles: The Ultimate 5 Budget Driver Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Winning Against PS4 Input Drop-Outs on Personal Computers
-date: 2024-08-16T02:33:51.055Z
-updated: 2024-08-17T02:33:51.055Z
+date: 2024-12-30T03:08:16.128Z
+updated: 2025-01-05T22:53:00.299Z
 tags:
   - windows10
   - windows11
@@ -26,21 +26,23 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Rule Out Controller's Range Issues
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Issues on the OS Side
 
@@ -48,36 +50,28 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend [running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Hard Reset Your Controller
 
  It could also be that your controller has suffered a temporary glitch, and you can fix it with a hard reset. To do that, grab a pointy and thin object, such as a straightened paper clip or toothpick, and insert it into the small hole at the back of your DS4 controller (it's below the Left Trigger button). Push it until you press the **Reset** button, hold it for about five seconds, and then let go.
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your Controller's Drivers
 
  When the driver for the PS4 controller misbehaves, it can cause the DS4 to disconnect. You can fix that by learning [how to find and replace outdated drivers on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/). If you don't know which driver to update, open Device Manager, expand the **Bluetooth** section, and then find the **Wireless Controller** driver.
@@ -91,22 +85,14 @@ Key features:
  Many Windows users use the [DS4Windows](https://ds4-windows.com/) app to connect their controller to a computer. But if it has glitched out, you should try updating it and see if that resolves the issue. To do that, go to the folder where you installed DS4Windows and double-click on the **DS4Updater.exe** file.
 
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Your PlayStation 4 Controller on Windows Without Interruption
 
  When your PS4 controller keeps disconnecting on Windows, it can ruin your gaming experience. Getting rid of the issue requires troubleshooting it from both the software and hardware side of things. And once you do, you will enjoy using the DS4 on your PC uninterrupted.
 
  If you want to get rid of this annoying problem, we're going to show you how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +100,27 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-intricacies-of-whatsapp-audio-dialogue/"><u>[New] In 2024, The Intricacies of WhatsApp Audio Dialogue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-live-streaming-software-vs-hardware-which-is-better/"><u>[New] Live Streaming Software Vs Hardware Which Is Better</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-15-must-use-hashtags-for-popularity-on-instagram-feed/"><u>[Updated] 15 Must-Use Hashtags for Popularity on Instagram Feed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>[Updated] 2024 Approved Unleashing Creativity in Stories Adding Personalized Graphics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-art-of-hiding-while-livestreaming-on-instagram/"><u>[Updated] In 2024, The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/critics-choice-best-5-web-recording-applications/"><u>Critics' Choice Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-incorrect-text-display-windows-edition/"><u>Eliminating Incorrect Text Display Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-efficiency/"><u>Enhancing Windows 11 Taskbar Efficiency</u></a></li>
+<li><a href="https://discover-help.techidaily.com/managing-windows-firewall-settings-through-control-panel-essential-tips-by-yl-software-experts/"><u>Managing Windows Firewall Settings Through Control Panel: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cpu-load-management-via-windows-resource-monitor/"><u>Mastering CPU Load Management via Windows Resource Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-digital-journey-with-microsoft-ai/"><u>Mastering Your Digital Journey with Microsoft AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-your-browsing-experience-on-pc/"><u>Mastery Over Your Browsing Experience on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-xbox-subscription-failures-on-pcs/"><u>Navigating Through Xbox Subscription Failures on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-ping-implementation-on-windows-devices/"><u>Optimal Ping Implementation on Windows Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secrets-to-designing-impactful-igtv-thumbnails/"><u>Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/solve-your-vlc-playback-problems-for-a-seamless-experience-across-windows-and-macos-systems/"><u>Solve Your VLC Playback Problems for a Seamless Experience Across Windows & macOS Systems</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-installing-an-ssd-on-your-acer-aspire-laptop-running-windows/"><u>Step-by-Step Guide: Installing an SSD on Your Acer Aspire Laptop Running Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-smoothly-running-outlook-on-windows-pcs/"><u>Strategies for Smoothly Running Outlook on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-sidestep-the-shamware-snare/"><u>Windows Woes? Sidestep the Shamware Snare</u></a></li>
+</ul></div>
+

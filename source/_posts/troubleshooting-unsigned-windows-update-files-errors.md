@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsigned Windows Update Files Errors
-date: 2024-12-20T19:58:26.428Z
-updated: 2024-12-27T18:13:08.547Z
+date: 2025-01-03T01:41:38.426Z
+updated: 2025-01-05T17:27:25.477Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Utilize the Windows Update Troubleshooter
 
  The Windows Update troubleshooting tool is there to help you fix any issues encountered when trying to update Windows 11/10\. That troubleshooter doesn’t necessarily fix every update error, but it can at least resolve some issues.
@@ -36,6 +32,14 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  So, utilizing that troubleshooter is always worth a try, which you can access in Settings as covered within this guide to [running any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run Deployment Imaging and System File Scans
 
@@ -59,15 +63,11 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 5. Set the **Startup type** setting to the **Automatic** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Save the settings by pressing the **Apply** and **OK** buttons.
 8. Double-click the **Background Intelligent Transfer Service** to view its settings.
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Erase the Windows Update Key
 
  Deleting the Windows Update registry key is a potential resolution some users confirm to fix error 0x800b0109\. However, we always recommend [backing up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or saving a system restoration point before deleting registry keys.
@@ -108,16 +104,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 4. Right-click the WindowsUpdate registry key to select **Delete**.  
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-option-1.jpg)
 5. Click **Yes** when prompted for confirmation to delete the key.  
-![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
@@ -142,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Windows Updated Again
 
  There isn’t a surefire way to fix error 0x800b0109 since there are varied possible reasons for that Windows 11/10 issue occurring. However, it’s likely at least one of the eight potential resolutions in this guide will fix that update issue on your PC.
@@ -160,24 +161,18 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-no-trace-snapcaptures-discreet-photo-taking-techniques/"><u>[New] No Trace SnapCaptures Discreet Photo-Taking Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-audience-expansion-with-immersive-360-videos-on-social-media/"><u>2024 Approved Audience Expansion with Immersive 360 Videos on Social Media</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-power-losses-how-to-schedule-auto-shutdown-on-win11-pcs/"><u>Cutting Power Losses: How to Schedule Auto-Shutdown on Win11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-defenders-0x80004004-error/"><u>Decoding and Solving Defender's 0X80004004 Error</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-best-of-gopro-cameras-side-by-side/"><u>Exploring the Best of GoPro Cameras Side by Side</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-up-to-speed-with-quick-copy-paste-in-powertoys/"><u>Get Up to Speed With Quick Copy-Paste in PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-d3dx939dll-missing-error-on-windows-11/"><u>How to Fix the D3DX9_39.dll Missing Error on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p55plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P55+</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-videography-101-crafting-attractive-haul-and-try-on-vids/"><u>In 2024, Videography 101 Crafting Attractive Haul & Try-On Vids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimized-file-picking-toggle-windows-11-checkboxes/"><u>Optimized File Picking: Toggle Windows 11 Checkboxes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/rapid-site-crawling-with-ultrafast-achieve-google-indexation-in-just-6-simple-steps-using-massmail/"><u>Rapid Site Crawling with UltraFast: Achieve Google Indexation in Just 6 Simple Steps Using Massmail!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-dxgidll-absence-on-win11-steps-guide/"><u>Resolving Dxgi.dll Absence on Win11 - Steps Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-keeping-calculator-as-windowtop-focus/"><u>Steps for Keeping Calculator as Windowtop Focus</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210811623-9798890300997-the-divine-volumes-of-power/"><u>The Divine Volumes of Power | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-windows-group-policy-interpretation-3-ways/"><u>The Essential Guide to Windows Group Policy Interpretation (3 Ways)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-guide-to-disabling-gpu-aided-process-ordering-in-widno/"><u>The Guide to Disabling GPU-Aided Process Ordering in WIDNO</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ale-of-two-platforms-youtube-and-dailymention/"><u>The Tale of Two Platforms YouTube and DailyMention</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps/"><u>[New] 2024 Approved Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-learn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>[New] Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-humor-making-funny-parody-videos/"><u>2024 Approved Creating Humor Making Funny Parody Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-browsing-experience-in-win-11-by-enabling-ms-defender-application-guard/"><u>Elevate Your Browsing Experience in Win 11 by Enabling MS Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-unintended-mouse-scrolling-with-these-7-tricks/"><u>Eradicate Unintended Mouse Scrolling with These 7 Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-12-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 12 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>In 2024, The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-start-up-challenges-in-crusader-kings-2-expert-tips-and-fixes/"><u>Overcoming Start-Up Challenges in Crusader Kings 2 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quash-windows-data-on-launches-tracking/"><u>Quash Windows Data on Launches Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-ping-in-routine-windows-tasks/"><u>Seamless Integration of Ping in Routine Windows Tasks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/step-into-the-future-of-streaming-with-top-audio-techniques-for-2024/"><u>Step Into the Future of Streaming with Top Audio Techniques for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-learn-hotkeys-to-manage-your-pc/"><u>Windows Wizardry: Learn Hotkeys to Manage Your PC</u></a></li>
 </ul></div>
 

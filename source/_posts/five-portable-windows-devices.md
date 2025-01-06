@@ -1,7 +1,7 @@
 ---
 title: Five Portable Windows Devices
-date: 2024-08-16T02:34:24.112Z
-updated: 2024-08-17T02:34:24.112Z
+date: 2025-01-01T00:14:42.392Z
+updated: 2025-01-06T08:43:25.839Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 * **Display:** High definition (720p) display; greater than 9" diagonally
 * **Trusted Platform Module** : TPM version 2.0
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. LattePanda 3 Delta
 
  The LattePanda 3 Delta is the much more powerful successor to the original LattePanda released in 2018\. It is also known as LattePanda 3 Delta 864, with the ‘8’ and ‘64’ representing the 8GB RAM and 64GB eMMC storage, respectively.
@@ -64,12 +68,13 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 | **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
 | **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2. Khadas Edge2
 
 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
@@ -89,14 +94,12 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 | **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3. Hackboard 2 SBC
 
 ![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  The[Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
 
@@ -113,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 | **Other Features**    | 30-pin eDP connector, 6-pin touchscreen interface                                                                                                                      |
 | **Power**             | 12V DC, 3A power supply                                                                                                                                                |
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 4. UDOO BOLT V8
 
  The UDOO BOLT V8 is quite expensive at $550, but it packs a lot of specs that may appeal to users who need the heavy-lifting power. For purists, the V8 is not technically a single-board computer, as the RAM is inserted in SODIMM sockets and is not embedded in the board itself.
@@ -134,14 +134,12 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 | **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Honorable Mention: Raspberry Pi 4
 
 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the[Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to[install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
@@ -158,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 | **Other Features**    | Two-lane MIPI DSI display port, two-lane MIPI CSI camera port                             |
 | **Power**             | 5V 3A power via USB-C port and GPIO; Power over Ethernet (PoE) capable using optional HAT |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run Windows on a Single-Board Computer
 
  Both ARM and x64 single-board computers are capable of running the Windows operating system. That aside, you will have an easier time running Windows on x64 computers. If you're planning to use an ARM SBC as your daily driver, Windows is not the best choice currently. You'll be better served with an operating system created specifically for ARM computers such as Armbian or a supported Android distribution.
@@ -168,8 +170,6 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,23 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[New] In 2024, How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone/"><u>[New] The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unraveling-triller-its-distinctive-place-in-the-world-of-online-videos-for-2024/"><u>[New] Unraveling Triller Its Distinctive Place in the World of Online Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-low-cost-aerial-photography-top-5-drones-under-500/"><u>[Updated] Low-Cost Aerial Photography Top 5 Drones Under $500</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029178515-aacitunes/"><u>AAC形式への変換に失敗した場合のiTunesでのトラブルシューティング手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-essay-artistry-on-a-win-pc/"><u>Elevate Your Essay Artistry on a Win-PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-gratis-multi-device-image-manipulation-tool-gimp/"><u>Expert Analysis of the Gratis Multi-Device Image Manipulation Tool, GIMP</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/garmin-forerunner-945-evaluation-all-inclusive-features-of-an-advanced-sports-smartwatch/"><u>Garmin Forerunner 945 Evaluation: All-Inclusive Features of an Advanced Sports Smartwatch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G13 FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-the-10-windows-restore-paths/"><u>Mastering Quick Access: The 10 Windows Restore Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-custom-settings-with-new-view-restores/"><u>Reclaiming Custom Settings with New View Restores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unblocking-resources-in-windows-11/"><u>Strategies for Unblocking Resources in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quickest-way-to-a-speedy-windows-11-start-up/"><u>The Quickest Way to a Speedy Windows 11 Start-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-to-win-mastering-phone-calls-on-windows-11-for-retailers/"><u>Unison to Win: Mastering Phone Calls on Windows 11 for Retailers</u></a></li>
+</ul></div>
 

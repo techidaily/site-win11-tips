@@ -1,7 +1,7 @@
 ---
 title: How to Address the Windows Breaking Point Failure
-date: 2024-12-21T18:11:16.332Z
-updated: 2024-12-27T20:05:40.958Z
+date: 2025-01-02T18:38:21.870Z
+updated: 2025-01-06T06:07:59.236Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ To disable startup apps on Windows:
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker and the DISM Tools
@@ -57,6 +57,11 @@ Follow these steps to run the DISM and System File Checker tools:
 `Dism /Online /Cleanup-Image /CheckHealth`
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /ScanHealth`
 4. Once done, type the following command to repair the system image:  
 `Dism /Online /Cleanup-Image /RestoreHealth`
@@ -80,15 +85,7 @@ To run the CHKDSK tool:
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-chkdsk-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Any GPU Overclocking
 
@@ -111,6 +108,10 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
@@ -131,12 +132,13 @@ To uninstall an application on Windows:
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
-![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
-5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
+5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
@@ -144,7 +146,7 @@ To uninstall an application on Windows:
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
@@ -166,18 +168,22 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[New] 2024 Approved Quiet Your Feed Stop Instagram's Suggestion System</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[Updated] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-your-notebooks-visual-techniques-in-obsidian/"><u>Declutter Your Notebooks: Visual Techniques in Obsidian</u></a></li>
-<li><a href="https://video-capture.techidaily.com/decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid-for-2024/"><u>Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-unilateral-windows-headset-defects/"><u>Diagnosing Unilateral Windows Headset Defects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-security-controls-for-typical-windows-accounts/"><u>Enhancing Security Controls for Typical Windows Accounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-software-interaction-winshortcut-guide/"><u>Enhancing Software Interaction: WinShortcut Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-inserting-secure-passwords-into-texts-win-style/"><u>Expert Tips for Inserting Secure Passwords Into Texts, Win-Style</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-redmi-13c-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Redmi 13C 5G Phone Screen?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-meizu-21-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Meizu 21 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-c02-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia C02 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-process-for-distro-and-catroot2-fixes-in-ws11/"><u>The Ultimate Process for Distro & Catroot2 Fixes in WS11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-extra-storage-a-step-by-step-guide-to-clear-your-iphone-clutter-and-save-gb/"><u>Unlocking Extra Storage: A Step-by-Step Guide to Clear Your iPhone Clutter & Save GB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-yoga-channels-to-elevate-your-health-game-for-2024/"><u>[New] Essential 10 Yoga Channels to Elevate Your Health Game for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-every-aspect-of-minecraft-play/"><u>[Updated] In 2024, Capturing Every Aspect of Minecraft Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[Updated] In 2024, Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-incorporate-mp3s-into-presentation-decks-for-2024/"><u>[Updated] Incorporate MP3s Into Presentation Decks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-window-updates-blocked-by-error-2e/"><u>Fix Window Updates Blocked by Error 2E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-early-access-the-way-into-windows-11-beta/"><u>Gain Early Access: The Way Into Windows 11 Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/historic-footprints-in-tech-rediscovering-7-old-world-windows-aspects/"><u>Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-bloatware-eradication-for-your-win11-system/"><u>Lightning Bloatware Eradication for Your Win11 System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-connectivity-an-authoritative-review-of-the-amazonbasics-7-port-usb-30-hub-for-optimal-performance/"><u>Mastering Connectivity: An Authoritative Review of the AmazonBasics 7-Port USB 3.0 Hub for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-customization-user-dir-names-in-w11/"><u>Mastering Customization: User Dir Names in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-windows-minimizing-glitches/"><u>Strategies to Combat Windows Minimizing Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-a-closer-look-at-their-differences/"><u>Terminal Vs. PowerShell: A Closer Look at Their Differences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-beginners-handbook-to-free-chessboard-soccer-management/"><u>The Complete Beginner’s Handbook to Free Chessboard Soccer Management</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-6-tools-to-download-lite-videos-from-facebook/"><u>Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-and-amd-resolved-loading-problem-for-detection-driver/"><u>Win10 and AMD: Resolved Loading Problem for Detection Driver</u></a></li>
 </ul></div>
 

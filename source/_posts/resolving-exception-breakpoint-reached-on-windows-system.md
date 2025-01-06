@@ -1,7 +1,7 @@
 ---
 title: Resolving Exception Breakpoint Reached on Windows System
-date: 2024-12-22T17:14:09.705Z
-updated: 2024-12-27T19:10:18.801Z
+date: 2025-01-03T07:36:17.136Z
+updated: 2025-01-06T03:00:18.871Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -43,10 +39,14 @@ To disable startup apps on Windows:
 ![disable startup apps windows 11 new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/disable-startup-apps-windows-11-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker and the DISM Tools
 
@@ -94,6 +94,10 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -105,16 +109,8 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
@@ -122,10 +118,6 @@ To run the CHKDSK tool:
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -140,6 +132,11 @@ To uninstall an application on Windows:
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
@@ -147,6 +144,10 @@ To uninstall an application on Windows:
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
@@ -167,19 +168,21 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-decreasing-obs-stream-quality/"><u>[New] 2024 Approved Decreasing OBS Stream Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[New] 2024 Approved Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-turn-your-videos-backwards-on-phone/"><u>[New] 2024 Approved Turn Your Videos Backwards on Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>[Updated] Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
-<li><a href="https://win-community.techidaily.com/creation-dune-cle-usb-bootable-made-easy-les-applications-gratuites-and-performantes-a-privilegier-en-2023/"><u>Création D'une Clé USB Bootable Made Easy: Les Applications Gratuites & Performantes À Privilégier en 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-limited-edition-feature/"><u>Decoding Windows 11’S Limited Edition Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-scoring-a-deal-cut-costs-by-200-on-your-next-gopro-hero-n-camera-purchase/"><u>Expert Tips for Scoring a Deal: Cut Costs by $200 on Your Next GoPro Hero N Camera Purchase</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-integrated-graphics-on-windows-and-when-you-should/"><u>How to Disable Integrated Graphics on Windows (and When You Should)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intrusive-invaders-out-4-routines-for-eradicating-users-from-win11/"><u>Intrusive Invaders Out!: 4 Routines for Eradicating Users From Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolving-audio-driver-issues-in-win10/"><u>Resolving Audio Driver Issues in Win10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/scam-redefined-new-meta-signature-era/"><u>Scam Redefined: New Meta Signature Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/signing-out-unknown-windows-accounts-with-ease-on-win-11/"><u>Signing Out Unknown Windows Accounts with Ease on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-snipping-tool-activation-via-print-screen-key-in-windows-11/"><u>Stop Snipping Tool Activation via Print Screen Key in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-9-steps-for-successful-icloud-syncing/"><u>Troubleshoot Your iPhone: 9 Steps for Successful iCloud Syncing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs/"><u>[New] How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fluid-fusion-combining-videos-for-a-unified-youtube-presence/"><u>[New] In 2024, Fluid Fusion Combining Videos for a Unified Youtube Presence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamline-and-slim-vids-instagram-tips-using-macos-for-2024/"><u>[Updated] Streamline and Slim Vids Instagram Tips Using macOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-to-flawless-lenovo-screen-recordings/"><u>2024 Approved Unveiling the Secrets to Flawless Lenovo Screen Recordings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-worthiness-is-chatgpt-plus-an-essential-ai-tool-for-you/"><u>Exploring the Worthiness: Is ChatGPT Plus an Essential AI Tool for You?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>In 2024, Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsofts-windows-1111-shop-hurdle/"><u>Overcoming Microsoft's Windows 11/11 Shop Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-proxy-settings-glitch/"><u>Quick Fix for Windows Proxy Settings Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-virtual-memory-for-performance-gain/"><u>Revamping Virtual Memory for Performance Gain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-the-ratio-why-does-chatgpt-4-run-roughly/"><u>Revealing the Ratio: Why Does ChatGPT-4 Run Roughly?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/robot-rebusions-tracking-laptop-transformation-and-online-guardians/"><u>Robot Rebusions: Tracking Laptop Transformation & Online Guardians</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-directx-download-errors-on-windows/"><u>Tackling DirectX Download Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-backups-to-original-win-standards/"><u>Tailoring Your Backups to Original Win Standards</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omplete-analysts-toolkit-for-tracking-youtube-audiences-and-money-flow-for-2024/"><u>The Complete Analyst's Toolkit for Tracking YouTube Audiences & Money Flow for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwrapping-the-truth-behind-windows-error-code-0x80073d26/"><u>Unwrapping the Truth Behind Windows' Error Code 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-weekly-windows-file-backups-matter/"><u>Why Weekly Windows File Backups Matter</u></a></li>
 </ul></div>
 

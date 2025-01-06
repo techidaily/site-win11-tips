@@ -1,7 +1,7 @@
 ---
 title: How To Revive Nonworking Google Nearby Share on PC
-date: 2024-08-08T11:13:28.835Z
-updated: 2024-08-09T11:13:28.835Z
+date: 2025-01-04T11:52:24.992Z
+updated: 2025-01-06T00:16:21.277Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Your PC Meets the Minimum Hardware Requirements
 
  One of the most common reasons why Google's Nearby Share app may not work on your Windows PC is due to compatibility issues. Hence, it’s the first thing you should check.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  Click the **Show more icons arrow** on the taskbar, right-click on the **Nearby Share app** icon, and select **Exit** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
 
  Reopen the app after this, and see if you can send and receive files as before.
@@ -53,25 +47,28 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Bring Both Devices Closer
 
  Another thing you should ensure is that your Android phone is within **16 feet (5 meters)** of your Windows computer. The proximity of your devices directly impacts the quality of the connection. So, if you are experiencing slow transfer speeds or failed transfers, consider bringing the devices closer and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check the Device Visibility Settings
 
  If your Windows PC is not showing up as an available device when [sharing files from your Android phone](https://www.makeuseof.com/tag/transfer-files-android-pc/), you may have accidentally set your PC as hidden in the Nearby Share app.
 
  To change the device visibility settings in the Nearby Share app, click the **Device is hidden** drop-down menu and select one of the following options: **Receive from everyone**, **Receive from contacts**, or **Receive from your devices**. Following this, your PC should show up as an available device to nearby Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the Default Save Location
 
@@ -85,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 4. Select another location on your PC and click the **Change** button.  
 ![Change Default Save Location in Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-default-save-location-in-nearby-share-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, try to receive files from an Android device.
 
 ## 7\. Enable Notifications for the App
@@ -94,10 +95,11 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 1. Press **Win + I** to open the Settings app.
 2. Navigate to **System > Notifications**.
 3. Under **Notifications from apps and other senders**, locate the **Nearby Share from Google** and turn on the toggle next to it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
 
@@ -114,16 +116,14 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 5. Scroll through the list to locate and select **Nearby Share**.
 6. Click the **Repair** option at the top.
 7. Select **Yes** if the User Account Control (UAC) prompt appears, and then follow the on-screen prompts to finish the repair.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-google-nearby-share-on-windows.jpg)
 
  Restart the Nearby Share app after this and see if it works as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reinstall the Nearby Share App
 
  If the issue remains even after you repair the Nearby Share app, you can try reinstalling it on your PC. Here's how you can go about it:
@@ -146,11 +146,28 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>[New] In 2024, Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-subtle-harmonies-on-desktop-systems/"><u>[New] Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-blueprint-for-traffic-boost-masterful-techniques-for-effective-fb-videos/"><u>2024 Approved The Blueprint for Traffic Boost Masterful Techniques for Effective FB Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-pc-performance-with-auto-windows-and-amd-update/"><u>Enhanced PC Performance with Auto-Windows & AMD Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/for-windows-novices-accessing-tools-simplified/"><u>For Windows Novices: Accessing Tools Simplified</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-correcting-windows-error-0x800704b3/"><u>Guidelines for Correcting Windows Error 0X800704B3</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y78plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y78+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-disarm-windows-security-alarms/"><u>Quick Fixes to Disarm Windows Security Alarms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-file-save-location-mistakes-in-win-1011/"><u>Solving File Save Location Mistakes in Win 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
+</ul></div>
+

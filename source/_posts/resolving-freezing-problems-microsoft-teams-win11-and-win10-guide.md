@@ -1,7 +1,7 @@
 ---
 title: "Resolving Freezing Problems: Microsoft Teams Win11 & Win10 Guide"
-date: 2024-08-16T02:36:26.661Z
-updated: 2024-08-17T02:36:26.661Z
+date: 2024-12-29T21:56:49.204Z
+updated: 2025-01-06T11:25:49.020Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,17 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  Note that Microsoft offers two versions (Home and Work) of the Teams app. Due to differences in versions, some fixes below may not apply to the Teams (Work or School) version and vice versa.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. End the Microsoft Teams Process in Task Manager
 
 ![end microsoft teams process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/end-microsoft-teams-process.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can kill and restart the Microsoft Teams process in Task Manager to fix crashing issues due to a temporary glitch. Here's how to do it:
 
@@ -48,15 +56,9 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 3. On the **Teams (Work or School)** version, the **Sign Out** option is at the bottom of the context menu.
 4. Once you log out, close the Teams' sign-in window that appears. This should exit the app.  
 ![quit teams app system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quit-teams-app-system-tray.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 5. Next, open the **System Tray** and check if the Microsoft **Teams** icon exists. If yes, right-click on the **Teams** icon and select **Quit**.
 6. Relaunch the app and sign in. Check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clear Microsoft Teams Cache
 
 ![delete microosft teams cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/delete-microosft-teams-cache.jpg)
@@ -73,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 5. Next, right-click and select **Delete**, or press the **Del** key on your keyboard.
 6. Close File Explorer and restart your PC. Now restart the Teams app and sign in with your credentials.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair Microsoft Teams
 
  You can repair some Microsoft Store apps and programs in Windows 11 and the older version of OS. The repair feature tries to repair the installation, thus fixing any problems triggered due to file corruption.
@@ -90,16 +89,24 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 4. Click on **Apps & features.**  
 ![microsoft-teams-app-advanced-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/microsoft-teams-app-advanced-options.png)
 5. Locate or search for the Microsoft Teams app. Then, click the **three-dots menu** next to the app name and select **Advanced options.**  
-![repair microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-microsoft-teams.png)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![repair microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-microsoft-teams.png)
 6. Scroll down to the **Reset** section and click on **Repair**. Windows will start repairing the app and show a checkmark after the repair is complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the **Settings** page and launch Microsoft Teams to see if the crashing problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reset the Microsoft Teams App
 
 ![reset microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-microsoft-teams.png)
@@ -119,16 +126,9 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  The reset process will restore the app to its factory default deleting all the data, including cache. However, it will also delete any saved login credentials. So, you will need to log in again to use the app. Once done, you can [effortlessly manage your teams on Microsoft Teams](https://www.makeuseof.com/best-ways-manage-team-microsoft-teams/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update the Microsoft Teams App
 
 ![Microsoft teams settings update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Microsoft-teams-settings-update.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Newer updates often include bug fixes and performance improvements. While Microsoft Teams auto-updates every two weeks, you can manually check for a newer update in the app settings.
 
@@ -139,9 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Open the **About Teams** tab in the bottom left corner.
 4. Microsoft Teams will check for pending updates and install them if available.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Run Teams in Compatibility Mode
 
  If the app Teams app continues to crash, try to run it in compatibility mode. You can configure Microsoft Teams (work or school) to run in compatibility mode from its properties.
@@ -152,22 +149,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Next, press the **Win** key and type **Microsoft Teams**.  
 ![microsoft teams shortcut open file location windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-teams-shortcut-open-file-location-windows-11.jpg)
 3. Right-click on **Microsoft Teams (work and school)** and select **Open File Location**. This will open the Teams’ desktop shortcut location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on the **Microsoft Teams** shortcut and select **Properties**.  
 ![microsoft teams shortcut properties windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-teams-shortcut-properties-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Open the **Compatibility** tab in the **Properties** dialog.
 6. Select the "**Run this program in compatibility mode for"** option under the **Compatibility mode** section.  
 ![run microsoft teams compatibility mode windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-microsoft-teams-compatibility-mode-windows-7.jpg)
 7. Click the **Windows 8 drop-down** and select **Windows 7**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **Apply** and **OK** to save the changes.
 
  With the new changes in place, launch Microsoft Teams to see if the crashing problem is resolved. If the issue persists, use a different Windows version in compatibility mode to see if that helps resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Update the Display Adapter Driver
 
 ![update driver display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/update-driver-display-adapter.png)
@@ -188,6 +189,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![disable intel hd display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-intel-hd-display-adapter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If updating the display driver did not help, uninstall the graphics driver to see if that helps you resolve the error. When uninstalled, Windows will use the generic display driver, but it will help you determine the cause of the problem.
 
  To uninstall the graphics driver:
@@ -197,9 +202,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Right-click on the **Intel HD Graphics** device driver and select **Disable device.** Click **Yes** to confirm the action.
 4. Next, right-click on the display adapter and select **Enable**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reinstall Microsoft Teams
 
 ![uninstall Microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-Microsoft-teams.png)
@@ -215,12 +217,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Select your Windows version and click the **Download** button.
 6. Run the download package and install the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Run the System File Checker Tool
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/run-system-file-checker.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  If Microsoft Teams fails to launch, you can run the System File Checker tool. It will scan the system for file corruption and restore the corrupted system files. This is helpful if the system-related issues are preventing the app from launching.
 
@@ -241,11 +244,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Note that Microsoft offers two versions (Home and Work) of the Teams app. Due to differences in versions, some fixes below may not apply to the Teams (Work or School) version and vice versa.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-lowdown-on-using-showmores-recorder/"><u>[New] In 2024, The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/itigating-the-risk-of-youtube-sanctions-for-2024/"><u>[New] Mitigating the Risk of YouTube Sanctions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-odins-children-ragnaroks-reign-for-2024/"><u>[Updated] Odin’s Children Ragnarok’s Reign for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>[Updated] Tapping Into Traditional Hymns Downloads & Editing Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-list-of-apples-best-photo-watermark-applications-for-2024/"><u>[Updated] Ultimate List of Apple's Best Photo Watermark Applications for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fast-and-flawless-screen-shots-for-chromebookers/"><u>2024 Approved Fast and Flawless Screen Shots for Chromebookers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-morning-analysis-unconventional-perspectives/"><u>2024 Approved Morning Analysis Unconventional Perspectives</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-a-multimedia-guide-adding-videos-to-text-articles-for-2024/"><u>Creating a Multimedia Guide Adding Videos to Text Articles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-repairing-windows-11s-media-app-failures/"><u>Expert Advice on Repairing Windows 11'S Media App Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-11s-development-environment-a-guide-to-dev-drive/"><u>Exploring Windows 11'S Development Environment: A Guide to Dev Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-tiworkerexe-high-cpu-usage-in-windows/"><u>How to Fix a TiWorker.exe High CPU Usage in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innocent-looking-software-uncovered-for-windows-11-speed-drop/"><u>Innocent-Looking Software Uncovered for Windows 11 Speed Drop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pause-in-play-reactivating-computers-sound-system/"><u>Pause in Play? Reactivating Computer's Sound System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-no-more-restore-functional-slack-notifications-in-win-11/"><u>Silent No More! Restore Functional Slack Notifications in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-best-multi-monitor-brightness-control-software-for-windows/"><u>The 6 Best Multi-Monitor Brightness Control Software for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-to-move-onedrive-directly-in-windows/"><u>Unveiling the Procedure to Move OneDrive Directly in Windows</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
+</ul></div>
+

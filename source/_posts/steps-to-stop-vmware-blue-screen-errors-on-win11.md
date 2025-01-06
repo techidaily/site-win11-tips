@@ -1,7 +1,7 @@
 ---
 title: Steps to Stop VMware Blue Screen Errors on Win11
-date: 2024-08-08T11:13:30.753Z
-updated: 2024-08-09T11:13:30.753Z
+date: 2025-01-05T05:24:05.326Z
+updated: 2025-01-06T02:54:18.343Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/b279c06b6e6c3fd0e8d4629e4ec0cbf49c045cc7b
 
  And although virtual machines typically run smoothly, you might occasionally experience a BSOD error while launching or using a virtual machine in a VMware workstation player. So, we'll list the potential reasons for BSODs in VMware along with multiple methods to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Reasons for VMware BSOD Error on Windows 11
 
 Here are a few possible reasons for the VMware BSOD error on Windows:
@@ -38,11 +34,16 @@ Here are a few possible reasons for the VMware BSOD error on Windows:
  Now, you know the possible reasons for the BSOD error while using VMware. Try out the following methods to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Restart VMware
 
  Before moving on to more complex fixes, restart the VMware program on your Windows 11 computer. Close the program and terminate all its processes from the Task Manager. Now, relaunch VMware and power on a virtual machine. Keep the machine running for some time, and keep an eye out for BSOD errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update VMware
 
@@ -59,9 +60,6 @@ Here are a few possible reasons for the VMware BSOD error on Windows:
 8. Click on the**Finish** button after the installation completes successfully.
 9. Restart your system. Launch VMware and start a virtual machine. Check if the program produces a BSOD error.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Disable Hyper-V and Other Windows Features
 
  Third-party hypervisors fail to launch or work properly when Hyper-V or other virtualization features such as Windows Hypervisor Platform, Virtual Machine Platform, and more. You must turn off all these features before using VMware on your Windows 11 system.
@@ -71,17 +69,15 @@ Repeat the following steps to disable Windows features:
 1. Press**Win + R** to launch the Run command box. Type**appwiz.cpl** and press the enter key.
 2. Programs and Features utility will launch. Click on the**Turn Windows features on or off** option.
 3. Scroll down and uncheck the**Hyper-V** feature in the list. Similarly, uncheck the**Windows Hypervisor Platform** ,**Virtual Machine Platform** , and**Windows Subsystem for Linux** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Disable Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-windows-features.jpg)
 4. Windows will uninstall all these features from your system and auto-restart it to apply changes. It will take a while to remove all these features.
-5. Sign in and launch VMware again. Now, power on a virtual machine and check if a BSOD error pops up.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Sign in and launch VMware again. Now, power on a virtual machine and check if a BSOD error pops up.
+
 ### 4\. Reconfigure Virtual Machine Resources
 
  If your virtual machine crashes and throws a BSOD error, it is likely consuming more resources than your system can spare. Ideally, you should not devote more than 50 percent of any hardware (CPU, RAM, or disk space) to a virtual machine. Always leave enough for the host system to run smoothly and then devote the rest to the virtual machine.
@@ -93,6 +89,11 @@ Here's how to reconfigure virtual machine resources in VMware.
 3. Move to the Processors option and expand the**number of processor cores** dropdown list. Select**four** and click on the**OK** button.  
 ![Reconfigure virtual machine resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reconfigure-virtual-machine-resources.jpg)
 4. These hardware settings are different for every operating system. Make sure to allocate only the bare minimum resources specified by the operating system developers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, power on the virtual machine and use it for some time. If you still encounter a BSOD error, move to the next method.
 
 ### 5\. Update Windows
@@ -117,11 +118,13 @@ To clean boot your Windows PC, repeat the following steps:
 3. Switch to the**Services** tab and click on the**Hide all Microsoft services** option.
 4. Click on the**Disable all** button and then switch to the startup tab. Click on the Open Task Manager option.
 5. Task Manager will launch. Right-click on a startup program and select the**Disable** option. Repeat this action for all programs.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Perform a Clean Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/perform-a-clean-boot-1.jpg)
 6. Close Task Manager and click on the**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your system and launch VMware. If it runs fine, open System Configuration, enable some services, and try again.
 8. Identify and uninstall the troublemaker program or keep its services disabled on startup.
 
@@ -132,29 +135,24 @@ To clean boot your Windows PC, repeat the following steps:
  Start the virtual machine and boot from that ISO file using the boot menu options. Begin the installation process and check if the process completes without an issue.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Use a Different Hypervisor
 
  The last resort is to use a different hypervisor program for the time being. Try a level-1 hypervisor like Hyper-V or use level-2 hypervisors like VirtualBox or QEMU. Report the issue to the VMware developers and wait for them to release a bug fix for the BSOD issue.
 
  VirtualBox had a similar issue when it wasn't compatible with Windows 11\. It took Oracle some time to release a compatible version, forcing users to find a temporary alternative while waiting for the fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## VMware BSOD Error Won't Bother You Anymore
 
  VMware can easily run all the popular operating systems inside a virtual machine. But the BSOD error renders the program unusable. Try out the basic troubleshooting methods and update VMware and Windows. After that, disable Windows Hyper-V and other virtualization features and reconfigure the virtual machine resources.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +161,22 @@ To clean boot your Windows PC, repeat the following steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>[New] 2024 Approved Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-steps-to-ace-zoom-with-a-chromebook/"><u>[New] Key Steps to Ace Zoom with a Chromebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-steady-snaps-premier-tripods-for-mobile-cameras/"><u>[New] Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-captivating-online-titles-simplified/"><u>[Updated] 2024 Approved Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unveiling-the-reasons-behind-missing-shorts-thumbnails/"><u>[Updated] 2024 Approved Unveiling the Reasons Behind Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instantaneously-upgraded-images-masterful-mac-based-video-scaling-for-2024/"><u>[Updated] Instantaneously Upgraded Images Masterful Mac-Based Video Scaling for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-run-time-error-windows-app-fix-guide/"><u>Clearing Up 'Run-Time Error': Windows App Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unreachable-status-of-steam-game-servers-on-desktop-os/"><u>Correcting Unreachable Status of Steam Game Servers on Desktop OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-winning-giveaway-posts-on-facebook/"><u>In 2024, The Art of Crafting Winning Giveaway Posts on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-techniques-for-hardware-id-discovery-in-windows-systems/"><u>Key Techniques for Hardware ID Discovery in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-freezing-issues-with-spotify-on-w10w11-oses/"><u>Overcoming Freezing Issues with Spotify on W10/W11 OSes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/permanent-capture-sustaining-facebook-live-footage-for-2024/"><u>Permanent Capture Sustaining Facebook Live Footage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-inaccessible-nvidia-control-panel-in-win11/"><u>Solutions for Inaccessible Nvidia Control Panel in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-rectifying-domain-services-print-glitches/"><u>Step-by-Step: Rectifying Domain Services Print Glitches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tiktok-age-update-made-simple-user-friendly-techniques/"><u>TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Infuse Your PC with a Seasonal Flair: System Tray Weather Icons in Windows 11"
-date: 2024-12-22T19:41:50.621Z
-updated: 2024-12-27T19:24:22.636Z
+date: 2025-01-02T06:37:41.898Z
+updated: 2025-01-05T23:36:43.407Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Weather Icon to the System Tray With WeatherMate
 
  WeatherMate is a portable app that adds an icon to your system tray for displaying a location’s temperature. Clicking that system tray icon brings up a small panel that shows a weekly forecast for your set location. Note that this app will also work on older Windows platforms dating back to XP.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 2. Click **Select** to choose an installation for WeatherMate.  
 ![The WeatherMate Portable Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-window.jpg)
 3. Click **OK** in the Browse for Folder window and select **Finish**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Select **Close** to exit the setup window and launch WeatherMate.
 
@@ -48,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![The Locations window for WeatherMate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/locations-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  WeatherMate will show only today’s weather info by default. However, you can change that to a weekly forecast via the app’s settings.
 
  Click on the cog icon and Settings. Select **Weekly** **detail** on the **Forecast** drop-down menu within the **Display** tab and choose **OK**. WeatherMate will show a more detailed one-week forecast for your area.
@@ -59,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![The weekly detail setting and forecast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/detailed-weathermate-forecast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
@@ -78,16 +82,12 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
 
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -106,24 +106,19 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-esports-news-and-analysis-from-top-vloggers/"><u>[New] 2024 Approved Esports News and Analysis From Top Vloggers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>[New] 2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-visual-unity-ai-driven-instavideo-compilation/"><u>[New] 2024 Approved Visual Unity AI-Driven InstaVideo Compilation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-dodging-pauses-secrets-to-seamless-photobooth-screens-for-2024/"><u>[New] Dodging Pauses Secrets to Seamless Photobooth Screens for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-artistry-integrating-anime-inspired-effects/"><u>[Updated] Snapchat Artistry Integrating Anime-Inspired Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-onedrive-failures-error-code-0x80070194/"><u>Correcting OneDrive Failures (Error Code 0X80070194)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-browser-selection-lowest-impact-on-memorycpu-in-triple-os-environments/"><u>Efficient Browser Selection: Lowest Impact on Memory/CPU in Triple OS Environments</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-media-errors-on-windows-platform/"><u>Fixing Media Errors on Windows Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-action-plan-for-windows-update-restart/"><u>Immediate Action Plan for Windows Update Restart</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-expert-list-superior-gaming-live-options/"><u>In 2024, Expert List Superior Gaming Live Options</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-12-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme 12 5G FRP Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-latest-changes-in-windows-11-update-policy/"><u>Navigating Through the Latest Changes in Windows 11 Update Policy</u></a></li>
-<li><a href="https://win-top.techidaily.com/prevent-your-messages-from-landing-in-the-spam-folder-expert-tips-with-massmail/"><u>Prevent Your Messages From Landing in the Spam Folder: Expert Tips with MassMail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-originality-in-windows-11s-search-feature/"><u>Regaining Originality in Windows 11'S Search Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-failed-connection-attempts-fixing-windows-11e-try-connecting-error/"><u>Strategies for Resolving Failed Connection Attempts: Fixing Windows 11'E Try Connecting Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-role-of-aliases-in-coding-a-practical-guide/"><u>The Role of Aliases in Coding: A Practical Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-help-fixing-the-secured-c-drive-accessibility/"><u>Windows 11 Help: Fixing the Secured C: Drive Accessibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-snipping-tool-mastering-multi-modal-recording-techniques-max-156/"><u>Windows 11 Snipping Tool: Mastering Multi-Modal Recording Techniques (Max 156)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breaking-down-snapchats-new-highlight-functionality/"><u>[New] Breaking Down Snapchat's New Highlight Functionality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-fitbit-charge-6-a-detailed-user-guide/"><u>Comprehensive Analysis of the Fitbit Charge 6: A Detailed User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-fixes-for-isdonedll-error-on-windows-11-systems/"><u>Fast Fixes for ISDone.dll Error on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-deactivated-conditional-rules-in-outlook-emails/"><u>Fixing Deactivated Conditional Rules in Outlook Emails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-build-your-perfect-gamers-paradise-essential-tips-and-tricks/"><u>How to Build Your Perfect Gamer's Paradise: Essential Tips and Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-of-slomo-video-capture-tool/"><u>In 2024, In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-failure-windows-error-0x80242016-fixes/"><u>Overcome Failure: Windows Error 0X80242016 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-malfunctions-of-windows-11-recycling-feature/"><u>Resolving Malfunctions of Windows 11 Recycling Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-clipboard-issues-in-windows-11/"><u>Solving Clipboard Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-token-misapplication-issue-in-windows/"><u>Tips to Resolve “Token Misapplication” Issue in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-smartscreen-temporarily-unavailable/"><u>Troubleshooting: Windows Defender SmartScreen Temporarily Unavailable</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-assessing-vidmas-video-capture-capabilities/"><u>Ultimate Guide Assessing Vidma's Video Capture Capabilities</u></a></li>
+<li><a href="https://win-special.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
 </ul></div>
 

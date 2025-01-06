@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: 7 Efficient Study Strategies on a Windows PC"
-date: 2024-12-18T18:01:02.679Z
-updated: 2024-12-21T18:38:34.239Z
+date: 2025-01-05T06:45:38.320Z
+updated: 2025-01-05T22:23:01.927Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create an Organized Folder Structure
 
  Like any workstation, keeping your files nicely organized helps enhance your productivity. However, things may quickly get disorganized with Downloads, Documents, Pictures, and other folders. Your notes may be scattered across multiple folders, making it difficult to remember where files are located.
@@ -39,7 +35,16 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 2. You must first select a main location where all the folders will be saved. We recommend storing the main folder on a separate volume for easy access. Go to the location, create a new folder, and name it.  
 ![A Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-folder-in-file-explorer.jpg)
 3. Go inside the folder you just created. Now, let’s create four different folders to organize the folder structure. We’ll use the PARA approach to name the folder. PARA refers to **Projects**, **Areas**, **Resources**, and **Archives**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PARA Styled Folder Structure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/para-styled-folder-structure.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is an overview of how the PARA approach can help organize student materials:
 
@@ -49,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 * **A (Archives):** The Archives folder is where you can store completed or older materials that you may want to reference in the future.
 
  Now that you have the structure, you can logically group related files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set Up Google Drive for Cloud Sync
 
@@ -64,15 +65,25 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 2. Run the Google Drive installer file and click on **Install**.  
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
 3. Click **Launch** and log in with your primary Google account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
 5. Click on the **Add folder** button and select the main folder location that you created before.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
@@ -84,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  Depending on your needs, you can customize sessions as short as 5 minutes or as long as multiple hours. You can access this feature from your **Windows Settings > System > Focus section**. Click the **Start focus session** button to start a session for the set amount. If you want to change the default timer, click the **Plus** or **Minus** button to adjust it.
 
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
 
@@ -99,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -115,6 +126,11 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
@@ -127,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  Two great Windows options are OneNote and Obsidian. Both help create and organize notes easily. OneNote's expandable canvas and sections make note-taking with a stylus easy. Check our [tips to get started with OneNote](https://www.makeuseof.com/tag/use-onenote-school-10-tips-students-teachers/).
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Download Notion and Set It Up
 
@@ -152,15 +164,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -170,24 +174,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  As a student, you can get the most out of your Windows PC with just a few tweaks. Want to know some useful ones? In this article, we’ll show you some of the best ways to set up your Windows PC like a pro.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] 2024 Approved How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-secrets-how-to-save-your-google-conversations-for-2024/"><u>[New] Unveiling Secrets How to Save Your GooGle Conversations for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>[Updated] 2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 30 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-pcs-performance-with-app-resets-in-windows-11/"><u>Enhancing Your PC's Performance with App Resets in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-living-room-to-stage-how-to-create-the-ultimate-at-home-karaoke-experience/"><u>From Living Room to Stage: How To Create the Ultimate At-Home Karaoke Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intuitive-windows-management-auto-update-and-gpu-switch-routine/"><u>Intuitive Windows Management: Auto Update & GPU Switch Routine</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-launcher-problem-code-0x803f8001-on-windows/"><u>Navigating Launcher Problem Code 0X803F8001 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-installer-failures-on-modern-windows/"><u>Navigating Through Installer Failures on Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-start-button-functionality/"><u>Restoring Windows Start Button Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sleepers-dilemma-waking-keyboard-and-mouse-clicked-windows/"><u>Sleeper's Dilemma: Waking Keyboard & Mouse Clicked Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-web-based-video-editors-for-chromebook-users/"><u>Updated In 2024, The Best Web-Based Video Editors for Chromebook Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-your-gameplay-how-to-fix-offline-wow-issues/"><u>Winning Back Your Gameplay: How to Fix Offline WoW Issues</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -195,3 +181,25 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-return-artisan-set/"><u>[New] Return Artisan Set</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unveiling-tiktoks-secrets-a-guide-for-macpc-owners/"><u>[New] Unveiling TikTok's Secrets A Guide for Mac/PC Owners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalized-whatsapp-tones-on-iphoneandroid-devices/"><u>2024 Approved Personalized WhatsApp Tones on iPhone/Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-dual-users-ms-error-on-windows-os/"><u>Addressing Dual Users' MS Error on Windows OS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-ax6000-rt-ax88u-wireless-gigabit-router-evaluation-the-ultimate-smart-wifi-6-device/"><u>Asus AX6000 RT-AX88U Wireless Gigabit Router Evaluation - The Ultimate Smart WiFi 6 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chromecast-with-google-tv-unveiled-a-comparison-to-firetv/"><u>Chromecast with Google TV Unveiled: A Comparison to FireTV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-to-open-wordpad-in-windows/"><u>Essential Techniques to Open WordPad in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-exiting-wows-unprecedented-crash-132/"><u>Guide to Exiting WoW’s Unprecedented Crash 132</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unpair-and-reconnect-devices-effortlessly-on-win-11/"><u>How to Unpair and Reconnect Devices Effortlessly on Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>In 2024, Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-civi-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Civi 3 online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-screen-quiet-disable-win11-folders/"><u>Mastering Screen Quiet: Disable Win11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-win-lsa-troubleshooting/"><u>Mastering the Art of Win LSA Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-power-for-photo-renewal-with-windows/"><u>Transformative Power for Photo Renewal with Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-are-businesses-saying-no-to-chatgpt-exploring-5-main-reasons/"><u>Why Are Businesses Saying No to ChatGPT? Exploring 5 Main Reasons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-decoding-password-demand/"><u>Winning Back Access: Decoding Password Demand</u></a></li>
+</ul></div>
+

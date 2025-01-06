@@ -1,7 +1,7 @@
 ---
 title: Remote Repair Techniques for Non-Responsive PC Links
-date: 2024-12-25T18:42:33.838Z
-updated: 2024-12-27T18:38:00.122Z
+date: 2024-12-31T08:56:46.685Z
+updated: 2025-01-06T02:18:45.930Z
 tags:
   - windows10
   - windows11
@@ -43,16 +43,8 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![the google chrome menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-google-chrome-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Reset settings to their original defaults** on the right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the reset settings page of google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-google-chrome.jpg)
 4. In the pop-up, confirm you want to reset Chrome by clicking on **Reset settings**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![the pop up to reset settings in google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-google-chrome.jpg)
 
@@ -66,6 +58,11 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 3. On the left side menu, select **Reset settings**, and then click on **Restore settings to their default values** on the right.  
 ![the reset settings page of microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-microsoft-edge.jpg)
 4. In the pop-up, confirm you want to reset Edge by clicking on **Reset**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the pop up to reset settings in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-microsoft-edge.jpg)
 
  To reset Firefox, follow the steps below:
@@ -75,24 +72,21 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 2. In the menu, click on **Help**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the firefox menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-menu.jpg)
 3. Click on **More troubleshooting information**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the firefox help menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-help-menu.jpg)
 4. In the small panel on the right side, click on **Refresh Firefox**.  
-![the troubleshooting information page of firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-troubleshooting-information-page-of-firefox.jpg)
-5. In the pop-up, confirm you want to reset Firefox by clicking on **Refresh Firefox**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![the troubleshooting information page of firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-troubleshooting-information-page-of-firefox.jpg)
+5. In the pop-up, confirm you want to reset Firefox by clicking on **Refresh Firefox**.  
 
 ![the pop up to reset settings in firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-firefox.jpg)
 
@@ -107,16 +101,25 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 1. Press **Win + S** to bring up Windows Search. Type **cmd** in the search results, and when Command Prompt shows up in the search results, right-click it and select **Run as administrator**.  
 ![Opening CMD as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/opening-CMD-as-administrator.jpg)
 2. Type the following command in Command Prompt and then press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ipconfig/release
 3. Next, type the following command and press **Enter**:  
 ipconfig/renew  
 ![resetting and renewing an ip address in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/reseting-and-renewing-an-ip-address-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you finish running the commands, check to see if the error is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off the Proxy Server
 
@@ -131,16 +134,16 @@ ipconfig/renew
 ![the connections tab in internet properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-connections-tab-in-internet-properties.jpg)
 4. In the **Proxy server** section, uncheck the **Use a proxy server for your LAN** checkbox.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the lan settings page on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lan-settings-page-on-windows.jpg)
 5. Click **OK** to close LAN Settings.
 
 6. Click **OK** in Internet Properties to apply the changes and close it.
 
  Check to see if the internet on your computer is working properly again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Force Update Your Group Policies
 
@@ -149,7 +152,7 @@ ipconfig/renew
  While they will eventually refresh on their own and start working as expected, you can speed the process along by [manually refreshing the Local Group Policy Editor](https://www.makeuseof.com/window-refresh-group-policy-settings/). Then, try and see if the error is gone afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get to the Bottom of What's Interfering With the Connection
@@ -170,20 +173,15 @@ ipconfig/renew
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-list-of-5-gaming-audio-experts/"><u>[New] The Ultimate List of 5 Gaming Audio Experts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fbs-frontier-making-and-sending-immersive-360-videos-for-2024/"><u>[Updated] FB's Frontier Making and Sending Immersive 360 Videos for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728502140953-pcpc/"><u>「移動時にノートPCとデスクトップPCの情報を同期する方法」</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-a-journey-beyond-top-10-global-explorer-channels/"><u>2024 Approved A Journey Beyond Top 10 Global Explorer Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-clearing-the-path-for-your-facebook-visuals-to-shine/"><u>2024 Approved Clearing the Path for Your Facebook Visuals to Shine</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-desktop-and-laptops-troubleshooting-fixing-inverted-video-problems/"><u>Asus Desktop and Laptops Troubleshooting: Fixing Inverted Video Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-launch-with-these-top-methods/"><u>Elevate Your Windows 11 Launch with These Top Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-insights-on-overcoming-print-issues-with-microsoft-powerpoint-in-windows/"><u>Expert Insights on Overcoming Print Issues with Microsoft PowerPoint in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Blaze 2 Pro Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctuas-new-nh-l12sx77-optimal-low-profile-cooling-solution-for-small-form-factor-pcs-with-enhanced-ram-and-vrm-heat-dissipation/"><u>Noctua's New NH-L12Sx77: Optimal Low-Profile Cooling Solution for Small Form Factor PCs with Enhanced RAM and VRM Heat Dissipation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-issues-with-itunes-in-a-windows-system/"><u>Overcoming Common Issues with iTunes in a Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-unregistered-package-situation-in-windows-photos/"><u>Reverse Unregistered Package Situation in Windows Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998050347-sea-of-thieves-stuck-on-load-screen-here-are-your-fixes/"><u>Sea of Thieves Stuck on Load Screen? Here Are Your Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-amending-misrepresented-cpu-data-on-pc/"><u>Techniques for Amending Misrepresented CPU Data on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-error-0x800700e9-on-your-xbox-game-pass-windows-11-console/"><u>Unveiling Solutions to Error 0X800700E9 on Your Xbox Game Pass, Windows 11 Console</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/6081975-february/"><u>6081975 (February</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-groundbreaking-tools-excluding-chatgpt-for-code-writing/"><u>7 Groundbreaking Tools Excluding ChatGPT for Code Writing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-search-on-windows-11-the-top-5-must-knows/"><u>Elevating Search on Windows 11: The Top 5 Must-Knows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-privacy-by-learning-to-wipe-your-chatgpt-sessions-clean/"><u>Protect Privacy by Learning to Wipe Your ChatGPT Sessions Clean</u></a></li>
+<li><a href="https://discover-best.techidaily.com/recognizing-signs-of-failure-when-to-replace-your-ram-expert-advice-from-yl-computing/"><u>Recognizing Signs of Failure: When to Replace Your RAM - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-surface-computer-firmware-update-manual/"><u>The Ultimate Surface Computer Firmware Update Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-altering-window-icons-distance-on-11plus-windows/"><u>Title: Altering Window Icons' Distance on 11+ Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/vibrant-video-vibes-merging-melodies-with-media/"><u>Vibrant Video Vibes Merging Melodies with Media</u></a></li>
 </ul></div>
 

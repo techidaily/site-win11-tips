@@ -1,7 +1,7 @@
 ---
 title: Lightning-Fast Virtual Machines on Windows - Here's How
-date: 2024-08-16T02:33:49.940Z
-updated: 2024-08-17T02:33:49.940Z
+date: 2024-12-30T16:38:18.915Z
+updated: 2025-01-06T07:31:15.740Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 3. Navigate to its system properties. In the Oracle VM VirtualBox, it is located in the**Settings > System** tab.  
 ![VM System Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/vm-system-settings-preview.jpg)
 4. Allocate enough CPU cores or**Processors** to your virtual machine. You should allocate at least**four CPU cores** to your virtual machine and more than**4GB** of RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If your system allows, allocate some more storage space. This will avoid situations like running out of storage space in the middle. 80-90GB may be sufficient for you in most cases.
 6. Click**OK** to save the changes and restart your virtual machine.
 
@@ -53,12 +58,18 @@ Here’s how to use an SSD to run your VM on Windows:
 1. To get started with this, look for the**Storage** settings of your VM.
 2. After selecting your desired**Storage devices** , you can select**create a new Virtual Hard Disk** .  
 ![Virtual Machine Storage Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/virtual-machine-storage-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Select the disk type as**VHD (Virtual Hard Disk)** and choose the desired**File location and size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Virtual Machine Disk Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/virtual-machine-disk-settings.jpg)
 4. Once done, click**Finish** to save the changes and restart your VM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Upgrading to an SSD can provide you with a significant boost to your Virtual Machine's performance, so it's an investment that's well worth considering.
 
@@ -71,13 +82,7 @@ Here’s how to use an SSD to run your VM on Windows:
  Before removing any bloatware, back up your VM for the safe side. If you’re using Oracle VM VirtualBox, you can do so from the**Machine > Take Snapshot** context menu. You don’t need to worry if you are not using Oracle’s VM manager, as you will find a similar option in other VM managers.
 
 ![VM Snapshot Option Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/vm-snapshot-option-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Tweak Your Virtual Machine Settings
 
  Almost all virtual machine managers give you a plethora of options to customize your VM. And some of the options can even help you improve your VM’s performance.
@@ -91,9 +96,6 @@ Here’s how to use an SSD to run your VM on Windows:
 * **Hard disk type:** If possible, switch your VM's hard disk type to SSD instead of an HDD.
 * **Network adapter:** The default network adapter settings are not always the best. So, you need to experiment with it to increase your VM's networking experience. For example, you can remove the bandwidth restrictions to improve the overall network speed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable Hardware Virtualization on Windows
 
  In easy words, hardware virtualization is a Windows technology that helps your computer generate a clone of your operating system. This technology enables your computer's CPU to distribute your system resources to run multiple virtual machines more efficiently. So, if your computer supports hardware virtualization, enabling it can significantly improve your virtual machine's performance.
@@ -112,9 +114,9 @@ Here’s how to use an SSD to run your VM on Windows:
 ![Windows Advanced Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-advanced-startup-options.jpg)
 5. On the**Advanced options** window, choose the**UEFI Firmware Settings** to launch the BIOS setup.  
 ![Windows Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-advanced-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you are in the BIOS utility, you just need to find the**Hardware Virtualization** option there and toggle it**ON** . This option may be with the name of**Virtualization Technology** in some laptops.
@@ -122,8 +124,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  To assist you better in this case, look at our guide on[enabling hardware virtualization on Windows 11](https://www.makeuseof.com/install-hyper-v-windows-11-home/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Boost Windows' Speed
 
  Sometimes, the reason your virtual machine runs slow is because Windows itself isn't running so great. As such, try these[ways to speed up Windows](https://www.makeuseof.com/tag/windows-10-faster-performance/) to help your system run the best that it can.
@@ -132,14 +135,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Virtual machines are only useful when they're not going at a snail's pace. Following the suggestions outlined in this article, your VM should now be faster than before.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +148,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimizing-your-facebook-budget-high-roi-animated-ad-best-practices/"><u>[New] 2024 Approved Optimizing Your Facebook Budget High-ROI Animated Ad Best Practices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-drone-collection-available-now-for-2024/"><u>[Updated] Ultimate Drone Collection Available Now for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-updates-its-product-line-up-declares-9-mac-models-outdated-implications-for-users-and-retailers-explained-gadget-digest/"><u>Apple Updates Its Product Line-Up, Declares 9 Mac Models Outdated - Implications for Users and Retailers Explained | Gadget Digest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/defeating-blue-screen-of-death-expert-techniques-for-windows-users/"><u>Defeating Blue Screen of Death: Expert Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-smooth-microphone-transmission-in-windows-11-and-xbox-app/"><u>Enabling Smooth Microphone Transmission in Windows 11 & Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-understanding-windows-11-error-codes/"><u>Expert Tips: Understanding Windows 11 Error Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-game-changing-truly-real/"><u>Is AceMagic's AM08 Pro Game-Changing Truly Real?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-gionee-f3-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Gionee F3 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lockscreen-bypass-for-projector-mode-in-windows-11/"><u>Lockscreen Bypass for Projector Mode in WIndows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-fun-in-command-prompt-with-these-5-tricks/"><u>Navigate to Fun in Command Prompt with These 5 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-windows-zoom-error-code-1132/"><u>Quick Guide to Rectify Windows Zoom Error Code 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-computing-standards-best-non-windows-apps-for-win-11/"><u>Redefining Computing Standards: Best Non-Windows Apps for Win 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-switch-to-bings-ai-windowly-integration-in-win-11-menu/"><u>Swift Switch to Bing’s AI Windowly Integration in Win 11 Menu</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-voice-chat-problems-for-multiplayer-games-valorant/"><u>Troubleshooting Voice Chat Problems for Multiplayer Games (Valorant)</u></a></li>
+</ul></div>
 

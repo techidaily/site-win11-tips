@@ -1,7 +1,7 @@
 ---
 title: Overcoming Low Valorant Download Rate Woes in Windows
-date: 2024-08-16T02:34:13.276Z
-updated: 2024-08-17T02:34:13.276Z
+date: 2025-01-04T16:59:30.456Z
+updated: 2025-01-05T22:59:27.732Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  Thankfully, you can quickly resolve the problem with a few simple fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart the Download
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
@@ -52,17 +53,15 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 1. [Open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) using the**Ctrl + Shift + Esc** hotkey.
 2. Right-click on Discord and choose**End Task** from the context menu.  
 ![End task option to close Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Along with Discord, you can also consider closing all other network-consuming applications like Chrome and Spotify from the background.
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -74,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 3. Click on**Wi-Fi** \>**Hardware Properties** .
 4. Click on**Edit** next to**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
 6. As per your DNS provider, choose**IPv4** or**IPv6** .
 7. If you choose IPv4, enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers** , respectively.
@@ -87,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 Check if you are still facing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
 
  The issue can pop up if the Riot Client is blocked under Windows Defender's settings. As such, you can try whitelisting the Riot Client in the firewall settings to get rid of the issue. Here's how to do it:
@@ -102,9 +99,9 @@ Check if you are still facing the problem.
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Uninstall Avast Antivirus
 
  For many users, Valorant started downloading at normal speed after uninstalling the Avast antivirus. So, you can try this on your computer as well and check if it makes any difference. Here's how to uninstall Avast on your computer:
@@ -115,9 +112,6 @@ Check if you are still facing the problem.
 
  After that, follow the on-screen instruction to complete the uninstallation process.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 7\. Flush the DNS Cache
 
  The DNS cache stores data of all your computer's DNS queries for future use. However, if the DNS cache gets corrupt for some reason, it can cause connection issues.
@@ -140,10 +134,6 @@ Here are the steps for downloading the latest network drivers:
 2. Double-click on**Network adapters** .
 3. Right-click on the installed network driver, and choose the**Update driver** option.  
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Click on**Search automatically for drivers** .
 
  Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
@@ -159,11 +149,16 @@ Here are the steps you need to follow.
 3. Right-click on**RiotClientServices.exe** , hover the cursor to**Set priority** , and choose**High** from the context menu.  
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Reset the Network Settings
 
  Sometimes your current network settings can be the reason behind slow downloading in different applications, including Valorant. To fix this, you'll have to reset the network settings, which will reinstall the network adapters, and configure other network services back to their default values.
@@ -174,6 +169,10 @@ Here's how to reset the network settings:
 2. Click the**Reset now** button next to**Network reset** .  
 ![Reset now button in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button-1.jpg)
 3. Click**Yes** to the UAC that crops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Valorant Downloading Issue Fixed
 
@@ -187,8 +186,6 @@ Here's how to reset the network settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +193,19 @@ Here's how to reset the network settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ethical-engagement-sustainable-strategies-for-content-creeps/"><u>[Updated] 2024 Approved Ethical Engagement Sustainable Strategies for Content Creeps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-methods-for-capturing-sound-in-windows-11/"><u>2024 Approved Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-back-on-windows-high-contrast-glare/"><u>Cut Back on Windows' High Contrast Glare</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-12r-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus 12R Phones? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-12-mini-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 12 mini for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-telnet-effectively-on-windows-1011-devices/"><u>How to Use Telnet Effectively on Windows 10/11 Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>In 2024, Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-marketing-with-8-key-crowdflower-features/"><u>Mastering Marketing with 8 Key CrowdFlower Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-original-windows-search-settings/"><u>Restoring Original Windows Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smart-weather-app-options-for-win-os/"><u>Smart Weather App Options for Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-systemsettingsexe-errors-in-win11/"><u>Steps to Resolve SystemSettings.exe Errors in Win11</u></a></li>
+<li><a href="https://fox-search.techidaily.com/synchroniser-votre-stock-de-fichiers-locaux-avec-onedrive-en-deux-methodes-uniques/"><u>Synchroniser Votre Stock De Fichiers Locaux Avec OneDrive en Deux Méthodes Uniques</u></a></li>
+</ul></div>
 

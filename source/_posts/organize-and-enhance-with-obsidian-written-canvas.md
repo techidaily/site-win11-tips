@@ -1,7 +1,7 @@
 ---
 title: Organize and Enhance with Obsidian' Written Canvas
-date: 2024-12-19T03:04:32.462Z
-updated: 2024-12-22T05:16:36.477Z
+date: 2025-01-02T07:31:09.256Z
+updated: 2025-01-06T09:44:11.271Z
 tags:
   - windows10
   - windows11
@@ -27,17 +27,9 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mind-Mapping With Obsidian Canvas
 
  Obsidian's Canvas offers you "the platform" to organize visually however you wish. We realize this sounds vague, so let's start with a practical example: using Obsidian's Canvas for mind mapping.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Set Up Your Obsidian Canvas
 
@@ -51,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 6. The spot where you move and "drop" your note will also define its initial placement on the Canvas board.  
 ![Obsidian Dragging Note To Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-dragging-note-to-canvas.jpg)
 7. Since you've added "a generic element" but not a specific note, snippet, or media file to your board, Obsidian will show its file requester, which you should use to search for and select one of your notes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Obsidian Searching For Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-searching-for-note.jpg)
 
 ### How to Edit Your Canvas Elements
@@ -64,11 +61,12 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 3. The magnifying glass button **centers** the view on the selected element. The notepad-with-pencil button performs the same action as double-clicking on an element, allowing you to **edit** its content directly on the Canvas board.  
 ![Obsidian Note Quick Action Edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-edit.jpg)
 4. When you select an element, by left-clicking on one of its borders and dragging, you can **resize** it on the Canvas board.  
-![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
 
 ### Getting Started With Connectors in Canvas
 
@@ -76,9 +74,17 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 ![Obsidian Canvas Connectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connectors.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also embed images on your Canvas by dragging the media button from the bottom bar or by directly dragging and dropping them from the **File** tab.
 
 ![Obsidian Canvas Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The connectors between elements are as configurable as the elements themselves. You can click on a connector and use the mini action menu on its top to a) **remove** it, b) change its **color**, c) **center** the view on it, d) change its **direction** (back, forward, and bidirectional), or e) edit its **label**.
 
@@ -93,11 +99,7 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 ![Obsidian Canvas Connector Remove Label](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-remove-label.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Navigating Your Canvas
@@ -107,6 +109,11 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 1. An extra toolbar on the right of the Canvas offers more options and assists with navigation.  
 ![Obsidian Canvas Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar.jpg)
 2. The first button, with the cog icon, offers the option to toggle two methods of element **snapping** on the board and **locking** it from edits as "Read-only". The plus and minus buttons allow you to **zoom** in and out, and the circular arrow button to **reset** the zoom level. The rectangular selector button centers the view on the **selected element**. Below are two more buttons for **undoing** and **redoing** actions. The last button, Canvas help, with a question mark, shows a panel with Canvas-related **shortcuts**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Obsidian Canvas Sidebar Snap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar-snap.jpg)
 3. Obsidian Canvas displays a horizontal or vertical line when two or more elements' borders or centers align to help you keep your Canvas boards tidy.  
 ![Obsidian Canvas Alignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-alignment.jpg)
@@ -122,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  We already saw the basics of using it as a superpowered mind-mapping solution. But what more could you do with Canvas?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Canvas Kanban Boards
@@ -140,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 * Repeat for two more groups: "**Doing**" and "**Done**".
 
  Congratulations, you just created a GTD-compatible Kanban board! Now, you can add notes to each group, shuffle them, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Canvas Priority Matrix
 
@@ -164,7 +167,7 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 * **Delete** or **Archive** them when done with any of them to keep your Priority Matrix clean.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Canvas for Everything With Obsidian
@@ -177,29 +180,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-direct-video-transmission-from-twitters-to-whatsapp-for-2024/"><u>[New] Direct Video Transmission From Twitters to WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-windows-11-visualizer-for-rapid-images/"><u>[Updated] Top Windows 11 Visualizer for Rapid Images</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-catalysts-for-chinas-historic-shift-to-communism-a-comprehensive-breakdown-with-insights-from-yl-systems/"><u>Exploring the Catalysts for China's Historic Shift to Communism: A Comprehensive Breakdown with Insights From YL Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/extend-windows-security-integrating-firewalls-into-context-menus/"><u>Extend Window's Security: Integrating Firewalls Into Context Menus</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-canon-driver-upgrades-without-hassle-your-simple-guide-to-a-smooth-windows-setup/"><u>Get the Most Recent Canon Driver Upgrades without Hassle – Your Simple Guide to a Smooth Windows Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-gift-windows-apps-on-christmas-via-the-microsoft-store/"><u>How to Gift Windows Apps on Christmas via the Microsoft Store</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-6s-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 6s with iTunes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-fundamental-contrasts-in-video-streaming/"><u>In 2024, Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-memory-test-problems/"><u>Mastering Fixes for Windows Memory Test Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-task-management-ifttt-with-microsoft-to-do/"><u>Mastering Task Management: IFTTT with Microsoft To-Do</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-final-cut-pro-the-industry-standard-for-a-reason-for-2024/"><u>New Final Cut Pro The Industry Standard for a Reason for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-mcuicnt-not-found-issue-in-various-windows-versions/"><u>Resolving McUICnt Not Found Issue in Various Windows Versions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-utilizing-live-photo-functionality-with-ios-16/"><u>Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-eliminating-0x0000004e-in-os/"><u>Strategies for Eliminating 0X0000004E in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-access-control-system-glitches/"><u>Tackling Windows Access Control System Glitches</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-3-techniques-converting-pin-videos-to-mp3s-for-2024/"><u>Top 3 Techniques Converting Pin Videos To MP3s for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-security-installing-kali-on-a-windows-machine/"><u>Unlocking Security: Installing Kali on a Windows Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-slide-show-wizardry-create-instantly-no-software-required/"><u>Win11 Slide Show Wizardry - Create Instantly (No Software Required)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +187,21 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/bid-farewell-to-game-interruptions-fixing-godfalls-pc-performance-issues-fully-explained/"><u>Bid Farewell to Game Interruptions: Fixing Godfall's PC Performance Issues Fully Explained</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-revolutionizing-personalization-and-analytics-in-digital-marketing/"><u>Cookiebot: Revolutionizing Personalization and Analytics in Digital Marketing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-remedying-directdraw-disruptions-in-win1011/"><u>Expert Guide: Remedying DirectDraw Disruptions in Win10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/get-unlimited-echoes-for-online-content-makers-in-2024/"><u>Get Unlimited Echoes for Online Content Makers, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-fastest-route-for-srt-to-text-file-conversion/"><u>In 2024, The Fastest Route for SRT to Text File Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalized-lock-patterns-on-windows-11/"><u>Mastering Personalized Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-paths-of-window-menus-on-pc/"><u>Navigating the Hidden Paths of Window Menus on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-gmaps-windows-pc-guide/"><u>Setting Up GMaps: Windows PC Guide</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/stunning-sadie-robertson-visuals-for-inspiration-unique-graphics-designed-by-yl-software-team/"><u>Stunning Sadie Robertson Visuals for Inspiration: Unique Graphics Designed by YL Software Team</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-windows-settings-dim-display/"><u>Unveiling the Secrets of Windows Settings: 'Dim Display'</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-removing-tiktok-watermarks-online-for-2024/"><u>Updated The Ultimate Guide to Removing TikTok Watermarks Online for 2024</u></a></li>
+</ul></div>
+

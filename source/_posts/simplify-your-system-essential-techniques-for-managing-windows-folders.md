@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your System: Essential Techniques for Managing Windows Folders"
-date: 2024-08-08T11:12:17.213Z
-updated: 2024-08-09T11:12:17.213Z
+date: 2025-01-03T06:30:39.792Z
+updated: 2025-01-06T02:26:42.595Z
 tags:
   - windows10
   - windows11
@@ -21,9 +21,9 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Create an Invisible Secret Folder
 
  Create a folder faster through this shortcut: press and hold the **Ctrl + Shift** keys together on your keyboard and then press the **N** key. You can then name the folder.
@@ -32,23 +32,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. When you create a folder, the name field underneath the folder gets selected for naming. But instead of naming the folder, press the **Alt** key followed by the number **255**, and then hit **Enter**.
 2. The name field of the folder will disappear—actually, it's still there but becomes invisible.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Folder on Desktop With Name Field Invisible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/name-field-of-folder-invisible-1.jpg)
 3. Then make the folder invisible too. **Right-click** the folder and choose **Properties** from the menu.
 4. In **Properties**, select the **Customize** tab. Then under **Folder icons**, select **Change icon**.  
 ![Select Change Icon In Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-icon-in-customize-tab.jpg)
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Blank Space Selected As Folder Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-blank-space-as-folder-icon.jpg)
 6. Back in the **Customize** tab, you will see no icon under **Folder icon**. Click **Apply** and then **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Folder Icon Not Visible in Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-icon-not-visible.jpg)
 
  You will see that the default yellow folder icon has become invisible. Without selecting it, no one can see it. Only you know it is there.
@@ -70,9 +70,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  This way, you can name several folders together—quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -84,8 +81,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -93,9 +91,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 5\. Find Hidden Folders You Forgot About
 
  Your PC would have thousands of files and folders. And there may be times when you can't find some folders because you may have hidden them earlier and forgot about them.
@@ -105,13 +100,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Press the **Win + E** keys together to open **File Explorer**. Or use the [many ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
 2. Click the **View** tab.
 3. Then click **Options** and then **Change folder and search options**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
@@ -121,13 +117,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +133,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[Updated] In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-detailed-manual-on-morphvox-voice-alteration-techniques/"><u>2024 Approved Full-Detailed Manual on MorphVOX Voice Alteration Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/raphic-roundup-yts-shocking-reality-of-17-for-2024/"><u>Infographic Roundup YT's Shocking Reality of '17 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-social-giant-reaching-its-limits/"><u>Is the Social Giant Reaching Its Limits?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mobile-video-editing-essentials-best-apps-for-vertical-content/"><u>New 2024 Approved Mobile Video Editing Essentials Best Apps for Vertical Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-setup-integrating-microsoft-pc-manager-into-win11/"><u>Seamless Setup: Integrating Microsoft PC Manager Into Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-clear-your-account-details-at-login/"><u>Securely Clear Your Account Details at Login</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-ussd-understanding-unstructured-supplementary-service-data-in-mobile-communications/"><u>The Basics of USSD: Understanding Unstructured Supplementary Service Data in Mobile Communications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-windows-memory-error-detected-message/"><u>Troubleshooting the Windows Memory Error Detected Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-memory-write-issue/"><u>Troubleshooting Windows' Memory Write Issue</u></a></li>
+</ul></div>
+

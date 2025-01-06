@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2024-12-20T22:57:01.644Z
-updated: 2024-12-27T16:16:21.739Z
+date: 2025-01-02T23:27:54.060Z
+updated: 2025-01-06T09:26:54.792Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
 
@@ -42,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 4. Select the **Show hidden files, folders and drives** radio button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Apply** to save the new Explorer settings.
@@ -95,15 +95,15 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set a New Default Save Location in Windows 11/10
 
@@ -123,22 +123,22 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-plotting-the-perfect-tiktok-outro-journey/"><u>[New] 2024 Approved Plotting the Perfect TikTok Outro Journey</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] In 2024, From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-decoding-the-secret-of-instagrams-video-cap/"><u>[Updated] In 2024, Decoding the Secret of Instagram's Video Cap</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-name-selection-for-distinctive-youtube-channels/"><u>[Updated] Mastering Name Selection for Distinctive YouTube Channels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977663540-corsair-control-software-get-yours-today-and-upgrade-your-gaming-experience/"><u>Corsair Control Software - Get Yours Today & Upgrade Your Gaming Experience!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enriching-the-playnite-experience-through-integration-of-emulators/"><u>Enriching the Playnite Experience Through Integration of Emulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-without-functional-windows-firewall/"><u>Essential Fixes Without Functional Window’s Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-display-your-internet-speed-on-the-windows-taskbar/"><u>How to Display Your Internet Speed on the Windows Taskbar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/inside-the-victory-of-fifa-19-ruling-over-the-realm-of-virtual-sports-competitions/"><u>Inside the Victory of FIFA 19: Ruling Over the Realm of Virtual Sports Competitions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fast-downloads-with-utorrent-on-pcs/"><u>Mastering Fast Downloads with uTorrent on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-network-misfire-in-microsoft-os/"><u>Mastering Network Misfire in Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/network-nuances-exploring-4-windows-ways-to-measure-internet-speed/"><u>Network Nuances: Exploring 4 Windows Ways to Measure Internet Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-usb-resource-deficit-error/"><u>Overcoming USB Resource Deficit Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpening-windows-gameplay-boost-yuzu-speed/"><u>Sharpening Windows Gameplay: Boost Yuzu Speed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-d3dx939dll-file-absence-now-solved/"><u>Troubleshooting Steps for d3dx9_39.dll File Absence - Now Solved</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>[New] Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-strategies-for-incorporating-secondary-shots-in-filmmaking-for-2024/"><u>[Updated] Strategies for Incorporating Secondary Shots in Filmmaking for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delight-in-top-tier-windows-features-via-ms-store-apps/"><u>Delight in Top-Tier Windows Features via MS Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-launching-apps-on-windows-11/"><u>Efficiently Launching Apps on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-to-elevate-iphone-picture-quality-for-2024/"><u>Expert Tips to Elevate iPhone Picture Quality for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-audio-codecs-how-does-aac-compare-with-mp3-for-your-listening-experience/"><u>Exploring Audio Codecs: How Does AAC Compare with MP3 for Your Listening Experience?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-onedrive-connection-problems-in-os-versions/"><u>Fixing OneDrive Connection Problems in OS Versions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-can-i-enhance-my-pcs-performance-with-hardware-improvements-yl-computing/"><u>How Can I Enhance My PC's Performance with Hardware Improvements? - YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-gt-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme GT 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-utilize-split-view-feature-for-seamless-workflows-on-macbook-air/"><u>How to Utilize Split View Feature for Seamless Workflows on MacBook Air</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-sony-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Sony Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-glitches-steps-to-fix-error-0x00000001-in-xbox-game-pass-for-windows-11/"><u>Overcoming Fatal Glitches: Steps to Fix Error 0X00000001 in Xbox Game Pass for Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y27-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y27 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-default-path-problems-on-windows-1011/"><u>Resolving Default Path Problems on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stifling-windows-restart-requests/"><u>Stifling Windows Restart Requests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-environment-with-portable-utility-icons/"><u>Streamlining Windows Environment with Portable Utility Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-glitches-to-ensure-smooth-gameplay-on-windows-11/"><u>Tackling Steam Glitches to Ensure Smooth Gameplay on Windows 11</u></a></li>
 </ul></div>
 

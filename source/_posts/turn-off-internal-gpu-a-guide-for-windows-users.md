@@ -1,7 +1,7 @@
 ---
 title: "Turn Off Internal GPU: A Guide for Windows Users"
-date: 2024-12-26T22:29:04.467Z
-updated: 2024-12-27T17:09:39.290Z
+date: 2025-01-02T09:04:17.763Z
+updated: 2025-01-05T22:55:37.972Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
@@ -40,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
@@ -51,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Your Dedicated Graphics Card When You Need It
@@ -95,18 +95,20 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-techniques-for-convincing-ppt-presentations-on-gmeet/"><u>[Updated] 2024 Approved Advanced Techniques for Convincing PPT Presentations on GMeet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exploring-high-speed-action-a-top-5-game-list/"><u>[Updated] 2024 Approved Exploring High-Speed Action A Top 5 Game List</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-easily-store-linkedin-videos-here-are-6-optimal-tools-for-it/"><u>[Updated] Easily Store LinkedIn Videos - Here Are 6 Optimal Tools for It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-remote-device-sharing-options-google-vs-windows/"><u>Deciphering Remote Device Sharing Options: Google Vs. Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-c22-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia C22 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/limiting-unauthorized-insider-build-access/"><u>Limiting Unauthorized Insider Build Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-search-functionality-an-alternative-to-ls/"><u>Mastering Windows' Search Functionality: An Alternative to LS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-g310-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia G310 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perfecting-ai-written-content-infusing-chatgpt-with-your-unique-writing-flair/"><u>Perfecting AI Written Content: Infusing ChatGPT with Your Unique Writing Flair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-initiating-windows-media-player/"><u>Quick Guide: Initiating Windows Media Player</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/save-your-sound-levels-windows-mixer-recovery-guide/"><u>Save Your Sound Levels: Windows Mixer Recovery Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-for-setting-up-wake-on-lan-on-your-windows-11-device/"><u>The Complete Tutorial for Setting up Wake-on-LAN on Your Windows 11 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-iphone-sim-slot-with-everyday-objects-a-step-by-nstep-process/"><u>Unlocking iPhone SIM Slot with Everyday Objects - A Step-by-nStep Process</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-beginners-guide-how-to-create-a-youtube-channel-and-make-money/"><u>[New] In 2024, Beginners’ Guide How To Create a YouTube Channel and Make Money</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deciphering-how-to-find-my-youtube-comments-posts/"><u>[Updated] 2024 Approved Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-innovative-5-websites-eclipsing-twitter-for-2024/"><u>[Updated] Innovative 5 Websites Eclipsing Twitter for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/"><u>2024 Approved Banish the Chaos Strategies to Refine Overwhelming TikTok Drafts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-errors-and-fixes-for-installing-robocop-rogue-city-a-guide-to-getting-it-running-on-pc/"><u>Common Errors and Fixes for Installing 'RoboCop: Rogue City': A Guide to Getting It Running on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters-for-2024/"><u>How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-iphone-photo-import-errors-on-computers/"><u>How to Handle iPhone Photo Import Errors on Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-remedies-for-real-time-gpt-errors/"><u>Immediate Remedies for Real-Time GPT Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-intellectual-property-guidelines-for-instahits/"><u>In 2024, Intellectual Property Guidelines for InstaHits</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-automatic-lock-settings/"><u>Mastery over Windows Automatic Lock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-3-windows-group-policy-approaches/"><u>Navigating 3 Windows Group Policy Approaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-better-with-terminal-set-as-default/"><u>Navigating Better with Terminal Set as Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-file-formats-transforming-docx-into-plain-pdf-text-via-windows-11/"><u>Perfecting File Formats: Transforming DOCX Into Plain PDF Text via Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-unseen-networks-a-win11-guide/"><u>Reviving Unseen Networks: A Win11 Guide</u></a></li>
 </ul></div>
 

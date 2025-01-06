@@ -1,7 +1,7 @@
 ---
 title: How to Add a Check for Updates Context Menu Option in Windows 11 and 11
-date: 2024-08-16T02:34:05.302Z
-updated: 2024-08-17T02:34:05.302Z
+date: 2024-12-30T05:59:07.668Z
+updated: 2025-01-06T03:54:17.429Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,11 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 5. Enter the string title **DelegateExecute**, and press the **Return** key.  
 ![The DelegateExecute string for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/delegateexecute_string.png)
 6. Double-click the **DelegateExecute** string to bring up its Value data box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type **{556FF0D6-A1EE-49E5-9FA4-90AE116AD744}** in the Value data text box, and press the **OK** button.
 8. Close the Registry Editor’s window.
 
@@ -64,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
  Winaero Tweaker is a freely available customization software for Windows with which you can customize the context menu in many ways. That software has an option you can select to add a **Windows Update** submenu to the context menu, which includes a **Check for updates** shortcut. This is how you can add a **Check for updates** shortcut to the desktop’s right-click menu with Winaero Tweaker:
@@ -76,16 +82,18 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 4. Double-click the **Context menu** category within Winaero Tweaker’s left sidebar.
 5. Click on the **Windows Update** setting.  
 ![The Add Windows Update submenu to Desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-context-menu-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
 ![The Windows Update submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-windows-update-submenu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Windows Update** submenu also has four other shortcuts to update settings. Click **Update history** to view the installed update list. Or select **Advanced options** to bring up the additional settings for updates. The **Restart options** shortcut opens the settings for scheduling update times.
@@ -93,20 +101,15 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
  Winaero Tweaker also has a customization option for adding a **Windows Update** shortcut to the Control panel. To access that option, click **Settings and** **Control Panel** \> **Add Windows Update** in Winaero Tweaker’s sidebar. Click the **Add Windows Update to Control Panel\\System and Security** checkbox to select that option.
 
 ![The Add Windows Update to Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-control-panel-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you’ll see a **Windows Update** shortcut within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click the **System and Security** category. Clicking the **Windows Update** shortcut there will open the **Settings** tab with the **Check for updates** button.
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Keep an Eye Out For New Windows Updates
 
  So, now you can select a handy **Check for Updates** shortcut on your desktop’s context menu. That shortcut will save you from having to manually open Settings and its **Windows Update** tab whenever you need to check for updates. Instead, you can simply click the **Check for Updates** context menu option to open the update tab directly from the desktop.
@@ -115,11 +118,30 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-an-in-depth-look-at-basic-and-simplified-hdr-photography/"><u>[New] In 2024, An In-Depth Look at Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-applications-for-video-conferencing-for-2024/"><u>[Updated] Premier Applications for Video Conferencing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlined-steps-capturing-your-dell-screen-in-a-minute-for-2024/"><u>[Updated] Streamlined Steps Capturing Your Dell Screen in a Minute for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>2024 Approved Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-connection-roadblocks-for-win-based-games/"><u>Cutting Through Connection Roadblocks for Win-Based Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-corsair-hs5t-microphone-issues-and-how-to-solve-them/"><u>DIY Repair: Corsair HS5ˈʙɪt 𝘌𝗿𝗮𝗺𝗯𝗶𝗻 Microphone Issues and How to Solve Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-alomwares-techniques-for-window-customization/"><u>Elevate Your PC: AlomWare's Techniques for Window Customization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-spotify-connection-errors-in-windows-devices/"><u>Fixing Spotify Connection Errors in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/grouping-no-more-windows-11-taskbar-guide/"><u>Grouping No More: Windows 11 Taskbar Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/liberty-of-youtube-download-customizable-video-themes/"><u>Liberty of YouTube Download Customizable Video Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-end-task-options-for-windows-11-taskbar/"><u>Mastering End Task Options for Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-visual-searching-in-windows-file-explorer/"><u>Optimize Visual Searching in Windows File Explorer</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/optimize-your-system-how-discarding-old-programs-can-enhance-pc-efficiency-according-to-yl-tech-advice/"><u>Optimize Your System: How Discarding Old Programs Can Enhance PC Efficiency, According to YL Tech Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-barrier-lost-internet-router-portal/"><u>Overcoming Barrier: Lost Internet Router Portal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-end-of-an-era-apples-iphone-13-and-15-pro-discontinued-your-next-phone-picks/"><u>The End of an Era: Apple's iPhone 13 & 15 Pro Discontinued - Your Next Phone Picks</u></a></li>
+</ul></div>
+

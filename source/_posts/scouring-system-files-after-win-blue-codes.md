@@ -1,7 +1,7 @@
 ---
 title: Scouring System Files After Win-Blue Codes
-date: 2024-12-24T22:32:36.168Z
-updated: 2024-12-27T22:38:30.599Z
+date: 2025-01-02T11:15:35.788Z
+updated: 2025-01-05T20:27:30.435Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
 3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click **OK** to proceed.
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 6. Check both the General and Details tabs to get information about this error.
 
  Once you find the error code associated with the crash and the cause, you can look for solutions online, or head over to our guide that discusses [how to fix blue screen errors in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) if it's a bsod.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find and Read the BSOD Log Files in the Registry Editor
 
@@ -86,12 +86,17 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 6. Choose **New** \> **DWORD (32-bit) Value**.  
 ![Create a new DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dword-policies.jpg)
 7. Name this value as **DisplayParameters** and double-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Under Value data, type 1 and click **OK**.  
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
 9. Once done, restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Upon reboot, you should be able to view the log files without any problems.
@@ -110,21 +115,17 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 3. Click on **Maintenance** and then select **View reliability history**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
@@ -149,18 +150,21 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-activities-for-the-modern-podcaster/"><u>2024 Approved Innovative Activities for the Modern Podcaster</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-easier-iphone-how-apples-latest-phone-outshines-its-ancestors-in-maintenance/"><u>Discover the Easier iPhone 지절리 수리: How Apple's Latest Phone Outshines Its Ancestors in Maintenance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges.</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-sencilla-para-rescatar-tu-correspondencia-de-outlook-365-con-una-resena-de-backup/"><u>Guía Sencilla Para Rescatar Tu Correspondencia De Outlook 365 Con Una Reseña De Backup</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco X6 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-invalid-windows-update-files-errors/"><u>Mitigating Invalid Windows Update Files Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-spatial-audio-thx-failures/"><u>Solving Windows Spatial Audio THX Failures</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-failures-overcoming-0x80072af9/"><u>Tackling Windows Failures: Overcoming 0X80072AF9</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taking-the-reins-controlling-windows-control-center/"><u>Taking the Reins: Controlling Windows Control Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-essential-software-for-windowsandroid-users/"><u>Top 8 Essential Software for Windows/Android Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-error-0xfffffddd-print-fixes/"><u>Unraveling the Mystery of Error 0xFFFFFDDD: Print Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unlimited-premium-slide-decks-for-entrepreneurs/"><u>[New] 2024 Approved Unlimited Premium Slide Decks for Entrepreneurs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-streamline-content-creation-leading-after-effects-plugins/"><u>[New] In 2024, Streamline Content Creation Leading After Effects Plugins</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-incorporating-secondary-footage-a-filmmakers-guide/"><u>[New] Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-slides-with-youtube-content/"><u>2024 Approved Mastering Slides with YouTube Content</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-step-by-step-tutorial-creating-custom-mp3-ringtones-on-your-iphone/"><u>Complete Step-by-Step Tutorial: Creating Custom MP3 Ringtones on Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-deep-insights-into-windows-policy-settings-3-ways/"><u>Discovering Deep Insights Into Windows Policy Settings (3 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-wi-fi-connection-issues-ensuring-comprehensive-actions-on-pc/"><u>Fixing Wi-Fi Connection Issues: Ensuring Comprehensive Actions on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/interactive-narratives-basics-and-beyond/"><u>Interactive Narratives Basics and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-error-code-22-and-reviving-your-pc/"><u>Navigating Through Error Code 22 and Reviving Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-failed-install-in-discord-os-windows-11-and-11/"><u>Preventing Failed Install in Discord, OS: Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-files-enable-controlled-access-in-windows-11/"><u>Protect Your Files: Enable Controlled Access in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-recover-lost-access-to-ubisofts-launcher/"><u>Steps to Recover Lost Access to Ubisoft's Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-lost-at-sea-woes-xbox-fix-guide-for-win11-users/"><u>Tackling Lost at Sea Woes: Xbox Fix Guide for Win11 Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots-for-2024/"><u>The Ultimate Instructions for Prolonged iPhone Shots for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-file-not-found-in-windows-11/"><u>Troubleshooting File Not Found in Windows 11</u></a></li>
 </ul></div>
 

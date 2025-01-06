@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Methods to Use Both Network Types on a Single Windows Device
-date: 2024-12-23T22:14:30.719Z
-updated: 2024-12-27T20:21:08.868Z
+date: 2024-12-29T16:20:02.681Z
+updated: 2025-01-05T19:14:02.637Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You May Need to Use Both the Wi-Fi and Ethernet Connections Simultaneously
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  Additionally, it is also useful if you have a local server and want to be connected to both the Internet and the local server simultaneously. You can connect to the local media server via Ethernet and access the internet over Wi-Fi without dropping the connection.
 
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
 
@@ -54,7 +50,7 @@ To disable packet priority and VLAN on Windows:
 4. In the left pane, click on**Change adapter settings.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click on your**Ethernet network adapter** and select**Properties** . Alternatively, double-click on the**Ethernet adapter** and then click on**Properties** .  
@@ -67,15 +63,15 @@ To disable packet priority and VLAN on Windows:
 ![priority vlan disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/priority-vlan-disabled.jpg)
 5. Select**Priority and VLAN Disabled.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OK** to save the changes.
 7. Next, you need to repeat the steps for your Wi-Fi adapter. So, open Properties for your Wi-Fi adapter and set its**Priority and VLAN** value to**Priority & VLAN Disabled** .
 8. Click**OK** to save the changes.
 
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
 
@@ -89,7 +85,7 @@ To change network priority on Windows:
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
@@ -100,6 +96,10 @@ To change network priority on Windows:
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
 
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
 
@@ -122,17 +122,21 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-recording-101-a-practical-approach/"><u>[Updated] 2024 Approved Zoom Recording 101 A Practical Approach</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-the-mu-a-rapid-alternative-to-raspberry-pi-4-is-it-worth-the-investment/"><u>Comparing the Mu: A Rapid Alternative to Raspberry Pi 4 – Is It Worth the Investment?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-extend-volume-functionality-in-diskmgmt/"><u>Enhance Extend Volume Functionality in DiskMgmt</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/increase-number-of-visible-pin-items-in-w11-menu/"><u>Increase Number of Visible Pin Items in W11 Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/old-video-resurrection-mastering-madvr-techniques-windows-style/"><u>Old Video Resurrection: Mastering MadVR Techniques, Windows Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfect-text-adjustments-with-ease-the-modern-windows-11s-snipt-guide/"><u>Perfect Text Adjustments with Ease: The Modern Windows 11'S Snipt Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-6-sites-boosting-corporate-engagement-for-2024/"><u>Premier 6 Sites Boosting Corporate Engagement for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/selecting-superior-selfie-equipment-a-comprehensive-tutorial-with-6-pro-tips/"><u>Selecting Superior Selfie Equipment: A Comprehensive Tutorial with 6 Pro Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-your-w11-device-with-google-play/"><u>Setting Up Your W11 Device with Google Play</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-g54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my G54 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-hdmi-sound-problems-after-attaching-computer-with-monitortv/"><u>Troubleshooting Steps for HDMI Sound Problems After Attaching Computer with Monitor/TV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[New] In 2024, The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-insightful-evaluation-androids-photography-tool-lightroom/"><u>[New] Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mov-files-saving-methods-for-windows-10-users/"><u>[Updated] .mov Files Saving Methods for Windows 10 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-app-audit-insightful-through-az-capture/"><u>[Updated] Comprehensive App Audit Insightful Through AZ Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-quick-windows-picture-browser/"><u>[Updated] Unmatched Quick Windows Picture Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-methods-for-natively-creating-photo-carousel-on-windows-11/"><u>7 Methods for Natively Creating Photo Carousel on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-darkness-top-strategies-to-fix-call-of-duty-warzones-black-screen-problem-tips-and-tricks/"><u>Defeating Darkness: Top Strategies to Fix Call of Duty Warzone's Black Screen Problem (Tips & Tricks)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/heterotrophs-including-decomposers-like-bacteria-and-detritivores-like-earthworms-help-break-down-organic-matter-and-recycle-nutrients-back-into-the-soil/"><u>Heterotrophs, Including Decomposers Like Bacteria and Detritivores Like Earthworms, Help Break Down Organic Matter and Recycle Nutrients Back Into the Soil.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-review-discovering-the-marvels-of-elgoog-the-ultimate-mirror-site/"><u>In-Depth Analysis and Review: Discovering the Marvels of elgooG - The Ultimate Mirror Site</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveling-the-playing-field-for-laptops-and-iphones/"><u>Leveling the Playing Field for Laptops and iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-monitor-memorable-saving-windows-spotlight-photos-as-walls/"><u>Making Your Monitor Memorable: Saving Windows Spotlight Photos as Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-program-installation-on-windows-11/"><u>Mastering Program Installation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-esd-to-iso-transformation-on-windows-pcs/"><u>Step-by-Step ESD to ISO Transformation on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>Virtual Frontier Top PC VR Headset Innovations of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-upgrade-efficiency-over-entertainment/"><u>Windows 11 Upgrade: Efficiency Over Entertainment</u></a></li>
 </ul></div>
 

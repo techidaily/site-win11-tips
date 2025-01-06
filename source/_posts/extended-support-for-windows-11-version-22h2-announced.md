@@ -1,7 +1,7 @@
 ---
 title: Extended Support for Windows 11 Version 22H2 Announced
-date: 2024-12-22T16:48:24.924Z
-updated: 2024-12-27T20:18:07.278Z
+date: 2024-12-30T01:49:57.487Z
+updated: 2025-01-06T10:26:52.472Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
  According to Microsoft, this change occurred due to user feedback.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Defining an "Optional Update" in Windows
 
  Windows updates aren't all equal; there's a system that differentiates them depending on how important they are. This deadline extension will allow people to receive non-critical updates on Windows 11 version 22H2 until the new date, and security updates will continue for even longer.
@@ -62,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does This Mean for Windows 11 22H2 Users?
 
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -80,7 +80,7 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
@@ -103,18 +103,22 @@ Zarif Ali / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] 2024 Approved Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-creating-impactful-ae-titles/"><u>[Updated] The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/allocating-budget-for-youtube-video-success-for-2024/"><u>Allocating Budget for YouTube Video Success for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/astronomy-enthusiasts-top-website-picklist-for-2024/"><u>Astronomy Enthusiasts' Top Website Picklist for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boot-loop-blues-quick-tips-to-unstick-your-pc-from-boot-screen-deadlock/"><u>Boot Loop Blues? Quick Tips to Unstick Your PC From Boot Screen Deadlock!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-confidentiality-are-we-overlooking-a-major-threat-to-our-online-security/"><u>ChatGPT and Confidentiality: Are We Overlooking a Major Threat to Our Online Security?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-display-glitches-in-windows-11-os/"><u>Eliminating Display Glitches in Windows 11 OS</u></a></li>
-<li><a href="https://win-guides.techidaily.com/former-microsoft-boss-steve-ballmer-confesses-lacking-bravery-insights-from-zdnet/"><u>Former Microsoft Boss Steve Ballmer Confesses Lacking Bravery: Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gpt4all-windows-guide-to-free-on-premise-chatbots/"><u>GPT4All Windows Guide to Free, On-Premise ChatBots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-ways-to-fast-track-utorrent-transfers-windows-edition/"><u>Proven Ways to Fast-Track uTorrent Transfers, Windows Edition</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-techniques-to-overcome-latency-problems-with-your-logitech-mouse/"><u>Step-by-Step Techniques to Overcome Latency Problems with Your Logitech Mouse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-extract-cortana-data-on-a-windows-system/"><u>Tips to Extract Cortana Data on a Windows System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo/"><u>Winxvideo人工智能标准参数 - 正式文件及资料</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/5420-with-an-ssd-upgrade-enhance-speed-and-efficiency/"><u>5420 with an SSD Upgrade - Enhance Speed and Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-cloud-space-charges-methods-and-results-for-2024/"><u>Comparing Cloud Space Charges Methods and Results for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-constant-game-interruptions-dealing-with-madden-nfl-21-pc-crashes/"><u>Effective Solutions for Overcoming Constant Game Interruptions - Dealing with Madden NFL 21 PC Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-top-7-real-world-ai-prompt-techniques/"><u>Effective Strategies: Top 7 Real-World AI Prompt Techniques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
+<li><a href="https://discover-data.techidaily.com/top-tier-digital-resources-boosting-education-a-comprehensive-list-for-educators/"><u>Top-Tier Digital Resources Boosting Education: A Comprehensive List for Educators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-the-viral-potential-of-your-instagram-unboxing-content-for-2024/"><u>Unleash the Viral Potential of Your Instagram Unboxing Content for 2024</u></a></li>
 </ul></div>
 

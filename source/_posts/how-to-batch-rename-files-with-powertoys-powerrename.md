@@ -1,7 +1,7 @@
 ---
 title: How to Batch-Rename Files With Powertoys PowerRename
-date: 2024-08-16T02:36:48.029Z
-updated: 2024-08-17T02:36:48.029Z
+date: 2025-01-04T03:51:48.933Z
+updated: 2025-01-05T19:30:12.055Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  We've touched on PowerToys' PowerRename before, but it's worth going into more detail on how you can use it to batch-rename your files.
 
  Let's look at multiple scenarios for batch-renaming your files like a pro with PowerRename's powerful options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is PowerToys PowerRename?
 
@@ -52,24 +56,21 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
  The PowerRename "toy" that we'll use For this article might be disabled by default. To enable it, select the PowerRename page from the list on the left of the Settings window. Then, flick the switch on the right of**Enable PowerRename** to the right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Use the PowerRename PowerToy
 
  Like most tools in PowerToys, PowerRename is accessible "outside" of the PowerToys' own window.
 
 ![Windows File Explorer Right Click PowerRename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-file-explorer-right-click-powerrename.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 1. To use PowerRename, fire up your favorite file manager. Windows File Explorer is fine if you aren't using a third-party solution to juggle your files.
 2. Choose the files you wish to batch rename.
 3. Right-click on one of them and select**PowerRename** from the context menu.
 
  All the batch-renaming magic happens on the window you'll see pop up on your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Simple Find & Replace
 
@@ -93,15 +94,17 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  If you want to match and replace every instance of the string instead, enable the**Match all occurrences** option.
 
 ![PowerRename Match All Occurrences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-match-all-occurrences.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Filenames & Extensions
 
  By default, PowerRename will act on the actual name of each file, skipping its extension. There are cases where you might want to batch-rename extensions instead.
@@ -111,15 +114,13 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Or, like in the following screenshot, you may want to replace the JPG extension of some image files with the acronym of your site just because you now can, all thanks to PowerToys.
 
 ![PowerRename Changing File Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-changing-file-extensions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  To do that, check the setting under**Apply to** , right below the "target string" field.
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
@@ -143,9 +144,6 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  For example, by typing three dots in the "source field", you're "telling" PowerRename to match the first three characters of any filename. Then, you can enter on the "target field" the string with which to replace them.
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
@@ -156,8 +154,9 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 
  PowerRename helps you quickly and easily rename multiple files at once using various criteria, like adding a prefix or suffix, replacing text, or changing the case.
@@ -166,14 +165,11 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
  After that point, the sky's the limit, and you'll be able to create various "renaming scenarios" that can help you eliminate the most tedious task of file management: renaming your files one by one.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +178,23 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-mov-file-management-on-modern-windows-10/"><u>[New] In 2024, Mastering .mov File Management on Modern Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-windows-11-webcam-capture-models-for-2024/"><u>[New] Premier Windows 11 Webcam Capture Models for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-masterful-text-effects-in-adobe-after-effects/"><u>[Updated] 2024 Approved Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-low-cost-options-for-acquiring-gopro-cameras/"><u>2024 Approved Low-Cost Options for Acquiring GoPro Cameras</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/8-best-popular-instagram-after-effects-templates-for-2024/"><u>8 Best Popular Instagram After Effects Templates for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199720194-control-charts-are-central-tools-in-spc-helping-to-distinguish-between-common-cause-and-special-cause-variations/"><u>Control Charts Are Central Tools in SPC, Helping to Distinguish Between Common Cause and Special Cause Variations.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experts-choice-the-10-best-movie-making-cameras/"><u>Expert's Choice The 10 Best Movie Making Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-tackling-windows-11s-0x800713f-mail-fault/"><u>Guidelines for Tackling Windows 11'S 0X800713F Mail Fault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-some-settings-are-managed-by-your-organization-error-in-windows-11/"><u>How to Fix Some Settings Are Managed by Your Organization Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-or-show-the-clock-and-date-from-the-taskbar-in-windows-11-and-11/"><u>How to Hide or Show the Clock and Date From the Taskbar in Windows 11 and 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>In 2024, Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-change-folder-visibility-in-windows-11/"><u>Step-by-Step: Change Folder Visibility in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-coding-journey-how-to-use-dev-drive-in-windows-11/"><u>Streamlined Coding Journey: How to Use Dev Drive in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-software-setup-pro-vs-con-choc-plus-wslm/"><u>Streamlined Software Setup? Pro vs Con: Choc + WSLM</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tailoring-twitter-video-thumbnails-a-step-by-step-guide-for-2024/"><u>Tailoring Twitter Video Thumbnails A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-four-pillars-of-password-security-in-windows-11/"><u>The Four Pillars of Password Security in Windows 11</u></a></li>
+</ul></div>
 

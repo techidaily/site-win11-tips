@@ -1,7 +1,7 @@
 ---
 title: Steps to Find Windows 11'S Authorize Center
-date: 2024-08-16T02:32:55.790Z
-updated: 2024-08-17T02:32:55.790Z
+date: 2025-01-03T05:38:15.601Z
+updated: 2025-01-06T02:00:25.562Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
  When managing user accounts and permissions on Windows, the Authorization Manager tool is an essential part of the process. It allows you to set security settings for specific users or groups as well as view and manage existing user roles.
 
  Once you learn how to open Authorization Manager on Windows 11, you can access its features and make the necessary changes to help secure it. Here we will look at different methods for opening the Authorization Manager tool on a Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use Windows Search
 
@@ -40,11 +44,6 @@ To access the Authorization Manager, follow these steps:
 
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 3\. Use Windows File Explorer
 
  Windows File Explorer is a handy tool to manage your files and folders, allowing you to view, create, move, rename, delete, and organize files. It is also the gateway to accessing hidden files and system settings. Here's how to open Authorization Manager:
@@ -52,10 +51,6 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click on**Start** and select**File Manager** . You can also press**Win + E** on your keyboard to open the tool directly.
 2. In the File Explorer address bar, type**azman.msc** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 4\. Use the Command Prompt and PowerShell
 
  You may be familiar with the command prompt if you’re a system administrator or an advanced user. To open Authorization Manager using this tool, follow these steps:
@@ -63,12 +58,17 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click on**Start** and select**Run** from the menu that appears.
 2. Type**cmd** in the dialog box and press**Enter** .  
 ![Open the Authorization Manager Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the Command Prompt, type**azman.msc** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will instantly open the Authorization Manager window on your computer screen. The same command will also work if you launch and execute it in Windows PowerShell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
 
@@ -79,9 +79,6 @@ The powerful video editing program for your Windows PC</a>
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 6\. Create a Desktop Shortcut
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
@@ -90,30 +87,30 @@ The powerful video editing program for your Windows PC</a>
 
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the text field, type the following and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 C:\WINDOWS\system32\azman.msc
 3. Give it a name and click**Finish** .
 
  The shortcut icon will automatically be added to your desktop. Double-click on it to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Easy and Quick Access to the Authorization Manager
 
  Windows Authorization Manager allows you to manage user roles and permissions in order to have greater control over your system's security. In case you are having difficulties, here are some methods you can try.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +119,23 @@ C:\WINDOWS\system32\azman.msc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>[New] 2024 Approved A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/j-delight-choosing-ultimate-event-videos/"><u>[New] DJ Delight Choosing Ultimate Event Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-integrating-pre-recorded-content-into-facebook-live-shows/"><u>[New] In 2024, Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-and-resolve-captioning-problems-on-windows-10-devices/"><u>Decode and Resolve: Captioning Problems on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellent-5-add-ons-to-amplify-oceanic-shoots/"><u>Excellent 5 Add-Ons to Amplify Oceanic Shoots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-resolving-windows-defenders-error-code-0x80004004/"><u>Explaining & Resolving Windows Defender's Error Code: 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guarantee-privacy-with-controlled-access-settings/"><u>Guarantee Privacy with Controlled Access Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-30-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>In 2024, Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-easeus-screen-recorder-review/"><u>In 2024, EaseUS Screen Recorder Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-effective-techniques-for-creating-podcast-rss-feeds/"><u>In 2024, Effective Techniques for Creating Podcast RSS Feeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-optimal-temperatures-in-laptops-during-games/"><u>Maintaining Optimal Temperatures in Laptops During Games</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/tecnicas-avanzadas-de-reparacion-y-clonacion-para-los-sectores-alienigenas/"><u>Técnicas Avanzadas De Reparación Y Clonación Para Los Sectores Alienígenas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-tactics-smoothly-managing-window-terminals-concentration-shifts/"><u>Transition Tactics: Smoothly Managing Window Terminal's Concentration Shifts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-peak-performance-surpassing-the-100mbps-window-on-windows/"><u>Unleash Peak Performance: Surpassing the 100Mbps Window on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-stealth-storage-solutions/"><u>Windows 10/11 Stealth Storage Solutions</u></a></li>
+</ul></div>
 

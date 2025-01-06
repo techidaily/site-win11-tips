@@ -1,7 +1,7 @@
 ---
 title: Modify Aspect Ratio on Windows Monitors
-date: 2024-08-08T11:13:18.283Z
-updated: 2024-08-09T11:13:18.283Z
+date: 2024-12-31T23:54:12.838Z
+updated: 2025-01-06T08:18:31.873Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
  Here, we share three methods for changing the display orientation on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Windows Display Orientation via the Settings App
 
  The Display section in the Windows Settings app makes it easy for you to [modify things like screen brightness](https://www.makeuseof.com/windows-10-adjust-screen-brightness/), color, layout, scale, and more. Additionally, it also offers the option to change the display orientation on your Windows 10 or 11 computer.
@@ -32,34 +36,38 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 4. Click the **Keep changes** button to confirm.  
 ![Change the Display Orientation Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed the above steps, Windows will rotate your screen 90 degrees, 180 degrees, or 270 degrees, depending on the option you select.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change Windows Display Orientation via the Graphics Control Panel
 
  Apart from the system settings, you can also use the built-in graphics control panel to change the display orientation on Windows. However, the exact steps for doing so will depend on the type of [graphics card installed on your PC](https://www.makeuseof.com/check-graphics-card-model-windows-11/).
 
  Here's how you can rotate your screen using the Intel Graphics Command Center and the NVIDIA Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change the Display Orientation Using the Intel Graphics Command Center
 
 1. Click the magnifying icon on the taskbar or use the **Win + S** keyboard shortcut to open the search menu.
 2. Type **Intel Graphics Command Center** in the box and press **Enter**.
 3. Select the **Display** tab from the left pane.
 4. Under the **General** tab, click the drop-down menu next to **Rotation** to select your preferred display orientation.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-intel-graphics-command-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Change the Display Orientation Using the NVIDIA Control Panel
 
 1. Open the **NVIDIA Control Panel** using the search menu.
@@ -67,14 +75,8 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 3. Click the **Rotate display** option.
 4. Select your preferred orientation in the right pane.
 5. Click the **Apply** button to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-nvidia-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change Windows Display Orientation With Keyboard Shortcuts
 
  Another quick way to rotate your Windows computer's screen is to use keyboard shortcuts. This method can be especially useful if you frequently need to switch between different display orientations.
@@ -96,11 +98,28 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
  Here, we share three methods for changing the display orientation on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-essential-techniques-5-methods-for-superior-tiktok-captioning/"><u>[New] In 2024, Essential Techniques 5 Methods for Superior TikTok Captioning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-locating-your-youtube-discussions/"><u>[Updated] Mastering the Art of Locating Your YouTube Discussions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-look-at-the-razer-blade-stealth-13s-trailblazing-performance-in-ultrabooks/"><u>A Comprehensive Look at the Razer Blade Stealth 13'S Trailblazing Performance in Ultrabooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-taskbar-to-show-current-internet-speed/"><u>Customize Taskbar to Show Current Internet Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-modifying-windows-registry-via-cli/"><u>Expert Techniques: Modifying Windows Registry via CLI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-srt-tools-the-leading-eight-uncovered/"><u>Free SRT Tools The Leading Eight Uncovered</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-official-epson-wf-2540-printer-drivers-for-windows-78110-systems-here/"><u>Get the Official Epson WF-2540 Printer Drivers for Windows 7/8.1/10 Systems Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-rainbow-six-extraction-from-crashing-on-pc-effective-tips-and-tricks/"><u>How to Stop Rainbow Six Extraction From Crashing on PC: Effective Tips and Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-guide-to-sharing-on-instagram-videos-and-more/"><u>In 2024, Guide to Sharing on Instagram Videos & More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-choices-for-accessible-screen-recorders/"><u>In 2024, Premier Choices for Accessible Screen Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-instagram-to-tiktok-connection-protocol/"><u>In 2024, The Instagram to TikTok Connection Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outlook-stalls-win-troubleshoot-to-reconnect-files/"><u>Outlook Stalls? Win Troubleshoot to Reconnect Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-delete-dilemna-8-fixes-for-windows/"><u>Overcoming the Delete Dilemna: 8 Fixes for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-clean-path-to-windows-11-integrity-and-performance/"><u>The Clean Path to Windows 11 Integrity and Performance</u></a></li>
+</ul></div>
+

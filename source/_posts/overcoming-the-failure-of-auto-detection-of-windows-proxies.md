@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failure of Auto-Detection of Windows Proxies
-date: 2024-12-24T22:57:43.315Z
-updated: 2024-12-27T20:10:51.571Z
+date: 2025-01-01T05:57:42.140Z
+updated: 2025-01-05T17:02:03.707Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reboot Your Computer and Router
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
@@ -47,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -102,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
@@ -121,9 +109,17 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
  You should thus run a scan with a trusted anti-malware app, like[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Utilize a Restore Point
 
@@ -146,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
@@ -186,24 +186,18 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevate-your-social-media-game-post-tiktoks-on-twitter/"><u>[New] In 2024, Elevate Your Social Media Game Post TikToks on Twitter</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-financial-frontier-of-youtube-creators/"><u>[Updated] Navigating the Financial Frontier of YouTube Creators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-optimal-screen-recording/"><u>2024 Approved The Ultimate Guide to Optimal Screen Recording</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/comment-synchroniser-automatiquement-vos-fichiers-vers-un-nas-sous-windows/"><u>Comment Synchroniser Automatiquement Vos Fichiers Vers Un NAS Sous Windows?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/devhomes-role-in-crafting-the-future-of-w11-interface/"><u>DevHome's Role in Crafting the Future of W11 Interface</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-for-windows-10-with-simple-steps/"><u>Download Sound Blaster Z Drivers for Windows 10 with Simple Steps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-huawei-nova-y91-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Huawei Nova Y91 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-foremost-10-recording-apps-for-social-media-vids/"><u>In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-11-pro-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 11 Pro for Free</u></a></li>
-<li><a href="https://driver-install.techidaily.com/key-steps-to-replace-mouse-software-on-windows-1011/"><u>Key Steps to Replace Mouse Software on WINDOWS 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-windows-software-on-macos-platform/"><u>Leveraging Windows Software on macOS Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-silencing-explore-tab-clamor/"><u>Mastering Windows 11: Silencing Explore Tab Clamor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-insufficient-permissions-in-win-setup-procedures/"><u>Mitigating Insufficient Permissions in Win Setup Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrayer-of-windows-registry-via-command-line/"><u>Navigating the Labyrayer of Windows Registry via Command Line</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-disk-space-with-windows-compression/"><u>Optimize Disk Space with Windows Compression</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-enhanced-alerts-full-charge-on-winos/"><u>Strategies for Enhanced Alerts: Full Charge on WINOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-handbook-for-windows-startup-tweaks/"><u>The Ultimate Handbook for Windows Startup Tweaks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-picture-holding-portals-for-2024/"><u>[New] Leading Picture Holding Portals for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-live-stream-reader-for-2024/"><u>[New] Live Stream Reader for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-chorus-chamber-capture-save-and-analyze-sound/"><u>[Updated] 2024 Approved Chorus Chamber Capture, Save & Analyze Sound</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-igtv-success-hashtag-strategies-for-fame/"><u>[Updated] 2024 Approved Unlocking IGTV Success Hashtag Strategies for Fame</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ai-powered-best-titles-makers-online-for-2024/"><u>[Updated] AI-Powered Best Titles Makers Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battle-of-online-retail-giants-analyzing-temu-versus-amazon-to-find-out-which-meets-buyer-demands-better-cnet-shopping-reviews/"><u>Battle of Online Retail Giants: Analyzing Temu Versus Amazon to Find Out Which Meets Buyer Demands Better | CNET Shopping Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-significance-of-a-crossed-out-icon-on-files/"><u>Decoding the Significance of a Crossed Out Icon on Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-word-to-open-email-attachments-exclusively-in-read-view/"><u>How to Configure Word to Open Email Attachments Exclusively in Read View</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-images-on-the-windows-lock-screen-effectively/"><u>How to Manage Images on the Windows Lock Screen Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-no-app-associated-files-on-windows/"><u>Remedy for No App Associated Files on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-steam-storage-write-glitch-on-win-devices/"><u>Taming the Steam Storage Write Glitch on Win Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-overlooked-risks-with-bargain-windows-keys/"><u>The Overlooked Risks with Bargain Windows Keys</u></a></li>
 </ul></div>
 

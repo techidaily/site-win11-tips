@@ -1,7 +1,7 @@
 ---
 title: Overturning Google Chrome's WebP Save Feature on Windows
-date: 2024-12-21T19:48:00.126Z
-updated: 2024-12-27T20:03:24.513Z
+date: 2025-01-04T16:59:26.350Z
+updated: 2025-01-06T01:16:35.032Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  The WebP image format was introduced by Google more than a decade ago, and during the last few years, it has become mainstream. The images in this format are smaller and lighter than others, and its superior compressibility has made it quite popular lately. Even though it is smaller, it maintains a high level of quality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Chrome Save Images as WebP?
@@ -46,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  There are, however, some workarounds you can use to download images in the format you prefer right from Chrome. Let's go over a few of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Save WebP Images in Other Formats on Chrome
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use Save Image as Type Extension
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Paint App on Windows
 
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Use a Web-Based Image Converter
 
  You can also use a web-based image converter to convert WebP images to other formats, especially if you have already downloaded several WebP images. Among many popular choices, Online Convert is a reliable website for converting WebP images. To learn how to convert images using the image conversion tools offered by Online Convert, follow these steps:
@@ -105,20 +101,24 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 4. Click on **Choose Files** and select the image from your device to upload.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
 5. Click **Start** once the image has been uploaded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Use a Browser Version That Doesn't Support WebP
 
@@ -146,16 +146,14 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iving-deep-into-youtube-launching-and-earning-your-way-for-2024/"><u>[New] Diving Deep Into Youtube Launching and Earning Your Way for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pairing-podcast-with-picture/"><u>[New] Pairing Podcast with Picture</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860741690-2024-approved-essential-mac-screen-recorders-top-10-free-list/"><u>2024 Approved Essential Mac Screen Recorders – Top 10 FREE List!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-the-latest-macos-15-sequoia-beta-version-immediately-complete-guide-for-mac-users/"><u>Access the Latest MacOS 15 Sequoia Beta Version Immediately: Complete Guide for Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-crashing-apps-with-these-8-essential-tricks-to-solve-parse-errors-in-android-development/"><u>Avoid Crashing Apps with These 8 Essential Tricks to Solve Parse Errors in Android Development</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steamapi64dll-missing-error/"><u>How to Fix Steam_api64.dll Missing Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-drive-not-initialized-warning/"><u>Quick Fix Guide: Drive Not Initialized Warning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-xbox-error-code-0x800700e9-on-pc/"><u>Remedying the Xbox Error Code: 0X800700E9 on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-missing-audio-saving-feature-on-windows/"><u>Restoring Missing Audio Saving Feature on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transferring-iphones-calendar-events-to-windows-pc/"><u>Transferring iPhone's Calendar Events to Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-technology-windows-on-iphoneipad-mac-pc-unveiled/"><u>Transformative Technology: Windows on iPhone/iPad, Mac, PC Unveiled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-covertly-engage-with-fb-live-feeds/"><u>[New] In 2024, Covertly Engage with FB Live Feeds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-soundtrack-to-life-fbs-music-offerings-for-2024/"><u>[Updated] Soundtrack to Life FB's Music Offerings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-web-speed-contrast-in-your-tech-world/"><u>Addressing the Web Speed Contrast in Your Tech World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-shop-failure-x800704cf/"><u>Deciphering Windows Shop Failure X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reacquire-lost-copilot-in-ws11-journeys/"><u>How To Reacquire Lost Copilot In WS11 Journeys</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects-for-2024/"><u>New The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/periscope-review-for-2024/"><u>Periscope Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-registry-tweaks-in-windows-terminal/"><u>The Ultimate Guide to Registry Tweaks in Windows Terminal</u></a></li>
 </ul></div>
 

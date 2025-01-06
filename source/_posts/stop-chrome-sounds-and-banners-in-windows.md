@@ -1,7 +1,7 @@
 ---
 title: Stop Chrome Sounds & Banners in Windows
-date: 2024-12-26T22:36:45.767Z
-updated: 2024-12-27T22:47:11.752Z
+date: 2025-01-03T21:16:37.859Z
+updated: 2025-01-06T02:36:23.646Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off Google Chrome Notifications From Windows Settings
 
  The Windows Settings app lets you enable or[disable notifications for each of your apps](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/) separately. If you do not want to receive any notifications from Google Chrome, you can disable its notification permission on Windows. Here's how you can go about it.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Disable Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can change the way Chrome notifications appear on your Windows PC. You can disable notification banners, mute the alert sound, or stop them from showing up on the lock screen. To learn more about this, check our guide on[how to customize notifications on Windows](https://www.makeuseof.com/windows-11-customize-notifications/) .
@@ -56,7 +60,11 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 5. Enter the URL of the website for which you want to turn off notifications and click on**Add** .  
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
 
  If you've previously enabled notifications for any sites, you’ll find them under the**Allowed to send notifications** section. To disable notifications for those websites, click the**three-dot menu icon** next to the website URL and select**Block** .
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -113,17 +113,24 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>[Updated] Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-desktop-and-mobile-incorporate-timestamps-on-youtube/"><u>[Updated] Mastering Desktop & Mobile Incorporate Timestamps on YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-engagement-a-comprehensive-guide-to-insta-vids/"><u>2024 Approved Elevating Engagement A Comprehensive Guide to Insta Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diving-deep-into-the-excellence-of-microsoft-surface-laptop-4/"><u>Diving Deep Into the Excellence of Microsoft Surface Laptop 4</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-downloading-your-youtube-watch-lists-step-by-step/"><u>In 2024, Downloading Your YouTube Watch Lists Step by Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-claudes-magic-box-why-its-revolutionizing-industries/"><u>Inside Claude's Magic Box: Why It's Revolutionizing Industries</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-virtual-meeting-etiquette-with-google-meets-background-blur-feature/"><u>Mastering Virtual Meeting Etiquette with Google Meet's Background Blur Feature</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ranking-dos-melhores-editores-de-montagem-de-videos-em-2024-visao-dentro-da-industria-pela-movavi/"><u>Ranking Dos Melhores Editores De Montagem De Vídeos Em 2024 - Visão Dentro Da Indústria Pela Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefine-classics-upgraded-videos-through-madvr-and-pcs/"><u>Redefine Classics: Upgraded Videos Through MadVR and PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-c-drive-filling-mystery-on-pcs/"><u>Reversing C: Drive Filling Mystery on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tick-tock-files-masterful-methods-to-modify-file-times-in-win8/"><u>Tick-Tock Files: Masterful Methods to Modify File Times in Win8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-oculus-rift-into-a-windows-compatible-device/"><u>Transforming Oculus Rift Into a Windows-Compatible Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-clean-cut-windows-10-screen-logger-for-2024/"><u>[New] Clean-Cut Windows 10 Screen Logger for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-metaverse-vs-multiverse-whats-the-difference-for-2024/"><u>[New] Metaverse vs Multiverse What's the Difference for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-in-depth-skype-audio-capture-guide-with-obs-software/"><u>[Updated] In 2024, In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-mini-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 13 mini to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-couldnt-be-written-windows-error/"><u>Bypassing the Couldn’t Be Written Windows Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-infestation-alert-students-discover-bedbugs-in-school-laptops-for-the-second-occasion-a-growing-concern/"><u>Chromebook Infestation Alert: Students Discover Bedbugs in School Laptops for the Second Occasion – A Growing Concern</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually With Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-toolbar-in-microsoft-pc-manager-on-windows-11/"><u>How to Use the Toolbar in Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966235256-instant-access-to-samsung-c460-device-drivers-start-here/"><u>Instant Access to Samsung C460 Device Drivers - Start Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-offline-windows-enhancements/"><u>Navigating Offline Windows Enhancements</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-methods-for-reducing-storage-space-needed-for-media-files/"><u>New Advanced Methods for Reducing Storage Space Needed for Media Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011-zoom-glitch-1132/"><u>Overcoming Windows 10/11 Zoom Glitch 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/security-scare-can-you-trust-your-biometric-lock-on-windows/"><u>Security Scare: Can You Trust Your Biometric Lock on Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-shopping-crash-error-x800704cf/"><u>Tackling Win11's Shopping Crash: Error X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-streamline-win11s-print-management-max-52-chars/"><u>Ways to Streamline Win11’s Print Management (Max 52 Chars)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-next-chapter-begins-with-moment-22h2s-features/"><u>Windows 11'S Next Chapter Begins With Moment #22H2's Features</u></a></li>
 </ul></div>
 

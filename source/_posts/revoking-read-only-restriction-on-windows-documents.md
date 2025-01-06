@@ -1,7 +1,7 @@
 ---
 title: Revoking Read-Only Restriction on Windows Documents
-date: 2024-08-08T11:13:16.356Z
-updated: 2024-08-09T11:13:16.356Z
+date: 2024-12-30T00:22:54.651Z
+updated: 2025-01-06T09:36:49.846Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 
  On Windows, you can set or remove the read-only attribute for a file by modifying its properties. Alternatively, you can also run a command in Command Prompt or Windows PowerShell to do the same. In this article, we take a look at all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 1\. How to Change the Read-Only Attribute for Files by Modifying Properties
 
  The easiest way to set or remove the read-only attribute for a file on Windows is by modifying its properties. Here’s how you can go about it.
@@ -32,16 +28,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Right-click on your file and select**Properties** .
 3. Under the**General** tab, check or uncheck the**Read-only** box.
 4. Click**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Change Read-Only Attribute by Modifying Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-by-Modifying-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<http://How> to Take Ownership of Folders in Windows 10 & 11) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
 
  Command Prompt is one of two command-line tools available on Windows. You can use it to run batch files, troubleshoot errors, and perform various other tasks. It also lets you change a file's read-only attribute with a single command. Here are the steps you need to follow.
@@ -55,10 +49,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Replace**FilePath** in the above command with the actual path of the file copied earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Read-Only Attribute With Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
 
@@ -69,8 +64,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Change the Read-Only Attribute for Files Using Windows PowerShell
 
  You can also run a command in[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to change the read-only attribute for a file.
@@ -86,14 +82,19 @@ To change the read-only attribute using PowerShell:
 
  Replace**FilePath** in the above command with the actual path of the file copied earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Change Read-Only Attribute With PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
 
 `Set-ItemProperty -Path "FilePath" -Name IsReadOnly -Value $False`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modifying the Read-Only Attribute for Files on Windows
 
@@ -105,8 +106,6 @@ To change the read-only attribute using PowerShell:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,24 @@ To change the read-only attribute using PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-building-brand-buzz-the-power-of-instagram-story-quizzes/"><u>[New] Building Brand Buzz The Power of Instagram Story Quizzes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-through-instagram-video-woes-with-ease-for-2024/"><u>[Updated] Navigating Through Instagram Video Woes with Ease for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/enhancing-your-computing-experience-bridging-airpods-with-personal-computers/"><u>Enhancing Your Computing Experience Bridging AirPods with Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-windows-users-chatgpt-application/"><u>Essential Steps for Windows Users: ChatGPT Application</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-correct-microsoft-outlook-access-issues-efficiently/"><u>Expert Advice to Correct Microsoft Outlook Access Issues Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-audacity-paudio-glitches-in-windows-1011/"><u>Fixing Audacity PAudio Glitches in Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi A2+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-to-log-gaming-sessions-for-2024/"><u>Innovative Methods to Log Gaming Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-windows-talk-the-freedomgpt-way/"><u>Liberate Windows Talk: The FreedomGPT Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-new-additions-for-efficient-workflow-in-windows/"><u>Mastering New Additions for Efficient Workflow in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-format-switches-from-word-docs-to-windows-11-pdfs/"><u>Optimizing File Format Switches: From Word Docs to Windows 11 PDFs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/proven-tactics-for-unblemished-image-sourcing/"><u>Proven Tactics for Unblemished Image Sourcing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-windows-next-discover-new-additions-in-update-wxx/"><u>Taking Windows Next: Discover New Additions in Update W.x.x</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-streamers-guide-to-selecting-a-peak-provider-for-2024/"><u>The Ultimate Streamer's Guide to Selecting a Peak Provider for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-10-and-11-efficiency-custom-keybindings-to-copy-text/"><u>Win 10 & 11 Efficiency: Custom Keybindings to Copy Text</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-store-fix-overcome-error-0x80072f17/"><u>Windows Store Fix: Overcome Error 0X80072F17</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-complete-playstation-portal-guide-launch-date-cost-breakdown-hardware-info-and-where-to-shop/"><u>Your Complete PlayStation Portal Guide: Launch Date, Cost Breakdown, Hardware Info & Where to Shop</u></a></li>
+</ul></div>
 

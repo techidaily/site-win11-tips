@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Your Silenced Speaker - Tech Fix at Hand
-date: 2024-08-08T11:10:26.101Z
-updated: 2024-08-09T11:10:26.101Z
+date: 2025-01-01T22:02:01.511Z
+updated: 2025-01-05T19:50:00.970Z
 tags:
   - windows10
   - windows11
@@ -30,19 +30,15 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
@@ -55,8 +51,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check[how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
@@ -64,8 +61,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Confirm That the HDMI Audio Is Selected
 
  Some HD displays don't support audio over an HDMI cable, even when the cable does. As such, there could be a scenario in which you're using an HDMI display that won't play audio.
@@ -92,12 +90,13 @@ Audio should now play on your HDMI TV.
 
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
@@ -108,8 +107,9 @@ Audio should now play on your HDMI TV.
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Check Your Monitor's Speakers
 
  Many monitors nowadays come with in-built speakers. Take a look at the speakers, and see if you're using such a monitor. You can then tweak the volume from the buttons on your monitor or the through the settings on your Windows.
@@ -126,6 +126,10 @@ Audio should now play on your HDMI TV.
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -133,18 +137,12 @@ Audio should now play on your HDMI TV.
 1. Type**command prompt** in the Start menu search bar, and select the Best match.
 2. Now, type**sfc/ scannow** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 10\. Disable Audio Enhancements
 
  At times, having audio enhancements enabled can lead to audio issues. To make sure that's not the case, it's better that you turn them off.
@@ -154,9 +152,6 @@ Audio should now play on your HDMI TV.
 3. Under the**Playback** tab, right-click the**Default Device** and select**Properties** .
 4. Finally, select either the**Disable all enhancements** or the**Disable** option in the Enhancements tab and select**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
  This will turn off all enhancements that could be the cause of your speakers not working.
@@ -179,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +181,17 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xpedite-youtube-video-submission-rapid-rendering-secrets/"><u>[New] Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[New] From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[Updated] 2024 Approved OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-step-by-step-approach-for-adding-soundtracks-to-youtube-clips/"><u>[Updated] A Step-by-Step Approach for Adding Soundtracks to YouTube Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-csgo-running-smoothly-on-windows-11/"><u>How to Get CS:GO Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantly-improve-your-opera-installer-on-windows/"><u>Instantly Improve Your Opera Installer on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-windows-on-budget-pcs/"><u>Leading Windows on Budget PCs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-remedy-unsupported-audio-device-in-windows-os/"><u>Steps to Remedy Unsupported Audio Device in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-low-memory-error-on-hogwarts-legacy-windows-edition/"><u>Tackling Low-Memory Error on Hogwarts Legacy Windows Edition</u></a></li>
+</ul></div>
 

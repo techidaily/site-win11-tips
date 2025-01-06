@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Approach to Unhandled Exception in Windows Apps
-date: 2024-08-16T02:34:50.830Z
-updated: 2024-08-17T02:34:50.830Z
+date: 2024-12-30T06:50:07.737Z
+updated: 2025-01-05T19:16:28.909Z
 tags:
   - windows10
   - windows11
@@ -43,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
  To ensure that, check out the ways how you can[install Windows updates on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-updates/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Scan for Malware Using Microsoft Defender or Your Antivirus
 
  There is a possibility that the "Unhandled exception has occurred in your application" error could be caused by malware. To rule that out, you should scan your computer with the inbuilt Microsoft Defender antivirus.
@@ -64,12 +65,13 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ![.NET Framework Repair Tool License Terms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-tool-license-terms.jpg)
 3. The tool will start**Detecting issues** and then a window with**Recommended Changes** will open up. Review the recommended changes and click**Next** to apply them.  
 ![Recommended Changes by .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Once the changes are made, the**Changes complete** window will appear. Click on**Finish** .  
 ![Changes Complete Window of .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes-complete.jpg)
 5. Now, restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable the .NET Framework
 
@@ -79,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ![Turn-Windows-Features-On-Or-Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off.jpg)
 2. In the Windows Features window, you'll see the**.NET Framework 3.5** and**.NET Framework 4.8** **Advanced Services** . If the box next to .NET Framework 3.5 is not filled, click in the checkbox to fill it and then click**OK** .  
 ![Enable. NET Framework 3.5 in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-net-framework-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. The next window might alert you that **Windows needs some files from Windows Updates to finish installing some features** . Select the option**Let Windows Update download the files for you** .  
 ![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
-![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use System File Checker on Windows
@@ -100,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
  Be patient as the SFC scan will take a few minutes. If the unhandled exception error was caused by corrupt files, you will see that the SFC would have scanned and fixed it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Clear Your Windows System of the "Unhandled Exception Has Occurred in Your Application" Error
 
  The "Unhandled exception error has occurred in your application" can interrupt the smooth flow of your work on Windows. Using the above methods, you'll be able to fix this error and its annoying pop-ups.
@@ -112,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +122,20 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[New] 2024 Approved Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>[Updated] 2024 Approved Conquering Live Broadcast A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-rank-higher-with-youtube-shorts-a-guide-to-making-a-difference-for-2024/"><u>[Updated] Rank Higher with YouTube Shorts A Guide to Making a Difference for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-guide-to-understanding-and-joining-a-youtube-media-company/"><u>2024 Approved A Guide to Understanding and Joining a YouTube Media Company</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-the-power-of-spatial-recognition-on-the-latest-vision-pro-tablet-by-apple-unlock-and-test-now/"><u>Discovering the Power of Spatial Recognition on the Latest Vision Pro Tablet by Apple - Unlock and Test Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dormant-dreams-windows-computers-at-rest/"><u>Dormant Dreams: Windows Computers at Rest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-video-memory-crashes-in-hogwarts-educational-fantasy-game/"><u>Eliminating Video Memory Crashes in Hogwarts Educational Fantasy Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-print-devices-on-windows-pc/"><u>Fixing Disconnected Print Devices on Windows PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-lite-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 Lite 5Gwith/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-storage-retention-strategy/"><u>Optimize Windows Storage Retention Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approach-preventing-unexpected-obs-studio-error/"><u>Proactive Approach: Preventing Unexpected OBS Studio Error</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-zte-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Device</u></a></li>
+</ul></div>
 

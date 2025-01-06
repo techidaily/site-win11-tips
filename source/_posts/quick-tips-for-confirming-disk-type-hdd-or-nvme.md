@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Confirming Disk Type – HDD or NVMe?
-date: 2024-12-25T21:26:59.508Z
-updated: 2024-12-27T22:01:48.475Z
+date: 2024-12-29T23:20:17.113Z
+updated: 2025-01-05T23:01:58.240Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -74,18 +74,19 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-frame-ratio-classifications/"><u>[New] In 2024, FB Video Frame Ratio Classifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-step-by-step-process-for-converting-your-mp3-collection-into-widespread-high-quality-audio-cds-via-imgburn-windows/"><u>Easy Step-by-Step Process for Converting Your Mp3 Collection Into Widespread, High-Quality Audio Cds via ImgBurn (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-older-software-works-on-contemporary-windows-10/"><u>Ensuring Older Software Works on Contemporary Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722975398646-free-install-of-killer-e250-controller-for-superfast-internet-speeds/"><u>Free Install of Killer E250ˈ Controller for Superfast Internet Speeds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-silence-to-speech-giving-prompts-auditory-answers/"><u>From Silence to Speech: Giving Prompts Auditory Answers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-15-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 15 Pro when Phone is Broken?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>In 2024, Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/keep-data-safe-halt-ai-web-scraping-bots/"><u>Keep Data Safe: Halt AI Web-Scraping Bots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-previous-windows-sleepshutdown-configs/"><u>Regaining Previous Windows Sleep/Shutdown Configs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-convert-esd-to-iso-in-windows-environment/"><u>The Ultimate Guide to Convert ESD to ISO in Windows Environment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unbeatable-labor-day-offer-get-the-new-2022-ipad-pro-at-an-extra-700-discount-find-out-how/"><u>Unbeatable Labor Day Offer: Get the New 2022 iPad Pro at an Extra $700 Discount - Find Out How !</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-gaming-potential-combatting-directdraw-faults-on-windows-11/"><u>Unlocking Gaming Potential: Combatting DirectDraw Faults on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>[New] 2024 Approved 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>[Updated] Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>2024 Approved Revolutionize Unboxing on Instagram A Guide to Popularity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024s-ultimate-troubleshooting-companion-resolving-rockstar-games-launcher-problems/"><u>2024'S Ultimate Troubleshooting Companion: Resolving Rockstar Games Launcher Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-secure-text-transfer-operation-steps-in-edges-shielded-environment-win11-version/"><u>Enabling Secure Text Transfer: Operation Steps in Edge's Shielded Environment, Win11 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-steam-video-hiccups/"><u>Essential Steps to Resolve Steam Video Hiccups</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/leveraging-cookiebot-technology-for-superior-online-engagement/"><u>Leveraging Cookiebot Technology for Superior Online Engagement</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/875513-9780307815958-looking-for-the-other-side/"><u>Looking for the Other Side | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-icon-alignment-in-windows-10/"><u>Simplify Icon Alignment in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-shortcut-tactics-for-optimal-voice-input-on-win-11/"><u>Ultimate Shortcut Tactics for Optimal Voice Input on Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-framerate-in-consoles-defies-expectations/"><u>Why Framerate in Consoles Defies Expectations</u></a></li>
 </ul></div>
 

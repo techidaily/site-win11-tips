@@ -1,7 +1,7 @@
 ---
 title: Integrating Numeric Keys Status Into Win11's SysTray
-date: 2024-12-23T17:42:12.516Z
-updated: 2024-12-27T18:53:50.402Z
+date: 2024-12-31T06:44:36.885Z
+updated: 2025-01-05T20:27:53.245Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Num, Caps, and Scroll Lock Indicators With TrayStatus
 
  TrayStatus lets you add lock key statuses, alongside a variety of system performance indicators, to the system tray.
@@ -39,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 4. Go through the setup, then select the **Use Trial Version** radio button and click **Next**.
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
@@ -51,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
 
@@ -71,21 +76,17 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
  AddLEDs has a few settings with which you can change the color scheme of its system tray indicators. Right-click one of the indicators and move the cursor over Icon Indicators to view those options. Then you can select color scheme options like **Transparent**, **Black/White**, **Blue/Red/Green**, **Green/Red**, and **Red/Blue**.
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
@@ -100,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![The Keyboard LED Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-setup.jpg)
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
@@ -108,16 +113,12 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![The Keyboard LEDs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
@@ -138,19 +139,21 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-exploring-alternatives-the-10-best-non-vimeo-video-tools-for-2024/"><u>[New] Exploring Alternatives The 10 Best Non-Vimeo Video Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-cost-efficient-sky-companions-drone-guide-(500/"><u>[New] In 2024, Cost-Efficient Sky Companions Drone Guide <$500</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-excellent-spots-for-tamil-ringtones-acquisition-guide-for-2024/"><u>[Updated] Excellent Spots for Tamil Ringtones Acquisition Guide for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-vivid-high-speed-gameplay-on-the-viewsonic-xg272-2k-oled-monitor-in-depth-review/"><u>A Closer Look at the Vivid, High-Speed Gameplay on the ViewSonic XG272-2K OLED Monitor - In Depth Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-roblox-error-code-403-on-pc/"><u>Guide to Fixing Roblox Error Code 403 on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-search-box-in-windows-11-task-manager/"><u>How to Enable the Search Box in Windows 11 Task Manager</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-templates-to-amplify-yt-decks/"><u>In 2024, Innovative Templates to Amplify YT Decks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors/"><u>In 2024, Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>[New] A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-proven-marketing-spells-20-must-use-terms/"><u>[New] In 2024, Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://fox-search.techidaily.com/essential-strategies-for-identity-safeguard-in-the-world-of-cryptocurrency-insights-by-yl-software-experts/"><u>Essential Strategies for Identity Safeguard in the World of Cryptocurrency - Insights by YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-epson-es-400-scandriver-downloads-and-installation-guide-for-windows-users/"><u>Free Epson ES-400 ScanDriver Downloads & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-methods-to-elevate-the-acoustics-in-your-videos-the-ultimate-trickbook/"><u>Free Methods to Elevate the Acoustics in Your Videos - The Ultimate Trickbook!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-at-snipeits-stalling-fast-fixes-to-jumpstart-it/"><u>Halt at SnipeIt's Stalling? Fast Fixes to Jumpstart It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hands-on-with-lenovos-newest-creation-the-remarkably-thin-and-powerful-snapdragon-x-laptops-insights-from-zdnet/"><u>Hands-On with Lenovo's Newest Creation: The Remarkably Thin & Powerful Snapdragon X Laptops - Insights From ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-taskbar-clock-show-desktop-dates-a-step-by-step-guide/"><u>Hide Taskbar Clock, Show Desktop Dates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-zip-cloaking-integration-within-digital-images-win11/"><u>Masterful ZIP Cloaking: Integration Within Digital Images (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-disconnection-quick-fix-for-xbox-win11-app/"><u>Navigating Through Disconnection: Quick Fix for Xbox Win11 App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-through-frozen-windows-update-woes/"><u>The Pathway Through Frozen Windows Update Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-overcoming-folder-name-limitations-in-windows-11/"><u>The Ultimate Guide to Overcoming Folder Name Limitations in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10 4G</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ering-youtubes-top-viewed-comments/"><u>Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-bluetooth-troubleshooting-music-only-lacking-volumecontrols/"><u>Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls</u></a></li>
 </ul></div>
 

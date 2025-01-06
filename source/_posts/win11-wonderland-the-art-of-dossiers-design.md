@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2024-12-21T19:58:37.991Z
-updated: 2024-12-27T21:23:30.815Z
+date: 2025-01-04T00:04:42.804Z
+updated: 2025-01-06T00:43:48.853Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -52,11 +52,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -66,10 +66,6 @@ To create a new folder using File Explorer's menu:
  Simply head to the location where you want to create the folder and press**Ctrl + Shift + N** together on your keyboard. Once the folder is created, you can rename it to anything you want.
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
@@ -89,11 +85,15 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,22 +115,22 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expertly-evaluating-webcam-technology-for-professionals/"><u>2024 Approved Expertly Evaluating WebCam Technology for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>2024 Approved From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-how-luts-revolutionize-your-photo-editing-experience/"><u>2024 Approved How LUTs Revolutionize Your Photo Editing Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-g510-controller-up-and-running-win-7-to-10-supported-driver-downloads/"><u>Get Your Logitech G510 Controller Up and Running - Win 7 to 10 Supported Driver Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-solve-non-detected-proxy-settings-on-windows-os/"><u>Guide to Solve Non-Detected Proxy Settings on Windows OS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-professional-photo-coloring/"><u>In 2024, The Ultimate Guide to Professional Photo Coloring</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-mouse-gestures-into-your-web-surfing-routine-edge-edition/"><u>Integrating Mouse Gestures Into Your Web Surfing Routine - Edge Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-systemsettingsexe-breakdown-in-win11/"><u>Overcoming SystemSettings.exe Breakdown in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808208828-pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-windows-11-clipchamp-setup-hurdles-effectively/"><u>Resolve Windows 11 ClipChamp Setup Hurdles Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc0000001/"><u>Resolving Windows Error: Code 0xC0000001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-operational-functions-for-diagnostic-tools-in-winos/"><u>Streamlining Operational Functions for Diagnostic Tools in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-making-the-most-of-old-pc-on-win10/"><u>Tips for Making The Most of Old PC on Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-your-folders-how-to-revert-to-editable-mode/"><u>Unlocking Your Folders: How to Revert to Editable Mode</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-success-with-savvy-backlinking-for-2024/"><u>Unlocking YouTube Success with Savvy Backlinking for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-vectors-the-top-vm-picks-for-windows-11-pcs/"><u>Winning Vectors: The Top VM Picks for Windows 11 PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-scenes-to-screens-sims-4-video-capturing/"><u>[New] From Scenes to Screens Sims 4 Video Capturing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-savvy-taking-screenshots-on-windows/"><u>[New] Screen Savvy Taking Screenshots on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-content-distribution-excellence-vimeo-vs-youtube/"><u>[Updated] 2024 Approved Content Distribution Excellence Vimeo vs YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028947887-androidyoutube/"><u>「Android着信メロディ製作ガイド：YouTube音楽や動画から作る方法」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhance-clarity-in-social-video-downloads-for-smartphonestablets/"><u>2024 Approved Enhance Clarity in Social Video Downloads for Smartphones/Tablets</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-folder-dimensions-with-powershell-scripts/"><u>Deciphering Folder Dimensions with PowerShell Scripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-in-action-how-to-fix-error-code-0x800700e9-on-your-xbox-game-pass-windows-11-device/"><u>Expertise in Action: How to Fix Error Code 0X800700E9 on Your Xbox Game Pass, Windows 11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-print-discrepancies-in-microsoft-powerpoint-on-windows-systems/"><u>Fixing Print Discrepancies in Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-windows-package-manager-on-windows-11/"><u>How to Use the Windows Package Manager on Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-chorus-chronicles-music-gadgets/"><u>In 2024, Chorus Chronicles Music Gadgets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-m34-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy M34 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones-for-2024/"><u>Instantly Personalize Your Phones From TikTok Sounds to Ringtones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-1110s-recurring-error-with-audacity/"><u>Remedying Windows 11/10'S Recurring Error with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
 </ul></div>
 

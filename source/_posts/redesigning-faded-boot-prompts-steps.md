@@ -1,7 +1,7 @@
 ---
 title: "Redesigning Faded Boot Prompts: Steps"
-date: 2024-08-08T11:10:24.141Z
-updated: 2024-08-09T11:10:24.141Z
+date: 2024-12-29T17:59:53.109Z
+updated: 2025-01-06T01:56:38.068Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
  Here is how to fix the Legacy Boot grayed-out in BIOS issue on your Windows system.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes the Legacy Boot Grayed Out Problem?
 
  You may find the Legacy Boot option grayed out if the UEFI settings, such as Secure Boot and TPM are enabled in the BIOS utility. In some instances, the BIOS utility can tell you why you can't switch to the Legacy boot option.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
  Boot into your BIOS utility and open**Advanced Boot** **Options** . Next, check the**Enable Legacy Option ROMs** option. You may see an error prompt explaining why the Legacy option cannot be enabled. It usually hints that PPT/TPM or Secure Boot is enabled.
 
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Secure Boot to Enable Boot
 
@@ -48,30 +53,21 @@ To disable secure boot:
 3. Release the**Shift** key as the PC shuts down and boot into the**Recovery Menu.**
 4. Go to**Troubleshoot** and click on**Advanced options** .
 5. Next, click on**UEFI Firmware Settings.**  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
-1. Click**Restart** to boot into the**Startup Menu.**  
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
 6. Press**F10** to save the changes and disable Secure Boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Disable Trusted Platform Technology (TPM)
 
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
@@ -87,13 +83,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Press**F10** to save the change and exit.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Modern Standby
 
  Modern Standby (S0) is a newer power mode available on select modern computers. It is enabled by default on compatible systems but can cause issues with Legacy Boot.
 
  To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
 
@@ -105,8 +106,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[Updated] In 2024, Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[Updated] In 2024, Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-art-of-search-engine-optimization-for-podcasts-for-2024/"><u>[Updated] Mastering the Art of Search Engine Optimization for Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtube-money-mastery-from-clicks-to-checkbook-balance/"><u>2024 Approved YouTube Money Mastery From Clicks to Checkbook Balance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone SE without Password?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pioneering-cinematic-language/"><u>In 2024, Pioneering Cinematic Language</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-key-ingredients-of-a-powerful-podcast-launch-video/"><u>In 2024, The Key Ingredients of a Powerful Podcast Launch Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-loss-of-razer-device-support-in-win1011/"><u>Mending the Loss of Razer Device Support in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-mail-app-html-glitches-in-email-previews/"><u>Overcoming Windows 11'S Mail App HTML Glitches in Email Previews</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/real-time-streaming-mastery-discover-manycam-features-virtual-webcams-and-professional-live-video-editing/"><u>Real-Time Streaming Mastery: Discover ManyCam Features, Virtual Webcams, and Professional Live Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-insufficient-usb-functionality/"><u>Remedying Insufficient USB Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-internet-experience-include-trusted-sites-on-windows-11/"><u>Safeguard Internet Experience: Include Trusted Sites on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-window-management-taskmanager-priority/"><u>Unveiling Window Management: TaskManager Priority</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-entry-level-equipment-checklist-for-youtube-success-for-2024/"><u>Your Entry-Level Equipment Checklist for YouTube Success for 2024</u></a></li>
+</ul></div>
 

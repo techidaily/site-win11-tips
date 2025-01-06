@@ -1,7 +1,7 @@
 ---
 title: Eliminate Spontaneous Scroll Wonders
-date: 2024-12-20T20:48:54.620Z
-updated: 2024-12-27T17:09:41.383Z
+date: 2025-01-03T10:59:52.444Z
+updated: 2025-01-05T17:37:22.197Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Windows to Scroll By Itself?
 
 ![Person using a mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/person-using-a-mouse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're experiencing automatic scrolling on your Windows PC, these might be the reasons:
@@ -48,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  Now that you know the reasons behind this issue, let's discuss how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Automatic Scrolling on Windows
 
  Let's apply the above solutions to fix this strange auto scroll issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. First, Perform Some Preliminary Checks
 
@@ -78,6 +74,10 @@ If the above basic checks don't help, apply the remaining fixes.
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Next, check for potential hardware problems. By checking them first, you can save yourself from the unnecessary labor of applying software fixes.
@@ -93,13 +93,13 @@ If the above basic checks don't help, apply the remaining fixes.
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Remove or Uninstall Ghost Devices
 
@@ -113,7 +113,15 @@ If the above basic checks don't help, apply the remaining fixes.
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Change Your Mouse Settings
 
@@ -129,17 +137,9 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
 7. After that, click on the**Additional mouse settings** link.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
 
@@ -160,15 +160,14 @@ If the above basic checks don't help, apply the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-choosing-the-best-screen-capture-app-obs-vs-fraps-for-2024/"><u>[New] Choosing the Best Screen Capture App – OBS vs Fraps for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-metaverse-and-multimeva-a-comparative-study-of-features-for-2024/"><u>[Updated] Metaverse and Multimeva A Comparative Study of Features for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-computing-reviewed-the-essential-guide-from-tomamoor/"><u>Cutting-Edge Computing Reviewed: The Essential Guide From Tom'amoor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-netflix-library-a-guide-to-popular-teen-flicks/"><u>Navigating the Netflix Library: A Guide to Popular Teen Flicks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-device-not-reachable-error-in-windows-os/"><u>Navigating Through Device Not Reachable Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-discord-wins-search-functionality-a-step-by-step-guide/"><u>Repairing Discord Win's Search Functionality: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-set-windows-back-to-original-configs/"><u>Strategies to Set Windows Back to Original Configs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-in-win11-using-nircmd-tips/"><u>Streamline Your Workflow in Win11 Using NirCmd Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[New] Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-essential-arsenal-for-modern-enterprise-top-trending-gadgets-and-tech-to-own-for-2024/"><u>[New] Essential Arsenal for Modern Enterprise Top Trending Gadgets and Tech To Own for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>[Updated] Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-no-more-troubles-mastering-ipad-video-captures-now/"><u>2024 Approved No More Troubles? Mastering iPad Video Captures Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-concept-of-output-impedance-for-better-circuit-design/"><u>Mastering the Concept of Output Impedance for Better Circuit Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-vintage-password-problem-on-w10w11/"><u>Navigating Through the Vintage Password Problem on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforcing-the-resilience-of-windows-11-taskbar/"><u>Reinforcing the Resilience of Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-windows-camera-failure-on-photovideo-saving/"><u>Repairing Windows Camera Failure on Photo/Video Saving</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-the-way-you-search-on-windows-11/"><u>Revamp the Way You Search on Windows 11</u></a></li>
 </ul></div>
 

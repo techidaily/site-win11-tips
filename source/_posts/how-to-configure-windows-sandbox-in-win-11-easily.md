@@ -1,7 +1,7 @@
 ---
 title: How To Configure Windows Sandbox in Win 11 Easily
-date: 2024-12-22T17:29:05.307Z
-updated: 2024-12-27T17:55:53.425Z
+date: 2025-01-02T18:52:58.990Z
+updated: 2025-01-06T09:20:14.867Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows Sandbox in Windows 11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
  Windows Sandbox is an optional feature, which means you'll have to install it from the Optional features section. You can[add and remove optional features from the Windows Features dialog](http://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) . Alternatively, you can use PowerShell or Command Prompt for a swift installation of Windows Sandbox.
 
  While the setup process is easier, your computer must meet some system requirements. Windows 11 Pro, Education, or Enterprise running computers with virtualization support are Windows Sandbox compatible. In most cases,[if your system can run Windows Hyper-V](https://www.makeuseof.com/windows-11-enable-hyper-v/) , it should also run Windows Sandbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Enable Windows Sandbox Using the Windows Features Dialog
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 4. In the**Turn Windows features on or off dialog** , scroll down and locate**Windows Sandbox.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check the**Windows Sandbox** option and click**OK** .  
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 6. Windows will search for the files and install the required dependencies to run Windows Sandbox scenarios. Once the changes are applied, close the Windows features dialog and restart your PC.
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install Windows Sandbox Using PowerShell
 
@@ -90,7 +90,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Windows Sandbox
@@ -104,7 +104,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
@@ -128,24 +128,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-irecorder-pro-in-depth-analysis/"><u>[New] 2024 Approved IRecorder Pro In-Depth Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-the-art-of-monitoring-loved-comments-on-youtube/"><u>[New] In 2024, Mastering the Art of Monitoring Loved Comments on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlock-your-video-soundtrack-4-cost-effective-wav-extractors/"><u>[New] Unlock Your Video Soundtrack 4 Cost-Effective WAV Extractors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-approaches-to-keeping-your-snaps-connected/"><u>[Updated] 2024 Approved Innovative Approaches to Keeping Your Snaps Connected</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-leading-brands-offering-the-best-steadicams-for-dslr-users-for-2024/"><u>[Updated] Leading Brands Offering the Best Steadicams for DSLR Users for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-vr-ready-space-setup/"><u>2024 Approved The Complete Guide to VR-Ready Space Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chromes-unwanted-tab-behavior-stop-and-reverse/"><u>Chrome's Unwanted Tab Behavior: Stop and Reverse</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-effective-ways-to-retrieve-disappeared-app-icons-on-ios-devices/"><u>Discover Effective Ways to Retrieve Disappeared App Icons on iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-muting-pc-sound-boosting-options/"><u>Guide to Muting PC Sound Boosting Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-missing-windows-update-service-on-windows/"><u>How to Restore a Missing Windows Update Service on Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-open-minds-open-tech-easeus-report/"><u>In 2024, Open Minds, Open Tech - EaseUS Report</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-the-windows-engine-crafting-and-deciphering-system-data/"><u>Inside the Windows Engine: Crafting & Deciphering System Data</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough-for-2024/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/past-perspectives-present-7-features-from-older-windows-versions/"><u>Past Perspectives Present: 7 Features From Older Windows Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-time-travel-reimagining-windows-11-as-98/"><u>Tech Time Travel: Reimagining Windows 11 as 98</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-advantages-of-turning-off-console/"><u>The Hidden Advantages of Turning Off Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-esd-data-into-linuxwindows-iso-formats/"><u>Transitioning ESD Data Into Linux/Windows ISO Formats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-discontent-in-windows-11-upgrades/"><u>Unveiling the Discontent in Windows 11 Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winrar-archive-success-nine-ways-to-prevent-checksum-errors/"><u>WinRAR Archive Success: Nine Ways to Prevent Checksum Errors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-xiaomi-11-a-new-era-of-high-fidelity-video-recording-for-2024/"><u>[New] Xiaomi 11 A New Era of High Fidelity Video Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficiently-recording-your-xbox-adventures/"><u>[Updated] Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-vimeo-recording-techniques/"><u>[Updated] In 2024, Mastering Vimeo Recording Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-tiktok-lives-as-a-virtual-attendee/"><u>[Updated] Navigating TikTok Lives as a Virtual Attendee</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comment-configurer-la-sauvegarde-repetee-ou-en-temps-reel-sur-un-ordinateur-avec-windows/"><u>Comment Configurer La Sauvegarde Répétée Ou en Temps Réel Sur Un Ordinateur Avec Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determining-active-windows-11-a-guide-with-3-methods/"><u>Determining Active Windows 11: A Guide with 3 Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-download-and-install-epson-workforce-ds-30-driver-on-your-pc-with-windows-11-8-or-7/"><u>Easy Guide to Download and Install Epson WorkForce DS 30 Driver on Your PC with Windows 11, 8, or 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-security-fears-in-the-world-of-facebook-games/"><u>Examining Security Fears in the World of Facebook Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g23-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G23 FRP Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-prime-experience-tackling-audio-subtitle-hiccups-in-windows-11/"><u>Optimize Your Prime Experience: Tackling Audio-Subtitle Hiccups in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-system-care-self-update-plus-gpu-driver-change-routine/"><u>Proactive System Care: Self-Update + GPU Driver Change Routine</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-ce-3-lite-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord CE 3 Lite 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-gaming-resolving-the-e84-error-in-steam/"><u>Seamless Gaming: Resolving the E84 Error in Steam</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487998-steep-discount-alert-8bitdos-nes-style-retro-keyboard-now-at-just-79-on-amazon-prime-day/"><u>Steep Discount Alert: 8BitDo's NES-Style Retro Keyboard Now at Just $79 on Amazon Prime Day!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-gpo-control/"><u>Step-by-Step Guide to Windows 11 GPO Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-ending-others-session-in-windows-11/"><u>Steps for Ending Others' Session in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-to-win-1011-active-directory-domain-services-printer-issues/"><u>Swift Remedies to Win 10/11 Active Directory Domain Services Printer Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-memory-efficient-web-browsers-under-56-characters/"><u>Top Memory-Efficient Web Browsers Under 56 Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-virtual-solutions-synced-with-windows-11-hardware/"><u>Top Virtual Solutions Synced with Windows 11 Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strategies to Stop Apex Freeze: The Ultimate Guide for W11 Users"
-date: 2024-08-16T02:32:51.488Z
-updated: 2024-08-17T02:32:51.488Z
+date: 2025-01-03T17:11:39.017Z
+updated: 2025-01-06T11:22:49.302Z
 tags:
   - windows10
   - windows11
@@ -34,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
 
@@ -47,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Is Your CPU Overclocked?
 
  Overclocking your CPU is one of the many things you can do to get a better gaming performance on your computer.[CPU overclocking](https://www.makeuseof.com/tag/cpu-overclocking/) can do wonders, provided you offer good ventilation and cooling.
@@ -58,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -73,8 +67,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Next, switch to Apex Legends and check if you still experience the crash.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
@@ -101,6 +96,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -111,14 +110,14 @@ Here's how to do it in the EA app:
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
  If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Update Your Graphics Driver
 
  At times, the graphics driver you are using might not be compatible with Apex Legends and cause it to crash. You can always fix graphics driver issues by updating it to the latest version. Here's how:
@@ -135,8 +134,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -149,23 +149,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Apex Legends Crashing Issue, Fixed
 
  Multiplayer games like Apex Legends are always prone to crashes. These crashes often result due to corruption in the game files or misconfigured in-game settings. Fortunately, you can use the above solutions to quickly troubleshoot the crashing issue for good.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +172,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[New] Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rev-up-your-recruiting-strategy-with-hot-tapes-for-2024/"><u>[Updated] Rev Up Your Recruiting Strategy with Hot Tapes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/budgeted-skyvault-storing-mountains-of-data/"><u>Budgeted SkyVault Storing Mountains of Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-list-best-4-webp-image-viewer-apps-for-pc/"><u>Exclusive List: Best 4 WebP Image Viewer Apps for PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y100i Bootloader Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-pop-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Pop 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-efficiency-setting-up-pc-manager-on-windows-11/"><u>Integrating Efficiency - Setting Up PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-a-watchful-eye-on-stable-internet-links-in-windows/"><u>Keeping a Watchful Eye on Stable Internet Links in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-optional-add-on-installations-in-modern-windows-os/"><u>Mastering the Art of Optional Add-On Installations in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-devices-after-dxgi-disconnection/"><u>Mending Windows Devices After DXGI Disconnection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-new-release-a-game-changer-or-annoyance-find-out-how-it-stacks-up-zdnet/"><u>Microsoft's New Release: A Game Changer or Annoyance? Find Out How It Stacks Up [ZDNet]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-8-solutions-for-red-pink-desktops/"><u>Reviving Your PC: 8 Solutions for Red, Pink Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-entry-to-league-of-legends-on-windows/"><u>Swift Entry to League of Legends on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-usage-incorporating-advanced-run-enhancement-tools/"><u>Transforming Windows Usage: Incorporating Advanced Run Enhancement Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eling-youtubes-viewer-metrics-a-deeper-look/"><u>Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211031166-9781088266571-14-2-3-7/"><u>더 큰 악용 - 14 (2-3) 신비한 의 비밀과 전략 기도와 예언적 행동의 장소에 배치 가능한 대응책이 있는 7개 대륙의 다크 킹덤 | Free Book</u></a></li>
+</ul></div>
 

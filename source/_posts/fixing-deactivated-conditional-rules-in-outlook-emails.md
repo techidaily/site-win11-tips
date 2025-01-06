@@ -1,7 +1,7 @@
 ---
 title: Fixing Deactivated Conditional Rules in Outlook Emails
-date: 2024-12-20T21:14:55.082Z
-updated: 2024-12-27T16:19:43.909Z
+date: 2025-01-01T00:47:33.943Z
+updated: 2025-01-06T09:15:57.701Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure Outlook Rules Are Enabled
 
  To start, you need to ensure that you haven't inadvertently disabled any Outlook rules. To do so, use these steps:
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![Enable Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-outlook-rules.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename Outlook Rules
@@ -75,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  Restart Outlook after completing the above steps and check if your rules work as expected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable the Stop Processing More Rules Option
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Clear the **stop processing more rules** checkbox.
 5. Click **Finish** and then **Apply**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Configure Outlook Rules to Run on All Devices
 
  Another reason why your Outlook rules may not work is if you have configured them to run on a specific device only. Here’s how you can change that.
@@ -104,7 +104,11 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Activate Cached Exchange Mode
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Click **More Settings** and select **Advanced**.
 5. Tick the **Use Cached Exchange Mode** checkbox.
 6. Hit **Apply** followed by **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Run the Outlook Inbox Repair Tool
 
@@ -139,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
  Restart Outlook after this and check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Update the Outlook App
 
  Using an outdated version of Outlook can also lead to such issues. If you have [disabled automatic updates for Office apps](https://www.makeuseof.com/windows-stop-automatic-office-updates/), use these steps to update the Outlook app.
@@ -148,11 +152,11 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 3. Click **Update Options > Update Now**.  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
- Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
 
 ## 10\. Reset All the Rules
 
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  To delete all the Outlook rules at once, [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **Outlook.exe /cleanrules** in the text box and press **Enter**.
 
 ![Delete Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-outlook-rules.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once Outlook deletes all the rules, head to **Manage Rules & Alerts** and set them up again.
 
@@ -184,16 +184,18 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-mac-visuals-plus-acoustics-scribing-tool/"><u>[New] In 2024, Ultimate Mac Visuals + Acoustics Scribing Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-effortless-metaverse-creation-a-comprehensive-avatar-guide/"><u>2024 Approved Effortless Metaverse Creation A Comprehensive Avatar Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevate-engagement-10-effective-facebook-video-tips/"><u>Elevate Engagement 10 Effective Facebook Video Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722881765754-get-the-perfect-finish-discover-4-innovative-apps-for-house-painters-on-the-go/"><u>Get the Perfect Finish: Discover 4 Innovative Apps for House Painters On-the-Go</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seven-ways-to-a-windowed-wonderland-on-windows-11/"><u>Seven Ways to a Windowed Wonderland on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-inactive-controller-issues-in-windows-environment/"><u>Solving Inactive Controller Issues in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-forcefully-uninstall-a-print-spooler/"><u>Step-by-Step: Forcefully Uninstall a Print Spooler</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-intricacies-of-error-code-0x8007045d-in-windows-11/"><u>Tackling the Intricacies of Error Code 0X8007045d in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-assessing-and-improving-controller-accuracy/"><u>The Ultimate Guide for Assessing and Improving Controller Accuracy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-stability-issues-in-fia-world-rally-championship-sega-pc-version-no-more-crashes/"><u>Troubleshooting Guide: Stability Issues in FIA World Rally Championship Sega PC Version - No More Crashes!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-determining-data-in-gigabytes-for-24-hour-clip/"><u>[New] Determining Data in Gigabytes for 24-Hour Clip</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[New] In 2024, Launch Into Action Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insightful-selection-elite-free-srt-translation-services/"><u>[New] Insightful Selection Elite Free SRT Translation Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-spot-files-windows-11s-minimalist-approach/"><u>Efficiently Spot Files: Windows 11'S Minimalist Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-prime-selections-securing-entry-level-channel-monetization-sites/"><u>In 2024, Prime Selections Securing Entry-Level Channel Monetization Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-user-experience-advancements-in-windows-11-widget-technology/"><u>Optimizing User Experience: Advancements in Windows 11 Widget Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-conflict-between-apps-and-computers-default-audio/"><u>Remedying the Conflict Between Apps and Computer's Default Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-asks-for-old-pass-issue-on-win11/"><u>Resetting “Windows Asks for Old Pass” Issue on Win11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resolving-the-song-out-of-sync-issue-across-all-your-gadgets-solution-guide-2024/"><u>Resolving the 'Song Out of Sync' Issue Across All Your Gadgets - Solution Guide 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-11-restarting-catroot-and-distro-files/"><u>Revive Your Windows 11: Restarting Catroot & Distro Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-optimize-transcoding-performance-on-windows-via-tdarr/"><u>Supercharge Your PC - Optimize Transcoding Performance on Windows via Tdarr</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trendsetting-tactic-tech-savvy-mac-access-via-watch-for-2024/"><u>Trendsetting Tactic Tech-Savvy Mac Access via Watch for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mkv-video-editing-made-easy-top-mac-trimmers-2023/"><u>Updated MKV Video Editing Made Easy Top Mac Trimmers 2023</u></a></li>
 </ul></div>
 

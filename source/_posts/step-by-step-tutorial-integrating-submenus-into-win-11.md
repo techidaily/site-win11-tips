@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Integrating Submenus Into Win 11"
-date: 2024-12-21T19:17:42.605Z
-updated: 2024-12-27T20:12:51.069Z
+date: 2024-12-31T04:40:03.540Z
+updated: 2025-01-06T00:33:41.728Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Submenu to the Context Menu by Manually Editing the Registry
 
  You can manually create a context menu submenu that includes any number of software shortcuts with the Registry Editor. For the sake of example, here we’ll create a submenu that includes shortcuts for opening the Notepad and Remote Desktop Connection apps. Then you can add more shortcuts for software on your PC. First, you’ll need to lay the foundation for the submenu as follows:
@@ -40,26 +36,28 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg)
 4. Enter **Menu1** to be the new key’s name.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click **Menu1** to select the **New** \> **String Value** options.
 
 1. Input **MUIVerb** for the new string’s name.
 2. Repeat step five to add another new string to the **Menu1** key. However, enter **SubCommands** to be this new string’s name.  
 ![The Menu1 registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-menu1-key.jpg)
 3. Double-click the **MUIVerb** string added to the **Menu1** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter **Apps** in the **Value** box for the **MUIVerb** string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the **Value data** box if preferred.  
 ![The MUIVerb string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg)
 5. Click **OK** to exit the Edit String window for **MUIVerb**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, double-click on the **SubCommand** string inside the **Menu1** key.
 7. Input **Notepad; Remote Desktop Connection** inside the **Value** box for the **SubCommands** string and click **OK**.  
 ![subcommands-string-value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/subcommands-string-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now a new **App** submenu will be visible on Windows 11’s classic context menu. However, it won’t include any shortcuts. So, you will need to do some further editing of a different **shell** key to add functionality to the submenu. Edit the registry like this to complete the submenu:
 
@@ -95,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 ![The Delete option for the Menu1 key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Submenu to the Context Menu With Easy Context Menu
 
  Easy Context Menu is a freely available context menu customization desktop app. That software enables you to add custom software shortcut submenus to the right-click menu without [manually editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/).
@@ -108,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 4. Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the **List Editor** button in Easy Context Menu.
@@ -118,14 +120,14 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The List Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu.jpg)
 3. Click the **Add New** button with the **Software Shortcuts** submenu selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select a program you want to include in the submenu and click **Open**.
 5. Repeat the previous two steps to add more programs to the submenu.  
 ![A program shortcut added to the Software Shortcuts submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/program-shortcuts.jpg)
 6. Select the checkboxes for the new **Software Shortcuts** submenu and the programs added to it in the List Editor window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Press the **Save Changes** button and close the List Editor window.
 8. Select the checkboxes for the **Software Shortcuts** submenu and the program options it includes within the Easy Context Menu window.  
@@ -137,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![software-shortcuts-submenu2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another advantage of utilizing Easy Context Menu is that it includes options for positing the submenu. You can configure the approximate position of that submenu by selecting one of the three **Show at** options for it within the List Editor window. You can also reposition the submenu or items in it by selecting them and clicking the **Move Up** or **Move Down** buttons.
@@ -164,15 +166,22 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-assessing-screen-recorder-excellence-in-action/"><u>[New] In 2024, Assessing Screen Recorder Excellence in Action</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-15-snapchat-mastery-techniques-you-cant-miss-for-2024/"><u>[Updated] 15 Snapchat Mastery Techniques You Can't Miss for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>[Updated] 2024 Approved Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>2024 Approved Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-barriers-the-launch-of-enhanced-gpt-4-model/"><u>Breaking Barriers: The Launch of Enhanced GPT-4 Model</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-recovering-faulty-defender-engine/"><u>Comprehensive Guide to Recovering Faulty Defender Engine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-system-snooze-interactions-effectively/"><u>Fine-Tuning System Snooze Interactions Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-eliminating-install-failed-error-in-windows-oses/"><u>Guide to Eliminating 'Install Failed' Error in Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insights-into-using-microsofts-phone-link-bluetooth-integration/"><u>Insights Into Using Microsoft’s 'Phone Link': Bluetooth Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-regrettable-path-to-a-3500-card-ownership/"><u>The Regrettable Path to a $3,500 Card Ownership</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-15-best-action-cameras-from-beginners-to-pros/"><u>[New] 2024 Approved 15 Best Action Cameras - From Beginners to Pros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[New] 2024 Approved Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-starting-out-top-pick-gopro-supplements/"><u>[Updated] In 2024, Starting Out Top Pick GoPro Supplements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-cutting-edge-video-editing-vivacuts-2024-insight/"><u>[Updated] Masterclass in Cutting Edge Video Editing - VivaCut's 2024 Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directly-engage-with-images-in-windows-explorer/"><u>Directly Engage with Images in Windows Explorer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficiently-allocating-more-memory-to-minecraft/"><u>Efficiently Allocating More Memory to Minecraft</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-skits-building-a-parody-film-for-2024/"><u>Laughing Skits Building a Parody Film for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-explorer-onedrive-as-a-launchpad/"><u>Mastering File Explorer: OneDrive as a Launchpad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-blaze-2-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-sound-level-configurations-in-windows/"><u>Restoring Default Sound Level Configurations in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-no-write-error-a-guide-for-windows-users/"><u>Tackling the No Write Error: A Guide for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-popular-rainmeter-problems-in-windows-systems/"><u>Troubleshooting Popular Rainmeter Problems in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-unlocking-essential-assistive-tech/"><u>Windows Aid: Unlocking Essential Assistive Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-identity-under-threat-are-biometrics-safe/"><u>Windows Identity Under Threat: Are Biometrics Safe?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-freezes-in-apex-legends/"><u>Winning the Battle Against Freezes in Apex Legends</u></a></li>
 </ul></div>
 

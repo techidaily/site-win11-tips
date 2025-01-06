@@ -1,7 +1,7 @@
 ---
 title: Swiftly Realign Windows Desktop Elements
-date: 2024-08-16T02:34:22.995Z
-updated: 2024-08-17T02:34:22.995Z
+date: 2025-01-02T03:23:34.073Z
+updated: 2025-01-06T10:57:44.218Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 
  As such, let's explore both apps and find the one right for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Save and Restore Desktop Icon Layouts With DesktopOK
 
  DesktopOK is an old app for saving and restoring Windows desktop icon layouts that’s still actively supported. You can utilize this software on the Windows 11/10/8/7 platforms. Aside from enabling you to manually save desktop layouts, it includes options for automatically saving desktop layouts. This is how you can save and restore a desktop icon layout with DesktopOK:
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 2. Press **Install** to install DesktopOK at the default folder location.  
 ![The DesktopOK setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/desktopok-setup-window.jpg)
 3. Double-click the DesktopOK icon on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Save** to save a copy of your current Windows desktop icon layout.  
 ![The Save button in the DesktopOK winow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/desktopok-window.jpg)
 5. Next, click the **Punch the icons** option and **Yes** to scatter the icons across the desktop.
@@ -46,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 ![The Auto-Save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/auto-save-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Save and Restore Desktop Icon Layouts With Restore Desktop Icon Layouts
 
  Relcon (Restore Desktop Icon Layout) is a portable app for saving and restoring desktop icon layouts that’s like DesktopOK. However, this app also has optional desktop context menu integration. You can save and restore the positions of icons on the desktop with Relcon like this:
@@ -59,38 +69,31 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 5. Double-click the **Relcon\_x64** file within the extracted Relcon folder to start the software.
 6. Press the **Save Icon Layout** button.  
 ![The Restore Desktop Icon Layouts window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/restore-desktop-icon-layout-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 7. To try out restoration, move some icons across the Windows desktop. Then select your saved icon layout and press the **Restore Icon Layout** button to move everything back to where it was.
 
  If you want to select saved icon layouts from the right-click menu, you’ll need to enable context menu integration. To do that, click **Options** and select **Add Context Menu** \> **Add to the desktop** **context menu**.
 
 ![The Add to the Desktop Context Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-context-menu-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can access that context menu by right-clicking on the desktop and selecting **Show more options** (in Windows 11) and **Desktop Icon Layout**. There are three **Save to Icon Layout** options you can select there. Click the corresponding **Restore Icon Layout** option on that submenu to restore its layout.
 
 ![The Desktop Icon Layout submenu on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/desktop-icon-layout-context-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also create desktop shortcuts for saved desktop shortcuts with ReIcon. To do so, right-click the saved layout in the Restore Desktop Icon Layouts window and select **Create shortcut**. Then you’ll see a desktop shortcut for a saved icon layout you can double-click on to activate.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore Icons’ Positions on the Windows Desktop With DesktopOK or ReIcon
 
  DesktopOK and ReIcon are both useful apps for saving and restoring desktop icons. They’re especially useful for restoring desktop icon layouts after playing Windows games that rearrange icons’ positions by applying resolution changes. Utilizing those apps will enable you to quickly sort out a messed-up desktop layout whenever needed.
 
  As such, let's explore both apps and find the one right for you.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,3 +101,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streaming-made-easy-mac-methodology-for-recording-netflix/"><u>[New] In 2024, Streaming Made Easy Mac Methodology for Recording Netflix</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle-for-2024/"><u>[Updated] Chuckle & Cry The Top Instagram Memes that Make You Giggle for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-editors-playbook-for-drone-imagery/"><u>[Updated] The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-10-after-effects-text-presets/"><u>[Updated] Top 10 After Effects Text Presets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-mail-on-windows/"><u>Converting Gmail to Outlook Mail on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-camera-glitch-code-a00f4289/"><u>Correcting Windows 11 Camera Glitch Code A00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-significance-and-utility/"><u>Hugging Face: Significance & Utility</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pef-en-png-direct-converteert-voor-gratis-movavi/"><u>PEF en PNG Direct Converteert Voor Gratis - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-snafus-say-goodbye-with-these-windows-fixes/"><u>Script Snafus? Say Goodbye with These Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-productivity-in-windows-with-these-top-apps/"><u>Skyrocket Your Productivity in Windows with These Top Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-zoom-use-with-a-chrome-os-device-for-2024/"><u>Top Strategies for Zoom Use with a Chrome OS Device for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
+</ul></div>
+

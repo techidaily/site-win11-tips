@@ -1,7 +1,7 @@
 ---
 title: Restoring Search Operations in Windows 11
-date: 2024-12-24T21:50:05.573Z
-updated: 2024-12-27T20:30:18.353Z
+date: 2025-01-03T03:56:45.853Z
+updated: 2025-01-06T10:30:07.778Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Update Windows
 
  Microsoft releases a multitude of patch updates to fix Windows bugs and issues. So, it’s recommended to manually check for and download any available Windows updates for the sake of fixing the search tool. That also includes build updates for new Windows versions. Here’s how you can manually download and install Windows 11/10 updates.
@@ -40,11 +36,7 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 4. If selecting**Check for updates** doesn’t automatically install everything available, click the**Download and Install** buttons for any other updates (including version 22H2).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Search Troubleshooting Tool
@@ -58,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Run button for the Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-run-button-for-the-search-and-indexing-troubleshooter.jpg)
 5. Click the**Can't start a search or see results** checkbox, and select the troubleshooter’s**Next** option. The **Files, folders, apps, or settings don't appear in results** checkbox is also a suitable option to select for troubleshooting this issue.  
 
-![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
 
@@ -78,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
 
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run a Scan With the SFC Tool
 
  Microsoft recommends users run the System File Checker (SFC) tool when Windows functions aren’t working right. In this case, the search function isn’t displaying results, which could be because of corrupted Windows files on your PC. This is how you can start an SFC scan:
@@ -114,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The SFC scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sfc-scan-command.jpg)
 5. Wait for the SFC tool to show a Windows Resource Protection scan outcome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Rebuild the Search Tool’s Index
 
  A corrupted or outdated search index database is another potential cause for the search tool not displaying results. In this case, you may need to select to rebuild the search index. Doing so will wipe the current index’s content and restart the indexing. These are the steps for rebuilding the search index in Windows:
@@ -128,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 3. Click**Indexing Options** to view that applet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Advanced** in the Indexing Options window.
@@ -136,11 +128,11 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Select**OK** \>**Close** to exit the indexing applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Cortana
 
@@ -156,11 +148,19 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The command for reinstalling Cortana](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reinstall-cortana-command.jpg)
 7. Press**Enter** to execute the PowerShell command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  If nothing else fixes the search tool not showing results, this is the last-resort resolution to try. Resetting Windows reinstalls the platform by restoring it to a default configuration, which will most likely be enough to resolve this search issue. However, you’ll need to reinstall any software you previously installed after a reset.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can perform a reset with the Reset this PC recovery tool. That utility includes an option for preserving user files. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this resolution with that tool.
 
@@ -183,16 +183,18 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-prime-freefire-content-creation-on-youtube-for-2024/"><u>[Updated] Prime FreeFire Content Creation on YouTube for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-the-official-chatgpt-desktop-release-check-out-our-top-free-open-source-ai-chatbot/"><u>Anticipating the Official ChatGPT Desktop Release? Check Out Our Top Free, Open-Source AI Chatbot</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/detailed-breakdown-of-camstudio-screencapture-pro/"><u>Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-microsoft-store-with-no-barriers-on-win11/"><u>Enabling Microsoft Store with No Barriers on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-remove-ms-edge-w11/"><u>Fast Track: Remove MS Edge W11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-spark-go-2024-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-transforming-your-channel-url-step-by-step-instructions/"><u>In 2024, Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-parental-control-setup-in-windows-11-system/"><u>Master Parental Control Setup in Windows 11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-your-ctrl-key-for-windows-11-useability/"><u>Realigning Your Ctrl Key for Windows 11 Useability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smarter-workflows-maximizing-multitask-potential-on-windows-11/"><u>Smarter Workflows: Maximizing Multitask Potential on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-garden-with-our-racecar-designed-autonomous-mower-top-review-on-zdnet/"><u>Transform Your Garden with Our Racecar-Designed Autonomous Mower | Top Review on ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-best-camera-lenses-of-2024/"><u>[New] Top 10 Best Camera Lenses Of 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>[Updated] In 2024, Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conveniently-establish-wireless-connection-using-windows-11-hotspot/"><u>Conveniently Establish Wireless Connection Using Windows 11 Hotspot</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-new-favorite-10-cost-free-tv-platforms-comparable-to-netflix/"><u>Find Your New Favorite: 10 Cost-Free TV Platforms Comparable To Netflix</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clear-picture-perfection-the-best-online-image-enhancers/"><u>In 2024, Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-6-metaverse-case-studies-for-in-depth-understanding/"><u>In 2024, Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-crash-code-0x80072efd/"><u>Resolving Microsoft Store Crash Code 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-eradicate-network-logon-issues/"><u>Solutions to Eradicate Network Logon Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-integrating-submenus-into-win-11/"><u>Step-by-Step Tutorial: Integrating Submenus Into Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-services-for-optimal-performance/"><u>Tailoring Windows 11 Services for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-to-utilizing-hdr-on-windows-11-systems/"><u>Ultimate Guide to Utilizing HDR on Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/7iqk66ei7yq4iou5houuloyypcdtmztrqbqg7yg065pluss66ediounjoutpoq4scdsijjrokjrskkglsdrrltrsjtsniq/"><u>스마트 비디오 화면 클러망 만들기 수련방 - 무바위</u></a></li>
 </ul></div>
 

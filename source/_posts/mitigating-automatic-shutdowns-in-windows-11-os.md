@@ -1,7 +1,7 @@
 ---
 title: Mitigating Automatic Shutdowns in Windows 11 OS
-date: 2024-08-16T02:34:07.889Z
-updated: 2024-08-17T02:34:07.889Z
+date: 2025-01-03T06:08:48.407Z
+updated: 2025-01-05T23:57:55.364Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,12 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![Update Windows 11 to the latest version available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -45,25 +46,22 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 6. Click **Next** to run the troubleshooter.
 
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scan Your System for Malware
 
@@ -71,18 +69,12 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  The good news is that you don’t need a third-party antivirus to fix the issue. You could [remove malware using Microsoft Defender’s offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Run an SFC and DISM Scan
 
  The shutdown box might keep opening if some of your system files are corrupted or missing. The easiest way to search and automatically fix them is to [run the SFC and DISM scans](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Start Windows in Safe Mode
 
  When [starting Windows in Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/), your system starts with a set of basic programs and drivers. This way, you can determine if a third-party app is the one causing the shutdown box to open by itself.
@@ -90,14 +82,9 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the Windows Shutdown Box Appearing By Itself
 
  Having the shutdown box constantly open by itself can be really annoying as it keeps interrupting your work. Hopefully, one or more of the above fixes helped you fix the issue.
@@ -106,11 +93,31 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/"><u>[New] Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-cyclings-apex-titles-for-gamers-for-2024/"><u>[New] Cycling's Apex Titles for Gamers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-rise-to-affiliate-hit-the-pivotal-10000-view-mark/"><u>2024 Approved Rapid Rise to Affiliate Hit the Pivotal 10,000 View Mark</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-offer-612-annual-win10-just-for-you/"><u>Exclusive Offer: $6.12 Annual Win10 - Just for You</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/video-wizardry-top-8-editing-programs-for-youtube-enthusiasts-for-2024/"><u>Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/haitian/"><u>Haitian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-align-your-windows-id-with-microsoft-accounts/"><u>How to Align Your Windows ID with Microsoft Accounts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-octane-recordings-top-7-camcorder-picks/"><u>In 2024, High-Octane Recordings Top 7 Camcorder Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-photo-size-in-windows-11-with-these-top-6-tips/"><u>Master Your Photo Size in Windows 11 with These Top 6 Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximize-your-reach-on-twitter-with-these-3-video-compression-strategies-updated-guide/"><u>Maximize Your Reach on Twitter with These 3 Video Compression Strategies (Updated Guide)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-malfunctioning-ccleaner-in-win11/"><u>Mending Malfunctioning CCleaner in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-integrating-intels-network-devices-on-os-x/"><u>Quick Guide: Integrating Intel's Network Devices on OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reacquiring-your-windows-11-pin-a-fix-guide/"><u>Reacquiring Your Windows 11 PIN: A Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-wow-crashes-with-these-simple-troubleshooting-steps-play-smoothly-again/"><u>Stop WoW Crashes with These Simple Troubleshooting Steps - Play Smoothly Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-recorder-9999-issue-in-windows/"><u>Troubleshooting Audio Recorder 9999 Issue in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-spacebar-malfunction-a-step-by-step-solution-guide/"><u>Windows 10 Spacebar Malfunction - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-concealingdisplaying-firewall-zones/"><u>Windows Security: Concealing/Displaying Firewall Zones</u></a></li>
+</ul></div>
+

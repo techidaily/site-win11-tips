@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2024-12-23T19:54:57.714Z
-updated: 2024-12-27T21:27:49.531Z
+date: 2025-01-05T06:14:08.144Z
+updated: 2025-01-05T17:27:55.236Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  Now that you know what Device Usage Options are, here's how to change them in Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Using Windows Settings
@@ -52,15 +52,19 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 ![Change Device Usage on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-device-usage-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the next page, look for your preferred Device Usage option and toggle it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using a REG File
 
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
 
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Family Device Usage Options
 
  For the Family option:
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### School Device Usage Options
@@ -152,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Business Device Usage Options
 
  And finally, for the Business side of things:
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
  Once you have created the reg file for the Device Usage Option, double-click to apply. Now when you open System **Settings** \> **Personalisation** \> **Device Usage**, you should see the option turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Configure Your Device’s Usage Options in a Flash
 
@@ -187,16 +187,20 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-borders-a-list-of-top-quality-apps-and-tools/"><u>[Updated] 2024 Approved Mastering Instagram Borders A List of Top-Quality Apps & Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leveraging-vlc-media-player-for-remote-streaming-for-2024/"><u>[Updated] Leveraging VLC Media Player for Remote Streaming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-knowledge-of-storage-management-using-windows-diskusage-commands/"><u>Enhancing Your Knowledge of Storage Management Using Windows DiskUsage Commands</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-poco-c55-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Poco C55</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-not-supported-problem-in-windows-os/"><u>Quick Fixes to 'Not Supported' Problem in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-steams-missing-files-issue-on-windows-11/"><u>Rectifying Steam's Missing Files Issue on Windows 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/secrets-of-facebook-cover-vids-for-aspiring-social-media-stars-for-2024/"><u>Secrets of Facebook Cover Vids for Aspiring Social Media Stars for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-upgrading-your-windows-11-login-method/"><u>The Complete Guide to Upgrading Your Windows 11 Login Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwanted-visual-effects-disable-geforce-overlays/"><u>Unwanted Visual Effects? Disable GeForce Overlays</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-comprehensive-look-at-youtube-shorts-template-design-for-2024/"><u>[New] A Comprehensive Look at YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audience-expansion-strategies-that-honor-youtube-standards/"><u>[Updated] 2024 Approved Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-increase-your-content-reach-top-7-tools-for-tiktok-excellence/"><u>[Updated] Increase Your Content Reach Top 7 Tools for TikTok Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issues-lead-to-ftdi-bus-system-disabling-memory-integrity/"><u>Compatibility Issues Lead to FTDI Bus System Disabling Memory Integrity</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-variability-between-offline-and-online-windows-installation-processes/"><u>Delving Into Variability Between Offline and Online Windows Installation Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-error-0x80072efd-a-complete-guide-for-windows-10-users/"><u>Expert Advice on Correcting Error 0X80072EFD - A Complete Guide for Windows 10 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-assets-galore-top-public-domain-download-sites/"><u>Free Video Assets Galore Top Public Domain Download Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-navigate-through-windows-admin-restrictions-errors/"><u>How to Navigate Through Windows' Admin Restrictions Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-file-handling-toggle-the-checkbox-on-win11-files/"><u>Masterful File Handling: Toggle the Checkbox on Win11 Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-profile-video-lure-for-2024/"><u>Mastering the Art of Profile Video Lure for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-spotifys-auto-play-at-windows-launch/"><u>Preventing Spotify's Auto-Play at Windows Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-show-more-pins-on-w11-startscreen/"><u>Strategies to Show More Pins on W11 Startscreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-files-from-email-view-blockage-in-windows-mail/"><u>Unblocking Files From Email View Blockage in Windows Mail</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unique-book-trail-showcases/"><u>Unique Book Trail Showcases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-spiritual-command-center-of-windows-11/"><u>Unveiling The Spiritual Command Center of Windows 11</u></a></li>
 </ul></div>
 

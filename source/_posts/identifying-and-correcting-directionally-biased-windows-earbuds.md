@@ -1,7 +1,7 @@
 ---
 title: Identifying & Correcting Directionally Biased Windows Earbuds
-date: 2024-08-16T02:35:09.158Z
-updated: 2024-08-17T02:35:09.158Z
+date: 2024-12-31T23:27:42.777Z
+updated: 2025-01-06T07:21:47.266Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  First and foremost, you should ensure it's not a hardware issue that has muted one side of your headphone. The easiest way to check this is to plug the headphones into any other device you own and see whether you hear anything from the problematic side.
 
@@ -44,14 +41,12 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check the Audio Jack or Port for Issues
 
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some PCs still come with separate jacks for microphones and headphones. Each jack supports a similar-looking connector, but the signal flow is different.
@@ -72,22 +67,29 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 2. Go to the **System** tab on the left and navigate to **Sound**.
 3. Under **Advanced**, click **More sound settings**.  
 ![Open More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
-![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
+
  Hopefully you can now hear from both sides of your headphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Audio Enhancements
 
@@ -104,9 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now give your headphones another try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Disable Mono Audio
 
  The mono audio format combines the left and right audio channels into one and removes the stereo effect. Enabling this feature will give you the same audio quality on both sides of your headphones.
@@ -120,16 +119,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Under **Hearing**, click on **Audio**.  
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
-![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
 
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 7\. Check for App-Specific Issues
 
  If you don't hear any voice from one side of your headphones only when running a particular app, chances are that app offers a setting to control the output from each side of your headphones Therefore, check the audio settings and ensure both sides are unmuted, and the volume levels are balanced.
@@ -144,13 +142,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Run the audio troubleshooter:** Windows has a handy audio troubleshooter that can automatically diagnose and fix most audio problems. So, run the audio troubleshooter by following the instructions in our guide on [how to run Windows troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 * **Update Windows:** Keeping your operating system up-to-date is crucial to get smooth performance. So, [check for pending Windows updates and manually install them](https://www.makeuseof.com/update-windows-manually/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Your Headphones Working Again
 
  Hearing from one side of your headphones completely ruins our experience. Hopefully, you now better understand why one side of your headphones goes mute and how you can fix it so you can hear from both sides.
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +158,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>[New] From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] In 2024, Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-navigating-video-posts-on-tiktok-from-a-computer/"><u>2024 Approved Navigating Video Posts on TikTok From a Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-fs-issues-a-win11-manual-approach/"><u>Conquering FS Issues: A Win11 Manual Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-pitfalls-on-windows-11-8-avoidance-strategies/"><u>Dodging Pitfalls on Windows 11: 8 Avoidance Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lenovo-thinkphone-messages-recovery-recover-deleted-messages-from-lenovo-thinkphone-by-fonelab-android-recover-messages/"><u>Lenovo ThinkPhone Messages Recovery - Recover Deleted Messages from Lenovo ThinkPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wallpaper-shifts-on-a-windows-pc/"><u>Mastering Wallpaper Shifts on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-inoperative-alerts-for-phone-link-app-in-windows/"><u>Overhauling Inoperative Alerts for Phone Link App in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1791741-9780786484461-parapsychology-in-the-twenty-first-century/"><u>Parapsychology in the Twenty-First Century | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-finest-free-upgrades-to-optimize-windows-cars/"><u>Unveiling the Finest Free Upgrades to Optimize Windows Cars</u></a></li>
+</ul></div>
+

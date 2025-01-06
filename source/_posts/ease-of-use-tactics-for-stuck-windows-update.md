@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2024-12-21T21:35:18.505Z
-updated: 2024-12-27T16:06:48.064Z
+date: 2025-01-02T03:38:16.676Z
+updated: 2025-01-05T21:56:18.559Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  Restarting your PC should be the first thing you do when the Windows Update Troubleshooter gets stuck on a "resolving problems" loop.
 
  Then try running the Windows Update Troubleshooter to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear the DNS Cache
 
@@ -48,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
@@ -66,10 +74,6 @@ To fix this, you can try restarting Cryptographic Services.
 
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
@@ -98,14 +102,19 @@ To fix this, you can try restarting Cryptographic Services.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -127,19 +136,11 @@ To edit and enable the Scripted Diagnostics policy:
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
@@ -162,21 +163,20 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>[New] In 2024, Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fb-hd-stream-to-local-storage/"><u>[New] In 2024, FB HD Stream to Local Storage</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlocking-sierra-icloud-drive-integrations-and-usage-for-2024/"><u>[New] Unlocking Sierra iCloud Drive Integrations & Usage for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-highlighted-viewer-insights-unveiled/"><u>[Updated] 2024 Approved Highlighted Viewer Insights Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay/"><u>2024 Approved Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-11-0x80070003-5/"><u>针对Windows 11：消除代码错误 0X80070003 - 深入了解5个维修方法来提高系统性能</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-technicalities-inside-the-windows-iscsi-initiator/"><u>Deciphering the Technicalities: Inside the Windows iSCSI Initiator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-the-mechanics-of-microsofts-phone-link-app/"><u>Discovering the Mechanics of Microsoft's 'Phone Link' App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-powershell-implementing-execution-policies-wisely/"><u>Elevating PowerShell: Implementing Execution Policies Wisely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-the-echoes-correcting-server-stumbled-errors-in-win-store/"><u>Eliminate the Echoes: Correcting Server Stumbled Errors in Win Store</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-android-smartwatch-selection-thoroughly-testing-and-evaluating-the-best-picks-insights-from-zdnet-professionals/"><u>Elite Android Smartwatch Selection: Thoroughly Testing & Evaluating the Best Picks - Insights From ZDNet Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-methods-for-accessing-repair-tools-on-windows/"><u>Essential Methods for Accessing Repair Tools on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 Plus You Should Try Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-multitasking-window-11-shortcuts-explained/"><u>Maximize Multitasking: Window 11 Shortcuts Explained</u></a></li>
-<li><a href="https://facebook.techidaily.com/post-block-reconciliation-tactics-for-fb-friends/"><u>Post-Block Reconciliation Tactics for FB Friends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-features-0x80071a90-error-and-how-do-you-fix-it/"><u>What Is the Windows Features 0X80071A90 Error and How Do You Fix It?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturewin-the-hassle-free-screen-recorder/"><u>[New] CaptureWin The Hassle-Free Screen Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-recording-private-whatsapp-calls/"><u>[Updated] In 2024, Mastering the Art of Recording Private WhatsApp Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cultivating-effective-sponsorship-agreements-in-youtubers-realm/"><u>2024 Approved Cultivating Effective Sponsorship Agreements in YouTubers' Realm</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-cameras-reviewed-best-of-2024/"><u>Affordable Cameras Reviewed: Best of 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-resolving-hdcp-error-messages-a-step-by-step-guide/"><u>Expert Advice on Resolving HDCP Error Messages – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-canon-printer-mg2amoins-20-drivers-on-your-pc-a-comprehensive-guide/"><u>How to Get the Newest Canon Printer MG2amoins 20 Drivers on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-to-text-in-real-time-with-whisper-desktop/"><u>How to Turn Your Voice to Text in Real Time With Whisper Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lighten-the-digital-landscape-kapwings-meme-builder/"><u>Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-display-embrace-tiled-workspace/"><u>Streamline Your Display: Embrace Tiled Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-tier-entertainment-on-demand-a-comprehensive-review-of-lgs-oled-c9-tv/"><u>Top-Tier Entertainment on Demand: A Comprehensive Review of LG's OLED C9 TV</u></a></li>
 </ul></div>
 

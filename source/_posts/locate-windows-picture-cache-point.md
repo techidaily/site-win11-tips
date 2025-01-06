@@ -1,7 +1,7 @@
 ---
 title: Locate Window’s Picture Cache Point
-date: 2024-08-16T02:34:11.122Z
-updated: 2024-08-17T02:34:11.122Z
+date: 2024-12-29T17:57:23.205Z
+updated: 2025-01-06T07:30:53.038Z
 tags:
   - windows10
   - windows11
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 ---
 
 ## Locate Window’s Picture Cache Point
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Do Screenshots Go on Windows 10 and 11?
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
@@ -48,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
 
 ### Snipping Tool (Windows Key + Shift + S)
@@ -57,15 +66,9 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
  When you take the screenshot using the Snipping tool, a pop-up will appear in the bottom-right corner. When you click it, it will open a preview and edit window, and you can choose where to save the screenshot. To do so, click the save icon in the top-right corner or press **Ctrl + S**, then select a different location.
 
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Xbox Game Bar (Windows Key + G)
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
@@ -77,22 +80,21 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
  You can also find out where the screenshots go from the Game Bar. Press **Win + G** to open the app, then click **Capture**—the camera icon—in the widget. In the **Capture** widget, click **See My Captures**.
 
 ![The Game Bar menu and Capture widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/game-bar-widgets-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Game Bar's gallery, click on the folder icon in the top-right corner of the left panel.
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
  When using third-party screenshot tools like Snagit, Lightshot, or ShareX, the app will usually decide where to save the screenshots. When you take a screenshot, a preview might pop up in the bottom-right corner of your screen. Click this may take you to the folder where you'll find the screenshot (or in some cases, clicking will open it for editing).
@@ -104,15 +106,13 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Change Where Screenshots Are Saved on Windows?
 
  Yes, you can easily [change the location where Windows saves screenshots](https://www.makeuseof.com/windows-11-screenshot-location-change/) for the built-in tools. For third-party tools, you can look in their settings to see if they allow you to change the default save location.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do if You Can't Find Your Screenshots
 
  If you've just taken a screenshot and don't know where it is, you should check the clipboard. You can do this by pressing **Ctrl + V** with your cursor focused in a window that will accept pasted images. If your screenshot appears, paste it into a compatible program and manually save it.
@@ -125,11 +125,29 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sky-high-savings-the-least-expensive-drones-on-market/"><u>[New] In 2024, Sky-High Savings The Least Expensive Drones on Market</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-inside-the-score-understanding-aspect-ratios-for-video-success/"><u>[New] Inside The Score Understanding ASPECT RATIOS for Video Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ios-compatible-ps2-games-simulator-roundup-for-2024/"><u>[New] IOS-Compatible PS2 Games Simulator Roundup for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[Updated] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-retrieve-lost-pin-post-corruption-in-windows-11/"><u>Guide to Retrieve Lost PIN Post-Corruption in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installed-success-microsoft-works-in-windows-1011/"><u>Installed Success: Microsoft Works in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11s-mail-app-eradicating-html-from-email-views/"><u>Mastery of Windows 11'S Mail App: Eradicating HTML From Email Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recommendations-for-rewinding-power-plans-in-windows/"><u>Recommendations For Rewinding Power Plans in WIndows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-crash-code-error-0x80070194/"><u>Resolving OneDrive Crash Code (Error 0X80070194)</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/thermal-efficiency-for-gamers-laptops-while-playing/"><u>Thermal Efficiency for Gamers' Laptops While Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-win11-notepad-via-smart-coach/"><u>Transform Win11 Notepad via Smart Coach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wellness-on-a-plate-tech-enabled-cooking-mastery/"><u>Wellness on a Plate: Tech-Enabled Cooking Mastery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44oh44kj44k544kz44o844oj44gn5l244gi44kl44oz44k544oi44gq6yyy6zplusz44ki44ox44oq44o744k944ov44oi77yu5o6o6jam/"><u>ディスコードで使えるベストな録音アプリ・ソフト４推薦</u></a></li>
+</ul></div>
+

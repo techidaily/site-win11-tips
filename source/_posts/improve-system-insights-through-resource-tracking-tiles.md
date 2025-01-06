@@ -1,7 +1,7 @@
 ---
 title: Improve System Insights Through Resource Tracking Tiles
-date: 2024-12-23T18:18:32.639Z
-updated: 2024-12-27T20:56:08.501Z
+date: 2025-01-03T02:31:18.749Z
+updated: 2025-01-06T00:45:53.451Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Dev Home for Windows and How Do You Get It?
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
  These widgets serve as handy tools to closely monitor and optimize your system's performance. To access them, simply [download Dev Home from the Microsoft Store](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV) and set it up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up and Configure Windows Widgets on Dev Home
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![Click on the plus icon for widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plus-icon-widget.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do this, you should be able to see the details of your selected widget. You can use it to monitor hardware usage and access other important information efficiently.
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![New widget in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-widget.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed and Optimize Your Hardware Usage With Windows Widgets
@@ -91,16 +91,24 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-enhance-your-meetings-top-5-live-stream-recording-tools/"><u>[New] Enhance Your Meetings Top 5 Live Stream Recording Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-minecraft-archivists-guide-6-core-methods-for-capture/"><u>[New] The Minecraft Archivist's Guide 6 Core Methods for Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprerante-windows-11-printer-issues-and-fixes-heres-how/"><u>Comprerante Windows 11 Printer Issues & Fixes, Here's How</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/escalate-your-network-speed-tackling-windows-100mbps-threshold/"><u>Escalate Your Network Speed: Tackling Windows' 100Mbps Threshold</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A05s</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a58-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A58 4GFRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-slideshow-crafting-without-software-installation-7-steps/"><u>Masterful Slideshow Crafting Without Software Installation (7 Steps)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/smoothscreensaver-lightweight-recording-tool-for-2024/"><u>SmoothScreenSaver Lightweight Recording Tool for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-tech-seven-tactics-to-resolve-obs-server-issue/"><u>Streamlining Your Tech: Seven Tactics to Resolve OBS Server Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y200e-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y200e 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/est-student-friendly-history-vid-hubs-1-10-for-2024/"><u>[New] Best Student-Friendly History Vid Hubs (#1-10) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-efficient-techniques-for-adobe-presenter-capture-for-2024/"><u>[New] Efficient Techniques for Adobe Presenter Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-fine-tuning-your-videos-for-viral-instagram-moments/"><u>[Updated] 2024 Approved Fine-Tuning Your Videos for Viral Instagram Moments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-amalgamate-ppts-for-video-creation/"><u>[Updated] In 2024, Amalgamate PPTs for Video Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-playback-issues-resolving-video-not-showing-sony-a6400/"><u>[Updated] Playback Issues Resolving Video Not Showing Sony A6400</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfecting-podcast-intros-a-guide-with-illustrations/"><u>2024 Approved Perfecting Podcast Intros A Guide with Illustrations</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-historical-social-media-feedback/"><u>Examining Historical Social Media Feedback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-the-prospects-why-choose-win11-over-macos/"><u>Examining the Prospects: Why Choose Win11 Over MacOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-spark-10c-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-of-user-profile-control-with-cmd/"><u>In-Depth Analysis of User Profile Control with CMD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantly-power-off-windows-11-when-not-in-use/"><u>Instantly Power Off Windows 11 When Not in Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-task-runner-error-code-0x8007000f-in-winos/"><u>Mastery over Task Runner Error Code 0X8007000f in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-login-error-compatibility-issue-with-scanner/"><u>Overcoming Windows Login Error: Compatibility Issue with Scanner</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-workout-blueprints-tailored-to-your-needs/"><u>Secure Workout Blueprints Tailored to Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11s-0x8004def5-glitches/"><u>Swift Solutions for Windows 11'S 0X8004DEF5 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/take-notes-no-downloads-windows-11-secrets/"><u>Take Notes, No Downloads: Windows 11 Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-keep-microsoft-teams-from-crashing-win11-win10/"><u>Tips to Keep Microsoft Teams From Crashing Win11, Win10</u></a></li>
 </ul></div>
 

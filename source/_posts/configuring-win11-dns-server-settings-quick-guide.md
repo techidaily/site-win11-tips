@@ -1,7 +1,7 @@
 ---
 title: Configuring Win11 DNS Server Settings Quick Guide
-date: 2024-12-18T09:16:22.743Z
-updated: 2024-12-22T04:46:43.734Z
+date: 2024-12-31T05:57:42.649Z
+updated: 2025-01-05T22:14:01.369Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the DNS Client Service Using the Registry Editor
@@ -46,7 +46,7 @@ Repeat the following steps to disable the DNS client service:
 5. Close the Registry editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
@@ -55,11 +55,15 @@ Repeat the following steps to disable the DNS client service:
 8. Close the Services utility and restart your system to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
 
@@ -79,10 +83,6 @@ Repeat the following steps to disable the DNS client service:
 
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -95,7 +95,7 @@ Repeat the following steps to disable the DNS client service:
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
@@ -117,14 +117,24 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/flicker-studio-the-complete-lightroom-alternatives-guide-for-2024/"><u>Flicker Studio The Complete Lightroom Alternatives Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-0x87e00017-when-downloading-or-updating-xbox-games/"><u>How to Fix the Microsoft Store Error 0X87e00017 When Downloading or Updating Xbox Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-x-flip-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo X Flip Phones? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/icloud-desktop-integration-on-windows-receives-major-enhancements/"><u>ICloud Desktop Integration on Windows Receives Major Enhancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-error-for-windows-users/"><u>Resolving Inaccessible Roblox Game Error for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-connection-with-ubisoft-game-launcher/"><u>Steps to Recover Lost Connection with Ubisoft Game Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-addressing-windows-faults-with-easy-fixes/"><u>Swiftly Addressing Windows Faults with Easy Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unreliable-results-the-pitfalls-of-using-chatgpt-for-summarizing-content/"><u>Unreliable Results: The Pitfalls of Using ChatGPT for Summarizing Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-peek-at-all-shared-images-and-videos-in-chats/"><u>[New] 2024 Approved Peek at All Shared Images & Videos in Chats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-drafting-dynamic-news-endings-for-2024/"><u>[New] Drafting Dynamic News Endings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>2024 Approved Viral Vibes The Best BGM to Complement Your YT Short Creations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-power-management-options/"><u>Exploring Windows' Power Management Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guia-paso-a-paso-para-convertir-de-mp3-a-3gp-sin-coste-mediante-movavi-metodo-online-facil-de-usar/"><u>Guía Paso a Paso Para Convertir De MP3 a 3GP Sin Coste Mediante Movavi: Método Online Fácil De Usar.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-windows-photo-viewer-on-win11-pcs/"><u>How to Reinstate Windows Photo Viewer on Win11 PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-voice-commands-keyboard-shortcut-essentials/"><u>Mastering Windows 11'S Voice Commands: Keyboard Shortcut Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/memory-and-cpu-efficiency-in-browsers-a-windowsmacoschromeos-comparison/"><u>Memory and CPU Efficiency in Browsers: A Windows/macOS/ChromeOS Comparison</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-free-4k-video-converters-for-windows-and-mac/"><u>New 2024 Approved Best Free 4K Video Converters for Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purple-pandemonium-restore-your-pcs-color-calibration/"><u>Purple Pandemonium? Restore Your PC's Color Calibration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use-for-2024/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-arm-compatible-windows-applications-a-game-changer-in-tech-insights/"><u>Upcoming ARM-Compatible Windows Applications: A Game Changer in Tech - Insights</u></a></li>
 </ul></div>
 

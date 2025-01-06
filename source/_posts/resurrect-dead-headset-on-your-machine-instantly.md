@@ -1,7 +1,7 @@
 ---
 title: Resurrect Dead Headset on Your Machine, Instantly
-date: 2024-08-08T11:12:46.302Z
-updated: 2024-08-09T11:12:46.302Z
+date: 2025-01-03T05:02:39.359Z
+updated: 2025-01-06T02:22:24.623Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Don't panic, though, as we've done the heavy lifting for you. Here's how you can fix the sound on your PC if your speakers have stopped working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Have You Muted the Audio?
 
  One of the easiest ways to end up with no audio on Windows speakers is to mute the sound accidentally. This can happen easily by just hitting the wrong button or keyboard shortcut. It can even happen by lowering the system volume too much.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
  Correctly plugging the jack into the correct port is vital for getting some noise out of your computer. On older systems, a microphone port can be found beside the speaker/headphone socket. As such, it's worth taking the time to make sure your speaker isn't acting like a giant microphone!
@@ -46,14 +54,15 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check[how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
 
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Confirm That the HDMI Audio Is Selected
 
@@ -67,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 Audio should now play on your HDMI TV.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -78,25 +84,20 @@ Audio should now play on your HDMI TV.
 
 **Right-click** the device and select**Update driver** . The updated driver should then be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/update-audio-driver.png)
 
  You can use the same fix to update USB drivers if you use a USB headset or USB sound card.
 
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -119,11 +120,12 @@ Audio should now play on your HDMI TV.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -131,9 +133,6 @@ Audio should now play on your HDMI TV.
 1. Type**command prompt** in the Start menu search bar, and select the Best match.
 2. Now, type**sfc/ scannow** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
@@ -149,12 +148,13 @@ Audio should now play on your HDMI TV.
 3. Under the**Playback** tab, right-click the**Default Device** and select**Properties** .
 4. Finally, select either the**Disable all enhancements** or the**Disable** option in the Enhancements tab and select**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
  This will turn off all enhancements that could be the cause of your speakers not working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Your Computer Speakers Just Aren't Working
 
@@ -164,9 +164,6 @@ Audio should now play on your HDMI TV.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Are Your Speakers Working Again?
 
  Whatever the reason for your speaker's malfunctioning, if you are a regular computer worker, then you know how working days on end without good background music can get. Hopefully, one of these tips worked out for you, and your speakers are now blasting as usual.
@@ -177,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +181,19 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-inside-the-metaverse-comprehending-6-intricate-instances/"><u>[New] 2024 Approved Inside the Metaverse Comprehending 6 Intricate Instances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-scan-and-store-your-old-printed-photos/"><u>[New] How to Scan and Store Your Old Printed Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-flight-a-complete-review-of-the-dji-inspire-2-drone/"><u>[New] Mastering Flight A Complete Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-melodic-marvels-device-spotlight-for-2024/"><u>[New] Melodic Marvels Device Spotlight for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-errors-wpcapdll-file-not-found-or-missing/"><u>Effective Fixes for Errors: Wpcap.dll File Not Found or Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-correct-windows-update-error-x8024a205/"><u>Guides to Correct Windows Update Error X8024A205</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-easily-delete-images-on-discord-using-windows/"><u>How to Easily Delete Images on Discord Using Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-steps-to-successful-mac-video-capture/"><u>In 2024, Steps to Successful Mac Video Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interacting-with-server-drives-from-mobile/"><u>Interacting with Server Drives From Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/robocop-rogue-city-unable-to-start-troubleshooting-steps/"><u>RoboCop: Rogue City Unable to Start - Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-windows-11-troubleshooter-functionality/"><u>Steps to Restore Windows 11 Troubleshooter Functionality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminating Unidentified Device Errors on W11/W10
-date: 2024-08-16T02:33:57.591Z
-updated: 2024-08-17T02:33:57.591Z
+date: 2024-12-30T09:15:29.183Z
+updated: 2025-01-06T00:01:18.726Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the System Image and File Repair Commands
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
@@ -29,13 +33,15 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
  Our article about [repairing corrupted files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions for running both SFC and DISM scans.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Clean Boot Your Windows PC
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Clean-booting Windows is one of the more widely confirmed solutions for the “Unknown Hard Error.” Applying this resolution will disable non-essential third-party startup apps and services. This can prevent software conflicts that could be causing the “Unknown Hard Error” on your PC from occurring.
@@ -45,19 +51,21 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
  If the error doesn’t reoccur again, you’re onto something. You can keep the current boot configuration or try to identify what was causing the issue for the sake of re-enabling startup items. To identify the culprit, you’ll need to gradually re-enable one startup item every time you restart (or shut down) Windows until the issue returns.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run a Check Disk Repair Scan
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The “Unknown Hard Error” can be due to hard disk drive issues. Check Disk (CHKDSK) is the only pre-installed Windows utility that checks for and resolves hard drive errors. So, try running a CHKDSK scan via the Command Prompt or File Explorer.
 
  Our guide to [running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) includes instructions for utilizing that tool either way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Remove Any Recent Windows Updates
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/install-updates.jpg)
@@ -79,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 ## 6\. Switch to a New User Account
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  An issue with your user account could be the reason for the “Unknown Hard Error” arising on your PC. If you can’t fix that issue, you may as well go around it by creating and utilizing a new user account.
 
@@ -94,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
  As such, you will have to reinstall software packages that weren’t pre-installed. Fortunately, you can tell Windows to retain user files, so it's not quite a full wipe.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can select to reset a PC from Settings or the Windows recovery environment menu if necessary. Our article about [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) includes guidelines for performing this troubleshooting method.
 
@@ -106,11 +108,28 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-choosing-excellence-hdr-cameras-decoded/"><u>[New] 2024 Approved Choosing Excellence HDR Cameras Decoded</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-one-click-video-creation-simplified-editing-of-multi-snaps/"><u>[New] 2024 Approved One-Click Video Creation Simplified Editing of Multi-Snaps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>[Updated] Audience Advocacy Nurturing Connections in the Digital Age</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-setting-up-complex-itineraries-with-pin-drops-on-google-maps/"><u>Comprehensive Guide to Setting Up Complex Itineraries with Pin Drops on Google Maps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-the-best-10-uses-for-powertoys/"><u>Enhance Your Experience: The Best 10 Uses for PowerToys</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi 13T Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-decoding-the-mechanics-a-deep-dive-into-webcam-tech/"><u>In 2024, Decoding the Mechanics A Deep Dive Into Webcam Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-for-windows-11-insights-from-update-x4-release/"><u>New Horizons for Windows 11: Insights From Update X.4 Release</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/prime-artistry-summary-intense-pinnacle-studio-review-2023/"><u>Prime Artistry Summary Intense Pinnacle Studio Review 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-the-application-couldnt-start-code-0xc000003e-in-win11/"><u>Steps to Resolve The Application Couldn't Start: Code 0XC000003E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-a-driverirqlnotlessorequal-on-pc/"><u>Tackling A DRIVER_IRQL_NOT_LESS_OR_EQUAL on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-blend-how-i-found-my-ideal-fit-with-the-apple-watch-ultra-2-at-an-exceptional-labor-day-discount-insights-from-zdnet/"><u>The Perfect Blend: How I Found My Ideal Fit with the Apple Watch Ultra 2 at an Exceptional Labor Day Discount – Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide-for-2024/"><u>Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-complexities-of-windows-odbc-integration/"><u>Unraveling the Complexities of Windows ODBC Integration</u></a></li>
+</ul></div>
+

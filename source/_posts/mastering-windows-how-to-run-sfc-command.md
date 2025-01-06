@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: How to Run SFC Command"
-date: 2024-12-25T17:47:10.271Z
-updated: 2024-12-27T17:17:34.566Z
+date: 2024-12-30T01:52:11.079Z
+updated: 2025-01-06T07:55:31.831Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 2. This will bring up**Command Prompt** in the search result. Click on the**Run as administrator** option.  
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 3. Click**Yes** in the UAC prompt to allow Command Prompt to make changes to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
@@ -49,14 +54,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -69,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 | /verifyfile | Run this command if you only want to check a particular system file for problems. Even if SFC finds an issue with the file, it will not repair it. For example, Here’s the full command for checking the**user32.dll** file:**SFC /verifyfile=c:\\windows\\system32\\user32.dll** |
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
 
@@ -83,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the SFC Log File On Windows
@@ -96,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -104,17 +113,9 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
@@ -143,20 +144,24 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-path-to-prominence-secure-1000-ig-alliesmonth-for-2024/"><u>[Updated] The Path to Prominence Secure 1,000 IG Allies/Month for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-inadept-pc-specifications-for-games/"><u>Correcting Inadept PC Specifications for Games</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disabled-outlook-notification-settings-in-windows/"><u>Fixing Disabled Outlook Notification Settings in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harness-the-security-benefits-of-powershells-execution-policies/"><u>Harness the Security Benefits of PowerShell's Execution Policies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>In 2024, Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/jubilant-join-and-leave-steps/"><u>Jubilant Join & Leave Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-to-a-spotlighted-mouse-cursor/"><u>Revealing the Secrets to a Spotlighted Mouse Cursor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-winstore-failure-error-0x800704cf/"><u>Reversing WinStore Failure: Error 0X800704CF</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/snapping-back-up-a-comprehensive-guide-to-restoring-your-lost-snapchats-on-windows-iphone-and-android-systems/"><u>Snapping Back Up: A Comprehensive Guide to Restoring Your Lost Snapchats on Windows, iPhone & Android Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-methods-to-address-steam-logins-delay-rust-and-windows-focus/"><u>Strategic Methods to Address Steam Logins Delay: Rust & Windows Focus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-reactivate-taskbar-icons/"><u>Tactics to Reactivate Taskbar Icons</u></a></li>
-<li><a href="https://media-tips.techidaily.com/turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pros-finest-10-iconic-films/"><u>Updated In 2024, Final Cut Pros Finest 10 Iconic Films</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-free-multimedia-content-creation/"><u>[New] The Ultimate Guide to Free Multimedia Content Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-for-2024/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-depth-study-of-video-tech-outside-manycam-for-2024/"><u>[Updated] In-Depth Study of Video Tech Outside ManyCam for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-workshop-embedding-countdown-features-in-obs/"><u>[Updated] Professional Workshop Embedding Countdown Features in OBS</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-htc-u23-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My HTC U23 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-variants-of-moviemaker-pro-on-windows/"><u>2024 Approved Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-store-hiccups-the-0x00000000-guide/"><u>Correcting Windows Store Hiccups: The 0X00000000 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-lookup-an-ms-store-approach/"><u>Customizing Your Window's Lookup: An MS Store Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-rapid-repair-service-w11s-qa/"><u>How to Engage Rapid Repair Service: W11's QA</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-best-vimeo-video-downloaders/"><u>In 2024, Best Vimeo Video Downloaders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mirthful-melodies-curated-list-of-funny-phone-sounds/"><u>In 2024, Mirthful Melodies Curated List of Funny Phone Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-security-controlling-folder-permissions/"><u>Mastering Windows 11'S Security: Controlling Folder Permissions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movaviden-oncut-pc-icin-mp4-film-rehberi-and-online-uygulama/"><u>Movavi'den Öncüt: PC Için MP4 Film Rehberi & Online Uygulama</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-windows-group-policy-configurations/"><u>Reinvigorating Windows Group Policy Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-navigate-through-microsofts-safe-access-restriction/"><u>Strategies to Navigate Through Microsoft's Safe Access Restriction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-wireless-and-cable-on-windows-a-step-by-step-tutorial/"><u>Syncing Wireless and Cable on Windows: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-existent-windows-dll-mfc71udll/"><u>Troubleshooting Non-Existent Windows DLL: Mfc71u.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-no-cost-publicly-available-dns-servers/"><u>Ultimate Selection of No-Cost, Publicly Available DNS Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-restricted-organizational-browser-settings-on-windows-machines/"><u>Unlocking Restricted Organizational Browser Settings on Windows Machines</u></a></li>
 </ul></div>
 
