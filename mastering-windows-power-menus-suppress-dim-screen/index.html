@@ -26,29 +26,17 @@
 <meta property="og:site_name" content="Win11 Tips">
 <meta property="og:description" content="This Article Describes Mastering Windows Power Menus: Suppress Dim Screen">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2082529">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2082529/7443">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/18544-1873313">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1873313/18544">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/26400-2097467">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/2097467/26400">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/18498-2084399">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/2084399/18498">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2068416">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2068416/7443">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/26400-2095385">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/2095385/26400">
-<meta property="article:published_time" content="2024-08-08T03:10:18.793Z">
-<meta property="article:modified_time" content="2024-08-09T03:10:18.793Z">
+<meta property="article:published_time" content="2025-01-03T19:40:08.643Z">
+<meta property="article:modified_time" content="2025-01-05T18:32:57.832Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://a.impactradius-go.com/display-ad/7443-2082529">
+<meta name="twitter:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg">
     
 
     <!-- google site verification -->
@@ -729,15 +717,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-08-08 11:10:18</span>
-        <span class="mobile">2024-08-08 11:10:18</span>
+        <span class="desktop">2025-01-04 03:40:08</span>
+        <span class="mobile">2025-01-04 03:40:08</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-08-09 11:10:18</span>
-            <span class="mobile">2024-08-09 11:10:18</span>
+            <span class="desktop">2025-01-06 02:32:57</span>
+            <span class="mobile">2025-01-06 02:32:57</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -804,120 +792,62 @@
             <h2 id="Mastering-Windows-Power-Menus-Suppress-Dim-Screen"><a href="#Mastering-Windows-Power-Menus-Suppress-Dim-Screen" class="headerlink" title="Mastering Windows Power Menus: Suppress Dim Screen"></a>Mastering Windows Power Menus: Suppress Dim Screen</h2><p> There are times when you need to step away from your PC, and if you’re gone long enough, the screen will automatically dim. Windows does this to preserve your battery, and you can adjust when your display should darken in the Power Options menu by editing the <strong>Dim display after</strong> option.</p>
 <p> If for some reason you can’t see the <strong>Dim display after</strong> option in the Power Options menu, or it’s there and you want to remove it, you can use PowerShell or the Registry Editor to show or hide it. Here’s how.</p>
 <!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082529"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082529/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="How-to-Show-or-Hide-the-“Dim-Display-After”-Option-Using-PowerShell"><a href="#How-to-Show-or-Hide-the-“Dim-Display-After”-Option-Using-PowerShell" class="headerlink" title="How to Show or Hide the “Dim Display After” Option Using PowerShell"></a>How to Show or Hide the “Dim Display After” Option Using PowerShell</h2><p> First, launch Windows PowerShell. There are many <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-command-prompt-powershell/" >ways to open PowerShell on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, but the easiest method is to press <strong>Win + S</strong> to open Windows Search. Then, enter <strong>powershell</strong> in the search box and click on <strong>Windows PowerShell</strong> when it appears in the search results.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-1873313"
-                      border="0" alt="" width="1080" height="1263"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1873313/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg"
                       alt="windows powershell in the windows search results"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> In PowerShell, enter the following command to show the <strong>Dim Display after</strong> option in the Power Options menu:</p>
 <p>powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee -ATTRIB_HIDE</p>
 <p> To hide it, enter the following command:</p>
 <p>powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE</p>
 <p> After entering the command you want, hit the <strong>Enter</strong> key on your keyboard for PowerShell to execute it. Afterward, the <strong>Dim display after</strong> option should appear or disappear accordingly in the Power Options menu.</p>
 <h2 id="How-to-Show-or-Hide-the-“Dim-display-after”-Option-Using-the-Registry-Editor"><a href="#How-to-Show-or-Hide-the-“Dim-display-after”-Option-Using-the-Registry-Editor" class="headerlink" title="How to Show or Hide the “Dim display after” Option Using the Registry Editor"></a>How to Show or Hide the “Dim display after” Option Using the Registry Editor</h2><p> Considering how vital the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/" >Windows Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is for the smooth operation of Windows, you might want to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before you edit it. Afterward, open the Registry Editor by pressing <strong>Win + R</strong>, typing <strong>regedit</strong> in the text box, and clicking <strong>OK</strong>.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2097467"
-                      border="0" alt="" width="640" height="640"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2097467/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg"
                       alt="regedit"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Click <strong>Yes</strong> to bypass the UAC prompt.</p>
 <p> In the address bar of the Registry Editor, copy and paste the following text into it:</p>
 <p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f-f776-4464-8c53-06167f40cc99\17aaa29b-8b43-4b94-aafe-35f64daaf1ee</p>
 <p> On the right panel, double-click the <strong>Attributes</strong> entry to open it up for editing.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084399"
-                      border="0" alt="" width="1125" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084399/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg"
                       alt="the attributes entry in the windows registry editor"
                 ></p>
-<p> Then, in the <strong>Value data</strong> text box, enter <strong>1</strong> to hide <strong>Dim display after</strong> in the Power Options menu or <strong>2</strong> to show it.</p>
 <!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2068416"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2068416/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<p> Then, in the <strong>Value data</strong> text box, enter <strong>1</strong> to hide <strong>Dim display after</strong> in the Power Options menu or <strong>2</strong> to show it.</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg"
                       alt="modifying the attributes dword in the windows registry editor"
                 ></p>
-<p> Now you can open the Power Options menu (see <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-open-power-options/" >how to open the power options on Windows 10 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) and check under <strong>Display</strong> to see if the <strong>Dim display after</strong> option is there or not.</p>
 <!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2095385"
-                      border="0" alt="" width="1024" height="1024"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2095385/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<p> Now you can open the Power Options menu (see <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-open-power-options/" >how to open the power options on Windows 10 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) and check under <strong>Display</strong> to see if the <strong>Dim display after</strong> option is there or not.</p>
 <h2 id="Controlling-the-“Dim-Display-After”-Option-in-the-Power-Options-Menu"><a href="#Controlling-the-“Dim-Display-After”-Option-in-the-Power-Options-Menu" class="headerlink" title="Controlling the “Dim Display After” Option in the Power Options Menu"></a>Controlling the “Dim Display After” Option in the Power Options Menu</h2><p> Now that you know how to show or hide <strong>Dim display after</strong>, you know what to do when you can’t find it in the Power Options menu or need to remove it. We recommend keeping it hidden and then bringing it up whenever you need it. This will make sure that no one messes with this important display setting when you’ve set it up perfectly.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
@@ -930,6 +860,22 @@
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/new-constructing-an-inspirational-tiktok-end-screen-for-2024/"><u>[New] Constructing An Inspirational TikTok End Screen for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/new-essential-tools-for-every-mac-user-free-screen-recorder-guide/"><u>[New] Essential Tools for Every Mac User – Free Screen Recorder Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-craft-movies-on-windows-11-using-the-free-movie-maker-app-for-2024/"><u>[Updated] Craft Movies on Windows 11 Using the Free Movie Maker App for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/bypass-the-stall-essential-tricks-for-skipping-past-forza-horizon-5s-loading-loop/"><u>Bypass the Stall: Essential Tricks for Skipping Past Forza Horizon 5'S Loading Loop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-attached-file-program-linkage-on-pcs/"><u>Correcting Non-Attached File Program Linkage on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-shrinkage-of-desktop-icons-on-windows-11/"><u>Correcting the Shrinkage of Desktop Icons on Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/honor-the-founding-fathers-with-savings-purchase-a-cutting-edge-macbook-pro-featuring-the-new-m3-pro-for-an-exceptional-200-discount-on-presidents-day-only-37/"><u>Honor the Founding Fathers with Savings: Purchase a Cutting-Edge MacBook Pro Featuring the New M3 Pro for an Exceptional $200 Discount on Presidents' Day Only | Engadget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/offline-tutorials-setting-up-windows-11/"><u>Offline Tutorials: Setting Up Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-recovery.techidaily.com/professional-secrets-for-superior-snapshots-on-apples-mobile-tech/"><u>Professional Secrets for Superior Snapshots on Apple’s Mobile Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-tasks-with-windows-grasp-20-key-cmd-commands/"><u>Streamline Tasks with Windows: Grasp 20 Key CMD Commands</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-d3dx940dll-cannot-be-located/"><u>Troubleshooting Steps for When d3dx9_40.dll Cannot Be Located</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -940,11 +886,11 @@
         <li><strong>Title:</strong> Mastering Windows Power Menus: Suppress Dim Screen</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-08-08 11:10:18</li>
+                :</strong> 2025-01-04 03:40:08</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-08-09 11:10:18
+                    :</strong> 2025-01-06 02:32:57
             </li>
         
         <li>
@@ -988,13 +934,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/overcoming-the-challenge-of-windows-exception-breakpoint-error/"
+                        href="/stepwise-method-to-disable-wired-keys-for-pcs-running-windows/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Overcoming the Challenge of Windows Exception Breakpoint Error</span>
+                                <span class="post-nav-title-item">Stepwise Method to Disable Wired Keys for PCs Running Windows</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1004,10 +950,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/reinvigorating-inactive-cleanup-tools-for-win11/"
+                        href="/transforming-drive-space-management-the-art-of-utilizing-windows-diskusage-commands/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Reinvigorating Inactive Cleanup Tools for Win11</span>
+                                <span class="post-nav-title-item">Transforming Drive Space Management: The Art of Utilizing Windows&#39; DiskUsage Commands</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1071,7 +1017,7 @@
               <span>2017</span>
               -
             
-            2024 Richard.&nbsp;&nbsp; All Rights Reserved.
+            2025 Richard.&nbsp;&nbsp; All Rights Reserved.
             
         </div>
         

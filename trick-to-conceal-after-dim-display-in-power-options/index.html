@@ -30,8 +30,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg">
-<meta property="article:published_time" content="2024-12-26T14:01:09.323Z">
-<meta property="article:modified_time" content="2024-12-27T11:52:27.525Z">
+<meta property="article:published_time" content="2024-12-30T11:17:48.196Z">
+<meta property="article:modified_time" content="2025-01-05T20:52:04.249Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -717,15 +717,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-26 22:01:09</span>
-        <span class="mobile">2024-12-26 22:01:09</span>
+        <span class="desktop">2024-12-30 19:17:48</span>
+        <span class="mobile">2024-12-30 19:17:48</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-27 19:52:27</span>
-            <span class="mobile">2024-12-27 19:52:27</span>
+            <span class="desktop">2025-01-06 04:52:04</span>
+            <span class="mobile">2025-01-06 04:52:04</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -795,6 +795,10 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="How-to-Show-or-Hide-the-“Dim-Display-After”-Option-Using-PowerShell"><a href="#How-to-Show-or-Hide-the-“Dim-Display-After”-Option-Using-PowerShell" class="headerlink" title="How to Show or Hide the “Dim Display After” Option Using PowerShell"></a>How to Show or Hide the “Dim Display After” Option Using PowerShell</h2><p> First, launch Windows PowerShell. There are many <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-command-prompt-powershell/" >ways to open PowerShell on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, but the easiest method is to press <strong>Win + S</strong> to open Windows Search. Then, enter <strong>powershell</strong> in the search box and click on <strong>Windows PowerShell</strong> when it appears in the search results.</p>
 <p><img  
                      lazyload
@@ -802,19 +806,11 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg"
                       alt="windows powershell in the windows search results"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> In PowerShell, enter the following command to show the <strong>Dim Display after</strong> option in the Power Options menu:</p>
 <p>powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee -ATTRIB_HIDE</p>
 <p> To hide it, enter the following command:</p>
 <p>powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE</p>
 <p> After entering the command you want, hit the <strong>Enter</strong> key on your keyboard for PowerShell to execute it. Afterward, the <strong>Dim display after</strong> option should appear or disappear accordingly in the Power Options menu.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Show-or-Hide-the-“Dim-display-after”-Option-Using-the-Registry-Editor"><a href="#How-to-Show-or-Hide-the-“Dim-display-after”-Option-Using-the-Registry-Editor" class="headerlink" title="How to Show or Hide the “Dim display after” Option Using the Registry Editor"></a>How to Show or Hide the “Dim display after” Option Using the Registry Editor</h2><p> Considering how vital the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/" >Windows Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is for the smooth operation of Windows, you might want to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before you edit it. Afterward, open the Registry Editor by pressing <strong>Win + R</strong>, typing <strong>regedit</strong> in the text box, and clicking <strong>OK</strong>.</p>
 <p><img  
                      lazyload
@@ -823,7 +819,7 @@
                       alt="regedit"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Click <strong>Yes</strong> to bypass the UAC prompt.</p>
@@ -837,7 +833,7 @@
                       alt="the attributes entry in the windows registry editor"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Then, in the <strong>Value data</strong> text box, enter <strong>1</strong> to hide <strong>Dim display after</strong> in the Power Options menu or <strong>2</strong> to show it.</p>
@@ -847,9 +843,13 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg"
                       alt="modifying the attributes dword in the windows registry editor"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Now you can open the Power Options menu (see <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-open-power-options/" >how to open the power options on Windows 10 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) and check under <strong>Display</strong> to see if the <strong>Dim display after</strong> option is there or not.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Controlling-the-“Dim-Display-After”-Option-in-the-Power-Options-Menu"><a href="#Controlling-the-“Dim-Display-After”-Option-in-the-Power-Options-Menu" class="headerlink" title="Controlling the “Dim Display After” Option in the Power Options Menu"></a>Controlling the “Dim Display After” Option in the Power Options Menu</h2><p> Now that you know how to show or hide <strong>Dim display after</strong>, you know what to do when you can’t find it in the Power Options menu or need to remove it. We recommend keeping it hidden and then bringing it up whenever you need it. This will make sure that no one messes with this important display setting when you’ve set it up perfectly.</p>
@@ -866,20 +866,21 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/new-in-2024-digital-rights-unexpected-content-take-downs/"><u>[New] In 2024, Digital Rights Unexpected Content Take-Downs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/new-traditional-rogues-vs-modern-roguism/"><u>[New] Traditional Rogues Vs. Modern Roguism</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/updated-2024-approved-optimal-room-decorations-for-livestreams/"><u>[Updated] 2024 Approved Optimal Room Decorations for Livestreams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/updated-in-2024-revamping-educational-experiences-through-vr/"><u>[Updated] In 2024, Revamping Educational Experiences Through VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-altering-file-types-on-windows/"><u>Decoding the Art of Altering File Types on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directly-connecting-to-clouds-cdropboxgoogledrive-for-work/"><u>Directly Connecting to Clouds: C:/Dropbox/GoogleDrive for Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-x80300024-in-windows-xp-environment/"><u>Fixing Error X80300024 in Windows XP Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-identifying-and-eradicating-vacant-folders-on-pcs/"><u>Guide to Identifying & Eradicating Vacant Folders on PCs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-motorola-moto-g14-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Motorola Moto G14 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/in-2024-joining-the-digital-dialogue-facebook-basics/"><u>In 2024, Joining the Digital Dialogue (Facebook Basics)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-privilege-not-held-error-in-windows-code-0x80070522/"><u>Navigating the Privilege Not Held Error in Windows: Code 0X80070522</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-in-clarity-top-ten-windows-11-troubleshooting-steps/"><u>Precision in Clarity: Top Ten Windows 11 Troubleshooting Steps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/the-ultimate-guide-to-dji-phantom-3-pro-drone/"><u>The Ultimate Guide to DJI Phantom 3 Pro Drone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/kyrocket-to-your-youtube-audience-goal-1kplus-for-2024/"><u>[New] Skyrocket to Your YouTube Audience Goal 1K+ for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/2024-approved-adding-emotion-and-context-narration-for-videos/"><u>2024 Approved Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-gionee-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Gionee Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-access-to-your-visual-data-with-windows-11/"><u>Immediate Access to Your Visual Data with Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Phone Screen?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/in-2024-pixelmaster-record-download-use-and-assessment/"><u>In 2024, PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-winerror-xc004f050/"><u>Mastering Fix for WinError Xc004f050</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/seamless-transition-adopting-windows-11/"><u>Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-microsoft-store-fault-error-0x0-in-windows/"><u>Strategies to Resolve Microsoft Store Fault: Error 0X0 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x887a0006-for-gpu-hangs/"><u>Tackling Windows Error 0X887A0006 for GPU Hangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-ignoring-restricted-feature-on-windows-software/"><u>Tips for Ignoring Restricted Feature on Windows Software</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/total-environmental-immersion-in-media-creation/"><u>Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-issue-insufficient-it-admin-rights/"><u>Troubleshooting Windows Issue: Insufficient IT Admin Rights</u></a></li>
 </ul></div>
 
 
@@ -892,11 +893,11 @@
         <li><strong>Title:</strong> Trick to Conceal &#39;After Dim Display&#39; In Power Options</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-12-26 22:01:09</li>
+                :</strong> 2024-12-30 19:17:48</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-27 19:52:27
+                    :</strong> 2025-01-06 04:52:04
             </li>
         
         <li>
@@ -940,13 +941,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/nixing-webp-saves-customizing-chromes-image-formats-for-pcs/"
+                        href="/tailoring-windows-11-services-for-optimal-performance/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Nixing WebP Saves: Customizing Chrome&#39;s Image Formats for PCs</span>
+                                <span class="post-nav-title-item">Tailoring Windows 11 Services for Optimal Performance</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -956,10 +957,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/unlocking-device-functions-in-windows-11s-edge-guards/"
+                        href="/reviving-a-dysfunctional-resource-monitor-on-windows-11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Unlocking Device Functions in Windows 11&#39;S Edge Guards</span>
+                                <span class="post-nav-title-item">Reviving a Dysfunctional Resource Monitor on Windows 11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1023,7 +1024,7 @@
               <span>2017</span>
               -
             
-            2024 Richard.&nbsp;&nbsp; All Rights Reserved.
+            2025 Richard.&nbsp;&nbsp; All Rights Reserved.
             
         </div>
         
