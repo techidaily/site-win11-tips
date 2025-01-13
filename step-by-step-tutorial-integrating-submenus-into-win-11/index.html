@@ -40,8 +40,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg">
-<meta property="article:published_time" content="2024-12-30T20:40:03.540Z">
-<meta property="article:modified_time" content="2025-01-05T16:33:41.728Z">
+<meta property="article:published_time" content="2025-01-07T08:06:59.194Z">
+<meta property="article:modified_time" content="2025-01-12T10:45:30.133Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -727,15 +727,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-31 04:40:03</span>
-        <span class="mobile">2024-12-31 04:40:03</span>
+        <span class="desktop">2025-01-07 16:06:59</span>
+        <span class="mobile">2025-01-07 16:06:59</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-06 00:33:41</span>
-            <span class="mobile">2025-01-06 00:33:41</span>
+            <span class="desktop">2025-01-12 18:45:30</span>
+            <span class="mobile">2025-01-12 18:45:30</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -807,19 +807,21 @@
 </blockquote>
 <h2 id="How-to-Add-a-Submenu-to-the-Context-Menu-by-Manually-Editing-the-Registry"><a href="#How-to-Add-a-Submenu-to-the-Context-Menu-by-Manually-Editing-the-Registry" class="headerlink" title="How to Add a Submenu to the Context Menu by Manually Editing the Registry"></a>How to Add a Submenu to the Context Menu by Manually Editing the Registry</h2><p> You can manually create a context menu submenu that includes any number of software shortcuts with the Registry Editor. For the sake of example, here we’ll create a submenu that includes shortcuts for opening the Notepad and Remote Desktop Connection apps. Then you can add more shortcuts for software on your PC. First, you’ll need to lay the foundation for the submenu as follows:</p>
 <ol>
-<li><p>To access the registry app, check out this guide about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >how to open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-</li>
-<li><p>Go to a <strong>shell</strong> key by inputting the following location into the Registry Editor’s address bar:<br><code>Computer\HKEY_CLASSES_ROOT\Directory\Background\shell</code></p>
-</li>
-<li><p>Right-click the <strong>shell</strong> key in the left sidebar and select the <strong>New</strong> &gt; <strong>Key</strong> options for adding a new registry entry.<br><img  
+<li>To access the registry app, check out this guide about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >how to open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>Go to a <strong>shell</strong> key by inputting the following location into the Registry Editor’s address bar:<br><code>Computer\HKEY_CLASSES_ROOT\Directory\Background\shell</code></li>
+<li>Right-click the <strong>shell</strong> key in the left sidebar and select the <strong>New</strong> &gt; <strong>Key</strong> options for adding a new registry entry.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg"
                       alt="The New &gt; Key options"
-                ></p>
-</li>
-<li><p>Enter <strong>Menu1</strong> to be the new key’s name.</p>
-</li>
+                ></li>
+<li>Enter <strong>Menu1</strong> to be the new key’s name.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="5">
 <li><p>Right-click <strong>Menu1</strong> to select the <strong>New</strong> &gt; <strong>String Value</strong> options.</p>
 </li>
 <li><p>Input <strong>MUIVerb</strong> for the new string’s name.</p>
@@ -833,32 +835,24 @@
 </li>
 <li><p>Double-click the <strong>MUIVerb</strong> string added to the <strong>Menu1</strong> key.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="4">
-<li>Enter <strong>Apps</strong> in the <strong>Value</strong> box for the <strong>MUIVerb</strong> string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the <strong>Value data</strong> box if preferred.<br><img  
+<li><p>Enter <strong>Apps</strong> in the <strong>Value</strong> box for the <strong>MUIVerb</strong> string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the <strong>Value data</strong> box if preferred.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg"
                       alt="The MUIVerb string value"
-                ></li>
-<li>Click <strong>OK</strong> to exit the Edit String window for <strong>MUIVerb</strong>.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="6">
-<li>Next, double-click on the <strong>SubCommand</strong> string inside the <strong>Menu1</strong> key.</li>
-<li>Input <strong>Notepad; Remote Desktop Connection</strong> inside the <strong>Value</strong> box for the <strong>SubCommands</strong> string and click <strong>OK</strong>.<br><img  
+                ></p>
+</li>
+<li><p>Click <strong>OK</strong> to exit the Edit String window for <strong>MUIVerb</strong>.</p>
+</li>
+<li><p>Next, double-click on the <strong>SubCommand</strong> string inside the <strong>Menu1</strong> key.</p>
+</li>
+<li><p>Input <strong>Notepad; Remote Desktop Connection</strong> inside the <strong>Value</strong> box for the <strong>SubCommands</strong> string and click <strong>OK</strong>.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/subcommands-string-value.jpg"
                       alt="subcommands-string-value"
-                ></li>
+                ></p>
+</li>
 </ol>
 <p> Now a new <strong>App</strong> submenu will be visible on Windows 11’s classic context menu. However, it won’t include any shortcuts. So, you will need to do some further editing of a different <strong>shell</strong> key to add functionality to the submenu. Edit the registry like this to complete the submenu:</p>
 <ol>
@@ -904,7 +898,11 @@
                       alt="The Delete option for the Menu1 key"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="How-to-Add-a-Submenu-to-the-Context-Menu-With-Easy-Context-Menu"><a href="#How-to-Add-a-Submenu-to-the-Context-Menu-With-Easy-Context-Menu" class="headerlink" title="How to Add a Submenu to the Context Menu With Easy Context Menu"></a>How to Add a Submenu to the Context Menu With Easy Context Menu</h2><p> Easy Context Menu is a freely available context menu customization desktop app. That software enables you to add custom software shortcut submenus to the right-click menu without <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/" >manually editing the registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -921,7 +919,7 @@
 <li>Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ol start="5">
@@ -938,6 +936,12 @@
 </li>
 <li><p>Click the <strong>Add New</strong> button with the <strong>Software Shortcuts</strong> submenu selected.</p>
 </li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="4">
 <li><p>Select a program you want to include in the submenu and click <strong>Open</strong>.</p>
 </li>
 <li><p>Repeat the previous two steps to add more programs to the submenu.<br><img  
@@ -949,20 +953,17 @@
 </li>
 <li><p>Select the checkboxes for the new <strong>Software Shortcuts</strong> submenu and the programs added to it in the List Editor window.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="7">
-<li>Press the <strong>Save Changes</strong> button and close the List Editor window.</li>
-<li>Select the checkboxes for the <strong>Software Shortcuts</strong> submenu and the program options it includes within the Easy Context Menu window.<br><img  
+<li><p>Press the <strong>Save Changes</strong> button and close the List Editor window.</p>
+</li>
+<li><p>Select the checkboxes for the <strong>Software Shortcuts</strong> submenu and the program options it includes within the Easy Context Menu window.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg"
                       alt="The Easy Context Menu window"
-                ></li>
-<li>Click <strong>Apply Changes</strong> to add the new submenu.</li>
+                ></p>
+</li>
+<li><p>Click <strong>Apply Changes</strong> to add the new submenu.</p>
+</li>
 </ol>
 <p> Now check out the new <strong>Software Shortcuts</strong> submenu on Windows 11’s classic desktop context menu. That cascading menu will include all the programs you selected to add to it. It will also include program icons, so long as you leave the <strong>Show icon in the Context Menu</strong> checkboxes selected.</p>
 <p><img  
@@ -971,10 +972,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg"
                       alt="software-shortcuts-submenu2"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Another advantage of utilizing Easy Context Menu is that it includes options for positing the submenu. You can configure the approximate position of that submenu by selecting one of the three <strong>Show at</strong> options for it within the List Editor window. You can also reposition the submenu or items in it by selecting them and clicking the <strong>Move Up</strong> or <strong>Move Down</strong> buttons.</p>
 <p> Easy Context Menu also includes <strong>Tools</strong>, <strong>System Tools</strong>, and <strong>Turn Off Options</strong> submenus for you to add to the right-click menu. To add those submenus, select the <strong>System Tools</strong>, <strong>Turn Off Options</strong>, and <strong>Tools</strong> checkboxes for the desktop context menu and click <strong>Apply Changes</strong>. You can also deselect some of the checkboxes for those submenus to remove certain shortcuts from them.</p>
 <p><img  
@@ -983,6 +980,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg"
                       alt="A Tools submenu added with Easy Context Menu"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Organize-Your-Windows-Desktop-Context-Menu-Shortcuts-With-Submenus"><a href="#Organize-Your-Windows-Desktop-Context-Menu-Shortcuts-With-Submenus" class="headerlink" title="Organize Your Windows Desktop Context Menu Shortcuts With Submenus"></a>Organize Your Windows Desktop Context Menu Shortcuts With Submenus</h2><p> Adding one or more submenus to Windows 11’s desktop context menu will enable you to organize the software shortcuts added to it.</p>
 <p> You could create multiple submenus on the context menu that include shortcuts for opening different software categories, such as web browsers, media players, productivity apps, etc. Or you can add a new desktop context menu submenu for accessing Windows tools and turn off options with Easy Context Menu.</p>
 <p> If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.</p>
@@ -994,23 +995,19 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://article-files.techidaily.com/new-2024-approved-15-best-action-cameras-from-beginners-to-pros/"><u>[New] 2024 Approved 15 Best Action Cameras - From Beginners to Pros</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-2024-approved-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[New] 2024 Approved Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/new-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-in-2024-starting-out-top-pick-gopro-supplements/"><u>[Updated] In 2024, Starting Out Top Pick GoPro Supplements</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/updated-masterclass-in-cutting-edge-video-editing-vivacuts-2024-insight/"><u>[Updated] Masterclass in Cutting Edge Video Editing - VivaCut's 2024 Insight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directly-engage-with-images-in-windows-explorer/"><u>Directly Engage with Images in Windows Explorer</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/efficiently-allocating-more-memory-to-minecraft/"><u>Efficiently Allocating More Memory to Minecraft</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/ing-skits-building-a-parody-film-for-2024/"><u>Laughing Skits Building a Parody Film for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-explorer-onedrive-as-a-launchpad/"><u>Mastering File Explorer: OneDrive as a Launchpad</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-blaze-2-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-default-sound-level-configurations-in-windows/"><u>Restoring Default Sound Level Configurations in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-no-write-error-a-guide-for-windows-users/"><u>Tackling the No Write Error: A Guide for Windows Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-popular-rainmeter-problems-in-windows-systems/"><u>Troubleshooting Popular Rainmeter Problems in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-aid-unlocking-essential-assistive-tech/"><u>Windows Aid: Unlocking Essential Assistive Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-identity-under-threat-are-biometrics-safe/"><u>Windows Identity Under Threat: Are Biometrics Safe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-freezes-in-apex-legends/"><u>Winning the Battle Against Freezes in Apex Legends</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c02-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C02 is off? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi 12 5G</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/in-2024-facebook-video-wizardry-mp4-download-spell/"><u>In 2024, Facebook Video Wizardry - MP4 Download Spell</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-versatile-garmin-gpsmap-64st-your-ultimate-handheld-companion/"><u>In-Depth Analysis of the Versatile Garmin GPSMAP 64St: Your Ultimate Handheld Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovation-unbound-ais-impact-on-windows-tech-advances/"><u>Innovation Unbound: AI's Impact on Windows Tech Advances</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>New Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-faulty-drives-in-windows/"><u>Streamlining Faulty Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskbar-evolution-a-timeline-from-85-to-present/"><u>Taskbar Evolution: A Timeline From '85 To Present</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-pc-doesnt-meet-game-bar-issue/"><u>Troubleshooting PC Doesn't Meet Game Bar Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techtrends.techidaily.com/watch-these-cherished-family-friendly-films-on-amazon-prime-video-in-july-2024/"><u>Watch These Cherished Family-Friendly Films on Amazon Prime Video in July 2024!</u></a></li>
 </ul></div>
 
 
@@ -1023,11 +1020,11 @@
         <li><strong>Title:</strong> Step-by-Step Tutorial: Integrating Submenus Into Win 11</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-12-31 04:40:03</li>
+                :</strong> 2025-01-07 16:06:59</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-06 00:33:41
+                    :</strong> 2025-01-12 18:45:30
             </li>
         
         <li>
@@ -1071,13 +1068,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/streamlining-the-windows-1011-search-mechanism/"
+                        href="/revive-the-neutral-quick-cures-for-pink-and-purple-windows/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Streamlining the Windows 10/11 Search Mechanism</span>
+                                <span class="post-nav-title-item">Revive the Neutral: Quick Cures for Pink and Purple Windows</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1087,10 +1084,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/simplify-your-tech-life-top-10-ways-to-access-mouse-properties/"
+                        href="/efficient-software-alignment-in-windows-11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Simplify Your Tech Life: Top 10 Ways to Access Mouse Properties</span>
+                                <span class="post-nav-title-item">Efficient Software Alignment in Windows 11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
