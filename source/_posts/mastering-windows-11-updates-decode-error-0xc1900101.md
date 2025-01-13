@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 Updates: Decode Error 0xC1900101"
-date: 2024-08-08T11:04:39.006Z
-updated: 2024-08-09T11:04:39.006Z
+date: 2025-01-06T19:17:01.271Z
+updated: 2025-01-12T20:14:57.676Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  Now that we know about the potential causes of the issue, let’s take a look at the solutions you can try to resolve the problem. Before proceeding, we recommend that you remove any unnecessary external peripherals like USB from your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Free Up Storage Space
 
  As we mentioned earlier, you must have at least 16 GB of free space on your system to install new updates. If you do not have storage space, the best way to clear it is by deleting the unnecessary apps and programs you have installed on your computer.
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -61,20 +59,21 @@ Here is how you can do that:
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Rule Out Corruption Issues
 
  The next thing that we recommend doing is scanning the system for corruption issues using the built-in troubleshooting utilities in Windows.
 
  To fix this, we will be using the Windows update troubleshooter, System File Checker, and DISM to find potential issues. Additionally, these utilities will resolve most of the problems they find on their own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.1 Use the Windows Update Troubleshooter
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
 
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
@@ -84,6 +83,10 @@ Here is how you can do that:
 ### 3.2 Run SFC and DISM Scans
 
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
 
@@ -99,9 +102,6 @@ Here is how you can do that:
 
  Wait for the update process of the driver complete and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Update the relevant driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/keyboard-update-driver.jpg)
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
@@ -115,17 +115,9 @@ Here is how you can do that:
  Different motherboard manufacturers have different instructions for this, so we recommend visiting the manufacturer's website for more information. Keep in mind, this can be a nerve-wracking and time-consuming process, so only proceed when you have enough time to spare.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Now You Can Upgrade Windows to the Latest Build
 
  By now, you should be able to upgrade your operating system to the latest available version. In case nothing the troubleshooting methods above do not help, we recommend proceeding with a clean installation. This will automatically upgrade the system without any errors during the procedure.
@@ -136,8 +128,6 @@ Here is how you can do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +135,23 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-a-beginners-guide-to-customizing-your-instagram-snapshonscape/"><u>[New] A Beginner's Guide to Customizing Your Instagram Snapshonscape</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-your-youtube-stream-the-wirecast-way/"><u>[New] Elevating Your YouTube Stream The WireCast Way</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-m1-computation-face-off-lightweight-vs-robust-designs/"><u>[New] In 2024, M1 Computation Face-Off Lightweight vs Robust Designs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-shoot-smart-comparing-gopro-models-intensively/"><u>[New] In 2024, Shoot Smart Comparing GoPro Models Intensively</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[Updated] In 2024, How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tailoring-your-obs-feeds-for-best-social-media-impact/"><u>[Updated] Tailoring Your OBS Feeds for Best Social Media Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-step-by-step-guide-to-gain-more-likes-on-tiktok-unboxings/"><u>A Step-by-Step Guide to Gain More Likes on TikTok Unboxings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-def5-barrier-tips-for-win11s-onedrive-errors/"><u>Breaking Down the DEF5 Barrier: Tips for Win11's OneDrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105317336-fixing-the-unexpected-reset-of-your-radeon-wattman-stable-performance-now-achievable/"><u>Fixing the Unexpected Reset of Your Radeon Wattman - Stable Performance Now Achievable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11-with-an-older-windows-7-product-key/"><u>Launching Windows 11 with an Older Windows 7 Product Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-search-for-program-install-spots-on-pc/"><u>Mastering the Search for Program Install Spots on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speak-write-and-transform-an-intuitive-guide-to-text-generation-with-windows-whisper/"><u>Speak, Write and Transform: An Intuitive Guide to Text Generation with Windows Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-memory-detection-problems/"><u>Understanding and Fixing Memory Detection Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-steam-deck-deserves-a-place-in-your-collection/"><u>Why the Steam Deck Deserves a Place in Your Collection</u></a></li>
+</ul></div>
 

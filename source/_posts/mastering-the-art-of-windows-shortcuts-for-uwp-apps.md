@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Windows Shortcuts for UWP Apps
-date: 2024-12-30T10:52:34.209Z
-updated: 2025-01-06T08:59:11.970Z
+date: 2025-01-12T01:43:00.957Z
+updated: 2025-01-12T22:11:02.783Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
  Windows 11 has an accessible Applications folder that includes your installed UWP apps. You can select to create shortcuts for MS Store apps from that folder as follows:
@@ -47,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -62,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click**Next** to proceed to the final step of the wizard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method will add a URL (web document) shortcut for opening the app to the desktop. These are some of the URIs with which you can create UWP desktop shortcuts:
@@ -104,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
  After creating a UWP app desktop shortcut, you can also assign a hotkey to it. Pressing that hotkey will activate the shortcut to launch the UWP app. You can create a hotkey for a UWP app desktop shortcut like this:
@@ -117,6 +109,14 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
 
@@ -137,22 +137,19 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-efficient-editing-harnessing-photoshops-powerful-eraser/"><u>[New] In 2024, Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-free-virtual-meetings-plus-shared-screens-for-2024/"><u>[New] The Ultimate List FREE Virtual Meetings + Shared Screens for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-rights-and-recourse-following-sudden-account-suspension-on-fb-for-2024/"><u>[Updated] Rights and Recourse Following Sudden Account Suspension on FB for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-x6-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco X6 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amds-high-fidelity-audio-interface/"><u>AMD's High Fidelity Audio Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-your-windows-11-experience-advanced-run-configuration/"><u>Empower Your Windows 11 Experience: Advanced Run Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-taskbar-notifications-in-windows/"><u>Fixing Missing Taskbar Notifications in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 Pro from iCloud</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-step-by-step-guide-to-cleaning-and-sanitizing-airpods-insights-from-zdnet/"><u>The Ultimate Step-by-Step Guide to Cleaning and Sanitizing AirPods - Insights From ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/tiga-langkah-gratis-untuk-mengenali-dan-menemukan-file-yang-hapus-abad-ke-3/"><u>Tiga Langkah Gratis Untuk Mengenali Dan Menemukan File Yang Hapus Abad Ke-3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-third-party-av-solutions-amidst-microsoft-guard/"><u>Unlocking Third-Party AV Solutions Amidst Microsoft Guard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
-<li><a href="https://win-blog.techidaily.com/whats-new-in-rainbow-six-siege-anticipated-changes-coming-with-the-2024-update/"><u>What's New in Rainbow Six Siege: Anticipated Changes Coming with the 2024 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-custom-inactive-period-setting/"><u>Windows: Custom Inactive Period Setting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-craft-engaging-narratives-for-facebook-reels/"><u>[New] 2024 Approved How to Craft Engaging Narratives for Facebook Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-youtube-livestream-game-plan-for-2024/"><u>[New] Elevate Your YouTube Livestream Game Plan for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-roi-with-strategic-facebook-animation-ads/"><u>[Updated] 2024 Approved Elevating ROI with Strategic Facebook Animation Ads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-streaming-profitably-understanding-youtube-updates/"><u>[Updated] In 2024, Streaming Profitably Understanding YouTube Updates</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-10-smart-strategies-for-novice-photo-editors-in-ps/"><u>In 2024, 10 Smart Strategies for Novice Photo Editors in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-oculus-rift-into-a-windows-pc-virtual-reality-setup/"><u>Integrating Oculus Rift Into a Windows PC Virtual Reality Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-lgs-um7300-a-worthy-contender-review-of-the-budget-friendly-49-inch-4k-smart-tv/"><u>Is LG's UM7300 a Worthy Contender? Review of the Budget-Friendly, 49-Inch 4K Smart TV</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-audio-recording-on-windows-11-the-ultimate-tutorial-for-clear-sound-outputs/"><u>Mastering Audio Recording on Windows 11: The Ultimate Tutorial for Clear Sound Outputs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximize-iphone-imaging-select-accessories-for-professionals/"><u>Maximize iPhone Imaging Select Accessories for Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-pens-tablet-apps-on-the-windows-os/"><u>Perfect Pens' Tablet Apps on the Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-limited-administrator-power-from-security-issue/"><u>Removing 'Limited Administrator Power' From Security Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-eliminate-sluggishness-effectively/"><u>Turbocharge Windows 11: Eliminate Sluggishness Effectively</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/weekly-melodic-delights-top-hit-karaoke-songs-from-party-tymes-live-session-on-may-7-19-2019-start-your-free-trial/"><u>Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-code-top-strategies-for-wsl-2-users/"><u>Winning at Code: Top Strategies for WSL 2 Users</u></a></li>
 </ul></div>
 

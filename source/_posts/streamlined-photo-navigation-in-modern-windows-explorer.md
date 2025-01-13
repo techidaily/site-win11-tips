@@ -1,7 +1,7 @@
 ---
 title: Streamlined Photo Navigation in Modern Windows Explorer
-date: 2025-01-02T01:37:23.467Z
-updated: 2025-01-06T06:15:11.658Z
+date: 2025-01-10T21:47:33.298Z
+updated: 2025-01-13T01:57:49.221Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Gallery Feature in Windows File Explorer?
 
  File Explorer’s Gallery feature works exactly like it sounds. It categorically lists all the images on your system in a separate section, so you can find and view all the images in one tab. Android File Explorers have had this feature for quite a long, but Windows seems to care about it now.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
  The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Gallery in File Explorer in Windows 11
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Download ViVeTool
@@ -70,6 +74,10 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
 8. Restart your computer for the changes made by Vivetool to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
 
 ## How to View the Gallery in File Explorer
@@ -78,15 +86,7 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
@@ -106,15 +106,15 @@ To remove a folder from Gallery, repeat the following steps:
 ![Removing a Folder from Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/removing-a-folder-from-gallery-in-windows-file-explorer.jpg)
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Problems With the Gallery Section in Windows File Explorer
 
  The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
 
@@ -135,22 +135,20 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beauty-blogging-101-starting-up-as-an-aesthetic-vlogger/"><u>[Updated] 2024 Approved Beauty Blogging 101 Starting Up as an Aesthetic Vlogger</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-creating-compelling-hauls-techniques-for-an-engaging-viewing-experience/"><u>[Updated] 2024 Approved Creating Compelling Hauls Techniques for an Engaging Viewing Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-captivating-life-enriching-video-content/"><u>[Updated] In 2024, Creating Captivating Life-Enriching Video Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-zodiac-charisma-in-your-whatsapp-profile-text/"><u>2024 Approved Zodiac Charisma in Your WhatsApp Profile Text</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-os-failure-windows-error-0xc0000001/"><u>Conquering OS Failure - Windows Error 0xC0000001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-task-managers-quick-find-feature-on-windows-11/"><u>Enabling Task Manager's Quick Find Feature on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-for-the-absence-of-msvcr120dll-in-windows-applications/"><u>Fixes for the Absence of msvcr120.dll in Windows Applications</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fixing-the-issue-of-non-responsive-power-button-on-hp-envy-laptop/"><u>Fixing the Issue of Non-Responsive Power Button on HP Envy Laptop</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-commencing-your-google-meet-experience/"><u>In 2024, Commencing Your Google Meet Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic5-ultimate-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic5 Ultimate? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-woes-30-windows-tricks-to-try/"><u>Key Woes? 30 Windows Tricks to Try</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-way-through-the-lost-at-sea-error-in-windows-11/"><u>Making Way Through the Lost at Sea Error in Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/navigating-the-complexities-of-macos-srt-changes-for-2024/"><u>Navigating the Complexities of macOS SRT Changes for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-users-guide-to-registry-edits-in-cmd/"><u>Power Users' Guide to Registry Edits in CMD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-search-operations-in-windows-11/"><u>Restoring Search Operations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-checklist-for-fixing-win11-wifi-woes/"><u>The Complete Checklist for Fixing Win11 Wifi Woes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210756700-9780711285392-the-leaping-hare-nature-almanac/"><u>The Leaping Hare Nature Almanac | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-beatback-bungalow-recordings-downloads-and-reviews-for-2024/"><u>[Updated] Beatback Bungalow Recordings Downloads & Reviews for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cost-effective-4k-photography-gear/"><u>[Updated] Cost-Effective 4K Photography Gear</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[Updated] In 2024, Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-solutions-to-try-if-you-cannot-find-bitlocker-in-windows/"><u>4 Solutions to Try If You Cannot Find BitLocker in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-innovative-windows-tricks-for-program-launching/"><u>6 Innovative Windows Tricks for Program Launching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-efficient-workflow-multi-screen-settings-in-win11/"><u>Achieve Efficient Workflow: Multi-Screen Settings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-ancient-windows-to-seniors-needs/"><u>Adapting Ancient Windows to Seniors' Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-msvcrt120dll-omission-on-pcs/"><u>Addressing Msvcrt120dll Omission on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-sensitivity-on-modern-windows-devices/"><u>Balancing Sensitivity on Modern Windows Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-best-philips-somneo-alarm-clocks-on-the-market/"><u>Comprehensive Guide to the Best Philips Somneo Alarm Clocks on the Market</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-pova-5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Pova 5</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/frame-crafter/"><u>FlashFrame Crafter</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unable-to-locate-the-webpage-access-denied-404/"><u>Unable to Locate the Webpage - Access Denied (404)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-online-collage-creators-make-stunning-photo-and-video-montages/"><u>Updated 2024 Approved Online Collage Creators Make Stunning Photo and Video Montages</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wie-sie-onedrive-auf-ihrem-pc-unter-windows-11-nicht-entfernen-konnen-entdeckt-die-vier-effizientesten-methoden/"><u>Wie Sie OneDrive Auf Ihrem PC Unter Windows 11 Nicht Entfernen Können - Entdeckt Die Vier Effizientesten Methoden</u></a></li>
 </ul></div>
 

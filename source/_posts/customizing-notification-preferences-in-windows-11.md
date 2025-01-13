@@ -1,7 +1,7 @@
 ---
 title: Customizing Notification Preferences in Windows 11
-date: 2024-08-08T11:07:48.671Z
-updated: 2024-08-09T11:07:48.671Z
+date: 2025-01-12T00:10:51.090Z
+updated: 2025-01-12T23:14:38.470Z
 tags:
   - windows10
   - windows11
@@ -21,14 +21,16 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are Widgets in Windows 11?
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Widgets are your personalized gateway to essential information updates on topics that interest you. On Windows 11, you’re presented with a dedicated Widgets panel filled with a dynamic array of cards and quickly accessible through the taskbar. You can also [add widgets to Windows 11's desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
 
@@ -41,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  If you haven't yet, we recommend [getting started with Windows 11's widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/). Once you're all set up with a selection of widgets that are relevant to your interests, you can then refine them further by tweaking how their notifications appear.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Two Different Kinds of Widget Notifications on Windows 11
 
  Widgets use two types of notifications—rotating announcements, and badge notifications.
@@ -52,9 +55,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  Furthermore, widgets make use of a badge notification to catch your eye when there are important updates about the weather or news. If you want to know more about the notification, you can open the Widgets panel and see what caused the notification to appear.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change the Notification Settings for Widgets on Windows 11
 
  There are two main channels that you can use to stay informed on the latest updates for your configured widgets. You can either periodically launch the widgets panel and glance over your widgets or set up notifications to keep you informed on new developments.
@@ -64,25 +67,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you want to change the widget notification settings on Windows 11:
 
 1. Launch the **Widgets** board through the icon on the **taskbar** or by pressing its dedicated keyboard shortcut, **Win + W**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![change widget notifications on Windows 11 through the Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatsapp-image-2023-08-13-at-20-26-38.jpeg)
 2. Click on the profile picture icon to open Widget settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the **Widget taskbar behaviors**, toggle the **Show notification badges** and **Show announcements** options as per your preference.
 
  Ideally, you want to show announcements for widgets that are very relevant to your interests—the topics you want instant updates on. Badge notifications without announcements are good for more casual interests that you don't want disturbing you every time something happens, and rarely-used widgets can have all of these disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Widgets Make Using Windows 11 Easy
 
  Microsoft made a smart move by adding widgets to Windows 11\. It's not just about boosting productivity and keeping up with global events; the excellent design also adds a touch of style to the whole experience.
 
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -90,3 +90,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/levating-video-revenue-youtubes-path-for-2024/"><u>[New] Elevating Video Revenue YouTube's Path for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tranquil-twilight-tales-in-video-form/"><u>[New] In 2024, Tranquil Twilight Tales in Video Form</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-your-well-being-unpacked-through-7-significant-points/"><u>AI's Role in Your Well-Being: Unpacked Through 7 Significant Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-windows-updater-issue-0xca00a009/"><u>Diagnosing and Fixing Windows Updater Issue: 0XCA00A009</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-overcome-error-0x8024402c-during-windows-updates/"><u>Expert Tips: How to Overcome Error 0X8024402c During Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-outlooks-non-synchronization-in-windows-os/"><u>How to Rectify Outlook's Non-Synchronization in Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/iosandroid-tips-attaching-audio-posters-on-facebook/"><u>IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-process-adding-and-using-apps-on-your-samsung-smart-tv-screen/"><u>Master the Process: Adding and Using Apps on Your Samsung Smart TV Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-sonic-selections-android-centric-for-2024/"><u>Optimal Sonic Selections, Android-Centric for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-your-machine-windows-11s-bloatware-hack/"><u>Rejuvenate Your Machine: Windows 11'S Bloatware Hack</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-windows-11s-display-driver-fail-with-ease-and-precision/"><u>Solving Windows 11'S Display Driver Fail with Ease and Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-disconnected-pc-from-wireless-lan/"><u>Steps to Fix Disconnected PC From Wireless LAN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-reversion-of-files-to-read-only/"><u>Tackling Win11's Reversion of Files to Read-Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-win11-personalized-volume-shortcuts/"><u>The Essentials of Win11 Personalized Volume Shortcuts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-hauls-into-visual-stories-for-2024/"><u>Transform Your Hauls Into Visual Stories for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Upgrade: New Features in Microsoft Paint"
-date: 2024-08-08T11:05:16.964Z
-updated: 2024-08-09T11:05:16.964Z
+date: 2025-01-06T19:28:25.121Z
+updated: 2025-01-13T01:19:18.776Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ## 1\. Microsoft Paint Gets a Design Overhaul
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
 
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
@@ -33,10 +30,11 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
 
@@ -45,24 +43,27 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. A Centered Canvas for Paint
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enhanced Zoom Controls and Accessibility
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
@@ -72,15 +73,14 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Classic Paint App Is Here to Stay
 
  Microsoft’s continued support to make the classic Paint app match the Windows 11 design language means the app will continue to be a part of the Windows operating system. With the new improvements, MS Paint will remain a good option for basic editing, including quickly drafting user guides, annotating screen captures, or even converting images to different formats.
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -88,3 +88,21 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>[New] In 2024, Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-speedy-record-and-audio-assisted-session-creator/"><u>[New] Speedy Record & Audio-Assisted Session Creator</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-voice-tracker-for-ipad-users/"><u>[Updated] 2024 Approved The Ultimate Voice Tracker for iPad Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-efficient-media-navigation/"><u>[Updated] Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insiders-guide-to-going-live-on-instagram-for-2024/"><u>[Updated] The Insider's Guide to Going Live on Instagram for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk/"><u>Cyberpunk 지팬던트 - 오버제어해야 하는 드라이비 문제에 대한 해결책: 지연과 중단을 고조</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-most-effective-win-video-codecs/"><u>Demystifying the Most Effective Win Video Codecs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-different-ways-to-tailor-windows-11-search/"><u>Explore Different Ways to Tailor Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-and-attend-to-hidden-storage/"><u>How to Uncover and Attend to Hidden Storage?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-the-default-folder-cooking-a-comprehensive-guide/"><u>Methods to Reactivate the Default Folder' Cooking: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/next-gen-recording-nine-leading-webmicrone-recorders-23-for-2024/"><u>Next-Gen Recording Nine Leading Webmicrone Recorders ('23) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-wows-fatal-issue-132-in-win-1011/"><u>Strategies to Eradicate WoW's Fatal Issue #132 in Win 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-emergency-windows-boot-into-safe-mode-scenarios/"><u>Unlock the Secrets of Emergency Windows Boot Into Safe Mode Scenarios</u></a></li>
+</ul></div>
+

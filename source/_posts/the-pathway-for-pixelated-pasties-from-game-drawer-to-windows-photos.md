@@ -1,7 +1,7 @@
 ---
 title: "The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos"
-date: 2024-08-08T11:09:34.775Z
-updated: 2024-08-09T11:09:34.775Z
+date: 2025-01-09T20:22:43.431Z
+updated: 2025-01-12T23:41:37.083Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,29 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  Let's look at how to fix this issue and get your old games properly reading the My Pictures folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Some Older Games Read the "My Picture" Folder?
 
 ![screenshot of the my pictures folder highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The My Pictures folder you can find under My Documents isn't actually a real folder, as far as Windows is concerned. This My Pictures folder is basically a shortcut that points to the actual My Pictures folder, located in the Users directory.
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Give Read Access Rights for Older Games
 
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to [solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/).
 
@@ -47,14 +56,8 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  Ensure this is selected and then hit **OK** again. You can now close out all of these security windows, boot up your game, and see if this fix has worked.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should I Grant Read Access to Other User Folders?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
@@ -68,20 +71,19 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: How Do I Get Old Games to Work on Windows 11?
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Does Windows 11 Work With All Games?
 
  Windows 11 is similar to Windows 10, so most of your games compatible with Windows 10 should run just fine on your Windows 11 computer. If a game fails to work on your PC, you can use your PC's compatibility mode to make the game run in an older version of Windows.
@@ -92,11 +94,29 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  Let's look at how to fix this issue and get your old games properly reading the My Pictures folder.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-fb-content-full-screen-magic-now/"><u>[New] 2024 Approved Transform Your FB Content Full-Screen Magic Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-optimizing-tiktok-content-via-zoom-tools-for-2024/"><u>[New] Optimizing TikTok Content via Zoom Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-transition-from-srt-to-subc-with-simple-steps/"><u>2024 Approved Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-poco-c51-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco C51 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-reproduire-facilement-le-disque-de-debut-pour-windows-serveur-version-2003-2008-ou-2012-sans-refaire-linstallation/"><u>Comment Reproduire Facilement Le Disque De Début Pour Windows Serveur Version 2003, 2008 Ou 2012 Sans Refaire L'Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-local-groups-policy-a-focused-approach-for-users-in-windows-11-and-11/"><u>Directing Local Groups Policy: A Focused Approach for Users in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restore-connection-with-vanished-ubisoft-launcher/"><u>Guide to Restore Connection with Vanished Ubisoft Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-the-ultimate-start-menu-guide/"><u>Mastering Windows 11: The Ultimate Start Menu Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-empty-directory-alert-on-windows-11/"><u>Overcoming Empty Directory Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-sound-with-new-windows-audio-drivers/"><u>Streamline Your PC Sound with New Windows Audio Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-free-logo-creation-tools-for-windows-discover-the-ultimate-pick/"><u>Top 17 Free Logo Creation Tools for Windows: Discover the Ultimate Pick!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-budget-conscious-video-modification-sites-explored-and-rated/"><u>Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-youtubes-full-rotation-streaming-potential-for-2024/"><u>Unveiling YouTube’s Full-Rotation Streaming Potential for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-explained-is-it-safe-on-windows-7xp/"><u>YourPhone.exe Explained - Is It Safe on Windows 7/XP?</u></a></li>
+</ul></div>
+

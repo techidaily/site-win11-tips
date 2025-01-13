@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Overcoming Launch Failures in OBS Studio"
-date: 2024-08-08T11:06:38.468Z
-updated: 2024-08-09T11:06:38.468Z
+date: 2025-01-08T17:28:51.523Z
+updated: 2025-01-12T23:59:46.333Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run OBS Studio in Compatibility Mode
 
  OBS Studio can sometimes fail to launch because of compatibility issues. Selecting to run OBS Studio in a special compatibility mode, which applies settings from an older Windows OS, is a possible resolution a few users have confirmed to work. So, try running OBS Studio in compatibility mode like this:
@@ -30,35 +31,36 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 1. Right-click an OBS Studio desktop shortcut and select **Properties**. Or right-click the **OBS Studio.exe** (application) file inside its installation folder and select the same context menu option.
 2. Click **Compatibility** in the tab bar.
 3. Select **Run this program in compatibility** **mode** and **Windows 8** on that setting’s drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-this-program-in-compatibility-mode2.jpg)
 4. Click **Apply** to set the selected compatibility option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **OK** to close the compatibility settings.
 6. Then run OSB Studio to see if it starts.
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set a Power Saving GPU Option for OBS Studio
 
  Selecting a power-saving graphics performance for OBS Studio is a troubleshooting method that’s worked for some users. If your PC has two GPUs, this will mean setting the integrated graphics processor for OBS Studio. Follow the instructions in this [guide to choosing a preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to select the **Power-saving** graphics preference option for OBS Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/power-saving-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Roll Back a Recent Graphics Driver Update
 
  Some users have been able to fix OBS Studio not launching by rolling back recent graphics card driver updates. New graphics drivers can sometimes have bugs that cause issues. Our guide
@@ -68,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
 
  Updating a graphics driver may sound contradictory to the previous potential fix. However, OBS Studio issues often arise because of outdated graphics drivers. If you don’t have an option to roll back your graphics card’s driver, try updating it instead.
@@ -89,24 +92,16 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Disable Superfluous Background Apps and Services
 
  Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
 
  There are a few ways you can disable background apps, but the best way to do it for fixing OBS Studio is to apply a clean boot. This will disable all third-party apps and services from automatically starting with Windows. To apply this troubleshooting method, check out our [how to perform a clean boot guide](https://www.makeuseof.com/clean-boot-windows-11/). Then restart Windows after setting a clean boot and try running OBS Studio.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
 
  If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
@@ -123,16 +118,11 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
  Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Recording and Streaming With OBS Studio Again
 
  So, don’t dump OBS Studio too quickly when you can’t open it on your Windows PC. At least try applying the troubleshooting methods for fixing OBS Studio not launching above. They’ll probably kick-start OBS Studio for most users who need to fix that software not opening.
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +130,22 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-virtual-playground-the-ultimate-samsung-gear-vr-list/"><u>[New] In 2024, Virtual Playground The Ultimate Samsung Gear VR List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-clearscreen-pro-win11-live-video-recorder/"><u>[Updated] 2024 Approved ClearScreen Pro - Win11 Live Video Recorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-insert-logos-or-watermarks-into-videos-a-comprehensive-tutorial-for-pc-and-mac-users/"><u>Effortlessly Insert Logos or Watermarks Into Videos - A Comprehensive Tutorial for PC and Mac Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-internal-error-in-windows-11-remote/"><u>Mastering the Art of Fixing Internal Error in Windows 11 Remote</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ratchet-and-clank-critique-an-enduring-gem-revitalized/"><u>Ratchet & Clank Critique: An Enduring Gem Revitalized</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-itunes-operational-status-on-your-pc/"><u>Restoring iTunes Operational Status on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-xbox-games-get-your-ultimate-game-pass-for-just-3-months-and-36-exclusive-guide-zdnet/"><u>Save Big on Xbox Games: Get Your Ultimate Game Pass for Just 3 Months and $36 - Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-file-and-folder-sharing-made-easy-with-windows-yl-solutions/"><u>Step-by-Step Tutorial: File and Folder Sharing Made Easy with Windows - YL Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-10-best-online-face-creation-tools-for-fictional-characters/"><u>Updated 2024 Approved 10 Best Online Face Creation Tools for Fictional Characters</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a58-4g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A58 4G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-lsass-component-resolution-a-user-friendly-guide/"><u>Win LSass Component Resolution: A User-Friendly Guide</u></a></li>
+</ul></div>
+

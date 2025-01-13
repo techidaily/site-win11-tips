@@ -1,7 +1,7 @@
 ---
 title: Enhancing Folder Context Menus on Windows 10/11
-date: 2025-01-04T06:46:16.275Z
-updated: 2025-01-05T23:22:47.302Z
+date: 2025-01-06T00:24:35.489Z
+updated: 2025-01-12T23:39:04.557Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The value data for the Move to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window.jpg)
 5. Select**OK** to set the new value for the (Default) string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Exit the Registry Editor.
 
  You can now try out the new**Move to folder** option on the context menu. Press the**Explorer** taskbar button to view the Windows file manager. Right-click a file and select the new**Move to folder** option. You’ll need to select**Show more options** \>**Move to folder i** n Windows 11.
@@ -69,9 +65,17 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
 
@@ -79,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
@@ -99,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
@@ -115,15 +119,11 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Minimize or exit the WinBubble window.
 
@@ -150,18 +150,18 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-into-the-virtual-realm-with-updated-android-tips/"><u>[New] 2024 Approved Step Into the Virtual Realm with Updated Android Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/bold-windows-11-remove-curved-edges/"><u>Bold Windows 11: Remove Curved Edges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-non-displayed-results-in-windows-11/"><u>Clearing Up Non-Displayed Results in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-apk-setup-with-a-single-click-for-w11-users/"><u>Effortless APK Setup with a Single Click for W11 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-l3150-printer-drivers-download-and-upgrade-instructions-for-windows-111087/"><u>Epson L3150 Printer Drivers Download & Upgrade Instructions for Windows 11/10/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-scandisk-errors-for-a-smooth-run/"><u>Eradicate ScanDisk Errors for a Smooth Run</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>In 2024, Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elite-circuit-simulators-best-of-the-best/"><u>In 2024, Elite Circuit Simulators Best of the Best</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 14 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-pc-essential-free-tools-for-win11-users/"><u>Mastering Your PC: Essential Free Tools for Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-a-stuck-recycle-bin-on-microsofts-latest-os/"><u>Reviving a Stuck Recycle Bin on Microsoft's Latest OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triumph-over-windows-11-theme-lockdown-a-registry-approach/"><u>Triumph Over Windows 11 Theme Lockdown: A Registry Approach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722894983727-understanding-the-variations-between-cat5-and-cat6-network-cabling/"><u>Understanding the Variations Between Cat5 and Cat6 Network Cabling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-a-course-to-your-signature-sphere/"><u>[New] 2024 Approved Charting a Course to Your Signature Sphere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-a-deep-dive-into-youtubes-income-models/"><u>[New] In 2024, A Deep Dive Into YouTube’s Income Models</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>[New] In 2024, Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-essentials-of-starting-an-instagram-live/"><u>[New] The Essentials of Starting an Instagram Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-vlogging-nuances-with-confidence-and-clarity-for-2024/"><u>[Updated] Navigating Vlogging Nuances with Confidence and Clarity for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultra-30-camera-a-detailed-examination-by-garmin/"><u>[Updated] The Ultra 30 Camera - A Detailed Examination by Garmin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/20-tactics-for-disabling-windows-11/"><u>20 Tactics for Disabling Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tips-to-tell-if-your-pc-needs-restarting/"><u>5 Tips to Tell if Your PC Needs Restarting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-your-keystrokes-typingaid-techniques/"><u>Amplify Your Keystrokes - TypingAid Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-context-menu-functionality-in-windows-11-add-folders/"><u>Enhance Context Menu Functionality in Windows 11 - Add Folders</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pro-level-color-correction-in-final-cut-pro-for-2024/"><u>New Pro-Level Color Correction in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-rings-rhythm-versus-screen-time-symphony/"><u>The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
 </ul></div>
 

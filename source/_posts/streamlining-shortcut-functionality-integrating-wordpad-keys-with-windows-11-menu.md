@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Shortcut Functionality: Integrating Wordpad Keys with Windows 11 Menu"
-date: 2025-01-01T06:55:37.265Z
-updated: 2025-01-06T07:51:28.043Z
+date: 2025-01-12T00:38:22.457Z
+updated: 2025-01-12T16:37:10.497Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a WordPad Shortcut to Windows 11’s Context Menu
@@ -51,22 +51,18 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
 7. Click**OK** to save the value, and exit the Registry Editor.  
 ![An Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
 
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
 
@@ -84,11 +80,15 @@ You can add a basic WordPad shortcut to the context menu like this:
 8. Double-click the**(Default)** string for the new command subkey you just added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
 
@@ -104,7 +104,7 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
@@ -126,24 +126,17 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-no-cost-virtual-viewer-rendezvous/"><u>[New] 2024 Approved Top No-Cost Virtual Viewer Rendezvous</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-techniques-for-making-a-standout-slowed-motion-video-on-instas-trendy-reels/"><u>[New] Step by Step Techniques for Making a Standout Slowed-Motion Video on Insta's Trendy Reels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-direct-link-method-for-photos-and-videos/"><u>[Updated] 2024 Approved Direct Link Method for Photos & Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>[Updated] Immerse Audiences Integrating Sound Effectively in Canva Films</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginning-a-successful-item-evaluation-video-series/"><u>Beginning a Successful Item Evaluation Video Series</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bf-price-war-save-612-on-endless-win10-lifetime-life/"><u>BF Price War: Save $6.12 on Endless Win10 Lifetime Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-implementing-bluescreenview-strategies/"><u>Detailed Guide to Implementing BlueScreenView Strategies</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/detecting-and-troubleshooting-psu-issues-a-guide-by-yl-computing-uncover-the-secrets/"><u>Detecting and Troubleshooting PSU Issues: A Guide by YL Computing - Uncover the Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dismantling-barriers-to-running-powershell-scripts-in-windows/"><u>Dismantling Barriers to Running PowerShell Scripts in Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/492962-9781439123850-leaving-the-body/"><u>Leaving the Body | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stops-repeated-edge-icons-on-workspace/"><u>Stops Repeated Edge Icons on Workspace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-scheduling-in-windows-11-calendar/"><u>Streamlining Scheduling in Windows 11 Calendar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-power-and-potential-of-ai-how-its-changing-our-world/"><u>The Power and Potential of AI: How It's Changing Our World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-unidentified-razer-peripherals-on-win-11/"><u>Troubleshooting Synapse: Unidentified Razer Peripherals on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vscode-instability-in-windows-11/"><u>Troubleshooting VSCode Instability in Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-ringtone-deals-from-gots-best-online-sources/"><u>2024 Approved Exclusive Ringtone Deals From GoT's Best Online Sources</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>2024 Approved From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-unveils-easier-iphone-16-repairs-whats-new-and-why-it-matters-for-tech-enthusiasts/"><u>Apple Unveils Easier iPhone 16 Repairs - What's New & Why It Matters for Tech Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-one-way-outlook-on-secure-windows-operating-system/"><u>Dealing with One-Way Outlook on Secure Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-unparalleled-windows-software-selection/"><u>Dive Into Unparalleled Windows Software Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-depths-of-0x0000003b-bsod-error-in-windows-pcs/"><u>Exploring the Depths of 0X0000003B BSOD Error in Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-wingetui-for-w11-package-management/"><u>Harnessing the Potential of WingetUI for W11 Package Management</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013040591-is-doom-eternal-stuck-in-limbo-weve-got-the-hack-for-you/"><u>Is DOOM Eternal Stuck In Limbo? We've Got The Hack For You</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionized-a-seamless-social-media-feed-customization/"><u>Revolutionized: A Seamless Social Media Feed Customization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphones-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top Rated iPhones : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2025-01-02T03:38:16.676Z
-updated: 2025-01-05T21:56:18.559Z
+date: 2025-01-12T01:40:42.861Z
+updated: 2025-01-12T23:40:04.066Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  Then try running the Windows Update Troubleshooter to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clear the DNS Cache
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -72,8 +64,16 @@ To fix this, you can try restarting Cryptographic Services.
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
@@ -103,18 +103,14 @@ To fix this, you can try restarting Cryptographic Services.
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
- After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -130,6 +126,11 @@ To edit and enable the Scripted Diagnostics policy:
 2. Type**gpedit.msc** in the navigation bar and click**Enter** .  
 ![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
@@ -163,20 +164,24 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturewin-the-hassle-free-screen-recorder/"><u>[New] CaptureWin The Hassle-Free Screen Recorder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-recording-private-whatsapp-calls/"><u>[Updated] In 2024, Mastering the Art of Recording Private WhatsApp Calls</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-cultivating-effective-sponsorship-agreements-in-youtubers-realm/"><u>2024 Approved Cultivating Effective Sponsorship Agreements in YouTubers' Realm</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-cameras-reviewed-best-of-2024/"><u>Affordable Cameras Reviewed: Best of 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-resolving-hdcp-error-messages-a-step-by-step-guide/"><u>Expert Advice on Resolving HDCP Error Messages – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-canon-printer-mg2amoins-20-drivers-on-your-pc-a-comprehensive-guide/"><u>How to Get the Newest Canon Printer MG2amoins 20 Drivers on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-to-text-in-real-time-with-whisper-desktop/"><u>How to Turn Your Voice to Text in Real Time With Whisper Desktop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lighten-the-digital-landscape-kapwings-meme-builder/"><u>Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-display-embrace-tiled-workspace/"><u>Streamline Your Display: Embrace Tiled Workspace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-tier-entertainment-on-demand-a-comprehensive-review-of-lgs-oled-c9-tv/"><u>Top-Tier Entertainment on Demand: A Comprehensive Review of LG's OLED C9 TV</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ut-to-the-chase-8-simple-youtube-thumbnail-builders/"><u>[New] Cut-to-the-Chase 8 Simple YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fixing-freeze-problems-in-fb-livestreams-for-2024/"><u>[New] Fixing Freeze Problems in FB Livestreams for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-casino-confidential-communiques/"><u>[New] In 2024, CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028132376-vimeo/"><u>動画編集機能が無効になっている場合、どうすればよいですか？ - Vimeoの解決策</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-to-managing-windows-key/"><u>A Comprehensible Guide to Managing Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-for-switching-from-pin-to-passwords-in-windows-11-user-interface/"><u>A Guide for Switching From PIN to Passwords in Windows 11 User Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guidetosettingupdarkinterfaceonwinnotepad/"><u>A GuideToSettingUpDarkInterfaceOnWinNotepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-advanced-settings-for-windows-11s-bar/"><u>Achieve Advanced Settings for Windows 11'S Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-digital-imagery-to-your-desktop/"><u>Adding Digital Imagery to Your Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-absence-of-msvcr110dll-a-guide/"><u>Addressing the Absence of msvcr110.dll: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-password-policy-updating-lockout-value-after-failed-attempts/"><u>Altering Password Policy: Updating Lockout Value After Failed Attempts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cross-platform-comedy-best-meme-contenders-for-2024/"><u>Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719380036891-dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-11-pro-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 11 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-se-2022-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone SE (2022) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719203477260-how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-edge-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Edge 2023 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/marvel-at-pimax-crystals-vr-clarity-and-its-quirks/"><u>Marvel at Pimax Crystal's VR Clarity & Its Quirks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smart-compactness-in-sandisks-clip-jam-player/"><u>Smart Compactness in SanDisk's Clip Jam Player</u></a></li>
 </ul></div>
 

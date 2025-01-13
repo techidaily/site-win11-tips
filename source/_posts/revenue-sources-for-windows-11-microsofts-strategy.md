@@ -1,7 +1,7 @@
 ---
 title: "Revenue Sources for Windows 11: Microsoft's Strategy"
-date: 2024-08-08T11:07:57.264Z
-updated: 2024-08-09T11:07:57.264Z
+date: 2025-01-10T23:03:58.664Z
+updated: 2025-01-12T19:05:47.674Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Microsoft Earns Money by Selling Windows 11 Licenses
 
 ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
@@ -51,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
 ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
@@ -65,14 +68,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
@@ -87,8 +89,9 @@ The powerful video editing program for your Windows PC</a>
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
@@ -103,16 +106,11 @@ The powerful video editing program for your Windows PC</a>
 
  Since Bing is well integrated into Windows 11, it is easier for Microsoft to get more people to use their search in some way or the other. The more Bing can increase its user base, the more revenue it will earn by displaying sponsored content on its page. Overall, search remains an important focus area for Microsoft to make money in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft's Revenue Sources Are Diverse in Windows 11
 
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +118,25 @@ The powerful video editing program for your Windows PC</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[New] In 2024, Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remium-sound-picks-for-content-creators-for-2024/"><u>[New] Premium Sound Picks for Content Creators for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-artisans-guide-to-unique-photographic-assemblages/"><u>[New] The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>[New] The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-by-step-setting-up-your-first-xbox-record-session/"><u>[Updated] In 2024, Step-by-Step Setting Up Your First Xbox Record Session</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/analyzing-the-core-disparities-between-metaverse-and-multiplemetaverse-for-2024/"><u>Analyzing the Core Disparities Between Metaverse and MultipleMetaverse for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-modern-interface-in-retro-machines-guide-to-windows-11-to-go-and-rufus/"><u>Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unrealcefsubprocess-high-cpu-and-ram-usage-on-windows/"><u>How to Fix the UnrealCEFSubprocess High CPU and RAM Usage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-registry-editor-access-control-in-win11/"><u>Mastering Registry Editor Access Control in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hyper-v-setup-process-for-windows-11-home-edition/"><u>Navigating the Hyper-V Setup Process for Windows 11 Home Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x800704cf-error-in-win11-marketplace/"><u>Overcoming 0X800704CF Error in Win11 Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-hidden-implications-of-apples-recent-stance-on-video-game-emulation/"><u>The Hidden Implications of Apple's Recent Stance on Video Game Emulation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-running-sfc-on-windows/"><u>Understanding and Running SFC on Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-mod-video-editors-top-5/"><u>Updated In 2024, The Ultimate Guide to Free MOD Video Editors Top 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-windows-11-defense-enhanced-filter-options-via-context-menu/"><u>Upgrade Your Windows 11 Defense: Enhanced Filter Options via Context Menu</u></a></li>
+</ul></div>
+

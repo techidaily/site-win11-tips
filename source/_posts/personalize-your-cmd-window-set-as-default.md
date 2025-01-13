@@ -1,7 +1,7 @@
 ---
 title: "Personalize Your CMD Window: Set as Default"
-date: 2024-08-08T11:05:36.502Z
-updated: 2024-08-09T11:05:36.502Z
+date: 2025-01-11T20:18:28.001Z
+updated: 2025-01-12T21:01:27.938Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Change the Default Terminal App via Windows Terminal's Settings
 
  The most straightforward way to change the default command-line interface on your Windows computer is by using Windows Terminal's settings menu. Here are the steps you can follow.
@@ -33,18 +34,12 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 4. Use the drop-down menu next to **Default terminal application** to select your chosen terminal from the list.
 5. Optionally, you can set the **Default profile** that opens when you launch the Terminal app.
 6. Click the **Save** button at the bottom.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Windows Terminal as the Default App via Terminal Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-terminal-settings.jpg)
 
  If you want to undo the above changes later, simply repeat the above steps and select **Windows console host** or **Let Windows decide** in the **Default terminal application** drop-down menu.
 
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
 
  Another way to change the default terminal app on your Windows 10 or 11 PC is via the Windows Console Host properties. Here are the steps for the same.
@@ -55,14 +50,16 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 4. In the **“Command Prompt” Properties** or **“Windows PowerShell” Properties** window that appears, switch to the **Terminal** tab.
 5. Click the drop-down menu under **Default Terminal Application** to select your favorite terminal app, or **Let Windows decide** to revert the option to its default.
 6. Click the **OK** button to save your changes.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Change the Default Terminal App From Windows Settings
 
  The Settings app makes it easy to set or [change the default apps on your Windows computer](https://www.makeuseof.com/change-windows-11-default-apps/). Here’s how you can use it to set your chosen terminal as the default app for Command Prompt and PowerShell.
@@ -71,12 +68,17 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 2. Select the **Privacy & security** tab from the left pane.
 3. Under the **Security** section, click the **For developers** option.
 4. Use the drop-down menu next to **Terminal** to select your chosen terminal app, or choose **Let Windows decide** to undo any changes you've made previously.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
 
@@ -86,11 +88,28 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-scholarly-streams-10-best-ed-tutorials-yt/"><u>[New] In 2024, Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-edible-expeditions-popular-foods-from-every-country/"><u>[Updated] In 2024, Edible Expeditions Popular Foods From Every Country</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-efficiency-5-best-apps-to-create-animated-clock-screen-savers-on-pcs/"><u>Accelerate Efficiency: 5 Best Apps to Create Animated Clock Screen Savers on PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/canon-cameras-vividness-with-free-and-paid-lut-sets/"><u>Canon Cameras' Vividness with Free & Paid LUT Sets</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-h2n-codec-to-mp4-a-guide-through-5-different-strategies/"><u>Converting H.2n Codec to MP4: A Guide Through 5 Different Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-rectifying-obs-studio-server-connectivity-hiccups/"><u>Essential Tips for Rectifying OBS Studio Server Connectivity Hiccups</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-beyond-fbx-cutting-edge-options-for-game-recorders/"><u>In 2024, Beyond FBX Cutting-Edge Options for Game Recorders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-fix-it-steps-to-eradicate-win10-blue-screen/"><u>Proven Fix-It Steps to Eradicate Win10 Blue Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simplifying-cross-platform-video-sharing-between-twitter-and-snapchat-for-2024/"><u>Simplifying Cross-Platform Video Sharing Between Twitter & Snapchat for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-differences-between-apples-ipad-pro-m4-and-macbook-air-m3-a-side-by-side-review/"><u>Unveiling Differences Between Apple's IPad Pro M4 and MacBook Air M3: A Side-by-Side Review</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s24plus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S24+ Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

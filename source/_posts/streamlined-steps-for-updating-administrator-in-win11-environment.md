@@ -1,7 +1,7 @@
 ---
 title: Streamlined Steps for Updating Administrator in Win11 Environment
-date: 2024-08-08T11:08:52.620Z
-updated: 2024-08-09T11:08:52.620Z
+date: 2025-01-09T16:48:39.787Z
+updated: 2025-01-13T01:12:03.766Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  But if you ever decide to alter this username, there are different options available for doing so. This tutorial will show you how to change the Microsoft account administrator name in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Change the Administrator Name Through System Settings
 
  The Settings app is a built-in application on Windows that allows you to customize and manage settings on your computer. To change the Microsoft account administrator name in Windows 11,[open the System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and follow these steps:
@@ -30,25 +27,25 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 1. Go to the**Accounts** section.
 2. Move to the right pane and click**Your info** .
 3. Under**Related settings** , click**Manage my accounts** . This will take you to the "Manage accounts" page.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manage My Accounts in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-my-accounts-in-the-settings-app.jpg)
 4. Sign in with the Microsoft account you need to change the name of.
 5. After signing in, click**Your info** option from the top section.
 6. Under your Profile photo, you'll see your name. Click the**Edit name** option and enter your new name.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Modify Microsoft Account Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-microsoft-account-name.jpg)
 7. To ensure that you are a real person and not an automated program, type the characters in the Captcha field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the**Save** changes button, and you're all set.
 
  Your Microsoft account administrator name has been successfully changed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Change the Administrator Name Through Control Panel
 
  The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
@@ -64,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
  If you prefer using the Command Prompt instead of the Settings app or Control Panel, you can also change your Microsoft account administrator name through it. This is a command line interpreter tool that allows you to control your Windows computer system with instructions.
@@ -83,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Change the Administrator Name Through Run Command
 
  Another tool you can use to change the Microsoft account administrator name is the Run dialog command. Here's how to do it:
@@ -90,27 +88,30 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 1. Right-click on Start and select**Run** from the menu list.
 2. In the Run dialog box, type**netplwiz** and press Enter. This will open the User Accounts window.
 3. Select the Microsoft account you want to change and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
 4. Under the**General** tab, enter the new name in the**Full Name** field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** to save the changes.
 
 Your Microsoft account administrator name is now changed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make a Change to Your Windows Admin Name
 
  Need to change the name of your Microsoft Account administrator? All you have to do is follow the instructions outlined in this article and your Microsoft account administrator name will be changed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +120,21 @@ Your Microsoft account administrator name is now changed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/adjusting-chrome-clock-error-ahead-or-behind-windows-edition/"><u>Adjusting Chrome Clock Error: Ahead or Behind? (Windows Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-prose-with-these-5-pc-apps/"><u>Boost Your Prose with These 5 PC Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-magic-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor Magic 5 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-when-it-wont-start-on-your-pc-solutions-proven-effective/"><u>How to Fix 'Days Gone' When It Won't Start on Your PC: Solutions Proven Effective</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Bootloader Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-legacy-support-a-comprehensive-guide-to-using-compatibility-mode-with-windows-10/"><u>Mastering Legacy Support: A Comprehensive Guide to Using Compatibility Mode with Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18 Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/shadowy-snapshots-skills-for-stunning-night-images-for-2024/"><u>Shadowy Snapshots Skills for Stunning Night Images for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-of-win11s-disconnected-5g-wi-fi/"><u>Tackling the Mystery of Win11's Disconnected 5G Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-ipad-and-non-samsung-alternative-uncovering-one-of-the-most-entertaining-tablet-options-on-zdnet/"><u>Top Non-iPad and Non-Samsung Alternative: Uncovering One of The Most Entertaining Tablet Options on ZDNet</u></a></li>
+</ul></div>
 

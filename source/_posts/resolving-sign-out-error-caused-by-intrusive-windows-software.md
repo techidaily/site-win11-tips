@@ -1,7 +1,7 @@
 ---
 title: Resolving Sign Out Error Caused by Intrusive Windows Software
-date: 2024-08-08T11:07:16.986Z
-updated: 2024-08-09T11:07:16.986Z
+date: 2025-01-09T18:17:01.378Z
+updated: 2025-01-12T21:13:03.967Z
 tags:
   - windows10
   - windows11
@@ -27,11 +27,16 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
  Other reasons you may be seeing the “app is preventing Windows shutdown” error include corrupt Windows files or a Windows update still in the process of being downloaded. Some Windows settings can also cause this error to occur.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do When an App Is Preventing Windows From Shutting Down, Restarting, or Signing Out
 
  As we said above, there is no "one size fits all" solution, nor is there a way to explicitly tell what's keeping your PC from shutting down cleanly. As such, try each of the following methods until one of them works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Run the System File Checker
 
@@ -39,34 +44,20 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, it’s advised that you run the DISM tool first. This tool uses Windows Update to make sure that your system files are all in order, so it's a good idea to do a DISM to ensure the SFC scan goes off without a hitch. You can read about both of these tools in our guide on[the difference between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Disable Fast Startup
 
  Even though it has its advantages, there are many[reasons to disable Windows Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) . One of these is that it can interfere with how Windows shuts down. With Fast Startup enabled, your computer goes into a state of hibernation, and not a full shutdown, when you turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off fast boot by clicking on change unavailable settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/change-unavailable-settings.png)
 
  Settings are saved and start-up times are reduced, but as reported on[Windows Learn](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup) , it is known to affect Windows updates. So,[turn off Fast Startup on Windows](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and check whether this solves the problem.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Tweak Your Sign-In Options
 
  With Windows 10, Microsoft included an option to make your life easier when updating to newer builds and versions. This uses your sign-in information to finish setting up your PC after an update. But this can cause problems with shutting down your computer. Follow these steps to change your sign-in options.
@@ -87,11 +78,12 @@ Here’s how you can run the power troubleshooter on Windows:
 1. Access**Settings** via the Start menu.
 2. Click on**Update & Security** and navigate to**Troubleshoot** on the left pane.
 3. Scroll down to the**Power** section and click on it to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Run the Windows power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/02-windows-power-troubleshooter.jpg)
 4. Click on**Run the troubleshooter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The system will scan for errors and let you know if there’s something that might need fixing.
 
@@ -104,21 +96,18 @@ Here’s how you can run the power troubleshooter on Windows:
  If the problem persists, the[task host may be preventing Windows from shutting down](https://www.makeuseof.com/windows-task-host-preventing-shutdown/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Clean Up Your Shutdown Procedure on Windows
 
  It isn’t always easy to pinpoint the error that prevents Windows from shutting down or logging off. Resetting things to the way they were before the error started showing up may help solve the problem. Mostly, however, it is likely just third-party apps causing the trouble.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +116,24 @@ Here’s how you can run the power troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-advanced-techniques-for-professional-mac-burned-discs/"><u>[New] 2024 Approved Advanced Techniques for Professional Mac-Burned Discs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-video-editing-in-apple-m1-macbook-air/"><u>[New] 2024 Approved Video Editing in Apple M1 MacBook Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-key-steps-to-restore-mail-alert-functionality-in-windows/"><u>9 Key Steps to Restore Mail Alert Functionality in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevated-operations-consistent-admin-mode-for-terminal/"><u>Elevated Operations: Consistent Admin Mode for Terminal</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-google-pixel-4a-does-it-meet-your-needs/"><u>Evaluating the Google Pixel 4A: Does It Meet Your Needs?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-mending-error-code-0x8007251d-a-guide/"><u>Explaining and Mending Error Code 0X8007251d: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-multiple-display-devices-in-windows-11/"><u>How to Configure Multiple Display Devices in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-malware-scanners-cpuram-demands/"><u>How to Minimize Malware Scanner's CPU/RAM Demands</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-x-flip-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo X Flip PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>In 2024, Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-high-res-screens-for-playstation-5/"><u>In 2024, Top 5 High-Res Screens for PlayStation 5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-lunar-applications-pc-malfunction-steps-for-a-smooth-run/"><u>Overcoming Lunar Application's PC Malfunction: Steps for a Smooth Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-your-chatgpt-experience-windows-guide/"><u>Start Your ChatGPT Experience: Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-minecraft-glitches-with-these-fixes/"><u>Stop Minecraft Glitches with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
+</ul></div>
 

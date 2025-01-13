@@ -1,7 +1,7 @@
 ---
 title: "Decoding Drive Selection: Your Key to Effortless Gaming"
-date: 2024-12-31T07:12:56.086Z
-updated: 2025-01-06T08:43:59.245Z
+date: 2025-01-06T20:41:24.102Z
+updated: 2025-01-13T02:20:30.516Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You might fail to change the installation drive in the Xbox app due to a temporary system glitch or bug. Luckily, you can quickly eliminate such bugs and glitches by restarting your computer.
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Installation Directory in the Xbox App Settings
 
@@ -59,20 +59,20 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![Where new content is saved option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/where-new-content-is-saved.png)
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
  That's it! Restart your computer and check if the problem continues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restart Important Xbox Services
 
 ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 Xbox Live Game Save  
 Xbox Live Auth Manager  
 Xbox Live Networking Service`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
 
@@ -106,6 +102,10 @@ Xbox Live Networking Service`
 ![Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-option.jpg)
 4. Click**Yes** to confirm your selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
  Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
@@ -114,6 +114,10 @@ Xbox Live Networking Service`
 
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
 
 ## 6\. Repair the Xbox App
@@ -121,10 +125,6 @@ Xbox Live Networking Service`
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
  Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -160,18 +160,21 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/-comprehensive-guide-to-use-youtube-movie-maker/"><u>[New] A Comprehensive Guide to Use YouTube Movie Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-android-video-capture/"><u>[New] In 2024, Innovative Approaches to Android Video Capture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-playlist-reordering-simplified/"><u>[Updated] YouTube Playlist Reordering Simplified</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-obs-studio-not-starting-up/"><u>Fixing Windows: OBS Studio Not Starting Up</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-realme-v30t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme V30T in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>In 2024, Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-phonelink-a-pose-should-you-turn-off-yourphoneexe/"><u>Is PhoneLink a Pose: Should You Turn Off YourPhoneExe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fn-key-onoff-guide-for-windows-users/"><u>Mastering Fn Key: On/Off Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-pc-name-not-valid-issue-on-windows/"><u>Overcoming the PC Name Not Valid Issue on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/resolving-windows-bluetooth-driver-issues-a-step-by-step-guide/"><u>Resolving Windows Bluetooth Driver Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionizing-windows-with-meaningful-upgrades/"><u>Revolutionizing Windows with Meaningful Upgrades</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-and-windows-11-overcoming-high-cpu-usage-problems-easily/"><u>svchost.exe and Windows 11: Overcoming High CPU Usage Problems Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-savvy-strategies-testing-audiovisual-gear-before-meetings/"><u>Tech-Savvy Strategies: Testing Audio/Visual Gear Before Meetings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-essential-cheatsheet-for-beautiful-collage-creations/"><u>[New] Beginner's Essential Cheatsheet for Beautiful Collage Creations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-documenting-the-fun-video-your-nintendo-switch-games/"><u>[Updated] Documenting the Fun Video Your Nintendo Switch Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-immersion-therapy-for-patients/"><u>[Updated] In 2024, Digital Immersion Therapy for Patients</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-command-line-capers-for-the-tech-whimsical/"><u>5 Command Line Capers for the Tech Whimsical</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-dangers-of-purchasing-low-cost-windows-licenses/"><u>6 Dangers of Purchasing Low-Cost Windows Licenses</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-hypervisorerr-blues-in-win-10-and-11/"><u>Beating HYPERVISOR_ERR Blues in Win 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-speech-converter-transcribe-talk-with-whisper-in-windows/"><u>Become a Speech Converter: Transcribe Talk with Whisper in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-be-lifesaving-in-wild-outdoor-adventures/"><u>Can AI Like ChatGPT Be Lifesaving in Wild Outdoor Adventures?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/code-initiation-denied/"><u>Code Initiation Denied</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-play-40c-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Play 40C IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-2024-with-ease-our-choice-for-best-notetaking-applications/"><u>Navigate 2024 with Ease: Our Choice for Best Notetaking Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-perils-in-conversing-with-ai-chatgpt/"><u>The Hidden Perils in Conversing with AI: ChatGPT</u></a></li>
 </ul></div>
 

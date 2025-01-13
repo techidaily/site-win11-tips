@@ -1,7 +1,7 @@
 ---
 title: "Intuitive Exploration: The Minimalist Approach to Windows Explorer"
-date: 2024-08-08T11:06:59.207Z
-updated: 2024-08-09T11:06:59.207Z
+date: 2025-01-09T19:05:23.371Z
+updated: 2025-01-12T20:34:32.573Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,14 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
 1. [Open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and click the **View** option in the top bar.
 2. Choose the **Compact view** option to enable it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
  If the compact view option is missing in the command bar, you can use Folder options to get the work done. There are [multiple ways to open the Folder option](https://www.makeuseof.com/windows-10-open-folder-options/), but the quickest is to use the Run dialog box.
@@ -48,32 +46,29 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  and click **OK** to launch the Folder option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -88,22 +83,20 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change the File Explorer Look Anytime
 
  The new revamped File Explorer is good, but many users still prefer the old layout with less padding. If you want to remove extra spacing between items in File Explorer, you can enable the compact view option using either of the above methods.
 
  Meanwhile, you might be interested in adding Google Drive to File Explorer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +105,22 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-5-prized-mac-compatible-live-streamers/"><u>[Updated] 2024 Approved 5 Prized Mac-Compatible Live Streamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-cc-options-for-video-production/"><u>[Updated] Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts-for-2024/"><u>Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-reference-to-non-existent-token-errors-in-win11/"><u>Correcting “Reference to Non-Existent Token” Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-1011s-trouble-solving-capabilities/"><u>Enhancing Windows 10/11'S Trouble-Solving Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-realme-narzo-60x-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Realme Narzo 60x 5G.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-exclusive-catalogue-free-to-use-stock-media-sites/"><u>In 2024, Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-multimedia-craftsmanship-with-xp-movie-maker/"><u>In 2024, Explore Multimedia Craftsmanship with XP Movie Maker</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-slideshow-feature/"><u>In 2024, Instagram Slideshow Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-application-could-not-load-qt-plugin-error/"><u>Rectifying the 'Application Could Not Load Qt Plugin' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-productivity-essential-windows-based-tools-listed/"><u>Revolutionize Productivity: Essential Windows-Based Tools Listed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-free-online-video-editing-tools/"><u>The Ultimate List of Free Online Video Editing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-changes-essential-windows-programs-for-editing-file-dates/"><u>Timely Changes: Essential Windows Programs for Editing File Dates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-essential-fixes-mastering-stability-in-biomutant-pc-edition/"><u>Top 5 Essential Fixes: Mastering Stability in Biomutant [PC Edition]</u></a></li>
+</ul></div>
 

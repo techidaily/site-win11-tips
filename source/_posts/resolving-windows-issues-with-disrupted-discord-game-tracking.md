@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Issues with Disrupted Discord Game Tracking
-date: 2025-01-01T10:07:32.358Z
-updated: 2025-01-05T19:21:31.416Z
+date: 2025-01-05T22:14:30.361Z
+updated: 2025-01-12T17:28:49.534Z
 tags:
   - windows10
   - windows11
@@ -45,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ensure That Discord's Activity Status Feature Is Enabled
 
@@ -63,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Switching the Toggle for Display Current Activity as a Status Message Setting to the Right by Clicking on Activity Privacy under Activity Settings in Discord User Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Switching-the-Toggle-for-Display-Current-Activity-as-a-Status-Message-Setting-to-the-Right-by-Clicking-on-Activity-Privacy-under-Activity-Settings-in-Discord-User-Settings-1.jpg)
 5. Let the changes take effect by relaunching Discord.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Rule Out Game Specific Issues
 
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on the Properties Option by Right-clicking on the Game’s Executable File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clicking-on-the-Properties-Option-by-Right-clicking-on-the-Game’s-Executable-File-on-Windows-1.jpg)
 3. Go to the **Digital Signatures** tab in the **Properties** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the signer's name and click on **Details**.
 5. Click **View Certificate**.
 
@@ -88,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
  Discord can't detect game mods, just like it won't detect pirated games. Likewise, if you are using any cheat software to get an advantage in the game, Discord may not detect it due to its real-time file tempering. Considering that, do not modify the game or enable cheat software, and it will help Discord detect your game better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update Discord
@@ -99,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Checking the Discord Version in Discord’s User Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Checking-the-Discord-Version-in-Discord’s-User-Settings-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If they match, your Discord app is updated. If not, you can update the app by following these steps:
 
 1. At the right end of the taskbar, open the **System Tray**.
@@ -107,11 +115,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 3. Relaunch Discord, and hopefully, the updates will be automatically installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 5. In the box, paste the path to the game's executable file.  
 ![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
 6. Select the game from the search results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
 
@@ -164,22 +164,18 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-intel-wi-fi-6ax201-not-connecting/"><u>[FIXED] Intel Wi-Fi 6Ax201 Not Connecting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[Updated] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac-for-2024/"><u>[Updated] Proven Practice for Preserving Playthroughs Tips & Tricks for Recording Roblox Gameplay on a Mac for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-beginners-guide-to-earning-on-reddit-top-13-simple-money-making-ideas/"><u>[Updated] The Beginner's Guide to Earning on Reddit Top 13 Simple Money-Making Ideas</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-poco-c55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-for-usb-devices-that-wont-recognize-device-descriptions/"><u>Comprehensive Solution Guide for USB Devices That Won’t Recognize Device Descriptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unloading-drivers-on-windows-11-system/"><u>Fixing Unloading Drivers on Windows 11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-the-d-drive-to-file-explorers-navigation-pane/"><u>How to Add the D: Drive to File Explorer's Navigation Pane</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-adjust-your-photovideo-with-3dlut-mobile/"><u>How to Adjust Your Photo/Video with 3DLUT Mobile</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/joining-the-global-game-how-to-zoom-on-xbox-one/"><u>Joining the Global Game How to Zoom on Xbox One</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-drawing-made-easy-top-7-drawing-apps-reviewed/"><u>Masterful Drawing Made Easy: Top 7 Drawing Apps Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-grades-essential-8-windows-based-study-tips/"><u>Skyrocket Your Grades: Essential 8 Windows-Based Study Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-java-vm-initialization-fixes-on-windows/"><u>Strategies for Java VM Initialization Fixes on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-achieve-crisp-backdrops-on-w11s-photos-interface/"><u>The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-virtualbox-and-efail-error-0x80004005/"><u>Troubleshooting Windows Virtualbox and E_FAIL (Error: 0X80004005)</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-for-driver-failed-on-win1011-systems/"><u>Unveiling Solutions for Driver Failed on Win10/11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximize-your-impact-top-10-insta-tools-for-post-management/"><u>[New] Maximize Your Impact Top 10 Insta Tools for Post Management</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clearing-up-audio-in-skype-conferences/"><u>[Updated] Clearing Up Audio in Skype Conferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-essential-solutions-for-troubleshooting-missing-wireless-connections-in-windows-10/"><u>10 Essential Solutions for Troubleshooting Missing Wireless Connections in Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-windows-files-reviewed-in-a-flash/"><u>2024 Approved Windows Files Reviewed in a Flash</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-beginner-friendly-introduction-to-io-screen-recorder-for-2024/"><u>A Beginner-Friendly Introduction to IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-empty-directory-alert-in-windows-11/"><u>Addressing Empty Directory Alert in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-default-screen-saver-in-windows-11/"><u>Adjusting Default Screen Saver in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battle-bugs-tackling-skyrims-extension-failure/"><u>Battle Bugs: Tackling Skyrim's Extension Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/black-friday-special-612-unlimited-win10-life/"><u>Black Friday Special: $6.12, Unlimited Win10 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-start-menu-efficiency-in-the-world-of-windows-11/"><u>Boost Your Start Menu Efficiency in the World of Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s 3 Ways To Unlock</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>In 2024, Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-deal-with-restricted-codecs/"><u>Methods to Deal with Restricted Codecs</u></a></li>
 </ul></div>
 

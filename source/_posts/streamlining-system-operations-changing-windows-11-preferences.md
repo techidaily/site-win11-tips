@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2025-01-05T06:14:08.144Z
-updated: 2025-01-05T17:27:55.236Z
+date: 2025-01-08T18:44:49.180Z
+updated: 2025-01-12T21:16:55.843Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Device Usage Options on Windows?
 
  Device Usage Options allow you to customize your Windows experience by setting preferences for how ads are displayed. Microsoft also provides tips & suggestions and personalizes recommendations for you. Depending on your choice, Windows presents you with different types of information and services.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  Now that you know what Device Usage Options are, here's how to change them in Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using Windows Settings
 
  Changing Device Usage Options on Windows is easy. There are two ways to do it - using System Settings or through a reg file. First, let's look at how to change Device Usage Options using Windows Settings.
@@ -52,19 +52,15 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 ![Change Device Usage on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-device-usage-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the next page, look for your preferred Device Usage option and toggle it on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Using a REG File
 
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
 
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creativity Device Usage Options
 
  For Creativity:
@@ -121,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
   
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### School Device Usage Options
 
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Business Device Usage Options
 
  And finally, for the Business side of things:
@@ -168,7 +168,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  Once you have created the reg file for the Device Usage Option, double-click to apply. Now when you open System **Settings** \> **Personalisation** \> **Device Usage**, you should see the option turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Configure Your Device’s Usage Options in a Flash
@@ -187,20 +187,21 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-comprehensive-look-at-youtube-shorts-template-design-for-2024/"><u>[New] A Comprehensive Look at YouTube Shorts Template Design for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audience-expansion-strategies-that-honor-youtube-standards/"><u>[Updated] 2024 Approved Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-increase-your-content-reach-top-7-tools-for-tiktok-excellence/"><u>[Updated] Increase Your Content Reach Top 7 Tools for TikTok Excellence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/compatibility-issues-lead-to-ftdi-bus-system-disabling-memory-integrity/"><u>Compatibility Issues Lead to FTDI Bus System Disabling Memory Integrity</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-variability-between-offline-and-online-windows-installation-processes/"><u>Delving Into Variability Between Offline and Online Windows Installation Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-error-0x80072efd-a-complete-guide-for-windows-10-users/"><u>Expert Advice on Correcting Error 0X80072EFD - A Complete Guide for Windows 10 Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-assets-galore-top-public-domain-download-sites/"><u>Free Video Assets Galore Top Public Domain Download Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-navigate-through-windows-admin-restrictions-errors/"><u>How to Navigate Through Windows' Admin Restrictions Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-file-handling-toggle-the-checkbox-on-win11-files/"><u>Masterful File Handling: Toggle the Checkbox on Win11 Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-profile-video-lure-for-2024/"><u>Mastering the Art of Profile Video Lure for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-spotifys-auto-play-at-windows-launch/"><u>Preventing Spotify's Auto-Play at Windows Launch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-show-more-pins-on-w11-startscreen/"><u>Strategies to Show More Pins on W11 Startscreen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-files-from-email-view-blockage-in-windows-mail/"><u>Unblocking Files From Email View Blockage in Windows Mail</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unique-book-trail-showcases/"><u>Unique Book Trail Showcases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-spiritual-command-center-of-windows-11/"><u>Unveiling The Spiritual Command Center of Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>[Updated] Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-command-routes-for-fast-diagnostic-center-entry/"><u>10 Command Routes for Fast Diagnostic Center Entry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-full-unpacked-experience-of-the-logitech-4k-webcam/"><u>2024 Approved The Full Unpacked Experience of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-analysis-whatsapps-vocal-communication-for-2024/"><u>A Comprehensive Analysis WhatsApp’s Vocal Communication for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-beginners-guide-to-using-windows-canary/"><u>A Step-by-Step Beginner’s Guide to Using Windows' Canary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-boot-up-with-these-3-ways-in-windows-11/"><u>Accelerate Your PC's Boot-Up with These 3 Ways in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessibility-enhanced-with-shortcuts-for-microsoft-store-uwp/"><u>Accessibility Enhanced with Shortcuts for Microsoft Store UWP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjustments-for-a-seamless-integration-of-wsl-in-win-11/"><u>Adjustments for a Seamless Integration of WSL in Win 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/all-about-lightroom-a-comprehensive-android-study/"><u>All About Lightroom A Comprehensive Android Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-lightweight-jump-starters-2024/"><u>Leading Lightweight Jump Starters 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-the-capabilities-of-cookiebot-to-optimize-your-online-presence/"><u>Leveraging the Capabilities of Cookiebot to Optimize Your Online Presence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximizing-gaming-efficiency-via-working-freesync/"><u>Maximizing Gaming Efficiency via Working FreeSync</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-guide-exploring-master-recorders-features/"><u>Ultimate Guide Exploring Master Recorder's Features</u></a></li>
 </ul></div>
 

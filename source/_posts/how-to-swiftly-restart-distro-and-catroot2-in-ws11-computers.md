@@ -1,7 +1,7 @@
 ---
 title: How to Swiftly Restart Distro & Catroot2 in WS11 Computers
-date: 2024-12-18T17:47:47.616Z
-updated: 2024-12-22T08:52:35.837Z
+date: 2025-01-09T23:06:08.825Z
+updated: 2025-01-12T19:21:06.892Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
@@ -59,10 +55,20 @@ net stop msiserver`
 8. Right-click and select **Delete** (the trash can button) to eradicate selected content.  
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net start bits  
 
 net start wuauserv  
@@ -81,24 +87,16 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
@@ -115,6 +113,11 @@ net start msiserver`
 5. Extract the FixWin archive by going through the steps in this article about [unzipping ZIP files on Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).  
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
@@ -122,7 +125,7 @@ net start msiserver`
 10. Click the **Reset catroo2 Folder** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
@@ -133,25 +136,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-compilation-of-top-5-mkv-apps-for-mac/"><u>[New] 2024 Approved Compilation of Top 5 MKV Apps for Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-visualsnitch-capture-and-save-tweets-images-and-videos-for-2024/"><u>[Updated] VisualSnitch Capture and Save Tweets' Images & Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transforming-ordinary-footage-to-ig-masterpieces/"><u>2024 Approved Transforming Ordinary Footage to IG Masterpieces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-hardware-duplication-in-home-computing/"><u>Effortless Hardware Duplication in Home Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-ps3-connection-guide-for-pc-users/"><u>Effortless PS3 Connection: Guide for PC Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/essential-guide-to-comparing-4k-youtube-converter-tools-for-2024/"><u>Essential Guide to Comparing 4K YouTube Converter Tools for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/i-migliori-tre-programmi-per-la-conversione-dei-formati-video-4k-su-computer-e-mac-passare-con-facilita-da-4k-a-risoluzioni-standard/"><u>I Migliori Tre Programmi per La Conversione Dei Formati Video 4K Su Computer E Mac - Passare Con Facilità Da 4K a Risoluzioni Standard</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-how-usb-selective-suspend-works-and-why-you-need-it/"><u>In-Depth Analysis: How USB Selective Suspend Works & Why You Need It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-high-usage-by-user-mode-services-in-windows-environments/"><u>Mitigating High Usage by User-Mode Services in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-sam-problems-a-win-guide/"><u>Resolving SAM Problems: A Win Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-always-see-notes-on-screen/"><u>Tactics to Always See Notes on Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-experience-with-startup-settings-mastery/"><u>Tailoring Your Windows Experience with Startup Settings Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-hdr-features-through-practical-tips/"><u>Understanding Windows 11’S HDR Features Through Practical Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-ai-is-an-ally-not-a-foe-8-reasons-teachers-can-benefit-from-its-integration/"><u>Why AI Is an Ally, Not a Foe: 8 Reasons Teachers Can Benefit From Its Integration</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +143,19 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unrivaled-video-tech-for-apple-phones/"><u>[New] In 2024, Unrivaled Video Tech for Apple Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-swift-mp4-download-from-facebooks-top-videos/"><u>[Updated] In 2024, Swift MP4 Download From Facebook’s Top Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieving-desktop-efficiency-on-the-go-with-seamless-smartphone-app-organization/"><u>Achieving Desktop Efficiency on the Go with Seamless Smartphone App Organization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-failed-rpc-in-windows-top-solutions/"><u>Combatting Failed RPC in Windows: Top Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-experience-with-active-phone-link-alerts/"><u>Enhancing Windows Experience with Active Phone Link Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-windows-key-onoff-switch-techniques/"><u>Guide to Windows Key: On/Off Switch Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-automatically-replacing-your-amd-graphics-driver/"><u>How to Fix Windows Update Automatically Replacing Your AMD Graphics Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-repair-windows-11s-microphone-problems/"><u>Step-by-Step Tutorial: Repair Windows 11'S Microphone Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-no-hypervisor-in-windows-sandbox/"><u>Troubleshooting No Hypervisor in Windows Sandbox</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Convenient Setup: Linking AirPods and Windows PCs"
-date: 2024-08-08T11:09:19.840Z
-updated: 2024-08-09T11:09:19.840Z
+date: 2025-01-11T20:48:31.957Z
+updated: 2025-01-12T19:13:47.610Z
 tags:
   - windows10
   - windows11
@@ -19,16 +19,18 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  Although AirPods are designed for Apple devices, they function over Bluetooth, meaning you can use them like any other pair of wireless headphones. You just need to pair your AirPods manually to use them on your Windows PC. We're here to guide you with that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connecting Your AirPods to a Windows PC
 
  Connecting your AirPods to a Windows desktop or laptop is as easy as setting up any other Bluetooth device. Put your AirPods or AirPods Pro in their charging case and follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bluetooth settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-settings-in-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press **Windows + I** on your keyboard to open the Settings app.
 2. On Windows 10, click **Devices**. On Windows 11, select **Bluetooth & devices** from the sidebar.
@@ -37,34 +39,33 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 5. Open your AirPods' charging case and press and hold the **Setup** button until the status indicator flashes white. On the AirPods Max, hold down the **Noise Control** button instead.
 6. Select your AirPods as they appear under the list of Bluetooth devices and click **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Adding AirPods Pro to Bluetooth devices on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-airpods-pro-to-bluetooth-devices-on-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. You've successfully connected your AirPods or AirPods Pro to your Windows computer. You can use them to listen to music right away.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Using AirPods or AirPods Pro on Windows
 
  Sometimes, you may not hear system audio through your AirPods after connecting them to your Windows PC. This happens when Windows uses a different output device for audio playback.
 
  To change that, click the **volume** icon in the system tray, select the current output device, and then choose your AirPods or AirPods Pro from the list of devices.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Select audio device.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/7-view-audio-devices.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do the same [using the quick settings panel on Windows 11](https://www.makeuseof.com/use-quick-settings-on-windows-11/). Click the **volume** icon in the system tray and select the **sound output** button in the bottom-right corner of quick settings. Then, choose your AirPods from the list of output devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Windows 11 quick settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-quick-settings-menu-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you subsequently end up using your AirPods on another device (like your iPhone), you'll need to reconnect them manually. To do that on Windows 10, go to **Settings > Devices > Bluetooth & other devices**, select your AirPods, and click **Connect**. On Windows 11, click the **chevron** icon next to **Bluetooth** in the quick settings panel and click on your AirPods.
 
@@ -78,11 +79,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Using a pair of AirPods on a Windows desktop or laptop allows for a fairly decent listening experience. Your AirPods can be a good pair of backup earbuds when your PC headset stops working. You should be fine if you're prepared to deal with potential microphone-related issues and the lack of seamlessness.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tips-for-effective-mov-file-saving-on-windows-11/"><u>[New] Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-crafting-engaging-snapchat-campaigns-for-2024/"><u>[Updated] The Ultimate Guide to Crafting Engaging Snapchat Campaigns for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-erstellt-ihr-laptop-backup-auf-einem-dell-computer-mit-windows-11-schritt-fur-schritt-anleitung/"><u>1. Erstellt Ihr Laptop-Backup Auf Einem Dell Computer Mit Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-black-screen-glitches-in-far-cry-6-a-step-by-step-solution/"><u>Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-f23-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo F23 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c110-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nokia C110 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>In 2024, Unlocking the Mystery Phantom’s Temporal Expansion Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organize-windows-icons-harmoniously/"><u>Organize Windows Icons Harmoniously</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-unreachable-network-paths/"><u>Overcoming Windows' Unreachable Network Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-system-cooling-policy-in-pcs/"><u>Reinstating Absent System Cooling Policy in PCs</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-creating-a-new-text-document-on-windows-yl-software-tutorial/"><u>Step-by-Step Guide: Creating a New Text Document on Windows - YL Software Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unlocking-screen-pin-free-windows-projection/"><u>Stop Unlocking Screen: PIN-Free Windows Projection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-lcd-panels-simplified-guide/"><u>Switching LCD Panels Simplified Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-free-gaming-setup-dualshock-for-windows-users/"><u>Tech-Free Gaming Setup: DualShock for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-dark-displays-during-win-games/"><u>Troubleshooting Dark Displays During Win Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-content-restricted-in-windows-steam/"><u>Unraveling Content Restricted in Windows Steam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-nvidias-latest-powerhouse-laptops-for-creatives-record-breaking-gpu-performance-detailed-by-zdnet/"><u>Unveiling Nvidia's Latest Powerhouse Laptops for Creatives: Record-Breaking GPU Performance Detailed by ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes"
-date: 2024-08-08T11:09:12.229Z
-updated: 2024-08-09T11:09:12.229Z
+date: 2025-01-05T20:44:06.262Z
+updated: 2025-01-13T02:00:31.457Z
 tags:
   - windows10
   - windows11
@@ -21,9 +21,9 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Set Active Hours Manually via the Settings App
 
  The Settings app in Windows gives you several options for managing the installation of Windows updates. Here's how you can use it to set active hours on Windows 11\.
@@ -51,14 +51,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. Select the **Enabled** option.
 6. Under **Options**, use the drop-down menus next to **Start** and **End** to specify your active hours.
 7. Hit **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Active Hours Manually via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Set Active Hours Manually With the Registry Editor
 
  Another method for setting active hours involves tweaking the Windows Registry.
@@ -72,13 +66,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. Double-click the **ActiveHoursStart** entry.
 6. In the **Value data** field, enter the desired value for the start time of your active hours in a 24-hour format. If you were to set the start time to **9:00 AM**, for instance, you would enter **9** in the text box.
 7. Click **OK** to save the value.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Set Active Hours Manually via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-registry-editor.jpg)
 8. Double-click the **ActiveHoursEnd** entry to set the end time of your active hours in the 24-hour format. For instance, if you want to set the end time to **5:00 PM**, type **17** in the Value data field and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Exit the Registry Editor window.  
 ![Set Active Hours Manually via the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Configure Windows to Set Active Hours Automatically
 
@@ -89,22 +93,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Use one of [the many ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
 2. Navigate to **Windows Update > Advanced options > Active hours**.
 3. Click the drop-down menu next to **Adjust active hours** and select **Automatically**.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Active Hours Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-automatically-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setting Active Hours on Windows Is Easy
 
  Once you set the active hours using one of the above methods, Windows will avoid initiating automatic restarts for updates during the specified period. As a result, you won’t be interrupted by sudden reboots during your work hours.
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,3 +111,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pitch-perfect-a-handbook-to-modifying-sound-on-ig-media/"><u>[New] In 2024, Pitch Perfect A Handbook to Modifying Sound on IG Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premier-index-affordable-flexible-image-sources/"><u>[New] In 2024, Premier Index Affordable, Flexible Image Sources</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-elite-status-in-the-instagram-sphere-for-2024/"><u>[Updated] Effortless Elite Status in the Instagram Sphere for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-using-and-revoking-windows-terminal-focus/"><u>A Practical Approach to Using & Revoking Windows Terminal Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-tactics-removing-onedrive-in-file-explorer-window/"><u>Avoidance Tactics: Removing OneDrive in File Explorer Window</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-on-metas-quintessential-vr-steal-secure-the-limited-time-offer-on-the-512gb-quest-oculus-at-unbeatable-rates-during-october-prime-day-deals-in95/"><u>Don't Miss Out on Meta's Quintessential VR Steal! Secure the Limited-Time Offer on the 512GB Quest Oculus at Unbeatable Rates During October Prime Day Deals Insider Report</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-g22-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia G22 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-mail-tips-for-resolving-html-code-displays-in-emails/"><u>Fixing Windows 11 Mail: Tips for Resolving HTML Code Displays in Emails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-clear-windows-cached-data/"><u>How to Swiftly Clear Windows' Cached Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-the-windows-exception-breaking-point-issue/"><u>How to Tackle the Windows Exception Breaking Point Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y36i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y36i to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laughter-logic-kapwings-humor-engine/"><u>In 2024, Laughter Logic Kapwing's Humor Engine</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/micro-movie-maker-for-2024/"><u>Micro Movie Maker for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-mpeg-video-stitching-software-for-2024/"><u>New The Best Free MPEG Video Stitching Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-deactivated-windows-email-rule-settings/"><u>Steps to Reactivate Deactivated Windows Email Rule Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-error-1152-temporary-file-extract-failure/"><u>Tackling 'Error 1152: Temporary File Extract Failure'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-checklist-for-fine-tuning-windows-11-installation/"><u>The Ultimate Checklist for Fine-Tuning Windows 11 Installation</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Grammarly Feature with Simple Steps
-date: 2024-12-30T23:57:57.819Z
-updated: 2025-01-06T08:10:41.204Z
+date: 2025-01-10T00:42:38.777Z
+updated: 2025-01-12T16:10:33.526Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Some Common Grammarly App Issues on Windows?
 
  There's no doubt that Grammarly simplifies your writing workflow. You write the content, Grammarly checks for grammatical mistakes, and then you edit it accordingly. However, there are several errors you may encounter while using Grammarly.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 * **Grammarly is not working on some websites**
 
  The best part is that you can troubleshoot most of these issues quickly. So, review the steps below and get your Grammarly app working on your Windows computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Troubleshoot Using General Fixes
 
@@ -67,25 +67,21 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Grammarly Setup Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-setup-screen.jpg)
 4. Once you log in with your account, click the **Activate Grammarly** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Grammarly Activation Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-activation-setup.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. To verify if the issue persists, open Microsoft Word or any website where you can write (e.g., [ControlC.com](https://controlc.com/)). Start writing a sentence and see if Grammarly provides suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Adjust Your System and Grammarly Settings
 
  Grammarly's Windows client offers limited settings to adjust. However, you can manage two crucial settings to resolve most Grammarly issues: block list and Grammarly startup settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Clear the Grammarly Block List
 
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
 
@@ -128,6 +120,14 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  To sign out from the Grammarly app, click the **Settings** option on its home screen. Then, navigate to the **Account** tab and click the **Sign out** button.
 
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
 
@@ -160,7 +160,11 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 4. Finally, click the **Finish** button once the repair is complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Grammarly App
@@ -178,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  Avoid downloading "cracked or modded versions" of freemium apps and services (like Grammarly), as they may contain malware that can harm your system!
 
  Reinstalling the Grammarly app is a one-shot process that resolves any ongoing issues with the app. If you're still experiencing difficulties, contact [Grammarly's support](https://support.grammarly.com/hc/en-us/requests/new#/) for further action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Hiccups While Writing With Grammarly
 
@@ -201,22 +201,24 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[New] 2024 Approved Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-perfectly-blending-iphones-multimedia-for-2024/"><u>[New] Perfectly Blending iPhones' Multimedia for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-ultimate-tutorial-looping-techniques-for-maximum-watcher-satisfaction/"><u>2024 Approved Ultimate Tutorial Looping Techniques for Maximum Watcher Satisfaction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-practices-in-altering-igtv-video-titles-for-2024/"><u>Best Practices in Altering IGTV Video Titles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-focus-and-time-management-best-rated-windows-pomodoro-apps/"><u>Boost Your Focus and Time Management: Best-Rated Windows Pomodoro Apps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-obtain-new-bluetooth-driver-software-from-microsoft-for-windows-users/"><u>Easy Steps to Obtain New Bluetooth Driver Software From Microsoft for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-linking-drives-on-new-windows-version/"><u>Efficiently Linking Drives on New Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-keys-to-unlocking-email-access-issues-in-windows-11-mail-service/"><u>Five Keys to Unlocking Email Access Issues in Windows 11 Mail Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-nonstop-techsign-in-issues-in-ms-teams-windows/"><u>Fixing Nonstop TechSign In Issues in MS Teams Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-11-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 11 to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 mini i Do? Get Answers here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-non-responsive-function-keys-for-brighness-on-windows-11/"><u>Methods to Tackle Non-Responsive Function Keys for Brighness on Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/safe-methods-to-fast-forward-in-spotify-files-for-2024/"><u>Safe Methods to Fast-Forward in Spotify Files for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-steam-disk-write-failures-effectively/"><u>Tackling Windows Steam Disk Write Failures Effectively</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-fcpx-shortcut-guide-40-time-saving-keys-for-2024/"><u>The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-uninstall-guide-enhancing-your-workflow-in-windows/"><u>The Ultimate Uninstall Guide: Enhancing Your Workflow in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-game-pass-error-code-0x00000001-on-windows-os/"><u>Troubleshooting Xbox Game Pass Error Code 0X00000001 on Windows OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs/"><u>[New] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram/"><u>[Updated] 2024 Approved Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-architects-of-unique-virtual-environments/"><u>[Updated] In 2024, Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-formats-mastering-the-art-of-windows-esd-to-iso-conversion/"><u>Bridging Formats: Mastering the Art of Windows' ESD to ISO Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-task-sequence-error-0x8007000f/"><u>Bypassing Windows Task Sequence Error 0X8007000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-steadicam-models-suitable-for-drones-in-cinema-for-2024/"><u>Elite Steadicam Models Suitable for Drones in Cinema for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-typing-experience-restoring-your-tab-key/"><u>Enhancing Typing Experience: Restoring Your Tab Key</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-remove-background-noise-from-skype-video-calls/"><u>In 2024, How to Remove Background Noise From Skype Video Calls</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-integrating-marketing-the-power-of-youtube-and-brand-collaboration/"><u>In 2024, Integrating Marketing The Power of YouTube and Brand Collaboration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 Pro</u></a></li>
 </ul></div>
 

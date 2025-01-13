@@ -1,7 +1,7 @@
 ---
 title: "QBittorrent Migration: A Practical Guide to Preserve Settings"
-date: 2024-08-08T11:05:27.993Z
-updated: 2024-08-09T11:05:27.993Z
+date: 2025-01-10T00:37:22.831Z
+updated: 2025-01-12T22:31:11.115Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setting Up a Plan of Action for Moving qBittorrent
 
  In this article, we'll look at how it's possible to migrate qBittorrent's installation, keeping all the settings we had previously customized and the progress of all torrent files. This will allow us to resume downloading and uploading from where we were before.
@@ -46,17 +47,15 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
  Still, we'll skip those specifics since the data transfer method won't affect anything we see here. Thus, we'll take for granted an unspecified method for copying data between your PCs. Feel free to go for whichever solution you prefer.
 
 1. Launch a file manager on the source PC from which you want to move your qBittorrent installation to the new PC. Visit your user account's folder, and within it, navigate to `AppData > Local > qBittorrent`. The path in our case was: `c:\Users\koura\AppData\Local\qBittorrent`. Copy this folder's contents to the equivalent path on your new PC. Remember to update the username part of the path if it's different on your second computer.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows Explorer AppData Local qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-local-qbittorrent-path.jpg)
 2. Return to your user account's folder on the original PC, and this time navigate into the `AppData > Roaming > qBittorrent` path. Do the same as above, and copy all its contents to the equivalent path on your new PC.  
 ![Windows Explorer AppData Roaming qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-roaming-qbittorrent-path.jpg)
 3. For the final data transfer, you must move the folder where your torrents were stored from your old PC to the new one. We can't offer specifics for that because their setup depends on your qBittorrent configuration. In our case, we had two separate folders, one for **incoming** torrents and another for those that had **completed** downloading. Both conveniently placed within a "torrents" folder on an external hard disk drive. Unplugging it from the old PC and reconnecting it to the new one was all needed for "transferring our torrents".  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Problem With Moving qBittorrent to a Different Drive Letter
 
@@ -72,25 +71,25 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
  Thankfully, there's a solution for that, too, as we'll see next. However, it is more complicated than reassigning a letter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Update and Double-Check Your Folder Paths
 
  If you can't or don't want to change your torrent's drive letter, or you did, but qBittorrent still doesn't detect your torrents, you should make sure it's looking at the right place. For that, with qBittorrent running...
 
 1. Click the app's **Options** button (with the little cog icon).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![qBittorrent Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-button.jpg)
 2. Select the **Downloads** page from the list on the left, and scroll down a bit to find **Default Save Path**. Make sure it points to the correct path for your downloaded torrents folder. Here, if, like us, you also used a second folder for incomplete torrents, make sure the option **Use another path for incomplete torrents** is enabled and that the field on its right points to the correct folder for your half-downloaded files, too. Click **OK** to save your changes to qBittorrent's configuration, and exit the **Options** window.  
 ![qBittorrent Options Downloads Default Save Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-downloads-default-save-path.jpg)
 3. Fully exit qBittorrent and rerun it. This time it should find and start importing your torrents. However, it may fail to detect their progress and general state correctly. To fix that, highlight all your torrent files in qBittorrent's transfers list, right-click on them, and select **Force Recheck**. If your transfer list adds up to a multi-gigabyte sum, and especially if stored on an old and slow HDD, this process can take a while. When it finishes, your migrated qBittorrent installation should be indistinguishable from the original.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![qBittorrent Right Click Menu Force Recheck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-right-click-menu-force-recheck.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And yet again, that might not be enough. qBittorrent also supports **categories**, each of which can have its own path. So, if you used that feature to have your torrents downloaded to different folders, you must also update each category's path.
 
@@ -99,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
  When you're finally done, and your torrent setup's up to speed, it's time to move to the next logical step, also involving "torrents" and "speed": check our article with [the best tips to increase your torrent download speeds](https://www.makeuseof.com/tag/10-ways-to-speed-up-torrent-downloads/).
 
  When you eventually start downloading again, don't seek torrent links at shoddy sites: qBittorrent comes with a built-in search function you can use to find new torrents. Plus, we've covered how you can make it even more useful by [expanding it with more search engines](https://www.makeuseof.com/qBittorrent-add-search-engines/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Seamless Transition for qBittorrent
 
@@ -110,11 +113,29 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-audiences-choice-bandicam-or-camtasia-for-screen-capture-for-2024/"><u>[New] Audience's Choice? Bandicam or Camtasia for Screen Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cinema-for-all-a-comparative-look-at-vimeo-and-youtube-for-2024/"><u>[Updated] Cinema for All? A Comparative Look at Vimeo & YouTube for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/5-essential-audio-editing-tools-as-great-substitutes-for-audacity-you-cant-miss/"><u>5 Essential Audio Editing Tools as Great Substitutes for Audacity You Can't Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hidden-recycling-bin-icon-on-windows-11/"><u>Activating Hidden Recycling Bin Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-trends-reels-and-stories-comparison/"><u>Decoding Instagram's Trends Reels & Stories Comparison</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-smirk-stash-ultimate-guide-to-free-meme-templates/"><u>In 2024, Smirk Stash Ultimate Guide to FREE Meme Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strengthening-game-accessibility-winning-over-ea-errors/"><u>Strengthening Game Accessibility: Winning Over EA Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-introductory-ai-tool-groups-for-newcomers/"><u>Top 9 Introductory AI Tool Groups for Newcomers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-find-x6-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find X6 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
+

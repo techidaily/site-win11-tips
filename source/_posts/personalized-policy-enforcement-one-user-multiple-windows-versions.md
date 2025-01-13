@@ -1,7 +1,7 @@
 ---
 title: "Personalized Policy Enforcement: One User, Multiple Windows Versions"
-date: 2024-08-08T11:05:35.582Z
-updated: 2024-08-09T11:05:35.582Z
+date: 2025-01-09T19:34:15.908Z
+updated: 2025-01-13T02:17:44.241Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,13 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  It also makes it easy to apply and modify controls and appearances for individual users, and you’ll get a quick glance at which policies apply to which users. Here’s how to apply local group policy to specific user accounts on Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Local Group Policy?
 
  Group Policy is a Windows feature that gives you more control over the things user accounts are able to do and have access to. Changing Group Policy changes how the system works for different sets of users. We’ve covered [what Group Policy is and how you can use it](https://www.makeuseof.com/tag/windows-group-policy/), with examples, in much more detail separately.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply a Local Group Policy to a Specific User Account
 
  First off, you must have Windows 10 Pro, Enterprise, or Education editions to access the Local Group Policy Editor. Here’s how to set up what’s called a [Microsoft Saved Console](https://www.makeuseof.com/microsoft-management-console-how-to-use-it/) (MSC) for a specific user.
@@ -37,25 +35,29 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 1. Press **Win + R**, type “mmc” into the box, and hit **OK**. This will open the Microsoft Management Console.
 2. You will be presented with a UAC prompt. Click on **Yes**.
 3. In the Microsoft Management Console window that opens up, go to **File > Add/Remove Snap-in**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Adding a snap-in to the Microsoft Saved Console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-add-remove-snap-in-microsoft-saved-console.jpg)
 4. Look for and select **Group Policy Object Editor**; click on the **Add** button to add it to the **Selected snap-ins** pane; and click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding Group Policy Object Editor for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-add-group-policy-object-editor-microsoft-saved-console.jpg)
 5. Next you will be asked to select a Group Policy Object. Click on **Browse**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Select the Group Policy Object for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-select-group-policy-object.jpg)
 
-1. Switch to the **Users** tab in the window that pops up.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Switch to the **Users** tab in the window that pops up.  
 ![Select user-specific Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/04-msc-select-user-group-policy.jpg)
 2. Select the user account for which you want to create a custom Local Group Policy, then click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on the **Finish** button, and then on the **Add or Remove Snap-ins** window, click **OK** on the bottom right.
 4. The Group Policy for the specific user should appear in the console window.
 5. Go to **File > Save As** and select a location you want to save the MSC. You can rename it here.
@@ -64,15 +66,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You’ve now created a user-specific Local Group Policy MSC. Whenever you need to configure policy settings that apply just to this specific user, double-click the file you just created and make the policy changes you need. Don’t forget to save the console settings when finished.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Control What Windows Users Have Access To
 
  By utilizing Local Group Policy, you have greater control over what functionality you accord to a specific user or set of users. A simple change at this level can make your job much easier when applying restrictions and granting freedoms to Windows users.
 
  It also makes it easy to apply and modify controls and appearances for individual users, and you’ll get a quick glance at which policies apply to which users. Here’s how to apply local group policy to specific user accounts on Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -80,3 +81,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-webcam-safety-essentials-the-best-covers-ranked/"><u>[New] 2024 Approved Webcam Safety Essentials The Best Covers Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>[Updated] The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-yt-storytellers-for-enthralling-viewing-experience/"><u>2024 Approved Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-transforming-4k-footage-into-high-quality-2k-videos/"><u>Effective Techniques for Transforming 4K Footage Into High-Quality 2K Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-magic-6-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Magic 6 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>In 2024, Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-fee-audio-understanding-tool/"><u>In 2024, No-Fee Audio Understanding Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/never-again-struggle-with-file-explorer-on-windows-11/"><u>Never Again Struggle with File Explorer on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-creativity-a-comprehensive-guide-to-instagram-video-upload-via-desktop-for-2024/"><u>Unleash Creativity A Comprehensive Guide to Instagram Video Upload via Desktop for 2024</u></a></li>
+</ul></div>
+

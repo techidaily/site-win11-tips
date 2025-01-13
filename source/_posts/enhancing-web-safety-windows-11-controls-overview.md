@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Web Safety: Windows 11 Controls Overview"
-date: 2025-01-04T00:57:19.291Z
-updated: 2025-01-06T11:35:09.480Z
+date: 2025-01-06T22:19:51.042Z
+updated: 2025-01-12T16:21:05.836Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Now, head back to the Family Safety webpage as shown before, and click your child’s account. In the left pane, you can see the categories for setting and changing permissions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Monitor and Change Permissions in Parental Control
 
  In the**Overview** tab, you can check general information about your child’s account, such as spent screen time, which games your child is playing, or the amount of spent money.
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
 
@@ -83,14 +83,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use Parental Control to Filter Content
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Overview Spending
 
@@ -126,21 +126,21 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-8-economical-video-call-applications-cross-system-compatibility/"><u>[Updated] 2024 Approved Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-mac-image-compiler-for-2024/"><u>[Updated] Advanced Mac Image Compiler for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-skills-for-3d-lut-making/"><u>2024 Approved Essential Skills for 3D LUT Making</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-infinix-gt-10-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conversion-gratuit-de-fichiers-audio-transformez-vos-mp4-en-wav-sur-le-web/"><u>Conversion Gratuit De Fichiers Audio: Transformez Vos MP4 en WAV Sur Le Web</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-clearer-crisper-youtube-videos-with-quality-tools-for-2024/"><u>Craft Clearer, Crisper YouTube Videos with Quality Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-to-follow-plan-starting-over-with-windows-updates/"><u>Easy-to-Follow Plan: Starting Over with Windows Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-qi2-fast-charging-for-your-iphone-12-no-magsafe-required-zdnets-guide/"><u>Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required - ZDNet's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-taskbar-with-win11-tips/"><u>Enhance Your Taskbar with Win11 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-windows-11-unreachable-5ghz-wi-fi/"><u>Guide to Fixing Windows 11 - Unreachable 5GHz Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x00000709-operation-could-not-be-completed-on-windows/"><u>How to Fix Error 0X00000709: Operation Could Not Be Completed on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-geforce-experience-on-windows-pcs/"><u>Quick Guide to Fix GeForce Experience on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-against-unexpected-scroll-behavior-in-os/"><u>Safeguard Against Unexpected Scroll Behavior in OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-of-no-sound-in-nvidia-hd-audio-a-comprehensive-guide/"><u>Solving the Dilemma of No Sound in Nvidia HD Audio: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-safeguard-your-data-by-backing-up-iphoneipad-with-macos-finder-in-ios-13-and-latest-ipados/"><u>Step-by-Step Tutorial: Safeguard Your Data by Backing Up iPhone/iPad with macOS Finder in iOS 13 & Latest iPadOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leading-the-pack-in-multi-media-posting-on-instagram/"><u>[Updated] 2024 Approved Leading the Pack in Multi-Media Posting on Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-reconnaissance-from-above-deciphering-gopro-karmas-offering-for-2024/"><u>[Updated] Reconnaissance From Above Deciphering GoPro Karma's Offering for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>2024 Approved Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-newcomers-path-in-the-world-of-original-diablo/"><u>A Newcomer's Path in the World of Original Diablo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-tasks-with-efficient-cmd-commands-top-20/"><u>Accelerate Tasks with Efficient CMD Commands (Top 20)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-system-best-practices-for-dns-setup-in-windows-11/"><u>Accelerate Your System: Best Practices for DNS Setup in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/action-plan-conquering-error-0x800700e1-in-windows-11-systems/"><u>Action Plan: Conquering Error 0X800700E1 in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-incompatibility-with-windows-11-at-home/"><u>Addressing Incompatibility with Windows 11 at Home</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-avenue-windows-11-disabling-tactics/"><u>Avoidance Avenue: Windows 11 Disabling Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-performance-essential-wsl-2-approaches-for-win-users/"><u>Boost Performance: Essential WSL 2 Approaches for Win Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-3755-printer-software-update-download-drivers-for-windows-1187/"><u>HP Deskjet Ink Advantage 3755 Printer Software Update: Download Drivers for Windows 11/8/7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-tiktok-to-instagram-stardom-replicating-popular-reel-techniques/"><u>In 2024, From TikTok to Instagram Stardom Replicating Popular Reel Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-among-us-audio-problem-a-step-by-step-guide/"><u>Solve Your PC's 'Among Us' Audio Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-how-to-fix-a-sluggish-loading-league-of-legends-game/"><u>Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-hand-tracker-potential-guide/"><u>Unlock Hand Tracker Potential Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Manage Spotlight Images on Your PC's Lock Screen
-date: 2024-08-08T11:08:22.580Z
-updated: 2024-08-09T11:08:22.580Z
+date: 2025-01-11T00:33:26.899Z
+updated: 2025-01-12T19:08:36.852Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
  In any case, it’s fairly simple to enable or disable spotlight images on your Windows lock screen. Here's how you can go about it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Enable or Disable Windows Spotlight Images Using the Settings App
 
  The Settings app in Windows gives you several options for[customizing the lock screen](https://www.makeuseof.com/windows-11-customize-lock-screen/) , including the ability to enable or disable spotlight images. It is also the quickest method for turning spotlight images on or off on Windows. Here are the steps you can follow.
@@ -31,14 +32,16 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 2. Select**Personalization** from the left pane.
 3. Click on**Lock screen** .
 4. Click the drop-down menu next to**Personalize your lock screen** and select**Windows spotlight** to enable the feature. If you want to disable spotlight images, select**Picture** or**Slideshow** instead.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Enable or Disable Spotlight Images on Lock Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Enable or Disable Windows Spotlight Images via the Group Policy Editor
 
  The Group Policy Editor is a useful tool for implementing system-level changes on Windows. If you have the Education, Enterprise, or Professional edition of Windows, you can enable or disable spotlight images on the lock screen via the Group Policy Editor. If you use Windows Home, however, check our guide on[how to access the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
@@ -54,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 ![Enable or Disable Spotlight Images on Lock Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Windows Spotlight Images With the Registry Editor
 
  Registry Editor in Windows provides yet another way to enable or disable spotlight images on the lock screen. However, this method may not be suitable for everyone, especially those who are not familiar with the Registry Editor.
@@ -70,30 +74,25 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 6. Double-click on the newly created DWORD to edit it.
 7. Enter**1** in the Value data field to disable spotlight images. If you want to enable them, enter**0** instead.
 8. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable or Disable Spotlight Images on Lock Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-registry-editor.jpg)
 
 Exit the Registry Editor and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get a New View Every Day With Windows Spotlight
 
  As we just saw, you can enable or disable Windows spotlight images on the lock screen via the Settings app, Group Policy Editor, or Registry Editor. No matter which method you opt for, turning Windows spotlight images on or off should not take long.
 
  Since Windows stores all the spotlight images locally on your computer, you can even save them and use them as your desktop wallpaper if you want.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +101,26 @@ Exit the Registry Editor and restart your PC to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-definitive-explanation-of-online-storytelling-for-2024/"><u>[Updated] Definitive Explanation of Online Storytelling for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] In 2024, Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-recording-techniques-for-instagrams-ephemeral-content/"><u>2024 Approved Recording Techniques for Instagram's Ephemeral Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphered-defense-dont-shift-too-suddenly/"><u>Deciphered Defense? Don't Shift Too Suddenly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-how-to-access-mspaint-in-windows-11/"><u>Discovering How to Access MSPaint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-system-exploration-in-win11-6-keyways-to-duplicating-file-and-folder-paths/"><u>File System Exploration in Win11: 6 Keyways to Duplicating File and Folder Paths</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-copy-of-macx-pro-the-ultimate-video-format-changer-today/"><u>Get Your Copy of MacX Pro: The Ultimate Video Format Changer Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-unsolicited-opens-in-ms-store-on-windows-10/"><u>Halt Unsolicited Opens in MS Store on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-startup-the-comprehensive-guidebook/"><u>Master Your Windows Startup: The Comprehensive Guidebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/masterclass-in-virality-cutting-edge-strategies-for-instagram-films-for-2024/"><u>Masterclass in Virality Cutting-Edge Strategies for Instagram Films for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-frozen-volume-shadows-in-operating-systems/"><u>Tackling Frozen Volume Shadows in Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-optimize-msi-startstop-functionality/"><u>Tactics to Optimize MSI Start/Stop Functionality</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-face-morphing-applications-and-websites-achieve-flawless-altered-selfies/"><u>Top-Rated Face Morphing Applications & Websites: Achieve Flawless Altered Selfies</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-why-files-carry-an-x-marking/"><u>Understanding Why Files Carry an X Marking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-cyber-game-top-7-techniques-for-uac-safety/"><u>Winning the Cyber Game: Top 7 Techniques for UAC Safety</u></a></li>
+</ul></div>
 

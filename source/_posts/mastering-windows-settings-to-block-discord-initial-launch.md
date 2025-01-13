@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Settings to Block Discord Initial Launch
-date: 2025-01-04T02:53:11.712Z
-updated: 2025-01-06T09:34:02.889Z
+date: 2025-01-10T17:11:05.079Z
+updated: 2025-01-13T02:24:21.979Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Discord From Launching at Startup on Windows
@@ -40,7 +40,7 @@ Follow the below steps to prevent Discord from launching at startup:
 ![Disbaling Open Discord at Startup Option in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disbaling-Open-Discord-at-Startup-Option-in-Discord-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above steps will prevent Discord from launching at startup. Just like Discord, you can also[add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
@@ -48,7 +48,7 @@ Follow the below steps to prevent Discord from launching at startup:
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Discord From Searching for Updates at Startup on Windows
@@ -62,7 +62,7 @@ Follow the below steps to prevent Discord from launching at startup:
 ![Disabling Discord Update Process in Windows Startup Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-Discord-Update-Process-in-Windows-Startup-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following the above steps will prevent Discord from launching at startup and looking for updates. However, ensure you disable the Discord-related Update process in the Task Manager, not any other process. You may get into more trouble if you stop the Windows-related update process.
@@ -70,7 +70,7 @@ Follow the below steps to prevent Discord from launching at startup:
  Do not perform any actions if you do not see any Update process in Task Manager's Startup tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Discord Stop Launching at Startup and Checking for Updates
@@ -94,17 +94,21 @@ Follow the below steps to prevent Discord from launching at startup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-the-best-8-websites-where-gleaming-gold-meets-3d/"><u>[New] 2024 Approved Discover the Best 8 Websites Where Gleaming Gold Meets 3D</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>[New] ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-last-to-first-deconstructing-your-video-watch-list/"><u>[Updated] 2024 Approved From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cool-techniques-for-your-overheating-windows-game-laptop/"><u>Cool Techniques for Your Overheating Windows Game Laptop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-daily-data-best-windows-11-weather-apps/"><u>Decoding Daily Data: Best Windows 11 Weather Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-the-distinctions-a-comparative-study-of-two-account-types-in-windows/"><u>Delving Into the Distinctions: A Comparative Study of Two Account Types in Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-desktop-image-in-windows-versions-11-7/"><u>In 2024, Capturing Desktop Image in Windows Versions (11-7)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-video-editing-software-that-rivals-sony-vegas/"><u>New 2024 Approved Windows Video Editing Software That Rivals Sony Vegas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-exception-breakpoint-reached-on-windows-system/"><u>Resolving Exception Breakpoint Reached on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-thx-audio-discrepancies/"><u>Resolving Windows THX Audio Discrepancies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-pathways-to-revitalize-a-dying-windows-services-console/"><u>7 Pathways to Revitalize a Dying Windows Services Console</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-dive-into-modern-standby-and-its-problematic-aspects/"><u>A Dive Into Modern Standby and Its Problematic Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-winning-strategy-for-moving-software-into-the-future-of-windows-11/"><u>A Winning Strategy for Moving Software Into the Future of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-index-view-options/"><u>Accessing Windows Index View Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-your-agenda-linking-to-do-to-ifttt/"><u>Automate Your Agenda: Linking To-Do to IFTTT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-the-pitfalls-of-mysterious-obs-studio-recordings/"><u>Avoiding the Pitfalls of Mysterious OBS Studio Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719383487316-overcoming-windows-obstacles-simple-effective-solutions/"><u>Overcoming Windows Obstacles: Simple, Effective Solutions!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Y100 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-complete-igtv-user-manual/"><u>The Complete IGTV User Manual</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tier-non-hp-non-lenovo-2-in-1-laptop-explored-a-comprehensive-review/"><u>Top Tier Non-HP, Non-Lenovo 2-in-1 Laptop Explored: A Comprehensive Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/understanding-spending-in-online-advertising-for-2024/"><u>Understanding Spending in Online Advertising for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-basics-of-audio-crossfading-for-2024/"><u>Understanding the Basics of Audio Crossfading for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone X? | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-upcoming-mac-mini-m4-model-loses-to-the-unique-features-of-mac-studio-this-fall-according-to-zdnet-analysis/"><u>Why The Upcoming Mac Mini M4 Model Loses to the Unique Features of Mac Studio This Fall - According to ZDNet Analysis</u></a></li>
 </ul></div>
 

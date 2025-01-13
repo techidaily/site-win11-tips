@@ -1,7 +1,7 @@
 ---
 title: Methods for Enhancing Performance with Resources in Android WSL
-date: 2025-01-03T00:15:11.650Z
-updated: 2025-01-06T01:02:18.817Z
+date: 2025-01-05T21:29:44.832Z
+updated: 2025-01-13T01:42:20.295Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,24 +86,20 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-video-rankings-with-effective-seo-tactics/"><u>[Updated] 2024 Approved Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-macsierras-top-picks-for-dvd-creation-software/"><u>[Updated] In 2024, MacSierra’s Top Picks for Dvd Creation Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>[Updated] Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-secrets-to-swiftly-concluding-a-troubled-update-process/"><u>5 Secrets to Swiftly Concluding a Troubled Update Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-smooth-operator-install-in-windows-realm/"><u>Achieve Smooth Operator Install in Windows Realm</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-latest-features-of-kodi-version-205-rollout-and-enhancements-unveiled/"><u>Discover the Latest Features of Kodi Version 20.5: Rollout and Enhancements Unveiled!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-narzo-60x-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Narzo 60x 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/intellect-in-your-hand-the-moto-z2-breakdown-for-2024/"><u>Intellect in Your Hand The Moto Z2 Breakdown for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-windows-landscape-incorporate-outlook-preview/"><u>Master the Windows Landscape: Incorporate Outlook Preview</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-display-settings-in-windows-11-easy-fix-for-changing-screen-resolution/"><u>Mastering Display Settings in Windows 11: Easy Fix for Changing Screen Resolution</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/meet-geekoms-game-changer-the-mini-pc-ax8-equipped-with-next-gen-intel-and-cutting-edge-ryzen-processors/"><u>Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-1011-eliminating-email-app-errors/"><u>Mending Windows 10/11: Eliminating Email App Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-speed-by-tweaking-msram/"><u>Regain Speed by Tweaking MSRam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-files-when-maximizing-space-in-windows/"><u>Safeguard Files When Maximizing Space in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-sharpen-your-windows-11-multi-tasking-skills/"><u>Strategies to Sharpen Your Windows 11 Multi-Tasking Skills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-dism-error-0x800f082f-on-windows/"><u>Tackling DISM Error 0X800F082F on Windows</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides/"><u>The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-ubisoft-launcher-not-found-issue/"><u>Troubleshooting: Resolving Ubisoft Launcher Not Found Issue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-logitech-c270-webcam-drivers-for-enhanced-performance-on-windows-1011/"><u>Update to Newest Logitech C270 Webcam Drivers for Enhanced Performance on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/address-incompatible-facebook-videos-on-ios/"><u>Address Incompatible Facebook Videos on iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-steps-for-manipulating-windows-registry-command-line/"><u>Detailed Steps for Manipulating Windows Registry Command Line</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-controls-in-windows-11s-ui-amenities/"><u>Elevate Controls in Windows 11'S UI Amenities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-playtime-windows-troubleshooting-for-fullscreen-games/"><u>Enhance Playtime: Windows Troubleshooting for Fullscreen Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertise-in-covert-sound-suppression-with-audacity/"><u>Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11s-new-backup-feature-work/"><u>How Does Windows 11'S New Backup Feature Work?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s18e-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S18e to iPod | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-gopro-hero4-vs-gopro-hero5-showdown/"><u>In 2024, GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-zte-blade-a73-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your ZTE Blade A73 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-11s-core-data-the-hidden-registry/"><u>Investigating Windows 11'S Core Data: The Hidden Registry</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-windows-setup-fails/"><u>Overcoming Obstacles: Fixing Windows Setup Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/times-tangle-in-windows-restore-clock-order/"><u>Time's Tangle in Windows: Restore Clock Order</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>Updated In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
 </ul></div>
 

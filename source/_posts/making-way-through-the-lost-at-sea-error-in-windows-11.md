@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2024-12-29T18:06:04.629Z
-updated: 2025-01-06T07:05:20.463Z
+date: 2025-01-08T01:31:54.899Z
+updated: 2025-01-12T23:51:40.132Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter could be a useful tool for fixing the “Looks like you’re stranded” error. This is how you can utilize the Windows Store App troubleshooter:
@@ -45,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 5. Then apply potential resolutions proposed within the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your Xbox App
 
@@ -58,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update the Xbox App
@@ -76,19 +80,11 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Select the Xbox App’s Reset Option
 
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
 
@@ -114,24 +114,20 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-practices-for-measuring-igtv-video-effectiveness/"><u>[New] In 2024, Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-camera-mastery-films-best-practices-unveiled/"><u>[New] In 2024, Top Camera Mastery Film's Best Practices Unveiled</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tand-out-with-a-unique-streamer-identity-a-filmora-approach/"><u>[New] Stand Out with a Unique Streamer Identity A Filmora Approach</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-most-liked-twitter-videos/"><u>[Updated] 2024 Approved The Most Liked Twitter Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-traditional-markets-with-virtual-engineering/"><u>2024 Approved Transforming Traditional Markets with Virtual Engineering</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bios-configuration-reset-methods-effortless-steps-to-reinitializing-system-settings/"><u>BIOS Configuration Reset Methods: Effortless Steps to Reinitializing System Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/avorites-best-learning-yt-channels/"><u>Edu-Favorites Best Learning YT Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-fix-a-flapping-control-key-on-win11/"><u>Effective Strategies to Fix a Flapping Control Key on Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-installation-hanging-on-99-a-complete-guide/"><u>Fixing Windows 11 Installation Hanging on 99% - A Complete Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/gadgets-galore-unpacking-top-tier-laptops-mobile-devices-and-book-collections/"><u>Gadgets Galore: Unpacking Top-Tier Laptops, Mobile Devices, and Book Collections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-your-gaming-experience-with-faster-yuzu/"><u>Ignite Your Gaming Experience with Faster Yuzu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-dark-mode-guide-for-calculator-application/"><u>Instant Dark Mode: Guide for Calculator Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prolific-powerhouses-in-win-11-best-productivity-widgets-list/"><u>Prolific Powerhouses in Win 11: Best Productivity Widgets List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-a-dead-grammarly-feature-with-simple-steps/"><u>Reviving a Dead Grammarly Feature with Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-chrome-sounds-and-banners-in-windows/"><u>Stop Chrome Sounds & Banners in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-stop-autolock-functionality/"><u>Unlock Windows: Stop Autolock Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-group-policies-in-windows-11/"><u>Unveiling the Power of Group Policies in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-best-picks-for-webp-image-display/"><u>Windows' Best Picks for WebP Image Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>[New] 2024 Approved A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-pictures-at-work-master-snap-camera-use/"><u>[Updated] 2024 Approved Perfect Pictures at Work Master Snap Camera Use</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-chucklecrafts-create-meme-delight/"><u>[Updated] In 2024, ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-century-of-change-the-windows-taskbar/"><u>A Century of Change: The Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-restoring-essential-features-of-photo-viewer-on-win11/"><u>A Quick Guide to Restoring Essential Features of Photo Viewer on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-windows-11s-next-chapter/"><u>AI Integration: Windows 11'S Next Chapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Civi 3 Disney 100th Anniversary Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-a-background-in-affinity-photo/"><u>In 2024, How to Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/installazione-facoltativa-di-tecnico-aomei-e-spazio-infinito-sul-cloud-con-aomei-backupper-scopri-le-possibilita/"><u>Installazione Facoltativa Di Tecnico AOMEI E Spazio Infinito Sul Cloud Con AOMEI Backupper: Scopri Le Possibilità</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719239834039-start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements</u></a></li>
 </ul></div>
 

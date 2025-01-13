@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface
-date: 2024-12-30T04:25:01.698Z
-updated: 2025-01-06T00:39:35.291Z
+date: 2025-01-07T19:51:01.863Z
+updated: 2025-01-13T00:05:12.394Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Background Blur Feature in the Photos App?
 
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable and Use Background Blur in the Photos App
 
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Select image in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-image-in-the-photos-app.jpg)
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
 2. Click and drag the mouse on the area to select it for applying the blur effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
 4. If you want to deselect a part of the image from the blur effect, click on the **Deselect area** option.  
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 8. Type a name and click on the **Save** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Background blur effect in action in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/background-blur-effect-in-action-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Blur the Backgrounds in Your Photos
@@ -106,21 +106,24 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-express-originality-craft-professional-logos-from-template-designs-free-for-2024/"><u>[New] Express Originality Craft Professional Logos From Template Designs (Free) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-ppt-transformers-to-vimeo/"><u>[New] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/balanced-review-of-the-viewsonic-va1nte-1655-portable-monitor-that-hits-the-middle-ground-in-all-aspects/"><u>Balanced Review of the ViewSonic VA1nte 1655: Portable Monitor that Hits the Middle Ground in All Aspects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-snip-and-sketch-failures-a-guide-to-capturing-entire-display/"><u>Combat Snip & Sketch Failures: A Guide to Capturing Entire Display</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elite-techniques-for-expertise-in-full-screen-premiere-viewing/"><u>Elite Techniques for Expertise in Full Screen Premiere Viewing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixed-troubleshoot-keyboard-shortcuts-on-windows-11/"><u>Fixed: Troubleshoot Keyboard Shortcuts on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-microsoft-ai-transforms-online-marketplaces/"><u>How Microsoft AI Transforms Online Marketplaces</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Note 30 VIP?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-g54-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola G54 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-android-software-syncing-with-windows-devices/"><u>Ideal Android Software Syncing With Windows Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-maximizing-performance-with-pro-windows-10-skills/"><u>In 2024, Maximizing Performance with Pro Windows 10 Skills</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-art-and-science-of-compelling-headlines/"><u>In 2024, The Art & Science of Compelling Headlines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/successfully-integrating-office-works-into-win11/"><u>Successfully Integrating Office Works Into Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-key-to-customizable-desktop-context-in-modern-os/"><u>The Key to Customizable Desktop Context in Modern OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-operation-with-superior-run-capabilities/"><u>Transforming Windows 11 Operation with Superior Run Capabilities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-top-alternative-movies-to-watch-ranked-7/"><u>[Updated] Top Alternative Movies to Watch, Ranked #7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-precise-methods-to-resolve-onedrive-errors/"><u>6 Precise Methods to Resolve OneDrive Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-32windows-10dvd/"><u>官方 WinX DVD Ripper 白金版：32倍加速，在Windows 10上简易复制任意DVD内容</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-of-crashes-in-the-epic-launcher-for-win-users/"><u>Avoidance of Crashes in the Epic Launcher for Win Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackview-minipc-extended-storage-mediocre-execution/"><u>Blackview MiniPC: Extended Storage, Mediocre Execution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-with-automated-folder-pairings-in-new-windows-os/"><u>Boost Efficiency with Automated Folder Pairings in New Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-hotkeys-for-instantaneous-windows-redos/"><u>Boost Efficiency: Hotkeys for Instantaneous Windows Redos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719320045015-clean-and-tailor-your-w11-desktop-now/"><u>Clean & Tailor Your W11 Desktop, Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719359374237-combat-window-settings-malfunctions-now/"><u>Combat Window Settings Malfunctions Now!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-integrating-text-overlays-into-social-media-streaming/"><u>In 2024, Integrating Text Overlays Into Social Media Streaming</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-essential-2023-social-media-video-exploration/"><u>In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719338441167-navigating-through-the-hurdles-winplusprint-mishaps-in-windows/"><u>Navigating Through the Hurdles: Win+Print Mishaps in Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719298161302-overcoming-grayed-out-screensaver-in-win-os-top-fixes/"><u>Overcoming Grayed-Out Screensaver in Win OS: Top Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tp-link-archer-c80-speed-test-the-ultimate-guide-to-under-100-routers/"><u>Top TP-Link Archer C80 Speed Test: The Ultimate Guide to Under-$100 Routers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-ending-lag-issues-with-obs-for-seamless-streaming-and-recording/"><u>Ultimate Guide: Ending Lag Issues with OBS for Seamless Streaming & Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

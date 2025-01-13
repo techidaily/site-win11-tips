@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Integrating Submenus Into Win 11"
-date: 2024-12-31T04:40:03.540Z
-updated: 2025-01-06T00:33:41.728Z
+date: 2025-01-07T16:06:59.194Z
+updated: 2025-01-12T18:45:30.133Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg)
 4. Enter **Menu1** to be the new key’s name.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click **Menu1** to select the **New** \> **String Value** options.
 
 1. Input **MUIVerb** for the new string’s name.
@@ -43,17 +47,9 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Menu1 registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-menu1-key.jpg)
 3. Double-click the **MUIVerb** string added to the **Menu1** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter **Apps** in the **Value** box for the **MUIVerb** string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the **Value data** box if preferred.  
 ![The MUIVerb string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg)
 5. Click **OK** to exit the Edit String window for **MUIVerb**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Next, double-click on the **SubCommand** string inside the **Menu1** key.
 7. Input **Notepad; Remote Desktop Connection** inside the **Value** box for the **SubCommands** string and click **OK**.  
@@ -94,7 +90,11 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Delete option for the Menu1 key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Submenu to the Context Menu With Easy Context Menu
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 4. Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the **List Editor** button in Easy Context Menu.
@@ -120,14 +120,14 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The List Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu.jpg)
 3. Click the **Add New** button with the **Software Shortcuts** submenu selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select a program you want to include in the submenu and click **Open**.
 5. Repeat the previous two steps to add more programs to the submenu.  
 ![A program shortcut added to the Software Shortcuts submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/program-shortcuts.jpg)
 6. Select the checkboxes for the new **Software Shortcuts** submenu and the programs added to it in the List Editor window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Press the **Save Changes** button and close the List Editor window.
 8. Select the checkboxes for the **Software Shortcuts** submenu and the program options it includes within the Easy Context Menu window.  
@@ -138,15 +138,15 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 ![software-shortcuts-submenu2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another advantage of utilizing Easy Context Menu is that it includes options for positing the submenu. You can configure the approximate position of that submenu by selecting one of the three **Show at** options for it within the List Editor window. You can also reposition the submenu or items in it by selecting them and clicking the **Move Up** or **Move Down** buttons.
 
  Easy Context Menu also includes **Tools**, **System Tools**, and **Turn Off Options** submenus for you to add to the right-click menu. To add those submenus, select the **System Tools**, **Turn Off Options**, and **Tools** checkboxes for the desktop context menu and click **Apply Changes**. You can also deselect some of the checkboxes for those submenus to remove certain shortcuts from them.
 
 ![A Tools submenu added with Easy Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Organize Your Windows Desktop Context Menu Shortcuts With Submenus
 
@@ -166,22 +166,18 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-15-best-action-cameras-from-beginners-to-pros/"><u>[New] 2024 Approved 15 Best Action Cameras - From Beginners to Pros</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[New] 2024 Approved Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-starting-out-top-pick-gopro-supplements/"><u>[Updated] In 2024, Starting Out Top Pick GoPro Supplements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-cutting-edge-video-editing-vivacuts-2024-insight/"><u>[Updated] Masterclass in Cutting Edge Video Editing - VivaCut's 2024 Insight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directly-engage-with-images-in-windows-explorer/"><u>Directly Engage with Images in Windows Explorer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/efficiently-allocating-more-memory-to-minecraft/"><u>Efficiently Allocating More Memory to Minecraft</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-skits-building-a-parody-film-for-2024/"><u>Laughing Skits Building a Parody Film for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-explorer-onedrive-as-a-launchpad/"><u>Mastering File Explorer: OneDrive as a Launchpad</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-blaze-2-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-default-sound-level-configurations-in-windows/"><u>Restoring Default Sound Level Configurations in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-no-write-error-a-guide-for-windows-users/"><u>Tackling the No Write Error: A Guide for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-popular-rainmeter-problems-in-windows-systems/"><u>Troubleshooting Popular Rainmeter Problems in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-aid-unlocking-essential-assistive-tech/"><u>Windows Aid: Unlocking Essential Assistive Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-identity-under-threat-are-biometrics-safe/"><u>Windows Identity Under Threat: Are Biometrics Safe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-freezes-in-apex-legends/"><u>Winning the Battle Against Freezes in Apex Legends</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c02-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C02 is off? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-video-wizardry-mp4-download-spell/"><u>In 2024, Facebook Video Wizardry - MP4 Download Spell</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-versatile-garmin-gpsmap-64st-your-ultimate-handheld-companion/"><u>In-Depth Analysis of the Versatile Garmin GPSMAP 64St: Your Ultimate Handheld Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovation-unbound-ais-impact-on-windows-tech-advances/"><u>Innovation Unbound: AI's Impact on Windows Tech Advances</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>New Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-faulty-drives-in-windows/"><u>Streamlining Faulty Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskbar-evolution-a-timeline-from-85-to-present/"><u>Taskbar Evolution: A Timeline From '85 To Present</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-pc-doesnt-meet-game-bar-issue/"><u>Troubleshooting PC Doesn't Meet Game Bar Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-these-cherished-family-friendly-films-on-amazon-prime-video-in-july-2024/"><u>Watch These Cherished Family-Friendly Films on Amazon Prime Video in July 2024!</u></a></li>
 </ul></div>
 

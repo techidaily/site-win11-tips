@@ -1,7 +1,7 @@
 ---
 title: Correcting the Erratic Power Estimate Display in Windows 11 OS
-date: 2024-12-30T17:57:08.267Z
-updated: 2025-01-06T01:35:49.615Z
+date: 2025-01-05T20:19:51.774Z
+updated: 2025-01-13T00:43:59.337Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Did the Time Estimate Go?
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 ![battery icon tooltip in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/battery-time.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Battery Time Estimate in the Registry
@@ -57,20 +57,20 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 ![power values in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-key.jpg)
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
 ![Changing value data in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-dword.jpg)
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. You don't need to change the Value data for these, as they should default to a 0 value.
 
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
@@ -92,21 +92,22 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fixing-inertia-and-jello-distortions-in-uav-clips-for-2024/"><u>[New] Fixing Inertia and Jello Distortions in UAV Clips for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-establishing-a-mac-based-sports-media-outlet/"><u>[New] In 2024, Establishing a Mac-Based Sports Media Outlet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[New] In 2024, Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-30-new-dimensions-in-metaverse-memes/"><u>[New] Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ranking-the-ultimate-vr-fun-on-mobile-devices/"><u>[Updated] Ranking the Ultimate VR Fun on Mobile Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-mobile-video-assembly-software-for-smartphones/"><u>[Updated] Top Mobile Video Assembly Software for Smartphones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-safe-digital-playground-windows-11-controls/"><u>Creating a Safe Digital Playground: Windows 11 Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-cameras-unsuccessful-save-attempts/"><u>Decoding Windows Camera's Unsuccessful Save Attempts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-flickering-mouse-in-windows/"><u>Eradicating Flickering Mouse in Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-copilot-unveiled-revolutionizing-the-development-process/"><u>Microsoft Copilot Unveiled: Revolutionizing the Development Process</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-no-powershell-found-on-your-windows-device/"><u>Remedies for No PowerShell Found on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-simplification-how-to-defrag-a-drive-with-win11/"><u>System Simplification: How to Defrag a Drive with Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-shortcut-for-seamless-sticky-note-entry/"><u>Win11's Shortcut for Seamless Sticky Note Entry</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-display-a-comprehensive-tutorial-on-laptop-and-tv-connectivity-via-hdmi/"><u>Wireless Display: A Comprehensive Tutorial on Laptop & TV Connectivity via HDMI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-10-superior-text-conversion-tools-for-mac-enthusiasts/"><u>[Updated] 10 Superior Text Conversion Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-guide-to-screen-record-on-mac-with-shortcuts/"><u>[Updated] In 2024, Guide to Screen Record on Mac with Shortcuts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precise-color-correction-mastery-in-gopro-studio/"><u>[Updated] Precise Color Correction Mastery in GoPro Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-1011-functionality-add-diskspace-analyzer-menu-feature/"><u>Boosting Windows 10/11 Functionality: Add DiskSpace Analyzer Menu Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-drive-space-without-deletion/"><u>Boosting Windows Drive Space Without Deletion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bouncing-back-from-excessive-life-enthusiasm-on-windows-systems/"><u>Bouncing Back From Excessive Life Enthusiasm on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-file-save-obstacles-quick-fixes-to-overcome-win11-issues/"><u>Bypass File Save Obstacles: Quick Fixes to Overcome WIN11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-sound-with-snipping-tools-screen-recorder-feature-max-156/"><u>Capturing Sound with Snipping Tool's Screen Recorder Feature (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-the-intrusive-windows-update-alerts/"><u>Cease the Intrusive Windows Update Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-defaults-optimize-your-windows-11-device-use/"><u>Changing Defaults: Optimize Your Windows 11 Device Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-your-cutting-edge-for-windows-screenshots/"><u>Choosing Your Cutting Edge for Windows Screenshots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-comfort-in-simplicity-can-apples-vision-pro-enhance-your-economy-travel-experience/"><u>Exploring Comfort in Simplicity: Can Apple's Vision Pro Enhance Your Economy Travel Experience?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/krasser-vs-samsung-ssd-die-optimale-wahl-fur-ihre-speicheranforderungen/"><u>Krasser Vs. Samsung SSD - Die Optimale Wahl Für Ihre Speicheranforderungen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-shading-language-user-manual/"><u>OpenGL Shading Language User Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-permission-from-trustedinstaller-to-alter-windows-system-files/"><u>Securing Permission From TrustedInstaller to Alter Windows System Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-jvmdll-missing-a-step-by-step-guide/"><u>Solving the Mystery of JVM_DLL Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-enduring-power-of-the-lg-gram-156-laptop-an-in-depth-look-at-its-remarkable-battery-life-and-portability/"><u>Unveiling the Enduring Power of the LG Gram 15.6 Laptop: An In-Depth Look at Its Remarkable Battery Life & Portability</u></a></li>
 </ul></div>
 

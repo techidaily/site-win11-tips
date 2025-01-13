@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows' Erratic Net Behavior: 0X800704B3"
-date: 2024-12-30T16:28:50.679Z
-updated: 2025-01-05T18:06:18.445Z
+date: 2025-01-06T17:52:17.807Z
+updated: 2025-01-12T23:41:15.057Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Network Troubleshooter
 
  If you encounter a network error, the first thing you should try is running the network troubleshooter. It's a handy tool built into Windows that can quickly scan your network settings, detect common network issues, and even apply automatic fixes.
@@ -43,11 +39,15 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-11-troubleshoot-other-troubleshooter.jpg)
 4. In the following window, look for the Network troubleshooter and click on the **Run** button for it. The troubleshooter will now start scanning the system for potential errors. If it finds anything, it will notify you.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 5. Once the scan completes, check the results. If the troubleshooter has suggested fixes, click on **Apply this fix**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
@@ -65,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Launch properties of DHCP client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/launch-properties.jpg)
 5. Click on the **Start** button for it if the service was not running already. If it was, click **Stop**, wait for a few seconds, and click **Start** again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Ensure the Startup type is set to **Automatic**.  
 ![Restart the DHCP service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-dhcp-service.jpg)
 7. Click **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perform the same steps for these services:
 
@@ -100,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 5. Wait for a few before right-clicking on it again and choosing **Enable**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Once done, close the Settings window and try to perform the action that was initially triggering the error.
 
  If the problem was being caused by issues with the adapter, this should fix them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable SMB 1.0 Protocol
 
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 4. If a confirmation prompt pops up, click **Yes**.  
 ![Locate SMB 1.0 and uncheck the box associated with it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-smb-protocol.jpg)
 5. Click **OK** to save the changes and restart your computer. Upon reboot, check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset TCP/IP Stack
 
@@ -161,18 +161,18 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-investing-in-quality-the-path-to-top-tier-fb-video-ads-for-2024/"><u>[New] Investing in Quality The Path to Top-Tier FB Video Ads for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/avigating-day-to-day-streams-key-dos-and-donts-for-2024/"><u>[New] Navigating Day-to-Day Streams Key Do's & Don'ts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ios-device-integration-with-android-images/"><u>[Updated] IOS Device Integration with Android Images</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-live-video-glitches-on-facebook-how-to-remove-mutes-completinasly/"><u>2024 Approved Live Video Glitches on Facebook - How to Remove Mutes Completinasly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-prime-asmr-apps-android-and-ios-guide/"><u>2024 Approved Prime ASMR Apps Android & iOS Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>In 2024, Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[Updated] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-proven-ways-to-record-and-save-ps4-games-for-2024/"><u>[Updated] Proven Ways to Record and Save PS4 Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-windows-11-collects-your-data/"><u>5 Ways Windows 11 Collects Your Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-deciphering-windows-11s-registry/"><u>A Comprehensive Guide to Deciphering Windows 11'S Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-razers-in-the-synapse-interface-of-win-11/"><u>Addressing Absence of Razers in the Synapse Interface of Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-vanishing-bluetooth-clients-on-pc/"><u>Addressing Vanishing Bluetooth Clients on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-the-tremors-fixing-pointer-instability-in-windows/"><u>Avoid the Tremors: Fixing Pointer Instability in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-browser-practices-optimal-memorycpu-use-on-three-platforms/"><u>Best Browser Practices: Optimal Memory/CPU Use on Three Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-microsoft-windows-compatible-bluetooth-drivers-supported-for-win-10-11-8-and-7/"><u>Download & Update Microsoft Windows Compatible Bluetooth Drivers: Supported for Win 10, 11, 8, and 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-how-to-get-and-setup-new-apple-ios-version/"><u>Easy Tutorial on How To Get And Setup New Apple iOS Version</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-why-imovie-alters-video-borders/"><u>In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
 </ul></div>
 

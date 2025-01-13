@@ -1,7 +1,7 @@
 ---
 title: Combat Shrinking Icon Size on Win 11 Systems
-date: 2025-01-02T08:49:01.686Z
-updated: 2025-01-06T02:57:28.002Z
+date: 2025-01-08T19:34:20.541Z
+updated: 2025-01-12T23:50:12.675Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are My Icons Shrinking on Windows 11?
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restore Icon Size by Deleting Icon Cache
 
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
@@ -49,22 +49,22 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
 
 [Make sure you have file extensions turned on](https://www.makeuseof.com/windows-11-see-file-extensions/), so you know which files to delete, as you don't want to delete anything but the .db files.
 
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Icons From Shrinking
 
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
@@ -89,19 +89,20 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-diy-video-setups-perfect-self-portraits-for-youtubers-for-2024/"><u>[Updated] DIY Video Setups Perfect Self-Portraits for YouTubers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>2024 Approved A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>2024 Approved Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-creative-writing-face-off-which-bot-outperformed-others-on-an-equal-footing-prompt/"><u>AI Creative Writing Face-Off: Which Bot Outperformed Others on an Equal Footing Prompt?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploiting-windows-11s-error-diagnostic-solutions/"><u>Exploiting Windows 11'S Error Diagnostic Solutions</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-analytics-and-personalization/"><u>Harnessing the Power of Cookiebot for Advanced Analytics and Personalization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-10-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 10 & 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-apples-enhanced-logic-pro-innovative-ai-band-collaborators-for-ipads-and-macs-the-latest-update-unveiled-on-zdnet/"><u>Introducing Apple’s Enhanced Logic Pro: Innovative AI Band Collaborators for iPads & Macs - The Latest Update Unveiled on ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-yourphoneexe-malware-insights-on-windows-87/"><u>Is YourPhone.exe Malware? Insights on Windows 8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-access-reactivating-ms-store-apps-in-windows-11/"><u>Regaining Access: Reactivating MS Store Apps in Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence-for-2024/"><u>The Ideal Companion 15 Tripods and Mounts for GoPro Excellence for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-fast-video-trimming-in-windows-11-apps/"><u>Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-thematic-wow-factor-designing-engaging-youtube-templates/"><u>[New] Thematic Wow Factor Designing Engaging YouTube Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-clearsnapzoommax-7-professional-photo-scaling/"><u>[Updated] In 2024, ClearSnapZoomMax 7 Professional Photo Scaling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings-for-2024/"><u>[Updated] Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-w11-taskbar-functionality/"><u>Boosting W11 Taskbar Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-default-security-levels/"><u>Breaking Through Default Security Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-outdated-bios-features/"><u>Breathing Life Into Outdated BIOS Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-between-androidios-and-windows-mic-functionality/"><u>Bridge Between Android/iOS and Windows Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-outlooks-error-0x80040610-your-step-by-step-guide/"><u>Bypassing Outlook's Error 0X80040610: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-failed-install-error-in-discord-win-editions/"><u>Bypassing the Failed Install Error in Discord Win Editions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y77t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y77t to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-14-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 14? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-integration-of-gpt-4-how-these-top-7-applications-harness-its-power/"><u>Understanding the Integration of GPT-4: How These Top 7 Applications Harness Its Power</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-ai-assistant-clear-steps-to-disable-copilot-on-windows-11/"><u>Uninstalling the AI Assistant: Clear Steps to Disable Copilot on Windows 11</u></a></li>
 </ul></div>
 

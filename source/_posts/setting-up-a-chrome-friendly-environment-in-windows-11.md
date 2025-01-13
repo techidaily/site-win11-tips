@@ -1,7 +1,7 @@
 ---
 title: Setting Up a Chrome-Friendly Environment in Windows 11
-date: 2024-08-08T11:08:01.968Z
-updated: 2024-08-09T11:08:01.968Z
+date: 2025-01-09T01:39:14.446Z
+updated: 2025-01-12T19:58:07.151Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  Installing Chrome on Windows 11 isn't as simple as you might think. Let's run through a few of the choices you have and issues you might run into while trying to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Download the 32-bit or 64-bit Version of Chrome?
 
  First up, you need to know if you're running 32-bit or 64-bit Windows 11\. There are a few ways you can tell if you're running 64-bit Windows, but here is the simplest and quickest way.
@@ -38,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
  So if you have a 32-bit system, simply click the**Download** button on this page. The download of the .exe file will begin after you accept Google's terms and conditions and choose if you want it as your default browser or not.
 
 ![System details in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-system.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Those with a 64-bit system will want to visit the[64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
 
@@ -59,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  Chrome Canary, on the other hand, is much riskier than the Beta. Canary is for the bleeding edge folks who want the latest and greatest and are willing to sacrifice stability. Thankfully, Canary runs as a separate app from stable Chrome, so you can have both running side-by-side. That way, if a major bug renders Canary unusable, you have stable Chrome as a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What if Windows SmartScreen Can't Be Reached?
 
  If during the installation of your chosen version of Chrome, you get a large green bar across your screen that says**Windows SmartScreen Can't Be Reached** and won't allow you to run the installer, there's a simple fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows-64-5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/windows-64-5.png)
 
  Windows Smartscreen is one of the many[security features of Windows 11](https://www.makeuseof.com/windows-11-quick-security-guide/) , and it's meant to protect you from viruses. When connected to the internet, Smartscreen scans any executable files (like the .exe that installs Chrome) and compares them to a list of known malware. This is a great last defense if you've accidentally downloaded malware and it has tried to install itself, but Chrome is obviously not malware.
@@ -81,31 +80,22 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ![selecting reputation-based protection in security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reputation-based-protection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Doing this will disable Windows SmartScreen, although this is not recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Trouble With Your Internet Connection?
 
  The Chrome installer needs the internet to properly install, but not everyone has a consistent and strong enough connection for it to work well. If that's the case, go ahead and download the[offline Chrome installer](https://support.google.com/chrome/answer/126299?hl=en) . After downloading the file, you can share it with another PC or install it on the PC you downloaded it to. Launch the installer and follow the on-screen instructions to install Chrome.
 
  Once Chrome is installed, though, you should really keep your Chrome updating in the background for security and performance enhancements. If you prevent Chrome from doing that, you should revisit the offline Chrome installer page every once in a while to install the newest version of Chrome to make sure your browser remains secure and fast.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Common Errors With Your Chrome Installation
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on[Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Start Menu and Taskbar Icons
 
  With Chrome installed, the icon will appear in your list of apps. You can see this list by pressing the Windows Key to get to the Start menu, and then either swiping up (on a touchscreen) or searching for**Chrome** (on a non-touchscreen).
@@ -114,40 +104,43 @@ No advertising on the website.
 
  If you prefer to stay in the desktop environment, you can pin it to the Taskbar to keep it pinned to the bar that runs along the bottom of your desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Master the Chrome Keyboard Shortcuts
 
  We've provided a list of all the[keyboard shortcuts for Chrome](https://www.makeuseof.com/tag/google-chrome-shortcuts-pdf/) on Windows, and they're incredibly helpful for increasing the speed at which you can use your browser. Keep a list of the most useful ones for yourself and work on memorizing them—you won't regret it.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are You Using a Touchscreen? Enable Pinch-to-Zoom
 
  If your device has a touchscreen, pinch-to-zoom will be an invaluable feature. If it isn't working when you start Chrome, you can enable it by navigating to**chrome://flags/#enable-pinch** in the address bar and selecting**Enabled** from the drop-down menu for**Enable pinch scale** .
 
 If it ever gives you issues, you can always go back and disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Uninstall Chrome
 
  Switching to another browser and no longer want Chrome? Uninstallation is easy. Press the**Windows key** to get back to the Start menu and type**Uninstall** . Select**Apps & features** from the search results that appear on the left side.
 
  This will open a window on the desktop with a list of all your installed desktop applications. Find Chrome, select the vertical ellipsis to the app's right, and click**Uninstall** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting the Most Out of Chrome on Windows 11
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +149,26 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/mplifying-impact-youtube-visibility-techniques-for-2024/"><u>[New] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-screenshot-and-record-tools-for-firefox-for-2024/"><u>[New] Leading Screenshot & Record Tools for Firefox for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-ape-movavi/"><u>完全無料のオンラインMP3変換ツール - APEフォーマット対応: Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-apples-latest-enhancements-the-most-exciting-new-carplay-innovations-unveiled-at-wwdc-202n-tech-news/"><u>Discover Apple's Latest Enhancements: The Most Exciting New CarPlay Innovations Unveiled at WWDC 202N - Tech News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-unopenable-windows-folders-click-doubled-down/"><u>Fixes for Unopenable Windows Folders, Click-Doubled Down</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/folders-and-files-in-the-spotlight-6-access-techniques/"><u>Folders and Files in the Spotlight: 6 Access Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2020-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2020)? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-choose-and-set-your-favorite-command-prompt/"><u>How to Choose and Set Your Favorite Command Prompt</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-the-art-of-design-10-secrets-for-podcast-imagery-for-2024/"><u>Mastering the Art of Design 10 Secrets for Podcast Imagery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide-for-2024/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-faulty-troubleshooters-in-windows-os/"><u>Reinvigorating Faulty Troubleshooters in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snapseed-basics-unlock-your-image-editing-potential-for-2024/"><u>Snapseed Basics Unlock Your Image-Editing Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-warframe-pc-game-crashes-steps-towards-a-solution/"><u>Troubleshooting Warframe PC Game Crashes: Steps Towards a Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-windows-print-management-interface/"><u>Understanding the Role of Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-multiscreen-woes/"><u>Understanding Windows Multiscreen Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-configurations-restarted-a-triad-of-tips/"><u>Win11 Configurations Restarted: A Triad of Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters-for-2024/"><u>YouTube to AVI Tutorial + 8 Best YouTube to AVI Converters for 2024</u></a></li>
+</ul></div>
 

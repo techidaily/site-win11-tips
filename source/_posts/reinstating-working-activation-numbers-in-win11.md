@@ -1,7 +1,7 @@
 ---
 title: Reinstating Working Activation Numbers in Win11
-date: 2024-08-08T11:07:14.999Z
-updated: 2024-08-09T11:07:14.999Z
+date: 2025-01-09T02:02:36.334Z
+updated: 2025-01-12T20:57:10.992Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,15 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
  There might be a problem with the key, with your internet connection, or maybe you’re doing something wrong. In this article, we’ll take a quick look at what you can do when the activation key is not working.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  To use the Windows 11 activation key, you need a stable internet connection. If you are experiencing internet issues, your internet might be too slow for you to successfully use the activation key.
 
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check That Windows Isn’t Already Activated
 
  You can get a computer with preinstalled Windows, so you don't have to deal with the process of installing the operating system by yourself. Usually, you can set it up when you first turn on your PC.
@@ -48,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
  If the status is**Active** , your problem stops here; you're already activated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Activation Troubleshooter
 
  If you didn’t manage to activate Windows 11 with your activation key, you can run the Activation troubleshooter to fix the problem.
@@ -58,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
  To access it, launch Windows Settings and go to**System > Troubleshoot > Other trouble-shooters** . There, find the**Activation** troubleshooter and click**Run** next to it.
 
 **Note** : If you don’t see the Activation troubleshooter, it means you’ve already activated Windows 11\. In this case,[check your Windows 11 product key](https://www.makeuseof.com/windows-11-find-product-key/) so you don’t try and use it for another activation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Ensure You're Using the Correct Windows Edition
 
@@ -67,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
 ## 5\. Use a Genuine Activation Key
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![3-download-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/3-download-windows-11.jpg)
 
  If you don’t use a genuine activation key, you won’t be able to activate Windows on your computer. Unfortunately, there are scammers out there who give out fake Windows activation keys to buyers.
@@ -82,18 +78,23 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
  This will open an official Microsoft storefront where you can buy a key without any risk of scammers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Ensure You're Using the Key on One Computer Only
 
  Even if you’re sure that you have a genuine activation key and license, you can’t use them for more than one computer. If you already used the key, you’ll have to deactivate Windows 11 by uninstalling the product key.
 
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run an SFC Scan
 
@@ -102,20 +103,18 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
  Launch Command Prompt with administrative rights, type**sfc /scannow,** and press**Enter** . Windows will now search for any corrupted or damaged files and replace them automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No More Activation Key Blunders
 
  Hopefully, you got the key working, and you’re now using an activated Windows license. If you don’t mind the Activate Windows watermark or the constant notifications, you may think that there’s no point in paying for a license. However, there are a few considerations why you shouldn’t use a non-activated Windows license.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,26 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-thorough-exploration-of-kinesthetic-controls/"><u>[New] In 2024, A Thorough Exploration of Kinesthetic Controls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-upside-and-downside-of-virtual-reality-experience/"><u>[New] The Upside and Downside of Virtual Reality Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[Updated] Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>[Updated] In 2024, Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-standout-vr-film-highlights-to-discover/"><u>[Updated] Standout VR Film Highlights to Discover</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-15-pro-max-how-to-unlock-a-disabled-apple-iphone-15-pro-max-by-drfone-ios/"><u>Disabled Apple iPhone 15 Pro Max How to Unlock a Disabled Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-directory-size-a-powershell-approach/"><u>Dissecting Directory Size: A PowerShell Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-handling-widget-notifications-win-11-style/"><u>Efficiently Handling Widget Notifications Win 11 Style</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-digital-marketing-the-cookiebot-edge/"><u>Enhance Your Digital Marketing: The Cookiebot Edge</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exclusive-insights-into-making-memorable-instagram-movies/"><u>Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-crash-of-windows-update-error-x712/"><u>Fixing the Crash of Windows Update Error X712</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-netgear-wireless-usb-adapter-download/"><u>Free Netgear Wireless USB Adapter Download</u></a></li>
+<li><a href="https://video-capture.techidaily.com/leading-the-way-in-video-game-recording-software-without-fbx-dependence-for-2024/"><u>Leading the Way in Video Game Recording Software Without FBX Dependence for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-comics-an-intuitive-approach-for-win11-users/"><u>Navigating Comics: An Intuitive Approach for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-grades-with-these-top-8-windows-study-hacks/"><u>Skyrocket Grades with These Top 8 Windows Study Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-efficient-qr-codes-on-windows-systems/"><u>Unlocking Secrets: Efficient QR Codes on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-secure-testing-solution-enabling-and-configuring-sandbox/"><u>Win 11'S Secure Testing Solution: Enabling and Configuring Sandbox</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Navigating Your Way Through NetConfig
-date: 2024-08-08T11:04:17.513Z
-updated: 2024-08-09T11:04:17.513Z
+date: 2025-01-07T00:33:03.047Z
+updated: 2025-01-12T22:01:18.837Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Use the Start Menu Search Bar
 
  An easy way to open the Network Connections tool is via the Start menu.
@@ -44,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 ![Opening the Windows Network Connections Tool with the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-with-the-Run-command-dialog-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Quick Access Menu
 
  The Quick Access menu helps you easily access the Network Connections tool and other features like the Device Manager and more. As such, it's a great tool to have on hand if you want to access one of Windows' many diagnostics tools
@@ -55,10 +53,11 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 1. Press **Win + X** or right-click on the **Windows icon** to open the Quick Access menu.
 2. Select **Network Connections** from the menu items.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Opening the Windows Network Connections Tool using the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Quick-Access-Menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use File Explorer's Address Bar
 
@@ -67,14 +66,8 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 1. Press **Win + E** to open File Explorer.
 2. Type **ncpa.cpl** in the address bar and press **Enter** to open the Network Connections tool.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Windows Network Connections Tool using File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-File-Explorers-Address-Bar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use the Wi-Fi Icon or System Settings
 
  The Wi-Fi icon on your taskbar comes in handy when you want to [configure network-related issues](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/). But that's not all—you can also use that icon to open the Network Connections tool. Here’s how:
@@ -82,10 +75,11 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 1. Right-click on the **Wi-Fi icon** on the taskbar and select **Open Network & Internet settings**.
 2. Finally, click **Change adapter options** to open the Network Connections tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Opening the Windows Network Connections Tool using the Wi-Fi icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Wi-Fi-icon.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, open the Network Connections tool via the system settings through these steps:
 
@@ -96,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ## 6\. Use the Command Prompt or PowerShell
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
  The Command Prompt and PowerShell make it easy for you to [troubleshoot a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/). Interestingly, these tools can also help you access a lot of the software programs on your device.
@@ -116,9 +107,9 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 3. Type **ncpa.cpl** and press **Enter** to open the Network Connections tool.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Use the Control Panel
 
  The Control Panel is a reliable tool that helps with troubleshooting Windows system-related issues. This tool can also help you easily access most of the software programs on your Windows device.
@@ -130,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 3. Select the **Network and Sharing Center** from the menu options.
 
 ![Opening the Windows Network Connections Tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, click **Change adapter settings** to open the Network Connections tool.
 
@@ -145,9 +140,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![Opening the Windows Network Connections Tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Task-Manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Use the Executable File in the System32 Directory
 
  Now, let's explore how to open the Network Connections tool using the relevant executable (.exe) file. This particular file is hiding somewhere in the System32 folder, so we'll show you how to locate it:
@@ -160,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![Clicking the ncpa.cpl option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-ncpa-cpl-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Create a Network Connections Desktop Shortcut
 
  Desktop shortcuts make it easy for you to access the apps on your Windows device. So, let’s take a look at how to create a Desktop shortcut for the Network Connections tool:
@@ -170,13 +166,18 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![Creating the Network Connections Tool shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-the-network-connections-tool-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, type **Network Connections Tool** in the name field and click **Finish**. Now, you can easily access the Network Connections tool using the desktop shortcut you've just created.
 
  That's it! You’re now able to easily access the Windows Network Connections tool. So, let's now explore tips on how to check the network connection status on your Windows device.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Your Network Connection Status on Windows
 
  There are some good reasons why you'd want to open the Network Connection tool. For instance, you can use it to troubleshoot network issues, enable/disable IPv6 (Internet Protocol version 6), and more.
@@ -210,11 +211,30 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-win-audio-experience/"><u>[New] Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-peak-content-igtvs-leaders-for-2024/"><u>[New] Navigating the Peak Content IGTV's Leaders for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>2024 Approved From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-prime-5-chrome-tools-for-facebook-vids/"><u>2024 Approved Unveiling Prime 5 Chrome Tools for Facebook Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-11-boot-tracks-step-by-step-guide/"><u>Clearing Windows 11 Boot Tracks: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-win11s-sticky-notes-with-ease/"><u>Conquer Win11's Sticky Notes with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-clearance-ways-keeping-files-on-win11-safe-max-156-chars/"><u>Drive Clearance Ways: Keeping Files on Win11 Safe (Max 156 Chars)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enable-clean-listening-mode-and-remove-inappropriate-tracks-from-your-spotify-library/"><u>How to Enable Clean Listening Mode & Remove Inappropriate Tracks From Your Spotify Library</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-click-attractor-the-title-crafting-kit/"><u>In 2024, Click Attractor The Title Crafting Kit</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-rise-and-fall-of-cozy-gaming/"><u>Investigating the Rise and Fall of Cozy Gaming</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-windows-11-essential-guide-on-using-its-built-in-backup-features/"><u>Mastering Windows 11: Essential Guide on Using Its Built-In Backup Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-minimizing-disruptions-in-windows-updates/"><u>The Art of Minimizing Disruptions in Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-reasons-to-choose-win11-over-apples-macos/"><u>Top Reasons to Choose Win11 Over Apple's macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-boot-speed-heres-how/"><u>Turbocharge Windows 11 Boot Speed – Here’s How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-windows-devices-microsoft-store-error-code-x800704cf/"><u>Unlocking Your Windows Devices: Microsoft Store Error Code X800704CF</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webm-a-vuoto-trasformare-i-tuoi-file-con-il-metodo-gratuito-di-movavi/"><u>WebM a Vuoto - Trasformare I Tuoi File Con Il Metodo Gratuito Di Movavi</u></a></li>
+</ul></div>
+

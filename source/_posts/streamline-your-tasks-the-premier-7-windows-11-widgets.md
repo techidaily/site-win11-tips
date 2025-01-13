@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Tasks: The Premier 7 Windows 11 Widgets"
-date: 2024-08-08T11:09:25.152Z
-updated: 2024-08-09T11:09:25.152Z
+date: 2025-01-09T18:51:03.530Z
+updated: 2025-01-13T00:16:39.086Z
 tags:
   - windows10
   - windows11
@@ -30,37 +30,40 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. To Do
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft To Do is a powerful daily productivity planner, packed with tools to help you be more efficient and build a better to-do list. If you’re new to the app, check out our [beginner’s guide to Microsoft To Do](https://www.makeuseof.com/a-beginners-guide-to-microsoft-to-do-how-to-organize-your-personal-and-work-life/).
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Focus Session
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
 
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
@@ -69,22 +72,24 @@ The ultimate burning program for all your needs!</a>
 
  You can also change which features are disabled during focus sessions by heading to the Windows Settings page and then navigating to **System > Focus**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Phone Link
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Link widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-link-widget-windows-11.jpg)
 
  Phone Link is one of Microsoft’s newer features, allowing you to connect your Android or iOS device to your PC. Using the tool, you can view mobile notifications and updates directly from your Windows machine.
 
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Tips
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
 
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
@@ -101,16 +106,8 @@ The ultimate burning program for all your needs!</a>
 
 **Download**: [Memory Check](https://apps.microsoft.com/detail/9PKWVP7N1QS9) ($1.99)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Memodown
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
 
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
@@ -125,11 +122,28 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/0-best-youtube-video-to-mp3-converter/"><u>[New] 10 Best YouTube Video to Mp3 Converter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-terria-customization-collection/"><u>[New] In 2024, Ultimate Terria Customization Collection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-sincere-evaluation-of-a-digital-audio-player/"><u>[Updated] 2024 Approved The Sincere Evaluation of a Digital Audio Player</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chuckling-chronicles-your-essential-meme-tools-list/"><u>2024 Approved Chuckling Chronicles Your Essential Meme Tools List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-hyper-v-enablement-in-win11/"><u>Essential Guide to Hyper-V Enablement in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-red-to-ready-8-methods-to-mend-your-monochrome-misstep/"><u>From Red to Ready: 8 Methods to Mend Your Monochrome Misstep</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974759351-get-your-insignia-usb-to-lan-converter-drivers-here/"><u>Get Your Insignia USB to LAN Converter Drivers Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-widgets-toolbar-in-windows-11/"><u>How to Enable the Widgets Toolbar in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30i Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-programs-syncing-your-windows-pc-with-android/"><u>Perfect Programs: Syncing Your Windows PC with Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-a-frozen-system-interface/"><u>Resuscitating a Frozen System Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/strengthen-your-digital-communication-with-these-5-premier-secure-email-solutions/"><u>Strengthen Your Digital Communication with These 5 Premier Secure Email Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-audio-waves-top-10-bgm-for-youtube-short-videos-for-2024/"><u>Viral Audio Waves Top 10 BGM for YouTube Short Videos for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Fixing Steam Folder Permissions on Windows 11
-date: 2024-08-08T11:07:17.956Z
-updated: 2024-08-09T11:07:17.956Z
+date: 2025-01-09T01:55:18.431Z
+updated: 2025-01-12T19:09:02.407Z
 tags:
   - windows10
   - windows11
@@ -28,18 +28,16 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 2. Type the following path in the address bar at the top and press the **Enter** key to navigate to it: **C:\\Program Files (x86)**
 3. Double-click on the **Steam** folder. Now, right-click on the **steamapps** folder and select the **Properties** option from the context menu.
 4. Navigate to the **Attributes** section and uncheck the **Read-only** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Change the Steam Folder Attributes-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-the-steam-folder-attributes-1.jpg)
 5. Click on the **Apply** button and then click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the Steam App With Administrator Privileges
 
  Missing privileges can cause issues with some features in Steam. So, you must close and restart the Steam app with admin rights. Here’s how:
@@ -47,9 +45,6 @@ The ultimate burning program for all your needs!</a>
 1. Press **Ctrl + Shift + Esc** keys together to [launch Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 2. Find the **Steam** process and right-click on it. Select the **End Task** Option.
 3. Press the **Win** key, type **Steam**, and click on the **Run as administrator** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Run the Steam App With Administrator Privileges-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-the-steam-app-with-administrator-privileges-1.jpg)
 4. The User Account Control window will launch. Click on the **Yes** button.
 
@@ -81,17 +76,9 @@ The ultimate burning program for all your needs!</a>
 6. After the repair completes, click on the **Close** button.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Re-Add the Steam Library Folder
 
  If you still face the “Steam library folder not writable” error, you must remove and re-add the Steam library folder using the Storage settings. Repeat the following steps:
@@ -103,9 +90,6 @@ The ultimate burning program for all your needs!</a>
 5. Now, click on the **plus** icon. Select the folder location and click on the **Add** button.
 6. Close and relaunch Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 6\. Flush the Steam Download Cache
 
  An outdated or corrupt download cache can cause interference while installing games or updating the Steam client. So, you must empty the Steam download cache using the settings. Repeat the following steps to do so:
@@ -114,9 +98,6 @@ The ultimate burning program for all your needs!</a>
 2. Click on the **Steam** button and then click on the **Settings** option to open the app settings.
 3. Navigate down and click on the **Downloads** option.
 4. Find the **Clear Download Cache** option in the right pane. Click on the **Clear Cache** button.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the **Confirm** button.
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
@@ -126,9 +107,9 @@ The ultimate burning program for all your needs!</a>
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -140,6 +121,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -149,27 +138,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Open the **Start** menu and type **create and format disk partitions**. Click on the **Open** option in the right pane.
 2. Right-click on the new drive whose letter you want to change. Select the **Change Drive Letter and Paths** option.
 3. Click on the **Change** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the **OK** button once again.
-8. **Close** the Disk Management utility.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. **Close** the Disk Management utility.
+
 ## Make Your Steam Library Folder Writable Again on Windows
 
  These were the methods to fix the “Steam library folder not writable” error. Start by changing the file attributes and relaunching the Steam app with administrator rights. After that, repair the Steam library folder, flush the download cache, and run a check disk scan to fix disk errors.
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +163,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-use-xbox-screen-recorder/"><u>[New] In 2024, How to Use Xbox Screen Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-strategies-for-skipping-virtual-learning-videos/"><u>[New] In 2024, Strategies for Skipping Virtual Learning Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-11-best-color-correction-and-color-grading-tutorial/"><u>2024 Approved 11 Best Color Correction and Color Grading Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-upgrade-download-and-install-thinkpad-t420s-drivers-for-windows-10/"><u>Effortless Upgrade: Download and Install ThinkPad T420s Drivers for Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/engineering-superior-canon-time-lapse-works/"><u>Engineering Superior Canon Time-Lapse Works</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-reviews-steam-deck-models/"><u>Expert Reviews: Steam Deck Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-flushed-to-functional-8-steps-for-desktop-color-correction/"><u>From Flushed to Functional: 8 Steps for Desktop Color Correction</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guia-simplificado-de-gravacao-de-conteudo-do-dvd-diretamente-no-pendrive-utilizando-o-windows-ou-macos/"><u>Guia Simplificado De Gravação De Conteúdo Do DVD Diretamente No Pendrive Utilizando O Windows Ou macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-hyper-v-in-windows-11/"><u>How to Enable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-instagram-virtuosos-playbook-for-widespread-popularity/"><u>In 2024, The Instagram Virtuoso's Playbook for Widespread Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-selectivity-enable-checkbox-file-option-in-win11/"><u>Perfecting Selectivity: Enable Checkbox File Option in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-strategies-for-esa-pre-release-entrances/"><u>Winning Strategies for ESA Pre-Release Entrances</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Reigniting Stalled WSReset Utility in Windows Systems
-date: 2025-01-04T11:53:12.969Z
-updated: 2025-01-06T05:27:46.933Z
+date: 2025-01-11T00:49:58.211Z
+updated: 2025-01-12T17:23:42.440Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix WSReset.exe Not Working on Windows
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
@@ -65,7 +57,15 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset Windows Store
 
@@ -86,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 6. Click **Uninstall** again when prompted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the onscreen instructions and restart your computer when it's done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
@@ -105,6 +109,11 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 5. Running this command will list all user accounts on your computer. Find the SID of your user account and copy it.  
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -118,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall the Microsoft Store
 
  Sometimes Windows Store files are corrupted or damaged. This may require you to [reinstall the Microsoft Store app](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/). The process replaces corrupted or missing files and prevents WSReset.exe from malfunctioning.
@@ -133,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
  If you're still encountering WSReset.exe errors, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/). It refreshes your computer's memory and cleans out temporary files or settings.
 
  You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving the WSReset.exe Issue on Windows
 
@@ -154,22 +155,17 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-ideal-top-5-ios-apps-for-podcasting/"><u>[New] Ideal Top 5 iOS Apps for Podcasting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube/"><u>[New] In 2024, Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-dissecting-disney-disguises-the-goofy-trek/"><u>[Updated] 2024 Approved Dissecting Disney Disguises 'The Goofy Trek'</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>[Updated] 2024 Approved Elevating Your Existence on the Web Expanding Your Youtube Following</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>[Updated] Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovation-in-action-top-video-editing-strategies/"><u>2024 Approved Innovation in Action Top Video Editing Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-story-access-top-anonymous-tools/"><u>2024 Approved Unseen Story Access Top Anonymous Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-strategies-against-locked-out-windows-pin/"><u>Immediate Strategies Against Locked-Out Windows PIN</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/magazine-forecasts-or-machine-learning-which-offers-better-insight-into-your-tomorrow/"><u>Magazine Forecasts or Machine Learning: Which Offers Better Insight Into Your Tomorrow?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-internal-errors-quickly-with-windows-rdp-connections/"><u>Resolving Internal Errors Quickly with Windows RDP Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-cant-get-mail-errors-windows-11-edition/"><u>Strategies to Overcome Can’t Get Mail Errors, Windows 11 Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/undetected-memory-cards-effective-remedies-and-solutions/"><u>Undetected Memory Cards: Effective Remedies and Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-history-hiccup-quick-fixes-in-3-steps/"><u>Windows History Hiccup - Quick Fixes in 3 Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-disseminating-your-work-sharing-igtv-on-facebook/"><u>[New] 2024 Approved Disseminating Your Work Sharing IGTV on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-applying-apple-music-to-your-videos/"><u>[Updated] Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-streamlining-video-playback-with-safaris-pip/"><u>2024 Approved Streamlining Video Playback with Safari's PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-default-settings-on-windows-firewall/"><u>Break Free From Default Settings on Windows Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-old-games-back-to-life-with-retroarch-shaders/"><u>Bringing Old Games Back to Life with RetroArch Shaders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-unyielding-x80049dd3-error-for-better-typing/"><u>Bypassing the Unyielding X80049DD3 Error for Better Typing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-verified-app-requirement-errors-in-windows/"><u>Bypassing Verified App Requirement Errors in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976993955-challenges-include-cavitation-erosion-and-maintaining-stable-two-phase-flow-patterns/"><u>Challenges Include Cavitation, Erosion, and Maintaining Stable Two-Phase Flow Patterns</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-policies/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Policies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-level-up-in-valorant-with-a-costless-cutting-edge-voice-modification-solution/"><u>In 2024, Level Up in Valorant with a Costless, Cutting-Edge Voice Modification Solution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Full Potential of Windows 11'S 5G Capability
-date: 2024-08-08T11:05:11.145Z
-updated: 2024-08-09T11:05:11.145Z
+date: 2025-01-10T00:38:48.873Z
+updated: 2025-01-12T17:29:21.966Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![Update Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, if you don’t want to miss any more updates, you can [have Windows get the latest features as soon as they become available](https://www.makeuseof.com/how-to-get-latest-updates-windows-11/).
 
 ## 2\. Check the Credentials
@@ -42,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
  If you’ve previously connected your phone to the same network, you can check our guide on [how to view saved Wi-Fi passwords on Android](https://www.makeuseof.com/tag/how-to-view-passwords-for-saved-wi-fi-networks-on-android/) to find out the password.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Network & Internet Troubleshooter
 
  It can be really frustrating whenever you run into a network problem on your computer. Fortunately, Windows has a built-in troubleshooter to help you fix it, including when you can’t connect to 5GHz Wi-Fi.
@@ -54,19 +55,16 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 3. From the **Other** list, click the **Run** button next to **Network and Internet**.
 4. Wait for Windows to find the issue and follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Run the network and internet troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/network-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart Your Router
 
  Windows 11’s inability to connect to 5GHz Wi-Fi might be due to a router glitch. While we often ignore it, we should restart the router to keep it working smoothly. However, simply unplugging it for a few minutes might not be enough to fix the issue. Instead, [use the correct way to restart your router](https://www.makeuseof.com/reboot-router-correct-way/).
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Forget the Wi-Fi 2.4GHz Network
 
  If your computer is automatically connecting to the 2.4 GHz Wi-Fi band, it might help to remove it from the known network lists. Here’s how you can manage your networks list in Windows 11:
@@ -77,23 +75,14 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 4. Find the 2.4 GHz network and click the **Forget** button next to it.
 5. Try to connect to the 5GHz Wi-Fi band.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Manage known networks in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/forget-network-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 6\. Set 5GHz as Your Preferred Band
 
  The 2.4GHz has better coverage, so it makes sense if you don’t want to remove it from your computer. However, you can [have Windows switch from 2.4 to 5 GHz](https://www.makeuseof.com/how-to-switch-from-24ghz-to-5ghz-in-windows-10/) if you want to enjoy higher speeds.
 
  If you aren’t that close to the router and the signal is getting weak, you should manually switch back to the 2.4 GHz band.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 7\. Update the Network Driver
 
  Another possible reason for Windows’s issue when it comes to connecting to the 5GHz band might be an outdated or corrupt Wi-Fi driver. Fortunately, you can easily update it through Device Manager.
@@ -103,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 3. Right-click the Wi-Fi driver and select **Update driver**.
 
 ![Update the Wi-Fi driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-wifi-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Windows is showing **The best drivers for your device are already installed** message, head to the manufacturer's website and check if there are any updates available.
 
@@ -117,19 +110,16 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 5. Check the **Show compatible hardware** option.
 6. Select one of the available drivers and click **Install**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Use a different Wi-Fi driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-wi-fi-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Enable IPv6
 
  Internet Protocol version 6 (or IPv6) is the newest version of Internet Protocol (or IP) and newer routers and networks are already using it. If IPv6 is turned off on your Windows computer, it might lead to conflict, which is why you can’t connect to the 5GHz band.
@@ -143,10 +133,11 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 5. Click **OK** to save the new network settings.
 6. Restart your computer and try to connect to the 5GHz Wi-Fi band.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Internet protocol settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ipv6-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Use a Dual Band USB Wi-Fi Dongle
 
@@ -158,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connect Windows 11 to 5GHz Wi-Fi Again
 
  Fixing Windows network issues can be a frustrating task, especially when you can’t find any logical reasons for them. However, we hope the above fixes helped you, and now you’re connected to 5GHZ Wi-Fi.
@@ -166,11 +161,33 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
  If you’re sure your computer supports 5GHz connections but have no success when trying to connect to 5GHz Wi-Fi, go through the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[New] 2024 Approved Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-film-crafting-from-script-to-screen/"><u>[New] 2024 Approved Film Crafting From Script to Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-emulate-hand-held-shooting-effects-in-ps-for-2024/"><u>[Updated] Emulate Hand-Held Shooting Effects in PS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-the-ultimate-windows-screen-snip-list-1-5/"><u>[Updated] In 2024, Unlock the Ultimate Windows Screen Snip List, #1-5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionary-recording-techniques-for-ipads/"><u>[Updated] Revolutionary Recording Techniques for iPads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-videos-with-these-proven-seo-tools-for-more-clicks/"><u>2024 Approved Elevate Your Videos with These Proven SEO Tools for More Clicks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/"><u>Breaking Barriers: Uniting PC & Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-icon-mystery-in-windows-11-cracked-find-and-fix-your-missing-files-now/"><u>Desktop Icon Mystery in Windows 11 Cracked: Find and Fix Your Missing Files Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-error-bcm2omedian-device-unsupported/"><u>Hardware Error - BCM2omedian Device Unsupported</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-spotify-application-is-not-responding-error-in-windows-11-and-11/"><u>How to Fix the “Spotify Application Is Not Responding” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-and-use-the-windows-terminal-in-quake-mode/"><u>How to Open and Use the Windows Terminal in Quake Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-csgo-in-w11/"><u>Mastering the Art of Starting CS:GO in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-efficiency-in-windows-photos-via-shortcuts/"><u>Maximize Efficiency in Windows Photos via Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnection-issues-with-ea-services-in-win/"><u>Overcoming Disconnection Issues with EA Services in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-jot-down-techniques-in-windows-11-no-apps/"><u>Quick Jot-Down Techniques in Windows 11, No Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994543080-scavenger-race-victory-guide-master-your-match-on-pc/"><u>Scavenger Race Victory Guide - Master Your Match on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-integration-how-to-enjoy-chatgpt-features-on-ios-and-android-platforms/"><u>Seamless Integration: How to Enjoy ChatGPT Features on iOS and Android Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slaying-windows-beast-error-code-0xc00ce556/"><u>Slaying Window's Beast Error: Code 0xC00CE556</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-laptop-studio-2-explored-creators-dream-device/"><u>Surface Laptop Studio 2 Explored: Creator's Dream Device?</u></a></li>
+</ul></div>
+

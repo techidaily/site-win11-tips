@@ -1,7 +1,7 @@
 ---
 title: "Determining Active Windows 11: A Guide with 3 Methods"
-date: 2024-12-31T02:58:27.959Z
-updated: 2025-01-06T11:01:09.797Z
+date: 2025-01-05T16:27:13.606Z
+updated: 2025-01-12T18:58:02.792Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Check Windows 11 Activation State via the Run Command
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Checking Windows 11’s Activation Status, Made Easy
@@ -116,24 +116,20 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-dreamscape-mapping-vrs-progress/"><u>[New] 2024 Approved Digital Dreamscape Mapping VR's Progress</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-techniques-to-troubleshoot-silent-obs-sessions/"><u>[New] 2024 Approved Techniques to Troubleshoot Silent OBS Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-the-course-to-trending-youtubers/"><u>[New] In 2024, Charting the Course to Trending YouTubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-synchronizing-social-channels-transferring-fb-videos-on-whatsapp-for-2024/"><u>[Updated] Synchronizing Social Channels Transferring FB Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-sluggishness-boost-your-windows-printer/"><u>Eliminate Sluggishness: Boost Your WIndows Printer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-folder-context-menus-on-windows-1011/"><u>Enhancing Folder Context Menus on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-steelseries-arctis-elite-mic-not-working-problems/"><u>Expert Tips for Resolving SteelSeries Arctis Elite Mic Not Working Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-pose-risks-or-benefits-to-modern-search-engines/"><u>How Does ChatGPT Pose Risks or Benefits to Modern Search Engines?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-windows-widgets-to-monitor-your-hardware-usage/"><u>How to Get Windows Widgets to Monitor Your Hardware Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solidify-remote-access-with-stable-vpn-connection/"><u>How to Solidify Remote Access with Stable VPN Connection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-review-is-inshot-the-editors-choice/"><u>In 2024, In-Depth Review Is InShot The Editor's Choice?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-your-surface-operating-system-current-and-protected/"><u>Keep Your Surface Operating System Current and Protected</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y100i-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y100i FRP Without Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-windows-11s-access-to-5g-wi-fi/"><u>Streamlining Your Windows 11'S Access to 5G Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-erratic-net-behavior-0x800704b3/"><u>Tackling Windows' Erratic Net Behavior: 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-for-a-reliable-windows-11-search-experience/"><u>Top Strategies for a Reliable Window's 11 Search Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-stuck-downloads-fixing-win11-issues-2/"><u>Unfreezing Stuck Downloads: Fixing WIN11 Issues (2)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-woes-installing-oculus-app-without-fails-on-ws11wc10/"><u>WinError Woes: Installing Oculus App Without Fails on WS11/WC10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-processes-for-downloading-live-conversations-for-2024/"><u>[New] Easy Processes for Downloading Live Conversations for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat-for-2024/"><u>[New] Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-minicam-record-evaluation-and-backup-software/"><u>[New] MiniCam Record Evaluation & Backup Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-final-cut-pro-with-ease-an-insiders-guide-for-2024/"><u>[New] Navigating Final Cut Pro with Ease An Insider's Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-amplify-your-status-music-in-whatsapp-for-2024/"><u>[Updated] Amplify Your Status Music in WhatsApp for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-windows-11-desk-drawings/"><u>A Step-by-Step Guide to Windows 11 Desk Drawings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-academic-excellence-winning-strategies-for-efficient-windows-learning/"><u>Achieve Academic Excellence: Winning Strategies for Efficient Windows Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-vanishing-hardware-problems-in-dm/"><u>Address Vanishing Hardware Problems In DM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-fresh-installation-displays-fail-to-start/"><u>Addressing Windows' Fresh Installation: Displays Fail To Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-guidelines-integrating-latest-intel-wireless-tech-in-os-x/"><u>Advanced Guidelines: Integrating Latest Intel Wireless Tech in OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719192555427-environment-variables-configuration/"><u>Environment Variables Configuration:</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-see-every-like-post-and-comment-youve-made-on-facebook/"><u>How to See Every Like, Post, and Comment You've Made on Facebook</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-year-new-ways-to-integrate-your-laptop-and-printer-effortlessly/"><u>New Year, New Ways to Integrate Your Laptop & Printer Effortlessly</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/strategie-efficienti-per-la-regolazione-della-memoria-sul-tuo-disco-di-backup-tramite-lo-schema-integrato-aomei/"><u>Strategie Efficienti per La Regolazione Della Memoria Sul Tuo Disco Di Backup Tramite Lo Schema Integrato AOMEI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719358153094-unlocking-cloud-storage-integrating-dropbox-and-google-drive-via-c/"><u>Unlocking Cloud Storage: Integrating Dropbox and Google Drive via C:</u></a></li>
 </ul></div>
 

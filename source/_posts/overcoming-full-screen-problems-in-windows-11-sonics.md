@@ -1,7 +1,7 @@
 ---
 title: Overcoming Full-Screen Problems in Windows 11 Sonics
-date: 2024-08-08T11:07:03.091Z
-updated: 2024-08-09T11:07:03.091Z
+date: 2025-01-06T00:33:38.060Z
+updated: 2025-01-12T17:42:04.805Z
 tags:
   - windows10
   - windows11
@@ -21,31 +21,35 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
  If you're encountering a crash in Sonic Frontiers when switching to full-screen on Windows 11, here's a possible fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Sonic Frontiers Crashing When It's Switched to Full-Screen Mode?
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the sonic frontiers graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_graphics_menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sonic Frontiers may exhibit a strange bug where the game doesn't properly utilize your dedicated GPU.
 
  While running in windowed mode, Sonic Frontiers has no problem using the correct hardware. However, when switching to full-screen, the game attempts to switch to your integrated GPU. Your PC's integrated GPU is most likely not powerful enough to run the game, or it might even be non-existent depending on your setup. Either way, this causes the game to crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Sonic Frontiers' Full-Screen Crash on Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![screenshot of the windows graphics settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_graphics_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quickest way to fix this is through Window's graphic settings page. Open this page by searching**Graphics** in the start menu search bar, and click on**Graphics Settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of sonic frontiers in the windows graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontier_in_graphics_menu.jpg)
 
  From here, search Sonic Frontiers in the search bar. If the game doesn't appear, you can hit**Browse** to manually locate the game.
@@ -56,12 +60,13 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Prevent Further Crashes in Sonic Frontiers
 
 ![screenshot of sonic frontiers in amd graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_in_amd_graphics_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is good practice to always ensure your GPU drivers are up-to-date, especially when playing new releases.
 
@@ -69,27 +74,17 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
 
  The PC launch of Sonic Frontiers was a bit rocky, and it's surprising to see that the game can accidentally switch itself to an integrated GPU, even if none exists.
 
  Thankfully the fix is easy enough, and the full-screen crash should stop getting in the way of you playing Sonic Frontiers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,4 +93,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-microphones-for-dynamic-cams/"><u>[New] In 2024, Essential Microphones for Dynamic Cams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-splitting-screen-techniques-for-engaging-youtube-content/"><u>[New] Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-7-stardew-valley-enhancements-for-ultimate-farming-bliss/"><u>2024 Approved Top 7 Stardew Valley Enhancements for Ultimate Farming Bliss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Unlock Without Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/challenging-the-status-quo-embracing-individuality-in-restricted-settings/"><u>Challenging the Status Quo: Embracing Individuality in Restricted Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-taskview-in-window-11-taskbar-design/"><u>Concealing TaskView in Window 11 Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-functionality-of-fn-keys-on-modern-pcs-windows-11/"><u>Configuring the Functionality of FN Keys on Modern PCs (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defender-cleanup-procedures-for-a-secure-and-streamlined-pc/"><u>Defender Cleanup Procedures for a Secure and Streamlined PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-escape-the-slow-gpsvc-cycle/"><u>Expert Tips to Escape the Slow GPSVC Cycle</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-go-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark Go (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-pcs-protection-the-firewall-guide/"><u>Tailoring Your PC's Protection: The Firewall Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-security-answers-in-windows-11-local-account/"><u>Taking Control of Security Answers in Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-a-comprehensive-guide-using-rufus-on-win11/"><u>Unlocking Secure Boot: A Comprehensive Guide Using Rufus on Win11</u></a></li>
+</ul></div>
 

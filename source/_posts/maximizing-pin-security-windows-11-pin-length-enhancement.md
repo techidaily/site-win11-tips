@@ -1,7 +1,7 @@
 ---
 title: "Maximizing PIN Security: Windows 11 Pin Length Enhancement"
-date: 2024-12-29T20:43:41.014Z
-updated: 2025-01-06T01:01:08.913Z
+date: 2025-01-08T23:55:36.693Z
+updated: 2025-01-12T22:15:12.726Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Extend the PIN Length by Editing the Registry
 
  Windows 11/10 Home doesn’t have any built-in setting for extending the minimum PIN length. So, many users will have to extend PIN length by creating a new PINComplexity registry key. Then you can set a new minimum PIN length value within that key. You can extend the Windows Hello PIN length by editing the registry as follows:
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Type **PassportForWork** in the new key’s text box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click on the **Decimal** radio button.
@@ -70,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
@@ -92,12 +88,17 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
@@ -123,19 +124,16 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[New] Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-savvy-taking-screenshots-on-windows/"><u>[New] Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-taming-the-obs-timeline-glitches/"><u>[New] Taming the OBS Timeline Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-accelerated-gpu-task-execution-in-windows-operating-system/"><u>Disabling Accelerated GPU Task Execution in Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-elevation-prompt-obstacle-winerror-740-solution/"><u>Disarming Elevation Prompt Obstacle: WinError 740 Solution</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-fe-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 FE Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-revolutionizing-content-with-square-shapes-for-social-media-gains/"><u>In 2024, Revolutionizing Content with Square Shapes for Social Media Gains</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-sharpen-your-scopes-a-comprehensive-guide-to-close-up-roblox/"><u>In 2024, Sharpen Your Scopes A Comprehensive Guide to Close-Up Roblox</u></a></li>
-<li><a href="https://games-able.techidaily.com/internet-woes-reviving-your-nintendo-switch/"><u>Internet Woes: Reviving Your Nintendo Switch</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/protokoll-zur-wiederherstellung-von-problemen-in-windows-abgesicherter-modus-modus/"><u>Protokoll Zur Wiederherstellung Von Problemen in Windows Abgesicherter Modus-Modus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-classics-with-a-twist-easy-achievement-addition-via-retroarch-software/"><u>Revive Classics with a Twist: Easy Achievement Addition via Retroarch Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssential-guide-to-understanding-youtubes-earnings-mechanics-cpm-for-2024/"><u>The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-changes-enhancing-vintage-windows-for-aging-user/"><u>Transformative Changes: Enhancing Vintage Windows for Aging User</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-torrent-tracks-windows-solutions-for-stalls/"><u>Unblocking Torrent Tracks: Windows Solutions for Stalls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-beasts-wealth-estimated-net-worth-for-2024/"><u>[New] Mr. Beast's Wealth Estimated Net Worth for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-linking-to-windows-shared-drives/"><u>Android Linking to Windows Shared Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-yellow-shade-from-laptop-panels/"><u>Banishing Yellow Shade From Laptop Panels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boltgun-playtime-maximized-overcoming-computer-delays-in-warhammer-40k/"><u>Boltgun Playtime Maximized: Overcoming Computer Delays in Warhammer 40K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-typing-copy-pasting-expertise/"><u>Boost Your Typing, Copy-Pasting Expertise</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comment-contourner-les-restrictions-de-fichier-dans-le-systeme-dexploitation-windows-11-guide-complet/"><u>Comment Contourner Les Restrictions De Fichier Dans Le Système D'Exploitation Windows 11: Guide Complet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-high-performance-fugetek-ft-568-selfie-stick-for-social-media-enthusiasts/"><u>In-Depth Review: High-Performance Fugetek FT-568 Selfie Stick for Social Media Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/1723808210693-maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mcdonalds-unveils-exclusive-perks-delighting-select-patrons-insights-from-zdnet/"><u>McDonald's Unveils Exclusive Perks, Delighting Select Patrons - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/sicheres-kopieren-ihrer-1tb-festplatte-auf-eine-schnellere-500gb-solid-state-drive-bootvorgange-erklart/"><u>Sicheres Kopieren Ihrer 1TB Festplatte Auf Eine Schnellere 500GB Solid State Drive - Bootvorgänge Erklärt</u></a></li>
 </ul></div>
 

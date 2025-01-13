@@ -1,7 +1,7 @@
 ---
 title: Countering Sudden Invisibility in Win-Based Gaming
-date: 2024-08-08T11:06:47.444Z
-updated: 2024-08-09T11:06:47.444Z
+date: 2025-01-06T19:13:43.074Z
+updated: 2025-01-12T19:00:27.199Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Basic Checks to Troubleshoot the Black Screen Issue on Your PC
 
  If you experience the black screen issue on a laptop, you can skip this step and continue with the rest of the fixes. However, if you experience the problem on a PC, you should perform a few basic checks to ensure a loose connection or temporary display issue isn't to blame.
@@ -49,26 +46,24 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 
  If these changes fail to resolve the issue, or if the problem persists with more than one game, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 4\. Monitor the Resource Usage During Gameplay
 
  Does the screen turning black issue only occur when playing resource-intensive games? If that's the case, one of your device's hardware components, especially the CPU or GPU, could be under high strain. To test this hypothesis, minimize the game right after launch, open Task Manager, and monitor CPU, GPU, and RAM resource consumption.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sort Processes by the CPU Resource Consumption in CPU Column of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-sort-processes-by-the-cpu-resource-consumption-in-cpu-column-of-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the components' resource usage remains within normal limits, they are not under extreme stress. However, if you see the screen go black right when one of the components's usage spikes to 100 percent, the increase in stress is likely the cause.
 
  For such a situation, refer to our guides on [how to fix high CPU](https://www.makeuseof.com/tag/fix-high-cpu-usage-windows/), [GPU](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/), and [RAM resource usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) and apply the relevant solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Monitor the Temperature of the System Components
 
  In extreme cases, excessive heat can prevent your device's components from functioning correctly, leading to a complete blackout. It's more likely to happen on laptops since they are generally more compact and feature narrow ventilation that struggles to dissipate excess heat effectively. If your laptop frequently overheats, ensure it's not the cause of the problem.
@@ -93,9 +88,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off the Link State Power Management Setting
 
  Link State Power Management enables users to save power and prolong battery life. In some cases, enabling this setting can limit your device's power consumption, causing your screen to go black when you least expect it. To make sure that power saving is not the problem, follow the below steps:
@@ -104,13 +96,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click on **Change advanced power settings**.  
 ![Go to Change Advanced Power Settings in Windows Power Plan Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-go-to-change-advanced-power-settings-in-windows-power-plan-settings.jpg)
 3. Expand the **PCI Express** and L**ink State Power Manageme**nt categories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select **Off** from the dropdown menus next to **On battery** and **Plugged in**.
 5. Then, click **Apply** and hit **OK**.  
 ![Turn Off the On Battery and Plugged In Modes in Link State Power Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-turn-off-the-on-battery-and-plugged-in-modes-in-link-state-power-management-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Let a Black Screen Ruin Your Winning Streak
 
  Seeing your screen go black while playing a game can be highly frustrating. We've explained the causes behind this issue and suggested solutions to fix it. Once you apply the above solutions, black screen issues will become a thing of the past.
@@ -119,11 +121,33 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-natural-landscapes-essential-templates-to-improve-your-film-craft-for-2024/"><u>[New] Natural Landscapes Essential Templates to Improve Your Film Craft for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visual-snips-tool/"><u>[New] Visual Snips Tool</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-5-must-have-equipment-and-basic-software-to-start-vlogging/"><u>[Updated] 2024 Approved 5 Must-Have Equipment and Basic Software to Start Vlogging</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfect-selfies-tips-for-instagram-story-magnification/"><u>2024 Approved Perfect Selfies Tips for Instagram Story Magnification</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/challenges-in-system-restoration-why-the-attempt-at-reversing-changes-failed/"><u>Challenges in System Restoration: Why the Attempt at Reversing Changes Failed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-installing-libdvdcss-on-mac-and-windows-10-using-handbrake/"><u>Easy Steps: Installing Libdvdcss on Mac and Windows 10 Using Handbrake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-fixes-for-non-responsive-backlight-on-windows-pcs/"><u>Five Fixes for Non-Responsive Backlight on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fn-key-techniques-for-efficient-windows-use/"><u>Fn Key Techniques for Efficient Windows Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-cpu-usage-on-windows-11-solved/"><u>High CPU Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-build-custom-text-transcription-software-on-windows-with-whisper/"><u>How to Build Custom Text Transcription Software on Windows with Whisper</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-catchy-lyrics-on-the-rise-with-tiktoks-newest-songs/"><u>In 2024, Catchy Lyrics on the Rise with TikTok's Newest Songs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-resolution-of-windows-error-1132-in-zoom/"><u>Master the Resolution of Window's Error 1132 in Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-digital-containers-file-prop-techniques/"><u>Navigating Digital Containers: File Prop Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-envisions-a-revolutionary-future-with-matter-reshaping-homes-and-beyond/"><u>Samsung Envisions a Revolutionary Future with Matter - Reshaping Homes and Beyond</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smart-shopping-tips-economical-gopro-cameras/"><u>Smart Shopping Tips Economical GoPro Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-dual-user-microsoft-errors/"><u>Strategies to Resolve Dual User Microsoft Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-chkdsk-sfc-vs-dism-in-os-maintenance/"><u>Understanding CHKDSK, SFC Vs. DISM in OS Maintenance</u></a></li>
+</ul></div>
+

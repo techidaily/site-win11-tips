@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Your Inner Hero: Basic Diablo Play Mechanics"
-date: 2024-08-08T11:07:56.322Z
-updated: 2024-08-09T11:07:56.322Z
+date: 2025-01-06T23:31:20.209Z
+updated: 2025-01-12T22:36:38.405Z
 tags:
   - windows10
   - windows11
@@ -28,12 +28,13 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 
  While Blizzard's announcement of the partnership via a [2019 Blizzard.net post](https://news.blizzard.com/en-us/diablo3/22887361/diablo-now-available-on-gog-com) didn't state why Blizzard won't be selling one of its most popular games ever, it presumably is to ensure that the game gets the attention it deserves, especially considering just how full Blizzard's plate is with the rest of the Diablo franchise, World of Warcraft, and Overwatch 2\.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Play the Original Diablo
 
  At the time of writing, there are two main ways you can play the original Diablo on a PC. You can either download the official copy from GOG, or you can take a chance on an open-source port of the game which does come with its own caveats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Play Diablo Using GOG
 
@@ -42,18 +43,20 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 * **Original version:** This is the unchanged version of the game that's compatible with Battle.net allowing players to connect to one another.
 * **GOG-enhanced version:** This version brings quality-of-life improvements including but not limited to compatibility fixes, upscaling support for resolution and refresh rate, as well as minor audio fixes at the cost of online multiplayer. This version only supports multiplayer via LAN or P2P connections.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of the original Diablo game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/og-diablo-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Do keep in mind that this is a DRM-free version of the game that's compatible with Windows 10 and 11 out of the box. You don't need to install GOG Galaxy to play the game either, although that does make managing GOG-sourced game installations easier. Additionally, while Diablo: Hellfire isn't exactly a Blizzard product, considering its popularity, it's included in the purchase as a free add-on as well.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Play Diablo Using an Open-Source Diablo Port
 
  Another way you can play Diablo is by using an open-source port of the game called [DevilutionX (GitHub)](https://github.com/diasurgical/devilutionX) (scrolling down gives instructions). The port makes it simple to run the game while also bringing engine improvements, bug fixes, and other optional quality-of-life improvements.
@@ -61,6 +64,10 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
  That said, while this method is free, it does come with a major caveat — you need the original game files in order to run the port. These files can either be found on the original game CD or in the aforementioned GOG release. This is very similar to [playing Diablo in your browser](https://www.makeuseof.com/tag/play-original-diablo-browser/) as both methods require the DIABDAT.MPQ file.
 
 ![Screenshot showing the DevilutionX Github repository.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/diablo-port.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As far as multiplayer gameplay is concerned, DevilutionX uses its own multiplayer system based on ZeroTier that allows players to host public or private games on the internet. The approach is simpler as compared to playing on Battle.Net, at least on paper, but Battle.Net servers are still going to be more reliable and secure.
 
@@ -71,40 +78,22 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
  Both options give you the chance to experience a legendary title in a day and age where the hardware that it was designed for has far been obsolete. However, we also have a [list of action RPG games you can play instead of Diablo](https://www.makeuseof.com/best-action-rpg-games-to-play-instead-of-diablo/), just in case.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the Original Diablo Playable on Modern Consoles?
 
  Unfortunately, the original Diablo is yet to make its console debut. However, Blizzard has been known to release older games on newer generation consoles from time to time, a prominent example being Diablo 2: Resurrected.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
  So even though the original Diablo isn't available to play on your Xbox Series X|S or PS5, there's a possibility (albeit a small one) that Blizzard might end up launching a digital re-release for consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Old Games Can Be Quite the Experience
 
  If you're a fan of retro games or a new gamer looking to experience some of the classics, there's no shortage of websites, emulators, and open-source projects that will let you experience the retro era of gaming. Sure the eight-bit graphics aren't comparable to modern ray-traced games by a long shot, but they do have their own charm.
 
  But how do you play the original game 27 years after its launch, especially when Blizzard doesn't sell it anymore? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,3 +101,20 @@ The powerful video editing program for your Windows PC</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-the-easy-path-to-engaging-animation-in-your-videos/"><u>[Updated] The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-side-by-side-error-corrective-techniques-for-win10/"><u>Addressing Side-by-Side Error: Corrective Techniques for Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-obscured-network-visibility-in-windows/"><u>Curing Obscured Network Visibility in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-immersive-realms-top-10-youtubes-most-captivating-vr-videos-for-2024/"><u>Enter Immersive Realms Top 10 YouTube's Most Captivating VR Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-strategies-for-efficient-funimate-use-for-2024/"><u>Expert Strategies for Efficient Funimate Use for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-filmmakers-guide-to-visual-impact-mastering-these-essential-grading-styles/"><u>In 2024, A Filmmaker’s Guide to Visual Impact Mastering These Essential Grading Styles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-onscreen-excellence-flexible-talent-access/"><u>In 2024, Onscreen Excellence Flexible Talent Access</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-challenge-ahead-for-ai-why-cant-chatgpt-detect-what-it-writes/"><u>The Challenge Ahead for AI: Why Can’t ChatGPT Detect What It Writes?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-peace-sleep-mode-strategies/"><u>The Path to Peace: Sleep Mode Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-cutting-the-fat-in-windows-11/"><u>The Ultimate Guide to Cutting the Fat in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-library-accessibility-on-win-11-pcs/"><u>Troubleshooting Steam Library Accessibility on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-design-your-own-unique-pin-pattern/"><u>Windows 10/11 Hack: Design Your Own Unique Pin Pattern</u></a></li>
+</ul></div>
+

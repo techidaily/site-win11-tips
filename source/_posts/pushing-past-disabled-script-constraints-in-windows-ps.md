@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2024-12-30T23:50:34.926Z
-updated: 2025-01-05T18:11:19.634Z
+date: 2025-01-11T20:59:06.753Z
+updated: 2025-01-13T00:28:52.112Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run PowerShell in Administrator Mode
 
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -99,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
@@ -122,17 +126,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  When you finish, close PowerShell and then restart your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
  If you want to run all scripts without restrictions, pick the **Allow all scripts** option from the "Execution Policy" drop-down menu.
@@ -155,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Locate the **ExecutionPolicy** value on the right-hand side.
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
 
@@ -206,21 +206,24 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[New] 2024 Approved A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-on-set-questions-answered-quickly/"><u>[New] In 2024, On-Set Questions Answered Quickly</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/win11-6/"><u>簡化清理：使用Win11快速提升你电脑效能 - 6个专业解决方案</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/360514-9781440628207-answered-prayers/"><u>Answered Prayers | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fostering-efficiency-not-just-fun-in-windows-11/"><u>Fostering Efficiency, Not Just Fun in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m14-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M14 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-voice-chat-not-working-in-valorant-on-windows/"><u>How to Fix Voice Chat Not Working in Valorant on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-temp-files-in-windows-11/"><u>How to Safeguard Your Temp Files in Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-essential-insights-for-asmr-aficionados/"><u>In 2024, Essential Insights for ASMR Aficionados</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-uniting-fandoms-top-20-best-anime-songs/"><u>In 2024, Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-galaxys-potential-the-dex-connection-technique/"><u>Leveraging Galaxy's Potential: The DeX Connection Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-now-error-xc0f1103f-in-windows-11/"><u>Overcoming GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-conversion-windows-and-imgburn-a-guide-to-creating-professional-audio-cds/"><u>Streamlining MP3 Conversion: Windows & ImgBurn - A Guide to Creating Professional Audio CDs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-enduring-legacy-of-chinas-cultural-revolution-in-todays-era-insights-from-yl-computing/"><u>The Enduring Legacy of China's Cultural Revolution in Today's Era - Insights From YL Computing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos-for-2024/"><u>Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719359080464-windows-11-note-saving-strategies-no-software/"><u>Windows 11 Note-Saving Strategies, No Software!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-apples-ios-a-treasure-trove-of-vr-game-hits/"><u>[Updated] Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>[Updated] Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-for-enabling-uninstalled-features-in-win10win11/"><u>7 Strategies for Enabling Uninstalled Features in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-window-frame-blackout-restore-taskbar/"><u>Addressing Window Frame Blackout: Restore Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719367958537-adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-buffer-rates-to-minimize-lag-with-vlc/"><u>Adjusting Buffer Rates to Minimize Lag with VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-reset-counter-after-failed-logins-on-windows-1011/"><u>Adjusting Reset Counter After Failed Logins on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-software-sizes-with-keyboard-shortcuts-in-win11/"><u>Adjusting Software Sizes with Keyboard Shortcuts in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alleviating-resource-drain-by-ntoskrnlexe/"><u>Alleviating Resource Drain by Ntoskrnl.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-soon-will-expire-warning-on-microsoft-os/"><u>Avoiding Soon Will Expire Warning on Microsoft OS</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-risolvere-i-problemi-di-sincronizzazione-outlook-gmail-una-guida-dettagliata/"><u>Come Risolvere I Problemi Di Sincronizzazione Outlook-Gmail: Una Guida Dettagliata</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-smart-8-pro-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719350537828-navigating-troubled-waters-help-for-your-windows-woes/"><u>Navigating Troubled Waters: Help for Your Windows Woes!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-gotrax-gxl-v2-your-ideal-high-speed-urban-e-scooter-choice/"><u>The Ultimate Review of Gotrax GXL V2: Your Ideal High-Speed Urban E-Scooter Choice</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-3-ottimi-software-di-conversione-video-in-4k-pc-e-mac-da-4k-a-1080p/"><u>Top 3 Ottimi Software Di Conversione Video in 4K (PC E Mac) - Da 4K a 1080P</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-13c-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi 13C 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-vp9-vs-hevc-essential-distinctions-of-top-4k-video-coding-formats/"><u>Understanding VP9 vs HEVC: Essential Distinctions of Top 4K Video Coding Formats</u></a></li>
 </ul></div>
 

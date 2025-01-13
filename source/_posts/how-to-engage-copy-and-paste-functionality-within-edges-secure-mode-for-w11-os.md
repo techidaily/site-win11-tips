@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2025-01-03T08:52:15.329Z
-updated: 2025-01-05T21:53:29.342Z
+date: 2025-01-07T17:26:31.771Z
+updated: 2025-01-12T23:03:23.002Z
 tags:
   - windows10
   - windows11
@@ -38,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
@@ -112,20 +112,14 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] 2024 Approved Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-decoding-ios-digital-screen-snatcher-secrets/"><u>[New] Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>[New] Expert's Choice Gimbals Top-Ranked For 4K Cameras</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-xiaomi-civi-3-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Civi 3 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-windows-11-security-error-messages-quickly/"><u>Disarming Windows 11 Security Error Messages Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-opposite-worlds-to-one-android-pc-harmony-plan/"><u>From Opposite Worlds to One: Android-PC Harmony Plan</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording-for-2024/"><u>From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-recycle-bin-error-in-win1011/"><u>How to Eradicate Recycle Bin Error in WIN10/11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/periscope-insights-how-to-access-and-create-user-account/"><u>Periscope Insights How to Access and Create User Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-stalled-wsreset-utility-in-windows-systems/"><u>Reigniting Stalled WSReset Utility in Windows Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210882811-9781088186596-source-and-interpretation-of-dreams-with-fasting-prayer-for-fulfilment-of-good-dreams/"><u>Source And Interpretation Of Dreams With Fasting & Prayer For Fulfilment Of Good Dreams | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-multiple-instances-problem-in-windows/"><u>Tackling 'Multiple Instances' Problem in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-trustworthy-win-friendly-downloads/"><u>The Ultimate List of Trustworthy Win-Friendly Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-19-affordable-audio-extractors-to-get-youtube-music-on-your-device-for-2024/"><u>Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-character-mapping-windows-11-guide/"><u>Unlocking Character Mapping: Windows 11 Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-become-a-pro-with-our-instagram-story-insights/"><u>[Updated] 2024 Approved Become a Pro with Our Instagram Story Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mac-users-mastering-chic-videos-for-your-first-youtube-post/"><u>[Updated] 2024 Approved Mac Users Mastering Chic Videos for Your First YouTube Post</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-access-boosting-morning-routine-and-note-openings/"><u>Accelerated Access: Boosting Morning Routine & Note Openings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-performance-with-powertoys-win11/"><u>Achieving Optimal Performance with PowerToys (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-setting-up-automatic-deletions-in-win11/"><u>Boost Productivity: Setting Up Automatic Deletions in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-on-windows-11-top-seven-tweaks-for-game-enthusiasts/"><u>Boosting Performance on Windows 11: Top Seven Tweaks for Game Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-lifespan-a-six-step-method-for-optimal-battery-calibration/"><u>Enhance Your iPhone Lifespan: A Six-Step Method for Optimal Battery Calibration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-safekeeping-of-your-credentials-with-google/"><u>The Safekeeping of Your Credentials with Google</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/trending-topics-and-themes-to-hook-your-streams-attention/"><u>Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
 </ul></div>
 

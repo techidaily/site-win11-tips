@@ -1,7 +1,7 @@
 ---
 title: Eliminate Spontaneous Scroll Wonders
-date: 2025-01-03T10:59:52.444Z
-updated: 2025-01-05T17:37:22.197Z
+date: 2025-01-08T00:44:35.303Z
+updated: 2025-01-13T02:09:44.611Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![Person using a mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/person-using-a-mouse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're experiencing automatic scrolling on your Windows PC, these might be the reasons:
@@ -44,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  Now that you know the reasons behind this issue, let's discuss how to fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Automatic Scrolling on Windows
 
  Let's apply the above solutions to fix this strange auto scroll issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. First, Perform Some Preliminary Checks
 
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 If the above basic checks don't help, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Check for Hardware Issues
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -98,7 +98,7 @@ If the above basic checks don't help, apply the remaining fixes.
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Remove or Uninstall Ghost Devices
@@ -114,14 +114,10 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Change Your Mouse Settings
 
@@ -140,6 +136,10 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
 
@@ -160,14 +160,19 @@ If the above basic checks don't help, apply the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[New] Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-essential-arsenal-for-modern-enterprise-top-trending-gadgets-and-tech-to-own-for-2024/"><u>[New] Essential Arsenal for Modern Enterprise Top Trending Gadgets and Tech To Own for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>[Updated] Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-no-more-troubles-mastering-ipad-video-captures-now/"><u>2024 Approved No More Troubles? Mastering iPad Video Captures Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-concept-of-output-impedance-for-better-circuit-design/"><u>Mastering the Concept of Output Impedance for Better Circuit Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-vintage-password-problem-on-w10w11/"><u>Navigating Through the Vintage Password Problem on W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinforcing-the-resilience-of-windows-11-taskbar/"><u>Reinforcing the Resilience of Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-windows-camera-failure-on-photovideo-saving/"><u>Repairing Windows Camera Failure on Photo/Video Saving</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-the-way-you-search-on-windows-11/"><u>Revamp the Way You Search on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/evitalize-your-day-with-these-top-10-yoga-videos-for-2024/"><u>[New] Revitalize Your Day with These Top 10 Yoga Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-down-the-monetization-barriers/"><u>[Updated] 2024 Approved Breaking Down the Monetization Barriers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-integrated-technique-for-cross-platform-movie-logging/"><u>[Updated] In 2024, Integrated Technique for Cross-Platform Movie Logging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-30-no-cost-websites-for-enjoying-manga-anytime-anywhere/"><u>1. Top 30 No-Cost Websites for Enjoying Manga Anytime, Anywhere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-approach-to-batch-installations-on-windows-11-via-winstall/"><u>A Comprehensible Approach to Batch Installations on Windows 11 via Winstall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-overview-of-the-windows-canary-security-feature/"><u>An Overview of the Windows Canary Security Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-edge-40-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Edge 40 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automatic-restart-the-windows-10-and-11-power-down-protocol/"><u>Automatic Restart: The Windows 10 & 11 Power-Down Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-a-blank-desktop-win-11-icon-fixes/"><u>Avoid a Blank Desktop: Win 11 Icon Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-devices-compatible-google-introduces-enhanced-circle-based-search-feature/"><u>New Devices Compatible: Google Introduces Enhanced Circle-Based Search Feature</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters/"><u>The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unshackled-earning-on-youtube-pioneering-a-non-ad-profit-pathway-for-2024/"><u>Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway for 2024</u></a></li>
 </ul></div>
 

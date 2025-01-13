@@ -1,7 +1,7 @@
 ---
 title: "Masterpieces at Your Fingertips: 4 Notable New Paint Features"
-date: 2024-08-08T11:08:55.472Z
-updated: 2024-08-09T11:08:55.472Z
+date: 2025-01-07T22:33:49.052Z
+updated: 2025-01-12T17:18:16.330Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,29 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Paint Gets a Design Overhaul
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
 
@@ -44,36 +50,21 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 3\. A Centered Canvas for Paint
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Enhanced Zoom Controls and Accessibility
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
@@ -81,13 +72,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Classic Paint App Is Here to Stay
 
  Microsoft’s continued support to make the classic Paint app match the Windows 11 design language means the app will continue to be a part of the Windows operating system. With the new improvements, MS Paint will remain a good option for basic editing, including quickly drafting user guides, annotating screen captures, or even converting images to different formats.
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,3 +88,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-enhancing-gaming-experience-tools-beyond-microsofts-recorder/"><u>[New] 2024 Approved Enhancing Gaming Experience Tools Beyond Microsoft's Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-captivating-your-audience-writing-podcast-intros/"><u>[New] Captivating Your Audience Writing Podcast Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>[Updated] The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s17-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288132149-winxvideo-ai/"><u>動画＆写真改善手法集 - Winxvideo AI 全容解析</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-increase-the-performance-of-android-studio-on-windows/"><u>How to Increase the Performance of Android Studio on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/independent-analysis-unveiling-the-mysteries-of-3dr-for-2024/"><u>Independent Analysis Unveiling the Mysteries of '3DR' For 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-machine-how-to-optimize-windows-11-settings/"><u>Master Your Machine: How to Optimize Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-uninstall-quickly-in-windows-11/"><u>Navigating to Uninstall Quickly in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-signed-file-barrier-for-system-upgrades/"><u>Overcoming Non-Signed File Barrier for System Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-languages-change-navigating-hotkeys-in-windows-11-and-11-pro/"><u>Quick Languages Change: Navigating Hotkeys in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-libgdk-win32-20-0dll-not-found-error-message/"><u>Step-by-Step Fix for The libgdk-win32-2.0-0.dll Not Found Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-synchronized-note-taking-in-windows-11/"><u>The Art of Synchronized Note-Taking in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-blueprint-to-discovering-exceptional-discord-communities/"><u>Your Blueprint to Discovering Exceptional Discord Communities</u></a></li>
+</ul></div>
+

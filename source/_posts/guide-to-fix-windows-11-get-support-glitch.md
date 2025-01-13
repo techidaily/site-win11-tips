@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows 11 'Get Support' Glitch
-date: 2024-12-29T18:46:44.673Z
-updated: 2025-01-06T02:26:01.751Z
+date: 2025-01-08T23:38:34.789Z
+updated: 2025-01-12T16:40:01.757Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * **Restart the Get Help app:**[Open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and right-click on the Get Help app. Then click on **End task** and start the app again. This simple trick effectively addresses temporary glitches within the application.  
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
@@ -56,20 +48,16 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -81,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -91,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
@@ -102,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
@@ -119,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -144,7 +136,15 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -164,24 +164,21 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-8-best-multiple-video-call-and-chat-tools-for-conference-and-friends/"><u>[New] 2024 Approved 8 Best Multiple Video Call & Chat Tools for Conference and Friends</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[New] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-os-xwindows-supercharged-discover-the-ultimate-10-srt-upgrades/"><u>[New] OS X/Windows Supercharged Discover the Ultimate 10 SRT Upgrades</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[Updated] Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-cameras-capturing-sporting-triumphs/"><u>Apex Cameras Capturing Sporting Triumphs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-apples-latest-innovations-ultra-vs-series-8-find-your-perfect-match/"><u>Choosing Between Apple's Latest Innovations: Ultra Vs. Series 8 – Find Your Perfect Match!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-fixed-or-frozen-menu-items-in-windows-11/"><u>Correcting Fixed or Frozen Menu Items in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-insufficient-storage-alerts-on-vmware-windows/"><u>Dealing with Insufficient Storage Alerts on VMware Windows</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/discover-the-leading-mac-compatible-video-editors-top-picks-apart-from-xmedia-recode/"><u>Discover the Leading Mac-Compatible Video Editors: Top Picks Apart From Xmedia Recode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-desktop-space-display-gmail-on-pc-taskbar/"><u>Enhancing Desktop Space: Display Gmail on PC Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-efficiently-pinpointing-hdd-or-ssd-on-your-computer/"><u>Expert Advice: Efficiently Pinpointing HDD or SSD on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-silencing-windows-notification-system/"><u>Fast-Track Silencing Windows Notification System</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>In 2024, Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-hd-adventures-windows-users-guide-to-scummvm-proficiency/"><u>Maximizing HD Adventures: Windows Users' Guide to ScummVM Proficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-absentee-bluetooth-in-manager/"><u>Methods to Rectify Absentee Bluetooth in Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-windows-11-search-with-ease/"><u>Personalizing Windows 11 Search with Ease</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-clear-choice-for-cost-free-screen-capture-technology-for-2024/"><u>The Clear Choice for Cost-Free Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/uncovering-top-tiktok-backdrops-quickly-for-2024/"><u>Uncovering Top TikTok Backdrops Quickly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-fix-for-windows-memory-write-issue/"><u>Unlocking the Fix for Windows Memory Write Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-leading-cloud-services-with-best-price-for-2024/"><u>[New] The Leading Cloud Services with Best Price for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-extracting-youtube-subtitles-srt/"><u>[New] The Ultimate Guide to Extracting YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[Updated] 2024 Approved The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>2024 Approved Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-laserjet-pro-m127fn-printer-drivers-secure-and-updated-downloads-here/"><u>Easy Access to HP Laserjet Pro M127FN Printer Drivers – Secure & Updated Downloads Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-for-aspiring-professionals-entering-the-field-of-prompt-engineering/"><u>Essential Tips for Aspiring Professionals Entering the Field of Prompt Engineering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-correcting-xbox-game-pass-fatal-error-in-windows-11/"><u>Guide to Correcting Xbox Game Pass Fatal Error in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-f23-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo F23 5G on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-prompt-engineering-is-it-the-future-for-job-seekers/"><u>The Ins and Outs of AI Prompt Engineering – Is It the Future for Job Seekers?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Nixing WebP Saves: Customizing Chrome's Image Formats for PCs"
-date: 2025-01-03T11:26:32.441Z
-updated: 2025-01-06T05:59:02.196Z
+date: 2025-01-06T20:18:46.870Z
+updated: 2025-01-12T20:25:38.717Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is WebP Image Format?
 
  The WebP image format was introduced by Google more than a decade ago, and during the last few years, it has become mainstream. The images in this format are smaller and lighter than others, and its superior compressibility has made it quite popular lately. Even though it is smaller, it maintains a high level of quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does Chrome Save Images as WebP?
 
@@ -35,23 +43,19 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
  So, if Chrome saves images as WebP, then most likely, the website owner is serving images in the WebP format to its visitors so that the website loads faster. But is it possible to stop Chrome from saving images in the WebP format?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Chrome From Saving Images as WebP?
 
  Technically, Chrome doesn't convert the images into WebP when you download them from a website. In fact, images are served in the WebP format by the websites that host them. Therefore, there is no direct way to stop Chrome from saving images as WebP.
 
  There are, however, some workarounds you can use to download images in the format you prefer right from Chrome. Let's go over a few of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Save WebP Images in Other Formats on Chrome
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use Save Image as Type Extension
 
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use the Paint App on Windows
 
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Use a Web-Based Image Converter
 
  You can also use a web-based image converter to convert WebP images to other formats, especially if you have already downloaded several WebP images. Among many popular choices, Online Convert is a reliable website for converting WebP images. To learn how to convert images using the image conversion tools offered by Online Convert, follow these steps:
@@ -103,32 +107,28 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
 5. Click **Start** once the image has been uploaded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Use a Browser Version That Doesn't Support WebP
 
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Open WebP Images on Windows?
 
  Although there is no native way to open WebP images on Windows, as you generally open images in other formats via Windows Photos, there are some workarounds you can use. These workarounds include renaming the file extension, using a third-party app such as ImageGlass, opening them directly in web browsers, or enabling Windows Photo Viewer.
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Save WebP Images in Your Desired Format
 
@@ -146,24 +146,22 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-conquer-audio-production-a-comprehensible-guide-to-podcast-editing/"><u>[Updated] 2024 Approved Conquer Audio Production A Comprehensible Guide to Podcast Editing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860299489-updated-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] In 2024, Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers/"><u>[Updated] In 2024, Unlock the Secrets of Stellar Snaps and Snapchat Boomers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-prime-camera-choices-revealing-the-best/"><u>2024 Approved The Prime Camera Choices – Revealing the Best</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-dealing-with-missing-pdhdll-file-errors-on-windows/"><u>Effective Strategies for Dealing with Missing pdh.dll File Errors on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-guide-getting-google-play-games-on-desktop/"><u>Essential Guide: Getting Google Play Games on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-instantaneously-generating-multiple-subfolders-in-windows/"><u>Innovative Approaches to Instantaneously Generating Multiple Subfolders in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-device-disconnection-on-win-1011/"><u>Navigating and Fixing Device Disconnection on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-non-uniform-colour-realms-in-windows/"><u>Navigating Non-Uniform Colour Realms in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/open-sound-settings-efficiently-using-these-9-strategies-in-windows-11/"><u>Open Sound Settings Efficiently Using These 9 Strategies in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivation-guide-for-your-frozen-windows-11-search-box/"><u>Reactivation Guide for Your Frozen Windows 11 Search Box</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-why-teredo-cant-meet-requirements/"><u>Resolving the Issue: Why Teredo Can't Meet Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-stuck-sheets-and-frozen-viewport-in-excel/"><u>Solve Stuck Sheets and Frozen Viewport in Excel</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-amazons-latest-innovation-echo-show-10-gen-3-your-companion-that-follows-you-around/"><u>The Ultimate Review of Amazon's Latest Innovation - Echo Show 10, Gen 3 - Your Companion That Follows You Around</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-to-fix-error-0x800700e1-in-windows-11/"><u>Tips & Tricks to Fix Error 0X800700E1 in Windows 11</u></a></li>
-<li><a href="https://win-great.techidaily.com/tips-and-tricks-keeping-your-desktop-files-safe-from-auto-deletion/"><u>Tips and Tricks: Keeping Your Desktop Files Safe From Auto-Deletion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-device-diversity-into-a-single-note-world/"><u>Transforming Device Diversity Into a Single Note World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-security-settings-through-gpo/"><u>Unveiling Windows Security Settings Through GPO</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>[New] In 2024, LOL Streaming Made Easy Mastering Video Capture in 3 Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-newcomers-playbook-for-youtube-success-setup-and-revenue-generation/"><u>[New] The Newcomer's Playbook for Youtube Success Setup & Revenue Generation</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list-for-2024/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pocket-sized-mac-viewer-absolutely-free/"><u>[Updated] 2024 Approved Pocket-Sized Mac Viewer - Absolutely Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-decoding-action-camera-extras-a-shoppers-map/"><u>[Updated] Decoding Action Camera Extras - A Shopper’s Map</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inaccessible-values-in-windows-applications/"><u>Addressing Inaccessible Values in Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-masked-in-simplicity-secretly-slowing-down-your-system/"><u>Apps Masked in Simplicity: Secretly Slowing Down Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artists-rejoice-best-windows-11-drawing-apps/"><u>Artists Rejoice: Best Windows 11 Drawing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719315730924-avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-pitfalls-of-roblox-error-262/"><u>Avoiding Common Pitfalls of Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battery-saver-mastery-on-windows-laptops-essential-tips/"><u>Battery Saver Mastery on Windows Laptops - Essential Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-content-that-captivates-easy-to-try-videos/"><u>Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-securing-fb-profile-against-unseen-eyes/"><u>Master Securing FB Profile Against Unseen Eyes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavim4awav/"><u>Movaviで簡単なM4Aファイルから無料のオンラインWAVへの自動変換</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-versus-avi-in-depth-analysis-of-two-leading-video-formats-for-optimal-streaming-quality/"><u>MP4 Versus AVI: In-Depth Analysis of Two Leading Video Formats for Optimal Streaming Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719228801666-streamline-help-process-for-windows-snags/"><u>Streamline Help Process for Windows Snags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719343275245-tackle-windows-geforce-failures-head-on-today/"><u>Tackle Windows GeForce Failures Head-On Today!</u></a></li>
 </ul></div>
 

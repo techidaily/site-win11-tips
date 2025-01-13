@@ -1,7 +1,7 @@
 ---
 title: Get a Head Start at Gameplay with Winning Tactics, FC Style
-date: 2024-08-08T11:08:32.572Z
-updated: 2024-08-09T11:08:32.572Z
+date: 2025-01-12T01:21:37.983Z
+updated: 2025-01-12T22:35:31.516Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
  Eidos Interactive made Championship Manager 01/02 a freely available download from 2008, and online communities have kept this classic retro game alive and kicking ever since. This is how you can play the Championship Manager 01/02 soccer management game on a Windows 11/10 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 1\. Download and Extract the Championship Manager 01/02 ZIP
 
  The Championship Manager 01/02 download is an ISO image file packaged within a ZIP archive. You can download the game from this [Championship Manager 01/02 FMINSIDE.NET page](https://fminside.net/downloads/full-game/170-championship-manager-0102). Click the **Direct download** button and select **Download** on the new tab that opens.
@@ -45,33 +42,32 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 ![The WinCDEmu installation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wincdemu-install-window.jpg)
 7. Select **OK** when the installation is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can delete the WinCDEmu installation file when you’ve done with it. Right-click the **WinCDEmu-4.1.exe** file in Explorer and select **Delete** to erase it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Mount the Championship Manager 01/02 ISO File
 
  Now you’ve installed WinCDEmu, you can mount the Championship Manager 01/02 ISO file with that software. These are the steps for mounting the Championship Manager ISO:
 
 1. Open the extracted **cm0102** folder that includes the Championship Manager 01/02 ISO file within Explorer.
 2. Right-click the **CM0102.iso** file to select **Open**.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-open-option.jpg)
 3. Then select a suitable letter for your virtual drive on the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Mount a disc image window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mount-a-disc-image-window.jpg)
 4. Select **OK** to mount the ISO file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![The virtual drive for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-virtual-cd-drive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should now see a new virtual CD drive within File Explorer. Click **This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
 
@@ -81,20 +77,24 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
 1. Click **CD Drive CM0102** within File Explorer’s left sidebar.
 2. Then double-click the **Setup.exe** installer for Championship Manager 01/02.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Setup.exe file for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-setup-exe-file.jpg)
 3. Select **English** and click **OK** on the **Choose Setup Language** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Yes** to continue within the setup screen.
 5. Select **Browse** to choose an installation directory for the game and click **Next** again.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Browse option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-browse-option.jpg)
 6. The **Typical** setup option will be selected by default. Click **Next** to continue with that option selected.  
 ![The Typical option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-typical-option.jpg)
 7. Select **Next** again to install Championship Manager 01/02\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **Yes** when asked about creating a Championship Manager 01/02 desktop shortcut.
 9. Select **Finish** to leave the setup screen.
 
@@ -110,11 +110,31 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
  Eidos Interactive made Championship Manager 01/02 a freely available download from 2008, and online communities have kept this classic retro game alive and kicking ever since. This is how you can play the Championship Manager 01/02 soccer management game on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-eliminated-non-display-of-shorts-videos/"><u>[New] Eliminated Non-Display of Shorts Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-secrets-to-mastering-photosvideos-in-windows-11-for-2024/"><u>[New] Secrets to Mastering Photos/Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-guide-to-using-tiktoks-best-and-secret-emojis/"><u>[New] The Ultimate Guide to Using TikTok's Best & Secret Emojis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direction-and-intensity-in-video-lighting-for-2024/"><u>[Updated] Direction and Intensity in Video Lighting for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expertly-record-your-win11-display/"><u>[Updated] Expertly Record Your Win11 Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-gear-for-shooting-top-10-high-res-shoulder-rigs/"><u>2024 Approved Best Gear for Shooting Top 10 High-Res Shoulder Rigs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-update-faults-windows-xp-x8019/"><u>Eradicating Update Faults: Windows XP, X8019</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guia-paso-a-paso-para-actualizar-una-placa-base-y-cpu-en-sistema-operativo-windows-existente/"><u>Guía Paso a Paso Para Actualizar Una Placa Base Y CPU en Sistema Operativo Windows Existente</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file electronically</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-switching-on-updated-widget-selection-interface-in-windows-11/"><u>Seamlessly Switching on Updated Widget Selection Interface in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-potential-deciding-between-studio-and-beta-version-for-2024/"><u>Unleash Potential Deciding Between Studio and Beta Version for 2024</u></a></li>
+</ul></div>
+

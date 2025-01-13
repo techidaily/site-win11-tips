@@ -1,7 +1,7 @@
 ---
 title: Keep Your Surface Operating System Current and Protected
-date: 2025-01-01T05:57:20.983Z
-updated: 2025-01-06T08:43:16.600Z
+date: 2025-01-05T18:52:41.465Z
+updated: 2025-01-12T21:41:02.836Z
 tags:
   - windows10
   - windows11
@@ -24,23 +24,19 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Firmware Updates on Surface Computers From Settings App
 
 ![install windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Installing firmware updates on your Surface PC is simple. You can install the latest firmware version on your Surface device from the Windows Update page in the Settings app.
 
  You can open the Settings app by pressing the **Win key** \+ **I** button on your keyboard and then clicking Windows Update. Now, click Check for updates. If a new firmware version is available for your Surface PC, it will show up on the update page. After installing the update, a restart is required for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manually Download and Install Firmware on Surface Computers
@@ -49,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
  Once the download is completed, you can open the file (in the **.msi** format) and follow the on-screen prompt to install the update on your Surface. To complete the installation, you need to restart the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Should Remember Before Installing the Surface Firmware Update
 
 ![Closed Microsoft Surface on a blue surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/closed-microsoft-surface-on-a-blue-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must have a stable power supply and internet connection during the update process. Also, be careful about installing the right firmware update for your device.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Also, you need to remember that Microsoft pushes driver and firmware updates for at least four years from when the device was first released. If your Surface device is older than four years, you won’t receive any firmware updates. Before manually downloading it, you need to [check whether your Surface device has reached the end of support](https://www.makeuseof.com/surface-end-of-support/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Firmware Updates on Your Surface Devices
@@ -81,16 +81,20 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>[New] In 2024, Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-10-companion-apps-for-seamless-video-to-mp3-conversions/"><u>[Updated] 2024 Approved Top 10 Companion Apps for Seamless Video to Mp3 Conversions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-updater-setback-error-0x800f080a-on-windows-systems/"><u>Bypassing Updater Setback Error 0X800F080A on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-performance-skyrocketing-vram-in-win1011-systems/"><u>Enhance Performance: Skyrocketing VRAM in Win10/11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/klevvs-cras-c930-2tb-ssd-analyzed-excellence-shortcomings-and-average-features/"><u>KLEVV's CRAS C930-2TB SSD Analyzed: Excellence, Shortcomings & Average Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mend-the-minutes-windows-system-synchronized/"><u>Mend the Minutes: Windows System Synchronized</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-oneplus-12-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus 12 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/reset-the-scene-fixing-your-facebook-for-2024/"><u>Reset the Scene Fixing Your Facebook for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rising-costs-the-increasing-price-of-apple-battery-replacement-services/"><u>Rising Costs: The Increasing Price of Apple Battery Replacement Services</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files/"><u>The Ultimate Guide From Tweet Vids to MP3 Audio Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-gpo-settings-quickly/"><u>Unlocking Windows 11'S GPO Settings Quickly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-understanding-and-executing-photo-gender-modification-online/"><u>[New] 2024 Approved Understanding and Executing Photo Gender Modification Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-tips-to-get-more-views-with-youtube-optimization-free-checklist/"><u>[Updated] 2024 Approved 5 Tips to Get More Views with YouTube Optimization [Free Checklist]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-crimson-classic-codec/"><u>2024 Approved Crimson Classic Codec</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-proactive-steps-to-overcome-no-servers-found-in-apex-legends-(156-chars/"><u>8 Proactive Steps to Overcome 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-affordable-windows-10-licensing-and-deals/"><u>A Deep Dive Into Affordable Windows 10 Licensing & Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-with-auto-moves-the-w11-way/"><u>Accelerate Workflow with Auto-Moves: The W11 Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-configuration-windows-11-and-pc-manager/"><u>Achieving Optimal Configuration: Windows 11 & PC Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-in-use-files-errors-in-windows-152-chars/"><u>Addressing 'In-Use' Files Errors in Windows (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-cutpaste-in-win-11/"><u>Addressing Non-Functional Cut/Paste in Win 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apc-back-ups-be600m1-review-efficient-battery-backup-with-a-built-in-usb-charger/"><u>APC Back-UPS BE600M1 Review: Efficient Battery Backup With a Built-In USB Charger</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-11-efficiency-key-modifications-to-apply/"><u>Boost Windows 11 Efficiency: Key Modifications to Apply</u></a></li>
+<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>In 2024, Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools-for-2024/"><u>New Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-your-video-quality-effortless-3gp-to-mkv-transformation-without-cost/"><u>Upgrade Your Video Quality: Effortless 3GP to MKV Transformation Without Cost</u></a></li>
 </ul></div>
 

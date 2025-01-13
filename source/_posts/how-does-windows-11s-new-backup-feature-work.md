@@ -1,7 +1,7 @@
 ---
 title: How Does Windows 11'S New Backup Feature Work?
-date: 2024-08-08T11:05:23.184Z
-updated: 2024-08-09T11:05:23.184Z
+date: 2025-01-11T18:21:56.674Z
+updated: 2025-01-12T16:39:30.533Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,22 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the New Windows Backup App?
 
  Windows 11 already has a backup section in the Settings app that offers the option to save all your device preferences, remember your apps and settings, and store all your personal files in [OneDrive](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/). The Windows Backup app brings all these options under one shed as an app. So, it becomes easier for users to select what to back up without opening the Settings app.
 
 ![Windows Backup page in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-page-in-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After backing up all the necessary files and settings, you can restore it using the OOBE experience page. It appears after you sign in to your Microsoft Account while installing or resetting your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use the Windows Backup App
 
  Windows Backup App was previously available in the [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev Insider channels. But now it is available for the Beta channel as well. You must update to the Insider build 22631.2262 to get access to the Windows Backup app if you have enrolled your PC in the Dev channel. Just check for the latest Windows update and install it on your PC.
@@ -44,15 +49,9 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 1. Press the **Win** key to open the Start menu. Type **Windows Backup** and press the **Enter** key to launch the app.
 2. You will see four options namely, **Folders**, **Apps**, **Settings**, and **Credentials**.
 3. Click on the **arrow** icon next to the Folders option. Enable the **toggles** of all the folders that you want to select for backup.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Configuring Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-windows-backup-app.jpg)
 4. After that, you can pick the types of settings, credentials, and apps to back up using the rest of the options listed in the app.
 5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Windows Backup in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-in-progress.jpg)
 6. Click on the **Close** button to terminate the app.
 
@@ -60,16 +59,18 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  After you sign in, you will see an option to restore data from your older PC. If you use your Microsoft Account on other PCs and have enabled backups on them, you will see the option to restore data from those devices too. Complete the device setup and then log in to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Install Old Apps Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see all the pinned app icons in the Start menu, and Taskbar, and can click on the icon to restore the app. Windows will direct you to the official website to download and install the apps that aren’t available on the Microsoft Store. You can even restore all the Store apps by launching the Microsoft Store app and selecting the Restore All option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Windows Backup App vs. Legacy Backup Options
 
  The Windows Backup app relies on cloud storage to store all your data. It makes it more convenient to access files via OneDrive and restore all your personal settings and apps.
@@ -81,17 +82,14 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
  But you may have to upgrade to the paid tier of OneDrive if your personal files take up too much space. Another caveat is that is super easy to restore the Microsoft Store apps but all the third-party software will still be missing from the picture. After restoring the data, you will have to install all these apps manually.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your Windows Backup Made Easy
 
  You can use the Windows Backup app or hop into the Settings app and configure the backup settings from there. Transitioning to a new PC is significantly easy with the cloud backup and Microsoft Account linking approach. However, you will need to upgrade storage (in some cases) and reinstall third-party software manually.
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -99,3 +97,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-earnings-from-youtube-short-videos/"><u>[New] In 2024, A Comprehensive Guide to Earnings From YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unraveling-the-mystery-of-non-uploading-video-features/"><u>[New] In 2024, Unraveling the Mystery of Non-Uploading Video Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-full-spectrum-maximizing-story-linking/"><u>[Updated] Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-screen-capture-device-for-effective-video-sharing/"><u>[Updated] Ideal Screen Capture Device for Effective Video Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-complete-system-restore-on-windows-7-without-using-a-disc/"><u>How to Perform a Complete System Restore on Windows 7 Without Using a Disc</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-post-share-a-video-from-youtube-on-instagram/"><u>In 2024, How to Post /Share a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-lg-k92-5g-upgrade-justifying-the-price-tag-our-in-depth-review/"><u>Is the LG K92 5G Upgrade Justifying the Price Tag? Our In-Depth Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96455109-9781420909616-practical-mysticism/"><u>Practical Mysticism | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-airpods-problems-by-learning-simple-reset-techniques-now/"><u>Solve Your AirPods Problems by Learning Simple Reset Techniques Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/to-make-it-bootable-use-an-external-tool-like-rufus-or-bootice/"><u>To Make It Bootable, Use an External Tool Like Rufus or Bootice.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
+</ul></div>
+

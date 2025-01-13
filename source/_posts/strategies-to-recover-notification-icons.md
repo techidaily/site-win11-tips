@@ -1,7 +1,7 @@
 ---
 title: Strategies to Recover Notification Icons
-date: 2024-12-16T18:37:40.293Z
-updated: 2024-12-21T20:49:43.037Z
+date: 2025-01-10T17:51:19.079Z
+updated: 2025-01-12T21:46:42.690Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, apps should display notification badges on the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make Sure App Notifications Are Enabled
 
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -65,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart the Windows Explorer Process
 
  Temporary issues with the taskbar can also prevent apps from displaying notification badges on Windows. This usually happens when the Windows Explorer process, which is responsible for providing the Graphical User Interface (GUI) for the taskbar, experiences problems.
@@ -72,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  If it’s just a minor glitch, restarting the Windows Explorer process should help fix it. If you need help with the same, check our guide on[different ways to restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) and follow the steps outlined there.
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
@@ -87,19 +95,11 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
@@ -146,24 +146,22 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[New] Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tips-capturing-clear-voice-overs-on-camera/"><u>[New] Essential Tips Capturing Clear Voice Overs on Camera</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-share-and-celebrate-with-instagram-videos-for-2024/"><u>[Updated] Share & Celebrate with Instagram Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>2024 Approved Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-enhancement-drivers-for-windows-11-10-and-81/"><u>Download the Newest Dolby Sound Enhancement Drivers for Windows 11, 10, and 8.1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/full-wsl-disabling-guide-for-windows/"><u>Full WSL Disabling Guide for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-steam-ui-module-fails-issue/"><u>How To Mend the Steam UI Module Fails Issue</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-crypto-clout-how-much-does-the-youtube-gamer-make/"><u>In 2024, Crypto Clout How Much Does the YouTube Gamer Make?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-technique-to-resolve-windows-11-error-code-0xc0000001/"><u>Mastering the Technique to Resolve Windows 11 Error Code 0XC0000001</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/proven-steps-to-elevate-webinar-video-quality-for-2024/"><u>Proven Steps to Elevate Webinar Video Quality for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagining-windows-operations-ais-influence-on-11th-edition/"><u>Reimagining Windows Operations: AI's Influence on 11Th Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-security-authority-unprotected-message-on-pcs/"><u>Remedying Security Authority Unprotected Message on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-steam-disconnect-issues-with-windows-11/"><u>Resolving Steam Disconnect Issues with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-printers-performance-with-win11-tips/"><u>Revitalize Your Printer's Performance with Win11 Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/923295-9781780990941-tarot-for-understanding-love-and-relationship-patterns-made-easy/"><u>Tarot for Understanding Love and Relationship Patterns Made Easy | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-merging-data-on-modern-windows/"><u>The Art of Merging Data on Modern Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-experts-resource-advanced-screen-capture-techniques-by-zd/"><u>The Expert's Resource Advanced Screen Capture Techniques by ZD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-folder-of-windows-11-apps-with-ease/"><u>Unlocking the Folder of Windows 11 Apps with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-dangers-the-downside-to-discounted-windows-activation-codes/"><u>Dodging Dangers: The Downside to Discounted Windows Activation Codes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-toshiba-laptop-graphics-drivers-on-windows-a-step-by-step-guide/"><u>Download & Update Toshiba Laptop Graphics Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fault-alarm-idedevice-controller-failure/"><u>Fault Alarm: Idedevice Controller Failure</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-f5-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco F5 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968727566-get-your-hp-universal-print-driver-on-windows-pcs-today/"><u>Get Your HP Universal Print Driver on Windows PCs Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-guide-to-streamlined-subscription-links-for-video-channels/"><u>In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-directx-update-issues-in-windows/"><u>Solutions for DirectX Update Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-full-capacity-on-windows-gpt/"><u>Strategies to Prevent Full Capacity on Windows GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-tech-timetable-optimizing-windows-11s-update-processes/"><u>Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/333539-9781440636479-the-complete-idiots-guide-to-sextrology/"><u>The Complete Idiot's Guide to Sextrology | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toggle-system-editor-enabledisable-in-win11/"><u>Toggle System Editor: Enable/Disable in Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-of-usb-drive-options-for-swift-iphone-information-transfers/"><u>Ultimate Selection of USB Drive Options for Swift iPhone Information Transfers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-warhammer-40k-eliminate-pc-lag/"><u>Unlock the Full Potential of Warhammer 40K: Eliminate PC Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-the-world-4-key-steps-to-restore-windows-server-time/"><u>Wake the World: 4 Key Steps to Restore Windows Server Time</u></a></li>
 </ul></div>
 

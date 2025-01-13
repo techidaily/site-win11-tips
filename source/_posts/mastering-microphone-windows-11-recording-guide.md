@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microphone: Windows 11 Recording Guide"
-date: 2024-08-08T11:08:27.369Z
-updated: 2024-08-09T11:08:27.369Z
+date: 2025-01-06T18:56:50.966Z
+updated: 2025-01-12T22:50:40.228Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Audio With Your Microphone on Windows 11
 
  There are a couple of different ways you can go about recording your audio in Windows 11\. You can either use the built-in Sound Recorder app or a [third-party app like Audacity to record audio](https://www.makeuseof.com/tag/6-awesome-alternatives-to-audacity-for-recording-and-editing-audio/) using your PC’s microphone. Here's how.
@@ -33,17 +34,23 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  Press the red dot button to initiate the recording. While recording, you have the option to pause the process or save it by clicking the stop button. Alternatively, you can also [use keyboard shortcuts in the Sound Recorder app](https://www.makeuseof.com/windows-11-voice-recorder-keyboard-shortcuts/) to perform these actions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sound Recorder App Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can open the Settings menu in the Sound Recorder app to change the recording format or set your preferred audio quality.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Sound Recorder App Settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Record Your Audio Using the Audacity App
 
@@ -51,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  Download and install the [Audacity app](https://www.audacityteam.org/download/) on your PC. Open it and click the record button to start recording audio. Once you are done recording, click the **File** menu, go to **Export**, and select your preferred format for saving the file.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
 
  In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
@@ -71,24 +74,19 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 4. Right-click on **Stereo Mix** and select **Enable**.
 5. Right-click on **Stereo Mix** again and choose **Set as Default Device**.
 6. Hit **Apply** followed by **OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Set Stereo Mix as Default Device on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-stereo-mix-as-default-device-on-windows.jpg)
 
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Record Your Audio on Windows
 
  As we just saw, recording audio on your Windows 11 PC is both quick and easy. The built-in Sound Recorder app is perfect for creating simple recordings like voice memos. But if you need more features, like recording multiple tracks or editing your recordings, it's better to use a third-party app like Audacity.
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +94,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-guide-to-retrieving-historic-facebook-stories-for-2024/"><u>[Updated] A Guide to Retrieving Historic Facebook Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719268439990-chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-extract-onedrive-from-windows-explorer/"><u>How To Efficiently Extract OneDrive From Windows Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-invalid-registry-setting-making-photos-not-open-in-windows-continue-httpt4speccxresolve-invalid-registry-errors-on-windows-10/"><u>How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-turnback-a-twitch-broadcast-top-ten-approaches-for-2024/"><u>How to Turnback a Twitch Broadcast Top Ten Approaches for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lenovo-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lenovo Lock Screen Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>In 2024, The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-of-love-a-global-valentines-day-guide/"><u>Language of Love: A Global Valentine’s Day Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-restore-deleted-run-logs/"><u>Methods to Restore Deleted Run Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-gmail-plus-outlook-in-one-window-windows/"><u>Step-by-Step Guide: Gmail + Outlook in One Window, Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-and-hd-video-converter-the-ultimate-free-download-center-for-media-transformation/"><u>WinX DVD Ripper & HD Video Converter: The Ultimate Free Download Center for Media Transformation</u></a></li>
+</ul></div>
+

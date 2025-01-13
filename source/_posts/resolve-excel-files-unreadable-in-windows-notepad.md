@@ -1,7 +1,7 @@
 ---
 title: "Resolve: Excel Files Unreadable in Windows Notepad"
-date: 2024-08-08T11:07:11.169Z
-updated: 2024-08-09T11:07:11.169Z
+date: 2025-01-11T23:16:30.145Z
+updated: 2025-01-12T23:42:45.989Z
 tags:
   - windows10
   - windows11
@@ -21,22 +21,24 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the "Open With" Option
 
  The easiest way to open a file in the app of your choice when Windows is not sure how to handle it is by using the “Open with” option.
 
  Simply right-click on the file you want to launch and choose **Open with** \> **Microsoft Excel**. If you cannot locate Excel in the context menu, click on "Choose another app" and then select Microsoft Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-with-option.jpg)
 
  If you want to ensure that all files of a particular format open in Excel automatically, you can use the "Open with" option to set a default program as well. Simply right-click on the file, select **Open with** \> **Choose another app**. From there, select **Excel** and check the "Always use this app to open files" option.
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Default Settings for File Types
 
@@ -51,14 +53,16 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 3. In the following window, type the extension name of the targeted file under "Set a default for a file type or link type".  
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the File Extension Type
 
  The system might also be opening the file in Notepad because the file extension type is not supported by Excel.
@@ -77,19 +81,21 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 1. Right-click on the file and choose **Rename**.
 2. Edit the file name to remove any incorrect or extra characters in the extension.
 3. Enter the correct file extension after the file name, separated by a dot.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
 4. Press **Enter** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use an Excel Repair Tool (if Applicable)
 
  In case you are unable to open files with Excel and are presented with an error whenever you attempt to do so, the file might be corrupted or damaged.
@@ -104,9 +110,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Open and Use Excel Files Properly on Windows
 
  It is not uncommon for users to encounter issues while trying to use Excel but fortunately, most of these problems are easy to fix. Hopefully, the solutions we have listed above will help you access the targeted files with Excel in no time.
@@ -115,11 +118,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/avigating-playlist-creation-on-youtube-easily-for-2024/"><u>[New] Navigating Playlist Creation on YouTube Easily for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-the-new-apeaksoft-screenscape-capture/"><u>[Updated] 2024 Approved Unveiling the New Apeaksoft Screenscape Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-pixel-ringtone-treasures-online/"><u>[Updated] Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-utility-windows-reliability-and-performance-monitors/"><u>Examining Utility: Windows' Reliability & Performance Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/four-steps-for-pausing-windows-update/"><u>Four Steps for Pausing Windows Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-vertical-vistas-to-virtual-viewers-fb-live-streaming-w-dji-for-2024/"><u>From Vertical Vistas to Virtual Viewers FB Live Streaming W/ DJI for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-install-unsupported-windows-packages/"><u>Guidelines to Install Unsupported Windows Packages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-natural-light-for-iphone-photography-for-2024/"><u>Harness Natural Light for iPhone Photography for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-intelligence-microsofts-new-ai-helper-for-windows-11-taskbar/"><u>Integrating Intelligence: Microsoft's New AI Helper for Windows 11 Taskbar</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-instructions-on-uploading-and-converting-movies-for-lg-phone-viewing/"><u>Step-by-Step Instructions on Uploading and Converting Movies for LG Phone Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-correct-cannot-find-gpeditmsc-issue/"><u>Unveiling Steps to Correct Cannot Find Gpedit.msc Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vampire-vignette-virtuoso-for-2024/"><u>Vampire Vignette Virtuoso for 2024</u></a></li>
+</ul></div>
+

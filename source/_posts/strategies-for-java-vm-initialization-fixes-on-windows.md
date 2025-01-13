@@ -1,7 +1,7 @@
 ---
 title: Strategies for Java VM Initialization Fixes on Windows
-date: 2025-01-01T10:45:30.527Z
-updated: 2025-01-06T04:58:31.517Z
+date: 2025-01-07T19:01:00.610Z
+updated: 2025-01-13T02:11:32.085Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
 To check the Java version installed on Windows:
@@ -41,10 +45,6 @@ To check the Java version installed on Windows:
 `java -version`
 4. The output will list the JDK version installed on your computer and the installation date.
 5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. End the Java Process in Task Manager
 
@@ -57,7 +57,7 @@ To check the Java version installed on Windows:
 3. Select and click**End Task** to close the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
@@ -65,6 +65,10 @@ To check the Java version installed on Windows:
  Insufficient permission can prevent some Java apps from running on your computer. To fix the problem, run Java with administrative privilege. To run Java as an administrator on Windows, right-click on**Java.exe** and select**Run as administrator** .
 
  Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Increase the System Memory for Java
 
@@ -80,20 +84,24 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -112,11 +120,7 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
@@ -134,10 +138,6 @@ To clean install Java:
 5. Restart your computer to apply the changes.
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install Java in a WindowsClean Boot State
 
@@ -164,18 +164,18 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevating-presentations-with-adobe-captivate-skills/"><u>[Updated] 2024 Approved Elevating Presentations with Adobe Captivate Skills</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716070300745-updated-2024-approved-learn-and-master-io-screen-recording-today/"><u>[Updated] 2024 Approved Learn and Master IO Screen Recording Today!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>[Updated] In 2024, Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>[Updated] In 2024, Ultimate Mix Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[Updated] Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-the-noisy-disruptor-win1011s-error-0xc00d36b4/"><u>Correcting the Noisy Disruptor: Win10/11's Error 0Xc00d36b4</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improve-gaming-fluidity-top-6-fixes-for-eliminating-stutters-and-drops-in-elden-ring/"><u>Improve Gaming Fluidity: Top 6 Fixes for Eliminating Stutters and Drops in Elden Ring</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-command-center-stream-your-gameplays-seamlessly/"><u>Intel Command Center: Stream Your Gameplays Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-loading-unsigned-drivers-despite-sie/"><u>Mastering Windows: Loading Unsigned Drivers Despite SIE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamline-your-inbox-with-personalized-gmail-rule-creation-techniques/"><u>Streamline Your Inbox with Personalized Gmail Rule Creation Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-toolbar-tactics-quick-dossier-development-in-win11/"><u>Tailoring Toolbar Tactics: Quick Dossier Development in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/trigger-windows-11s-on-demand-support-kit/"><u>Trigger Windows 11'S On-Demand Support Kit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicated-office-integration-in-windows-10-and-11/"><u>Uncomplicated Office Integration in WIndows 10 & 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>[New] In 2024, Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-proven-strategies-for-flawless-xbox-video-capture/"><u>[Updated] In 2024, Proven Strategies for Flawless Xbox Video Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-steam-contact-issues-on-win11/"><u>A Step-by-Step Guide to Fixing Steam Contact Issues on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-gmail-to-windows-outlook-seamless-integration-method/"><u>Adding Gmail to Windows Outlook: Seamless Integration Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-mobility-center-activation-in-w11-systems/"><u>Avoid Mobility Center Activation in W11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-screen-glitches-in-modern-operating-systems/"><u>Banishing Screen Glitches in Modern Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-premium-18000mah-m-mock-1000a-vehicle-jump-starter-unrivaled-option-for-drivers/"><u>In-Depth Review of the Premium 18000mAh M MOCK 1000A Vehicle Jump Starter: Unrivaled Option for Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-lenovo-p11-pro-tablet-examined-exceptional-qualities-marred-by-some-limitations/"><u>The Lenovo P11 Pro Tablet Examined - Exceptional Qualities Marred by Some Limitations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458526425-use-of-result-patterns-c-80plus/"><u>Use of Result Patterns (C# 8.0+):</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-user-interface-for-comment-management-for-2024/"><u>YouTube's User Interface for Comment Management for 2024</u></a></li>
 </ul></div>
 

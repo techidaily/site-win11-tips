@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2025-01-04T00:52:38.685Z
-updated: 2025-01-05T16:42:35.597Z
+date: 2025-01-06T23:51:27.551Z
+updated: 2025-01-12T16:37:29.005Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Sign Out Other Users Using the Command Prompt
 
  On Windows 11 Pro, Edu, and Enterprise editions, you can use Command Prompt's "query sessions" command to check and log off active user accounts. This command is unlikely to work on a Windows 11 Home, limiting your options.
@@ -79,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Logoff 3`
@@ -88,7 +80,11 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
@@ -100,6 +96,11 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 1. Go to Microsoft's official [Process Explorer page](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) and download Process Exploreras a zip file to a location on your desktop.  
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
@@ -125,19 +126,16 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-future-frontiers-in-metaverse-with-top-8-gear/"><u>[New] Unveiling Future Frontiers in Metaverse with Top 8 Gear</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/examining-windows-11-widgets-enhancement-or-overkill/"><u>Examining Windows 11 Widgets - Enhancement or Overkill?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssing-imovies-capabilities-for-youtube-video-perfection/"><u>Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-130-music-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 130 Music to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>In 2024, From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-time-features-into-youtube-video-formats-for-2024/"><u>Incorporating Time Features Into YouTube Video Formats for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-rufus-to-override-win11s-tpmsecure-boot-systems/"><u>Leveraging Rufus to Override Win11's TPM/Secure Boot Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/overwatch-game-review-where-fun-meets-tactical-team-shooting-skill/"><u>Overwatch Game Review: Where Fun Meets Tactical Team Shooting Skill</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revising-wi-fi-connection-protocols-ensuring-full-action-compliance/"><u>Revising Wi-Fi Connection Protocols: Ensuring Full Action Compliance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-conversion-from-word-files-to-pdfs-in-windows-11-pro-systems/"><u>Seamless Conversion From Word Files to PDFs in Windows 11 Pro Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stream-smarter-a-detailed-comparison-between-roku-and-amazons-fire-tv-stick-for-buyers/"><u>Stream Smarter: A Detailed Comparison Between Roku and Amazon's Fire TV Stick for Buyers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-your-win-pc-chatbots-with-freedomgpt/"><u>Unleash Your WIN-PC ChatBots: With FreedomGPT</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unlocking-google-docs-transcription-your-complete-manual/"><u>2024 Approved Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-routes-to-reviving-the-elusive-windows-terminal/"><u>5 Routes to Reviving the Elusive Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-creative-components-free-youtube-visual-resources/"><u>In 2024, Creative Components FREE YouTube Visual Resources</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-screen-capture-expert-take-on-showmore-software/"><u>In 2024, Mastering Screen Capture Expert Take on ShowMore Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-to-youtube-trailer-making-with-filmora/"><u>In 2024, Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-store-problems-with-x00000000/"><u>Mending Windows Store Problems with X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719335028418-stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now</u></a></li>
 </ul></div>
 

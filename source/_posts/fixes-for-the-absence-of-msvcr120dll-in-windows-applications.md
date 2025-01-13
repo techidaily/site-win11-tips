@@ -1,7 +1,7 @@
 ---
 title: Fixes for the Absence of msvcr120.dll in Windows Applications
-date: 2024-12-31T02:08:20.799Z
-updated: 2025-01-06T11:01:46.600Z
+date: 2025-01-10T17:07:48.176Z
+updated: 2025-01-12T21:50:48.684Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair the Microsoft Visual C++ Redistributable
 
  The msvcr120.dll file is a component of the Microsoft Visual C++ 2013 Redistributable package. If there are any issues with this package, it may lead to the msvcr120.dll missing error on Windows. You can try repairing the Microsoft Visual C++ 2013 Redistributable package on your PC to see if that fixes the error. Here are the steps for the same.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 7. Hit the **Repair** button and wait for the process to complete.  
 ![Repair the Microsoft Visual C++ Redistributable on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-the-microsoft-visual-c-redistributable-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall Microsoft Visual C++ Redistributable
 
  If updating the Visual C++ Redistributable package does not help, you can try reinstalling it on your PC. To do so, use these steps:
@@ -51,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 3. Tick the **vcredist\_x64.exe** and **vcredist\_x86.exe** checkboxes and click **Next**.  
 ![Download the Microsoft Visual C++ Redistributable.png](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-the-microsoft-visual-c-redistributable-png.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Double-click the downloaded setup file and follow the on-screen prompts to finish the installation process. After that, check if the error occurs again.
 
  If you are using 64-bit Windows, you can install both vcredist\_x64.exe and vcredist\_x86.exe. However, if you have a 32-bit version of Windows, you should only install vcredist\_x86.exe. You can [tell if the Windows version you are using is 32-bit or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) by checking the system information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Copy the Msvcr120.dll From Another Computer
 
@@ -74,7 +66,11 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 ![MSVCR120 in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msvcr120-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall the Problematic Program
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
  If you encounter the msvcr120.dll missing error only when launching a specific app or program, it is likely that the program is unable to access the DLL file. You can try updating the problematic program to its most recent version to see if that helps.
 
  If the error persists even after that, you can consider removing the program completely and installing it again. We have a detailed guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). You can follow any one of the methods outlined there to uninstall the problematic program. Make sure you [eradicate leftovers from the uninstalled program](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) before reinstalling it on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Re-Register the Msvcr120.dll File
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 4. Paste the following command and press **Enter** to re-register the msvcr120.dll file.  
 `regsvr32 MSVCR120.dll`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try Some Generic Fixes to Resolve the Msvcr120.dll Missing Error
 
  If you are still getting the msvcr120.dll missing error at this point, you can try some of the generic fixes to resolve the error message. Let's go over all of them quickly one by one.
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 * **Update Drivers:** A malfunctioning driver could interfere with your apps and programs and trigger such errors. Hence, it’s a good idea to update the drivers on your PC using a [free driver updater tool](https://www.makeuseof.com/windows-best-free-driver-updaters/).
 * **Install Windows Updates:** It’s possible that the error in question is occurring due to a bug within Windows. If that’s the case, [installing pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) should help fix it.
 * **Perform a System Restore:** If the msvcr120.dll missing error has only started appearing recently, you can [use system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state. This will allow you to undo any recent system changes that may have caused the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing the Msvcr120.dll File on Windows
 
@@ -128,18 +128,19 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-into-the-virtual-epoch-analyzing-present-state-and-ahead/"><u>[New] 2024 Approved Into the Virtual Epoch Analyzing Present State and Ahead</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigate-through-prime-virtual-bike-selections/"><u>[Updated] Navigate Through Prime Virtual Bike Selections</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>2024 Approved Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-mac-compatible-dvd-players-top-picks-and-reviews/"><u>Best Mac Compatible DVD Players: Top Picks & Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-the-erratic-power-estimate-display-in-windows-11-os/"><u>Correcting the Erratic Power Estimate Display in Windows 11 OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-keyboard-fixes-a-step-by-step-reset-procedure/"><u>Mastering Keyboard Fixes: A Step-by-Step Reset Procedure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mouse-keys-unite-wake-up-sleeping-devices-post-sleep/"><u>Mouse, Keys Unite! Wake Up Sleeping Devices Post-Sleep</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-your-pc-writes-via-steam/"><u>Restoring Functionality to Your PC' Writes via Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-key-to-unhindered-play-fixing-intermittent-ps4-connection-in-windows/"><u>The Key to Unhindered Play: Fixing Intermittent PS4 Connection in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-winerror-exit-code-resolution/"><u>Troubleshooting Windows: WinError Exit Code Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-deskanywhere-combat-and-fix-common-problems/"><u>Win11 DeskAnywhere: Combat and Fix Common Problems</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728474598560-windows-881/"><u>Windows 8/8.1における簡単なフォーマットと新しいレコピー検証の手順</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixelated-palaces-6-basic-mc-homes-for-neophytes-for-2024/"><u>[New] Pixelated Palaces 6 Basic MC Homes for Neophytes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steady-silence-decreasing-volume-in-logic-pro-projects/"><u>[New] Steady Silence Decreasing Volume in Logic Pro Projects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-prime-video-chat-solutions-for-pcs-and-phones/"><u>[Updated] 2024 Approved Prime Video Chat Solutions for PCs & Phones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-visionarys-toolkit-for-personalized-animation-techniques/"><u>2024 Approved The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-an-innovative-auto-refresh-check-option-to-the-windows-ui/"><u>Adding an Innovative Auto-Refresh Check Option to the Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-efficiency-program-troubleshooting-tool-inclusion/"><u>Adding Efficiency: Program Troubleshooting Tool Inclusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-fn-key-behavior-for-efficiency/"><u>Altering Windows Fn Key Behavior for Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-efficiency-embrace-adaptive-tiling/"><u>Amplify Windows Efficiency: Embrace Adaptive Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-and-ranking-video-codecs-for-windows-pcs/"><u>Analyzing and Ranking Video Codecs for Windows PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-gt-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme GT 3</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diagnosing-and-repairing-complete-storage-overload-in-windows-11-systems/"><u>Diagnosing and Repairing Complete Storage Overload in Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-page-design-techniques-for-enhanced-online-visibility-and-seo-success/"><u>Mastering Page Design Techniques for Enhanced Online Visibility and SEO Success</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection/"><u>New 2024 Approved Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-for-screenshotting-your-laptop-or-desktop-in-various-windows-versions/"><u>Step-by-Step Tutorial for Screenshotting Your Laptop or Desktop in Various Windows Versions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: Fixing Windows Setup Fails"
-date: 2024-08-08T11:05:24.114Z
-updated: 2024-08-09T11:05:24.114Z
+date: 2025-01-09T16:40:58.652Z
+updated: 2025-01-12T17:10:40.469Z
 tags:
   - windows10
   - windows11
@@ -20,29 +20,22 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
  Lots of users have reported the “problem with this Windows installer package” error occurs when trying to install iTunes. However, this issue can affect the installation of many other Windows programs. This is how you can fix the “problem with his Windows installer package” error.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Download the Affected Installer Package File Again
 
  The setup file you’ve downloaded could be damaged in some way. So, try downloading a fresh setup file for the software you can’t install. Select to download the installer file to a different folder on your hard drive and then have another go at installing.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Set Admin Rights on Your User Account
 
  Make sure you’re using an administrative user account. You can set admin rights for a user account with one of the methods in this guide to [changing your user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/). Then sign out of your account and log back in.
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/administrator-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, select to run the setup file with admin rights. To do that, right-click the installer file for the software you can’t install and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Program Install Troubleshooter
 
  Microsoft’s Program Install and Uninstall troubleshooter can be a useful tool for fixing many installation errors. Although the troubleshooting tool isn’t available within Settings, you can still download it from Microsoft’s site.
@@ -52,14 +45,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Open this [Microsoft webpage](https://support.microsoft.com/en-gb/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) from which you can download the Program Install and Uninstall troubleshooter.
 2. Click **Download troubleshooter** to save the **MicrosoftProgram\_Install\_and\_Uninstall.meta** file.
 3. Go to the folder in which your browser usually downloads and double-click **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![The Program Install and Uninstall troubleshooter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-program-install-and-uninstall-option.jpg)
 4. Then select the troubleshooter’s **Next** button.
 5. Click **Installing** to view a list of programs.  
 ![The Installing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-option.jpg)
 6. Select either the software you cannot install or **Not listed** and click **Next**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -74,23 +68,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-option.jpg)
 4. Type **runas** inside the key’s text box.
 5. Select **runas** and double-click on its **(Default)** string.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
 
 1. Input **Install as &administrator** inside the **Value data** box and select **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Edit String window for the runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/an-edit-string-window.jpg)
 2. Next, click the **runas** key with the right mouse button to select **New** and **Key**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Enter **command** to be your new key’s title.
 4. Select **command** to double-click on that key’s **(Default)** string.
 5. Input **msiexec /i "%1"** within the **Value data** box and click **OK**.  
 ![The Edit String window for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-key-edit-string-window.jpg)
 6. Close Registry Editor and click **Power** \> **Restart** on the Windows Start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set Full Control for the Temp Folder
 
@@ -100,9 +96,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 `C:\Users\%username%\AppData\Local\`
 2. Then right-click the **Temp** directory to select **Properties**.
 3. Select **Security** on the Temp Properties window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-tab-1.jpg)
 4. Press **Edit** to bring up a Permissions for Temp window.
 5. Select **Add** to view a groups window.
@@ -112,11 +105,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-users-or-groups-window.jpg)
 3. Select **OK** to exit the Users or Groups window.
 4. Click the **Full Control** checkbox inside the **Allow** column.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
 5. Select **Apply** to set new permission settings then OK out of all windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Apple Software Update App
 
@@ -129,8 +127,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Try installing iTunes after repairing Apple Software Update.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Restart the Windows Installer Service
 
  Windows Installer is a service for handling the installation of software with MSI packages. It's a service you can try restarting to resolve the “problem with the Windows installer package” error. If it's not running, you can fix this problem by starting it back up again.
@@ -151,11 +150,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. When the Command Prompt appears in the search, click **Run as administrator** on the right side of the search tool.
 3. Type in (or copy and paste) this command and hit **Enter**:  
 `msiexec.exe /unregister`  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The unregister service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-unregister-command.jpg)
 4. Execute this command for re-registering Windows Installer:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `msiexec.exe /regserver`  
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
 5. Check the Windows Installer service is running and start it again if necessary, as covered in the earlier resolution.
@@ -166,23 +167,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can disable startup services and apps via MSConfig and Task Manager, as instructed in our article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC after setting up the clean boot. Then have another go at installing the affected software packages.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install All the Windows Software Packages You Need Again
 
  The potential resolutions covered in this guide will likely be enough to remedy the “problem with this Windows Installer” error on most PCs. It is a commonly reported Windows error many users have fixed by applying those potential solutions. Beyond those possible fixes, more drastic measures like resetting or reinstalling Windows might be required.
 
  Lots of users have reported the “problem with this Windows installer package” error occurs when trying to install iTunes. However, this issue can affect the installation of many other Windows programs. This is how you can fix the “problem with his Windows installer package” error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -190,3 +187,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-snowy-scores-winter-2022-wonders-unveiled/"><u>[New] Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tailor-made-twitter-video-coverage-for-2024/"><u>[New] Tailor-Made Twitter Video Coverage for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle-for-2024/"><u>[New] Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-zoom-mastery-best-approaches-to-video-transcoding/"><u>[Updated] In 2024, Zoom Mastery Best Approaches to Video Transcoding</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-proportional-adjustments-online/"><u>[Updated] Mastering Proportional Adjustments Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-text-hotkeys-setup-for-custom-snip-tapping-in-win11/"><u>Advanced Text Hotkeys Setup for Custom Snip Tapping in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-old-pcs-with-windows-11-version-22h2/"><u>Ignite Old PCs with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared/"><u>In 2024, Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-0x800713f-error-on-windows-11/"><u>Strategies to Eradicate 0X800713F Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-operational-windows-desktop-context-menus/"><u>Tactics for Operational Windows Desktop Context Menus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-shots-premium-video-cams-for-slow-motion-magic/"><u>Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-determining-whether-xbox-connectivity-problems-are-widespread-or-personal/"><u>Troubleshooting Guide: Determining Whether Xbox Connectivity Problems Are Widespread or Personal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-resolving-issues-with-registry-editor-missing/"><u>Uncovering and Resolving Issues with 'Registry Editor' Missing</u></a></li>
+</ul></div>
+

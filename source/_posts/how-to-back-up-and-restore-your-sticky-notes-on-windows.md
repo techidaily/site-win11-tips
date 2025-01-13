@@ -1,7 +1,7 @@
 ---
 title: How to Back Up and Restore Your Sticky Notes on Windows
-date: 2024-12-17T09:42:03.527Z
-updated: 2024-12-21T17:09:59.203Z
+date: 2025-01-05T23:49:01.046Z
+updated: 2025-01-12T22:19:00.948Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -94,23 +94,6 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-best-ways-to-get-high-quality-version-of-pictures-for-free-for-2024/"><u>[New] Best Ways To Get High Quality Version Of Pictures For Free for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-digital-domain-your-playground-for-1000-titles-for-2024/"><u>[New] Digital Domain Your Playground for 1,000 Titles for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-gaiety-media-download-review/"><u>[New] In 2024, Gaiety Media Download Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-collabs-that-attract-and-retain-viewers/"><u>[Updated] 2024 Approved Crafting Collabs that Attract and Retain Viewers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-demystifying-the-purpose-what-is-a-blue-image-on-facebook-for-2024/"><u>[Updated] Demystifying the Purpose What Is a Blue Image on Facebook for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>2024 Approved Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-time-and-clutter-with-multi-folder-creation-techniques-in-windows-1011/"><u>Cut Down Time and Clutter with Multi-Folder Creation Techniques in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-power-the-art-of-appbrowser-control-in-winos/"><u>Directing Power: The Art of App/Browser Control in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-web-browsing-security-with-aguard-technology-on-windows-11/"><u>Elevate Your Web Browsing Security with Aguard Technology on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>In 2024, Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-sidestep-these-8-common-errors/"><u>Mastering Windows 11: Sidestep These 8 Common Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/the-photographers-shield-preventing-windows-camera-problems/"><u>The Photographer’s Shield: Preventing Windows Camera Problems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ling-hidden-details-in-asmr-recordings-for-2024/"><u>Unveiling Hidden Details in ASMR Recordings for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -118,3 +101,27 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pre-production-meets-post-production-premiere-and-youtube/"><u>[New] 2024 Approved Pre-Production Meets Post-Production Premiere and YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>[New] The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cutting-down-complexity-the-simplified-guide-to-youtube-4k-submissions/"><u>2024 Approved Cutting Down Complexity The Simplified Guide to Youtube 4K Submissions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-runtime-brokers-abnormal-cpu-usage-spikes-on-windows-10/"><u>Easy Fixes for the Runtime Broker's Abnormal CPU Usage Spikes on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echoes-of-the-past-utilizing-windows-7-product-key-for-windows-11/"><u>Echoes of the Past: Utilizing Windows 7 Product Key for Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/escape-high-prices-of-official-revamps-craft-custom-versions-via-modding-techniques/"><u>Escape High Prices of Official Revamps - Craft Custom Versions via Modding Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-to-overcome-remote-connection-errors-on-windows/"><u>Fixes to Overcome Remote Connection Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-to-grips-with-windows-11s-audio-settings-quickly/"><u>Getting to Grips with Windows 11'S Audio Settings Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-insights-from-paris-olympic-data-to-enhance-energy-efficiency-for-future-sporting-events-zdnet-exclusive/"><u>Harnessing Insights From Paris Olympic Data to Enhance Energy Efficiency for Future Sporting Events - ZDNet Exclusive</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shadows-add-stealthy-menu-in-win11/"><u>Navigating the Shadows: Add Stealthy Menu in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdles-of-windows-11s-search-functionality/"><u>Overcoming the Hurdles of Windows 11'S Search Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-performance-the-most-unnecessary-windows-applications/"><u>Sharpen Performance: The Most Unnecessary Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-chrome-blackout-on-a-pc/"><u>Solving Chrome Blackout on a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-benefits-in-maintaining-your-win-11-notification-signals/"><u>The Hidden Benefits in Maintaining Your Win 11 Notification Signals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-7-iosandroid-apps-for-mobile-friendly-youtube-streaming/"><u>Top 7 iOS/Android Apps for Mobile-Friendly YouTube Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unearthing-inshots-video-magic-for-editors-for-2024/"><u>Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-dormant-pane-panes-ultimate-guide-to-win11/"><u>Unlocking Dormant Pane Panes: Ultimate Guide to Win11</u></a></li>
+</ul></div>
+

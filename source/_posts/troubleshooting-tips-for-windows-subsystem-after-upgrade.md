@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Windows Subsystem After Upgrade
-date: 2025-01-05T11:50:58.042Z
-updated: 2025-01-05T16:13:30.484Z
+date: 2025-01-09T02:14:55.965Z
+updated: 2025-01-12T17:39:25.746Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check That WSL Is Enabled
 
  It isn't unusual that upgrading to a newer version of the OS will break some apps and features. So although it might sound obvious, checking WSL hasn't simply been disabled during the upgrade process should be your first step. Here's how to check:
 
 ![checking if WSL is enabled in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-enabled.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. In Windows Search, type**Turn Windows features on or off** and click the search result that should appear at the top.
 2. In the Windows System dialog, scroll down until you see**Windows Subsystem for Linux** .
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
 
 1. Search for**Turn Windows features on or off** and click the search result.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 4. You will need to restart your computer to complete the installation of these tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Linux Distribution App
@@ -79,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Force WSL to Open Using the Microsoft Store
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 [Uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) isn't a complicated process, even if you have never done it before.
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Check That Malware Isn't Blocking WSL
 
@@ -137,21 +137,16 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] 2024 Approved Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egular-payouts-for-youtube-content-makers-in-2024/"><u>[New] Regular Payouts for YouTube Content Makers, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-simplified-techniques-for-blurring-faces-in-pictures/"><u>2024 Approved Simplified Techniques for Blurring Faces in Pictures</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-starters-kit-establishing-yourself-on-youtube-profitably/"><u>2024 Approved Starter's Kit Establishing Yourself on YouTube Profitably</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-guide-for-elevating-your-youtube-feedback-with-emojis/"><u>2024 Approved Step-by-Step Guide for Elevating Your Youtube Feedback with Emojis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-app-starter-issue-code-0xc000003e/"><u>Eliminating Windows 10/11 App Starter Issue: Code 0XC000003E</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-approaches-to-documenting-facetime-talks-for-2024/"><u>Innovative Approaches to Documenting FaceTime Talks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-powershell-scripts-to-unblock-files/"><u>Navigating Through PowerShell Scripts to Unblock Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-the-silenced-voice-recognition-your-win11-guide/"><u>Reviving the Silenced Voice Recognition: Your Win11 Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-flip-side-using-ai-to-combat-malware/"><u>The Flip Side: Using AI to Combat Malware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-syncing-in-ms-to-do-app/"><u>Troubleshooting Non-Syncing in MS To-Do App</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-your-itunes-backups-when-they-turn-grey-in-windows-11-what-to-do/"><u>Troubleshooting Your iTunes Backups When They Turn Grey in Windows 11 – What to Do?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-your-toolbar-6-solutions-for-stuck-context-menus/"><u>Unfreeze Your Toolbar: 6 Solutions for Stuck Context Menus</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-your-online-potential-mastering-seo-for-youtube-success-for-2024/"><u>Unlocking Your Online Potential Mastering SEO for YouTube Success for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-update-error-code-0x80246007/"><u>Unraveling the Mystery of Update Error Code: 0X80246007</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-adjustment-guide-dealing-with-windows-overscan/"><u>Window Adjustment Guide: Dealing with Windows Overscan</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-future-of-presentations-capturing-via-webcam/"><u>[Updated] 2024 Approved The Future of Presentations Capturing via Webcam</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-recovering-cortana-insights-on-pcs/"><u>A Guide to Recovering Cortana Insights on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895052667-code-28-error-woes-heres-your-ultimate-windows-hack-for-a-smooth-fix/"><u>Code 28 Error Woes? Here's Your Ultimate Windows Hack for a Smooth Fix!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>In 2024, Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revealing-insights-on-the-acer-predator-triton-300-se-smart-slim-and-steeped-in-value/"><u>Revealing Insights on the Acer Predator Triton 300 SE - Smart, Slim & Steeped in Value!</u></a></li>
 </ul></div>
 

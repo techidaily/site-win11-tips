@@ -1,7 +1,7 @@
 ---
 title: Remedies for Black Screen Crisis in Win-Based Playing
-date: 2024-08-08T11:07:22.749Z
-updated: 2024-08-09T11:07:22.749Z
+date: 2025-01-09T21:47:14.068Z
+updated: 2025-01-12T22:44:21.493Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Basic Checks to Troubleshoot the Black Screen Issue on Your PC
 
  If you experience the black screen issue on a laptop, you can skip this step and continue with the rest of the fixes. However, if you experience the problem on a PC, you should perform a few basic checks to ensure a loose connection or temporary display issue isn't to blame.
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 * Only run one game at a time, especially if it is resource-intensive and heavily strains your hardware.
 * Outdated graphics card drivers can also cause display issues. Therefore, [update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) if they are out of date.
 * The Windows game mode aims to improve the gaming experience, but it can also give rise to unexpected issues. Disable game mode if it is currently enabled. To do that, type **"game mode"** in Windows Search, open the **Game Mode settings**, then toggle the **Game Mode** switch off.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
 
 ## 3\. Check for Game-Specific Issues
@@ -52,21 +50,23 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  If these changes fail to resolve the issue, or if the problem persists with more than one game, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 4\. Monitor the Resource Usage During Gameplay
 
  Does the screen turning black issue only occur when playing resource-intensive games? If that's the case, one of your device's hardware components, especially the CPU or GPU, could be under high strain. To test this hypothesis, minimize the game right after launch, open Task Manager, and monitor CPU, GPU, and RAM resource consumption.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Sort Processes by the CPU Resource Consumption in CPU Column of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-sort-processes-by-the-cpu-resource-consumption-in-cpu-column-of-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the components' resource usage remains within normal limits, they are not under extreme stress. However, if you see the screen go black right when one of the components's usage spikes to 100 percent, the increase in stress is likely the cause.
 
  For such a situation, refer to our guides on [how to fix high CPU](https://www.makeuseof.com/tag/fix-high-cpu-usage-windows/), [GPU](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/), and [RAM resource usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) and apply the relevant solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Monitor the Temperature of the System Components
 
@@ -76,11 +76,6 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  If overheating is the cause of the problem, follow the tips in our guide on [fixing an overheated Windows 11 computer](https://www.makeuseof.com/overheating-windows-11-computer/). If temperatures are within a normal range, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 6\. Turn Off the App Readiness Service
 
  On the [Lenovo discussion board](https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series-Laptops/App-Readiness-Enabled-causing-5-minute-black-screens-before-booting/m-p/5141128), one user reported experiencing a five-minute black screen issue just seconds after booting up the system and disabling the App Readiness service resolved the issue for him. Having this service enabled has been associated with black screen issues for a long time, so disable it temporarily and see if it fixes the problem.
@@ -97,9 +92,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off the Link State Power Management Setting
 
  Link State Power Management enables users to save power and prolong battery life. In some cases, enabling this setting can limit your device's power consumption, causing your screen to go black when you least expect it. To make sure that power saving is not the problem, follow the below steps:
@@ -112,6 +104,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. Then, click **Apply** and hit **OK**.  
 ![Turn Off the On Battery and Plugged In Modes in Link State Power Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-turn-off-the-on-battery-and-plugged-in-modes-in-link-state-power-management-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Let a Black Screen Ruin Your Winning Streak
 
  Seeing your screen go black while playing a game can be highly frustrating. We've explained the causes behind this issue and suggested solutions to fix it. Once you apply the above solutions, black screen issues will become a thing of the past.
@@ -120,11 +120,28 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>[New] In 2024, Premium Screens at Their Peak Top #10 Listings for 4K Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assisting-users-with-erratic-gesture-inputs-in-windows/"><u>Assisting Users with Erratic Gesture Inputs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-window-lock-out-duration-in-windows/"><u>Customize Window Lock-Out Duration in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easily-minimize-game-lag/"><u>Easily Minimize Game Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-troubleshooting-winning-against-camera-app-failures/"><u>Effortless Troubleshooting: Winning Against Camera App Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remedy-disconnected-windows-11-printers/"><u>Guide to Remedy Disconnected Windows 11 Printers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/m1-nexus-smooth-transitions-unmatched-editing-velocity/"><u>M1 Nexus Smooth Transitions, Unmatched Editing Velocity</u></a></li>
+<li><a href="https://discover-community.techidaily.com/macx-dvd-ripper-pro-dvdisodvd/"><u>MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-5-best-free-video-rotation-apps-for-iphone-users/"><u>New 5 Best Free Video Rotation Apps for iPhone Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-unfreezing-stuck-spotify-app-in-win11-pcs/"><u>Quick Guide: Unfreezing Stuck Spotify App in Win11 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-zoom-has-no-sound-problems-on-pc-devices-effective-fixes/"><u>Resolving 'Zoom Has No Sound' Problems on PC Devices - Effective Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workspace-tackling-screen-lag-in-windows/"><u>Streamline Your Workspace: Tackling Screen Lag in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a23-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A23 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-user-rights-configuration-in-terminal/"><u>Troubleshooting User Rights Configuration in Terminal</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Prioritizing Deps, Ensuring VBox Works Smoothly on Win
-date: 2024-08-08T11:09:10.297Z
-updated: 2024-08-09T11:09:10.297Z
+date: 2025-01-08T17:12:07.747Z
+updated: 2025-01-12T19:32:52.940Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
  Visual C++ Redistributable is a straightforward installation, it is not the same case with Python as it requires configuring as well. The good thing is it is easy to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dependencies for Installation of VirtualBox on Windows
 
  VirtualBox is a cross-platform software. Apart from Windows, you can [install VirtualBox on Linux](https://www.makeuseof.com/install-ubuntu-virtualbox/) and Mac as well. The installation package is available for download from the official [VirtualBox site](https://www.virtualbox.org/wiki/Downloads).
@@ -35,23 +39,22 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
 ![Popup window in VirtualBox asks for Visual C++ Redistributable Package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/02-popup-window-in-virtualbox-asks-for-visual-c-redistributable-package-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![VirtualBox window displays the need for Missing Dependencies Python Core win32api](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/03-virtualbox-window-displays-the-need-for-missing-dependencies-python-core-win32api.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you try to continue the installation of VirtualBox without meeting the dependencies, the installation will end up in an error and show the following error message:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![VirtualBox Installation failed! Fatal error during installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/04-virtualbox-installation-failed-fatal-error-during-installation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Visual C++ Redistributable on Windows
 
  You can download Microsoft Visual C++ Redistributable from the [Microsoft Learn webpage](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). You need to download the version that suits your operating system (x86/32-bit or x64/64-bit). Once downloaded, proceed with the installation, the process is straightforward.
@@ -68,16 +71,14 @@ Close
 
  Python is another dependency for VirtualBox. You can download it from the official [Python website](https://www.python.org/downloads/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Download Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/08-download-python-win32api-for-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once downloaded, start the installation. You need to check **Add python.exe to PATH**, and complete the installation. When added to PATH, Python packages and scripts can be accessed from any directory. Complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Install Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/09-install-python-win32api-for-windows.jpg)
 
  Now, configure Python for Win32 extensions. It provides access to Windows APIs from Python. To do this, open the Command Prompt or PowerShell as administrator and run the command:
@@ -89,8 +90,9 @@ Close
  Your computer has now met all the dependencies to install VirtualBox.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Error Free Installation of VirtualBox on Windows
 
  Start the installation of VirtualBox, and it will complete without any errors. Browse the following images for reference:
@@ -98,29 +100,24 @@ Close
 ![Install VirtualBox in WIndows using the wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-install-virtualbox-in-windows-using-the-wizard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Install VirtualBox in WIndows custom setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/12-install-virtualbox-in-windows-custom-setup.jpg)
 
 ![Install VirtualBox in WIndows network interfaces warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/13-install-virtualbox-in-windows-network-interfaces-warning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install VirtualBox in WIndows ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/14-install-virtualbox-in-windows-ready-to-install.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![VirtualBox in WIndows installation complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/15-virtualbox-in-windows-installation-complete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![VirtualBox manager in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/16-virtualbox-manager-in-windows.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run a Guest Operating System of Your Choice via VirtualBox
 
@@ -130,11 +127,27 @@ Close
 
  Visual C++ Redistributable is a straightforward installation, it is not the same case with Python as it requires configuring as well. The good thing is it is easy to do.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/amd-unveils-the-new-ryzen-ai-9-hx-375-the-succeeding-sibling-to-the-amd-strix-point-ryzen-processors/"><u>AMD Unveils the New Ryzen AI 9 HX 375: The Succeeding Sibling to the AMD Strix Point Ryzen Processors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/galactic-game-guide-the-top-10-affordable-mmo-titles-for-2024/"><u>Galactic Game Guide The Top 10 Affordable MMO Titles for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-laptop-drivers-compatible-with-windows-operating-system/"><u>Get the Latest HP Laptop Drivers: Compatible with Windows Operating System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-low-investment-high-rewards-channel-size-doesnt-deter-sponsorship/"><u>In 2024, Low-Investment, High Rewards Channel Size Doesn't Deter Sponsorship</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycam-top-virtual-webcam-application/"><u>Live Streaming Made Easy: Discover ManyCam - Top Virtual Webcam Application</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-blur-apps-for-clear-portraits-for-2024/"><u>Mastering Blur Apps for Clear Portraits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-low-latency-techniques-for-discord-on-windows/"><u>Mastering Low-Latency Techniques for Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unsuccessful-nvidia-connect-attempts-in-windows-11/"><u>Resolving Unsuccessful Nvidia Connect Attempts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-failed-discord-games-detection-on-windows/"><u>Steps to Recover From Failed Discord Games Detection on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-4-methods-to-tap-into-windows-11s-disk-manager/"><u>Streamline Storage: 4 Methods to Tap Into Windows 11'S Disk Manager</u></a></li>
+<li><a href="https://driver-download.techidaily.com/take-your-pc-gaming-to-the-next-level-updating-nvidia-gtx-1660-ti-graphics-card-drivers/"><u>Take Your PC Gaming to The Next Level - Updating NVIDIA GTX 1660 Ti Graphics Card Drivers</u></a></li>
+</ul></div>
+

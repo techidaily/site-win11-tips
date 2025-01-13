@@ -1,7 +1,7 @@
 ---
 title: Streamlining Word Edits with Snipping Tool
-date: 2024-12-31T19:27:54.562Z
-updated: 2025-01-06T03:07:42.670Z
+date: 2025-01-11T00:15:36.165Z
+updated: 2025-01-12T18:51:19.198Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the Text Actions Feature in the Snipping Tool?
 
  At the time of writing, the current version of Snipping Tool lets you capture and annotate screenshots. You can even [screen record using the Snipping tool](https://www.makeuseof.com/how-to-screen-record-with-windows-11-snipping-tool/).
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
@@ -51,22 +55,14 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Paste all the copied text in the Notepad and save it for later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
@@ -77,17 +73,21 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
@@ -107,24 +107,19 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate/"><u>[Updated] 2024 Approved Unleashing Potential in Screen Recording Expertise in Adobe Captivate</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unpacking-the-sequencing-of-a-20mb-file/"><u>[Updated] 2024 Approved Unpacking the Sequencing of a 20MB File</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-monetization-how-much-creators-earn-per-ad-on-youtube-in-2024/"><u>[Updated] Decoding Monetization How Much Creators Earn Per Ad on YouTube, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-midnight-guardian-vs-sunlit-sentinel/"><u>[Updated] Midnight Guardian Vs Sunlit Sentinel</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-close-up-communication-the-art-of-zoom-on-teams/"><u>2024 Approved Close-Up Communication The Art of Zoom on Teams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-microsoft-can-improve-windows-11-widgets/"><u>8 Ways Microsoft Can Improve Windows 11 Widgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-windows-11s-compatibility-fixer/"><u>A Step-by-Step Guide to Windows 11’S Compatibility Fixer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-ways-downloading-setting-up-and-running-msix-extensions-on-windows/"><u>Convenient Ways: Downloading, Setting Up & Running MSIX Extensions on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciding-on-a-nearby-share-solution-tech-giants-go-head-to-head/"><u>Deciding on a Nearby Share Solution: Tech Giants Go Head-to-Head</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diving-deep-into-identity-unveiling-sids-in-windows-11/"><u>Diving Deep Into Identity: Unveiling SIDs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-system-call-issues-on-modern-windows/"><u>How to Eradicate System Call Issues on Modern Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 2 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/revelation-poll-indicates-distrust-in-big-technology-firms/"><u>Revelation: Poll Indicates Distrust in Big Technology Firms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/omplete-guide-to-creating-memorable-youtube-outros-for-2024/"><u>The Complete Guide to Creating Memorable YouTube Outros for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-journey-from-gpt-1-to-gpt-4-unveiling-the-differences-in-openais-latest-models/"><u>The Journey From GPT-1 to GPT-4: Unveiling the Differences in OpenAI’s Latest Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-when-windows-1011-night-light-doesnt-work/"><u>Troubleshooting Guide for When Windows 10/11 Night Light Doesn't Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719220019899-unravel-windows-mysteries-get-the-support-you-need/"><u>Unravel Windows Mysteries: Get the Support You Need</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-laugh-loom-meme-crafter/"><u>[New] Laugh Loom Meme Crafter</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[Updated] In 2024, Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-building-a-channel-team-up-videography-guide/"><u>2024 Approved Building a Channel Team-Up Videography Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/customize-your-workspace-a-simple-way-to-update-your-computers-desktop-background-advice-by-yl-software/"><u>Customize Your Workspace: A Simple Way to Update Your Computer's Desktop Background - Advice by YL Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-no-cost-blackberry-video-converter-make-any-clip-playable-on-your-bold-and-curve-phones/"><u>Download No-Cost BlackBerry Video Converter: Make Any Clip Playable on Your Bold and Curve Phones!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intellij-unison-crashes-in-windows-11/"><u>Fixing IntelliJ Unison Crashes in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-problems-on-win-11/"><u>Mitigating Missing File Detection Problems on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-failed-system-call-on-windows-systems/"><u>Steps to Tackle Failed System Call on Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-securing-youtubers-as-sponsors-for-2024/"><u>Strategies for Securing YouTubers as Sponsors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-dxgierrordeviceremoved-challenge/"><u>Tackling the DXGI_ERROR_DEVICE_REMOVED Challenge</u></a></li>
 </ul></div>
 

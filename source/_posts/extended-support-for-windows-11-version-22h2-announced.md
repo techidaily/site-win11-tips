@@ -1,7 +1,7 @@
 ---
 title: Extended Support for Windows 11 Version 22H2 Announced
-date: 2024-12-30T01:49:57.487Z
-updated: 2025-01-06T10:26:52.472Z
+date: 2025-01-08T16:43:35.846Z
+updated: 2025-01-12T16:54:46.137Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft has extended support for Windows 11 version 22H2, providing extra time for optional updates.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
  According to Microsoft, this change occurred due to user feedback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Defining an "Optional Update" in Windows
 
  Windows updates aren't all equal; there's a system that differentiates them depending on how important they are. This deadline extension will allow people to receive non-critical updates on Windows 11 version 22H2 until the new date, and security updates will continue for even longer.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does This Mean for Windows 11 22H2 Users?
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
@@ -80,7 +80,7 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
@@ -103,22 +103,22 @@ Zarif Ali / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-extraordinary.techidaily.com/5420-with-an-ssd-upgrade-enhance-speed-and-efficiency/"><u>5420 with an SSD Upgrade - Enhance Speed and Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-cloud-space-charges-methods-and-results-for-2024/"><u>Comparing Cloud Space Charges Methods and Results for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-constant-game-interruptions-dealing-with-madden-nfl-21-pc-crashes/"><u>Effective Solutions for Overcoming Constant Game Interruptions - Dealing with Madden NFL 21 PC Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-top-7-real-world-ai-prompt-techniques/"><u>Effective Strategies: Top 7 Real-World AI Prompt Techniques</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
-<li><a href="https://discover-data.techidaily.com/top-tier-digital-resources-boosting-education-a-comprehensive-list-for-educators/"><u>Top-Tier Digital Resources Boosting Education: A Comprehensive List for Educators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unleash-the-viral-potential-of-your-instagram-unboxing-content-for-2024/"><u>Unleash the Viral Potential of Your Instagram Unboxing Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-your-ultimate-selfie-validation-handbook/"><u>[New] 2024 Approved Your Ultimate Selfie Validation Handbook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-pics-into-action-blur-technique/"><u>[New] Bring Pics Into Action Blur Technique</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-craft-precise-notes-using-mematic-software-for-2024/"><u>[Updated] Craft Precise Notes Using Mematic Software for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audience-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>Audience Allure Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/core-applications-of-visual-cplusplus-redistributables/"><u>Core Applications of Visual C++ Redistributables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/focused-file-exploring-unleash-windowed-space-potential/"><u>Focused File Exploring: Unleash Windowed Space Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tackle-windows-11s-0x800f0922-update-error/"><u>Guide to Tackle Windows 11'S 0X800F0922 Update Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-10-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 10 & 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-reliable-easycap-software-drivers-download-today/"><u>Instant Access to Reliable EasyCAP Software Drivers - Download Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-basics-of-window-aids-with-ease/"><u>Navigate the Basics of Window Aids with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-virtualdub-competitors-a-review-of-the-best-video-editing-tools-for-2024/"><u>New VirtualDub Competitors A Review of the Best Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-irritating-steam-error-code-e84/"><u>Quick Fixes for the Irritating Steam Error Code E84</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-pc-top-9-arguments-against-macs/"><u>The Case for PC: Top 9 Arguments Against Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-price-metas-latest-512gb-oculus-quest-3-is-dominating-todays-virtual-reality-market-insights-from-zdnet/"><u>Unbeatable Price: Meta's Latest 512GB Oculus Quest 3 Is Dominating Today’s Virtual Reality Market - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-pro-key-grab-the-best-offers-and-save-money/"><u>Windows 11 Pro Key: Grab the Best Offers and Save Money</u></a></li>
 </ul></div>
 

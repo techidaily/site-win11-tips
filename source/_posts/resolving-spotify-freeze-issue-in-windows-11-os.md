@@ -1,7 +1,7 @@
 ---
 title: Resolving Spotify Freeze Issue in Windows 11 OS
-date: 2024-08-08T11:08:05.234Z
-updated: 2024-08-09T11:08:05.234Z
+date: 2025-01-07T22:45:34.514Z
+updated: 2025-01-12T23:52:27.767Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
  Spotify doesn’t open when the “application is not responding” error occurs. Although users can’t still utilize Spotify within a browser, that’s not quite the same as the Windows app. This is how you can fix the “Spotify application is not responding” error message on a Windows PC.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Terminate Background Spotify Processes in Task Manager
 
  Ending Spotify background processes is one of the most straightforward and widely confirmed resolutions for the “application is not responding” error. This error often occurs because a Spotify process is still running in the background. So, the first thing you should do is to terminate all Spotify processes you can find in Task Manager like this:
@@ -40,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
  Some Spotify users have said they were able to resolve the “application is not responding” error by running a taskkill command. This is a variation of the above resolution for terminating Spotify processes via the Command Prompt. You can run the taskkill command for Spotify as follows:
 
 1. Open the Command Prompt as an administrator (see [how to open the Command Prompt app with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) for help).  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run as administrator Command Prompt option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option-for-command-prompt.jpg)
 2. Input this taskkill command:  
 `TASKKILL /F /IM spotify.exe`  
@@ -50,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 3. Press **Enter** to execute the taskill command.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete the Spotify User Data Folder
 
  Deleting a -user subfolder within the Spotify data folder is another user-confirmed method for fixing the “Spotify application is not responding” error. Erasing that subfolder will delete the Spotify desktop app’s cached data for songs and login details. This is how you can delete the -user data folder in Windows:
@@ -72,28 +71,24 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  Users with the UWP Spotify app can also try selecting a **Repair** option. The **Repair** option is available for fixing Microsoft Store apps that aren’t working right. You can select that troubleshooting option for Spotify just below that app’s **Reset** button from its advanced options within the Apps & Features tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check That Spotify Is Allowed Through the Windows Firewall
 
  A firewall block is another potential cause for the “Spotify application is not responding” error. To address this possible cause, open Windows Defender Firewall’s allowed app settings and select the **Public** and **Private** checkboxes for the Spotify app. Our guide for [allowing apps through Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) includes full instructions for applying this resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-defender-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many third-party security apps also have firewall components that can feasibly cause the “Spotify application is not responding” error much the same as WDF. If your PC has third-party security software installed, try allowing Spotify through that app’s firewall. Look for firewall exception options in the software’s settings tabs and select to permit Spotify through it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 6\. Disable Third-Party Security Software Installed
 
  Third-party security software packages also have antivirus shields that can cause app startup issues. So, try disabling the antivirus component of any third-party security app installed before running Spotify. This can usually be done by right-clicking the system tray icon of an antivirus tool and selecting a disable or turn-off setting for temporarily deactivating the shield.
@@ -108,25 +103,27 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-and-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We also recommend that you eradicate leftover Spotify data before reinstalling. To do so, delete the Spotify data folder at this directory path:
 
 `C:\Users\<user name>\AppData\Roaming\Spotify`
 
  Or you could utilize a third-party uninstaller to remove Spotify. Software packages like IObit Uninstaller and Advanced Uninstaller Pro are freely available and will eradicate Spotify’s leftover data and registry entries. Check out our article about the [best Windows third-party uninstaller software](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The IObit Uninstaller software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iobit-uninstaller-1.jpg)
 
  Then you can reinstall either the UWP or the desktop Spotify app. Click **Download** on the [Spotify Windows download page](https://www.spotify.com/us/download/windows/) to get the setup wizard for the desktop software. Then you’ll need to double-click the **SpotifySet.exe** file to install the desktop software.
 
  If you prefer the UWP Spotify app version, open this [Microsoft Store page](https://apps.microsoft.com/store/detail/spotify-music-and-podcasts/9NCBCSZSJRSB). Press the **Get in Store** app button on the Spotify page. Next, select **Open Microsoft Store** on the dialog box that prompts you to install the app from there. Click on Spotify’s **Get** button to both download and install that app.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Get option for the Spotify UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/get-option-for-spotify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back in the Groove With Your Spotify Windows App
 
@@ -134,11 +131,29 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  Spotify doesn’t open when the “application is not responding” error occurs. Although users can’t still utilize Spotify within a browser, that’s not quite the same as the Windows app. This is how you can fix the “Spotify application is not responding” error message on a Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-expand-your-laptop-editing-horizons/"><u>[New] Expand Your Laptop Editing Horizons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-game-on-unlocking-full-potential-in-funimate/"><u>[Updated] Game On Unlocking Full Potential in Funimate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-go-2023-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark Go (2023) Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-pc-and/"><u>最適なビデオ編集ツール：5つのベスト PC 向けカットソフトウェア & サイト</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experts-choice-6-premier-chatgpt-extensions-compatible-with-vs-code/"><u>Experts' Choice: 6 Premier ChatGPT Extensions Compatible with VS Code</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-virtualdub-a-comprehensive-review-and-comparison-to-rivals/"><u>New Virtualdub A Comprehensive Review and Comparison to Rivals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-voice-typing-problems-error-code-0x80049dd3-in-windows-11/"><u>Remedying Voice Typing Problems (Error Code: 0X80049DD3) in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-soundcard-irq-errors-on-pc/"><u>Troubleshooting Soundcard IRQ Errors on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-sony-xperia-5-v-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Sony Xperia 5 V Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+</ul></div>
+

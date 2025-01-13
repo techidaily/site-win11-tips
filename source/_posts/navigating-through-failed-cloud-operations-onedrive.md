@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Failed Cloud Operations (OneDrive)
-date: 2025-01-02T20:01:34.216Z
-updated: 2025-01-06T09:14:59.362Z
+date: 2025-01-10T19:48:58.399Z
+updated: 2025-01-13T01:26:00.454Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Log Out and Back Into OneDrive
@@ -40,24 +40,16 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Click the**Unlink this PC** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unlink-this-pc.jpg)
 5. Select**Unlink account** to sign out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. If a sign-in window doesn’t automatically open, input OneDrive in the Windows search box and select to open it there.
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-button.jpg)
 3. Enter a password, and press the**Sign in** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
@@ -73,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the OneDrive App
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
@@ -117,10 +113,14 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall OneDrive
 
  Reinstalling OneDrive is a solution that’s worked for some users. This will give you a completely fresh and up-to-date OneDrive app. These are the steps for uninstalling and reinstalling OneDrive:
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
@@ -180,18 +180,24 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-clear-video-borders-streamline-webcam-footage-for-2024/"><u>[New] Clear Video Borders Streamline Webcam Footage for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-an-insiders-guide-to-screen-recording-on-macs/"><u>[Updated] An Insider's Guide to Screen Recording on Macs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-the-depth-of-complete-screenshots-via-windows-snipping-tool/"><u>Dive Into the Depth of Complete Screenshots via Windows' Snipping Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-pc-reawakening-top-3-windows-reset-methods/"><u>Efficient PC Reawakening: Top 3 Windows Reset Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-directdraw-errors-with-ease-on-new-windows-oses/"><u>Fixing DirectDraw Errors with Ease on New Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-employ-microsofts-copilot-tool-in-windows-ides/"><u>How to Employ Microsoft's Copilot Tool in Windows IDEs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-10-and-11/"><u>How to Get the Outlook Preview App on Windows 10 and 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-14-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi 14 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-s17-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S17 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/splitting-content-introducing-chapters-in-vimeo-for-2024/"><u>Splitting Content Introducing Chapters in Vimeo for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oneplus-ace-2-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-orchestrating-visuals-and-vo-in-powerpoint-for-2024/"><u>[New] Orchestrating Visuals & VO in Powerpoint for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-subtle-sound-decline-using-logic-pro-for-fading-effects/"><u>[New] Subtle Sound Decline Using Logic Pro for Fading Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-concealed-crusaders-conflict-with-clarion-champion/"><u>[Updated] 2024 Approved Concealed Crusader's Conflict with Clarion Champion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[Updated] From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-online-presence-using-wirecast-and-facebook-live-for-2024/"><u>[Updated] Streamline Your Online Presence Using Wirecast and Facebook Live for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/color-dynamics-bringing-artistic-vision-to-life/"><u>Color Dynamics Bringing Artistic Vision to Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crack-the-code-of-missing-control-options-in-win11/"><u>Crack the Code of Missing Control Options in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-skies-top-ranked-windows-11-weather-tools/"><u>Decoding the Skies: Top-Ranked Windows 11 Weather Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-deskjet-ink-advantage-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet Ink Advantage 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/elevate-your-singing-experience-with-the-thrilling-updates-of-karaoke-cloud-pro-by-pcdj-discover-whats-new/"><u>Elevate Your Singing Experience with the Thrilling Updates of Karaoke Cloud Pro by PCDJ – Discover What's New!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-reading-efficiency-obsidian-canvas-styles/"><u>Enhancing Reading Efficiency: Obsidian Canvas Styles</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-edge-40-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Edge 40 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-x9b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor X9b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-group-policy-objects-on-single-user-accounts-in-windows-11/"><u>Leveraging Group Policy Objects on Single-User Accounts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-microsoft-project-keys/"><u>Making the Most of Microsoft Project Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-draw-breakdown-for-windows-computing-systems/"><u>Power Draw Breakdown for Windows Computing Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-access-to-the-system32-folder-win11/"><u>Seamless Access to the System32 Folder (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-internal-pc-graphics-with-ease/"><u>Uninstalling Internal PC Graphics with Ease</u></a></li>
 </ul></div>
 

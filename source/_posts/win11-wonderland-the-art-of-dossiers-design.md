@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2025-01-04T00:04:42.804Z
-updated: 2025-01-06T00:43:48.853Z
+date: 2025-01-11T17:00:56.154Z
+updated: 2025-01-12T22:08:30.529Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,11 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -52,11 +56,7 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -68,6 +68,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
@@ -85,15 +89,11 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,22 +115,24 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-scenes-to-screens-sims-4-video-capturing/"><u>[New] From Scenes to Screens Sims 4 Video Capturing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-savvy-taking-screenshots-on-windows/"><u>[New] Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-content-distribution-excellence-vimeo-vs-youtube/"><u>[Updated] 2024 Approved Content Distribution Excellence Vimeo vs YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028947887-androidyoutube/"><u>「Android着信メロディ製作ガイド：YouTube音楽や動画から作る方法」</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhance-clarity-in-social-video-downloads-for-smartphonestablets/"><u>2024 Approved Enhance Clarity in Social Video Downloads for Smartphones/Tablets</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-folder-dimensions-with-powershell-scripts/"><u>Deciphering Folder Dimensions with PowerShell Scripts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expertise-in-action-how-to-fix-error-code-0x800700e9-on-your-xbox-game-pass-windows-11-device/"><u>Expertise in Action: How to Fix Error Code 0X800700E9 on Your Xbox Game Pass, Windows 11 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-print-discrepancies-in-microsoft-powerpoint-on-windows-systems/"><u>Fixing Print Discrepancies in Microsoft PowerPoint on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-the-windows-package-manager-on-windows-11/"><u>How to Use the Windows Package Manager on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-chorus-chronicles-music-gadgets/"><u>In 2024, Chorus Chronicles Music Gadgets</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-m34-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy M34 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones-for-2024/"><u>Instantly Personalize Your Phones From TikTok Sounds to Ringtones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-1110s-recurring-error-with-audacity/"><u>Remedying Windows 11/10'S Recurring Error with Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-select-websites-propelling-youtube-media/"><u>[New] 2024 Approved Select Websites Propelling YouTube Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-techniques-for-captivating-visual-fb-ads/"><u>[New] 2024 Approved Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visionary-visual-effects-the-best-text-ideas-for-video-artistry/"><u>[New] In 2024, Visionary Visual Effects The Best Text Ideas for Video Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-a-blueprint-for-fixing-zero-x-eight-oh-three-one-f-in-windows-mail/"><u>Bridging the Gap: A Blueprint for Fixing Zero X Eight Oh Three One F in Windows Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-successful-drag-operations-on-win11/"><u>Bring Back Successful Drag Operations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-memories-craft-a-windows-1198-vibe/"><u>Bringing Back Memories: Craft a Windows 11/98 Vibe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-google-chrome-to-life-with-windows-11/"><u>Bringing Google Chrome to Life with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-built-in-graphics-card-for-second-monitor/"><u>Bypassing Built-In Graphics Card for Second Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-right-click-options-in-windows/"><u>Bypassing Frozen Right-Click Options in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-creations-top-editors-for-videos-on-your-win11-pc/"><u>Captivating Creations: Top Editors for Videos on Your Win11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-and-simplify-files-with-powertools/"><u>Centralize and Simplify Files With PowerTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-the-account-lockout-threshold-post-unsuccessful-accesses-in-windows-1011/"><u>Changing the Account Lockout Threshold Post Unsuccessful Accesses in Windows 10/11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/customize-your-microsoft-windows-experience-a-comprehensive-walkthrough-of-control-panel-tweaks-from-yl-software-pros/"><u>Customize Your Microsoft Windows Experience: A Comprehensive Walkthrough of Control Panel Tweaks From YL Software Pros</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discourse-dissection-unveiling-the-ai-dialogue-divide-between-gpt-and-bingbot/"><u>Discourse Dissection: Unveiling the AI Dialogue Divide Between GPT and BingBot</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-master-the-switch-linking-instagram-with-facebook/"><u>In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-profitability-techniques/"><u>In 2024, Snapchat Profitability Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-7-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-video-transcoding-tools-for-macos-comprehensive-free-and-premium-options/"><u>Top 15 Video Transcoding Tools for macOS: Comprehensive Free and Premium Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-crashes-due-to-grounding-expert-tips-and-tricks/"><u>Troubleshoot Your PC Crashes Due to Grounding - Expert Tips & Tricks</u></a></li>
 </ul></div>
 

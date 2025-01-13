@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2025-01-02T21:19:12.787Z
-updated: 2025-01-06T10:38:56.497Z
+date: 2025-01-08T22:30:00.199Z
+updated: 2025-01-12T18:37:58.899Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -56,15 +60,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click on **Add a user** **without a Microsoft account.**
 2. Type a name for the user account. Leave the password field empty and click **Next**.
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 5. Click **OK** to save the changes.
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
@@ -96,6 +88,11 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
@@ -112,14 +109,23 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Modify profile image path in the registry editor.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/modify-profile-image-path-registry-editor.png)
 5. Enter a name you want for the profile folder and click **OK**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Click away and then click **Continue** to save the changes.
@@ -127,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
 
  Next, log out from your current account and sign in to the user account with the new user folder name. Open File Explorer and navigate to **C:\\Users\\**, and you should be able to use the previous profile with the new pathname.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Renaming the Default User Profile Folder in Windows 11, Made Easy
 
@@ -146,18 +148,17 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-premiere-pro-vanishing-art/"><u>[Updated] 2024 Approved Premiere Pro Vanishing Art</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c02-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C02 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-to-ai-identifying-its-dangers-and-safeguards/"><u>Comprehensive Guide to AI: Identifying Its Dangers and Safeguards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-drive-selection-your-key-to-effortless-gaming/"><u>Decoding Drive Selection: Your Key to Effortless Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hot-new-rumor-all-iphone-16-models-could-include-exclusive-15-pro-perks-the-latest-insights-from-zdnet/"><u>Hot New Rumor: All iPhone 16 Models Could Include Exclusive 15 Pro Perks - The Latest Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-smoothly-view-youtube-videos-without-borders-for-2024/"><u>How to Smoothly View YouTube Videos without Borders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-pricing-for-optimal-windows-11-key-deals/"><u>Navigating Pricing for Optimal Windows 11 Key Deals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-dji-phantom-4-extension-kit-list/"><u>The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-cozy-winter-scenes-for-youtube-backdrops/"><u>Top 5 Cozy Winter Scenes for YouTube Backdrops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-windows-subsystem-after-upgrade/"><u>Troubleshooting Tips for Windows Subsystem After Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-despite-photo-error-on-pc/"><u>Unlock Full Potential Despite Photo Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-control-touchscreen-responsiveness-on-windows-pcs/"><u>Unlock the Potential: Control Touchscreen Responsiveness on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winterize-your-windows-11-with-7-tips/"><u>Winterize Your Windows 11 with 7 Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-extension-software-leaders-in-chromebook-video-recording/"><u>[Updated] 2024 Approved Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-tutorial-how-to-create-facebook-account/"><u>[Updated] Facebook Tutorial How to Create Facebook Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/11-solutions-for-a-fully-operational-windows-search-bar/"><u>11 Solutions for a Fully Operational Windows Search Bar</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blockchain-against-breaches-7-windows-strategies/"><u>Blockchain Against Breaches: 7 Windows Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boldly-hiding-extra-commands-within-window-contexts-win-10/"><u>Boldly Hiding Extra Commands Within Window Contexts (Win 10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-taskbar-performance-on-win11/"><u>Boosting Taskbar Performance on Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>In 2024, Winning the Game of TV Recording on a Budget PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-fixes-for-hyper-scape-crashes/"><u>Resolving PC Issues: Fixes for Hyper Scape Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-access-to-your-deactivated-instagram-presence/"><u>Restoring Access to Your Deactivated Instagram Presence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-gratis-otimizadores-de-video-com-ia-melhores-escolhas-para-pc-e-mac/"><u>Top 10 Gratis Otimizadores De Vídeo Com IA: Melhores Escolhas Para PC E Mac</u></a></li>
 </ul></div>
 

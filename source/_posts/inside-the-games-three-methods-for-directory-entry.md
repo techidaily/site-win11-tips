@@ -1,7 +1,7 @@
 ---
 title: "Inside the Games: Three Methods for Directory Entry"
-date: 2024-08-08T11:07:46.713Z
-updated: 2024-08-09T11:07:46.713Z
+date: 2025-01-07T20:39:03.147Z
+updated: 2025-01-12T23:18:25.992Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,17 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  Let's have a look at different ways you can track down a game directory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Follow the Shortcut
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the right click menu showing open file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screcreenshot_of_right_click_menu_open_file_location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The easiest way to find the directory for most games, as well as general programs, is to follow the shortcut.
 
@@ -33,15 +38,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  Some game directories store their .exe in different locations. You might arrive at the root directory, or you may arrive at a folder imbedded in this directory. Either way, you're in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Via the Properties Menu
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the binding of isaac properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_properties_menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another option would be to use that same shortcut to view the **Properties** menu.
 
@@ -49,15 +52,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  This will bring you to the installation directory, as well as tell you exactly where that is.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 3\. Via the Game Launcher
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the binding of isaac in steam showing browse local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_steam_browse_local_files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've installed your game with a game launcher, such as Steam, or through the Epic Games Store, you'll find easier ways to open up game directories.
 
@@ -68,15 +69,14 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
  If you still can't track down the game launcher you're looking for, remember that games are just like any other program. All common [ways to find installation directories in Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) will work for games, too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Finding the Game Directory Is Easy
 
  Games are just programs, so there are plenty of ways to find their installation directory. Whether you're modding the game or just need to see some files, you'll be able to do so by the shortcut or the game launcher itself.
 
  Let's have a look at different ways you can track down a game directory.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -84,3 +84,25 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting/"><u>[New] 2024 Approved Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-3-ways-to-record-discord-live-stream-for-2024/"><u>[New] 3 Ways to Record Discord Live Stream for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-chromes-fullscreen-mode-a-complete-guide-to-pip-usage/"><u>[Updated] Chrome's Fullscreen Mode A Complete Guide to PIP Usage</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boost-visibility-selecting-the-right-youtube-thumbnail-dimensions/"><u>2024 Approved Boost Visibility Selecting the Right YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-digital-platform-showdown/"><u>2024 Approved Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-must-haves-alerts-windows-10-and-11-troubleshooting/"><u>Avoiding 'Must-Haves' Alerts: Windows 10 & 11 Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chocolatey-vs-wm-top-tools-for-windows-software-downloads/"><u>Chocolatey vs WM: Top Tools for Windows Software Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-with-windows-11s-screen-snip-functionality/"><u>Engage with Windows 11'S Screen Snip Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apple-m2-powered-macbook-air-deals-at-just-749-during-amazons-prime-day-bonanza-insights/"><u>Exclusive: Apple M2-Powered MacBook Air Deals at Just $749 During Amazon's Prime Day Bonanza - Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/global-photography-breakthrough-stellar-debuts-revolutionary-software-for-restoring-lost-images/"><u>Global Photography Breakthrough: Stellar Debuts Revolutionary Software for Restoring Lost Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-improve-windows-taskmanager-through-cli-integration/"><u>How to Improve Windows TaskManager Through CLI Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70e-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-badge-indicators-on-taskbars/"><u>Restoring Badge Indicators on Taskbars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-win11-to-new-subnets-easily/"><u>Shifting Win11 to New Subnets Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-do-not-have-access-errors/"><u>Strategies for Dealing with 'Do Not Have Access' Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resume-windows-netflix-playback/"><u>Strategies to Resume Windows Netflix Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secret-to-a-free-macbook-air-m3-at-best-buy-step-by-step-guide-zdnet/"><u>Unlock the Secret to a FREE MacBook Air M3 at Best Buy - Step-by-Step Guide | ZDNet</u></a></li>
+</ul></div>
+

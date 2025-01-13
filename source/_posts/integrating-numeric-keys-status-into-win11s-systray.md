@@ -1,7 +1,7 @@
 ---
 title: Integrating Numeric Keys Status Into Win11's SysTray
-date: 2024-12-31T06:44:36.885Z
-updated: 2025-01-05T20:27:53.245Z
+date: 2025-01-11T23:47:46.940Z
+updated: 2025-01-12T22:14:46.904Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Num, Caps, and Scroll Lock Indicators With TrayStatus
 
  TrayStatus lets you add lock key statuses, alongside a variety of system performance indicators, to the system tray.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
@@ -55,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Caps and Num Lock system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/traystatus-indicator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To add a Scroll Lock indicator and others, right-click the TrayStatus Caps Lock icon in the system tray and select **Settings**. Click the **Status Indicators** tab and select **Show Scroll Lock Status**. You can also choose to show Ctrl, Alt, Win, Shift, RAM, CPU, and hard drive indicators on the system tray from there. The RAM and CPU indicators are handy for [checking system resource usage in Windows 11](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
 
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
@@ -82,11 +82,11 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
- To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
@@ -113,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![The Keyboard LEDs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
 
@@ -139,21 +139,24 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>[New] A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-proven-marketing-spells-20-must-use-terms/"><u>[New] In 2024, Proven Marketing Spells 20 Must-Use Terms</u></a></li>
-<li><a href="https://fox-search.techidaily.com/essential-strategies-for-identity-safeguard-in-the-world-of-cryptocurrency-insights-by-yl-software-experts/"><u>Essential Strategies for Identity Safeguard in the World of Cryptocurrency - Insights by YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-es-400-scandriver-downloads-and-installation-guide-for-windows-users/"><u>Free Epson ES-400 ScanDriver Downloads & Installation Guide for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-methods-to-elevate-the-acoustics-in-your-videos-the-ultimate-trickbook/"><u>Free Methods to Elevate the Acoustics in Your Videos - The Ultimate Trickbook!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-at-snipeits-stalling-fast-fixes-to-jumpstart-it/"><u>Halt at SnipeIt's Stalling? Fast Fixes to Jumpstart It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hands-on-with-lenovos-newest-creation-the-remarkably-thin-and-powerful-snapdragon-x-laptops-insights-from-zdnet/"><u>Hands-On with Lenovo's Newest Creation: The Remarkably Thin & Powerful Snapdragon X Laptops - Insights From ZDNET</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hide-taskbar-clock-show-desktop-dates-a-step-by-step-guide/"><u>Hide Taskbar Clock, Show Desktop Dates: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-zip-cloaking-integration-within-digital-images-win11/"><u>Masterful ZIP Cloaking: Integration Within Digital Images (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-disconnection-quick-fix-for-xbox-win11-app/"><u>Navigating Through Disconnection: Quick Fix for Xbox Win11 App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-pathway-through-frozen-windows-update-woes/"><u>The Pathway Through Frozen Windows Update Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-overcoming-folder-name-limitations-in-windows-11/"><u>The Ultimate Guide to Overcoming Folder Name Limitations in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10 4G</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ering-youtubes-top-viewed-comments/"><u>Uncovering YouTube's Top Viewed Comments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-bluetooth-troubleshooting-music-only-lacking-volumecontrols/"><u>Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamlining-online-meetings-zoom-for-win10/"><u>[Updated] Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-finding-the-right-youtube-keywords/"><u>[Updated] The Ultimate Guide to Finding the Right YouTube Keywords</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-new-windows-11-perks-after-version-update/"><u>10 New Windows 11 Perks After Version Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-key-components-not-found-error-in-win11-environment/"><u>Addressing Key Components Not Found Error in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-mic-during-screencast-with-powerpoint/"><u>Addressing Missing Mic During Screencast with PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-utorrent-installer-on-pcs/"><u>Addressing Non-Operational uTorrent Installer on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-microsofts-new-taskbar-helper-in-windows-11-streamlines-tasks/"><u>AI Integration: Microsoft's New Taskbar Helper in Windows 11 Streamlines Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balance-performance-with-media-consumption-in-windows/"><u>Balance Performance with Media Consumption in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-up-hypervisor-bsos-on-windows-step-by-step/"><u>Beat Up Hypervisor BSOS on Windows, Step by Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-flexibility-with-additional-menus/"><u>Boost Windows Flexibility with Additional Menus</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/como-configurar-autenticacion-de-doble-factor-con-id-de-apple-para-seguridad-mejorada/"><u>Cómo Configurar Autenticación De Doble Factor Con ID De Apple Para Seguridad Mejorada</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-and-securing-your-online-playstation-id/"><u>Creating and Securing Your Online PlayStation ID</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-fast-brother-mfc-9130cw-printer-driver-software-and-utilities/"><u>Get Started Fast: Brother MFC-9130CW Printer Driver Software & Utilities</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-and-firmware-for-your-epson-xp-310/"><u>Get the Newest Drivers and Firmware for Your Epson XP 310</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-nord-3-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Nord 3 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-communication-glitches-with-micvoice-chat-during-your-warzone-battles/"><u>Resolving Communication Glitches with Mic/Voice Chat During Your Warzone Battles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-insights-for-successful-short-video-creation-for-2024/"><u>The Ultimate Insights for Successful Short Video Creation for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Six Sleek Steps to Unearth Your PC’s Brand and Name
-date: 2025-01-04T06:43:01.855Z
-updated: 2025-01-06T06:00:54.797Z
+date: 2025-01-09T01:38:18.584Z
+updated: 2025-01-12T20:19:01.796Z
 tags:
   - windows10
   - windows11
@@ -23,19 +23,15 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using the Settings App
 
 ![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
 
- The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
 ## 2\. Using the System Information App
 
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Using the Command-Line Tools
 
  If you're an advanced Windows user, you can use the command-line tools, Windows PowerShell and Command Prompt, to know everything about your computer. Here's how to use the Command Prompt to check your computer model name:
@@ -83,27 +75,27 @@ You'll see the model name on the console screen.
 
 ![Command to Check System name in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case you want to check your computer serial number, execute the following command in the PowerShell window.
 
 `Get-CimInstance -ClassName Win32_bios`
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Using the Manufacturer's Assistant App
 
 ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. By Entering the BIOS
 
@@ -119,7 +111,7 @@ You'll see the model name on the console screen.
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
@@ -127,6 +119,14 @@ You'll see the model name on the console screen.
 7. You can check your computer name in the System Information section.  
 
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get to Know Your Computer's Model on Windows
 
@@ -147,22 +147,18 @@ You'll see the model name on the console screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-best-unfollow-tools-and-apps-for-twitter-for-2024/"><u>[New] Best Unfollow Tools and Apps for Twitter for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-no-sweat-strategies-for-skipping-edgenuity-video-content-for-2024/"><u>[New] No-Sweat Strategies for Skipping Edgenuity Video Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-audio-curated-list-of-top-mac-friendly-recorders-for-2024/"><u>[Updated] Elevate Your Audio Curated List of Top Mac-Friendly Recorders for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-tips-for-sharper-images-on-google-meet-calls/"><u>[Updated] Top Tips for Sharper Images on Google Meet Calls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/action-spectacle-evaluating-hero5b-vs-hero5-session-performance-for-2024/"><u>Action Spectacle Evaluating Hero5B vs Hero5 Session Performance for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-windows-arp-cache-mechanism-and-deletion/"><u>Dissecting Windows ARP Cache Mechanism and Deletion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-software-alignment-in-windows-11/"><u>Efficient Software Alignment in Windows 11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620232609-effortlessly-change-mxf-to-mp4-with-our-easy-cost-free-techniques-go-digital/"><u>Effortlessly Change MXF to MP4 with Our Easy, Cost-Free Techniques - Go Digital!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-gionee-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Gionee</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gpo-searches-in-modern-windows-os/"><u>Mastering GPO Searches in Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011s-0x80246007-problem/"><u>Overcoming the Windows 10/11'S 0X80246007 Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-logins-not-allowed-with-8-steps/"><u>Resolving Windows Logins Not Allowed with 8 Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-disrupted-functionality-after-windows-updates/"><u>Solutions for Disrupted Functionality After Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-spooler-service-reset-on-pc/"><u>Swift Spooler Service Reset on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-guide-to-opening-system32-directory/"><u>Win11's Guide to Opening System32 Directory</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[New] 2024 Approved Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>[Updated] 2024 Approved Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-picks-for-affordable-video-sbs-grabbers/"><u>[Updated] Ultimate Picks for Affordable Video SBS Grabbers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-system-operations-using-windows-task-scheduler/"><u>Accelerate System Operations Using Windows Task Scheduler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aligning-chrome-and-system-time-windows-sync-tips/"><u>Aligning Chrome and System Time (Windows Sync Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-outputs-with-savvy-techniques/"><u>Amplify Windows 11 Outputs with Savvy Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-wifi-network-deletion-in-win-11/"><u>Automating Wifi Network Deletion in Win 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/disable-non-specific-youtube-video-alerts-for-2024/"><u>Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474170629-icloud-sync-errors-demystified-effective-solutions-inside/"><u>ICloud Sync Errors Demystified - Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/quick-drama-drafting-method/"><u>Quick Drama Drafting Method</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210857453-9798986796963-the-connection-cleanse-toolkit/"><u>The Connection Cleanse Toolkit | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-when-your-computer-mouse-keeps-going-offline/"><u>The Definitive Fixes When Your Computer Mouse Keeps Going Offline</u></a></li>
+<li><a href="https://article-helps.techidaily.com/win11s-top-5-cost-free-applications-for-recording-screens/"><u>Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
 </ul></div>
 

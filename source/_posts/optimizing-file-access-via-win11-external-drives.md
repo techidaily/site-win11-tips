@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2025-01-05T08:45:00.690Z
-updated: 2025-01-06T02:08:13.685Z
+date: 2025-01-09T17:12:56.742Z
+updated: 2025-01-12T18:54:08.585Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Follow the sets below to enable network discovery on Windows:
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
@@ -67,17 +67,9 @@ Here's what you need to do to use File Explorer for mapping:
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
@@ -85,6 +77,10 @@ Here's what you need to do to use File Explorer for mapping:
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell for Mapping
 
@@ -98,6 +94,10 @@ Follow these instructions to map a drive using Windows PowerShell:
 New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder  
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
@@ -119,7 +119,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
@@ -136,7 +136,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
@@ -162,17 +162,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-from-boredom-to-chuckles-generating-funny-memes/"><u>[New] From Boredom to Chuckles Generating Funny Memes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[New] Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-survey-unique-categories-in-visual-media-equipment/"><u>[Updated] Survey Unique Categories in Visual Media Equipment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide-for-2024/"><u>From Script to Screen Mastery Through Vida’ Writers Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-google-pixel-7a-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Google Pixel 7a Without PUK Codes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 12+ 5G?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>New Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-strategies-to-combat-windows-1011-error-740/"><u>Swift Strategies to Combat Windows 10/11 Error 740</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-android-movie-upturning-for-2024/"><u>[New] Step-by-Step Guide to Android Movie Upturning for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-evaluation-hero4-black-interface/"><u>[Updated] Complete Evaluation Hero4 Black Interface</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-vs-horizontal-deciding-facebook-video-orientation-for-2024/"><u>[Updated] Vertical vs Horizontal Deciding Facebook Video Orientation for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-htc-u23-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On HTC U23 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-jest-jacket-picture-fabricator/"><u>2024 Approved Jest Jacket Picture Fabricator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-winget-not-working-on-windows-11/"><u>8 Ways to Fix Winget Not Working on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-system-heat-output-with-user-controls/"><u>Balancing System Heat Output with User Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackviews-big-hard-drive-performance-lacks-pep/"><u>Blackview's Big Hard Drive, Performance Lacks Pep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-tuning-amd-radeon-settings/"><u>Boost Your Gaming: Tuning AMD Radeon Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-to-retrieve-passwords-stored-in-your-macs-keychain-expert-tips-and-tricks/"><u>Discover How to Retrieve Passwords Stored in Your Mac's Keychain - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-detaille-de-la-synchronisation-des-notes-pour-pc-portable-et-pc-de-bureau-sur-windows-10/"><u>Guide Détaillé De La Synchronisation Des Notes Pour PC Portable Et PC De Bureau Sur Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/merge-soundtracks-and-cinematography-in-premiere-pro/"><u>Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
 </ul></div>
 

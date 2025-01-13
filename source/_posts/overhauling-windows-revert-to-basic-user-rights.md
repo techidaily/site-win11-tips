@@ -1,7 +1,7 @@
 ---
 title: "Overhauling Windows: Revert to Basic User Rights"
-date: 2024-12-16T00:30:29.453Z
-updated: 2024-12-22T02:27:13.444Z
+date: 2025-01-10T00:42:57.328Z
+updated: 2025-01-12T20:25:14.353Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ Let's now explore them in detail.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Icacls Command
@@ -47,23 +47,19 @@ In the above command, here are the parameters explained:
 * /c – Continues the operation even if errors occur.
 * /reset – This parameter resets the permission options to their default values.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the Secedit command
 
  Windows provides the Secedit command to configure and analyze system security. To reset all user permissions using this command, run the command prompt with admin access, then type in the following command:
 
 ![Run the Secedit command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-secedit-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose`
 
  Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Subinacl Tool
 
@@ -73,12 +69,13 @@ In the above command, here are the parameters explained:
 2. Once downloaded, double-click on the installer package. This will open the installation wizard.  
 ![Open the installation wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg)
 3. Click on**Next** and then accept the license agreement terms.  
-![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
-4. Next, copy and paste the following path into the Destination folder:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
+4. Next, copy and paste the following path into the Destination folder:  
 
 `C:\Windows\System32`  
  Note: If you have installed Windows on a different drive, use that path instead.
@@ -98,13 +95,17 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 3. Next, select**Desktop** from the left pane and click on**Save** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now double-click on it to reset the user permissions to default.
 5. This may take a while to complete the procedure, so wait for it to finish.
 
  Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore User Permissions to Default on Windows
 
@@ -125,24 +126,22 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-perfecting-visual-virality-crafting-engaging-square-videos-for-2024/"><u>[New] Perfecting Visual Virality Crafting Engaging Square Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-ace-the-green-screen-scene-with-these-tips/"><u>[Updated] Ace the Green Screen Scene with These Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-copyright-free-online-collections-for-games/"><u>[Updated] Copyright-Free Online Collections for Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revealing-the-top-10-color-enhancers-in-adobes-lightroom/"><u>[Updated] Revealing the Top 10 Color Enhancers in Adobe’s LightRoom</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-408-http-status-code-why-it-happens-and-how-to-correctly-address-it/"><u>Demystifying the 408 HTTP Status Code: Why It Happens and How to Correctly Address It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-skip-the-savings-commit-to-regular-windows-backup/"><u>Don't Skip the Savings: Commit to Regular Windows Backup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-activate-windows-11-with-a-windows-7-key/"><u>How to Activate Windows 11 With a Windows 7 Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-other-application-uses-from-disrupting-sound/"><u>How to Stop 'Other Application Uses' From Disrupting Sound</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>In 2024, Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-vive-headset-revolutionizes-virtual-reality-playtime/"><u>In 2024, Vive Headset Revolutionizes Virtual Reality Playtime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-managing-windows-11s-security-mechanisms/"><u>Mastery in Managing Windows 11'S Security Mechanisms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-solve-windows-not-found-problem/"><u>Navigate and Solve Windows Not Found Problem</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-edit-videos-like-a-pro-download-splice-for-mac/"><u>New Edit Videos Like a Pro Download Splice for Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethink-windows-11-the-top-10-best-replacement-software/"><u>Rethink Windows 11: The Top 10 Best Replacement Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-functional-windows-11-anydesk-connection/"><u>Secure Functional Windows 11 AnyDesk Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-upcoming-expiry-message-on-w10-and-w11/"><u>Troubleshooting the “Upcoming Expiry” Message on W10 & W11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-unlocking-full-potential-of-your-windows-speakers-three-free-volume-booster-tactics/"><u>Updated In 2024, Unlocking Full Potential of Your Windows Speakers – Three Free Volume Booster Tactics</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/zing-jump-cuts-to-amplify-your-vlog-impact/"><u>Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-high-resolution-quests-expert-techniques-for-playing-classics-in-hd-on-windows/"><u>Winning at High-Resolution Quests: Expert Techniques for Playing Classics in HD on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-your-cinematography-game-essential-iphone-gear/"><u>[New] Boost Your Cinematography Game Essential iPhone Gear</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-excellent-top-5-apps-for-iphone-auditory-delight/"><u>[New] In 2024, Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-microphone-modifications-for-vtubers/"><u>[New] Mastering Microphone Modifications for VTubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[Updated] 2024 Approved Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>2024 Approved ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-compromised-windows-defense-in-win-11/"><u>Correcting Compromised Windows Defense in Win 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-validity-fingerprint-sensor-software-fast-and-simple-installation/"><u>Download the Ultimate Validity Fingerprint Sensor Software: Fast and Simple Installation!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-linux-setup-not-wsl/"><u>Efficient Linux Setup, Not WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-dialer-feature-win-11/"><u>How to Engage Dialer Feature Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-error-win11s-uptime-failure-code-0x80246007/"><u>How to Reset Error: Win11’s Uptime Failure, Code 0X80246007</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-opening-windows-folders-via-double-click/"><u>Overcoming the Hurdle: Opening Windows' Folders via Double-Click</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-easy-steps-for-bluetooth-drivers-in-windows-1011/"><u>Quick Guide: Easy Steps for Bluetooth Drivers in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-grades-essential-tips-for-efficient-windows-learning/"><u>Skyrocket Your Grades: Essential Tips for Efficient Windows Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-correction-winoss-parsing-error-0exc00ce556/"><u>Swift Correction: WinOSs Parsing Error 0eXC00CE556</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-corsair-keyboard/"><u>Troubleshooting Guide: Fixing a Non-Responsive Corsair Keyboard</u></a></li>
 </ul></div>
 

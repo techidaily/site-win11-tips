@@ -1,7 +1,7 @@
 ---
 title: Proven Steps to Erase Networks in Win 11 OS
-date: 2024-12-16T06:42:56.257Z
-updated: 2024-12-22T04:20:48.615Z
+date: 2025-01-06T18:20:37.612Z
+updated: 2025-01-12T22:16:19.163Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
@@ -63,10 +63,6 @@ To forget a Wi-Fi network via the Settings app:
 4. Click the**Forget** button next to a network to delete it.  
 ![Remove Wi-Fi Network on Windows From the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-From-the-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
@@ -82,10 +78,6 @@ To forget a Wi-Fi network via the Settings app:
 6. Paste the following command, replace**WIFIName** with the network name, and press**Enter** .  
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
@@ -109,11 +101,11 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, the saved profile will be removed from your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
 
@@ -123,7 +115,15 @@ To remove a Wi-Fi network using the Registry Editor:
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Removing Saved Wi-Fi Networks From Windows 11
 
@@ -146,16 +146,17 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-screen-recordings-powerpoint-edition/"><u>[New] 2024 Approved Mastering Screen Recordings PowerPoint Edition</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-tiktoks-timeless-classics-the-songs-that-keep-coming-back/"><u>[New] 2024 Approved TikTok's Timeless Classics The Songs That Keep Coming Back</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-disregarding-harmful-youtube-comments/"><u>[Updated] The Art of Disregarding Harmful YouTube Comments</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-full-potential-of-mixer-streaming-on-macos-for-2024/"><u>[Updated] Unlocking Full Potential of Mixer Streaming on macOS for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/digital-beat-downloads-accessing-dj-anthems-for-2024/"><u>Digital Beat Downloads Accessing DJ Anthems for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/from-clunky-to-comfortable-a-one-week-journey-on-a-split-ergonomic-keyboard-and-its-impact-on-tech-habits/"><u>From Clunky to Comfortable: A One-Week Journey on a Split Ergonomic Keyboard and Its Impact on Tech Habits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instructive-path-to-setup-windows-for-in-hand-typing/"><u>Instructive Path to Setup Windows for In-Hand Typing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995214561-problems-with-the-release-of-the-ascent-now-fixed/"><u>Problems with the Release of 'The Ascent': Now Fixed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-windows-queries-using-everythingapp/"><u>Quick Windows Queries: Using EverythingApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-opengl-error-code-3-on-windows-and-nvidia-gpus/"><u>Remedy for OpenGL Error Code 3 on Windows & Nvidia GPUs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-windows-fixes-for-unresponsive-keyboard-shortcuts-and-combinations/"><u>Unlock the Power of Windows: Fixes for Unresponsive Keyboard Shortcuts and Combinations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-x-sound-engineer-desktop-suite-for-2024/"><u>[New] X-Sound Engineer Desktop Suite for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fbstream-viewer-extractor/"><u>[Updated] FbStream Viewer Extractor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-exception-breaking-point-message-in-windows/"><u>Handling the Exception Breaking Point Message in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swap-cr2-images-seamlessly-to-windows-jpgs/"><u>How to Swap CR2 Images Seamlessly to Windows JPGs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-points-preparing-for-a-full-system-reinstallation/"><u>Key Points: Preparing for a Full System Reinstallation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210626126-9781087963686-on-my-way-to-greatness/"><u>On My Way to Greatness | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fix-guide-curing-chatgpt-real-time-errors/"><u>Quick-Fix Guide: Curing ChatGPT Real-Time Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-hidden-desktop-icons-on-windows-11/"><u>Restore Hidden Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-lgbtqplus-series-streaming-on-netflix-in-july-2024-our-picks/"><u>Top LGBTQ+ Series Streaming on Netflix in July 2024: Our Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-the-0x800705b4-issue-on-windows-update-in-windows-11/"><u>Troubleshooting and Correcting the '0X800705b4' Issue on Windows Update in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model.</u></a></li>
 </ul></div>
 

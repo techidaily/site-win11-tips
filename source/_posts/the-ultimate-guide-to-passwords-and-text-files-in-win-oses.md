@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Passwords and Text Files in Win OSes
-date: 2024-12-29T19:02:44.034Z
-updated: 2025-01-06T02:12:35.890Z
+date: 2025-01-08T17:51:46.809Z
+updated: 2025-01-12T18:00:39.739Z
 tags:
   - windows10
   - windows11
@@ -40,18 +40,10 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extract-compressed-folder.jpg)
 5. Open the extracted LockNote folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click the LockNote application (executable) file to start the app.
 2. Now you'll see the welcoming message shown below within LockNote. Erase that message and input the text or notes you want to save.  
 ![The LockNote window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-window.jpg)
 3. Go to **File > Save As.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. In the Save As window, navigate to the folder where you want to save your file.  
 ![LockNote's Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-save-as-window.jpg)
@@ -64,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  To open your password-protected text file, browse to the folder where you saved it and double-click the file. When you launch your file, a password box will appear; input the password you set and click **OK** to open it.
 
 ![The LockNote password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-password-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to set passwords for an existing Notepad text file, open the folder that includes it, then drag and drop the Notepad file onto LockNote's window. Select **Yes** on the dialog box that asks about converting files. Input a password for the file and click **OK**. That will save a duplicate LockNote file in the same folder as the original text file.
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 5. First, input a password you want to add to the text file.  
 ![The Secure Edit window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/secure-edit-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Input some content within the text editor.
 2. Click Secure Edit's **File** menu.  
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select somewhere to save your file.
 7. Click **Save**.
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![The open file with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-selection-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Visual Options** menu within Secure Edit includes customization options for the software. Click **Options** and **Visual Options** to access that menu. Then you can select four alternative themes from there.
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
@@ -143,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 3. Choose **ZIP** in the **Type** drop-down menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Set password / keyfile** option.  
@@ -155,7 +159,7 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 7. Select **OK** in the **Password** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  Double-click a text file within the archive. Then you'll be prompted to input a password for it. Enter the password you set for the ZIP to open the text file in Notepad.
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
 
@@ -191,18 +191,22 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50i Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-innovation-the-ideal-ai-powered-thinkpad-designed-specifically-for-business-professionals-insights-from-zdnet/"><u>Introducing Lenovo's Latest Innovation: The Ideal AI-Powered ThinkPad Designed Specifically for Business Professionals - Insights From ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/kubernetes-enhanced-with-codenotarys-new-software-bill-of-materials-service-the-latest-update-featured-by-zdnet/"><u>Kubernetes Enhanced with Codenotary’s New Software Bill of Materials Service - The Latest Update Featured by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-reno-9a-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 9A support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-installer-errors-in-windows-environment/"><u>Overcoming uTorrent Installer Errors in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-1011s-camera-error-0xa00f425d/"><u>Quick-Fix for Windows 10/11'S Camera Error: 0XA00F425D</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-temporary-file-error-1152-on-windows/"><u>Remedying Temporary File Error 1152 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-disabled-troubleshooters-in-modern-windows/"><u>Resolving Disabled Troubleshooters in Modern Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-disruptions-solving-the-age-of-empires-4-stability-issue-on-pc/"><u>Say Goodbye to Disruptions: Solving the Age of Empires 4 Stability Issue on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/self-guided-inspector-writes-secure-your-computer-from-spyware/"><u>Self-Guided Inspector' Writes: Secure Your Computer From Spyware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-stuck-scrollbar-and-freezing-pages-in-microsoft-excel-on-windows/"><u>Stop Stuck Scrollbar & Freezing Pages in Microsoft Excel on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-voice-changer-app-magic-call-and-its-alternatives-for-2024/"><u>Top Voice Changer App Magic Call and Its Alternatives for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-repairing-failed-communications-with-dhcp-servers/"><u>Understanding and Repairing Failed Communications with DHCP Servers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential/"><u>[Updated] The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-best-drawing-apps-for-chromebook/"><u>2024 Approved FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/emancipate-chatbots-on-windows-using-freedomgpt/"><u>Emancipate ChatBots on Windows: Using FreedomGPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>In 2024, Maximize Engagement Discover the Right YouTube Thumbnail Size</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-challenges-successful-cyberpunk-2077-downloads-from-the-steam-store/"><u>Overcoming Challenges: Successful Cyberpunk 2077 Downloads From the Steam Store</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-a-2024-guide-for-repairing-your-malfunctioning-rust-microphone/"><u>Overcoming Common Problems: A 2024 Guide for Repairing Your Malfunctioning Rust Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typing-hurdles-reinvigorating-the-tab-key-in-windows/"><u>Overcoming Typing Hurdles: Reinvigorating the Tab Key in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-xbox-app-stranded-issue-quickly-on-windows-1011/"><u>Resolving Xbox App 'Stranded' Issue Quickly on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-roblox-crashes/"><u>Strategies to Recover From Roblox Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-teams-hurdle-80080300-on-win11-systems/"><u>Tackling Microsoft Teams Hurdle #80080300 on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-write-issues-overcoming-folder-lockdowns-in-windows/"><u>Tackling Write Issues: Overcoming Folder Lockdowns in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-shutdown-command-secrete-windows-11s-hideaway/"><u>The Invisible Shutdown Command: Secrete Windows 11'S Hideaway</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-discover-the-top-80-steamy-xmas-gamers-laptop-offers/"><u>Ultimate Guide: Discover the Top 80 Steamy Xmas Gamers' Laptop Offers</u></a></li>
 </ul></div>
 

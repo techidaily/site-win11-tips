@@ -1,7 +1,7 @@
 ---
 title: Configuring Win11 DNS Server Settings Quick Guide
-date: 2024-12-31T05:57:42.649Z
-updated: 2025-01-05T22:14:01.369Z
+date: 2025-01-08T19:03:38.384Z
+updated: 2025-01-12T19:14:40.856Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -46,7 +42,7 @@ Repeat the following steps to disable the DNS client service:
 5. Close the Registry editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
@@ -55,17 +51,17 @@ Repeat the following steps to disable the DNS client service:
 8. Close the Services utility and restart your system to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
@@ -83,6 +79,10 @@ Repeat the following steps to disable the DNS client service:
 
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -95,7 +95,7 @@ Repeat the following steps to disable the DNS client service:
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
@@ -117,24 +117,19 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-peek-at-all-shared-images-and-videos-in-chats/"><u>[New] 2024 Approved Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-drafting-dynamic-news-endings-for-2024/"><u>[New] Drafting Dynamic News Endings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>2024 Approved Viral Vibes The Best BGM to Complement Your YT Short Creations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-power-management-options/"><u>Exploring Windows' Power Management Options</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guia-paso-a-paso-para-convertir-de-mp3-a-3gp-sin-coste-mediante-movavi-metodo-online-facil-de-usar/"><u>Guía Paso a Paso Para Convertir De MP3 a 3GP Sin Coste Mediante Movavi: Método Online Fácil De Usar.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-windows-photo-viewer-on-win11-pcs/"><u>How to Reinstate Windows Photo Viewer on Win11 PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-voice-commands-keyboard-shortcut-essentials/"><u>Mastering Windows 11'S Voice Commands: Keyboard Shortcut Essentials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/memory-and-cpu-efficiency-in-browsers-a-windowsmacoschromeos-comparison/"><u>Memory and CPU Efficiency in Browsers: A Windows/macOS/ChromeOS Comparison</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-free-4k-video-converters-for-windows-and-mac/"><u>New 2024 Approved Best Free 4K Video Converters for Windows and Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/purple-pandemonium-restore-your-pcs-color-calibration/"><u>Purple Pandemonium? Restore Your PC's Color Calibration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use-for-2024/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-arm-compatible-windows-applications-a-game-changer-in-tech-insights/"><u>Upcoming ARM-Compatible Windows Applications: A Game Changer in Tech - Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-proficiently-use-a-switch-pro-controller-on-steam-for-2024/"><u>[New] How to Proficiently Use a Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-handbook-for-youtube-video-creation/"><u>[New] In 2024, The Ultimate Handbook for YouTube Video Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maintain-uninterrupted-youtube-experience-on-phones/"><u>[Updated] 2024 Approved Maintain Uninterrupted YouTube Experience on Phones</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-brisk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[Updated] Brisk Tutorial Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-pour-changer-un-fichier-m4a-en-format-m4r-sur-internet-movavi/"><u>Convertisseur Gratuit Pour Changer Un Fichier M4A en Format M4R Sur Internet - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-folder-permissions-on-windows-11/"><u>Fixing Steam Folder Permissions on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peakquality-resizer-cross-platform-edition/"><u>In 2024, PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preempt-potential-problems-installing-virtualbox-on-win-with-care/"><u>Preempt Potential Problems: Installing VirtualBox on Win with Care</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-working-activation-numbers-in-win11/"><u>Reinstating Working Activation Numbers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-error-caused-by-intrusive-windows-software/"><u>Resolving Sign Out Error Caused by Intrusive Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-language-barriers-use-windows-hotkeys-for-translation/"><u>Streamline Language Barriers: Use Windows Hotkeys for Translation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-career-potential-in-tech-with-learning-these-critical-3-programming-languages-zdnet/"><u>Unlock Your Career Potential in Tech with Learning These Critical 3 Programming Languages | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
 </ul></div>
 

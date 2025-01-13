@@ -1,7 +1,7 @@
 ---
 title: "Mapping Out Your Connections: A Netstat Guide for Windows 11 Users"
-date: 2024-08-08T11:09:09.326Z
-updated: 2024-08-09T11:09:09.326Z
+date: 2025-01-11T16:35:08.286Z
+updated: 2025-01-12T16:41:30.705Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  If all this sounds too technical to you, don't worry; we'll explain everything simply as you read further in the article. First, let's take a look at what netstat is and how to use netstat on Windows to monitor your network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the Netstat Command on Windows?
 
  The netstat command is mainly used by IT experts or network troubleshooters on Windows and Linux systems. The command, when executed, displays a list of the active TCP connections, ports that are listening, Ethernet statistics, addresses and ports being used by your system, and more.
@@ -34,26 +38,32 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 * Any suspicious connections from unknown applications or services.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the Netstat Command on Windows
 
  As mentioned before, the netstat command is accessible only from the Command Prompt. If you don't know the steps, follow the ones given below to run netstat from the Command Prompt:
 
 1. Click on the **Search** button on your taskbar and search for the **Command Prompt** app.
 2. Next to the matching search result, click on **Run as administrator**. This will launch Command Prompt with advanced-user permissions.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Command Prompt In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-in-windows-search.jpg)
 3. On the Command Prompt, type **netstat** and press **Enter**. The command, after executing, will output a list of active connections along with their status.  
 ![netstat Command Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-command-output.jpg)
 4. If you need to share the output with a tech support team, for example, use this command to copy the results in a text file: "**netstat > Path\\FileName.txt**". In this command, **Path** is any folder's location where you want to save the file and **FileName.txt** is your exported file's name.  
 ![netstat Output Export Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-output-export-command-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The highlighting part of netstat is that you can further use it with some parameters (or syntaxes) to filter the generated output. We'll show you some useful parameters that you can use with the "**netstat -parameter**" format in the next section.
 
  If you're eager to learn more about other such commands, check our list of useful [Windows commands to manage your network](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Useful Netstat Parameters for Windows Users
 
@@ -64,21 +74,12 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 * **netstat -a:** It displays all the running TCP and UDP connections and the listening ports. If there are any failed connection attempts, they will be displayed here too. Besides the **\-a** parameter, check the other [alternative ways to check open TCP ports](https://www.makeuseof.com/check-open-tcpip-ports-windows/).  
 ![netstat -a Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-a-command.jpg)
 * **netstat -b:** The **\-b** parameter displays the executable (.EXE) involved in creating each connection or listening port. It is mainly useful for those who deal with network troubleshooting in a Windows server or a computer part of a domain.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![netstat -b Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-b-command.jpg)
 * **netstat -e:** If you use an Ethernet connection rather than Wi-Fi, the **\-e** parameter can show you detailed Ethernet statistics, like link speed, total send/receive bytes, and some other technical statistics.  
 ![netstat -e Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-e-command.jpg)
 * **netstat -o:** Suppose you installed an application (from an untrusted website), in that case, you can check whether the application is doing something suspicious with the connection or not. This is because the **\-o** parameter shows the Process ID (PID) of every connection that you can match from the Task Manager.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
 * **netstat -s:** This shows statistics by a protocol like packets sent/received, errors, discarded packets, etc. It's useful if you want to understand per-protocol-based bandwidth usage.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![netstat -s Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-s-command.jpg)
 
  Now that you have an idea of some useful commands, try running them in the Command Prompt. Note that we recommend running Command Prompt as an administrator only as some connections are only visible with admin privileges.
@@ -88,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
  Above all, netstat is just one command for troubleshooting. If you're interested, check the [Windows network connections tool](https://www.makeuseof.com/windows-open-network-connections-tool/) to learn about another handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshooting Your Networks Made Easy With Netstat
 
  Unlike utilities you need to download separately, netstat is ready to use in Command Prompt on all Windows versions. This makes it the go-to tool for getting a snapshot of network status right from your PC.
@@ -98,11 +100,26 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  If all this sounds too technical to you, don't worry; we'll explain everything simply as you read further in the article. First, let's take a look at what netstat is and how to use netstat on Windows to monitor your network.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-perfect-full-screen-display-on-fb-videos-step-by-step/"><u>[New] In 2024, Perfect Full-Screen Display on FB Videos, Step by Step</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speedy-steps-to-save-slideshows/"><u>[New] In 2024, Speedy Steps to Save Slideshows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-giggles-galore-the-quintessential-comedic-stars-on-tiktok/"><u>[Updated] 2024 Approved Giggles Galore The Quintessential Comedic Stars on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-checklist-for-protecting-your-digital-assets/"><u>[Updated] The Ultimate Checklist for Protecting Your Digital Assets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-best-live-streaming-tools-manycam-and-alternatives-for-remote-webcams/"><u>1. Best Live Streaming Tools: ManyCam and Alternatives for Remote Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/integrating-youtube-into-the-world-of-instagram-stories-for-2024/"><u>Integrating YouTube Into the World of Instagram Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227767479-swf-webm/"><u>SWF파일을 WebM로 오브젝트를 자유롭게 이동: 모바일 호환성 강화를 위한 무료 대기장 변환기</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-playtime-essential-equipment-guide/"><u>Upgrade Your Playtime: Essential Equipment Guide</u></a></li>
+</ul></div>
+

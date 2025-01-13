@@ -1,7 +1,7 @@
 ---
 title: "Navigating DirectX: Download, Update Seamlessly"
-date: 2025-01-04T03:17:51.030Z
-updated: 2025-01-06T03:32:55.861Z
+date: 2025-01-09T00:44:30.273Z
+updated: 2025-01-12T17:02:07.771Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is DirectX?](#what-is-directx)
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
  If you game on Windows, you've probably heard of DirectX. But what does DirectX actually do, and do you need to update it or tweak any options? Let's go over how to check what version of DirectX you have, and whether you need to take any action with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is DirectX?
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
  Note that DirectX isn't the only graphics API. We've [compared DirectX to OpenGL](https://www.makeuseof.com/opengl-vs-directx-game-development-best/), one of the most popular alternative graphics APIs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Version of DirectX Do I Have?
@@ -67,25 +63,21 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ![DirectX Tool Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/directx-tool-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the **System** tab, at the bottom of the **System Information** box, you'll see **DirectX Version** where you can confirm what you have installed. If you're on Windows 11 or Windows 10, you should see **DirectX 12** here. Check for Windows updates if not.
 
  While you're here, you should click the **Display** tab (you'll see multiple if you use more than one monitor) to confirm your computer supports all features of DirectX. **DirectDraw Acceleration**, **Direct3D Acceleration**, and **AGP Texture Acceleration** should all say **Enabled**. If your graphics card is new enough to support **DirectX 12 Ultimate**, you'll see confirmation of that here too.
 
  You may [need to upgrade your PC's hardware](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to take advantage of DirectX 12 Ultimate if your current build doesn't support it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Download DirectX?
 
  In modern versions of Windows, you don't need to download DirectX directly. As it's part of Windows, you'll get updates via Windows Update when any are available. This means you don't need to worry about installing DirectX updates manually when you run a new game, either.
 
  As long as you haven't disabled Windows Update, you should always be current with your installed version of DirectX. You can always [manually check for Windows updates](https://www.makeuseof.com/update-windows-manually/) if you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Do I Have So Many DirectX Versions Installed?
 
@@ -95,11 +87,19 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ![Windows 11 DirectX List of Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-directx-list-of-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The answer is similar to why your computer contains so many [copies of the Microsoft Visual C++ Redistributable](https://www.makeuseof.com/microsoft-visual-c-redistributable-guide/): every game relies on the specific version of DirectX it was built for. For instance, if a developer wrote a game to use DirectX 11 update 40, then only version 40 will work. A newer one isn't compatible; you won't simply get better performance with that title because you have DirectX 12\.
 
  Thus, whenever you install a new game, it will likely install a unique copy of DirectX unless you already have that exact version. This leads to you having potentially dozens of copies of DirectX on your system, in order to run all the games you play.
 
  While games should always install what they need, you can also run [Microsoft's DirectX End-User Runtime tool](https://www.microsoft.com/en-us/download/details.aspx?id=35) to install legacy DirectX libraries on your system. This won't affect the modern version of DirectX you're using, but could be a time-saver to install all these libraries at once if you play lots of older games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I Uninstall or Reinstall DirectX?
 
@@ -121,16 +121,24 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effective-ways-to-archive-and-record-youtube-events-for-2024/"><u>[New] Effective Ways to Archive and Record Youtube Events for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-effortless-course-skipping-techniques-for-bypassing-edgenuity-videos/"><u>[New] Effortless Course Skipping Techniques for Bypassing Edgenuity Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-beyondthebaseline-mycams-successor-for-2024/"><u>[Updated] BeyondTheBaseline MyCam's Successor for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-top-windows-platforms-for-ndsswitch-players/"><u>Cutting Edge: Top Windows Platforms for NDS/Switch Players</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-in-win10win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50-gt-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50 GT</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-producing-effective-corporate-webinar-videos/"><u>In 2024, Producing Effective Corporate Webinar Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-program-space-allocation/"><u>Optimizing Your PC's Program Space Allocation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-device-disconnect-errors-on-win-11-os/"><u>Remedying Device Disconnect Errors on Win 11 OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/silent-screen-mastery-proven-techniques-for-noise-free-recording/"><u>Silent Screen Mastery Proven Techniques for Noise-Free Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-meme-crafters-den/"><u>[New] In 2024, Meme Crafter's Den</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[Updated] In 2024, Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>2024 Approved Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-probing-program-hideouts-in-windows/"><u>A Practical Approach to Probing Program Hideouts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-blank-screens-on-system-ignition/"><u>Addressing Blank Screens on System Ignition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-faulty-volume-adjustment-sliders/"><u>Addressing Faulty Volume Adjustment Sliders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-frozen-windows-guard-in-windows-11/"><u>Addressing Frozen Windows Guard in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-address-roblox-glitches/"><u>Approaches to Address Roblox Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-the-journey-always-command-prompt-admin-style/"><u>Automate the Journey: Always Command Prompt, Admin Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-frustration-easily-setup-icloud-on-windows-pc/"><u>Avoid Frustration: Easily Setup iCloud on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-steam-downloads-combatting-speedy-slowdowns/"><u>Boosting Steam Downloads: Combatting Speedy Slowdowns</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-and-robust-an-in-depth-look-at-the-omoton-t1-tablet-stand/"><u>Budget-Friendly and Robust: An In-Depth Look at the Omoton T1 Tablet Stand</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-user-friendly-guide-for-shortcut-placement-on-desktop/"><u>Crafting a User-Friendly Guide for Shortcut Placement on Desktop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2013-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2013 document electronically</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-vivo-g2-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Vivo G2’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-partedlens-overview/"><u>In 2024, PartedLens Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-evaluation-a-device-that-combines-learning-with-entertainment/"><u>Kid-Friendly Amazon Fire HD 10 Tablet Evaluation: A Device That Combines Learning with Entertainment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719205412582-shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside</u></a></li>
 </ul></div>
 

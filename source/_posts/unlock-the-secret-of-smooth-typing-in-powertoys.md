@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secret of Smooth Typing in PowerToys
-date: 2024-08-08T11:05:27.003Z
-updated: 2024-08-09T11:05:27.003Z
+date: 2025-01-10T20:21:21.700Z
+updated: 2025-01-12T19:41:31.073Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
  PowerToys recently added two new features: Paste as Plain Text and Mouse Jump. We will discuss the usefulness of these features along with the steps to apply and use them on your system. Without further ado, let’s dive into the post.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the "Paste as Plain Text" Feature in PowerToys?
 
  Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any[free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
@@ -39,20 +40,20 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 2. Click on the**toggle** next to the**Enable Paste As Plain Text** option to enable the feature.
 3. Next, you need to configure the shortcut key to paste as plain text. The default key combination is too long, so you must change it.
 4. Click on the**pencil** icon. Press the keys you want to set as a shortcut for Paste as Plain Text feature. Then click on the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Enable the Paste as Plain Text Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-the-paste-as-plain-text-feature-in-powertoys.jpg)
 5. Minimize the PowerToys window and then copy any text with some formatting associated with it.
-6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is "Mouse Jump" in PowerToys?
 
  Mouse Jump aims to fix a fatal flaw while using a widescreen multiple display setup. The screen is so wide that it becomes impossible for the user to drag the mouse across the screen without lifting it once or twice. Laptop users have to suffer even more due to the small size of the trackpad.
@@ -68,29 +69,29 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 1. Open the PowerToys application and click on the**Mouse utilities** option in the left-hand side menu.
 2. Scroll down and locate the Mouse Jump section. Click on the**toggle** next to the enable Mouse Jump shortcut.
 3. Like the Paste as Plain Text method, you can change the shortcut key to start the feature. Use the**pencil** icon to set your preferred key combination and then click on the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Mouse Jump in Power Toys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-mouse-jump-in-power-toys.jpg)
 4. Minimize the PowerToys window.
-5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leverage These Useful PowerToys Features on Windows
 
  Microsoft PowerToys is slowly improving and adding new features. Both of these new features are more than a gimmick and will help you increase your productivity. But PowerToys can do much more than fix windows on the top or batch renaming images.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,4 +100,24 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>[New] Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-iphone-converter-top-6-free-applications-to-use/"><u>[New] The Ultimate iPhone Converter Top 6 Free Applications to Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-the-best-video-capture-tools-for-windows-users-for-2024/"><u>[Updated] Discover the Best Video Capture Tools for Windows Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-strategy-for-file-recovery-from-flash-and-exfat-memory-cards-usb-sticks-and-more/"><u>Complete Strategy for File Recovery From Flash and ExFAT Memory Cards, USB Sticks, and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-hey-siri-malfunction-a-comprehensive-guide-with-17-effective-tips-for-iphone-users/"><u>Fixing 'Hey Siri' Malfunction: A Comprehensive Guide with 17 Effective Tips for iPhone Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-y100i-power-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y100i Power 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-essential-learning-managing-incremental-sound-gain/"><u>In 2024, Essential Learning Managing Incremental Sound Gain</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tap-out-of-high-contrast-in-windows-environment/"><u>Tap Out of High Contrast in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-android-games-funimate-pro-apk-deep-dive-for-2024/"><u>Unlock Android Games - Funimate Pro APK Deep Dive for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-permanent-file-disposal-via-custom-trash-bin-setup/"><u>Windows 10/11: Permanent File Disposal via Custom Trash Bin Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-print-bridge-trouble-shooting-guide/"><u>Windows Print Bridge: Trouble Shooting Guide</u></a></li>
+</ul></div>
 

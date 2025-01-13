@@ -1,7 +1,7 @@
 ---
 title: "Guide to Windows Key: On/Off Switch Techniques"
-date: 2024-08-08T11:08:44.024Z
-updated: 2024-08-09T11:08:44.024Z
+date: 2025-01-08T22:44:55.583Z
+updated: 2025-01-12T19:00:59.668Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Here's a step-by-step guide on how to turn the Windows key on and off in Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Windows Key on Windows
 
  If the Windows key is not working on your computer, check if your keyboard has a "gaming mode". If yes, turn off gaming mode to enable the Windows key. Some gaming keyboards feature a dedicated switch or Fn key combination to turn on and off the Windows key to prevent accidental presses.
@@ -44,15 +45,19 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 3. Click **Remap a key** under the **Keys** section.  
 ![powertoys keyboard manager remap key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-key.jpg)
 4. Click the **Add (+)** icon under **Select**.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![powertoys keyboard manager remap keys add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-add.jpg)
 5. Next, click the **Select** button and press the **Windows key** on your keyboard. Assuming you want to disable the Win(Left) key, you’ll see Windows (Left) as the selected option. Click **OK**.
-6. Alternatively, click the drop-down menu and select the **Windows** key from the list of keyboard keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Alternatively, click the drop-down menu and select the **Windows** key from the list of keyboard keys.  
 ![powertoys keyboard manager remap keys select win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-select-win-key.jpg)
 7. Next, click the **To Send** drop-down menu. Scroll to the top and select **Disable**. Alternatively, press **D** on your keyboard to locate the Disable option.  
 ![powertoys keyboard manager remap keys disable win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-disable-win-key.jpg)
@@ -64,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  To enable the Windows key again:
 
 1. Open the **Keyboard Manager** tab in PowerToys and click on **Remap keys**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![powertoys keyboard manager remap keys add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-add.jpg)
 2. Click the **Delete** (trashcan) icon to remove the remapping.
 3. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## How to Disable the Windows Key Using Your Keyboard Software / Fn Key
 
 ![disable windows keyboard key logi options plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-keyboard-key-logi-options-plus.jpg)
@@ -93,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  This will immediately turn off the Windows key. If you need to enable it again, uncheck the **Windows/Start** key option, and the **Windows** key will start working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Permanently Disable the Windows Key Using the Registry Editor
 
  Another way to turn off the Windows key is via the Windows Registry. We’ll modify the entries associated with the Keyboard Layout sub-key to stop the Windows key from getting triggered accidentally.
@@ -104,11 +107,13 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 3. In the Registry Editor, navigate to the following path. You can copy/paste the path for quicker navigation:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout`
 4. With the Keyboard Layout sub-key selected, locate the **Scancode Map** binary value in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![registry editor keyboard layout new binary value scancode map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/registry-editor-keyboard-layout-new-binary-value-scancode-map.jpg)
 5. If the value doesn’t exist, you’ll need to create one. So, right-click on the Keyboard Layout sub-key on the left and select **New > Binary Value**. Rename the value as **Scancode Map**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete scancode map binary value registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-scancode-map-binary-value-registry-editor-windows.jpg)
 6. Next, right-click on **Scancode Map** and select **Modify**.  
 ![modify keyboard layout scancode map binary value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-keyboard-layout-scancode-map-binary-value-registry-editor.jpg)
@@ -131,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 1. Press **Windows + R** to open **Run**.
 2. Type **gpedit.msc** and click **OK**. Click **Yes** if prompted by **User Account Control**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![group policy editor turn off windows key hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/group-policy-editor-turn-off-windows-key-hotkeys.jpg)
 3. In Group Policy Editor, navigate to the following location:  
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
@@ -146,8 +148,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  If you need to re-enable the policy, open the **Turn off Windows key hotkeys** policy and set it to **Not Configured**. Click **Apply** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Taking Control of Your Windows Key
 
  On gaming keyboards, you can flip a switch or use a Fn key combination to turn the Windows key on or off. If no such key exists, check your keyboard's customization software settings to configure the Windows key.
@@ -158,11 +161,27 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  Here's a step-by-step guide on how to turn the Windows key on and off in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-efficacy-of-social-media-authenticity-validation/"><u>[Updated] 2024 Approved The Efficacy of Social Media Authenticity Validation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[Updated] In 2024, In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-proven-methods-for-sensational-instagram-puzzle-creation/"><u>[Updated] In 2024, Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-address-error-0x800700e1-issues-on-windows-11-pcs/"><u>Essential Steps to Address Error 0X800700E1 Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-plus-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Plus screen lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-change-new-directions-for-winadmin-access-control/"><u>Initiating Change: New Directions for WinAdmin Access Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-win-11-gaming-landscape-with-these-fps-counters/"><u>Mastering the Win 11 Gaming Landscape with These FPS Counters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/optimal-gpu-choices-4k-editing-and-rendering/"><u>Optimal GPU Choices 4K Editing & Rendering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-not-responding-problem-for-spotify-software/"><u>Resolving the Not Responding Problem for Spotify Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-downloader-download-twitter-videos-to-iphone/"><u>Twitter Video Downloader Download Twitter Videos to iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-problematic-java-setup-on-windows-pcs/"><u>Unblocking Problematic Java Setup on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-overcoming-windows-run-time-errors/"><u>Unraveling the Mystery: Overcoming Windows 'Run-Time Errors'</u></a></li>
+</ul></div>
+

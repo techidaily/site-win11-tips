@@ -1,7 +1,7 @@
 ---
 title: The Win11 Guide to Crafting Extractable SFXs
-date: 2024-08-08T11:08:23.527Z
-updated: 2024-08-09T11:08:23.527Z
+date: 2025-01-09T20:40:34.241Z
+updated: 2025-01-13T00:43:22.796Z
 tags:
   - windows10
   - windows11
@@ -30,21 +30,16 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 2. Type**IExpress** within the search box.
 3. Right-click the**IExpress** search result and open that wizard with elevated permissions by selecting**Run as administrator** .
 4. Click the**Create new Self Extraction Directive** **file** radio button.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-self-extracting-option.jpg)
 5. Select the**Extract files only** option and**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extract files only option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-files-only.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Enter the title**SFX archive** for the package title and click**Next** .
 2. A confirmation prompt for extracting is an optional extra, but it’s a good idea to add one. To do so, select "Prompt user with" and input a confirmation message like "Do you wish to extract archive?"  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
 3. Click**Next** and select the**Do not display license** radio button.
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
@@ -58,18 +53,10 @@ Now we can get started using IExpress Wizard:
 2. Input**SFX archive** in the**File name** box to match the one entered at step six and click**Save** .  
 ![The Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/save-as-window.jpg)
 3. Press**Next** to reach the options for saving a SED. Click the**Don’t Save** option there.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-self-extracting-archive-option.jpg)
 4. Click**Next** twice more to create the archive.
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Testing the SFX Archive Made With IExpress
 
  Now try extracting the files from your new self-extracting archive. Open the folder you selected to save the archive in. Then double-click the SFX archive.exe archive package.
@@ -78,11 +65,16 @@ The powerful video editing program for your Windows PC</a>
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up an SFX Archive With 7-ZIP
 
  7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
@@ -94,6 +86,11 @@ The powerful video editing program for your Windows PC</a>
 5. Click the**Add** button.  
 ![The Add button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-file-manager-window.jpg)
 6. Select the**Create SFX archive** checkbox.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
 8. Choose a folder to save the SFX archive in and click**Open** .
@@ -110,12 +107,13 @@ Testing the SFX File With 7-ZIP
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -129,8 +127,6 @@ Testing the SFX File With 7-ZIP
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +134,22 @@ Testing the SFX File With 7-ZIP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-optimizing-your-podcasts-the-seo-blueprint/"><u>[New] Optimizing Your Podcasts The SEO Blueprint</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-decoding-youtubes-top-mp3-conversion-apps/"><u>[Updated] Decoding YouTube's Top MP3 Conversion Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-presentations-with-a-personal-touch-adding-audio/"><u>[Updated] Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx939-dll-in-win11/"><u>Addressing Missing D3DX9_39 DLL in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-the-clampdown-on-big-tech-understanding-us-antitrust-measures/"><u>Assessing the Clampdown on Big Tech: Understanding U.S. Antitrust Measures</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-performance-assessment-third-gen-apple-tv-4k-for-enthusiasts-and-casual-viewers/"><u>Detailed Performance Assessment: Third-Gen Apple TV 4K for Enthusiasts and Casual Viewers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/hot-yt-videos-best-music-dance-and-responses-23/"><u>Hot YT Videos Best Music Dance & Responses '23</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-process-of-immediate-safe-mode-start-up-on-your-windows-pc/"><u>Master the Process of Immediate Safe Mode Start-Up on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-automation-for-batch-files/"><u>Mastering Windows Automation for Batch Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-browser-heft-comparing-best-options-for-low-ram-usage/"><u>Minimizing Browser Heft: Comparing Best Options for Low RAM Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-digital-management-with-windows-automatic-file-disposal/"><u>Simplify Digital Management with Windows' Automatic File Disposal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-with-apple-maps-from-a-pc/"><u>Steering with Apple Maps From a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-top-5-windows-speed-solutions/"><u>Supercharge Your PC: Top 5 Windows Speed Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ram-a-quick-guide-for-efficient-identification/"><u>Windows RAM: A Quick Guide for Efficient Identification</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding & Correcting Defender's Error Code: 0X80004004"
-date: 2024-12-30T11:35:00.591Z
-updated: 2025-01-05T23:07:42.887Z
+date: 2025-01-05T18:37:30.921Z
+updated: 2025-01-13T01:28:51.016Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -62,13 +58,17 @@ Here is how you can do that:
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -81,7 +81,7 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
@@ -89,7 +89,7 @@ Here is how you can do that:
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run the Windows Update Troubleshooter
@@ -105,7 +105,7 @@ Here is how you can do that:
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
@@ -133,18 +133,18 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-and-ios-leaders-in-asmr-content/"><u>[New] 2024 Approved Android & iOS Leaders in ASMR Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-enhancing-visual-stability-avoiding-dropouts-in-obs/"><u>[New] Enhancing Visual Stability Avoiding Dropouts in OBS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-digital-delights-the-finest-15-comedic-channels-on-youtube-for-2024/"><u>[Updated] Digital Delights The Finest 15 Comedic Channels on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-video-quality-on-youtube-the-essential-webcams-guide/"><u>[Updated] In 2024, Boost Video Quality on YouTube - The Essential Webcams Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>[Updated] In 2024, Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-and-effective-method-for-avi-to-gif-with-help-from-filmora-for-2024/"><u>Easy and Effective Method for AVI-to-GIF with Help From Filmora for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-recycle-bin-corrupted-error-on-windows-11-and-11/"><u>How to Fix a Recycle Bin Corrupted Error on Windows 11 & 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-speedy-tips-for-unearthing-lost-reddit-memes/"><u>In 2024, Speedy Tips for Unearthing Lost Reddit Memes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-steams-dns-cache/"><u>Mastering the Art of Clearing Steam's DNS Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-reactivating-windows-11s-diagnostic-features/"><u>Quick Fixes: Reactivating Windows 11'S Diagnostic Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-lost-control-panel-features-on-windows-11/"><u>Reclaim Lost Control Panel Features on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-0x80004005-failure-message/"><u>Resolving Virtualbox's 0X80004005 Failure Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-hello-5-ways-to-tackle-fingerprint-problems/"><u>Unlock Windows Hello: 5 Ways to Tackle Fingerprint Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-and-save-with-ease-top-5-pc-snipers-reviewed-for-2024/"><u>[New] Capture & Save with Ease Top 5 PC Snipers Reviewed for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-tips-solve-obss-blackout-during-live-captures/"><u>[New] In 2024, Quick Tips Solve OBS's Blackout During Live Captures</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-leading-5-music-downloader-websites-a-comprehensive-guide/"><u>Discover the Leading 5 Music Downloader Websites: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-intel-usb-30-device-on-windows-10-driver-download-instructions/"><u>How to Update Your Intel USB 3.0 Device on Windows 10: Driver Download Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-upcoming-samsung-galaxy-z-fold-7-release-timeline-price-speculations-and-tech-insights/"><u>Inside Look at the Upcoming Samsung Galaxy Z Fold 7 - Release Timeline, Price Speculations, and Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-eliminating-interrupt-error-on-windows-1011/"><u>Methods for Eliminating INTERRUPT Error on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/samsung-ssds-duplikation-auf-eine-neue-solid-state-festplatte-mit-windows-eine-anleitung-zu-zwei-verschiedenen-ansatzen/"><u>Samsung SSDs Duplikation Auf Eine Neue Solid-State-Festplatte Mit Windows – Eine Anleitung Zu Zwei Verschiedenen Ansätzen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seize-savings-unveil-windows-11-pro-key-deals/"><u>Seize Savings: Unveil Windows 11 Pro Key Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-innovative-iphone-16-pro-attributes-exciting-tech-aficionados-insights-from-zdnet/"><u>Top 5 Innovative iPhone 16 Pro Attributes Exciting Tech Aficionados: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/under-100-marvel-the-tp-link-archer-a9-router-explored-in-this-complete-evaluation/"><u>Under $100 Marvel: The TP-Link Archer A9 Router Explored in This Complete Evaluation</u></a></li>
 </ul></div>
 

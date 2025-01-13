@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Deciphering Windows 11 Error Messages
-date: 2025-01-05T09:22:40.044Z
-updated: 2025-01-05T16:40:25.078Z
+date: 2025-01-05T21:31:17.574Z
+updated: 2025-01-13T00:25:48.119Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Downloading and Renaming the Tool
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 ![Renaming Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/renaming-microsoft-error-lookup-tool.jpg)
 6. Then, click on the**Rename** option from the context menu. Type**Err** and press the enter key to rename the tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Placing the Tool in a Convenient Location
 
  You can only run the Microsoft Error Lookup Tool from the command line. If you place it in a deeply nested path like a folder inside a directory, you will have to navigate to that directory from the command line every time. So, you must move the tool to an accessible location first.
@@ -66,14 +62,14 @@ Here’s how to do it:
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
@@ -85,10 +81,14 @@ Here’s how to do it:
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Export the Output of Microsoft Error Code Tool
 
@@ -105,11 +105,11 @@ Repeat the following steps:
 
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
@@ -136,19 +136,20 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-xsplits-equals/"><u>[New] The Ultimate List of Xsplit's Equals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-steps-for-iptv-video-recording-for-2024/"><u>[Updated] Essential Steps for IPTV Video Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-final-chapter-of-your-youtube-content-creation/"><u>[Updated] In 2024, The Final Chapter of Your YouTube Content Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ephemeral-approach-to-suspending-windows-11-protection-systems/"><u>Ephemeral Approach to Suspending Windows 11 Protection Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-s23-tactical-edition-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy S23 Tactical Edition Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-avi-video-rotation-tools-updated-for-2024/"><u>New Top-Rated Free AVI Video Rotation Tools Updated for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-screens-on-windows-7-platform/"><u>Stabilizing Screens on Windows 7 Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-directv-using-any-device/"><u>Step-by-Step Guide: Recording Your Favorite Shows From DirecTV Using Any Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmask-the-hidden-storage-issues-in-windows/"><u>Unmask the Hidden Storage Issues in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-an-in-depth-look-at-whos-listening-in-your-virtual-conversations-discovering-the-dead-internet-phenomenon/"><u>Unveiling the Truth: An In-Depth Look at Who's Listening in Your Virtual Conversations - Discovering the 'Dead Internet' Phenomenon</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-hands-on-tactics-for-recording-and-storing-google-voice-talks-for-2024/"><u>[New] Hands-On Tactics for Recording and Storing Google Voice Talks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files-for-2024/"><u>[Updated] Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shaping-letters-in-visual-content-for-2024/"><u>[Updated] Shaping Letters in Visual Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-control-over-systems-performance-bounds/"><u>Commanding Control over System's Performance Bounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defaults-defined-user-permission-reset-guide-for-win11/"><u>Defaults Defined: User Permission Reset Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-test-active-tcp-ports-on-windows/"><u>Efficient Methods to Test Active TCP Ports on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-workflow-add-software-menus-to-windows-desktop/"><u>Enhance Workflow: Add Software Menus to Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-flawless-windows-11-anydesk-performance/"><u>Ensuring Flawless Windows 11 AnyDesk Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-55-4k-ru7300-smart-tv-hold-up-a-comprehensive-analysis/"><u>How Does the Samsung 55'' 4K RU7300 Smart TV Hold Up: A Comprehensive Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-11f-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 11F 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-lenovo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Lenovo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-integrating-dolby-atmos-audio/"><u>Mastering Windows 11: Integrating Dolby Atmos Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/securisation-et-simplification-supprimer-de-lespace-disque-sur-windows-1011-methodes-a-faible-risque/"><u>Sécurisation Et Simplification : Supprimer De L’Espace Disque Sur Windows 10/11 - Méthodes À Faible Risque</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-quick-filming-diy-hacks-to-try-at-home-for-2024/"><u>Top 5 Quick Filming DIY Hacks to Try at Home for 2024</u></a></li>
 </ul></div>
 

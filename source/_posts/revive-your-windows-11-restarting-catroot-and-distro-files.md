@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2025-01-04T16:18:47.559Z
-updated: 2025-01-06T01:44:31.791Z
+date: 2025-01-06T16:40:36.531Z
+updated: 2025-01-12T17:23:14.248Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
  The SoftwareDistribution folder is a directory that stores files required for installing Windows updates on PCs. It is a temporary repository of the update files. Thus, the SoftwareDistribution folder is an important component for updating Windows.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Both folders contain files needed for the installation of Windows updates. Windows update installation issues can occur because of corrupted data in those folders. Those errors typically appear in Settings with variable codes like 0x800f0922 when users manually select to check for and install updates.
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
@@ -60,17 +60,13 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start bits  
@@ -91,17 +87,22 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
 
@@ -123,7 +124,7 @@ net start msiserver`
 10. Click the **Reset catroo2 Folder** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
@@ -144,18 +145,14 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>[New] From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-complete-how-to-for-mac-obs-plus-streamlabs-integration-for-2024/"><u>[New] The Complete How-To for Mac OBS + Streamlabs Integration for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-troubleshooting-your-video-shorts-invisible-thumbnail/"><u>2024 Approved Troubleshooting Your Video Short's Invisible Thumbnail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciph-written-as-a-dialogue-between-two-characters-user-and-assistant-in-an-online-forum-setting-discussing-the-topic-of-what-is-aggregatorhostexe-on-windo37/"><u>Deciph Written as a Dialogue Between Two Characters (User and Assistant) in an Online Forum Setting Discussing the Topic of What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-record-the-screen-of-the-iphone-7/"><u>How to Record the Screen Of The iPhone 7</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ideal-picks-9-best-video-calling-apps-for-androidios-business-needs/"><u>Ideal Picks 9 Best Video Calling Apps for Android/iOS Business Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-reinstalling-microsofts-mspm/"><u>Master the Art: Reinstalling Microsoft's MSPM</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ating-vlogging-nuances-with-confidence-and-clarity/"><u>Navigating Vlogging Nuances with Confidence and Clarity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-x80072f30-in-windows/"><u>Resolving Microsoft Store Error X80072F30 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-personalized-window-pin-creation/"><u>The Ultimate Guide to Personalized Window PIN Creation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-rechargeable-power-packs-a-look-at-the-leading-options-techradar/"><u>Top-Rated Rechargeable Power Packs: A Look at the Leading Options - TechRadar</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-regulations-on-capturing-youtube-playbacks/"><u>[New] 2024 Approved Regulations on Capturing YouTube Playbacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-lava-blaze-2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Lava Blaze 2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/androidmp4/"><u>AndroidスマートフォンにおけるMP4動画の正しい再生方法</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/diagnosing-audiovideo-card-issues-a-step-by-step-guide-yl-technologies/"><u>Diagnosing Audio/Video Card Issues: A Step-by-Step Guide - YL Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-ios-18-unpack-the-release-moment-zero-expense-feature-rich-experience-and-newest-developments/"><u>Get Ready for iOS 18: Unpack the Release Moment, Zero Expense, Feature-Rich Experience & Newest Developments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-media-players-server-execution-failed-error/"><u>How to Fix Windows Media Player’s “Server Execution Failed” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-glitch-how-to-overcome-server-slips-in-ms-store/"><u>Mending the Glitch: How to Overcome Server Slips in MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-erase-microsoft-edge-w11/"><u>Step-by-Step: Erase Microsoft Edge W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategizing-diskspace-management-with-disc-usage-insights-in-windows/"><u>Strategizing DiskSpace Management with Disc Usage Insights in Windows</u></a></li>
 </ul></div>
 

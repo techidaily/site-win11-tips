@@ -1,7 +1,7 @@
 ---
 title: "Syncing Wireless and Cable on Windows: A Step-by-Step Tutorial"
-date: 2025-01-02T02:53:14.826Z
-updated: 2025-01-05T23:46:42.965Z
+date: 2025-01-05T18:22:30.939Z
+updated: 2025-01-13T00:40:08.231Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
 
  Since Windows automatically prioritizes the network adapter to use only one adapter at a time, you'll need to disable the packet priority option in the network adapter's network configuration. Doing so will allow Windows to use multiple connections simultaneously.
@@ -45,11 +49,15 @@ To disable packet priority and VLAN on Windows:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 4. In the left pane, click on**Change adapter settings.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on your**Ethernet network adapter** and select**Properties** . Alternatively, double-click on the**Ethernet adapter** and then click on**Properties** .  
 ![ethernet properties configure networking control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ethernet-properties-configure-networking-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. In the**Networking** tab, click the**Configure** button.
@@ -59,10 +67,6 @@ To disable packet priority and VLAN on Windows:
 ![priority vlan disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/priority-vlan-disabled.jpg)
 5. Select**Priority and VLAN Disabled.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OK** to save the changes.
 7. Next, you need to repeat the steps for your Wi-Fi adapter. So, open Properties for your Wi-Fi adapter and set its**Priority and VLAN** value to**Priority & VLAN Disabled** .
 8. Click**OK** to save the changes.
@@ -70,7 +74,7 @@ To disable packet priority and VLAN on Windows:
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
@@ -84,23 +88,19 @@ To change network priority on Windows:
 ![ncpa cpl open control panel network and sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ncpa-cpl.jpg)
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
 ![tcp ip v4 properties control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tcp-ip-v4-properties-control-panel.jpg)
 5. Click the**Advanced** button in the**Properties** dialog.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Next, uncheck**Automatic metric** and type**5** in the**Interface metric** field.
 7. Click**OK** on all the open windows to save the changes.
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
 
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
 
@@ -123,14 +123,21 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>[New] Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-filters-in-a-nutshell-get-them-right-this-year/"><u>2024 Approved Instagram Filters in a Nutshell Get Them Right This Year</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-screen-radiance-on-windows-11-practical-fixes/"><u>Elevate Screen Radiance on Windows 11: Practical Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-ios-email-solutions-find-your-perfect-match/"><u>Essential iOS Email Solutions : Find Your Perfect Match</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-obscurity-to-star-in-3-simple-steps-for-2024/"><u>From Obscurity to Star in 3 Simple Steps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-automating-dns-client-service-configuration/"><u>Guide to Automating DNS Client Service Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-ms-defender-block-on-other-av-tools/"><u>How to Circumvent MS Defender Block on Other AV Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-xbox-game-pass-fatal-error-code-0-on-windows-11/"><u>Resolving Xbox Game Pass Fatal Error Code 0 on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655616-9781454943570-the-druid-path/"><u>The Druid Path | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-good-to-great-transformative-tactics-with-studio/"><u>[New] 2024 Approved From Good to Great Transformative Tactics with Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-podcast-editing-with-garageband-a-step-by-step-guide/"><u>[Updated] Mastering Podcast Editing with GarageBand A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-more-to-the-table-reimagining-windows-11s-widget-framework/"><u>Bringing More to the Table: Reimagining Windows 11'S Widget Framework</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-default-alter-clock-region-on-the-fly/"><u>Bypass Windows' Default: Alter Clock Region On-the-Fly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-0x8000fffd-for-a-smooth-print-run/"><u>Bypassing Error 0X8000FFFD for a Smooth Print Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-gloom-bringing-back-daylight-in-windows/"><u>Bypassing The Gloom: Bringing Back Daylight in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-not-found-window-error/"><u>Bypassing the Not Found Window Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-permission-issues-easily/"><u>Bypassing Windows Permission Issues Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/character-map-unlocked-in-windows-11-edition/"><u>Character Map Unlocked in Windows 11 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-sandbox-experiences-for-gamers-for-2024/"><u>Essential Sandbox Experiences for Gamers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-11f-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 11F 5G Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-papal-office-of-pope-francis-equipped-with-email-services/"><u>Is the Papal Office of Pope Francis Equipped with Email Services?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1818259-9781782797166-of-course/"><u>Of Course! | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-iphone-tips-effortless-video-length-and-size-control/"><u>Proven iPhone Tips Effortless Video Length & Size Control</u></a></li>
 </ul></div>
 

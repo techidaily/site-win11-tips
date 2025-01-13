@@ -1,7 +1,7 @@
 ---
 title: Enhance Keystroke Efficiency via TypingAid
-date: 2024-08-08T11:07:42.938Z
-updated: 2024-08-09T11:07:42.938Z
+date: 2025-01-06T22:30:57.176Z
+updated: 2025-01-12T16:54:09.919Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  Typing "Nebuchadnezzar" with TypingAid may only take four or five keystrokes - and, as a bonus, will be typo-free. Here's how you can use TypingAid as your typing assistant.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## What Is TypingAid for Windows?
 
  You can[use AutoHotkey to make app-specific hotkeys](https://www.makeuseof.com/autohotkey-app-specific-hotkeys/) that change what the same key combinations "do" depending on the active app. But it's also possible to tap its GUI functionality to, for example,[make your own quick note-taking app with AutoHotkey](https://www.makeuseof.com/windows-autohotkey-note-taking-app/) .
@@ -48,12 +44,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![TypingAid Exe and AHK Versions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-exe-and-ahk-versions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can empower TypingAid to offer suggestions from the get-go instead of waiting for it to populate its database from scratch with the words you're writing. For that, though, you'll need a wordlist.
 
@@ -68,29 +69,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 Then, run TypingAid.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Configure TypingAid
 
  TypingAid will be idle in the Windows tray after you run it and spring to life once you begin typing in any window. However, it's best to spend a few minutes setting it up to your preferences before you start using it. Right-click on its Windows tray icon and select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![TypingAid Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Let's see the essential settings worth tweaking in TypingAid.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![TypingAid Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-general.jpg)
 
 * If you turn**Learn new words as you type** to off, TypingAid will only offer suggestions that already exist in the loaded Wordlist. Leave the option turned on to have TypingAid learn new words that you type.
@@ -104,10 +105,6 @@ Let's see the essential settings worth tweaking in TypingAid.
 
  The options on the**Wordlist Box** page affect how TypingAid presents its suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
 
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
@@ -123,9 +120,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  There are separate fields for defining where TypingAid will be either enabled or disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
  It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
@@ -136,6 +130,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
 
 ## Putting TypingAid Into Action
@@ -144,14 +142,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Try entering some text in Notepad, Microsoft Word, your favorite browser, etc. After two or three characters (depending on how you've configured TypingAid), you'll see TypingAid's suggestions box pop up next to your cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![TypingAid Active in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-active-in-word.jpg)
 
  You can press one of the**Auto Complete Keys** (like Tab or Enter) to choose the pre-selected word and have it replace the characters you've typed, just like your smartphone's autocomplete.
 
  Or, if you're also using the**Number (Auto Complete) Keys** , press a number from the top row of your keyboard to directly select that word from TypingAid's suggestion list without having to click on it with your mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TypingAid: The Mind-Reading Typing Assistant for Windows
 
@@ -167,8 +166,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +173,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>[New] Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>[Updated] Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-screen-grabbing-tech-list-1-8-for-2024/"><u>[Updated] Master Screen Grabbing Tech List #1-8 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-or-sound-popping-in-windows-solved/"><u>Audio or Sound Popping in Windows [Solved]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-black-evolution-from-hero4-silver-for-2024/"><u>GoPro Hero5 Black Evolution From Hero4 Silver for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-steam-disk-write-error-on-windows/"><u>How to Fix the Steam Disk Write Error on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-ultimate-guide-to-best-video-chatting-solutions-pcphone/"><u>In 2024, Ultimate Guide to Best Video Chatting Solutions (PC/Phone)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/joke-jamboree-7-hilarious-plot-ideas-for-youtube-stars-for-2024/"><u>Joke Jamboree 7 Hilarious Plot Ideas for YouTube Stars for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-collectors-delight-exclusive-black-friday-price-drop-on-essential-windows-11/"><u>Key Collectors' Delight – Exclusive Black Friday Price Drop on Essential Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-network-issues-on-windows-11-a-comprehensible-approach/"><u>Overcoming Network Issues on Windows 11 - A Comprehensible Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-jump-to-notes-starting-windows-with-immediate-access/"><u>Quick Jump to Notes: Starting Windows with Immediate Access</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-xiaomi-redmi-a2-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Xiaomi Redmi A2 has been deleted.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-keybinds-for-snippet-copy-and-paste/"><u>Tailored Keybinds for Snippet Copy & Paste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktoks-voyage-to-twitter-success-stories/"><u>TikTok's Voyage to Twitter Success Stories</u></a></li>
+</ul></div>
 
